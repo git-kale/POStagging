@@ -4,6 +4,8 @@ import xml.etree.ElementTree as ET
 from multiprocessing import Pool
 from time import time
 
+
+
 def process_file(file_name):
     print("Processing "+file_name+"...")
     
@@ -30,7 +32,8 @@ def process_file(file_name):
     outfile.write(processed_string)
     outfile.close()
 
-DATA_DIR = './files/Train-corups/'
+PROJECT_DIR = os.path.dirname(os.path.dirname(__file__))
+DATA_DIR = PROJECT_DIR+'/files/Train-corups/'
 NUM_PROCESSES = 5
 all_filenames = natsorted(os.listdir(DATA_DIR))
 all_filenames = [file for file in all_filenames if '.xml' in file]

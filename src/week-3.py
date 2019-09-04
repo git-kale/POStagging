@@ -1,8 +1,11 @@
 import copy
+import os
+PROJECT_DIR = os.path.dirname(os.path.dirname(__file__))
+
 def sec(val):
 	return int(val[1])
 
-l = [line.rstrip('\n') for line in open("./files/outfreq.txt",'r')]
+l = [line.rstrip('\n') for line in open(PROJECT_DIR+"/generated_files/outfreq.txt",'r')]
 	
 for i in range(0,len(l)):
 	l[i] = l[i].rsplit(":", 1)
@@ -27,9 +30,9 @@ for word in r:
 	tagfreq[word[0]] += word[1]
 
 
-with open("./files/top10_words.txt", 'w') as f:
+with open(PROJECT_DIR+"/generated_files/top10_words.txt", 'w') as f:
 	for i in range(10):
 		f.write("{}: {}\n".format(l[i][0], l[i][1]))
 
-fo = open("./files/tagfreq.txt","w")
+fo = open(PROJECT_DIR+"/generated_files/tagfreq.txt","w")
 fo.write(str(tagfreq).replace(", ","\n")[1:-1])
