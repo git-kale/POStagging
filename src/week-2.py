@@ -3,13 +3,13 @@ PROJECT_DIR = path.dirname(path.dirname(__file__))
 
 fo = open(PROJECT_DIR+"/generated_files/outfreq.txt","w")
 f = []
-for (dirpath, dirnames, filenames) in walk(PROJECT_DIR+"/files/Train-corups/processed_files/"):
+for (dirpath, dirnames, filenames) in walk(PROJECT_DIR+"/files/processed_files/"):
     f.extend(filenames)
     break
 
 data = []
 for file_name in f:
-    with open(PROJECT_DIR+"/files/Train-corups/processed_files/"+file_name, 'r') as file:
+    with open(PROJECT_DIR+"/files/processed_files/"+file_name, 'r') as file:
         data += file.read().split("\n")
 
 wordfreq = {}

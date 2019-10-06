@@ -1,8 +1,10 @@
+from __future__ import unicode_literals
 import os
 from natsort import natsorted
 import xml.etree.ElementTree as ET
 from multiprocessing import Pool
 from time import time
+
 
 
 
@@ -28,14 +30,16 @@ def process_file(file_name):
         processed_string += word.strip()+'_'+pos_tag+'\n'
     
     #writing the processed string to txt file
-    outfile = open(DATA_DIR+'processed_files/'+file_name[:-4]+'.txt','w+')
-    outfile.write(processed_string)
+    outfile = open(PROCESS_DIR+file_name[0:3]+'.txt','w+')
+    outfile.write(processed_string.encode('utf-8'))
     outfile.close()
 
-PROJECT_DIR = os.path.dirname(os.path.dirname(__file__))
-DATA_DIR = PROJECT_DIR+'/files/Train-corups/'
+PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_DIR = PROJECT_DIR+'/files/xmldata/'
+PROCESS_DIR = PROJECT_DIR+'/files/processed_files/'
 NUM_PROCESSES = 5
 all_filenames = natsorted(os.listdir(DATA_DIR))
+
 all_filenames = [file for file in all_filenames if '.xml' in file]
 
 start = time()
