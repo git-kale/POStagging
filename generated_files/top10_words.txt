@@ -1,0 +1,10 @@
+'the_ART': 212492
+'of_PREP': 119887
+'to_PREP': 97297
+'and_CONJ': 97069
+'a_ART': 80398
+'in_PREP': 64628
+'was_VERB': 38017
+'is_VERB': 36731
+'for_PREP': 28771
+'that_CONJ': 27996

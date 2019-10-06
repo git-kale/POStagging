@@ -1,9 +1,9 @@
-from os import walk,path
-PROJECT_DIR = path.dirname(path.dirname(__file__))
+import os
+PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 fo = open(PROJECT_DIR+"/generated_files/outfreq.txt","w")
 f = []
-for (dirpath, dirnames, filenames) in walk(PROJECT_DIR+"/files/processed_files/"):
+for (dirpath, dirnames, filenames) in os.walk(PROJECT_DIR+"/files/processed_files/"):
     f.extend(filenames)
     break
 

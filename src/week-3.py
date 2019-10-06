@@ -1,6 +1,6 @@
 import copy
 import os
-PROJECT_DIR = os.path.dirname(os.path.dirname(__file__))
+PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def sec(val):
 	return int(val[1])
