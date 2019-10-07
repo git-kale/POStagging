@@ -1,12 +1,8 @@
-from __future__ import unicode_literals
 import os
 from natsort import natsorted
 import xml.etree.ElementTree as ET
 from multiprocessing import Pool
 from time import time
-
-
-
 
 def process_file(file_name):
     print("Processing "+file_name+"...")
