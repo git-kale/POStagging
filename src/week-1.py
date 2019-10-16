@@ -5,7 +5,7 @@ from multiprocessing import Pool
 from time import time
 
 def process_file(file_name):
-    
+    print(file_name)
     #opening the xml file
     tree = ET.parse(DATA_DIR+file_name)
     
@@ -21,7 +21,7 @@ def process_file(file_name):
     #iterating over found word tags
     for item in strings:
         word = item.text
-        pos_tag = item.attrib['pos']
+        pos_tag = item.attrib['c5']
         processed_string += word.strip()+'_'+pos_tag+'\n'
     
     #writing the processed string to txt file

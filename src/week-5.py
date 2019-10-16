@@ -52,7 +52,7 @@ def process_file(file_name):
     for item in strings:
         word = item.text
         word = str(bytes(word,'utf-8'))[2:-1]
-        pos_tag = item.attrib['pos']
+        pos_tag = item.attrib['c5']
         gussed_tag = wordtag[(word.strip())]
         if(pos_tag==gussed_tag):
             correct += 1

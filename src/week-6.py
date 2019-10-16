@@ -1,18 +1,3 @@
-tags = {"ADV":0,
-"ART":1,
-"UNC":2,
-"PRON":3,
-"SUBST":4,
-"VERB":5,
-"INTERJ":6,
-"CONJ":7,
-"ADJ":8,
-"PREP":9,
-"":10
-}
-
-N = 11
-confusion_matrix = [ [ 0 for i in range(N) ] for j in range(N) ]
 
 
 
@@ -24,8 +9,21 @@ from time import time
 
 PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+tags = {}
 
+i = 0
+N = 89
+confusion_matrix = [ [ 0 for i in range(N) ] for j in range(N) ]
+ll = [line.rstrip('\n') for line in open(PROJECT_DIR+"/generated_files/tagfreq.txt",'r+' ,encoding='utf-8')]
+for line in ll:
+    line = line.rsplit(":",1)
+    tags[str(line[0])[1:-1]] = str(i)
+    i+=1
+
+
+i = 0
 l = [line.rstrip('\n') for line in open(PROJECT_DIR+"/generated_files/outfreq.txt",'r+' ,encoding='utf-8')]
+
 
 correct = 0
 incorrect = 0
@@ -69,14 +67,14 @@ def process_file(file_name):
     for item in strings:
         word = item.text
         word = str(bytes(word,'utf-8'))[2:-1]
-        pos_tag = item.attrib['pos']
+        pos_tag = item.attrib['c5']
         gussed_tag = wordtag[(word.strip())]
-        confusion_matrix[tags[pos_tag]][tags[gussed_tag]] += 1
+        confusion_matrix[int(tags[pos_tag])][int(tags[gussed_tag])] += 1
     
     
 
 DATA_DIR = PROJECT_DIR+'/files/testdata/'
-
+PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NUM_PROCESSES = 1
 all_filenames = natsorted(os.listdir(DATA_DIR))
 
@@ -90,12 +88,13 @@ for fi in all_filenames:
     process_file(fi)
 time_taken = time() - start
 
-for i in range(0,10):
+for i in range(0,N):
     sum = 0
-    for j in range(0,11):
+    for j in range(0,N):
         sum = sum+confusion_matrix[i][j]
-    for j in range(0,11):
-        confusion_matrix[i][j] = confusion_matrix[i][j]/sum
+    if(sum!=0):
+        for j in range(0,N):
+            confusion_matrix[i][j] = confusion_matrix[i][j]/sum
 
 print(confusion_matrix)
 
