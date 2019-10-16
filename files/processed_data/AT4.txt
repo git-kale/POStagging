@@ -2916,7 +2916,7 @@ the_ART
 Parents_SUBST
 Association_SUBST
 I_PRON
-trust_VERB
+trust_SUBST
 that_CONJ
 you_PRON
 too_ADV
@@ -5995,7 +5995,7 @@ n't_ADV
 let_VERB
 you_PRON
 down_ADV
-trust_VERB
+trust_SUBST
 Knacker_SUBST
 Bean_SUBST
 I_PRON
@@ -6005,7 +6005,7 @@ your_PRON
 headmaster_SUBST
 You_PRON
 can_VERB
-trust_VERB
+trust_SUBST
 me_PRON
 mate_SUBST
 I_PRON
@@ -14769,7 +14769,7 @@ Like_PREP
 an_ART
 Old_ADJ
 English_ADJ
-sheep-dog_ADJ
+sheep-dog_SUBST
 Hoomey_SUBST
 thought_VERB
 save_VERB
@@ -15525,7 +15525,7 @@ lungs_SUBST
 collapsing_VERB
 his_PRON
 pulses_SUBST
-thundering_VERB
+thundering_ADJ
 his_PRON
 heart_SUBST
 failing_VERB
@@ -16338,7 +16338,7 @@ tops_SUBST
 making_VERB
 funny_ADJ
 little_ADJ
-whickering_SUBST
+whickering_ADJ
 noises_SUBST
 for_PREP
 food_SUBST
@@ -20463,7 +20463,7 @@ anything_PRON
 remotely_ADV
 edible_ADJ
 was_VERB
-enchanted_ADJ
+enchanted_VERB
 with_PREP
 Parky_SUBST
 's_UNC
@@ -20800,7 +20800,7 @@ know_VERB
 some_ADJ
 you_PRON
 can_VERB
-trust_VERB
+trust_SUBST
 your_PRON
 children_SUBST
 with_PREP
@@ -23714,7 +23714,7 @@ end_SUBST
 set_VERB
 up_ADV
 their_PRON
-whickering_SUBST
+whickering_ADJ
 and_CONJ
 pawing_VERB
 at_PREP
@@ -28703,7 +28703,7 @@ Bean_SUBST
 paid_VERB
 for_PREP
 the_ART
-shoeing_VERB
+shoeing_SUBST
 I_PRON
 want_VERB
 my_PRON
@@ -35373,7 +35373,7 @@ she_PRON
 's_UNC
 a_ART
 real_ADJ
-leathery_SUBST
+leathery_ADJ
 Jane_SUBST
 Have_VERB
 n't_ADV
@@ -35944,7 +35944,7 @@ I_PRON
 find_VERB
 I_PRON
 can_VERB
-trust_VERB
+trust_SUBST
 you_PRON
 to_PREP
 be_VERB
@@ -43948,7 +43948,7 @@ a_ART
 clown_SUBST
 in_PREP
 a_ART
-gathering_SUBST
+gathering_VERB
 of_PREP
 clerics_SUBST
 The_ART

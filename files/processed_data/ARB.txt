@@ -12327,7 +12327,7 @@ the_ART
 soukoyant_SUBST
 flapping_VERB
 her_PRON
-leathery_SUBST
+leathery_ADJ
 wings_SUBST
 rattling_VERB
 at_PREP
@@ -15530,7 +15530,7 @@ their_PRON
 coffee_SUBST
 spiced_VERB
 with_PREP
-cardamom_SUBST
+cardamom_VERB
 is_VERB
 delicious_ADJ
 And_CONJ
@@ -15686,7 +15686,7 @@ You_PRON
 simply_ADV
 ca_VERB
 n't_ADV
-trust_VERB
+trust_SUBST
 the_ART
 workmen_SUBST
 any_ADJ
@@ -16930,7 +16930,7 @@ afloat_ADJ
 in_PREP
 an_ART
 oil_SUBST
-slick_SUBST
+slick_ADJ
 has_VERB
 acquired_VERB
 an_ART
@@ -18340,7 +18340,7 @@ said_VERB
 one_ADJ
 should_VERB
 never_ADV
-trust_VERB
+trust_SUBST
 the_ART
 Moors_SUBST
 It_PRON
@@ -19073,7 +19073,7 @@ Japanese_ADJ
 do_VERB
 n't_ADV
 really_ADV
-trust_VERB
+trust_SUBST
 calculators_SUBST
 The_ART
 same_ADJ
@@ -26445,7 +26445,7 @@ joint_ADJ
 smoke_SUBST
 it_PRON
 produce_VERB
-juggling_VERB
+juggling_ADJ
 equipment_SUBST
 and_CONJ
 give_VERB
@@ -28963,7 +28963,7 @@ understood_VERB
 and_CONJ
 rather_ADV
 violent_ADJ
-stabs_VERB
+stabs_SUBST
 into_PREP
 the_ART
 air_SUBST
@@ -31753,7 +31753,7 @@ a_ART
 bridal_ADJ
 party_SUBST
 bearing_VERB
-skates_SUBST
+skates_VERB
 of_PREP
 bone_SUBST
 and_CONJ
@@ -32131,7 +32131,7 @@ world_SUBST
 inhabited_VERB
 by_PREP
 the_ART
-Spassky_ADJ
+Spassky_SUBST
 Tower_SUBST
 and_CONJ
 an_ART
@@ -34270,7 +34270,7 @@ Tibetans_SUBST
 relatives_SUBST
 of_PREP
 the_ART
-deceased_ADJ
+deceased_SUBST
 sit_VERB
 by_PREP
 the_ART
@@ -35199,7 +35199,7 @@ the_ART
 sky_SUBST
 bearing_VERB
 the_ART
-deceased_ADJ
+deceased_SUBST
 with_PREP
 them_PRON
 upwards_ADV
@@ -35242,7 +35242,7 @@ is_VERB
 no_ART
 sign_SUBST
 of_PREP
-mourning_VERB
+mourning_SUBST
 no_ART
 tears_SUBST
 no_ART

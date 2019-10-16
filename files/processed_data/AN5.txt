@@ -16462,7 +16462,7 @@ school_SUBST
 head_SUBST
 decides_VERB
 to_PREP
-disapply_ADV
+disapply_ADJ
 or_CONJ
 modify_VERB
 the_ART
@@ -20252,7 +20252,7 @@ years_SUBST
 away_ADV
 from_PREP
 a_ART
-consensus-based_ADJ
+consensus-based_SUBST
 approach_SUBST
 to_PREP
 education_SUBST
@@ -25095,7 +25095,7 @@ the_ART
 requirements_SUBST
 of_PREP
 the_ART
-trust_VERB
+trust_SUBST
 deed_SUBST
 or_CONJ
 the_ART
@@ -35826,7 +35826,7 @@ more_ADV
 of_PREP
 their_PRON
 number_SUBST
-excluding_VERB
+excluding_PREP
 the_ART
 head_SUBST
 teacher_SUBST
@@ -35915,7 +35915,7 @@ against_PREP
 a_ART
 pupil_SUBST
 by_PREP
-excluding_VERB
+excluding_PREP
 him_PRON
 from_PREP
 the_ART

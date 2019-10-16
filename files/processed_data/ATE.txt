@@ -726,7 +726,7 @@ down_ADV
 on_PREP
 the_ART
 Latin_ADJ
-mumbo-jumbo_SUBST
+mumbo-jumbo_ADJ
 with_PREP
 Presbyterian_ADJ
 disapproval_SUBST
@@ -2247,7 +2247,7 @@ in_PREP
 faith_SUBST
 It_PRON
 's_UNC
-trust_VERB
+trust_SUBST
 in_PREP
 hope_VERB
 And_CONJ
@@ -6771,7 +6771,7 @@ downstairs_ADV
 and_CONJ
 the_ART
 bed_SUBST
-creaks_VERB
+creaks_SUBST
 So_ADV
 Bobby_SUBST
 found_VERB
@@ -19732,7 +19732,7 @@ the_ART
 relatives_SUBST
 of_PREP
 the_ART
-deceased_ADJ
+deceased_SUBST
 with_PREP
 Carmella_SUBST
 appropriately_ADV
@@ -20097,7 +20097,7 @@ this_ADJ
 world_SUBST
 and_CONJ
 I_PRON
-trust_VERB
+trust_SUBST
 will_VERB
 be_VERB
 of_PREP
@@ -20976,7 +20976,7 @@ very_ADV
 thriving_ADJ
 bookmaking_SUBST
 and_CONJ
-betting_SUBST
+betting_VERB
 business_SUBST
 run_VERB
 from_PREP
@@ -26694,7 +26694,7 @@ The_ART
 Ramblers_SUBST
 a_ART
 famous_ADJ
-juggling_VERB
+juggling_ADJ
 act_VERB
 and_CONJ
 an_ART
@@ -26779,7 +26779,7 @@ was_VERB
 also_ADV
 on_PREP
 roller_SUBST
-skates_SUBST
+skates_VERB
 They_PRON
 were_VERB
 building_SUBST
@@ -32056,7 +32056,7 @@ and_CONJ
 my_PRON
 soul_SUBST
 soars_VERB
-enchanted_ADJ
+enchanted_VERB
 As_CONJ
 I_PRON
 hear_VERB
@@ -38400,7 +38400,7 @@ reported_VERB
 missing_VERB
 in_PREP
 a_ART
-bungled_ADJ
+bungled_VERB
 and_CONJ
 mismanaged_ADJ
 expedition_SUBST

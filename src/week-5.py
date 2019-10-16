@@ -35,7 +35,6 @@ for word in l:
 def process_file(file_name):
     global correct
     global incorrect
-    print("Processing "+file_name+"...")
     
     #opening the xml file
     tree = ET.parse(DATA_DIR+file_name)
@@ -81,6 +80,6 @@ start = time()
 for fi in all_filenames:
     process_file(fi)
 time_taken = time() - start
-print("DONE in "+str(time_taken)+" seconds")
 
-print("\nThe accuracy calculated is : "+str(100*correct/(correct+incorrect))+"%")
+
+print(str(100*correct/(correct+incorrect))+"%")

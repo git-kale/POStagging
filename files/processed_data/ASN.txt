@@ -14444,7 +14444,7 @@ Un_UNC
 bicchiere_UNC
 da_SUBST
 vino_UNC
-bianco_UNC
+bianco_SUBST
 Was_VERB
 it_PRON
 da_SUBST
@@ -14465,7 +14465,7 @@ Un_UNC
 bicchiere_UNC
 di_SUBST
 vino_UNC
-bianco_UNC
+bianco_SUBST
 Damn_INTERJ
 The_ART
 mistake_SUBST
@@ -15227,7 +15227,7 @@ of_PREP
 that_CONJ
 The_ART
 waiter_SUBST
-flustered_VERB
+flustered_ADJ
 arrived_VERB
 and_CONJ
 said_VERB
@@ -24537,7 +24537,7 @@ listen_VERB
 You_PRON
 do_VERB
 n't_ADV
-trust_VERB
+trust_SUBST
 me_PRON
 and_CONJ
 you_PRON
@@ -24547,7 +24547,7 @@ And_CONJ
 I_PRON
 do_VERB
 n't_ADV
-trust_VERB
+trust_SUBST
 you_PRON
 Unfortunately_ADV
 from_PREP
@@ -26894,7 +26894,7 @@ poured_VERB
 him_PRON
 a_ART
 whisky_SUBST
-Surprised_ADJ
+Surprised_VERB
 at_PREP
 this_ADJ
 as_CONJ

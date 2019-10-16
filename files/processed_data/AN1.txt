@@ -3620,7 +3620,7 @@ to_PREP
 potency_SUBST
 level_SUBST
 then_ADV
-serial_SUBST
+serial_ADJ
 dilution_SUBST
 would_VERB
 not_ADV
@@ -6001,7 +6001,7 @@ can_VERB
 individualize_VERB
 With_PREP
 the_ART
-dissolving_ADJ
+dissolving_VERB
 in_PREP
 liquid_SUBST
 and_CONJ
@@ -10330,7 +10330,7 @@ existing_ADJ
 copyright_SUBST
 and_CONJ
 we_PRON
-trust_VERB
+trust_SUBST
 that_CONJ
 our_PRON
 attempts_SUBST
@@ -14590,7 +14590,7 @@ the_ART
 dose_SUBST
 e.g._ADV
 two_ADJ
-squirts_VERB
+squirts_SUBST
 instead_ADV
 of_PREP
 one_ADJ
@@ -14687,7 +14687,7 @@ pharmacy_SUBST
 which_PRON
 you_PRON
 completely_ADV
-trust_VERB
+trust_SUBST
 as_CONJ
 having_VERB
 followed_VERB

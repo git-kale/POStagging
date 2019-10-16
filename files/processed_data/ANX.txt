@@ -2339,7 +2339,7 @@ horoscopes_SUBST
 26_ADJ
 January_SUBST
 I_PRON
-trust_VERB
+trust_SUBST
 that_CONJ
 this_ADJ
 is_VERB
@@ -44395,7 +44395,7 @@ theories_SUBST
 ignorant_ADJ
 superstitions_SUBST
 and_CONJ
-mumbo-jumbo_SUBST
+mumbo-jumbo_ADJ
 pseudoscience_SUBST
 that_CONJ
 so_ADV
@@ -47540,7 +47540,7 @@ on_PREP
 interest_SUBST
 rates_SUBST
 Secondary_ADJ
-picketing_VERB
+picketing_SUBST
 has_VERB
 been_VERB
 outlawed_VERB
@@ -48545,7 +48545,7 @@ link_SUBST
 The_ART
 much-publicised_ADJ
 government_SUBST
-bungle_SUBST
+bungle_VERB
 over_PREP
 state_SUBST
 pensions_SUBST
@@ -49218,7 +49218,7 @@ worth_PREP
 nearly_ADV
 \xc2\xa3400_UNC
 are_VERB
-gathering_SUBST
+gathering_VERB
 dust_SUBST
 in_PREP
 stockrooms_SUBST
@@ -50323,7 +50323,7 @@ restore_VERB
 it_PRON
 as_CONJ
 a_ART
-regenerating_VERB
+regenerating_ADJ
 wetland_SUBST
 of_PREP
 immense_ADJ
@@ -53314,14 +53314,14 @@ A_ART
 SIXTH_ADJ
 GENERATION_SUBST
 COMPUTER_SUBST
-IT_PRON
+IT_SUBST
 EVALUATES_VERB
 TACTICS_SUBST
 AND_CONJ
 STRATEGY_SUBST
 AND_CONJ
 POLITICS_SUBST
-IT_PRON
+IT_SUBST
 TAKES_VERB
 UP_ADV
 GARDENING_SUBST

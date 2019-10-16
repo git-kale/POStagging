@@ -490,7 +490,7 @@ cable_SUBST
 attachment_SUBST
 into_PREP
 the_ART
-serial_SUBST
+serial_ADJ
 port_SUBST
 of_PREP
 any_ADJ
@@ -1935,7 +1935,7 @@ the_ART
 fens_SUBST
 and_CONJ
 broads_SUBST
-romanticises_VERB
+romanticises_SUBST
 what_PRON
 was_VERB
 frequently_ADV

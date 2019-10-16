@@ -2576,7 +2576,7 @@ at_PREP
 last_ADJ
 reached_VERB
 the_ART
-Promised_ADJ
+Promised_VERB
 Land_SUBST
 about_PREP
 which_PRON
@@ -13418,7 +13418,7 @@ as_CONJ
 if_CONJ
 she_PRON
 was_VERB
-mourning_VERB
+mourning_SUBST
 a_ART
 husband_SUBST
 or_CONJ
@@ -22543,7 +22543,7 @@ their_PRON
 name_SUBST
 from_PREP
 a_ART
-fifth-century_ADJ
+fifth-century_SUBST
 Syrian_ADJ
 hermit_SUBST
 had_VERB
@@ -31637,7 +31637,7 @@ was_VERB
 run_VERB
 by_PREP
 the_ART
-zaim_SUBST
+zaim_UNC
 or_CONJ
 more_ADV
 accurately_ADV
@@ -32139,7 +32139,7 @@ elections_SUBST
 If_CONJ
 the_ART
 Muslim_ADJ
-zaim_SUBST
+zaim_UNC
 were_VERB
 less_ADV
 cruel_ADJ
@@ -34297,7 +34297,7 @@ reforms_SUBST
 that_CONJ
 might_VERB
 re-establish_VERB
-trust_VERB
+trust_SUBST
 between_PREP
 the_ART
 two_ADJ
@@ -35868,7 +35868,7 @@ decorated_VERB
 with_PREP
 the_ART
 American_ADJ
-bicentennial_ADJ
+bicentennial_SUBST
 logo_SUBST
 and_CONJ
 American_ADJ

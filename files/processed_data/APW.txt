@@ -2547,7 +2547,7 @@ enough_ADV
 for_PREP
 even_ADV
 his_PRON
-bellow_VERB
+bellow_SUBST
 to_PREP
 make_VERB
 itself_PRON
@@ -8107,7 +8107,7 @@ us_PRON
 He_PRON
 started_VERB
 to_PREP
-bellow_VERB
+bellow_SUBST
 with_PREP
 mirth_SUBST
 We_PRON
@@ -13163,7 +13163,7 @@ than_CONJ
 beheading_SUBST
 Hector_SUBST
 paused_VERB
-gathering_SUBST
+gathering_VERB
 his_PRON
 breath_SUBST
 trying_VERB
@@ -13847,7 +13847,7 @@ galley_SUBST
 guided_VERB
 through_PREP
 the_ART
-gathering_SUBST
+gathering_VERB
 dark_ADJ
 by_PREP
 the_ART
@@ -18908,7 +18908,7 @@ the_ART
 most_ADV
 important_ADJ
 clan_SUBST
-gathering_SUBST
+gathering_VERB
 greater_ADJ
 even_ADV
 than_CONJ
@@ -21606,7 +21606,7 @@ as_CONJ
 she_PRON
 apologised_VERB
 and_CONJ
-flustered_VERB
+flustered_ADJ
 out_ADV
 He_PRON
 waited_VERB
@@ -22654,7 +22654,7 @@ bracken_SUBST
 Luch_SUBST
 had_VERB
 been_VERB
-gathering_SUBST
+gathering_VERB
 from_PREP
 the_ART
 moor_SUBST
@@ -25080,7 +25080,7 @@ Cattanach_SUBST
 is_VERB
 away_ADV
 I_PRON
-trust_VERB
+trust_SUBST
 he_PRON
 will_VERB
 return_SUBST
@@ -30144,7 +30144,7 @@ The_ART
 ghillies_SUBST
 had_VERB
 been_VERB
-gathering_SUBST
+gathering_VERB
 the_ART
 herds_SUBST
 into_PREP
@@ -30974,7 +30974,7 @@ slender_ADJ
 vital_ADJ
 exciting_ADJ
 one_ADJ
-mousy_SUBST
+mousy_ADJ
 dumpy_ADJ
 childish_ADJ
 politically_ADV
@@ -35489,7 +35489,7 @@ Cattanach_SUBST
 The_ART
 shipmaster_SUBST
 's_UNC
-bellow_VERB
+bellow_SUBST
 and_CONJ
 a_ART
 wallop_SUBST
@@ -37456,7 +37456,7 @@ song_SUBST
 of_PREP
 praise_SUBST
 and_CONJ
-mourning_VERB
+mourning_SUBST
 that_CONJ
 would_VERB
 follow_VERB

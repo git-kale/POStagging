@@ -1402,7 +1402,7 @@ of_PREP
 any_ADJ
 loan_SUBST
 or_CONJ
-bankrupted_VERB
+bankrupted_ADJ
 debt_SUBST
 left_VERB
 with_PREP

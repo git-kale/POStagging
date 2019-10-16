@@ -1,6 +1,6 @@
 WHY_ADV
 SAVE_VERB
-IT_PRON
+IT_SUBST
 HAS_VERB
 BECOME_VERB
 one_ADJ
@@ -3491,7 +3491,7 @@ CAN_VERB
 DO_VERB
 WHY_ADV
 IS_VERB
-IT_PRON
+IT_SUBST
 that_CONJ
 conservation_SUBST
 areas_SUBST
@@ -6115,7 +6115,7 @@ that_CONJ
 stories_SUBST
 must_VERB
 be_VERB
-double-checked_ADJ
+double-checked_SUBST
 on_PREP
 every_ART
 point_SUBST
@@ -8239,7 +8239,7 @@ have_VERB
 prepared_VERB
 Establishing_VERB
 a_ART
-trust_VERB
+trust_SUBST
 Quite_ADV
 a_ART
 number_SUBST
@@ -8259,7 +8259,7 @@ up_ADV
 a_ART
 building_SUBST
 preservation_SUBST
-trust_VERB
+trust_SUBST
 acquired_VERB
 the_ART
 building_SUBST
@@ -8306,11 +8306,11 @@ is_VERB
 already_ADV
 a_ART
 local_ADJ
-trust_VERB
+trust_SUBST
 perhaps_ADV
 a_ART
 county_SUBST
-trust_VERB
+trust_SUBST
 in_PREP
 existence_SUBST
 Quite_ADV
@@ -10367,7 +10367,7 @@ preserved_VERB
 by_PREP
 such_ADJ
 a_ART
-trust_VERB
+trust_SUBST
 so_ADV
 is_VERB
 Leeds_SUBST
@@ -13185,7 +13185,7 @@ house_SUBST
 in_PREP
 a_ART
 charitable_ADJ
-trust_VERB
+trust_SUBST
 which_PRON
 would_VERB
 have_VERB
@@ -17514,7 +17514,7 @@ set_VERB
 up_ADV
 an_ART
 independent_ADJ
-trust_VERB
+trust_SUBST
 to_PREP
 repair_SUBST
 the_ART
@@ -17547,7 +17547,7 @@ in_PREP
 the_ART
 spring_SUBST
 The_ART
-trust_VERB
+trust_SUBST
 at_PREP
 this_ADJ
 stage_SUBST
@@ -18265,7 +18265,7 @@ are_VERB
 almost_ADV
 complete_ADJ
 the_ART
-trust_VERB
+trust_SUBST
 has_VERB
 been_VERB
 able_ADJ
@@ -20691,7 +20691,7 @@ rescued_VERB
 by_PREP
 a_ART
 preservation_SUBST
-trust_VERB
+trust_SUBST
 set_VERB
 up_ADV
 by_PREP
@@ -20746,7 +20746,7 @@ a_ART
 different_ADJ
 owner_SUBST
 A_ART
-trust_VERB
+trust_SUBST
 has_VERB
 now_ADV
 been_VERB
@@ -20960,7 +20960,7 @@ to_PREP
 sell_VERB
 A_ART
 local_ADJ
-trust_VERB
+trust_SUBST
 has_VERB
 now_ADV
 been_VERB
@@ -21417,7 +21417,7 @@ North_SUBST
 Yorkshire_SUBST
 A_ART
 local_ADJ
-trust_VERB
+trust_SUBST
 is_VERB
 now_ADV
 raising_VERB
@@ -24701,7 +24701,7 @@ the_ART
 local_ADJ
 county_SUBST
 churches_SUBST
-trust_VERB
+trust_SUBST
 if_CONJ
 one_ADJ
 exists_VERB
@@ -25411,7 +25411,7 @@ SOULS_SUBST
 HALIFAX_SUBST
 EVEN_ADV
 BEFORE_PREP
-IT_PRON
+IT_SUBST
 was_VERB
 declared_VERB
 redundant_ADJ
@@ -25687,7 +25687,7 @@ establish_VERB
 a_ART
 new_ADJ
 independent_ADJ
-trust_VERB
+trust_SUBST
 to_PREP
 take_VERB
 on_PREP
@@ -26279,7 +26279,7 @@ a_ART
 one-off_ADJ
 building_SUBST
 preservation_SUBST
-trust_VERB
+trust_SUBST
 can_VERB
 be_VERB
 the_ART
@@ -26330,7 +26330,7 @@ By_PREP
 setting_VERB
 up_ADV
 a_ART
-trust_VERB
+trust_SUBST
 for_PREP
 All_ADJ
 Souls_SUBST
@@ -31828,7 +31828,7 @@ of_PREP
 1986_ADJ
 requesting_VERB
 the_ART
-spotlisting_VERB
+spotlisting_SUBST
 of_PREP
 Bracken_SUBST
 House_SUBST
@@ -33080,7 +33080,7 @@ designed_VERB
 inner_ADJ
 core_SUBST
 INTERIORS_SUBST
-IT_PRON
+IT_SUBST
 IS_VERB
 OBVIOUS_ADJ
 that_CONJ
@@ -33173,7 +33173,7 @@ as_CONJ
 a_ART
 reason_SUBST
 for_PREP
-spotlisting_VERB
+spotlisting_SUBST
 Equally_ADV
 many_ADJ
 people_SUBST
@@ -33707,7 +33707,7 @@ Fine_ADJ
 Art_SUBST
 Investment_SUBST
 and_CONJ
-Display_SUBST
+Display_VERB
 Limited_ADJ
 When_CONJ
 three_ADJ
@@ -34110,7 +34110,7 @@ Fine_ADJ
 Art_SUBST
 Investment_SUBST
 and_CONJ
-Display_SUBST
+Display_VERB
 and_CONJ
 it_PRON
 rapidly_ADV

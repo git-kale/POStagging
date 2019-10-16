@@ -4560,7 +4560,7 @@ acceptance_SUBST
 was_VERB
 based_VERB
 on_PREP
-trust_VERB
+trust_SUBST
 The_ART
 AKC_SUBST
 gave_VERB
@@ -5544,7 +5544,7 @@ does_VERB
 not_ADV
 have_VERB
 a_ART
-disqualifying_VERB
+disqualifying_ADJ
 fault_SUBST
 Spayed_ADJ
 dogs_SUBST
@@ -12294,7 +12294,7 @@ Tutt_VERB
 In_PREP
 Johannesburg_SUBST
 the_ART
-Sheidal_ADJ
+Sheidal_SUBST
 Kennels_SUBST
 have_VERB
 imported_VERB
@@ -12304,7 +12304,7 @@ Blue_ADJ
 Ragged_ADJ
 Robin_SUBST
 of_PREP
-Sheidal_ADJ
+Sheidal_SUBST
 from_PREP
 the_ART
 UK_SUBST
@@ -15958,7 +15958,7 @@ system_SUBST
 for_PREP
 support_SUBST
 and_CONJ
-braking_ADJ
+braking_VERB
 The_ART
 propulsive_ADJ
 forces_SUBST
@@ -17960,7 +17960,7 @@ bitch_SUBST
 will_VERB
 enjoy_VERB
 a_ART
-cuddle_VERB
+cuddle_SUBST
 whereas_CONJ
 a_ART
 dog_SUBST
@@ -18318,7 +18318,7 @@ If_CONJ
 you_PRON
 do_VERB
 not_ADV
-trust_VERB
+trust_SUBST
 your_PRON
 breeder_SUBST
 of_PREP
@@ -18381,7 +18381,7 @@ breeder_SUBST
 you_PRON
 have_VERB
 started_VERB
-gathering_SUBST
+gathering_VERB
 information_SUBST
 months_SUBST
 perhaps_ADV

@@ -157,7 +157,7 @@ Dave_SUBST
 Thomas_SUBST
 UK_SUBST
 DIVING_SUBST
-Sampling_VERB
+Sampling_SUBST
 Oban_SUBST
 's_UNC
 pleasures_SUBST
@@ -4961,7 +4961,7 @@ model_SUBST
 has_VERB
 a_ART
 pre-programmed_ADJ
-serial_SUBST
+serial_ADJ
 number_SUBST
 that_CONJ
 identifies_VERB
@@ -14614,7 +14614,7 @@ or_CONJ
 it_PRON
 can_VERB
 be_VERB
-yellowish-green_SUBST
+yellowish-green_ADJ
 with_PREP
 a_ART
 white_ADJ
@@ -16700,7 +16700,7 @@ wet_ADJ
 Pacific_SUBST
 air_SUBST
 rolls_SUBST
-landward_ADJ
+landward_ADV
 and_CONJ
 dumps_SUBST
 its_PRON

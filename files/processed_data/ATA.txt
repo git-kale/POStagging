@@ -5269,7 +5269,7 @@ to_PREP
 give_VERB
 voice_SUBST
 to_PREP
-disenfranchised_VERB
+disenfranchised_ADJ
 minorities_SUBST
 nor_CONJ
 to_PREP
@@ -6645,7 +6645,7 @@ were_VERB
 set_VERB
 up_ADV
 for_PREP
-disenfranchised_VERB
+disenfranchised_ADJ
 groups_SUBST
 says_VERB
 Susannah_SUBST
@@ -24121,7 +24121,7 @@ Koch_SUBST
 1985b_UNC
 p._SUBST
 111_ADJ
-IT_PRON
+IT_SUBST
 is_VERB
 almost_ADV
 inevitable_ADJ
@@ -26729,7 +26729,7 @@ Sir_SUBST
 Gordon_SUBST
 Reece_SUBST
 the_ART
-mousy_SUBST
+mousy_ADJ
 frump_SUBST
 in_PREP
 sensible_ADJ
@@ -28932,7 +28932,7 @@ subject_SUBST
 it_PRON
 excuses_SUBST
 and_CONJ
-romanticises_VERB
+romanticises_SUBST
 little_ADJ
 Evidence_SUBST
 reference_SUBST

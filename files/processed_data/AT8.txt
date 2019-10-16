@@ -11643,7 +11643,7 @@ potential_SUBST
 nuclear_ADJ
 generating_VERB
 capacity_SUBST
-excluding_VERB
+excluding_PREP
 6_ADJ
 gas-cooled_ADJ
 reactors_SUBST
@@ -22103,7 +22103,7 @@ $_UNC
 1_ADJ
 billion_ADJ
 gas_SUBST
-gathering_SUBST
+gathering_VERB
 system_SUBST
 to_PREP
 transport_SUBST
@@ -24529,7 +24529,7 @@ ENERGY_SUBST
 HOW_ADV
 WE_PRON
 USE_VERB
-IT_PRON
+IT_SUBST
 THE_ART
 essence_SUBST
 of_PREP
@@ -26808,7 +26808,7 @@ the_ART
 world_SUBST
 's_UNC
 energy_SUBST
-excluding_VERB
+excluding_PREP
 Communist_ADJ
 countries_SUBST
 is_VERB
@@ -30221,7 +30221,7 @@ on_PREP
 the_ART
 renewable_ADJ
 front_SUBST
-excluding_VERB
+excluding_PREP
 fusion_SUBST
 are_VERB
 currently_ADV
@@ -31049,7 +31049,7 @@ one_ADJ
 offshore_ADJ
 wind_SUBST
 turbine_SUBST
-excluding_VERB
+excluding_PREP
 the_ART
 turbine_SUBST
 would_VERB

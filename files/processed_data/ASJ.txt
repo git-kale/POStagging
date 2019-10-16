@@ -16336,7 +16336,7 @@ tongue_SUBST
 souffl\xc3\xa9s_UNC
 profiteroles_SUBST
 and_CONJ
-petits_SUBST
+petits_UNC
 fours_ADJ
 and_CONJ
 the_ART
@@ -18454,7 +18454,7 @@ these_ADJ
 flying-boats_SUBST
 with_PREP
 their_PRON
-deluxe_SUBST
+deluxe_VERB
 suites_SUBST
 and_CONJ
 dining_SUBST
@@ -18721,7 +18721,7 @@ mountains_SUBST
 at_PREP
 night_SUBST
 the_ART
-thundering_VERB
+thundering_ADJ
 plunge_VERB
 across_PREP
 the_ART
@@ -18947,7 +18947,7 @@ of_PREP
 toilet_SUBST
 water_SUBST
 Few_ADJ
-deluxe_SUBST
+deluxe_VERB
 hotels_SUBST
 of_PREP
 the_ART

@@ -4315,7 +4315,7 @@ law_SUBST
 of_PREP
 1850_ADJ
 which_PRON
-disenfranchised_VERB
+disenfranchised_ADJ
 some_ADJ
 3,000,000_ADJ
 voters_SUBST
@@ -5411,7 +5411,7 @@ proclamations_SUBST
 from_PREP
 the_ART
 Prince_SUBST
-dissolving_ADJ
+dissolving_VERB
 the_ART
 Assembly_SUBST
 ordering_VERB
@@ -11935,9 +11935,9 @@ cries_SUBST
 of_PREP
 Vive_VERB
 l'Empereur_SUBST
-vive_UNC
+vive_VERB
 l'Imp\xc3\xa9ratrice_UNC
-vive_UNC
+vive_VERB
 le_UNC
 Petit_UNC
 Prince_SUBST
@@ -15291,7 +15291,7 @@ Mondays_SUBST
 known_VERB
 as_CONJ
 the_ART
-petits_SUBST
+petits_UNC
 bals_SUBST
 du_UNC
 lundi_SUBST
@@ -19416,7 +19416,7 @@ some_ADJ
 sort_SUBST
 of_PREP
 homogeneous_ADJ
-gathering_SUBST
+gathering_VERB
 so_ADV
 that_CONJ
 the_ART
@@ -19539,7 +19539,7 @@ or_CONJ
 susceptible_ADJ
 to_PREP
 imaginary_ADJ
-slights_SUBST
+slights_VERB
 set_VERB
 great_ADJ
 store_SUBST
@@ -27715,7 +27715,7 @@ Queen_SUBST
 expressed_VERB
 herself_PRON
 delighted_ADJ
-enchanted_ADJ
+enchanted_VERB
 amused_ADJ
 and_CONJ
 interested_ADJ
@@ -31909,7 +31909,7 @@ Prussia_SUBST
 Queen_SUBST
 Victoria_SUBST
 in_PREP
-mourning_VERB
+mourning_SUBST
 since_CONJ
 the_ART
 death_SUBST
@@ -32034,7 +32034,7 @@ than_CONJ
 usual_ADJ
 If_CONJ
 the_ART
-gathering_SUBST
+gathering_VERB
 of_PREP
 sovereigns_SUBST
 in_PREP

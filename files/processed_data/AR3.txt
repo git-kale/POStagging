@@ -4943,7 +4943,7 @@ a_ART
 pair_SUBST
 of_PREP
 gypsies_SUBST
-gathering_SUBST
+gathering_VERB
 unwanted_ADJ
 iron_SUBST
 who_PRON
@@ -5417,7 +5417,7 @@ would_VERB
 often_ADV
 witness_SUBST
 a_ART
-gathering_SUBST
+gathering_VERB
 of_PREP
 some_ADJ
 of_PREP
@@ -15034,7 +15034,7 @@ of_PREP
 those_ADJ
 windows_SUBST
 just_ADV
-enchanted_ADJ
+enchanted_VERB
 by_PREP
 it_PRON
 Then_ADV
@@ -20248,7 +20248,7 @@ week_SUBST
 's_UNC
 important_ADJ
 international_ADJ
-gathering_SUBST
+gathering_VERB
 My_PRON
 father_SUBST
 's_UNC
@@ -23585,7 +23585,7 @@ that_CONJ
 time_SUBST
 succeeded_VERB
 in_PREP
-gathering_SUBST
+gathering_VERB
 together_ADV
 a_ART
 broad_ADJ
@@ -23860,7 +23860,7 @@ was_VERB
 to_PREP
 organize_VERB
 a_ART
-gathering_SUBST
+gathering_VERB
 at_PREP
 Darlington_SUBST
 Hall_SUBST
@@ -24107,7 +24107,7 @@ to_PREP
 bring_VERB
 to_PREP
 the_ART
-gathering_SUBST
+gathering_VERB
 at_PREP
 Darlington_SUBST
 Hall_SUBST
@@ -24234,7 +24234,7 @@ Dupont_SUBST
 to_PREP
 attend_VERB
 the_ART
-gathering_SUBST
+gathering_VERB
 on_PREP
 a_ART
 very_ADV
@@ -25301,7 +25301,7 @@ your_PRON
 great_ADJ
 inexperience_SUBST
 I_PRON
-trust_VERB
+trust_SUBST
 that_CONJ
 in_PREP
 years_SUBST
@@ -32939,7 +32939,7 @@ No_INTERJ
 one_ADJ
 here_ADV
 I_PRON
-trust_VERB
+trust_SUBST
 would_VERB
 care_SUBST
 to_PREP
@@ -34333,7 +34333,7 @@ my_PRON
 father_SUBST
 in_PREP
 his_PRON
-deceased_ADJ
+deceased_SUBST
 condition_SUBST
 just_ADV
 at_PREP

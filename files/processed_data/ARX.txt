@@ -2859,7 +2859,7 @@ of_PREP
 books_SUBST
 by_PREP
 the_ART
-skipful_ADJ
+skipful_SUBST
 because_CONJ
 they_PRON
 do_VERB
@@ -8949,7 +8949,7 @@ library_SUBST
 ticket_SUBST
 with_PREP
 its_PRON
-Scarce_ADV
+Scarce_ADJ
 books_SUBST
 and_CONJ
 books_SUBST
@@ -12464,7 +12464,7 @@ of_PREP
 this_ADJ
 standard_ADJ
 Even_ADV
-excluding_VERB
+excluding_PREP
 the_ART
 admittedly_ADV
 popular_ADJ

@@ -1544,7 +1544,7 @@ overcoat_SUBST
 of_PREP
 gloss_SUBST
 and_CONJ
-glitz_VERB
+glitz_SUBST
 that_CONJ
 hides_VERB
 the_ART
@@ -3160,7 +3160,7 @@ of_PREP
 her_PRON
 father_SUBST
 's_UNC
-wanderlust_SUBST
+wanderlust_VERB
 and_CONJ
 had_VERB
 a_ART
@@ -5647,7 +5647,7 @@ coincidentally_ADV
 other_ADJ
 rebels_SUBST
 were_VERB
-gathering_SUBST
+gathering_VERB
 in_PREP
 that_CONJ
 same_ADJ
@@ -7955,7 +7955,7 @@ showing_VERB
 him_PRON
 They_PRON
 were_VERB
-gathering_SUBST
+gathering_VERB
 on_PREP
 the_ART
 Strip_SUBST
@@ -12050,7 +12050,7 @@ his_PRON
 impression_SUBST
 of_PREP
 George_SUBST
-Shearing_SUBST
+Shearing_VERB
 He_PRON
 also_ADV
 through_PREP
@@ -15448,7 +15448,7 @@ But_CONJ
 the_ART
 shabby_ADJ
 beats_VERB
-bungle_SUBST
+bungle_VERB
 the_ART
 job_SUBST
 And_CONJ
@@ -16285,7 +16285,7 @@ like_PREP
 a_ART
 Sunday_SUBST
 school_SUBST
-gathering_SUBST
+gathering_VERB
 In_PREP
 the_ART
 middle_SUBST
@@ -16796,7 +16796,7 @@ of_PREP
 boozing_VERB
 fighting_VERB
 pot-smoking_SUBST
-vandalizing_VERB
+vandalizing_SUBST
 and_CONJ
 raping_VERB
 done_VERB
@@ -19730,7 +19730,7 @@ by_PREP
 the_ART
 same_ADJ
 devoutly_ADJ
-mercenary_ADJ
+mercenary_SUBST
 ambitions_SUBST
 of_PREP
 some_ADJ
@@ -22850,7 +22850,7 @@ to_PREP
 that_CONJ
 great_ADJ
 hippie_SUBST
-gathering_SUBST
+gathering_VERB
 in_PREP
 the_ART
 sky_SUBST
@@ -28557,7 +28557,7 @@ of_PREP
 every_ART
 hippie_SUBST
 and_CONJ
-longhaired_VERB
+longhaired_ADJ
 supporter_SUBST
 of_PREP
 a_ART
@@ -31132,7 +31132,7 @@ He_PRON
 was_VERB
 not_ADV
 a_ART
-mercenary_ADJ
+mercenary_SUBST
 actor_SUBST
 He_PRON
 had_VERB
@@ -32398,7 +32398,7 @@ be_VERB
 generally_ADV
 under_PREP
 thirty_ADJ
-longhaired_VERB
+longhaired_ADJ
 with_PREP
 bearded_ADJ
 males_SUBST
@@ -32874,7 +32874,7 @@ life_SUBST
 she_PRON
 did_VERB
 not_ADV
-trust_VERB
+trust_SUBST
 him_PRON
 or_CONJ
 his_PRON

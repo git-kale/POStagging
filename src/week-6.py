@@ -90,7 +90,14 @@ for fi in all_filenames:
     process_file(fi)
 time_taken = time() - start
 
+for i in range(0,10):
+    sum = 0
+    for j in range(0,11):
+        sum = sum+confusion_matrix[i][j]
+    for j in range(0,11):
+        confusion_matrix[i][j] = confusion_matrix[i][j]/sum
+
 print(confusion_matrix)
 
-print("DONE in "+str(time_taken)+" seconds")
+
 

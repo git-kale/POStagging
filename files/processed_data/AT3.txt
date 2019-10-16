@@ -2242,7 +2242,7 @@ that_CONJ
 you_PRON
 do_VERB
 n't_ADV
-trust_VERB
+trust_SUBST
 him_PRON
 I_PRON
 've_VERB
@@ -7592,7 +7592,7 @@ did_VERB
 not_ADV
 transport_SUBST
 the_ART
-encroaching_VERB
+encroaching_ADJ
 dunes_SUBST
 bit_SUBST
 by_PREP
@@ -10451,7 +10451,7 @@ be_VERB
 further_ADJ
 south_SUBST
 The_ART
-gathering_SUBST
+gathering_VERB
 of_PREP
 men_SUBST
 pressed_VERB
@@ -11692,7 +11692,7 @@ was_VERB
 the_ART
 most_ADV
 southerly_ADJ
-westernized_VERB
+westernized_ADJ
 town_SUBST
 the_ART
 last_ADJ
@@ -12635,7 +12635,7 @@ the_ART
 medical_ADJ
 kit_SUBST
 envelopes_SUBST
-masking-tape_ADJ
+masking-tape_SUBST
 notepaper_SUBST
 blank_ADJ
 cassettes_SUBST
@@ -12711,7 +12711,7 @@ envelopes_SUBST
 to_PREP
 strengthen_VERB
 with_PREP
-masking-tape_ADJ
+masking-tape_SUBST
 to_PREP
 carry_VERB
 cassettes_SUBST
@@ -19126,7 +19126,7 @@ After_PREP
 encouraging_ADJ
 ourselves_PRON
 to_PREP
-trust_VERB
+trust_SUBST
 God_SUBST
 we_PRON
 prayed_VERB
@@ -19277,7 +19277,7 @@ I_PRON
 just_ADV
 do_VERB
 n't_ADV
-trust_VERB
+trust_SUBST
 you_PRON
 any_ADJ
 more_ADV
@@ -19295,7 +19295,7 @@ I_PRON
 just_ADV
 do_VERB
 n't_ADV
-trust_VERB
+trust_SUBST
 you_PRON
 any_ADJ
 more_ADV
@@ -19456,7 +19456,7 @@ and_CONJ
 the_ART
 dying_VERB
 to_PREP
-trust_VERB
+trust_SUBST
 God_SUBST
 and_CONJ
 I_PRON
@@ -25362,7 +25362,7 @@ of_PREP
 Oxo_SUBST
 cube_SUBST
 were_VERB
-dissolving_ADJ
+dissolving_VERB
 into_PREP
 brown_ADJ
 swirling_ADJ
@@ -27578,7 +27578,7 @@ Desert_SUBST
 Research_SUBST
 Trust_SUBST
 The_ART
-trust_VERB
+trust_SUBST
 was_VERB
 researching_VERB
 into_PREP
@@ -27599,7 +27599,7 @@ the_ART
 use_SUBST
 of_PREP
 the_ART
-trust_VERB
+trust_SUBST
 's_UNC
 Land_SUBST
 Rover_SUBST
@@ -27989,7 +27989,7 @@ given_VERB
 money_SUBST
 to_PREP
 the_ART
-trust_VERB
+trust_SUBST
 do_VERB
 n't_ADV
 have_VERB
@@ -29521,7 +29521,7 @@ something_PRON
 odd_ADJ
 The_ART
 men_SUBST
-gathering_SUBST
+gathering_VERB
 stones_SUBST
 and_CONJ
 then_ADV
@@ -34998,7 +34998,7 @@ in_PREP
 three_ADJ
 hours_SUBST
 Sang_VERB
-Hallelujah_INTERJ
+Hallelujah_SUBST
 Chorus_SUBST
 and_CONJ
 the_ART
@@ -37005,7 +37005,7 @@ I_PRON
 was_VERB
 reluctant_ADJ
 to_PREP
-trust_VERB
+trust_SUBST
 my_PRON
 senses_SUBST
 but_CONJ

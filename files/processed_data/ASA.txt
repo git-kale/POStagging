@@ -10110,7 +10110,7 @@ I_PRON
 was_VERB
 a_ART
 boy_SUBST
-humping_SUBST
+humping_VERB
 golf-bags_SUBST
 nearly_ADV
 as_CONJ
@@ -28761,7 +28761,7 @@ being_VERB
 in_PREP
 the_ART
 left-hand_ADJ
-semi-rough_ADJ
+semi-rough_SUBST
 as_CONJ
 if_CONJ
 we_PRON
@@ -28849,7 +28849,7 @@ Sandy_SUBST
 was_VERB
 in_PREP
 the_ART
-semi-rough_ADJ
+semi-rough_SUBST
 again_ADV
 this_ADJ
 time_SUBST

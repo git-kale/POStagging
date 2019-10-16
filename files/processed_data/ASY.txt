@@ -4621,7 +4621,7 @@ in_PREP
 from_PREP
 the_ART
 university_SUBST
-Guided_VERB
+Guided_ADJ
 by_PREP
 the_ART
 Chief_SUBST
@@ -8846,7 +8846,7 @@ they_PRON
 would_VERB
 prefer_VERB
 to_PREP
-trust_VERB
+trust_SUBST
 all_ADJ
 this_ADJ
 to_PREP
@@ -10587,7 +10587,7 @@ producing_VERB
 a_ART
 docile_ADJ
 and_CONJ
-bien_UNC
+bien_ADJ
 pensant_UNC
 population_SUBST
 moulded_VERB
@@ -23819,7 +23819,7 @@ forward_ADV
 a_ART
 case_SUBST
 for_PREP
-excluding_VERB
+excluding_PREP
 the_ART
 moral_ADJ
 the_ART
@@ -35402,7 +35402,7 @@ inefficient_ADJ
 school_SUBST
 Schools_SUBST
 perhaps_ADV
-excluding_VERB
+excluding_PREP
 the_ART
 new_ADJ
 Technology_SUBST
@@ -38349,7 +38349,7 @@ children_SUBST
 in_PREP
 the_ART
 system_SUBST
-excluding_VERB
+excluding_PREP
 virtually_ADV
 none_PRON
 on_PREP

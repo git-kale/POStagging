@@ -5130,7 +5130,7 @@ employees_SUBST
 will_VERB
 certainly_ADV
 raise_VERB
-Tackle_SUBST
+Tackle_VERB
 head_SUBST
 on_PREP
 the_ART
@@ -6921,7 +6921,7 @@ management_SUBST
 and_CONJ
 ultimately_ADV
 greater_ADJ
-trust_VERB
+trust_SUBST
 between_PREP
 work_SUBST
 colleagues_SUBST
@@ -12182,7 +12182,7 @@ lying_VERB
 capacity_SUBST
 to_PREP
 inspire_VERB
-trust_VERB
+trust_SUBST
 in_PREP
 others_SUBST
 5_ADJ
@@ -15636,7 +15636,7 @@ reference_SUBST
 Information_SUBST
 and_CONJ
 fact_SUBST
-gathering_SUBST
+gathering_VERB
 Analysis_SUBST
 Identification_SUBST
 of_PREP
@@ -16020,7 +16020,7 @@ be_VERB
 mainly_ADV
 on_PREP
 fact_SUBST
-gathering_SUBST
+gathering_VERB
 or_CONJ
 on_PREP
 interpretation_SUBST
@@ -21607,7 +21607,7 @@ the_ART
 reasons_SUBST
 for_PREP
 the_ART
-gathering_SUBST
+gathering_VERB
 It_PRON
 often_ADV
 helps_VERB
@@ -25867,7 +25867,7 @@ You_PRON
 are_VERB
 placing_VERB
 a_ART
-trust_VERB
+trust_SUBST
 in_PREP
 others_SUBST
 that_CONJ

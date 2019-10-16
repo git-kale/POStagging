@@ -14196,7 +14196,7 @@ recently_ADV
 proclaimed_VERB
 intention_SUBST
 of_PREP
-regenerating_VERB
+regenerating_ADJ
 the_ART
 inner_ADJ
 cities_SUBST
@@ -17723,7 +17723,7 @@ to_PREP
 be_VERB
 a_ART
 rough_ADJ
-U-shape_ADJ
+U-shape_SUBST
 falling_VERB
 down_ADV
 to_PREP
@@ -17788,7 +17788,7 @@ and_CONJ
 disorder_SUBST
 follow_VERB
 a_ART
-U-shape_ADJ
+U-shape_SUBST
 pattern_SUBST
 of_PREP
 long-term_ADJ

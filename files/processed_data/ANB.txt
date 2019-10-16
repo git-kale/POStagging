@@ -474,7 +474,7 @@ that_CONJ
 was_VERB
 home-spun_ADJ
 the_ART
-Etruscan_ADJ
+Etruscan_SUBST
 having_VERB
 evolved_VERB
 from_PREP
@@ -646,7 +646,7 @@ also_ADV
 points_SUBST
 out_ADV
 that_CONJ
-Etruscan_ADJ
+Etruscan_SUBST
 kings_SUBST
 are_VERB
 required_VERB
@@ -671,7 +671,7 @@ emerged_VERB
 out_ADV
 of_PREP
 the_ART
-Etruscan_ADJ
+Etruscan_SUBST
 shadows_SUBST
 in_PREP
 the_ART
@@ -3685,7 +3685,7 @@ Vienna_SUBST
 Congress_SUBST
 nationalism_SUBST
 was_VERB
-gathering_SUBST
+gathering_VERB
 furious_ADJ
 pace_SUBST
 In_PREP
@@ -9520,7 +9520,7 @@ well_ADV
 it_PRON
 describes_VERB
 a_ART
-mercenary_ADJ
+mercenary_SUBST
 but_CONJ
 perhaps_ADV
 soldier_SUBST
@@ -10200,7 +10200,7 @@ evangeliary_SUBST
 dating_VERB
 from_PREP
 the_ART
-fifth-century_ADJ
+fifth-century_SUBST
 and_CONJ
 covered_VERB
 with_PREP
@@ -23058,7 +23058,7 @@ was_VERB
 begun_VERB
 in_PREP
 the_ART
-fifth-century_ADJ
+fifth-century_SUBST
 Like_PREP
 many_ADJ
 of_PREP
@@ -28862,7 +28862,7 @@ been_VERB
 built_VERB
 in_PREP
 the_ART
-fifth-century_ADJ
+fifth-century_SUBST
 on_PREP
 the_ART
 site_SUBST

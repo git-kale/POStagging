@@ -6140,9 +6140,9 @@ even_ADV
 yawns_VERB
 The_ART
 driver_SUBST
-honks_SUBST
+honks_VERB
 and_CONJ
-honks_SUBST
+honks_VERB
 at_PREP
 each_ADJ
 stop_VERB
@@ -7058,7 +7058,7 @@ a_ART
 little_ADJ
 bit_SUBST
 Inca_ADJ
-Seguro_UNC
+Seguro_SUBST
 Of_PREP
 course_SUBST
 And_CONJ
@@ -7994,7 +7994,7 @@ I_PRON
 had_VERB
 reached_VERB
 optimum_ADJ
-trust_VERB
+trust_SUBST
 in_PREP
 my_PRON
 balance_SUBST
@@ -8348,7 +8348,7 @@ covering_VERB
 shawl_SUBST
 Its_PRON
 polished_ADJ
-frets_SUBST
+frets_VERB
 shone_VERB
 in_PREP
 the_ART
@@ -12464,7 +12464,7 @@ there_PRON
 's_UNC
 a_ART
 chance_SUBST
-Seguro_UNC
+Seguro_SUBST
 I_PRON
 held_VERB
 his_PRON
@@ -31720,7 +31720,7 @@ dias_UNC
 \xc2\xbfQue_UNC
 tal_UNC
 Muy_UNC
-bien_UNC
+bien_ADJ
 gracias_UNC
 \xc2\xbfQu\xc3\xa9_UNC
 pais_UNC
@@ -32919,7 +32919,7 @@ quinoa_SUBST
 glows_VERB
 a_ART
 light_SUBST
-yellowish-green_SUBST
+yellowish-green_ADJ
 like_PREP
 cabbage_SUBST
 on_PREP

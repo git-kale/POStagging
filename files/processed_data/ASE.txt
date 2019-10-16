@@ -1283,7 +1283,7 @@ shouted_VERB
 for_PREP
 good_ADJ
 measure_SUBST
-Rum_ADJ
+Rum_SUBST
 ol'_ADJ
 trout_SUBST
 he_PRON
@@ -1806,7 +1806,7 @@ II_ADJ
 Where_ADV
 They_PRON
 Live_VERB
-IT_PRON
+IT_SUBST
 MAY_VERB
 SEEM_VERB
 paradoxical_ADJ
@@ -19101,7 +19101,7 @@ battered_ADJ
 galloping_VERB
 horses_SUBST
 with_PREP
-flaring_ADJ
+flaring_VERB
 nostrils_SUBST
 the_ART
 glittering_ADJ
@@ -20173,7 +20173,7 @@ it_PRON
 Edward_SUBST
 began_VERB
 to_PREP
-fidget_SUBST
+fidget_VERB
 up_ADV
 and_CONJ
 down_ADV
@@ -22256,7 +22256,7 @@ phrase_SUBST
 He_PRON
 hit_VERB
 the_ART
-flaring_ADJ
+flaring_VERB
 log_SUBST
 such_ADJ
 a_ART
@@ -24720,7 +24720,7 @@ boy_SUBST
 I_PRON
 would_VERB
 n't_ADV
-trust_VERB
+trust_SUBST
 my_PRON
 peptic_ADJ
 ulcer_SUBST
@@ -24735,7 +24735,7 @@ I_PRON
 'll_VERB
 put_VERB
 me_PRON
-trust_VERB
+trust_SUBST
 in_PREP
 strong_ADJ
 peppermints_SUBST
@@ -29314,7 +29314,7 @@ the_ART
 window_SUBST
 sill_SUBST
 sitting_VERB
-foursquare_VERB
+foursquare_SUBST
 and_CONJ
 smug_ADJ
 after_PREP

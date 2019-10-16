@@ -9947,7 +9947,7 @@ c_SUBST
 Exposure_SUBST
 to_PREP
 a_ART
-serial_SUBST
+serial_ADJ
 compound_SUBST
 Although_CONJ
 according_VERB
@@ -10072,7 +10072,7 @@ as_CONJ
 part_SUBST
 of_PREP
 the_ART
-serial_SUBST
+serial_ADJ
 compound_SUBST
 S1-S2_ADJ
 is_VERB
@@ -10896,7 +10896,7 @@ the_ART
 same_ADJ
 applies_VERB
 with_PREP
-serial_SUBST
+serial_ADJ
 presentation_SUBST
 then_ADV
 the_ART
@@ -12699,7 +12699,7 @@ rats_SUBST
 were_VERB
 given_VERB
 a_ART
-serial_SUBST
+serial_ADJ
 conditioning_SUBST
 procedure_SUBST
 in_PREP
@@ -13513,7 +13513,7 @@ of_PREP
 subjects_SUBST
 the_ART
 A-X_SUBST
-serial_SUBST
+serial_ADJ
 compound_SUBST
 was_VERB
 followed_VERB
@@ -13697,7 +13697,7 @@ sometimes_ADV
 not_ADV
 In_PREP
 the_ART
-serial_SUBST
+serial_ADJ
 conditioning_SUBST
 procedure_SUBST
 we_PRON

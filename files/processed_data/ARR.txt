@@ -1199,7 +1199,7 @@ all_ADJ
 but_CONJ
 on_PREP
 electronic_ADJ
-reverberating_ADJ
+reverberating_VERB
 circuits_SUBST
 will_VERB
 there_PRON
@@ -2691,7 +2691,7 @@ looks_VERB
 quite_ADV
 unlike_PREP
 the_ART
-particulate_SUBST
+particulate_VERB
 all-or-none_PRON
 quality_SUBST
 of_PREP
@@ -2792,7 +2792,7 @@ genes_SUBST
 concerned_ADJ
 are_VERB
 not_ADV
-particulate_SUBST
+particulate_VERB
 It_PRON
 is_VERB
 just_ADV
@@ -4076,7 +4076,7 @@ faith_SUBST
 It_PRON
 means_SUBST
 blind_ADJ
-trust_VERB
+trust_SUBST
 in_PREP
 the_ART
 absence_SUBST
@@ -6995,7 +6995,7 @@ no_ART
 way_SUBST
 of_PREP
 ensuring_VERB
-trust_VERB
+trust_SUBST
 Unless_CONJ
 at_PREP
 least_ADV
@@ -7167,7 +7167,7 @@ opportunity_SUBST
 to_PREP
 build_VERB
 up_ADV
-trust_VERB
+trust_SUBST
 or_CONJ
 mistrust_SUBST
 to_PREP
@@ -7357,7 +7357,7 @@ is_VERB
 that_CONJ
 we_PRON
 partially_ADV
-trust_VERB
+trust_SUBST
 one_ADJ
 another_ADJ
 and_CONJ
@@ -9003,7 +9003,7 @@ still_ADV
 since_CONJ
 runs_VERB
 of_PREP
-reverberating_ADJ
+reverberating_VERB
 defection_SUBST
 tend_VERB
 to_PREP
@@ -15125,7 +15125,7 @@ I_PRON
 notice_SUBST
 the_ART
 banker_SUBST
-fidget_SUBST
+fidget_VERB
 and_CONJ
 look_VERB
 at_PREP
@@ -16339,7 +16339,7 @@ violated_VERB
 a_ART
 situation_SUBST
 of_PREP
-trust_VERB
+trust_SUBST
 and_CONJ
 it_PRON
 shows_VERB
@@ -16373,7 +16373,7 @@ stable_ADJ
 pattern_SUBST
 of_PREP
 mutual_ADJ
-trust_VERB
+trust_SUBST
 A_ART
 pleasing_ADJ
 example_SUBST
@@ -18018,7 +18018,7 @@ it_PRON
 would_VERB
 take_VERB
 a_ART
-sated_ADJ
+sated_VERB
 bat_SUBST
 to_PREP
 starve_VERB
@@ -21808,7 +21808,7 @@ shells_SUBST
 What_PRON
 can_VERB
 this_ADJ
-thickening_SUBST
+thickening_VERB
 mean_VERB
 If_CONJ
 the_ART
@@ -22049,7 +22049,7 @@ the_ART
 economic_ADJ
 cost_SUBST
 of_PREP
-thickening_SUBST
+thickening_VERB
 the_ART
 shell_SUBST
 And_CONJ

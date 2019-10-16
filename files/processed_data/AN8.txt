@@ -6886,7 +6886,7 @@ Briant_SUBST
 himself_PRON
 which_PRON
 we_PRON
-trust_VERB
+trust_SUBST
 will_VERB
 be_VERB
 of_PREP
@@ -7255,7 +7255,7 @@ parent_SUBST
 to_PREP
 offspring_SUBST
 I_PRON
-trust_VERB
+trust_SUBST
 that_CONJ
 is_VERB
 quite_ADV
@@ -8795,7 +8795,7 @@ already_ADV
 been_VERB
 put_VERB
 I_PRON
-trust_VERB
+trust_SUBST
 you_PRON
 will_VERB
 therefore_ADV
@@ -34649,7 +34649,7 @@ ashamed_ADJ
 to_PREP
 say_VERB
 I_PRON
-trust_VERB
+trust_SUBST
 in_PREP
 the_ART
 existence_SUBST

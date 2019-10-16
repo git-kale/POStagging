@@ -2786,7 +2786,7 @@ to_PREP
 add_VERB
 up_ADV
 feed_VERB
-shoeing_VERB
+shoeing_SUBST
 and_CONJ
 vets_SUBST
 '_UNC
@@ -20935,7 +20935,7 @@ BHS_SUBST
 Stage_SUBST
 IV_ADJ
 and_CONJ
-IT_PRON
+IT_SUBST
 which_PRON
 make_VERB
 up_ADV

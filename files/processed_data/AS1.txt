@@ -9054,7 +9054,7 @@ to_PREP
 put_VERB
 up_ADV
 his_PRON
-Sold_VERB
+Sold_ADJ
 Subject_SUBST
 to_PREP
 Contract_SUBST
@@ -21919,7 +21919,7 @@ than_CONJ
 a_ART
 structural_ADJ
 engineer_SUBST
-Poke_SUBST
+Poke_VERB
 around_PREP
 any_ADJ
 plumbing_SUBST

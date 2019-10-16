@@ -8088,7 +8088,7 @@ there_PRON
 has_VERB
 been_VERB
 a_ART
-threefold_ADV
+threefold_ADJ
 increase_SUBST
 since_CONJ
 1980_ADJ

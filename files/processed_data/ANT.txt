@@ -3412,7 +3412,7 @@ very_ADV
 often_ADV
 has_VERB
 entailed_VERB
-excluding_VERB
+excluding_PREP
 the_ART
 inhabitants_SUBST
 already_ADV
@@ -3905,7 +3905,7 @@ be_VERB
 a_ART
 way_SUBST
 of_PREP
-excluding_VERB
+excluding_PREP
 competition_SUBST
 by_PREP
 outsiders_SUBST
@@ -3971,7 +3971,7 @@ has_VERB
 the_ART
 effect_SUBST
 of_PREP
-disqualifying_VERB
+disqualifying_ADJ
 southerners_SUBST
 from_PREP
 public_ADJ
@@ -10991,7 +10991,7 @@ half_ADJ
 that_CONJ
 of_PREP
 Wellington_SUBST
-excluding_VERB
+excluding_PREP
 the_ART
 forces_SUBST
 of_PREP
@@ -16777,7 +16777,7 @@ takes_VERB
 the_ART
 initiative_SUBST
 in_PREP
-dissolving_ADJ
+dissolving_VERB
 the_ART
 Union_SUBST
 established_VERB
@@ -26655,7 +26655,7 @@ built_VERB
 with_PREP
 every_ART
 international_ADJ
-trust_VERB
+trust_SUBST
 and_CONJ
 every_ART
 workers_SUBST
@@ -27233,7 +27233,7 @@ there_PRON
 will_VERB
 be_VERB
 greater_ADJ
-trust_VERB
+trust_SUBST
 in_PREP
 Russian_ADJ
 democracy_SUBST
@@ -27272,7 +27272,7 @@ order_SUBST
 to_PREP
 establish_VERB
 the_ART
-trust_VERB
+trust_SUBST
 of_PREP
 Russia_SUBST
 's_UNC
@@ -30608,7 +30608,7 @@ interest_SUBST
 a_ART
 liberal_ADJ
 centre_SUBST
-westernized_VERB
+westernized_ADJ
 sometimes_ADV
 associated_VERB
 with_PREP
@@ -34445,7 +34445,7 @@ the_ART
 Ukrainian_ADJ
 Bolsheviks_SUBST
 for_PREP
-excluding_VERB
+excluding_PREP
 Ukrainian_ADJ
 participation_SUBST
 from_PREP
@@ -35515,7 +35515,7 @@ armed_ADJ
 revolt_SUBST
 of_PREP
 the_ART
-Basmachi_SUBST
+Basmachi_ADJ
 in_PREP
 eastern_ADJ
 Turkestan_SUBST
@@ -35969,7 +35969,7 @@ negotiations_SUBST
 begun_VERB
 with_PREP
 the_ART
-Basmachi_SUBST
+Basmachi_ADJ
 rebels_SUBST
 Dismal_ADJ
 though_CONJ

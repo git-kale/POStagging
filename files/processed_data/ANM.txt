@@ -2090,7 +2090,7 @@ get_VERB
 to_PREP
 know_VERB
 and_CONJ
-trust_VERB
+trust_SUBST
 somebody_PRON
 different_ADJ
 such_ADJ
@@ -16831,7 +16831,7 @@ me_PRON
 a_ART
 really_ADV
 sympathetic_ADJ
-cuddle_VERB
+cuddle_SUBST
 while_CONJ
 I_PRON
 cried_VERB
@@ -19887,7 +19887,7 @@ ca_VERB
 n't_ADV
 say_VERB
 the_ART
-juggling_VERB
+juggling_ADJ
 timetables_SUBST
 with_PREP
 my_PRON
@@ -25166,7 +25166,7 @@ given_VERB
 to_PREP
 me_PRON
 to_PREP
-cuddle_VERB
+cuddle_SUBST
 and_CONJ
 suckle_VERB
 straight_ADV

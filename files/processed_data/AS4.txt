@@ -1710,7 +1710,7 @@ their_PRON
 particular_ADJ
 rivers_SUBST
 as_CONJ
-caddisflies_VERB
+caddisflies_SUBST
 stoneflies_SUBST
 and_CONJ
 mayflies_SUBST
@@ -1732,7 +1732,7 @@ In_PREP
 the_ART
 larval_ADJ
 stages_SUBST
-caddisflies_VERB
+caddisflies_SUBST
 build_VERB
 themselves_PRON
 cases_SUBST
@@ -7768,7 +7768,7 @@ a_ART
 Yorkshire_SUBST
 teacher_SUBST
 was_VERB
-gathering_SUBST
+gathering_VERB
 grasses_SUBST
 at_PREP
 the_ART
@@ -11078,7 +11078,7 @@ commoners_SUBST
 from_PREP
 Lammas_SUBST
 or_CONJ
-Loaf_VERB
+Loaf_SUBST
 Mass_SUBST
 1_ADJ
 August_SUBST
@@ -20802,7 +20802,7 @@ of_PREP
 alpine_ADJ
 gardeners_SUBST
 actually_ADV
-bankrupted_VERB
+bankrupted_ADJ
 himself_PRON
 as_CONJ
 a_ART
@@ -31170,7 +31170,7 @@ years_SUBST
 that_CONJ
 the_ART
 inevitable_ADJ
-patching_VERB
+patching_SUBST
 of_PREP
 eroding_ADJ
 banks_SUBST

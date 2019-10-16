@@ -2793,7 +2793,7 @@ over_PREP
 your_PRON
 body_SUBST
 like_PREP
-enchanted_ADJ
+enchanted_VERB
 water_SUBST
 and_CONJ
 transform_VERB
@@ -5365,7 +5365,7 @@ But_CONJ
 how_ADV
 can_VERB
 you_PRON
-trust_VERB
+trust_SUBST
 anything_PRON
 Jane_SUBST
 Brompton_SUBST
@@ -6509,7 +6509,7 @@ who_PRON
 was_VERB
 by_PREP
 now_ADV
-enchanted_ADJ
+enchanted_VERB
 by_PREP
 the_ART
 whole_ADJ
@@ -7148,7 +7148,7 @@ kind_SUBST
 of_PREP
 small_ADJ
 boy_SUBST
-enchanted_ADJ
+enchanted_VERB
 by_PREP
 small_ADJ
 girls_SUBST
@@ -10349,7 +10349,7 @@ land_SUBST
 to_PREP
 an_ART
 educational_ADJ
-trust_VERB
+trust_SUBST
 formed_VERB
 by_PREP
 an_ART
@@ -10582,7 +10582,7 @@ to_PREP
 them_PRON
 that_CONJ
 their_PRON
-trust_VERB
+trust_SUBST
 was_VERB
 to_PREP
 maintain_VERB
@@ -15787,7 +15787,7 @@ Joyce_SUBST
 expected_VERB
 Nana_SUBST
 to_PREP
-trust_VERB
+trust_SUBST
 her_PRON
 for_PREP
 goods_SUBST
@@ -21715,7 +21715,7 @@ though_CONJ
 catching_VERB
 that_CONJ
 tiny_ADJ
-lisp_VERB
+lisp_SUBST
 she_PRON
 had_VERB
 and_CONJ
@@ -26250,7 +26250,7 @@ the_ART
 people_SUBST
 do_VERB
 n't_ADV
-trust_VERB
+trust_SUBST
 Nixon_SUBST
 We_PRON
 won_VERB
@@ -29857,7 +29857,7 @@ mixture_SUBST
 of_PREP
 distress_SUBST
 and_CONJ
-reproof_SUBST
+reproof_VERB
 in_PREP
 his_PRON
 parents_SUBST
@@ -29936,7 +29936,7 @@ wriggled_VERB
 and_CONJ
 heard_VERB
 its_PRON
-creaks_VERB
+creaks_SUBST
 amid_PREP
 the_ART
 incessant_ADJ
@@ -31150,7 +31150,7 @@ I_PRON
 've_VERB
 got_VERB
 to_PREP
-trust_VERB
+trust_SUBST
 you_PRON
 since_CONJ
 you_PRON
@@ -33331,7 +33331,7 @@ of_PREP
 the_ART
 community_SUBST
 's_UNC
-trust_VERB
+trust_SUBST
 was_VERB
 also_ADV
 a_ART
@@ -34774,7 +34774,7 @@ because_CONJ
 of_PREP
 it_PRON
 I_PRON
-trust_VERB
+trust_SUBST
 him_PRON
 absolutely_ADV
 And_CONJ

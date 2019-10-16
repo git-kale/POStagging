@@ -253,7 +253,7 @@ furniture_SUBST
 in_PREP
 the_ART
 villages_SUBST
-Brathay_SUBST
+Brathay_VERB
 Women_SUBST
 's_UNC
 Institute_SUBST
@@ -5622,7 +5622,7 @@ where_ADV
 the_ART
 Rothay_SUBST
 and_CONJ
-Brathay_SUBST
+Brathay_VERB
 join_VERB
 and_CONJ
 the_ART
@@ -10898,7 +10898,7 @@ weavers_SUBST
 fullers_SUBST
 dyers_SUBST
 etc._ADV
-gathering_SUBST
+gathering_VERB
 together_ADV
 for_PREP
 their_PRON

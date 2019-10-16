@@ -6775,7 +6775,7 @@ as_CONJ
 possible_ADJ
 from_PREP
 the_ART
-prying_VERB
+prying_ADJ
 eyes_SUBST
 of_PREP
 scandalmongers_SUBST
@@ -22316,7 +22316,7 @@ be_VERB
 contended_VERB
 with_PREP
 I_PRON
-trust_VERB
+trust_SUBST
 myself_PRON
 Now_ADV
 the_ART
@@ -22720,7 +22720,7 @@ we_PRON
 always_ADV
 afford_VERB
 to_PREP
-trust_VERB
+trust_SUBST
 or_CONJ
 do_VERB
 we_PRON
@@ -26079,7 +26079,7 @@ be_VERB
 the_ART
 concept_SUBST
 of_PREP
-trust_VERB
+trust_SUBST
 This_ADJ
 it_PRON
 is_VERB
@@ -26104,7 +26104,7 @@ that_CONJ
 each_ADJ
 party_SUBST
 must_VERB
-trust_VERB
+trust_SUBST
 the_ART
 other_ADJ
 does_VERB
@@ -26122,7 +26122,7 @@ a_ART
 doctor_SUBST
 may_VERB
 expect_VERB
-trust_VERB
+trust_SUBST
 without_PREP
 himself_PRON
 reciprocating_VERB
@@ -26153,7 +26153,7 @@ off_ADV
 not_ADV
 knowing_VERB
 Second_ADJ
-trust_VERB
+trust_SUBST
 presupposes_VERB
 a_ART
 conscious_ADJ
@@ -41243,7 +41243,7 @@ the_ART
 patient_SUBST
 that_CONJ
 someone_PRON
-stabs_VERB
+stabs_SUBST
 him_PRON
 to_PREP
 death_SUBST

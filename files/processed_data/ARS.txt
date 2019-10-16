@@ -2654,7 +2654,7 @@ by_PREP
 hunting_SUBST
 and_CONJ
 by_PREP
-gathering_SUBST
+gathering_VERB
 Like_PREP
 other_ADJ
 wild_ADJ
@@ -3420,7 +3420,7 @@ western_ADJ
 uplands_SUBST
 The_ART
 richer_ADJ
-drier_ADJ
+drier_SUBST
 East_SUBST
 has_VERB
 a_ART
@@ -3769,7 +3769,7 @@ rape_SUBST
 and_CONJ
 turnips_SUBST
 For_PREP
-gathering_SUBST
+gathering_VERB
 shearing_VERB
 dipping_VERB
 and_CONJ
@@ -4927,7 +4927,7 @@ stronger_ADJ
 land_SUBST
 with_PREP
 warmer_ADJ
-drier_ADJ
+drier_SUBST
 climates_SUBST
 Next_ADJ
 to_PREP
@@ -6382,7 +6382,7 @@ cover_SUBST
 such_ADJ
 subjects_SUBST
 as_CONJ
-sheep-dog_ADJ
+sheep-dog_SUBST
 training_SUBST
 hedging_VERB
 ploughing_VERB
@@ -8309,7 +8309,7 @@ as_CONJ
 hay_SUBST
 barns_SUBST
 and_CONJ
-Shearing_SUBST
+Shearing_VERB
 sheds_SUBST
 are_VERB
 not_ADV
@@ -17529,7 +17529,7 @@ is_VERB
 known_VERB
 as_CONJ
 sheet_SUBST
-composting_SUBST
+composting_VERB
 a_ART
 variation_SUBST
 of_PREP
@@ -23112,7 +23112,7 @@ a_ART
 smallholding_SUBST
 Crop_SUBST
 rotations_SUBST
-Threshing_VERB
+Threshing_SUBST
 crops_SUBST
 are_VERB
 always_ADV
@@ -29649,7 +29649,7 @@ down_ADV
 the_ART
 wide_ADJ
 row_SUBST
-gathering_SUBST
+gathering_VERB
 a_ART
 sheaf_SUBST
 onto_PREP

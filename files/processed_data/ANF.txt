@@ -3720,7 +3720,7 @@ child_SUBST
 of_PREP
 the_ART
 quarter_SUBST
-enfant_SUBST
+enfant_UNC
 sometimes_ADV
 terrible_ADJ
 but_CONJ
@@ -10810,7 +10810,7 @@ the_ART
 swoop_VERB
 of_PREP
 the_ART
-Assyrian_ADJ
+Assyrian_SUBST
 on_PREP
 my_PRON
 fold_VERB
@@ -13255,7 +13255,7 @@ was_VERB
 only_ADV
 a_ART
 small_ADJ
-gathering_SUBST
+gathering_VERB
 in_PREP
 a_ART
 studio_SUBST
@@ -17330,7 +17330,7 @@ next_ADJ
 table_SUBST
 She_PRON
 was_VERB
-enchanted_ADJ
+enchanted_VERB
 by_PREP
 the_ART
 artist_SUBST

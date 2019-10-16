@@ -829,7 +829,7 @@ requires_VERB
 us_PRON
 to_PREP
 show_VERB
-trust_VERB
+trust_SUBST
 loyalty_SUBST
 stability_SUBST
 permanence_SUBST
@@ -1322,7 +1322,7 @@ the_ART
 Lord_SUBST
 implies_VERB
 both_ADV
-trust_VERB
+trust_SUBST
 in_PREP
 God_SUBST
 and_CONJ
@@ -3456,7 +3456,7 @@ level_SUBST
 of_PREP
 intimacy_SUBST
 and_CONJ
-trust_VERB
+trust_SUBST
 This_ADJ
 interchange_VERB
 between_PREP
@@ -3822,7 +3822,7 @@ as_CONJ
 the_ART
 focus_SUBST
 of_PREP
-trust_VERB
+trust_SUBST
 I_PRON
 have_VERB
 a_ART
@@ -3841,7 +3841,7 @@ never_ADV
 given_VERB
 him_PRON
 her_PRON
-trust_VERB
+trust_SUBST
 All_ADJ
 the_ART
 time_SUBST
@@ -3886,7 +3886,7 @@ the_ART
 profound_ADJ
 importance_SUBST
 of_PREP
-trust_VERB
+trust_SUBST
 in_PREP
 a_ART
 marriage_SUBST
@@ -3985,7 +3985,7 @@ the_ART
 future_SUBST
 In_PREP
 contrast_SUBST
-trust_VERB
+trust_SUBST
 is_VERB
 like_PREP
 the_ART
@@ -4003,7 +4003,7 @@ down_ADV
 secure_VERB
 roots_SUBST
 This_ADJ
-trust_VERB
+trust_SUBST
 can_VERB
 be_VERB
 blown_VERB
@@ -4018,7 +4018,7 @@ can_VERB
 take_VERB
 generations_SUBST
 before_PREP
-trust_VERB
+trust_SUBST
 can_VERB
 once_ADV
 more_ADV
@@ -4029,7 +4029,7 @@ a_ART
 family_SUBST
 So_ADV
 while_CONJ
-trust_VERB
+trust_SUBST
 is_VERB
 a_ART
 creative_ADJ
@@ -4058,7 +4058,7 @@ trusting_ADJ
 relationships_SUBST
 create_VERB
 further_ADJ
-trust_VERB
+trust_SUBST
 Faith_SUBST
 in_PREP
 each_ADJ
@@ -4069,14 +4069,14 @@ lifelong_ADJ
 process_SUBST
 beginning_SUBST
 with_PREP
-trust_VERB
+trust_SUBST
 in_PREP
 God_SUBST
 We_PRON
 discover_VERB
 that_CONJ
 our_PRON
-trust_VERB
+trust_SUBST
 in_PREP
 the_ART
 other_ADJ
@@ -4116,7 +4116,7 @@ dependence_SUBST
 on_PREP
 God_SUBST
 for_PREP
-trust_VERB
+trust_SUBST
 in_PREP
 this_ADJ
 way_SUBST
@@ -4179,7 +4179,7 @@ a_ART
 young_ADJ
 child_SUBST
 to_PREP
-trust_VERB
+trust_SUBST
 first_ADJ
 the_ART
 mother_SUBST
@@ -4454,7 +4454,7 @@ in_PREP
 our_PRON
 marriage_SUBST
 and_CONJ
-trust_VERB
+trust_SUBST
 each_ADJ
 other_ADJ
 with_PREP
@@ -6325,7 +6325,7 @@ You_PRON
 had_VERB
 changed_VERB
 her_PRON
-mourning_VERB
+mourning_SUBST
 into_PREP
 joy_SUBST
 a_ART
@@ -7145,7 +7145,7 @@ God_SUBST
 and_CONJ
 left_VERB
 in_PREP
-trust_VERB
+trust_SUBST
 before_PREP
 him_PRON
 suffering_VERB
@@ -7160,7 +7160,7 @@ never_ADV
 regret_VERB
 Failure_SUBST
 to_PREP
-trust_VERB
+trust_SUBST
 God_SUBST
 leaves_VERB
 us_PRON
@@ -9356,7 +9356,7 @@ was_VERB
 necessary_ADJ
 now_ADV
 to_PREP
-trust_VERB
+trust_SUBST
 the_ART
 father_SUBST
 So_ADV
@@ -10140,7 +10140,7 @@ can_VERB
 act_VERB
 and_CONJ
 love_SUBST
-trust_VERB
+trust_SUBST
 and_CONJ
 desire_SUBST
 in_PREP
@@ -11081,7 +11081,7 @@ find_VERB
 it_PRON
 difficult_ADJ
 to_PREP
-trust_VERB
+trust_SUBST
 others_SUBST
 with_PREP
 our_PRON
@@ -11094,7 +11094,7 @@ find_VERB
 it_PRON
 difficult_ADJ
 to_PREP
-trust_VERB
+trust_SUBST
 God_SUBST
 And_CONJ
 yet_ADV
@@ -11110,7 +11110,7 @@ is_VERB
 much_ADJ
 easier_ADJ
 to_PREP
-trust_VERB
+trust_SUBST
 God_SUBST
 with_PREP
 selected_VERB
@@ -12539,7 +12539,7 @@ myself_PRON
 in_PREP
 order_SUBST
 to_PREP
-trust_VERB
+trust_SUBST
 in_PREP
 God_SUBST
 In_PREP
@@ -12578,7 +12578,7 @@ then_ADV
 leads_VERB
 us_PRON
 to_PREP
-trust_VERB
+trust_SUBST
 in_PREP
 God_SUBST
 and_CONJ
@@ -13243,7 +13243,7 @@ Lord_SUBST
 I_PRON
 put_VERB
 my_PRON
-trust_VERB
+trust_SUBST
 Answer_VERB
 thou_PRON
 for_PREP
@@ -13469,7 +13469,7 @@ same_ADJ
 way_SUBST
 as_CONJ
 we_PRON
-trust_VERB
+trust_SUBST
 God_SUBST
 with_PREP
 our_PRON
@@ -14528,7 +14528,7 @@ we_PRON
 can_VERB
 place_SUBST
 our_PRON
-trust_VERB
+trust_SUBST
 and_CONJ
 confidence_SUBST
 in_PREP
@@ -18102,7 +18102,7 @@ would_VERB
 ever_ADV
 naturally_ADV
 connect_VERB
-mourning_VERB
+mourning_SUBST
 with_PREP
 happiness_SUBST
 Mourning_SUBST
@@ -18124,7 +18124,7 @@ this_ADJ
 saying_VERB
 talks_SUBST
 about_PREP
-mourning_VERB
+mourning_SUBST
 in_PREP
 a_ART
 spiritual_ADJ
@@ -18195,7 +18195,7 @@ it_PRON
 to_PREP
 others_SUBST
 Spiritual_ADJ
-mourning_VERB
+mourning_SUBST
 reinforces_VERB
 poverty_SUBST
 of_PREP
@@ -18245,7 +18245,7 @@ in_PREP
 human_ADJ
 nature_SUBST
 True_ADJ
-mourning_VERB
+mourning_SUBST
 cures_SUBST
 us_PRON
 of_PREP
@@ -18303,7 +18303,7 @@ others_SUBST
 In_PREP
 contrast_SUBST
 spiritual_ADJ
-mourning_VERB
+mourning_SUBST
 implies_VERB
 personal_ADJ
 distress_SUBST
@@ -18468,7 +18468,7 @@ died_VERB
 This_ADJ
 kind_SUBST
 of_PREP
-mourning_VERB
+mourning_SUBST
 leads_VERB
 us_PRON
 to_PREP
@@ -18520,7 +18520,7 @@ the_ART
 human_ADJ
 race_SUBST
 Without_PREP
-mourning_VERB
+mourning_SUBST
 on_PREP
 our_PRON
 part_SUBST
@@ -18567,7 +18567,7 @@ of_PREP
 being_VERB
 human_ADJ
 However_ADV
-mourning_VERB
+mourning_SUBST
 has_VERB
 its_PRON
 dark_ADJ
@@ -18623,7 +18623,7 @@ God_SUBST
 's_UNC
 love_SUBST
 Our_PRON
-mourning_VERB
+mourning_SUBST
 can_VERB
 only_ADV
 be_VERB
@@ -18649,7 +18649,7 @@ about_PREP
 his_PRON
 followers_SUBST
 '_UNC
-mourning_VERB
+mourning_SUBST
 Now_ADV
 is_VERB
 your_PRON
@@ -18787,7 +18787,7 @@ a_ART
 future_SUBST
 hope_VERB
 This_ADJ
-mourning_VERB
+mourning_SUBST
 cleanses_VERB
 us_PRON
 of_PREP
@@ -20049,7 +20049,7 @@ with_PREP
 an_ART
 emphasis_SUBST
 on_PREP
-trust_VERB
+trust_SUBST
 rather_ADV
 than_CONJ
 on_PREP
@@ -22730,7 +22730,7 @@ fun_SUBST
 many_ADJ
 pleasures_SUBST
 many_ADJ
-stabs_VERB
+stabs_SUBST
 of_PREP
 joy_SUBST
 but_CONJ
@@ -22782,7 +22782,7 @@ experiences_SUBST
 in_PREP
 his_PRON
 autobiography_SUBST
-Surprised_ADJ
+Surprised_VERB
 by_PREP
 Joy_SUBST
 The_ART
@@ -26059,7 +26059,7 @@ the_ART
 snow_SUBST
 tobogganing_VERB
 and_CONJ
-snowballing_ADJ
+snowballing_VERB
 and_CONJ
 building_SUBST
 a_ART
@@ -27980,7 +27980,7 @@ This_ADJ
 joy_SUBST
 expresses_VERB
 unlimited_ADJ
-trust_VERB
+trust_SUBST
 in_PREP
 the_ART
 power_SUBST
@@ -29421,7 +29421,7 @@ depend_VERB
 on_PREP
 him_PRON
 in_PREP
-trust_VERB
+trust_SUBST
 and_CONJ
 love_SUBST
 This_ADJ
@@ -29447,7 +29447,7 @@ emotions_SUBST
 To_PREP
 believe_VERB
 and_CONJ
-trust_VERB
+trust_SUBST
 in_PREP
 God_SUBST
 means_SUBST
@@ -30588,7 +30588,7 @@ love_SUBST
 others_SUBST
 and_CONJ
 to_PREP
-trust_VERB
+trust_SUBST
 in_PREP
 God_SUBST
 We_PRON
@@ -30816,7 +30816,7 @@ relinquish_VERB
 myself_PRON
 and_CONJ
 to_PREP
-trust_VERB
+trust_SUBST
 you_PRON
 O_SUBST
 God_SUBST
@@ -33428,7 +33428,7 @@ have_VERB
 to_PREP
 learn_VERB
 to_PREP
-trust_VERB
+trust_SUBST
 not_ADV
 in_PREP
 our_PRON

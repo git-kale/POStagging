@@ -3059,7 +3059,7 @@ prayers_SUBST
 the_ART
 joys_SUBST
 the_ART
-trust_VERB
+trust_SUBST
 How_ADV
 ill-concealed_ADJ
 by_PREP
@@ -4535,7 +4535,7 @@ flights_SUBST
 into_PREP
 the_ART
 merest_ADJ
-commuting_VERB
+commuting_SUBST
 as_CONJ
 mechanical_ADJ
 and_CONJ
@@ -6725,7 +6725,7 @@ seen_VERB
 reflected_VERB
 in_PREP
 the_ART
-renaming_VERB
+renaming_SUBST
 of_PREP
 the_ART
 Dublin_SUBST
@@ -9002,7 +9002,7 @@ glass_SUBST
 admitting_VERB
 light_SUBST
 but_CONJ
-excluding_VERB
+excluding_PREP
 the_ART
 elements_SUBST
 It_PRON
@@ -12503,7 +12503,7 @@ ferrovitreous_ADJ
 stables_SUBST
 of_PREP
 the_ART
-champing_VERB
+champing_ADJ
 iron_SUBST
 horses_SUBST
 As_CONJ
@@ -19409,7 +19409,7 @@ prepared_VERB
 the_ART
 traveller_SUBST
 or_CONJ
-sightseer_VERB
+sightseer_SUBST
 for_PREP
 the_ART
 vast_ADJ
@@ -22411,7 +22411,7 @@ quite_ADV
 different_ADJ
 from_PREP
 everyday_ADJ
-commuting_VERB
+commuting_SUBST
 and_CONJ
 business_SUBST
 travel_SUBST
@@ -26690,7 +26690,7 @@ laid_VERB
 to_PREP
 commemorate_VERB
 the_ART
-bicentennial_ADJ
+bicentennial_SUBST
 of_PREP
 the_ART
 founding_SUBST
@@ -28248,7 +28248,7 @@ walls_SUBST
 frescoes_SUBST
 by_PREP
 Fernando_SUBST
-Leal_SUBST
+Leal_ADJ
 It_PRON
 was_VERB
 very_ADV

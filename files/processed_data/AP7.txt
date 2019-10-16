@@ -6126,7 +6126,7 @@ present_ADJ
 a_ART
 typical_ADJ
 spread_VERB
-excluding_VERB
+excluding_PREP
 only_ADV
 the_ART
 very_ADV
@@ -8139,7 +8139,7 @@ a_ART
 great_ADJ
 but_CONJ
 slow_ADJ
-drier_ADJ
+drier_SUBST
 By_PREP
 comparing_VERB
 different_ADJ
@@ -10212,7 +10212,7 @@ men_SUBST
 to_PREP
 use_SUBST
 the_ART
-trust_VERB
+trust_SUBST
 capital_SUBST
 for_PREP
 the_ART
@@ -11752,7 +11752,7 @@ or_CONJ
 animals_SUBST
 keeping_VERB
 chickens_SUBST
-gathering_SUBST
+gathering_VERB
 firewood_SUBST
 or_CONJ
 growing_ADJ
@@ -17381,7 +17381,7 @@ and_CONJ
 penniless_ADJ
 Lack_SUBST
 of_PREP
-trust_VERB
+trust_SUBST
 or_CONJ
 love_SUBST
 framed_VERB
@@ -24648,7 +24648,7 @@ take_VERB
 all_ADJ
 the_ART
 kids_SUBST
-gathering_SUBST
+gathering_VERB
 coltsfoot_SUBST
 You_PRON
 had_VERB

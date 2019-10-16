@@ -723,7 +723,7 @@ a_ART
 highlight_VERB
 in_PREP
 Cautley_SUBST
-Spout_VERB
+Spout_SUBST
 where_ADV
 waterfalls_SUBST
 plunge_VERB
@@ -2677,7 +2677,7 @@ legend_SUBST
 it_PRON
 replaced_VERB
 a_ART
-fifth-century_ADJ
+fifth-century_SUBST
 fortress_SUBST
 occupied_VERB
 by_PREP
@@ -4100,7 +4100,7 @@ the_ART
 many_ADJ
 shafts_SUBST
 of_PREP
-Tailbrigg_VERB
+Tailbrigg_SUBST
 Pots_SUBST
 Beyond_PREP
 here_ADV
@@ -6345,7 +6345,7 @@ Edge_SUBST
 Lady_SUBST
 's_UNC
 Pillar_SUBST
-Tailbrigg_VERB
+Tailbrigg_SUBST
 Pots_SUBST
 Nine_ADJ
 Standards_SUBST
@@ -15781,7 +15781,7 @@ Twin_SUBST
 Falls_SUBST
 Holly_SUBST
 Bush_SUBST
-Spout_VERB
+Spout_SUBST
 Thornton_SUBST
 Force_SUBST
 Beezley_SUBST
@@ -19088,7 +19088,7 @@ than_CONJ
 a_ART
 show_VERB
 cave_SUBST
-Guided_VERB
+Guided_ADJ
 parties_SUBST
 are_VERB
 taken_VERB

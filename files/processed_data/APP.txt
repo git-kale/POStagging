@@ -27399,7 +27399,7 @@ clubs_SUBST
 in_PREP
 the_ART
 city_SUBST
-gathering_SUBST
+gathering_VERB
 as_CONJ
 many_ADJ
 new_ADJ

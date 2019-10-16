@@ -3062,7 +3062,7 @@ a_ART
 good_ADJ
 way_SUBST
 of_PREP
-savaging_SUBST
+savaging_VERB
 your_PRON
 opponent_SUBST
 The_ART
@@ -5070,7 +5070,7 @@ that_CONJ
 Madness_SUBST
 and_CONJ
 the_ART
-2-Tone_ADJ
+2-Tone_SUBST
 bands_SUBST
 appeared_VERB
 Madness_SUBST
@@ -6416,7 +6416,7 @@ will_VERB
 refer_VERB
 to_PREP
 vintage_SUBST
-2-Tone_ADJ
+2-Tone_SUBST
 or_CONJ
 Madness_SUBST
 or_CONJ
@@ -13116,7 +13116,7 @@ some_ADJ
 friends_SUBST
 what_PRON
 I_PRON
-trust_VERB
+trust_SUBST
 is_VERB
 a_ART
 fairly_ADV

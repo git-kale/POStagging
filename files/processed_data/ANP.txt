@@ -7,7 +7,7 @@ VIEW_SUBST
 Archie_SUBST
 Skinner_SUBST
 on_PREP
-composting_SUBST
+composting_VERB
 at_PREP
 Sheffield_SUBST
 Park_SUBST
@@ -5679,7 +5679,7 @@ in_PREP
 Suffolk_SUBST
 woodturners_SUBST
 and_CONJ
-craftspeople_VERB
+craftspeople_SUBST
 from_PREP
 around_PREP
 the_ART
@@ -8282,7 +8282,7 @@ too_ADV
 hot_ADJ
 or_CONJ
 becoming_VERB
-mildewed_ADJ
+mildewed_VERB
 Stacked_VERB
 for_PREP
 six_ADJ
@@ -8926,7 +8926,7 @@ its_PRON
 optional_ADJ
 electronic_ADJ
 ABS_ADJ
-braking_ADJ
+braking_VERB
 system_SUBST
 stopping_VERB
 quickly_ADV
@@ -15485,7 +15485,7 @@ when_CONJ
 we_PRON
 have_VERB
 become_VERB
-sated_ADJ
+sated_VERB
 with_PREP
 effortless_ADJ
 mobility_SUBST
@@ -19205,7 +19205,7 @@ for_PREP
 the_ART
 master_SUBST
 's_UNC
-homecoming_SUBST
+homecoming_ADJ
 While_CONJ
 waiting_VERB
 for_PREP

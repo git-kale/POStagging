@@ -5,7 +5,6 @@ from multiprocessing import Pool
 from time import time
 
 def process_file(file_name):
-    print("Processing "+file_name+"...")
     
     #opening the xml file
     tree = ET.parse(DATA_DIR+file_name)

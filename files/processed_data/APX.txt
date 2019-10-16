@@ -5370,7 +5370,7 @@ who_PRON
 hold_VERB
 positions_SUBST
 of_PREP
-trust_VERB
+trust_SUBST
 It_PRON
 is_VERB
 interesting_ADJ
@@ -6331,7 +6331,7 @@ take_VERB
 the_ART
 lowest_ADJ
 figure_SUBST
-excluding_VERB
+excluding_PREP
 the_ART
 risk_SUBST
 factor_SUBST
@@ -6448,7 +6448,7 @@ Portland_SUBST
 place_SUBST
 to_PREP
 the_ART
-trust_VERB
+trust_SUBST
 set_VERB
 up_ADV
 to_PREP
@@ -6473,7 +6473,7 @@ produce_VERB
 revenue_SUBST
 for_PREP
 the_ART
-trust_VERB
+trust_SUBST
 If_CONJ
 number_SUBST
 68_ADJ
@@ -6500,7 +6500,7 @@ of_PREP
 funds_SUBST
 for_PREP
 the_ART
-trust_VERB
+trust_SUBST
 should_VERB
 also_ADV
 be_VERB
@@ -12898,7 +12898,7 @@ leading_VERB
 nobility_SUBST
 long_ADJ
 since_CONJ
-deceased_ADJ
+deceased_SUBST
 one_ADJ
 of_PREP
 princely_ADJ

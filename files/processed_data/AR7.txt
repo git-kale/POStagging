@@ -3314,7 +3314,7 @@ the_ART
 athletes_SUBST
 '_UNC
 individual_ADJ
-trust_VERB
+trust_SUBST
 funds_SUBST
 to_PREP
 cover_SUBST
@@ -8327,7 +8327,7 @@ Hazard_SUBST
 eagerly_ADV
 points_SUBST
 out_ADV
-resoling_VERB
+resoling_SUBST
 will_VERB
 not_ADV
 discernably_ADV
@@ -8392,7 +8392,7 @@ possible_ADJ
 but_CONJ
 generally_ADV
 the_ART
-resoling_VERB
+resoling_SUBST
 replaces_VERB
 like_PREP
 with_PREP
@@ -8588,7 +8588,7 @@ also_ADV
 help_VERB
 Restitching_VERB
 uppers_SUBST
-patching_VERB
+patching_SUBST
 holes_SUBST
 or_CONJ
 individually_ADV
@@ -10435,7 +10435,7 @@ water_SUBST
 pistol_SUBST
 that_CONJ
 he_PRON
-squirts_VERB
+squirts_SUBST
 into_PREP
 dogs_SUBST
 '_UNC
@@ -11941,7 +11941,7 @@ are_VERB
 recovering_VERB
 from_PREP
 an_ART
-over-use_SUBST
+over-use_VERB
 injury_SUBST
 an_ART
 immediate_ADJ
@@ -28453,7 +28453,7 @@ a_ART
 time_SUBST
 of_PREP
 2:33:18_ADJ
-Punchbowl_SUBST
+Punchbowl_VERB
 Marathon_SUBST
 February_SUBST
 3_ADJ
@@ -28550,7 +28550,7 @@ after_PREP
 miles_SUBST
 with_PREP
 the_ART
-Punchbowl_SUBST
+Punchbowl_VERB
 being_VERB
 a_ART
 descent_SUBST

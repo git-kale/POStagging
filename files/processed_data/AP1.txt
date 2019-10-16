@@ -7377,7 +7377,7 @@ standby_ADJ
 is_VERB
 Pay_VERB
 &_CONJ
-Display_SUBST
+Display_VERB
 in_PREP
 King_SUBST
 Charles_SUBST
@@ -11057,7 +11057,7 @@ VAT_SUBST
 and_CONJ
 Service_SUBST
 but_CONJ
-excluding_VERB
+excluding_PREP
 breakfast_SUBST
 for_PREP
 the_ART
@@ -23540,7 +23540,7 @@ years_SUBST
 '_UNC
 world_SUBST
 license_SUBST
-excluding_VERB
+excluding_PREP
 USA_SUBST
 Message_SUBST
 in_PREP

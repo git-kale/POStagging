@@ -17731,7 +17731,7 @@ built_VERB
 by_PREP
 a_ART
 Scottish_ADJ
-mercenary_ADJ
+mercenary_SUBST
 who_PRON
 in_PREP
 the_ART
@@ -19448,7 +19448,7 @@ were_VERB
 created_VERB
 by_PREP
 Matthew_SUBST
-Zimprecht_VERB
+Zimprecht_SUBST
 around_PREP
 1669_ADJ
 Note_VERB
@@ -22403,7 +22403,7 @@ is_VERB
 a_ART
 Crucifixion_SUBST
 by_PREP
-Zimprecht_VERB
+Zimprecht_SUBST
 Beneath_PREP
 this_ADJ
 lies_VERB
@@ -23057,7 +23057,7 @@ He_PRON
 was_VERB
 a_ART
 Protestant_ADJ
-mercenary_ADJ
+mercenary_SUBST
 from_PREP
 Moravia_SUBST
 who_PRON
@@ -32038,7 +32038,7 @@ amateurs_SUBST
 du_UNC
 pittoresque_ADJ
 sordide_SUBST
-peuvent_VERB
+peuvent_SUBST
 le_UNC
 regretter_SUBST
 les_UNC
@@ -32052,7 +32052,7 @@ de_SUBST
 la_UNC
 lumi\xc3\xa8re_UNC
 ne_UNC
-peuvent_VERB
+peuvent_SUBST
 que_UNC
 s'en_ADJ
 r\xc3\xa9jouir_UNC

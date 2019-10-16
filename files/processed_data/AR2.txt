@@ -16218,7 +16218,7 @@ right_ADJ
 hand_SUBST
 They_PRON
 were_VERB
-mourning_VERB
+mourning_SUBST
 rings_SUBST
 real_ADJ
 eighteenth_ADJ
@@ -19840,7 +19840,7 @@ counted_VERB
 amongst_PREP
 a_ART
 farewell_SUBST
-gathering_SUBST
+gathering_VERB
 of_PREP
 lovers_SUBST
 dear_ADJ
@@ -23430,7 +23430,7 @@ of_PREP
 squalor_SUBST
 and_CONJ
 indeed_ADV
-sleaze_VERB
+sleaze_SUBST
 which_PRON
 cling_VERB
 to_PREP

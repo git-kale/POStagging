@@ -2745,7 +2745,7 @@ out_ADV
 of_PREP
 solution_SUBST
 The_ART
-sequestrant_ADJ
+sequestrant_SUBST
 mechanism_SUBST
 is_VERB
 also_ADV
@@ -3755,7 +3755,7 @@ well_ADV
 broken_VERB
 loose_ADJ
 and_CONJ
-particulate_SUBST
+particulate_VERB
 soil_SUBST
 will_VERB
 have_VERB
@@ -3985,7 +3985,7 @@ a_ART
 chemical_ADJ
 than_CONJ
 does_VERB
-particulate_SUBST
+particulate_VERB
 matter_SUBST
 Where_ADV
 a_ART
@@ -6387,7 +6387,7 @@ the_ART
 disinfection_SUBST
 role_SUBST
 a_ART
-sterilising_VERB
+sterilising_ADJ
 sink_SUBST
 has_VERB
 a_ART
@@ -6420,7 +6420,7 @@ time_SUBST
 Variations_SUBST
 of_PREP
 the_ART
-sterilising_VERB
+sterilising_ADJ
 sink_SUBST
 include_VERB
 a_ART
@@ -8243,7 +8243,7 @@ until_CONJ
 the_ART
 advent_SUBST
 of_PREP
-bisguanides_SUBST
+bisguanides_VERB
 Amphoterics_SUBST
 They_PRON
 have_VERB
@@ -8346,7 +8346,7 @@ compounded_VERB
 with_PREP
 QACs_SUBST
 or_CONJ
-bisguanides_SUBST
+bisguanides_VERB
 they_PRON
 can_VERB
 be_VERB
@@ -11117,7 +11117,7 @@ drastic_ADJ
 with_PREP
 costs_SUBST
 through_PREP
-over-use_SUBST
+over-use_VERB
 usually_ADV
 far_ADV
 exceeding_VERB
@@ -11829,7 +11829,7 @@ of_PREP
 high_ADJ
 levels_SUBST
 of_PREP
-sequestrant_ADJ
+sequestrant_SUBST
 Complex_SUBST
 polyphosphates_SUBST
 are_VERB
@@ -12094,7 +12094,7 @@ hardness_SUBST
 salts_SUBST
 with_PREP
 a_ART
-sequestrant_ADJ
+sequestrant_SUBST
 load_SUBST
 detergents_SUBST
 Format_SUBST
@@ -12687,7 +12687,7 @@ practice_SUBST
 that_CONJ
 leads_VERB
 to_PREP
-over-use_SUBST
+over-use_VERB
 rinsing_VERB
 difficulties_SUBST
 and_CONJ
@@ -12786,7 +12786,7 @@ caustic_ADJ
 soda_SUBST
 and_CONJ
 balancing_VERB
-sequestrant_ADJ
+sequestrant_SUBST
 Potassium_SUBST
 rather_ADV
 than_CONJ
@@ -15016,7 +15016,7 @@ which_PRON
 are_VERB
 capable_ADJ
 of_PREP
-sterilising_VERB
+sterilising_ADJ
 are_VERB
 either_ADV
 so_ADV
@@ -16110,7 +16110,7 @@ operation_SUBST
 and_CONJ
 thereby_ADV
 limiting_ADJ
-over-use_SUBST
+over-use_VERB
 of_PREP
 the_ART
 chemical_ADJ
@@ -18486,7 +18486,7 @@ some_ADJ
 application_SUBST
 in_PREP
 the_ART
-drier_ADJ
+drier_SUBST
 phases_SUBST
 of_PREP
 cleaning_SUBST
@@ -24955,7 +24955,7 @@ a_ART
 mutual_ADJ
 atmosphere_SUBST
 of_PREP
-trust_VERB
+trust_SUBST
 Thus_ADV
 if_CONJ
 there_PRON
@@ -26248,7 +26248,7 @@ more_ADV
 you_PRON
 use_SUBST
 so_ADV
-over-use_SUBST
+over-use_VERB
 will_VERB
 tend_VERB
 to_PREP
@@ -34046,7 +34046,7 @@ a_ART
 squeeze_VERB
 mop_SUBST
 Filters_SUBST
-Brush_SUBST
+Brush_VERB
 off_ADV
 loose_ADJ
 debris_SUBST

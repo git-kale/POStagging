@@ -42,7 +42,7 @@ there_PRON
 are_VERB
 often_ADV
 separate_ADJ
-intelligence-gathering_SUBST
+intelligence-gathering_ADJ
 sections_SUBST
 in_PREP
 each_ADJ
@@ -3599,7 +3599,7 @@ Chapter_SUBST
 3_ADJ
 which_PRON
 was_VERB
-bungled_ADJ
+bungled_VERB
 from_PREP
 start_VERB
 to_PREP
@@ -5849,7 +5849,7 @@ The_ART
 American_ADJ
 intelligence_SUBST
 agencies_SUBST
-excluding_VERB
+excluding_PREP
 the_ART
 FBI_SUBST
 are_VERB
@@ -15870,7 +15870,7 @@ MI6_UNC
 included_VERB
 not_ADV
 only_ADV
-gathering_SUBST
+gathering_VERB
 intelligence_SUBST
 from_PREP
 the_ART
@@ -25220,7 +25220,7 @@ statesmen_SUBST
 anxious_ADJ
 to_PREP
 build_VERB
-peacemaking_SUBST
+peacemaking_VERB
 bridges_SUBST
 between_PREP
 East_SUBST
@@ -30383,7 +30383,7 @@ the_ART
 dinghy_SUBST
 had_VERB
 a_ART
-serial_SUBST
+serial_ADJ
 number_SUBST
 on_PREP
 it_PRON
@@ -34936,7 +34936,7 @@ to_PREP
 attack_SUBST
 Libya_SUBST
 was_VERB
-gathering_SUBST
+gathering_VERB
 momentum_SUBST
 On_PREP
 22_ADJ

@@ -432,7 +432,7 @@ far_ADV
 the_ART
 largest_ADJ
 single_ADJ
-gathering_SUBST
+gathering_VERB
 was_VERB
 of_PREP
 course_SUBST
@@ -671,7 +671,7 @@ of_PREP
 the_ART
 borders_SUBST
 of_PREP
-mourning_VERB
+mourning_SUBST
 cards_SUBST
 They_PRON
 coincided_VERB
@@ -4461,7 +4461,7 @@ large_ADJ
 confident_ADJ
 handwriting_SUBST
 well_ADV
-laid-out_VERB
+laid-out_ADJ
 Male_ADJ
 Ventriloquism_SUBST
 was_VERB
@@ -4769,7 +4769,7 @@ and_CONJ
 looked_VERB
 at_PREP
 the_ART
-dissolving_ADJ
+dissolving_VERB
 blue_ADJ
 and_CONJ
 gold_SUBST
@@ -7476,7 +7476,7 @@ the_ART
 house_SUBST
 fronts_SUBST
 someone_PRON
-stabs_VERB
+stabs_SUBST
 him_PRON
 in_PREP
 the_ART
@@ -8139,7 +8139,7 @@ always_ADV
 slightly_ADV
 despised_VERB
 those_ADJ
-enchanted_ADJ
+enchanted_VERB
 by_PREP
 things_SUBST
 touched_VERB
@@ -9587,7 +9587,7 @@ were_VERB
 ghost-desks_SUBST
 secondary_ADJ
 desks_SUBST
-stammering_VERB
+stammering_ADJ
 desks_SUBST
 DD_SUBST
 GG_SUBST
@@ -11158,7 +11158,7 @@ n't_ADV
 I_PRON
 would_VERB
 n't_ADV
-trust_VERB
+trust_SUBST
 anyone_PRON
 faced_VERB
 with_PREP
@@ -12769,8 +12769,8 @@ One_ADJ
 Call_VERB
 quavering_VERB
 there_PRON
-Rapunzel_VERB
-Rapunzel_VERB
+Rapunzel_SUBST
+Rapunzel_SUBST
 Let_VERB
 down_ADV
 your_PRON
@@ -18764,7 +18764,7 @@ every_ART
 colour_SUBST
 peacock_SUBST
 crimson_ADJ
-sunflower_VERB
+sunflower_SUBST
 deep_ADJ
 rose_VERB
 nothing_PRON
@@ -25169,7 +25169,7 @@ again_ADV
 your_PRON
 own_ADJ
 I_PRON
-trust_VERB
+trust_SUBST
 you_PRON
 will_VERB
 feel_VERB
@@ -26374,7 +26374,7 @@ The_ART
 village_SUBST
 is_VERB
 called_VERB
-Croysant_ADJ
+Croysant_SUBST
 le_UNC
 Wold_SUBST
 it_PRON
@@ -26414,7 +26414,7 @@ do_VERB
 n't_ADV
 think_VERB
 the_ART
-Croysant_ADJ
+Croysant_SUBST
 church_SUBST
 is_VERB
 in_PREP
@@ -26422,7 +26422,7 @@ use_SUBST
 nowadays_ADV
 Christabel_SUBST
 thought_VERB
-Croysant_ADJ
+Croysant_SUBST
 was_VERB
 derived_VERB
 from_PREP
@@ -26748,7 +26748,7 @@ Bailey_SUBST
 of_PREP
 Seal_SUBST
 Court_SUBST
-Croysant_ADJ
+Croysant_SUBST
 le_UNC
 Wold_SUBST
 Born_VERB
@@ -27210,7 +27210,7 @@ nevertheless_ADV
 his_PRON
 town_SUBST
 shoes_SUBST
-thickening_SUBST
+thickening_VERB
 with_PREP
 mud_SUBST
 as_CONJ
@@ -31269,7 +31269,7 @@ as_CONJ
 though_CONJ
 he_PRON
 was_VERB
-prying_VERB
+prying_ADJ
 and_CONJ
 as_CONJ
 though_CONJ
@@ -33028,7 +33028,7 @@ I_PRON
 make_VERB
 but_CONJ
 a_ART
-stammering_VERB
+stammering_ADJ
 companion_SUBST
 I_PRON
 have_VERB
@@ -33415,7 +33415,7 @@ because_CONJ
 I_PRON
 do_VERB
 not_ADV
-trust_VERB
+trust_SUBST
 your_PRON
 honour_SUBST
 but_CONJ
@@ -34225,7 +34225,7 @@ the_ART
 best_ADJ
 people_SUBST
 to_PREP
-trust_VERB
+trust_SUBST
 with_PREP
 the_ART
 reading_SUBST

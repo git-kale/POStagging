@@ -2834,7 +2834,7 @@ you_PRON
 think_VERB
 I_PRON
 could_VERB
-trust_VERB
+trust_SUBST
 with_PREP
 that_CONJ
 hanging_VERB
@@ -2851,7 +2851,7 @@ she_PRON
 snapped_VERB
 You_PRON
 can_VERB
-trust_VERB
+trust_SUBST
 me_PRON
 I_PRON
 'm_VERB
@@ -4737,7 +4737,7 @@ go_VERB
 who_PRON
 we_PRON
 can_VERB
-trust_VERB
+trust_SUBST
 Tweed_SUBST
 reacting_VERB
 automatically_ADV
@@ -4790,7 +4790,7 @@ starters_SUBST
 who_PRON
 can_VERB
 we_PRON
-trust_VERB
+trust_SUBST
 No_INTERJ
 one_ADJ
 he_PRON
@@ -6534,7 +6534,7 @@ fugitive_SUBST
 We_PRON
 ca_VERB
 n't_ADV
-trust_VERB
+trust_SUBST
 anyone_PRON
 There_PRON
 's_UNC
@@ -8325,7 +8325,7 @@ I_PRON
 feel_VERB
 we_PRON
 can_VERB
-trust_VERB
+trust_SUBST
 to_PREP
 keep_VERB
 it_PRON
@@ -9377,7 +9377,7 @@ replying_VERB
 You_PRON
 do_VERB
 n't_ADV
-trust_VERB
+trust_SUBST
 him_PRON
 Newman_SUBST
 said_VERB
@@ -15816,7 +15816,7 @@ Now_ADV
 he_PRON
 did_VERB
 n't_ADV
-trust_VERB
+trust_SUBST
 him_PRON
 Why_ADV
 Some_ADJ
@@ -18922,7 +18922,7 @@ London_SUBST
 Who_PRON
 can_VERB
 we_PRON
-trust_VERB
+trust_SUBST
 Maybe_ADV
 someone_PRON
 high_ADJ
@@ -19382,7 +19382,7 @@ though_CONJ
 you_PRON
 do_VERB
 n't_ADV
-trust_VERB
+trust_SUBST
 anyone_PRON
 except_CONJ
 yourself_PRON
@@ -19538,7 +19538,7 @@ eight_ADJ
 cars_SUBST
 I_PRON
 've_VERB
-double-checked_ADJ
+double-checked_SUBST
 the_ART
 registration_SUBST
 numbers_SUBST
@@ -20546,7 +20546,7 @@ the_ART
 desk_SUBST
 They_PRON
 do_VERB
-trust_VERB
+trust_SUBST
 each_ADJ
 other_ADJ
 Horowitz_SUBST

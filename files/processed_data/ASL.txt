@@ -7835,7 +7835,7 @@ process_SUBST
 of_PREP
 pattern_SUBST
 formation_SUBST
-Patterning_SUBST
+Patterning_VERB
 poses_VERB
 the_ART
 problem_SUBST
@@ -20526,7 +20526,7 @@ they_PRON
 attach_VERB
 Chapter_SUBST
 10_ADJ
-Patterning_SUBST
+Patterning_VERB
 in_PREP
 all_ADJ
 systems_SUBST

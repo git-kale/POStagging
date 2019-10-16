@@ -1975,7 +1975,7 @@ set_VERB
 a_ART
 date_SUBST
 and_CONJ
-trust_VERB
+trust_SUBST
 to_PREP
 luck_SUBST
 that_CONJ
@@ -4454,7 +4454,7 @@ some_ADJ
 big_ADJ
 swells_SUBST
 Amen_INTERJ
-IT_PRON
+IT_SUBST
 TOOK_VERB
 a_ART
 while_CONJ
@@ -5047,7 +5047,7 @@ no_ART
 longer_ADV
 voodoo_SUBST
 and_CONJ
-mumbo-jumbo_SUBST
+mumbo-jumbo_ADJ
 to_PREP
 us_PRON
 We_PRON
@@ -6083,7 +6083,7 @@ the_ART
 pursuit_SUBST
 of_PREP
 truth_SUBST
-IT_PRON
+IT_SUBST
 WAS_VERB
 the_ART
 middle_SUBST
@@ -11604,7 +11604,7 @@ on_PREP
 the_ART
 beach_SUBST
 at_PREP
-Banzai_ADJ
+Banzai_SUBST
 and_CONJ
 Pat_SUBST
 said_VERB
@@ -11634,7 +11634,7 @@ began_VERB
 to_PREP
 circulate_VERB
 that_CONJ
-Banzai_ADJ
+Banzai_SUBST
 had_VERB
 been_VERB
 conquered_VERB
@@ -11727,7 +11727,7 @@ added_VERB
 to_PREP
 the_ART
 name_SUBST
-Banzai_ADJ
+Banzai_SUBST
 Edwards_SUBST
 's_UNC
 trailblazing_ADJ
@@ -18909,7 +18909,7 @@ a_ART
 fifteen-foot_ADJ
 wave_SUBST
 at_PREP
-Banzai_ADJ
+Banzai_SUBST
 Pipeline_SUBST
 you_PRON
 can_VERB
@@ -19883,7 +19883,7 @@ lives_SUBST
 on_PREP
 at_PREP
 the_ART
-Banzai_ADJ
+Banzai_SUBST
 Pipeline_SUBST
 not_ADV
 so_ADV
@@ -20572,7 +20572,7 @@ won_VERB
 the_ART
 world_SUBST
 title_SUBST
-IT_PRON
+IT_SUBST
 'S_UNC
 DOG_SUBST
 eat_VERB
@@ -24816,7 +24816,7 @@ and_CONJ
 running_VERB
 Bodo_SUBST
 was_VERB
-champing_VERB
+champing_ADJ
 at_PREP
 the_ART
 bit_SUBST
@@ -26545,7 +26545,7 @@ they_PRON
 've_VERB
 been_VERB
 completely_ADV
-disenfranchised_VERB
+disenfranchised_ADJ
 Genetically_ADV
 they_PRON
 've_VERB
@@ -30393,7 +30393,7 @@ out_ADV
 If_CONJ
 Sunset_SUBST
 Beach_SUBST
-Banzai_ADJ
+Banzai_SUBST
 Pipeline_SUBST
 and_CONJ
 Waimea_SUBST

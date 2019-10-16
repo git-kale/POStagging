@@ -720,7 +720,7 @@ you_PRON
 expect_VERB
 anyone_PRON
 to_PREP
-trust_VERB
+trust_SUBST
 you_PRON
 with_PREP
 their_PRON
@@ -1579,7 +1579,7 @@ legs_SUBST
 at_PREP
 a_ART
 social_ADJ
-gathering_SUBST
+gathering_VERB
 and_CONJ
 talk_VERB
 seriously_ADV
@@ -3964,7 +3964,7 @@ street_SUBST
 outside_PREP
 or_CONJ
 the_ART
-homecoming_SUBST
+homecoming_ADJ
 commuters_SUBST
 clacking_VERB
 through_PREP
@@ -5253,7 +5253,7 @@ anxious_ADJ
 face_SUBST
 his_PRON
 nervous_ADJ
-nibble_VERB
+nibble_SUBST
 at_PREP
 his_PRON
 lower_ADJ
@@ -12024,7 +12024,7 @@ AND_CONJ
 TALKED_VERB
 TO_PREP
 NICELY_ADV
-IT_PRON
+IT_SUBST
 DIED_VERB
 PEACEFULLY_ADV
 Elinor_SUBST
@@ -12813,13 +12813,13 @@ which_PRON
 read_VERB
 EDENWORT_SUBST
 SLICE_VERB
-IT_PRON
+IT_SUBST
 OR_CONJ
 BAKE_VERB
-IT_PRON
+IT_SUBST
 OR_CONJ
 USE_VERB
-IT_PRON
+IT_SUBST
 IN_PREP
 CASSEROLES_SUBST
 Or_CONJ
@@ -27884,7 +27884,7 @@ badly_ADV
 you_PRON
 go_VERB
 round_ADV
-bonking_SUBST
+bonking_VERB
 men_SUBST
 on_PREP
 the_ART
@@ -30205,7 +30205,7 @@ It_PRON
 was_VERB
 primarily_ADV
 a_ART
-Display_SUBST
+Display_VERB
 Laugh_VERB
 something_PRON
 to_PREP
@@ -31216,7 +31216,7 @@ talked_VERB
 about_PREP
 the_ART
 recently_ADV
-deceased_ADJ
+deceased_SUBST
 Inaccurate_ADJ
 would_VERB
 be_VERB
@@ -36384,7 +36384,7 @@ Henry_SUBST
 dangerously_ADV
 like_PREP
 illicit_ADJ
-bonking_SUBST
+bonking_VERB
 And_CONJ
 the_ART
 not_ADV

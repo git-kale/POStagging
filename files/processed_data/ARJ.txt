@@ -57,7 +57,7 @@ only_ADV
 you_PRON
 Can_VERB
 you_PRON
-trust_VERB
+trust_SUBST
 him_PRON
 By_PREP
 Myron_SUBST
@@ -190,7 +190,7 @@ ca_VERB
 n't_ADV
 we_PRON
 even_ADV
-trust_VERB
+trust_SUBST
 our_PRON
 teachers_SUBST
 with_PREP
@@ -3405,7 +3405,7 @@ a_ART
 bit_SUBST
 of_PREP
 a_ART
-cuddle_VERB
+cuddle_SUBST
 9.30_ADJ
 Write_VERB
 start_VERB
@@ -13910,7 +13910,7 @@ by_PREP
 being_VERB
 physically_ADV
 active_ADJ
-Grab_VERB
+Grab_SUBST
 those_ADJ
 training_SUBST
 shoes_SUBST
@@ -14342,7 +14342,7 @@ each_ADJ
 CHANGE_SUBST
 FOR_PREP
 THE_ART
-BETTER_ADV
+BETTER_ADJ
 You_PRON
 can_VERB
 lose_VERB
@@ -14886,7 +14886,7 @@ wo_VERB
 n't_ADV
 want_VERB
 to_PREP
-nibble_VERB
+nibble_SUBST
 until_CONJ
 lunch_SUBST
 SHE_PRON
@@ -15720,7 +15720,7 @@ Joan_SUBST
 Collins_SUBST
 and_CONJ
 Ursula_SUBST
-Andress_VERB
+Andress_SUBST
 This_ADJ
 new_ADJ
 spirituality_SUBST
@@ -16770,7 +16770,7 @@ reads_VERB
 of_PREP
 the_ART
 horrific_ADJ
-savaging_SUBST
+savaging_VERB
 and_CONJ
 killing_VERB
 of_PREP
@@ -23010,7 +23010,7 @@ experience_SUBST
 the_ART
 constancy_SUBST
 and_CONJ
-trust_VERB
+trust_SUBST
 that_CONJ
 comes_VERB
 only_ADV
@@ -24547,7 +24547,7 @@ Convey_VERB
 a_ART
 sense_SUBST
 of_PREP
-trust_VERB
+trust_SUBST
 in_PREP
 your_PRON
 partner_SUBST
@@ -24567,7 +24567,7 @@ a_ART
 successful_ADJ
 marriage_SUBST
 Yes_INTERJ
-trust_VERB
+trust_SUBST
 is_VERB
 sometimes_ADV
 betrayed_VERB
@@ -24584,7 +24584,7 @@ the_ART
 other_ADJ
 person_SUBST
 extending_VERB
-trust_VERB
+trust_SUBST
 helps_VERB
 to_PREP
 create_VERB
@@ -25547,7 +25547,7 @@ of_PREP
 Britain_SUBST
 's_UNC
 top_SUBST
-craftspeople_VERB
+craftspeople_SUBST
 will_VERB
 be_VERB
 on_PREP
@@ -27902,7 +27902,7 @@ else_ADV
 you_PRON
 ca_VERB
 n't_ADV
-trust_VERB
+trust_SUBST
 half_ADJ
 of_PREP
 them_PRON
@@ -28522,7 +28522,7 @@ n't_ADV
 you_PRON
 think_VERB
 Or_CONJ
-mercenary_ADJ
+mercenary_SUBST
 Then_ADV
 I_PRON
 thought_VERB
@@ -28547,7 +28547,7 @@ was_VERB
 talking_VERB
 to_PREP
 Ursula_SUBST
-Andress_VERB
+Andress_SUBST
 the_ART
 other_ADJ
 day_SUBST
@@ -29201,7 +29201,7 @@ in_PREP
 the_ART
 estates_SUBST
 of_PREP
-deceased_ADJ
+deceased_SUBST
 senior_ADJ
 citizens_SUBST
 Madge_SUBST
@@ -30407,7 +30407,7 @@ KATE_SUBST
 PULLINGER_SUBST
 Twenty-seven_ADJ
 Canadian_ADJ
-enfant_SUBST
+enfant_UNC
 terrible_ADJ
 who_PRON
 came_VERB
@@ -36023,7 +36023,7 @@ was_VERB
 good_ADJ
 news_SUBST
 for_PREP
-START_SUBST
+START_VERB
 Skin_SUBST
 Treatment_SUBST
 and_CONJ
@@ -36039,7 +36039,7 @@ a_ART
 donation_SUBST
 to_PREP
 help_VERB
-START_SUBST
+START_VERB
 in_PREP
 their_PRON
 research_SUBST
@@ -38938,7 +38938,7 @@ sultanas_SUBST
 Cinnamon_SUBST
 sticks_SUBST
 and_CONJ
-cardamom_SUBST
+cardamom_VERB
 seeds_SUBST
 complete_ADJ
 the_ART
@@ -39922,7 +39922,7 @@ to_PREP
 a_ART
 joyous_ADJ
 family_SUBST
-gathering_SUBST
+gathering_VERB
 It_PRON
 's_UNC
 juice_SUBST
@@ -44371,7 +44371,7 @@ jet_SUBST
 set_VERB
 glamour_SUBST
 and_CONJ
-glitz_VERB
+glitz_SUBST
 Cervinia_SUBST
 Courmayeur_SUBST
 and_CONJ

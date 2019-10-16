@@ -1573,7 +1573,7 @@ were_VERB
 stiff_ADJ
 some_ADJ
 visibly_ADV
-mildewed_ADJ
+mildewed_VERB
 some_ADJ
 stuck_VERB
 together_ADV
@@ -23713,7 +23713,7 @@ lies_VERB
 upon_PREP
 us_PRON
 a_ART
-gathering_SUBST
+gathering_VERB
 up_ADV
 of_PREP
 the_ART
@@ -25026,7 +25026,7 @@ someone_PRON
 I_PRON
 know_VERB
 and_CONJ
-trust_VERB
+trust_SUBST
 I_PRON
 do_VERB
 n't_ADV

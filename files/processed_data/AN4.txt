@@ -9387,7 +9387,7 @@ GM_SUBST
 filled_VERB
 324_ADJ
 pages_SUBST
-excluding_VERB
+excluding_PREP
 the_ART
 35_ADJ
 pages_SUBST
@@ -12992,7 +12992,7 @@ of_PREP
 polite_ADJ
 verse_SUBST
 This_ADJ
-gathering_SUBST
+gathering_VERB
 above_PREP
 all_ADJ
 does_VERB
@@ -23481,7 +23481,7 @@ nothing_PRON
 still_ADV
 they_PRON
 said_VERB
-Scarce_ADV
+Scarce_ADJ
 two_ADJ
 Months_SUBST
 past_SUBST
@@ -23878,7 +23878,7 @@ Babes_SUBST
 are_VERB
 taught_VERB
 to_PREP
-lisp_VERB
+lisp_SUBST
 your_PRON
 Name_SUBST
 And_CONJ
@@ -28355,7 +28355,7 @@ kills_VERB
 it_PRON
 and_CONJ
 Mira_SUBST
-reproaches_VERB
+reproaches_SUBST
 her_PRON
 in_PREP
 a_ART
@@ -30899,7 +30899,7 @@ her_PRON
 Table_SUBST
 stand_VERB
 She_PRON
-slights_SUBST
+slights_VERB
 her_PRON
 Form_SUBST
 no_ART
@@ -32568,7 +32568,7 @@ attone_VERB
 Oft_ADV
 let_VERB
 the_ART
-Brush_SUBST
+Brush_VERB
 it_PRON
 's_UNC
 Morning_SUBST
@@ -35303,7 +35303,7 @@ a_ART
 clear-cut_ADJ
 English_ADJ
 instance_SUBST
-excluding_VERB
+excluding_PREP
 Swift_SUBST
 in_PREP
 which_PRON
@@ -36513,7 +36513,7 @@ Luncheon_SUBST
 from_PREP
 the_ART
 Barly_SUBST
-Loaf_VERB
+Loaf_SUBST
 With_PREP
 crumbled_VERB
 Bread_SUBST
@@ -37186,7 +37186,7 @@ Stephen_SUBST
 Duck_SUBST
 The_ART
 famous_ADJ
-Threshing_VERB
+Threshing_SUBST
 Poet_SUBST
 What_PRON
 tho'_CONJ
@@ -38593,7 +38593,7 @@ right_ADJ
 to_PREP
 administer_VERB
 a_ART
-trust_VERB
+trust_SUBST
 fund_SUBST
 for_PREP
 her_PRON
@@ -39112,7 +39112,7 @@ her_PRON
 to_PREP
 betray_VERB
 her_PRON
-trust_VERB
+trust_SUBST
 The_ART
 need_VERB
 to_PREP
@@ -40569,7 +40569,7 @@ You_PRON
 thoughtless_ADJ
 Baggage_SUBST
 when_CONJ
-d'ye_VERB
+d'ye_SUBST
 mind_SUBST
 your_PRON
 Work_SUBST
@@ -41151,7 +41151,7 @@ Collier_SUBST
 however_ADV
 both_ADV
 describe_VERB
-reproaches_VERB
+reproaches_SUBST
 from_PREP
 a_ART
 master_SUBST
@@ -41191,7 +41191,7 @@ Why_ADV
 look_VERB
 ye_PRON
 Rogues_SUBST
-d'ye_VERB
+d'ye_SUBST
 think_VERB
 that_CONJ
 this_ADJ
@@ -42044,7 +42044,7 @@ of_PREP
 the_ART
 employer_SUBST
 's_UNC
-trust_VERB
+trust_SUBST
 and_CONJ
 was_VERB
 therefore_ADV
@@ -50511,7 +50511,7 @@ obliged_ADJ
 to_PREP
 place_SUBST
 his_PRON
-trust_VERB
+trust_SUBST
 first_ADJ
 in_PREP
 oracles_SUBST
@@ -50605,7 +50605,7 @@ is_VERB
 caused_VERB
 by_PREP
 misplaced_VERB
-trust_VERB
+trust_SUBST
 Indeed_ADV
 seeking_VERB
 fortune_SUBST
@@ -53592,7 +53592,7 @@ was_VERB
 not_ADV
 inclined_ADJ
 to_PREP
-trust_VERB
+trust_SUBST
 herself_PRON
 to_PREP
 a_ART

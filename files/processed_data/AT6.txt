@@ -1250,7 +1250,7 @@ person_SUBST
 is_VERB
 reluctant_ADJ
 to_PREP
-trust_VERB
+trust_SUBST
 his_PRON
 board_SUBST
 and_CONJ
@@ -6935,7 +6935,7 @@ leads_VERB
 to_PREP
 rapid_ADJ
 progress_SUBST
-Balancing_SUBST
+Balancing_VERB
 Keeping_VERB
 your_PRON
 weight_SUBST
@@ -8743,7 +8743,7 @@ set_VERB
 result_SUBST
 you_PRON
 are_VERB
-excluding_VERB
+excluding_PREP
 all_ADJ
 the_ART
 learning_SUBST
@@ -13778,7 +13778,7 @@ here_ADV
 you_PRON
 have_VERB
 to_PREP
-trust_VERB
+trust_SUBST
 that_CONJ
 the_ART
 power_SUBST
@@ -16854,7 +16854,7 @@ efficient_ADJ
 position_SUBST
 THE_ART
 BEACH_SUBST
-START_SUBST
+START_VERB
 Figs_SUBST
 49_ADJ
 to_PREP
@@ -17212,7 +17212,7 @@ spilling_VERB
 wind_SUBST
 THE_ART
 WATER_SUBST
-START_SUBST
+START_VERB
 Of_PREP
 all_ADJ
 the_ART
@@ -23238,7 +23238,7 @@ if_CONJ
 you_PRON
 try_VERB
 it_PRON
-Landing_VERB
+Landing_SUBST
 Initially_ADV
 it_PRON
 is_VERB
@@ -26409,7 +26409,7 @@ reach_VERB
 the_ART
 sea-bed_SUBST
 Board_SUBST
-Handling_VERB
+Handling_SUBST
 At_PREP
 the_ART
 start_VERB
@@ -31722,7 +31722,7 @@ the_ART
 wind_SUBST
 Fig_SUBST
 89_ADJ
-Balancing_SUBST
+Balancing_VERB
 using_VERB
 the_ART
 hips_SUBST

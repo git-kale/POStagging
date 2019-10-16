@@ -13519,7 +13519,7 @@ close_ADJ
 by_PREP
 she_PRON
 heard_VERB
-agonized_VERB
+agonized_ADJ
 sobbing_VERB
 The_ART
 stone_SUBST
@@ -18034,7 +18034,7 @@ her_PRON
 younger_ADJ
 sister_SUBST
 's_UNC
-agonized_VERB
+agonized_ADJ
 eyes_SUBST
 then_ADV
 the_ART
@@ -24269,7 +24269,7 @@ of_PREP
 Land_SUBST
 of_PREP
 the_ART
-Leal_SUBST
+Leal_ADJ
 and_CONJ
 Flowers_SUBST
 of_PREP

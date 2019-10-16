@@ -251,7 +251,7 @@ the_ART
 reliability_SUBST
 of_PREP
 the_ART
-serial_SUBST
+serial_ADJ
 or_CONJ
 the_ART
 packaged_VERB
@@ -7485,7 +7485,7 @@ instead_ADV
 an_ART
 extremely_ADV
 intense_ADJ
-miming_SUBST
+miming_ADJ
 of_PREP
 the_ART
 sliding_VERB
@@ -18075,7 +18075,7 @@ screened_VERB
 as_CONJ
 a_ART
 three-week_ADJ
-serial_SUBST
+serial_ADJ
 hence_ADV
 reviewers_SUBST
 were_VERB
@@ -22202,7 +22202,7 @@ core_SUBST
 of_PREP
 aesthetic_ADJ
 experience_SUBST
-Scripted_VERB
+Scripted_SUBST
 encoded_VERB
 clothed_VERB
 in_PREP
@@ -24394,7 +24394,7 @@ conveniently_ADV
 together_ADV
 but_CONJ
 I_PRON
-trust_VERB
+trust_SUBST
 this_ADJ
 was_VERB
 a_ART

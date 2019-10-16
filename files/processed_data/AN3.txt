@@ -1366,7 +1366,7 @@ masses_SUBST
 must_VERB
 involve_VERB
 a_ART
-reordering_SUBST
+reordering_VERB
 of_PREP
 the_ART
 social_ADJ
@@ -5762,7 +5762,7 @@ contact_SUBST
 and_CONJ
 can_VERB
 therefore_ADV
-trust_VERB
+trust_SUBST
 the_ART
 person_SUBST
 concerned_ADJ
@@ -8138,7 +8138,7 @@ for_PREP
 its_PRON
 activities_SUBST
 in_PREP
-sterilising_VERB
+sterilising_ADJ
 peasant_SUBST
 women_SUBST
 without_PREP
@@ -12747,7 +12747,7 @@ lose_VERB
 their_PRON
 plots_SUBST
 to_PREP
-encroaching_VERB
+encroaching_ADJ
 landlords_SUBST
 for_PREP
 a_ART
@@ -20643,7 +20643,7 @@ at_PREP
 times_SUBST
 reluctant_ADJ
 to_PREP
-trust_VERB
+trust_SUBST
 government_SUBST
 officials_SUBST
 and_CONJ
@@ -21733,7 +21733,7 @@ and_CONJ
 in_PREP
 so_ADV
 doing_VERB
-encroaching_VERB
+encroaching_ADJ
 on_PREP
 peasant_SUBST
 lands_SUBST
@@ -37871,7 +37871,7 @@ lend_VERB
 itself_PRON
 to_PREP
 the_ART
-gathering_SUBST
+gathering_VERB
 of_PREP
 statistic_SUBST
 but_CONJ

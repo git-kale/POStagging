@@ -511,7 +511,7 @@ is_VERB
 bordered_VERB
 on_PREP
 its_PRON
-landward_ADJ
+landward_ADV
 side_SUBST
 by_PREP
 a_ART
@@ -606,7 +606,7 @@ bounded_VERB
 by_PREP
 the_ART
 marram_SUBST
-grass-covered_ADJ
+grass-covered_SUBST
 sand_SUBST
 dunes_SUBST
 of_PREP
@@ -17418,7 +17418,7 @@ ever_ADV
 falling_VERB
 for_PREP
 the_ART
-slick_SUBST
+slick_ADJ
 adverts_SUBST
 for_PREP
 trendy_ADJ
@@ -22152,7 +22152,7 @@ of_PREP
 the_ART
 pier_SUBST
 fishing_SUBST
-Tackle_SUBST
+Tackle_VERB
 consisted_VERB
 of_PREP
 a_ART
@@ -24341,7 +24341,7 @@ first_ADJ
 cast_VERB
 Others_SUBST
 a_ART
-hard-fighting_SUBST
+hard-fighting_ADJ
 sea-liced_ADJ
 sea-trout_SUBST
 For_PREP
@@ -25137,7 +25137,7 @@ and_CONJ
 silver_SUBST
 A_ART
 relaxed_ADJ
-gathering_SUBST
+gathering_VERB
 with_PREP
 the_ART
 hard_ADJ
@@ -25926,7 +25926,7 @@ companions_SUBST
 and_CONJ
 she_PRON
 was_VERB
-enchanted_ADJ
+enchanted_VERB
 by_PREP
 what_PRON
 she_PRON
@@ -32112,7 +32112,7 @@ in_PREP
 bringing_VERB
 with_PREP
 them_PRON
-hard-fighting_SUBST
+hard-fighting_ADJ
 sea-trout_SUBST
 which_PRON
 dash_SUBST
@@ -37101,7 +37101,7 @@ hundreds_ADJ
 of_PREP
 square_SUBST
 miles_SUBST
-gathering_SUBST
+gathering_VERB
 them_PRON
 from_PREP
 as_CONJ

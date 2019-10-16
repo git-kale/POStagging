@@ -3993,7 +3993,7 @@ network_SUBST
 of_PREP
 spies_SUBST
 would_VERB
-ferret_SUBST
+ferret_VERB
 them_PRON
 out_ADV
 He_PRON
@@ -4810,7 +4810,7 @@ him_PRON
 unconscious_ADJ
 and_CONJ
 then_ADV
-gathering_SUBST
+gathering_VERB
 his_PRON
 keys_SUBST
 made_VERB
@@ -7272,7 +7272,7 @@ personal_ADJ
 friend_SUBST
 of_PREP
 the_ART
-deceased_ADJ
+deceased_SUBST
 as_CONJ
 were_VERB
 several_ADJ
@@ -16786,7 +16786,7 @@ face_SUBST
 you_PRON
 would_VERB
 not_ADV
-trust_VERB
+trust_SUBST
 But_CONJ
 what_PRON
 of_PREP
@@ -19227,7 +19227,7 @@ Jones_SUBST
 a_ART
 game-keeper_SUBST
 identified_VERB
-ferret_SUBST
+ferret_VERB
 lines_SUBST
 found_VERB
 in_PREP
@@ -20825,7 +20825,7 @@ view_SUBST
 the_ART
 bodies_SUBST
 The_ART
-deceased_ADJ
+deceased_SUBST
 looked_VERB
 livid_ADJ
 and_CONJ

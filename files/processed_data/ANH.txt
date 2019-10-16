@@ -6325,7 +6325,7 @@ naturally_ADV
 regarded_VERB
 as_CONJ
 expressing_VERB
-trust_VERB
+trust_SUBST
 in_PREP
 the_ART
 person_SUBST
@@ -6354,12 +6354,12 @@ by_PREP
 the_ART
 authority_SUBST
 But_CONJ
-trust_VERB
+trust_SUBST
 in_PREP
 the_ART
 authority_SUBST
 is_VERB
-trust_VERB
+trust_SUBST
 that_CONJ
 the_ART
 authority_SUBST
@@ -6397,7 +6397,7 @@ justified_VERB
 only_ADV
 if_CONJ
 the_ART
-trust_VERB
+trust_SUBST
 is_VERB
 not_ADV
 altogether_ADV
@@ -6460,7 +6460,7 @@ which_PRON
 grossly_ADV
 betrays_VERB
 the_ART
-trust_VERB
+trust_SUBST
 it_PRON
 owes_VERB
 to_PREP
@@ -9742,7 +9742,7 @@ their_PRON
 advice_SUBST
 rather_ADV
 than_CONJ
-trust_VERB
+trust_SUBST
 my_PRON
 own_ADJ
 judgment_SUBST
@@ -20607,7 +20607,7 @@ to_PREP
 take_VERB
 it_PRON
 on_PREP
-trust_VERB
+trust_SUBST
 as_CONJ
 it_PRON
 were_VERB
@@ -31470,7 +31470,7 @@ convincing_ADJ
 reasons_SUBST
 first_ADJ
 for_PREP
-excluding_VERB
+excluding_PREP
 moral_ADJ
 and_CONJ
 religious_ADJ
@@ -32306,7 +32306,7 @@ society_SUBST
 The_ART
 justification_SUBST
 for_PREP
-excluding_VERB
+excluding_PREP
 controversial_ADJ
 truths_SUBST
 from_PREP
@@ -33642,7 +33642,7 @@ a_ART
 new_ADJ
 argument_SUBST
 for_PREP
-excluding_VERB
+excluding_PREP
 the_ART
 parties_SUBST
 '_UNC

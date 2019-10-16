@@ -2908,7 +2908,7 @@ behind_PREP
 enemy_SUBST
 lines_SUBST
 Using_VERB
-30-cwt_SUBST
+30-cwt_ADJ
 Chevrolet_SUBST
 trucks_SUBST
 the_ART
@@ -5494,7 +5494,7 @@ advanced_VERB
 medical_ADJ
 care_SUBST
 on_PREP
-intelligence-gathering_SUBST
+intelligence-gathering_ADJ
 signalling_VERB
 and_CONJ
 demolitions_SUBST
@@ -6341,7 +6341,7 @@ The_ART
 motto_SUBST
 Who_PRON
 Dares_VERB
-Wins_VERB
+Wins_SUBST
 is_VERB
 credited_VERB
 to_PREP
@@ -7851,7 +7851,7 @@ thoughts_SUBST
 Paddy_SUBST
 Mayne_SUBST
 was_VERB
-mourning_VERB
+mourning_SUBST
 the_ART
 loss_SUBST
 of_PREP
@@ -8580,7 +8580,7 @@ of_PREP
 the_ART
 way_SUBST
 of_PREP
-prying_VERB
+prying_ADJ
 headquarters_SUBST
 staff_SUBST
 and_CONJ
@@ -9238,7 +9238,7 @@ the_ART
 period_SUBST
 was_VERB
 a_ART
-30-cwt_SUBST
+30-cwt_ADJ
 Chevrolet_SUBST
 pick-up_SUBST
 with_PREP
@@ -15358,7 +15358,7 @@ when_CONJ
 they_PRON
 left_VERB
 still_ADV
-mourning_VERB
+mourning_SUBST
 McGonigal_SUBST
 had_VERB
 contributed_VERB
@@ -23075,7 +23075,7 @@ Willy_SUBST
 Bantams_SUBST
 and_CONJ
 some_ADJ
-3-ton_SUBST
+3-ton_ADJ
 Ford_SUBST
 trucks_SUBST
 He_PRON
@@ -27880,7 +27880,7 @@ who_PRON
 has_VERB
 decided_VERB
 L.G._SUBST
-Landing_VERB
+Landing_SUBST
 Ground_SUBST
 to_PREP
 be_VERB
@@ -28540,7 +28540,7 @@ accompanied_VERB
 by_PREP
 another_ADJ
 40_ADJ
-3-ton_SUBST
+3-ton_ADJ
 lorries_SUBST
 carrying_VERB
 supplies_SUBST
@@ -30094,7 +30094,7 @@ area_SUBST
 for_PREP
 several_ADJ
 weeks_SUBST
-gathering_SUBST
+gathering_VERB
 intelligence_SUBST
 Melot_SUBST
 had_VERB

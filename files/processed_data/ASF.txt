@@ -3348,7 +3348,7 @@ provided_VERB
 to_PREP
 enable_VERB
 the_ART
-deceased_ADJ
+deceased_SUBST
 to_PREP
 tell_VERB
 the_ART
@@ -20662,7 +20662,7 @@ to_PREP
 honour_SUBST
 Augustus_SUBST
 by_PREP
-renaming_VERB
+renaming_SUBST
 the_ART
 month_SUBST
 Sextilis_SUBST

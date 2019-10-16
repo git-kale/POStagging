@@ -5634,7 +5634,7 @@ Oceanographic_ADJ
 Institutions_SUBST
 Deep_ADJ
 Earth_SUBST
-Sampling_VERB
+Sampling_SUBST
 was_VERB
 able_ADJ
 to_PREP
@@ -10830,7 +10830,7 @@ sides_SUBST
 of_PREP
 the_ART
 volcano_SUBST
-gathering_SUBST
+gathering_VERB
 speed_SUBST
 and_CONJ
 more_ADV
@@ -21210,7 +21210,7 @@ as_CONJ
 a_ART
 soda_SUBST
 siphon_SUBST
-squirts_VERB
+squirts_SUBST
 water_SUBST
 to_PREP
 form_SUBST
@@ -21261,7 +21261,7 @@ are_VERB
 not_ADV
 just_ADV
 short_ADJ
-squirts_VERB
+squirts_SUBST
 either_ADV
 Some_ADJ
 fire_SUBST

@@ -8596,7 +8596,7 @@ to_PREP
 drum_SUBST
 on_PREP
 the_ART
-B-side_ADJ
+B-side_SUBST
 track_SUBST
 The_ART
 Moment_SUBST
@@ -8615,7 +8615,7 @@ to_PREP
 put_VERB
 on_PREP
 the_ART
-B-side_ADJ
+B-side_SUBST
 and_CONJ
 only_ADV
 made_VERB
@@ -11483,7 +11483,7 @@ reasonable_ADJ
 pace_SUBST
 Gedge_SUBST
 told_VERB
-Slag_SUBST
+Slag_VERB
 fanzine_SUBST
 early_ADJ
 in_PREP
@@ -12873,7 +12873,7 @@ November_SUBST
 1985_ADJ
 Reviewer_SUBST
 Ron_SUBST
-Rum_ADJ
+Rum_SUBST
 said_VERB
 of_PREP
 their_PRON
@@ -20821,7 +20821,7 @@ Present_SUBST
 to_PREP
 build_VERB
 up_ADV
-trust_VERB
+trust_SUBST
 in_PREP
 someone_PRON
 At_PREP
@@ -21545,7 +21545,7 @@ badges_SUBST
 and_CONJ
 even_ADV
 cardboard_ADJ
-10-inch_ADJ
+10-inch_SUBST
 high_ADJ
 George_SUBST
 Best_ADJ
@@ -23593,7 +23593,7 @@ Charman_SUBST
 's_UNC
 letter_SUBST
 was_VERB
-mailed_VERB
+mailed_ADJ
 to_PREP
 the_ART
 home_SUBST
@@ -27541,7 +27541,7 @@ Peel_SUBST
 sessions_SUBST
 on_PREP
 a_ART
-10-inch_ADJ
+10-inch_SUBST
 mini-LP_SUBST
 Ukrainski_ADJ
 Vistupi_SUBST

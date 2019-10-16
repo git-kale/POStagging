@@ -1286,7 +1286,7 @@ The_ART
 earliest_ADJ
 displays_VERB
 of_PREP
-Etruscan_ADJ
+Etruscan_SUBST
 and_CONJ
 Greek_ADJ
 art_SUBST
@@ -5276,7 +5276,7 @@ bronze_SUBST
 statue_SUBST
 by_PREP
 the_ART
-fifth-century_ADJ
+fifth-century_SUBST
 Argive_SUBST
 sculptor_SUBST
 Polyclitus_SUBST
@@ -7770,7 +7770,7 @@ Following_VERB
 an_ART
 interval_SUBST
 of_PREP
-mourning_VERB
+mourning_SUBST
 for_PREP
 Caesar_SUBST
 Octavian_SUBST
@@ -9047,7 +9047,7 @@ did_VERB
 wear_VERB
 beards_SUBST
 in_PREP
-mourning_VERB
+mourning_SUBST
 and_CONJ
 the_ART
 very_ADV
@@ -9071,7 +9071,7 @@ a_ART
 Octavian_SUBST
 bearded_ADJ
 in_PREP
-mourning_VERB
+mourning_SUBST
 for_PREP
 the_ART
 murdered_VERB
@@ -9887,7 +9887,7 @@ betrayed_VERB
 their_PRON
 subjects_SUBST
 '_UNC
-trust_VERB
+trust_SUBST
 were_VERB
 treated_VERB
 with_PREP

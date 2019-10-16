@@ -1498,7 +1498,7 @@ Relations_SUBST
 twats_VERB
 on_PREP
 in_PREP
-gathering_SUBST
+gathering_VERB
 dusk_SUBST
 Claire_SUBST
 looks_VERB
@@ -3532,7 +3532,7 @@ spotty_ADJ
 friends_SUBST
 looking_VERB
 for_PREP
-sleaze_VERB
+sleaze_SUBST
 We_PRON
 took_VERB
 our_PRON
@@ -3699,7 +3699,7 @@ PINK_ADJ
 PANTHER_SUBST
 1974_ADJ
 PLAY_VERB
-IT_PRON
+IT_SUBST
 AGAIN_ADV
 SAM_SUBST
 1972_ADJ
@@ -3713,7 +3713,7 @@ THE_ART
 SUNDANCE_SUBST
 KID_SUBST
 1969_ADJ
-STAR_SUBST
+STAR_VERB
 WARS_SUBST
 1977_ADJ
 THE_ART
@@ -3900,7 +3900,7 @@ Bobby_SUBST
 Fischer_SUBST
 beats_VERB
 Boris_SUBST
-Spassky_ADJ
+Spassky_SUBST
 and_CONJ
 becomes_VERB
 the_ART
@@ -6673,7 +6673,7 @@ time_SUBST
 in_PREP
 a_ART
 large_ADJ
-gathering_SUBST
+gathering_VERB
 with_PREP
 a_ART
 peer_VERB
@@ -14176,7 +14176,7 @@ Grey_SUBST
 Hair_SUBST
 SSh_INTERJ
 KEEP_VERB
-IT_PRON
+IT_SUBST
 DARK_SUBST
 with_PREP
 SHADELINE_SUBST
@@ -14670,7 +14670,7 @@ control_SUBST
 WOULD_VERB
 YOU_PRON
 BELIEVE_VERB
-IT_PRON
+IT_SUBST
 he_PRON
 's_UNC
 liable_ADJ
@@ -18124,7 +18124,7 @@ like_PREP
 a_ART
 parked_VERB
 camper-caravan_SUBST
-grumbles_SUBST
+grumbles_VERB
 about_PREP
 the_ART
 weight_SUBST
@@ -22189,7 +22189,7 @@ William_SUBST
 the_ART
 bear_VERB
 to_PREP
-cuddle_VERB
+cuddle_SUBST
 and_CONJ
 hug_SUBST
 no_ART
@@ -24614,7 +24614,7 @@ the_ART
 benefits_SUBST
 of_PREP
 a_ART
-trust_VERB
+trust_SUBST
 fund_SUBST
 set_VERB
 up_ADV
@@ -24688,7 +24688,7 @@ at_PREP
 last_ADJ
 begun_VERB
 Sing_VERB
-Hallelujah_INTERJ
+Hallelujah_SUBST
 Hey_INTERJ
 nonny-no_ADJ
 Hey_INTERJ
@@ -26965,7 +26965,7 @@ on_PREP
 about_PREP
 my_PRON
 profligacy_SUBST
-short-sightedness_SUBST
+short-sightedness_ADJ
 and_CONJ
 general_ADJ
 pansying_VERB

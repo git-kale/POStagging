@@ -4421,7 +4421,7 @@ autobiography_SUBST
 He_PRON
 says_VERB
 that_CONJ
-wanderlust_SUBST
+wanderlust_VERB
 and_CONJ
 chance_SUBST
 brought_VERB
@@ -7359,7 +7359,7 @@ up_ADV
 hearing_VERB
 about_PREP
 this_ADJ
-enchanted_ADJ
+enchanted_VERB
 world_SUBST
 which_PRON
 became_VERB
@@ -8068,7 +8068,7 @@ John_SUBST
 's_UNC
 fellow_ADJ
 pupils_SUBST
-Inge_VERB
+Inge_SUBST
 May_SUBST
 who_PRON
 with_PREP
@@ -8086,7 +8086,7 @@ were_VERB
 all_ADJ
 German_ADJ
 refugees_SUBST
-Inge_VERB
+Inge_SUBST
 told_VERB
 fascinating_ADJ
 stories_SUBST
@@ -13972,7 +13972,7 @@ is_VERB
 God_SUBST
 's_UNC
 voice_SUBST
-thundering_VERB
+thundering_ADJ
 from_PREP
 the_ART
 sky_SUBST
@@ -18996,7 +18996,7 @@ when_CONJ
 he_PRON
 could_VERB
 and_CONJ
-gathering_SUBST
+gathering_VERB
 up_ADV
 my_PRON
 ermines_SUBST
@@ -19647,7 +19647,7 @@ I_PRON
 told_VERB
 her_PRON
 about_PREP
-Unisoculous_ADJ
+Unisoculous_SUBST
 she_PRON
 said_VERB
 she_PRON
@@ -19721,7 +19721,7 @@ seen_VERB
 by_PREP
 him_PRON
 hence_ADV
-Unisoculous_ADJ
+Unisoculous_SUBST
 one_ADJ
 eye_SUBST
 Such_ADJ
@@ -32624,7 +32624,7 @@ them_PRON
 and_CONJ
 an_ART
 indefatigable_ADJ
-sightseer_VERB
+sightseer_SUBST
 as_CONJ
 ever_ADV
 found_VERB

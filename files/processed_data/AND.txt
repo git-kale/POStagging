@@ -306,7 +306,7 @@ a_ART
 great_ADJ
 deal_SUBST
 of_PREP
-mumbo-jumbo_SUBST
+mumbo-jumbo_ADJ
 but_CONJ
 its_PRON
 prevailing_ADJ
@@ -1968,7 +1968,7 @@ when_CONJ
 a_ART
 more_ADV
 systematic_ADJ
-gathering_SUBST
+gathering_VERB
 of_PREP
 opinion_SUBST
 is_VERB
@@ -1995,7 +1995,7 @@ there_PRON
 are_VERB
 difficulties_SUBST
 in_PREP
-gathering_SUBST
+gathering_VERB
 information_SUBST
 by_PREP
 this_ADJ
@@ -2433,7 +2433,7 @@ data_SUBST
 As_CONJ
 well_ADV
 as_CONJ
-gathering_SUBST
+gathering_VERB
 information_SUBST
 about_PREP
 parental_ADJ
@@ -5387,7 +5387,7 @@ but_CONJ
 built_VERB
 on_PREP
 listening_VERB
-trust_VERB
+trust_SUBST
 and_CONJ
 respect_SUBST
 for_PREP
@@ -5735,7 +5735,7 @@ do_VERB
 n't_ADV
 often_ADV
 reciprocate_VERB
-trust_VERB
+trust_SUBST
 and_CONJ
 confidence_SUBST
 in_PREP
@@ -5786,7 +5786,7 @@ the_ART
 whole_ADJ
 have_VERB
 absolute_ADJ
-trust_VERB
+trust_SUBST
 that_CONJ
 teachers_SUBST
 will_VERB
@@ -6846,7 +6846,7 @@ is_VERB
 a_ART
 climate_SUBST
 of_PREP
-trust_VERB
+trust_SUBST
 respect_SUBST
 and_CONJ
 responsibility_SUBST
@@ -9886,7 +9886,7 @@ respect_SUBST
 being_VERB
 given_VERB
 your_PRON
-trust_VERB
+trust_SUBST
 and_CONJ
 confidence_SUBST
 and_CONJ
@@ -19259,7 +19259,7 @@ management_SUBST
 encourages_VERB
 confidence_SUBST
 and_CONJ
-trust_VERB
+trust_SUBST
 in_PREP
 the_ART
 institution_SUBST
@@ -19494,7 +19494,7 @@ to_PREP
 relay_SUBST
 complaints_SUBST
 and_CONJ
-grumbles_SUBST
+grumbles_VERB
 they_PRON
 should_VERB
 n't_ADV
@@ -20142,7 +20142,7 @@ basis_SUBST
 and_CONJ
 to_PREP
 establish_VERB
-trust_VERB
+trust_SUBST
 and_CONJ
 confidence_SUBST
 in_PREP
@@ -23783,7 +23783,7 @@ prizes_SUBST
 and_CONJ
 jumble_SUBST
 or_CONJ
-grumbles_SUBST
+grumbles_VERB
 about_PREP
 late_ADJ
 dinner_SUBST
@@ -24835,7 +24835,7 @@ including_PREP
 religious_ADJ
 education_SUBST
 but_CONJ
-excluding_VERB
+excluding_PREP
 the_ART
 statutory_ADJ
 daily_ADJ
@@ -28054,7 +28054,7 @@ as_CONJ
 an_ART
 education_SUBST
 innovation_SUBST
-trust_VERB
+trust_SUBST
 One_ADJ
 example_SUBST
 is_VERB
@@ -28072,7 +28072,7 @@ of_PREP
 Education_SUBST
 2000_ADJ
 a_ART
-trust_VERB
+trust_SUBST
 to_PREP
 raise_VERB
 money_SUBST
@@ -29510,7 +29510,7 @@ with_PREP
 the_ART
 summer_SUBST
 fayre_SUBST
-Handling_VERB
+Handling_SUBST
 money_SUBST
 Accurate_ADJ
 and_CONJ
@@ -30176,7 +30176,7 @@ approached_VERB
 the_ART
 undertaker_SUBST
 and_CONJ
-betting_SUBST
+betting_VERB
 office_SUBST
 for_PREP
 support_SUBST
@@ -30278,7 +30278,7 @@ area_SUBST
 It_PRON
 's_UNC
 worth_PREP
-gathering_SUBST
+gathering_VERB
 as_CONJ
 many_ADJ
 prizes_SUBST
@@ -34015,7 +34015,7 @@ does_VERB
 n't_ADV
 take_VERB
 complaint_SUBST
-gathering_SUBST
+gathering_VERB
 seriously_ADV
 and_CONJ
 parents_SUBST

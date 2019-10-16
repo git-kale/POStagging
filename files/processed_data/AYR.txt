@@ -2828,7 +2828,7 @@ resident_ADJ
 in_PREP
 the_ART
 UK_SUBST
-excluding_VERB
+excluding_PREP
 Northern_SUBST
 Ireland_SUBST
 your_PRON

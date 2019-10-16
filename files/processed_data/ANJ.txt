@@ -1173,7 +1173,7 @@ The_ART
 city_SUBST
 was_VERB
 in_PREP
-mourning_VERB
+mourning_SUBST
 for_PREP
 Marie-Th\xc3\xa9r\xc3\xa8se_UNC
 de_SUBST
@@ -3194,7 +3194,7 @@ place_SUBST
 The_ART
 period_SUBST
 of_PREP
-mourning_VERB
+mourning_SUBST
 brought_VERB
 court_SUBST
 activities_SUBST
@@ -4849,7 +4849,7 @@ My_PRON
 heart_SUBST
 is_VERB
 completely_ADV
-enchanted_ADJ
+enchanted_VERB
 with_PREP
 all_ADJ
 these_ADJ
@@ -10468,7 +10468,7 @@ into_PREP
 a_ART
 state_SUBST
 of_PREP
-mourning_VERB
+mourning_SUBST
 with_PREP
 all_ADJ
 concert_SUBST
@@ -12034,7 +12034,7 @@ will_VERB
 of_PREP
 God_SUBST
 and_CONJ
-trust_VERB
+trust_SUBST
 that_CONJ
 you_PRON
 and_CONJ
@@ -12889,7 +12889,7 @@ the_ART
 Archbishop_SUBST
 would_VERB
 only_ADV
-trust_VERB
+trust_SUBST
 me_PRON
 I_PRON
 should_VERB

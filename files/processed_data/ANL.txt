@@ -277,7 +277,7 @@ to_PREP
 someone_PRON
 she_PRON
 could_VERB
-trust_VERB
+trust_SUBST
 Catherine_SUBST
 had_VERB
 spent_VERB
@@ -7163,7 +7163,7 @@ the_ART
 body_SUBST
 of_PREP
 the_ART
-deceased_ADJ
+deceased_SUBST
 at_PREP
 the_ART
 earliest_ADJ
@@ -9472,7 +9472,7 @@ confidentiality_SUBST
 Oh_INTERJ
 you_PRON
 can_VERB
-trust_VERB
+trust_SUBST
 me_PRON
 Rivington_SUBST
 said_VERB
@@ -13024,7 +13024,7 @@ the_ART
 assets_SUBST
 in_PREP
 her_PRON
-trust_VERB
+trust_SUBST
 fund_SUBST
 and_CONJ
 abscond_VERB
@@ -13184,7 +13184,7 @@ astray_ADV
 by_PREP
 someone_PRON
 who_PRON
-Promised_ADJ
+Promised_VERB
 to_PREP
 give_VERB
 her_PRON
@@ -14206,7 +14206,7 @@ you_PRON
 see_VERB
 that_CONJ
 pearly_ADJ
-thickening_SUBST
+thickening_VERB
 Yes_INTERJ
 Bragg_SUBST
 grunted_VERB
@@ -23279,7 +23279,7 @@ not_ADV
 roasting_VERB
 me_PRON
 I_PRON
-trust_VERB
+trust_SUBST
 Sir_SUBST
 Rufus_SUBST
 said_VERB
@@ -29847,7 +29847,7 @@ Co_SUBST
 What_PRON
 's_UNC
 the_ART
-betting_SUBST
+betting_VERB
 he_PRON
 is_VERB
 n't_ADV
@@ -30068,7 +30068,7 @@ Tenison_SUBST
 busied_VERB
 himself_PRON
 with_PREP
-gathering_SUBST
+gathering_VERB
 up_ADV
 plans_SUBST
 and_CONJ
@@ -35094,7 +35094,7 @@ would_VERB
 hardly_ADV
 constitute_VERB
 deep_ADJ
-mourning_VERB
+mourning_SUBST
 Mrs_SUBST
 Sarah_SUBST
 Livesey_SUBST

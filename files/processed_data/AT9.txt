@@ -5951,7 +5951,7 @@ in_PREP
 which_PRON
 people_SUBST
 can_VERB
-trust_VERB
+trust_SUBST
 respect_SUBST
 and_CONJ
 be_VERB
@@ -6012,7 +6012,7 @@ information_SUBST
 In_PREP
 a_ART
 large_ADJ
-gathering_SUBST
+gathering_VERB
 anything_PRON
 over_PREP
 fifteen_ADJ

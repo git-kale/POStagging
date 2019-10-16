@@ -24248,7 +24248,7 @@ Such_ADJ
 a_ART
 response_SUBST
 nurtures_SUBST
-trust_VERB
+trust_SUBST
 in_PREP
 the_ART
 relationship_SUBST
@@ -27284,7 +27284,7 @@ such_ADJ
 a_ART
 statement_SUBST
 may_VERB
-disapply_ADV
+disapply_ADJ
 or_CONJ
 modify_VERB
 the_ART

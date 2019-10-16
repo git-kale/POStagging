@@ -3719,7 +3719,7 @@ steep_ADJ
 or_CONJ
 longish_ADJ
 hill_SUBST
-braking_ADJ
+braking_VERB
 on_PREP
 the_ART
 engine_SUBST
@@ -7812,7 +7812,7 @@ from_PREP
 the_ART
 following_ADJ
 points_SUBST
-Swivel_SUBST
+Swivel_VERB
 housing_SUBST
 oil_SUBST
 seal_SUBST
@@ -8863,7 +8863,7 @@ out_ADV
 and_CONJ
 now_ADV
 requires_VERB
-rewiring_SUBST
+rewiring_VERB
 Is_VERB
 it_PRON
 possible_ADJ
@@ -9102,7 +9102,7 @@ help_VERB
 me_PRON
 with_PREP
 the_ART
-rewiring_SUBST
+rewiring_VERB
 of_PREP
 the_ART
 brake_SUBST
@@ -11173,7 +11173,7 @@ the_ART
 seal_SUBST
 round_ADV
 the_ART
-offside_ADJ
+offside_SUBST
 swivel_SUBST
 pin_SUBST
 housing_SUBST
@@ -26924,7 +26924,7 @@ should_VERB
 be_VERB
 ample_ADJ
 engine_SUBST
-braking_ADJ
+braking_VERB
 in_PREP
 this_ADJ
 gear_SUBST
@@ -28526,7 +28526,7 @@ R/R_SUBST
 5_ADJ
 speed_SUBST
 long_ADJ
-gearlever_SUBST
+gearlever_VERB
 permanent_ADJ
 4WD_UNC
 90/110_ADJ
@@ -29017,7 +29017,7 @@ interchange_VERB
 but_CONJ
 have_VERB
 different_ADJ
-braking_ADJ
+braking_VERB
 systems_SUBST
 on_PREP
 Ninety_ADJ
@@ -30564,7 +30564,7 @@ as_CONJ
 does_VERB
 the_ART
 wiring_SUBST
-gearlever_SUBST
+gearlever_VERB
 and_CONJ
 hand_SUBST
 brake_SUBST
@@ -31016,7 +31016,7 @@ The_ART
 only_ADV
 way_SUBST
 to_PREP
-reproof_SUBST
+reproof_VERB
 a_ART
 tilt_SUBST
 is_VERB
@@ -31519,7 +31519,7 @@ is_VERB
 bought_VERB
 by_PREP
 a_ART
-non-registered_ADJ
+non-registered_SUBST
 by_PREP
 a_ART
 registered_VERB
@@ -31533,7 +31533,7 @@ is_VERB
 bought_VERB
 by_PREP
 a_ART
-non-registered_ADJ
+non-registered_SUBST
 person_SUBST
 the_ART
 VAT_SUBST
@@ -32839,7 +32839,7 @@ on_PREP
 fitting_VERB
 a_ART
 dual_ADJ
-braking_ADJ
+braking_VERB
 system_SUBST
 complete_ADJ
 with_PREP
@@ -33211,7 +33211,7 @@ driver_SUBST
 's_UNC
 knee_SUBST
 when_CONJ
-braking_ADJ
+braking_VERB
 In_PREP
 your_PRON
 case_SUBST
@@ -33667,7 +33667,7 @@ like_PREP
 to_PREP
 modify_VERB
 the_ART
-braking_ADJ
+braking_VERB
 system_SUBST
 I_PRON
 feel_VERB
@@ -33924,7 +33924,7 @@ blocked_VERB
 Check_VERB
 that_CONJ
 the_ART
-Swivel_SUBST
+Swivel_VERB
 housings_SUBST
 are_VERB
 not_ADV

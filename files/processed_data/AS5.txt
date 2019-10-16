@@ -2741,7 +2741,7 @@ first_ADJ
 attempt_SUBST
 at_PREP
 a_ART
-serial_SUBST
+serial_ADJ
 the_ART
 form_SUBST
 in_PREP
@@ -2832,7 +2832,7 @@ Stephen_SUBST
 to_PREP
 contribute_VERB
 a_ART
-serial_SUBST
+serial_ADJ
 to_PREP
 the_ART
 prestigious_ADJ
@@ -3952,7 +3952,7 @@ of_PREP
 \xc2\xa3600_UNC
 for_PREP
 the_ART
-serial_SUBST
+serial_ADJ
 and_CONJ
 a_ART
 royalty_SUBST
@@ -4174,7 +4174,7 @@ in_PREP
 The_ART
 Graphic_SUBST
 The_ART
-serial_SUBST
+serial_ADJ
 and_CONJ
 later_ADV
 the_ART
@@ -4667,7 +4667,7 @@ the_ART
 revision_SUBST
 of_PREP
 the_ART
-serial_SUBST
+serial_ADJ
 The_ART
 Pursuit_SUBST
 of_PREP

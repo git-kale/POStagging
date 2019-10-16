@@ -79,7 +79,7 @@ with_PREP
 Fakie_SUBST
 Ollie_SUBST
 Stale_ADJ
-Grab_VERB
+Grab_SUBST
 Woden_SUBST
 wooden_ADJ
 ramp_SUBST
@@ -855,7 +855,7 @@ about_PREP
 now_ADV
 New_ADJ
 Life_SUBST
-skates_SUBST
+skates_VERB
 VCR_SUBST
 cassette_SUBST
 soon_ADV
@@ -4824,7 +4824,7 @@ Phillips_SUBST
 also_ADV
 Mike_SUBST
 Manzouri_SUBST
-skates_SUBST
+skates_VERB
 rad_SUBST
 Davie_SUBST
 Phillips_SUBST
@@ -5587,7 +5587,7 @@ ashes_SUBST
 of_PREP
 Wokingham_SUBST
 skatepark_SUBST
-deceased_ADJ
+deceased_SUBST
 October_SUBST
 1990_ADJ
 The_ART
@@ -6922,7 +6922,7 @@ Whip_SUBST
 Lash_SUBST
 trophy_SUBST
 Danny_SUBST
-Wins_VERB
+Wins_SUBST
 Barry_SUBST
 Abrook_SUBST
 became_VERB

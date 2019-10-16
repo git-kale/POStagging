@@ -24437,7 +24437,7 @@ missed_VERB
 However_ADV
 even_ADV
 after_PREP
-excluding_VERB
+excluding_PREP
 these_ADJ
 infective_ADJ
 causes_SUBST
@@ -26423,7 +26423,7 @@ new_ADJ
 group_SUBST
 of_PREP
 drugs_SUBST
-cytosine_VERB
+cytosine_SUBST
 and_CONJ
 adenosine_VERB
 arabinoside_SUBST

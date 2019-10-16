@@ -1295,7 +1295,7 @@ is_VERB
 capable_ADJ
 of_PREP
 rapidly_ADV
-dissolving_ADJ
+dissolving_VERB
 certain_ADJ
 bacteria_SUBST
 As_CONJ
@@ -15687,7 +15687,7 @@ The_ART
 growth_SUBST
 of_PREP
 the_ART
-trust_VERB
+trust_SUBST
 owed_VERB
 much_ADJ
 to_PREP
@@ -22757,7 +22757,7 @@ they_PRON
 included_VERB
 certain_ADJ
 pyrimidines_SUBST
-cytosine_VERB
+cytosine_SUBST
 thymine_SUBST
 and_CONJ
 uracil_SUBST

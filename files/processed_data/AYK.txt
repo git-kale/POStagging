@@ -12980,7 +12980,7 @@ pick_VERB
 us_PRON
 up_ADV
 and_CONJ
-cuddle_VERB
+cuddle_SUBST
 us_PRON
 Just_ADV
 because_CONJ
@@ -21619,7 +21619,7 @@ ask_VERB
 those_ADJ
 whom_PRON
 we_PRON
-trust_VERB
+trust_SUBST
 to_PREP
 tell_VERB
 us_PRON

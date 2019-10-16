@@ -2956,7 +2956,7 @@ to_PREP
 three_ADJ
 partners_SUBST
 whose_PRON
-cloth-making_SUBST
+cloth-making_ADJ
 business_SUBST
 went_VERB
 bankrupt_ADJ
@@ -10242,7 +10242,7 @@ Following_VERB
 the_ART
 end_SUBST
 of_PREP
-cloth-making_SUBST
+cloth-making_ADJ
 the_ART
 mill_SUBST
 buildings_SUBST
@@ -20612,7 +20612,7 @@ as_CONJ
 an_ART
 iron_SUBST
 works_SUBST
-Slag_SUBST
+Slag_VERB
 blocks_SUBST
 used_VERB
 in_PREP
@@ -24661,7 +24661,7 @@ water_SUBST
 supply_SUBST
 to_PREP
 the_ART
-Brush_SUBST
+Brush_VERB
 Factory_SUBST
 for_PREP
 previously_ADV

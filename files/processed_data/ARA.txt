@@ -774,7 +774,7 @@ Tell_VERB
 a_ART
 grown-up_ADJ
 you_PRON
-trust_VERB
+trust_SUBST
 if_CONJ
 anyone_PRON
 frightens_VERB
@@ -893,7 +893,7 @@ tell_VERB
 a_ART
 grown-up_ADJ
 you_PRON
-trust_VERB
+trust_SUBST
 8_ADJ
 BRIBES_SUBST
 Do_VERB
@@ -2206,7 +2206,7 @@ attempt_SUBST
 repairs_SUBST
 to_PREP
 the_ART
-offside_ADJ
+offside_SUBST
 of_PREP
 the_ART
 vehicle_SUBST
@@ -5684,7 +5684,7 @@ like_PREP
 insurance_SUBST
 claims_SUBST
 PREVENTING_VERB
-IT_PRON
+IT_SUBST
 FROM_PREP
 HAPPENING_VERB
 AGAIN_ADV
@@ -6585,7 +6585,7 @@ Every_ART
 bike_SUBST
 has_VERB
 a_ART
-serial_SUBST
+serial_ADJ
 number_SUBST
 near_PREP
 the_ART
@@ -6974,7 +6974,7 @@ a_ART
 note_SUBST
 of_PREP
 the_ART
-serial_SUBST
+serial_ADJ
 numbers_SUBST
 of_PREP
 your_PRON
@@ -8306,7 +8306,7 @@ on_PREP
 public_ADJ
 transport_SUBST
 to_PREP
-trust_VERB
+trust_SUBST
 your_PRON
 intuition_SUBST
 plan_SUBST

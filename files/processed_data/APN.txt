@@ -1644,7 +1644,7 @@ large_ADJ
 areas_SUBST
 outside_PREP
 carefully_ADV
-laid-out_VERB
+laid-out_ADJ
 experimental_ADJ
 plots_SUBST
 in_PREP
@@ -13179,7 +13179,7 @@ strips_SUBST
 with_PREP
 or_CONJ
 without_PREP
-grass-covered_ADJ
+grass-covered_SUBST
 storm_SUBST
 channels_SUBST
 or_CONJ
@@ -15486,7 +15486,7 @@ West_SUBST
 indifference_SUBST
 to_PREP
 information_SUBST
-gathering_SUBST
+gathering_VERB
 until_CONJ
 recently_ADV
 the_ART
@@ -19474,7 +19474,7 @@ Kenya_SUBST
 or_CONJ
 to_PREP
 tribal_ADJ
-trust_VERB
+trust_SUBST
 lands_SUBST
 in_PREP
 Zimbabwe_SUBST
@@ -20790,7 +20790,7 @@ many_ADJ
 of_PREP
 the_ART
 more_ADV
-trenchant_ADJ
+trenchant_SUBST
 criticisms_SUBST
 of_PREP
 foreign_ADJ

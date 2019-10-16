@@ -420,7 +420,7 @@ is_VERB
 its_PRON
 abandonment_SUBST
 of_PREP
-serial_SUBST
+serial_ADJ
 chronological_ADJ
 conventions_SUBST
 of_PREP
@@ -604,7 +604,7 @@ A_ART
 la_UNC
 recherche_UNC
 du_UNC
-temps_SUBST
+temps_UNC
 perdu_SUBST
 1913\xe2\x80\x9327_UNC
 portray_VERB
@@ -2229,7 +2229,7 @@ his_PRON
 challenge_SUBST
 to_PREP
 the_ART
-serial_SUBST
+serial_ADJ
 form_SUBST
 of_PREP
 the_ART
@@ -7089,7 +7089,7 @@ at_PREP
 bay_SUBST
 My_PRON
 soul_SUBST
-frets_SUBST
+frets_VERB
 in_PREP
 the_ART
 shadow_SUBST
@@ -13622,7 +13622,7 @@ with_PREP
 Beckett-like_ADJ
 ultimacies_SUBST
 by_PREP
-excluding_VERB
+excluding_PREP
 action_SUBST
 and_CONJ
 character_SUBST
@@ -16272,7 +16272,7 @@ And_CONJ
 scenes_SUBST
 are_VERB
 repeatedly_ADV
-dissolving_ADJ
+dissolving_VERB
 or_CONJ
 fading_VERB
 out_ADV
@@ -17888,7 +17888,7 @@ vers_SUBST
 une_UNC
 fin_SUBST
 etc_ADV
-tout_SUBST
+tout_UNC
 visait_VERB
 \xc3\xa0_UNC
 imposer_SUBST
@@ -18620,7 +18620,7 @@ A_ART
 la_UNC
 recherche_UNC
 du_UNC
-temps_SUBST
+temps_UNC
 perdu_SUBST
 however_ADV
 is_VERB
@@ -24017,7 +24017,7 @@ as_CONJ
 an_ART
 exercise_SUBST
 in_PREP
-serial_SUBST
+serial_ADJ
 composition_SUBST
 as_CONJ
 its_PRON

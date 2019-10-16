@@ -19862,7 +19862,7 @@ caused_VERB
 the_ART
 Colonel_SUBST
 to_PREP
-bellow_VERB
+bellow_SUBST
 If_CONJ
 you_PRON
 ca_VERB
@@ -21776,7 +21776,7 @@ studded_VERB
 with_PREP
 them_PRON
 Even_ADV
-Fellburn_VERB
+Fellburn_SUBST
 four_ADJ
 miles_SUBST
 away_ADV
@@ -23518,7 +23518,7 @@ there_PRON
 the_ART
 inn_SUBST
 at_PREP
-Fellburn_VERB
+Fellburn_SUBST
 You_PRON
 're_VERB
 not_ADV

@@ -720,7 +720,7 @@ establishment_SUBST
 mistrustful_ADJ
 of_PREP
 a_ART
-prying_VERB
+prying_ADJ
 public_ADJ
 has_VERB
 always_ADV
@@ -2584,7 +2584,7 @@ chimney_SUBST
 or_CONJ
 the_ART
 oil_SUBST
-slick_SUBST
+slick_ADJ
 menacing_ADJ
 your_PRON
 favourite_ADJ
@@ -10333,7 +10333,7 @@ were_VERB
 starting_VERB
 work_SUBST
 on_PREP
-dissolving_ADJ
+dissolving_VERB
 a_ART
 fresh_ADJ
 batch_SUBST
@@ -10357,7 +10357,7 @@ the_ART
 bottom_SUBST
 of_PREP
 the_ART
-dissolving_ADJ
+dissolving_VERB
 vessel_SUBST
 had_VERB
 evaporated_VERB
@@ -10705,7 +10705,7 @@ Because_CONJ
 of_PREP
 the_ART
 chemical_ADJ
-dissolving_ADJ
+dissolving_VERB
 process_SUBST
 there_PRON
 are_VERB
@@ -11580,7 +11580,7 @@ by_PREP
 an_ART
 oily_ADJ
 radioactive_ADJ
-slick_SUBST
+slick_ADJ
 Their_PRON
 clothing_SUBST
 was_VERB
@@ -12244,7 +12244,7 @@ Centre_SUBST
 where_ADV
 all_ADJ
 the_ART
-slick_SUBST
+slick_ADJ
 techniques_SUBST
 of_PREP
 modern_ADJ
@@ -12773,7 +12773,7 @@ the_ART
 storm_SUBST
 clouds_SUBST
 were_VERB
-gathering_SUBST
+gathering_VERB
 for_PREP
 the_ART
 nuclear_ADJ
@@ -14378,7 +14378,7 @@ as_CONJ
 there_PRON
 is_VERB
 little_ADJ
-trust_VERB
+trust_SUBST
 left_VERB
 among_PREP
 many_ADJ
@@ -27168,7 +27168,7 @@ privatize_VERB
 the_ART
 electricity_SUBST
 industry_SUBST
-gathering_SUBST
+gathering_VERB
 steam_SUBST
 we_PRON
 knew_VERB
@@ -28366,7 +28366,7 @@ be_VERB
 around_PREP
 His_PRON
 selfish_ADJ
-short-sightedness_SUBST
+short-sightedness_ADJ
 was_VERB
 contrasted_VERB
 with_PREP
@@ -30645,7 +30645,7 @@ process_SUBST
 which_PRON
 had_VERB
 been_VERB
-gathering_SUBST
+gathering_VERB
 momentum_SUBST
 for_PREP
 some_ADJ
@@ -32815,7 +32815,7 @@ a_ART
 wall_SUBST
 of_PREP
 obfuscation_SUBST
-juggling_VERB
+juggling_ADJ
 figures_SUBST
 to_PREP
 suit_SUBST

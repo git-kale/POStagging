@@ -6509,7 +6509,7 @@ deadly_ADJ
 military_ADJ
 machinery_SUBST
 with_PREP
-slick_SUBST
+slick_ADJ
 psychological_ADJ
 warfare_SUBST
 A_ART
@@ -12201,7 +12201,7 @@ requires_VERB
 total_ADJ
 support_SUBST
 and_CONJ
-trust_VERB
+trust_SUBST
 There_PRON
 are_VERB
 so_ADV
@@ -23116,7 +23116,7 @@ effect_SUBST
 deportations_SUBST
 have_VERB
 increased_VERB
-threefold_ADV
+threefold_ADJ
 to_PREP
 a_ART
 rate_SUBST
@@ -30465,7 +30465,7 @@ perceived_VERB
 as_CONJ
 a_ART
 growing_ADJ
-trust_VERB
+trust_SUBST
 and_CONJ
 co-operation_SUBST
 between_PREP

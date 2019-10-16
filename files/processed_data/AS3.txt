@@ -3018,7 +3018,7 @@ themselves_PRON
 danglers_SUBST
 This_ADJ
 I_PRON
-trust_VERB
+trust_SUBST
 has_VERB
 no_ART
 connection_SUBST
@@ -12539,7 +12539,7 @@ SAY_VERB
 PEOPLE_SUBST
 I_PRON
 MEAN_VERB
-IT_PRON
+IT_SUBST
 'S_UNC
 me_PRON
 that_CONJ
@@ -13514,7 +13514,7 @@ hillside_SUBST
 could_VERB
 make_VERB
 a_ART
-Munroist_ADJ
+Munroist_SUBST
 's_UNC
 heart_SUBST
 sink_SUBST
@@ -20026,7 +20026,7 @@ that_CONJ
 seen_VERB
 many_ADJ
 a_ART
-Munroist_ADJ
+Munroist_SUBST
 stand_VERB
 vacantly_ADV
 at_PREP
@@ -28115,7 +28115,7 @@ on_PREP
 the_ART
 other_ADJ
 hand_SUBST
-saunter_VERB
+saunter_SUBST
 around_PREP
 in_PREP
 large_ADJ
@@ -31881,7 +31881,7 @@ TURNED_VERB
 ME_PRON
 ON_PREP
 MAYBE_ADV
-IT_PRON
+IT_SUBST
 was_VERB
 a_ART
 reaction_SUBST

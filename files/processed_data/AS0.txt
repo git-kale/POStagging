@@ -626,7 +626,7 @@ patient_SUBST
 every_ART
 day_SUBST
 usually_ADV
-excluding_VERB
+excluding_PREP
 weekends_SUBST
 Having_VERB
 assessed_VERB
@@ -9598,7 +9598,7 @@ as_CONJ
 drawing_VERB
 painting_SUBST
 or_CONJ
-needlepoint_SUBST
+needlepoint_VERB
 you_PRON
 should_VERB
 try_VERB
@@ -9622,7 +9622,7 @@ secure_VERB
 a_ART
 canvas_SUBST
 or_CONJ
-needlepoint_SUBST
+needlepoint_VERB
 frame_SUBST
 in_PREP
 clamps_SUBST
@@ -15108,7 +15108,7 @@ network_SUBST
 of_PREP
 people_SUBST
 you_PRON
-trust_VERB
+trust_SUBST
 based_VERB
 on_PREP
 your_PRON
@@ -17876,7 +17876,7 @@ WHEELCHAIR_SUBST
 UP_ADV
 THEN_ADV
 SLIDE_VERB
-IT_PRON
+IT_SUBST
 INTO_PREP
 THE_ART
 CAR_SUBST
@@ -17899,7 +17899,7 @@ ALL_ADJ
 DAY_SUBST
 AND_CONJ
 USING_VERB
-BOTH_ADV
+BOTH_ADJ
 HANDS_SUBST
 WITH_PREP
 PRECISION_SUBST
@@ -24292,7 +24292,7 @@ THE_ART
 PATIENT_SUBST
 FROM_PREP
 OVERUSING_SUBST
-IT_PRON
+IT_SUBST
 THE_ART
 PATIENT_SUBST
 FOLLOWS_VERB
@@ -30502,7 +30502,7 @@ training_SUBST
 her_PRON
 not_ADV
 to_PREP
-over-use_SUBST
+over-use_VERB
 her_PRON
 right_ADJ
 side_SUBST

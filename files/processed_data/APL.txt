@@ -549,7 +549,7 @@ be_VERB
 processed_VERB
 through_PREP
 a_ART
-mini-lab_ADJ
+mini-lab_SUBST
 with_PREP
 the_ART
 option_SUBST
@@ -2972,7 +2972,7 @@ accompanied_VERB
 by_PREP
 his_PRON
 own_ADJ
-trenchant_ADJ
+trenchant_SUBST
 graphic_ADJ
 sometimes_ADV
 whimsical_ADJ
@@ -3431,7 +3431,7 @@ and_CONJ
 selecting_VERB
 the_ART
 required_VERB
-mini-lab_ADJ
+mini-lab_SUBST
 prints_SUBST
 each_ADJ
 photograph_SUBST

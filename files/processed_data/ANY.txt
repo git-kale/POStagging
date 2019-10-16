@@ -173,7 +173,7 @@ the_ART
 core_SUBST
 blowers_SUBST
 the_ART
-vandalizing_VERB
+vandalizing_SUBST
 of_PREP
 the_ART
 toilets_SUBST
@@ -1234,7 +1234,7 @@ four_ADJ
 toilets_SUBST
 damson_SUBST
 avocado_SUBST
-sunflower_VERB
+sunflower_SUBST
 and_CONJ
 white_ADJ
 all_ADJ
@@ -5595,21 +5595,21 @@ sexuality_SUBST
 YOUNG_ADJ
 FARMERS_SUBST
 DO_VERB
-IT_PRON
+IT_SUBST
 IN_PREP
 THEIR_PRON
 WELLIES_SUBST
 WATER_SUBST
 SKIERS_SUBST
 DO_VERB
-IT_PRON
+IT_SUBST
 STANDING_VERB
 UP_ADV
 HOOT_VERB
 IF_CONJ
 YOU_PRON
 HAD_VERB
-IT_PRON
+IT_SUBST
 LAST_ADJ
 NIGHT_SUBST
 It_PRON
@@ -5718,7 +5718,7 @@ window_SUBST
 HANG_VERB
 GLIDERS_SUBST
 DO_VERB
-IT_PRON
+IT_SUBST
 IN_PREP
 MID-AIR_SUBST
 Vic_SUBST
@@ -5963,7 +5963,7 @@ and_CONJ
 choked_VERB
 by_PREP
 the_ART
-thundering_VERB
+thundering_ADJ
 torrent_SUBST
 of_PREP
 traffic_SUBST
@@ -10283,7 +10283,7 @@ small_ADJ
 flat_ADJ
 in_PREP
 Brighton_SUBST
-commuting_VERB
+commuting_SUBST
 to_PREP
 the_ART
 University_SUBST
@@ -11525,7 +11525,7 @@ with_PREP
 her_PRON
 in_PREP
 Cambridge_SUBST
-commuting_VERB
+commuting_SUBST
 by_PREP
 car_SUBST
 to_PREP
@@ -15862,7 +15862,7 @@ Put_VERB
 me_PRON
 down_ADV
 for_PREP
-picketing_VERB
+picketing_SUBST
 Bob_SUBST
 says_VERB
 Robyn_SUBST
@@ -17437,7 +17437,7 @@ Philip_SUBST
 Swallow_SUBST
 continues_VERB
 evidently_ADV
-enchanted_ADJ
+enchanted_VERB
 with_PREP
 his_PRON
 flight_SUBST
@@ -21482,7 +21482,7 @@ the_ART
 angle_SUBST
 of_PREP
 the_ART
-louvred_ADJ
+louvred_VERB
 blinds_SUBST
 Staring_VERB
 out_ADV
@@ -21553,7 +21553,7 @@ Pringle_SUBST
 's_UNC
 is_VERB
 not_ADV
-reordering_SUBST
+reordering_VERB
 and_CONJ
 has_VERB
 phoned_VERB
@@ -25589,7 +25589,7 @@ Discuss_VERB
 Seeing_VERB
 it_PRON
 there_PRON
-foursquare_VERB
+foursquare_SUBST
 in_PREP
 soot-streaked_ADJ
 stone_SUBST
@@ -26031,7 +26031,7 @@ She_PRON
 passes_VERB
 launderettes_SUBST
 hairdressers_SUBST
-betting_SUBST
+betting_VERB
 shops_SUBST
 Sketchleys_SUBST
 Motaparts_SUBST
@@ -29735,7 +29735,7 @@ unpleasant_ADJ
 Yes_INTERJ
 I_PRON
 was_VERB
-picketing_VERB
+picketing_SUBST
 What_PRON
 fun_SUBST
 it_PRON
@@ -31819,7 +31819,7 @@ of_PREP
 minutes_SUBST
 will_VERB
 you_PRON
-Brush_SUBST
+Brush_VERB
 yourself_PRON
 down_ADV
 while_CONJ
@@ -36800,7 +36800,7 @@ angrily_ADV
 He_PRON
 pronounced_VERB
 it_PRON
-Roobish_ADJ
+Roobish_VERB
 it_PRON
 was_VERB
 a_ART
@@ -41430,7 +41430,7 @@ unreliable_ADJ
 Rubbish_SUBST
 said_VERB
 Wilcox_SUBST
-Roobish_ADJ
+Roobish_VERB
 They_PRON
 used_VERB
 to_PREP

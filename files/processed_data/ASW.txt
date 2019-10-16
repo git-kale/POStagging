@@ -644,7 +644,7 @@ an_ART
 extravagant_ADJ
 display_SUBST
 of_PREP
-mourning_VERB
+mourning_SUBST
 Many_ADJ
 refused_VERB
 to_PREP
@@ -9335,7 +9335,7 @@ and_CONJ
 often_ADV
 barbarian_ADJ
 character_SUBST
-Assyrian_ADJ
+Assyrian_SUBST
 soldiers_SUBST
 at_PREP
 the_ART
@@ -11986,7 +11986,7 @@ time_SUBST
 the_ART
 Cid_SUBST
 was_VERB
-gathering_SUBST
+gathering_VERB
 strength_SUBST
 and_CONJ
 when_CONJ
@@ -20673,7 +20673,7 @@ authorities_SUBST
 and_CONJ
 was_VERB
 a_ART
-gathering_SUBST
+gathering_VERB
 of_PREP
 major_ADJ
 importance_SUBST
@@ -31657,7 +31657,7 @@ past_SUBST
 and_CONJ
 from_PREP
 an_ART
-encroaching_VERB
+encroaching_ADJ
 future_SUBST
 Christianity_SUBST
 had_VERB
@@ -33191,7 +33191,7 @@ public_ADJ
 opinion_SUBST
 and_CONJ
 a_ART
-gathering_SUBST
+gathering_VERB
 tide_SUBST
 of_PREP
 religious_ADJ
@@ -36003,7 +36003,7 @@ in_PREP
 crusader_SUBST
 style_SUBST
 of_PREP
-mailed_VERB
+mailed_ADJ
 hauberk_SUBST
 and_CONJ
 surcoat_SUBST

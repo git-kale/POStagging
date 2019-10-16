@@ -2488,7 +2488,7 @@ Europe_SUBST
 and_CONJ
 he_PRON
 made_VERB
-trenchant_ADJ
+trenchant_SUBST
 and_CONJ
 remarkably_ADV
 personal_ADJ
@@ -12864,7 +12864,7 @@ precisely_ADV
 comprehensible_ADJ
 than_CONJ
 citizenship_SUBST
-tout_SUBST
+tout_UNC
 court_SUBST
 Not_ADV
 really_ADV
@@ -15762,7 +15762,7 @@ decisions_SUBST
 in_PREP
 cases_SUBST
 involving_VERB
-picketing_VERB
+picketing_SUBST
 during_PREP
 the_ART
 miners_SUBST
@@ -20267,7 +20267,7 @@ chartered_ADJ
 institution_SUBST
 or_CONJ
 charitable_ADJ
-trust_VERB
+trust_SUBST
 that_CONJ
 would_VERB
 have_VERB
@@ -27342,7 +27342,7 @@ of_PREP
 the_ART
 Committee_SUBST
 \xc2\xa3203,000_UNC
-excluding_VERB
+excluding_PREP
 printing_SUBST
 and_CONJ
 shorthand_SUBST
