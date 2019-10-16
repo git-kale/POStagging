@@ -17,18 +17,18 @@ wordprob = {}
 
 for i in range(0,len(l)):
         l[i] = l[i].rsplit(":",1)
-        l[i][0] = bytes(l[i][0][1:-1].encode('utf-8')).decode('utf-8')
+        l[i][0] = l[i][0][1:-1]
         
         l[i][0] = l[i][0].rsplit("_",1)
         l[i][1] = int(l[i][1])
 
 for word in l:
     if word[0][0] not in wordprob:
-        wordprob[bytes(word[0][0].encode('utf-8'))] = word[1]
-        wordtag[bytes(word[0][0].encode('utf-8'))] = word[0][1]
-    elif wordprob[bytes(word[0][0].encode('utf-8'))] < word[1]:
-        wordprob[bytes(word[0][0].encode('utf-8'))] = word[1]
-        wordtag[bytes(word[0][0].encode('utf-8'))] = word[0][1]
+        wordprob[(word[0][0])] = word[1]
+        wordtag[(word[0][0])] = word[0][1]
+    elif wordprob[(word[0][0])] < word[1]:
+        wordprob[(word[0][0])] = word[1]
+        wordtag[(word[0][0])] = word[0][1]
 
 
 
@@ -52,8 +52,9 @@ def process_file(file_name):
     #iterating over found word tags
     for item in strings:
         word = item.text
+        word = str(bytes(word,'utf-8'))[2:-1]
         pos_tag = item.attrib['pos']
-        gussed_tag = wordtag[bytes(word.strip().encode('utf-8'))]
+        gussed_tag = wordtag[(word.strip())]
         if(pos_tag==gussed_tag):
             correct += 1
         else:
@@ -62,7 +63,7 @@ def process_file(file_name):
     
     #writing the processed string to txt file
     outfile = open(PROCESS_DIR+file_name[0:3]+'.txt','w+')
-    outfile.write(processed_string.encode('utf-8'))
+    outfile.write(processed_string)
     outfile.close()
 
 
@@ -81,3 +82,5 @@ for fi in all_filenames:
     process_file(fi)
 time_taken = time() - start
 print("DONE in "+str(time_taken)+" seconds")
+
+print("\nThe accuracy calculated is : "+str(100*correct/(correct+incorrect))+"%")
