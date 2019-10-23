@@ -1,6 +1,3 @@
-
-
-
 import os
 from natsort import natsorted
 import xml.etree.ElementTree as ET
