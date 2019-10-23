@@ -1,10 +1,10 @@
-Support_NN1-VVB
+Support_NN1
 the_AT0
-Official_AJ0-NN1
+Official_AJ0
 MONSTER_NN1
-RAVING_VVG-AJ0
+RAVING_VVG
 LOONIES_NN2
-DRAFT_VVB-NN1
+DRAFT_NN1
 MANIFESTO_NN1
 FOR_PRP
 GENERAL_AJ0
@@ -14,7 +14,7 @@ ELECTION_NN1
 New_AJ0
 Financial_AJ0
 Services_NN2
-Axe_VVB-NN1
+Axe_NN1
 We_PNP
 will_VM0
 revitalise_VVI
@@ -171,7 +171,7 @@ need_VVB
 not_XX0
 necessarily_AV0
 be_VBI
-increased_AJ0
+increased_VVN
 but_CJC
 anti-social_AJ0
 devices_NN2
@@ -329,7 +329,7 @@ times_NN2
 the_AT0
 national_AJ0
 wage_NN1
-average_AJ0-NN1
+average_AJ0
 8_CRD
 Pollution_NN1
 Tax_NN1
@@ -522,7 +522,7 @@ and_CJC
 Hotel_NN1
 occupancy_NN1
 rates_NN2
-Clear_VVB
+Clear_AJ0
 the_AT0
 roads_NN2
 of_PRF
@@ -535,7 +535,7 @@ and_CJC
 causes_NN2
 of_PRF
 accidents_NN2
-Clear_VVB
+Clear_AJ0
 scenic_AJ0
 coastal_AJ0
 views_NN2
@@ -599,7 +599,7 @@ will_VM0
 be_VBI
 the_AT0
 ever_AV0
-present_AJ0-NN1
+present_AJ0
 risk_NN1
 of_PRF
 sexual_AJ0
@@ -695,7 +695,7 @@ America_NP0
 airmail_NN1
 Call_VVB
 collect_VVI
-Trident_NP0-NN1
+Trident_NP0
 can_VM0
 be_VBI
 scrapped_VVN
@@ -728,7 +728,7 @@ Llewellyn_NP0
 Tudor_NP0
 VII_CRD
 Putting_VVG
-Trident_NP0-NN1
+Trident_NP0
 aside_AV0
 will_VM0
 therefore_AV0
@@ -858,7 +858,7 @@ the_AT0
 risk_NN1
 of_PRF
 being_VBG
-stoned_VVN-AJ0
+stoned_VVN
 and_CJC
 vice_UNC
 versa_UNC
@@ -873,7 +873,7 @@ introduce_VVI
 legislation_NN1
 to_TO0
 decriminalise_VVI
-hotting_VVG-NN1
+hotting_VVG
 Inner_AJ0
 city_NN1
 redevelopment_NN1
@@ -889,7 +889,7 @@ for_PRP
 the_AT0
 purpose_NN1
 of_PRF
-hotting_VVG-NN1
+hotting_VVG
 In_PRP
 fact_NN1
 participants_NN2
@@ -990,7 +990,7 @@ find_VVI
 most_AV0
 of_PRF
 them_PNP
-dressing_VVG
+dressing_NN1
 up_AVP
 curious_AJ0
 uniforms_NN2
@@ -1402,7 +1402,7 @@ of_PRF
 any_DT0
 loan_NN1
 or_CJC
-bankrupted_AJ0
+bankrupted_VVN
 debt_NN1
 left_VVN
 with_PRP
@@ -1533,7 +1533,7 @@ appointed_VVN
 representative_NN1
 they_PNP
 employ_VVI
-Independent_AJ0
+Independent_NN1
 financial_AJ0
 advisers_NN2
 shall_VM0
@@ -1551,7 +1551,7 @@ they_PNP
 employ_VVI
 Although_CJS
 strict_AJ0
-licensing_NN1-VVG
+licensing_NN1
 is_VBZ
 the_AT0
 limit_NN1
@@ -1560,7 +1560,7 @@ our_DPS
 intent_NN1
 at_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 the_AT0
 industry_NN1
 is_VBZ
@@ -1588,7 +1588,7 @@ MOTOR_NN1
 INDUSTRY_NN1
 The_AT0
 Ford_NP0
-Escort_NN1-VVB
+Escort_NN1
 van_NN1
 1300_CRD
 c.c._NN0
@@ -1697,7 +1697,7 @@ status_NN1
 RESTITUTION_NN1
 OF_PRF
 PROPERTY_NN1
-ACT_NN1-VVB
+ACT_VVB
 Gollum_NP0
 must_VM0
 give_VVI
@@ -1705,7 +1705,7 @@ Siegfried_NP0
 his_DPS
 ring_NN1
 back_AVP
-HEADLINE_VVB-NN1
+HEADLINE_NN1
 INFLATION_NN1
 It_PNP
 is_VBZ
@@ -1818,7 +1818,7 @@ the_AT0
 bland_AJ0
 both_AV0
 shall_VM0
-fall_VVI
+fall_NN1
 into_PRP
 the_AT0
 ditch_NN1
@@ -1837,7 +1837,7 @@ He_PNP
 is_VBZ
 kind_NN1
 GETTING_VVG
-STONED_AJ0-VVD
+STONED_AJ0
 From_PRP
 the_AT0
 stones_NN2

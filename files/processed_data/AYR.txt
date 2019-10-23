@@ -84,7 +84,7 @@ continue_VVI
 to_TO0
 meet_VVI
 the_AT0
-present_AJ0-NN1
+present_AJ0
 and_CJC
 future_NN1
 requirements_NN2
@@ -361,7 +361,7 @@ competitive_AJ0
 rates_NN2
 as_CJS
 a_AT0
-principal_AJ0-NN1
+principal_AJ0
 service_NN1
 to_TO0
 our_DPS
@@ -523,7 +523,7 @@ ensure_VVI
 we_PNP
 maintain_VVI
 the_AT0
-present_AJ0-NN1
+present_AJ0
 secure_VVI
 and_CJC
 friendly_AJ0
@@ -738,7 +738,7 @@ YOU_PNP
 'RE_VBB
 PLANNING_VVG
 TO_PRP
-BUY_VVB
+BUY_VVI
 YOUR_DPS
 MONEY_NN1
 GOES_VVZ
@@ -755,7 +755,7 @@ CAN_VM0
 WE_PNP
 HELP_VVI
 YOU_PNP
-CUT_VVB-NN1
+CUT_NN1
 THE_AT0
 COST_NN1
 OF_PRF
@@ -819,7 +819,7 @@ our_DPS
 low_AJ0
 start_NN1
 or_CJC
-deferred_VVN-AJ0
+deferred_VVN
 payment_NN1
 options_NN2
 these_DT0
@@ -904,7 +904,7 @@ ideal_AJ0
 mortgage_NN1
 for_PRP
 your_DPS
-present_AJ0-NN1
+present_AJ0
 needs_VVZ
 and_CJC
 future_NN1
@@ -964,7 +964,7 @@ on_PRP
 the_AT0
 endowment_NN1
 policy_NN1
-Fast_AV0-AJ0
+Fast_AJ0
 efficient_AJ0
 and_CJC
 friendly_AJ0
@@ -1010,7 +1010,7 @@ helpful_AJ0
 magazine_NN1
 containing_VVG
 exclusive_AJ0
-money-saving_AJ0-NN1
+money-saving_NN1
 offers_VVZ
 Plus_NN1
 we_PNP
@@ -1622,7 +1622,7 @@ than_CJS
 two_CRD
 years_NN2
 old_AJ0
-Quick_AJ0-AV0
+Quick_AJ0
 and_CJC
 easy_AJ0
 to_TO0
@@ -1692,7 +1692,7 @@ We_PNP
 will_VM0
 suggest_VVI
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 amount_NN1
 to_TO0
 insure_VVI
@@ -1720,8 +1720,8 @@ free_AJ0
 on_PRP
 0800_CRD
 252545_CRD
-Monday\xe2\x80\x93Friday_NP0-NN1
-9am\xe2\x80\x935pm_NN1-VVB
+Monday\xe2\x80\x93Friday_NP0
+9am\xe2\x80\x935pm_NN1
 please_AV0
 quote_VVI
 your_DPS
@@ -1734,7 +1734,7 @@ the_AT0
 reply_NN1
 card_NN1
 HOSPITAL_NN1
-PLAN_NN1-VVB
+PLAN_NN1
 INSURANCE_NN1
 SERVICES_NN2
 Dear_AJ0
@@ -1757,7 +1757,7 @@ by_PRP
 invitation-only_AJ0
 Hospital_NN1
 Plan_NN1
-Cash_NN1-VVB
+Cash_NN1
 Match_VVB
 Prize_NN1
 Draw_VVB
@@ -1867,8 +1867,8 @@ return_NN1
 the_AT0
 official_AJ0
 Prize_NN1
-Claim_NN1-VVB
-Form_NN1-VVB
+Claim_NN1
+Form_NN1
 that_CJT
 will_VM0
 be_VBI
@@ -1942,7 +1942,7 @@ for_PRP
 the_AT0
 official_AJ0
 Prize_NN1
-Claim_NN1-VVB
+Claim_NN1
 envelope_NN1
 It_PNP
 's_POS
@@ -1989,8 +1989,8 @@ and_CJC
 post_NN1
 your_DPS
 Prize_NN1
-Claim_NN1-VVB
-Form_NN1-VVB
+Claim_NN1
+Form_NN1
 right_NN1
 away_AV0
 Best_AJS
@@ -2453,7 +2453,7 @@ amount_NN1
 of_PRF
 cover_NN1
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 need_VVB
 because_CJS
@@ -2468,10 +2468,10 @@ levels_NN2
 of_PRF
 cover_NN1
 Gold_NN1
-Cover_VVB-NN1
+Cover_NN1
 and_CJC
 Silver_NP0
-Cover_VVB-NN1
+Cover_NN1
 for_PRP
 less_AV0
 than_CJS
@@ -2483,7 +2483,7 @@ We_PNP
 strongly_AV0
 recommend_VVI
 Gold_NN1
-Cover_VVB-NN1
+Cover_NN1
 to_TO0
 our_DPS
 customers_NN2
@@ -2496,7 +2496,7 @@ letter_NN1
 relate_VVI
 to_TO0
 Gold_NN1
-Cover_VVB-NN1
+Cover_NN1
 Why_AVQ
 not_XX0
 extend_VVI
@@ -2551,7 +2551,7 @@ complete_AJ0
 the_AT0
 simple_AJ0
 Enrolment_NN1
-Form_NN1-VVB
+Form_NN1
 enclosed_AJ0
 and_CJC
 return_NN1
@@ -2625,7 +2625,7 @@ now_AV0
 completing_VVG
 your_DPS
 Enrolment_NN1
-Form_NN1-VVB
+Form_NN1
 could_VM0
 make_VVI
 a_AT0
@@ -2679,14 +2679,14 @@ also_AV0
 receive_VVI
 a_AT0
 free_AJ0
-two-piece_NN1-AJ0
+two-piece_NN1
 telephone_NN1
 with_PRP
 our_DPS
 compliments_NN2
 Your_DPS
 Enrolment_NN1
-Form_NN1-VVB
+Form_NN1
 gives_VVZ
 full_AJ0
 details_NN2
@@ -2977,7 +2977,7 @@ family_NN1
 future_NN1
 Dear_AJ0
 Mr_NP0
-Clear_VVB
+Clear_AJ0
 Have_VHB
 you_PNP
 ever_AV0
@@ -3278,7 +3278,7 @@ And_CJC
 the_AT0
 State_NN1
 Invalidity_NN1
-Benefit_NN1-VVB
+Benefit_NN1
 March_NP0
 1990_CRD
 of_PRF
@@ -3878,7 +3878,7 @@ consideration_NN1
 Yours_PNP
 sincerely_AV0
 K.G._NN0
-Hanslow_NN1-VVB
+Hanslow_NN1
 Customer_NN1
 Services_NN2
 Manager_NN1
@@ -3922,13 +3922,13 @@ on_PRP
 your_DPS
 application_NN1
 form_NN1
-AMERICAN_AJ0-NN1
+AMERICAN_AJ0
 EXPRESS_NN1
 EUROPE_NP0
-LIMITED_VVN-AJ0
+LIMITED_AJ0
 Dear_AJ0
 Mr_NP0
-Clear_VVB
+Clear_AJ0
 Have_VHB
 you_PNP
 ever_AV0
@@ -4090,7 +4090,7 @@ hi-fi_NN1
 equipment_NN1
 You_PNP
 accidentally_AV0
-drop_VVI
+drop_NN1
 it_PNP
 in_PRP
 the_AT0
@@ -4125,7 +4125,7 @@ is_VBZ
 immediately_AV0
 covered_VVN
 by_PRP
-Purchase_NN1-VVB
+Purchase_NN1
 Protection_NN1
 against_PRP
 accidental_AJ0
@@ -4192,7 +4192,7 @@ could_VM0
 be_VBI
 referred_VVN
 in_PRP
-English_AJ0-NN1
+English_AJ0
 to_TO0
 a_AT0
 lawyer_NN1
@@ -4288,14 +4288,14 @@ that_CJT
 allow_VVI
 you_PNP
 to_TO0
-spread_NN1
+spread_VVN
 the_AT0
 payments_NN2
 over_PRP
 future_NN1
 months_NN2
 Personal_AJ0
-Reserve_AJ0
+Reserve_NN1
 which_DTQ
 lets_VVZ
 you_PNP
@@ -4318,7 +4318,7 @@ Express_NN1
 Both_DT0
 let_VVB
 you_PNP
-spread_NN1
+spread_VVN
 out_AVP
 payments_NN2
 You_PNP
@@ -4332,7 +4332,7 @@ value_NN1
 of_PRF
 American_AJ0
 Express_NN1
-Cardmembership_NN1-NP0
+Cardmembership_NN1
 So_AV0
 let_VVB
 me_PNP
@@ -4467,7 +4467,7 @@ of_PRF
 our_DPS
 l_ZZ0
 500_CRD
-Travel_NN1-VVB
+Travel_NN1
 Service_NN1
 and_CJC
 Representative_NN1
@@ -4478,7 +4478,7 @@ world_NN1
 They_PNP
 'll_VM0
 also_AV0
-act_VVI
+act_NN1
 as_CJS
 your_DPS
 poste_UNC
@@ -4497,7 +4497,7 @@ holiday_NN1
 from_PRP
 a_AT0
 U.K._NP0
-Travel_NN1-VVB
+Travel_NN1
 Office_NN1
 we_PNP
 'll_VM0
@@ -4534,7 +4534,7 @@ receive_VVI
 up_AVP
 to_TO0
 \xc2\xa375,000_NN0
-Travel_NN1-VVB
+Travel_NN1
 Accident_NN1
 Insurance_NN1
 at_PRP
@@ -4605,21 +4605,21 @@ Ladies_NN2
 Day_NN1
 at_PRP
 Royal_AJ0
-Ascot_NP0-NN1
+Ascot_NP0
 England_NP0
 vs_PRP
 New_AJ0
 Zealand_NP0
 at_PRP
 the_AT0
-Oval_AJ0-NN1
+Oval_NN1
 or_CJC
 a_AT0
 performance_NN1
 of_PRF
 the_AT0
 West_NP0
-End_NP0
+End_NN1
 triumph_NN1
 Miss_NP0
 Saigon_NP0
@@ -4670,7 +4670,7 @@ all_DT0
 the_AT0
 benefits_NN2
 of_PRF
-Cardmembership_NN1-NP0
+Cardmembership_NN1
 with_PRP
 your_DPS
 partner_NN1
@@ -5002,7 +5002,7 @@ on_PRP
 the_AT0
 enclosed_AJ0
 Application_NN1
-Form_NN1-VVB
+Form_NN1
 A_AT0
 generous_AJ0
 range_NN1
@@ -5066,7 +5066,7 @@ to_TO0
 if_CJS
 you_PNP
 are_VBB
-involved_AJ0
+involved_VVN
 in_PRP
 a_AT0
 road_NN1
@@ -5279,7 +5279,7 @@ standards_NN2
 of_PRF
 service_NN1
 and_CJC
-value-for-money_NN1-AJ0
+value-for-money_AJ0
 that_CJT
 our_DPS
 Customers_NN2
@@ -5311,9 +5311,9 @@ excellent_AJ0
 reputation_NN1
 for_PRP
 its_DPS
-prompt_VVI
+prompt_AJ0
 and_CJC
-caring_VVG-NN1
+caring_NN1
 service_NN1
 PPP_NP0
 can_VM0
@@ -5349,7 +5349,7 @@ Membership_NN1
 Card_NN1
 which_DTQ
 will_VM0
-act_VVI
+act_NN1
 as_CJS
 your_DPS
 identification_NN1
@@ -5401,7 +5401,7 @@ complete_AJ0
 the_AT0
 enclosed_AJ0
 Application_NN1
-Form_NN1-VVB
+Form_NN1
 and_CJC
 return_NN1
 it_PNP
@@ -5584,7 +5584,7 @@ box_NN1
 on_PRP
 your_DPS
 Application_NN1
-Form_NN1-VVB
+Form_NN1
 for_PRP
 details_NN2
 +College_UNC
@@ -5597,7 +5597,7 @@ National_AJ0
 Westminster_NP0
 Insurance_NN1
 Services_NN2
-Limited_AJ0-VVN
+Limited_AJ0
 Dear_AJ0
 Customer_NN1
 I_PNP
@@ -5920,7 +5920,7 @@ of_PRF
 Lloyds_NP0
 Bank_NP0
 Accident_NN1
-Cashcard_NP0-NN1
+Cashcard_NP0
 a_AT0
 Plan_NN1
 that_CJT
@@ -6121,7 +6121,7 @@ As_CJS
 the_AT0
 State_NN1
 Invalidity_NN1
-Benefit_NN1-VVB
+Benefit_NN1
 May_NP0
 1991_CRD
 of_PRF
@@ -6351,7 +6351,7 @@ benefit_NN1
 you_PNP
 receive_VVI
 Accident_NN1
-Cashcard_NP0-NN1
+Cashcard_NP0
 will_VM0
 pay_VVI
 you_PNP
@@ -6525,7 +6525,7 @@ complete_AJ0
 the_AT0
 enclosed_AJ0
 Application_NN1
-Form_NN1-VVB
+Form_NN1
 and_CJC
 return_NN1
 it_PNP
@@ -6579,7 +6579,7 @@ shown_VVN
 on_PRP
 your_DPS
 Application_NN1
-Form_NN1-VVB
+Form_NN1
 You_PNP
 will_VM0
 not_XX0
@@ -6729,7 +6729,7 @@ shown_VVN
 on_PRP
 your_DPS
 Application_NN1
-Form_NN1-VVB
+Form_NN1
 Take_VVB
 up_AVP
 the_AT0
@@ -6757,7 +6757,7 @@ shown_VVN
 on_PRP
 your_DPS
 Application_NN1
-Form_NN1-VVB
+Form_NN1
 and_CJC
 these_DT0
 two_CRD
@@ -6853,7 +6853,7 @@ or_CJC
 return_NN1
 this_DT0
 Application_NN1
-Form_NN1-VVB
+Form_NN1
 today_AV0
 while_CJS
 time_NN1
@@ -7039,7 +7039,7 @@ walking_VVG
 In_PRP
 attempting_VVG
 to_TO0
-cross_VVI
+cross_NN1
 a_AT0
 small_AJ0
 stream_NN1
@@ -7064,7 +7064,7 @@ was_VBD
 only_AV0
 48_CRD
 A_AT0
-fall_VVI
+fall_NN1
 in_PRP
 the_AT0
 kitchen_NN1
@@ -7089,7 +7089,7 @@ result_NN1
 of_PRF
 this_DT0
 minor_AJ0
-fall_VVI
+fall_NN1
 was_VBD
 serious_AJ0
 She_PNP
@@ -7101,7 +7101,7 @@ eye_NN1
 Eating_VVG
 out_AVP
 A_AT0
-retired_AJ0
+retired_VVD
 solicitor_NN1
 hit_VVD
 his_DPS
@@ -7117,7 +7117,7 @@ a_AT0
 restaurant_NN1
 He_PNP
 never_AV0
-regained_VVD
+regained_VVN
 consciousness_NN1
 Like_PRP
 you_PNP
@@ -7653,7 +7653,7 @@ complete_AJ0
 the_AT0
 enclosed_AJ0
 Application_NN1
-Form_NN1-VVB
+Form_NN1
 and_CJC
 return_NN1
 it_PNP
@@ -7786,7 +7786,7 @@ receive_VVI
 your_DPS
 completed_VVN
 Application_NN1
-Form_NN1-VVB
+Form_NN1
 including_PRP
 your_DPS
 choice_NN1
@@ -7863,7 +7863,7 @@ indicate_VVI
 on_PRP
 your_DPS
 Application_NN1
-Form_NN1-VVB
+Form_NN1
 whether_CJS
 you_PNP
 would_VM0
@@ -7872,9 +7872,9 @@ to_TO0
 receive_VVI
 free_AJ0
 the_AT0
-Telephone_VVB-NN1
+Telephone_NN1
 Radio_NN1
-Alarm_NN1-VVB
+Alarm_NN1
 or_CJC
 Three-Piece_NP0
 Luggage_NN1
@@ -7890,7 +7890,7 @@ your_DPS
 partner_NN1
 invest_VVI
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 \xc2\xa310_NN0
 per_UNC
 month_NN1
@@ -8183,7 +8183,7 @@ of_PRF
 term_NN1
 Important_AJ0
 Information_NN1
-Surrender_VVB-NN1
+Surrender_NN1
 Values_NN2
 A_AT0
 life_NN1
@@ -8501,7 +8501,7 @@ at_PRP
 any_DT0
 time_NN1
 without_PRP
-notice_VVI
+notice_NN1
 to_TO0
 reflect_VVI
 the_AT0
@@ -8538,7 +8538,7 @@ and_CJC
 represent_VVI
 a_AT0
 wide_AJ0
-spread_NN1
+spread_VVN
 of_PRF
 fixed_AJ0
 interest_NN1
@@ -8554,7 +8554,7 @@ Taxation_NN1
 of_PRF
 Benefits_NN2
 If_CJS
-present_AJ0-NN1
+present_AJ0
 law_NN1
 is_VBZ
 still_AV0
@@ -8710,7 +8710,7 @@ a_AT0
 reduced_VVN
 guaranteed_VVN
 sum_NN1
-assured_VVD
+assured_VVN
 Provided_CJS
 death_NN1
 has_VHZ
@@ -8769,7 +8769,7 @@ National_AJ0
 Westminster_NP0
 Insurance_NN1
 Services_NN2
-Limited_AJ0-VVN
+Limited_AJ0
 who_PNQ
 are_VBB
 remunerated_VVN
@@ -8884,7 +8884,7 @@ The_AT0
 above_PRP
 reduction_NN1
 in_PRP
-yield_VVI
+yield_NN1
 table_NN1
 refers_VVZ
 to_TO0
@@ -8975,7 +8975,7 @@ to_TO0
 that_CJT
 reduction_NN1
 in_PRP
-yield_VVI
+yield_NN1
 figure_NN1
 Notice_VVB
 Of_PRF
@@ -8984,7 +8984,7 @@ Statutory_AJ0
 Rights_NN2
 Under_PRP
 The_AT0
-Access_NN1-VVB
+Access_NN1
 To_TO0
 Medical_AJ0
 Reports_NN2
@@ -9004,7 +9004,7 @@ certain_AJ0
 rights_NN2
 under_PRP
 the_AT0
-Access_NN1-VVB
+Access_NN1
 to_TO0
 Medical_AJ0
 Reports_NN2

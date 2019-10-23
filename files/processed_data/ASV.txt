@@ -10,7 +10,7 @@ ponders_VVZ
 the_AT0
 phenomenon_NN1
 of_PRF
-water-gazing_NN1-AJ0
+water-gazing_NN1
 Circumambulate_VVB
 the_AT0
 city_NN1
@@ -23,7 +23,7 @@ What_DTQ
 do_VDB
 you_PNP
 see_VVI
-Posted_VVN-VVD
+Posted_VVN
 like_PRP
 silent_AJ0
 sentinels_NN2
@@ -98,7 +98,7 @@ counters_NN2
 nailed_VVN
 to_TO0
 benches_NN2
-clinched_VVN-VVD
+clinched_VVN
 to_TO0
 desks_NN2
 How_AVQ
@@ -315,7 +315,7 @@ Homer_NP0
 referred_VVN
 to_TO0
 the_AT0
-wine-dark_AJ0-NN1
+wine-dark_AJ0
 sea_NN1
 not_XX0
 because_CJS
@@ -391,7 +391,7 @@ of_PRF
 the_AT0
 island_NN1
 of_PRF
-Oahu_NP0-NN1
+Oahu_NN1
 is_VBZ
 a_AT0
 land_NN1
@@ -399,7 +399,7 @@ of_PRF
 full-time_AJ0
 contemplatives_NN2
 There_EX0
-water-gazing_NN1-AJ0
+water-gazing_NN1
 is_VBZ
 a_AT0
 way_NN1
@@ -413,7 +413,7 @@ head_NN1
 seawards_AV0
 as_CJS
 you_PNP
-drive_VVI
+drive_NN1
 along_AVP
 the_AT0
 Kam_NP0
@@ -452,7 +452,7 @@ bearing_VVG
 witness_NN1
 to_TO0
 the_AT0
-shifting_AJ0-VVG
+shifting_AJ0
 moods_NN2
 of_PRF
 the_AT0
@@ -523,7 +523,7 @@ world_NN1
 as_CJS
 land_NN1
 inconveniently_AV0
-dissected_AJ0
+dissected_VVN
 by_PRP
 expanses_NN2
 of_PRF
@@ -560,7 +560,7 @@ a_AT0
 corrugated_AJ0
 fractal_AJ0
 from_PRP
-Kahuku_NP0-NN1
+Kahuku_NN1
 Point_NN1
 in_PRP
 the_AT0
@@ -722,7 +722,7 @@ lands_NN2
 They_PNP
 are_VBB
 like_PRP
-Cuvier_NP0-NN1
+Cuvier_NP0
 's_POS
 heel-bone_NN1
 a_AT0
@@ -856,7 +856,7 @@ flat_AJ0
 it_PNP
 was_VBD
 like_PRP
-listening_VVG-NN1
+listening_VVG
 to_TO0
 BBC_NP0
 Radio_NN1
@@ -988,14 +988,14 @@ marvels_NN2
 recognized_VVN
 needed_VVN
 a_AT0
-martus_NN1-AJ0
+martus_NN1
 a_AT0
 witness_NN1
 to_TO0
 observe_VVI
 and_CJC
 to_TO0
-spread_NN1
+spread_VVN
 word_NN1
 of_PRF
 what_DTQ
@@ -1005,14 +1005,14 @@ seen_VVN
 So_AV0
 too_AV0
 the_AT0
-surf-riding_AJ0-NN1
-chief_AJ0-NN1
+surf-riding_NN1
+chief_NN1
 of_PRF
 ancient_AJ0
 Hawaii_NP0
 kept_VVD
 a_AT0
-surf-chanter_NN1-AJ0
+surf-chanter_AJ0
 among_PRP
 his_DPS
 retinue_NN1
@@ -1046,9 +1046,9 @@ his_DPS
 life_NN1
 as_CJS
 well_AV0
-Naihe_NP0-NN1
+Naihe_NN1
 from_PRP
-Ka'u_NP0-NN1
+Ka'u_NN1
 on_PRP
 the_AT0
 Big_AJ0
@@ -1065,7 +1065,7 @@ chiefs_NN2
 grew_VVD
 jealous_AJ0
 and_CJC
-plotted_VVN
+plotted_VVD
 to_TO0
 lure_VVI
 him_PNP
@@ -1104,7 +1104,7 @@ sung_VVN
 from_PRP
 the_AT0
 beach_NN1
-Naihe_NP0-NN1
+Naihe_NN1
 knowing_VVG
 nothing_PNI
 of_PRF
@@ -1120,7 +1120,7 @@ chanter_NN1
 sleep_VVI
 and_CJC
 was_VBD
-marooned_VVN-AJ0
+marooned_AJ0
 far_AV0
 off-shore_AJ0
 at_PRP
@@ -1142,17 +1142,17 @@ orders_NN2
 to_TO0
 dispose_VVI
 of_PRF
-Naihe_NP0-NN1
+Naihe_NN1
 But_CJC
 a_AT0
-chief_AJ0-NN1
+chief_NN1
 from_PRP
 Puna_NP0
 who_PNQ
 had_VHD
 greatly_AV0
 admired_VVN
-Naihe_NP0-NN1
+Naihe_NN1
 's_POS
 surfing_VVG
 ability_NN1
@@ -1162,9 +1162,9 @@ servant_NN1
 to_TO0
 wake_NN1
 the_AT0
-sleeping_VVG
+sleeping_NN1
 chanter_NN1
-Learning_VVG-NN1
+Learning_NN1
 of_PRF
 his_DPS
 master_NN1
@@ -1191,7 +1191,7 @@ rise_NN1
 in_PRP
 Kona_NP0
 The_AT0
-ebbing_AJ0-NN1
+ebbing_NN1
 tide_NN1
 swells_NN2
 to_TO0
@@ -1207,7 +1207,7 @@ a_AT0
 rough_AJ0
 one_CRD
 befitting_VVG
-Naihe_NP0-NN1
+Naihe_NN1
 's_POS
 surfboard_NN1
 He_PNP
@@ -1227,7 +1227,7 @@ that_CJT
 rush_NN1
 hither_AV0
 from_PRP
-Kahiki_NP0-NN1
+Kahiki_NP0
 White_AJ0
 capped_VVN
 waves_NN2
@@ -1243,7 +1243,7 @@ waves_NN2
 that_CJT
 break_VVI
 and_CJC
-spread_NN1
+spread_VVN
 It_PNP
 is_VBZ
 the_AT0
@@ -1263,7 +1263,7 @@ pebbles_NN2
 and_CJC
 corals_NN2
 ashore_AV0
-Naihe_NP0-NN1
+Naihe_NN1
 caught_VVN
 a_AT0
 wave_NN1
@@ -1281,7 +1281,7 @@ as_CJS
 a_AT0
 sort_NN1
 of_PRF
-martus_NN1-AJ0
+martus_NN1
 among_PRP
 miracle-workers_NN2
 a_AT0
@@ -1382,7 +1382,7 @@ experiences_NN2
 in_PRP
 the_AT0
 water_NN1
-shaping_VVG-AJ0
+shaping_VVG
 and_CJC
 reshaping_NN1
 the_AT0
@@ -1412,7 +1412,7 @@ it_PNP
 is_VBZ
 never_AV0
 wholly_AV0
-present_AJ0-NN1
+present_AJ0
 in_PRP
 any_DT0
 one_CRD
@@ -1504,16 +1504,16 @@ Eddie_NP0
 shorthand_NN1
 for_PRP
 The_AT0
-Quiksilver_NP0-NN1
+Quiksilver_NN1
 in_PRP
 Memory_NN1
 of_PRF
 Eddie_NP0
-Aikau_NP0-NN1
+Aikau_NP0
 was_VBD
 a_AT0
 collective_AJ0
-act_VVI
+act_NN1
 of_PRF
 surfing_VVG
 nostalgia_NN1
@@ -1541,7 +1541,7 @@ definite_AJ0
 article_NN1
 The_AT0
 Eddie_NP0
-Aikau_NP0-NN1
+Aikau_NP0
 denoted_VVD
 a_AT0
 big-wave_AJ0
@@ -1605,7 +1605,7 @@ of_PRF
 life_NN1
 The_AT0
 Eddie_NP0
-Aikau_NP0-NN1
+Aikau_NP0
 was_VBD
 supposed_AJ0
 to_TO0
@@ -1651,7 +1651,7 @@ more_AV0
 important_AJ0
 than_CJS
 the_AT0
-Triple_AJ0-NN1
+Triple_AJ0
 Crown_NN1
 and_CJC
 the_AT0
@@ -1760,7 +1760,7 @@ that_CJT
 's_POS
 all_DT0
 And_CJC
-Quiksilver_NP0-NN1
+Quiksilver_NN1
 insisted_VVD
 on_PRP
 good_AJ0
@@ -1780,7 +1780,7 @@ a_AT0
 cunning_AJ0
 ploy_NN1
 on_PRP
-Quiksilver_NP0-NN1
+Quiksilver_NN1
 's_POS
 part_NN1
 a_AT0
@@ -1802,7 +1802,7 @@ without_PRP
 even_AV0
 holding_VVG
 it_PNP
-Quiksilver_NP0-NN1
+Quiksilver_NN1
 had_VHD
 created_VVN
 the_AT0
@@ -1831,23 +1831,23 @@ in_PRP
 the_AT0
 hearts_NN2
 of_PRF
-Quiksilver_NP0-NN1
+Quiksilver_NN1
 's_POS
 rivals_NN2
-Billabong_NN1-NP0
+Billabong_NN1
 quickly_AV0
 matched_VVN
 the_AT0
 figure_NN1
 now_AV0
 the_AT0
-Billabong_NN1-NP0
+Billabong_NN1
 Pro_NN1
 the_AT0
 last_ORD
 of_PRF
 the_AT0
-Triple_AJ0-NN1
+Triple_AJ0
 Crown_NN1
 events_NN2
 also_AV0
@@ -1856,7 +1856,7 @@ a_AT0
 $50,000_NN0
 first_ORD
 prize_NN1
-Quiksilver_NP0-NN1
+Quiksilver_NN1
 responded_VVD
 by_PRP
 hoisting_VVG
@@ -1879,7 +1879,7 @@ who_PNQ
 if_CJS
 the_AT0
 Eddie_NP0
-Aikau_NP0-NN1
+Aikau_NP0
 were_VBD
 actually_AV0
 to_TO0
@@ -1894,7 +1894,7 @@ a_AT0
 small_AJ0
 fortune_NN1
 The_AT0
-Quiksilver_NP0-NN1
+Quiksilver_NN1
 contest_NN1
 was_VBD
 unique_AJ0
@@ -1905,7 +1905,7 @@ in_PRP
 contrast_NN1
 to_TO0
 the_AT0
-Triple_AJ0-NN1
+Triple_AJ0
 Crown_NN1
 there_EX0
 were_VBD
@@ -1944,7 +1944,7 @@ to_TO0
 have_VHB
 performed_VVN
 best_AJS
-overall_AJ0-NN1
+overall_AJ0
 on_PRP
 the_AT0
 day_NN1
@@ -1983,7 +1983,7 @@ nature_NN1
 will_VM0
 co-operate_VVI
 the_AT0
-Triple_AJ0-NN1
+Triple_AJ0
 Crown_NN1
 was_VBD
 already_AV0
@@ -2001,7 +2001,7 @@ fixtures_NN2
 elsewhere_AV0
 on_PRP
 the_AT0
-Tour_NN1-VVB
+Tour_NN1
 But_CJC
 the_AT0
 Eddie_NP0
@@ -2078,7 +2078,7 @@ the_AT0
 Day_NN1
 The_AT0
 Eddie_NP0
-Aikau_NP0-NN1
+Aikau_NP0
 would_VM0
 n't_XX0
 take_VVI
@@ -2115,7 +2115,7 @@ the_AT0
 ghost_NN1
 of_PRF
 Eddie_NP0
-Aikau_NP0-NN1
+Aikau_NP0
 could_VM0
 be_VBI
 expected_VVN
@@ -2142,14 +2142,14 @@ called_VVN
 forth_AV0
 by_PRP
 an_AT0
-act_VVI
+act_NN1
 of_PRF
 human_AJ0
 will_VM0
 It_PNP
 was_VBD
 not_XX0
-scheduled_VVN-AJ0
+scheduled_VVN
 or_CJC
 given_VVN
 an_AT0
@@ -2337,7 +2337,7 @@ waiting_VVG
 period_NN1
 said_VVD
 Clyde_NP0
-Aikau_NP0-NN1
+Aikau_NP0
 Eddie_NP0
 's_POS
 brother_NN1
@@ -2401,7 +2401,7 @@ The_AT0
 story_NN1
 of_PRF
 Eddie_NP0
-Aikau_NP0-NN1
+Aikau_NP0
 began_VVD
 a_AT0
 long_AJ0
@@ -2478,7 +2478,7 @@ told_VVD
 of_PRF
 a_AT0
 Tahitian_AJ0
-chief_AJ0-NN1
+chief_NN1
 Moikeha_NP0
 who_PNQ
 sailed_VVD
@@ -2503,13 +2503,13 @@ of_PRF
 the_AT0
 island_NN1
 of_PRF
-Kauai_NP0-NN1
+Kauai_NN1
 When_CJS
 his_DPS
 sons_NN2
 returned_VVD
 to_TO0
-Tahiti_NP0-NN1
+Tahiti_NP0
 and_CJC
 were_VBD
 asked_VVD
@@ -2526,13 +2526,13 @@ dwelling_NN1
 in_PRP
 ease_NN1
 in_PRP
-Kauai_NP0-NN1
+Kauai_NN1
 Where_AVQ
 the_AT0
 surf_NN1
 of_PRF
 the_AT0
-Makaiwa_NP0-NN1
+Makaiwa_NP0
 curves_NN2
 and_CJC
 bends_VVZ
@@ -2548,7 +2548,7 @@ the_AT0
 waters_NN2
 of_PRF
 Wailua_NP0
-stretch_VVI
+stretch_NN1
 out_AVP
 He_PNP
 will_VM0
@@ -2556,7 +2556,7 @@ live_VVI
 and_CJC
 die_VVI
 on_PRP
-Kauai_NP0-NN1
+Kauai_NN1
 On_PRP
 16_CRD
 March_NP0
@@ -2564,7 +2564,7 @@ March_NP0
 another_DT0
 canoe_NN1
 the_AT0
-Hokule'a_NP0-NN1
+Hokule'a_NP0
 sixty_CRD
 feet_NN2
 long_AJ0
@@ -2577,7 +2577,7 @@ Honolulu_NP0
 steering_NN1
 south_NN1
 towards_PRP
-Tahiti_NP0-NN1
+Tahiti_NP0
 seeking_VVG
 to_TO0
 mirror_NN1
@@ -2592,7 +2592,7 @@ of_PRF
 astral_AJ0
 navigation_NN1
 and_CJC
-water-knowledge_NN1-AJ0
+water-knowledge_AJ0
 There_EX0
 was_VBD
 no_AT0
@@ -2605,7 +2605,7 @@ deep_AJ0
 hulls_NN2
 of_PRF
 the_AT0
-Hokule'a_NP0-NN1
+Hokule'a_NP0
 were_VBD
 loaded_VVN
 with_PRP
@@ -2636,7 +2636,7 @@ a_AT0
 month_NN1
 All_DT0
 the_AT0
-sixteen-man_AJ0-NN1
+sixteen-man_NN1
 crew_NN1
 were_VBD
 as_CJS
@@ -2650,7 +2650,7 @@ the_AT0
 sixteen_CRD
 was_VBD
 Eddie_NP0
-Aikau_NP0-NN1
+Aikau_NP0
 He_PNP
 was_VBD
 a_AT0
@@ -2760,7 +2760,7 @@ poised_VVN
 arms_NN2
 outstretched_AJ0
 slightly_AV0
-crouched_AJ0
+crouched_VVD
 his_DPS
 arrow-like_AJ0
 board_NN1
@@ -2808,7 +2808,7 @@ the_AT0
 most_AV0
 savage_AJ0
 seas_NN2
-smiling_VVG-AJ0
+smiling_VVG
 from_PRP
 ear_NN1
 to_TO0
@@ -2936,7 +2936,7 @@ the_AT0
 crew_NN1
 of_PRF
 the_AT0
-Hokule'a_NP0-NN1
+Hokule'a_NP0
 his_DPS
 second_ORD
 family_NN1
@@ -2980,7 +2980,7 @@ set_VVN
 fair_AJ0
 when_CJS
 the_AT0
-Hokule'a_NP0-NN1
+Hokule'a_NP0
 paddled_VVD
 away_AV0
 on_PRP
@@ -2995,10 +2995,10 @@ moved_VVD
 swiftly_AV0
 south_NN1
 from_PRP
-Oahu_NP0-NN1
+Oahu_NN1
 west_NN1
 of_PRF
-Molokai_NP0-NN1
+Molokai_NN1
 towards_PRP
 the_AT0
 Big_AJ0
@@ -3020,7 +3020,7 @@ hard_AJ0
 canoeing_NN1
 when_CJS
 the_AT0
-Hokule'a_NP0-NN1
+Hokule'a_NP0
 was_VBD
 due_AJ0
 west_NN1
@@ -3028,7 +3028,7 @@ of_PRF
 the_AT0
 island_NN1
 of_PRF
-Lanai_NP0-NN1
+Lanai_NP0
 in_PRP
 the_AT0
 channel_NN1
@@ -3039,7 +3039,7 @@ or_CJC
 The_AT0
 Path_NN1
 to_TO0
-Tahiti_NP0-NN1
+Tahiti_NP0
 a_AT0
 vicious_AJ0
 swell_NN1
@@ -3114,7 +3114,7 @@ absorb_VVI
 the_AT0
 blow_NN1
 the_AT0
-Hokule'a_NP0-NN1
+Hokule'a_NP0
 rose_VVD
 up_AVP
 the_AT0
@@ -3171,7 +3171,7 @@ cold_AJ0
 and_CJC
 tired_AJ0
 and_CJC
-dispirited_AJ0-VVD
+dispirited_VVD
 The_AT0
 sun_NN1
 had_VHD
@@ -3180,7 +3180,7 @@ yet_AV0
 risen_VVN
 when_CJS
 Eddie_NP0
-Aikau_NP0-NN1
+Aikau_NP0
 said_VVD
 he_PNP
 was_VBD
@@ -3196,7 +3196,7 @@ Lyman_NP0
 captain_NN1
 of_PRF
 the_AT0
-Hokule'a_NP0-NN1
+Hokule'a_NP0
 It_PNP
 must_VM0
 be_VBI
@@ -3264,7 +3264,7 @@ for_PRP
 miles_NN2
 at_PRP
 a_AT0
-stretch_VVI
+stretch_NN1
 Eddie_NP0
 dived_VVD
 under_PRP
@@ -3296,7 +3296,7 @@ calmly_AV0
 off_AVP
 from_PRP
 the_AT0
-Hokule'a_NP0-NN1
+Hokule'a_NP0
 and_CJC
 paddled_VVD
 away_AV0
@@ -3329,7 +3329,7 @@ been_VBN
 no_AT0
 word_NN1
 from_PRP
-Lanai_NP0-NN1
+Lanai_NP0
 The_AT0
 helicopter_NN1
 trawled_VVD
@@ -3360,7 +3360,7 @@ a_AT0
 fortnight_NN1
 But_CJC
 Eddie_NP0
-Aikau_NP0-NN1
+Aikau_NP0
 was_VBD
 never_AV0
 recovered_VVN
@@ -3481,7 +3481,7 @@ the_AT0
 side_NN1
 announced_VVD
 No_ITJ
-LIFEGUARD_NP0-NN1
+LIFEGUARD_NP0
 ON_PRP
 DUTY_NN1
 There_EX0
@@ -3508,7 +3508,7 @@ knew_VVD
 what_DTQ
 it_PNP
 meant_VVD
-HALEIWA_NP0-NN1
+HALEIWA_NP0
 IS_VBZ
 the_AT0
 only_AV0
@@ -3600,7 +3600,7 @@ they_PNP
 would_VM0
 n't_XX0
 exist_VVI
-Haleiwa_NP0-NN1
+Haleiwa_NP0
 means_NN0
 the_AT0
 house_NN1
@@ -3623,8 +3623,8 @@ the_AT0
 1830s_CRD
 and_CJC
 the_AT0
-Liliuokalani_AJ0-NN1
-Protestant_AJ0-NN1
+Liliuokalani_NN1
+Protestant_AJ0
 Church_NN1
 named_VVN
 after_PRP
@@ -3676,7 +3676,7 @@ line_NN1
 led_VVD
 to_TO0
 the_AT0
-Haleiwa_NP0-NN1
+Haleiwa_NP0
 Hotel_NN1
 Now_AV0
 the_AT0
@@ -3722,7 +3722,7 @@ on_PRP
 the_AT0
 sea_NN1
 The_AT0
-Haleiwa_NP0-NN1
+Haleiwa_NP0
 Theatre_NN1
 was_VBD
 a_AT0
@@ -3819,7 +3819,7 @@ too_AV0
 obtrusive_AJ0
 The_AT0
 simple_AJ0
-plantation-style_AJ0-NN1
+plantation-style_AJ0
 wooden_AJ0
 buildings_NN2
 with_PRP
@@ -3926,7 +3926,7 @@ my_DPS
 born-again_AJ0
 Christian_AJ0
 friends_NN2
-disapproved_VVD-VVN
+disapproved_VVN
 of_PRF
 the_AT0
 mystic_NN1
@@ -3974,7 +3974,7 @@ barn_NN1
 owned_VVN
 by_PRP
 the_AT0
-Haleiwa_NP0-NN1
+Haleiwa_NP0
 Community_NN1
 Association_NN1
 As_CJS
@@ -4046,7 +4046,7 @@ calm_AJ0
 the_AT0
 storm_NN1
 or_CJC
-walk_VVI
+walk_NN1
 on_PRP
 the_AT0
 water_NN1
@@ -4159,7 +4159,7 @@ world_NN1
 did_VDD
 not_XX0
 like_PRP
-Yahweh_NP0-NN1
+Yahweh_NP0
 make_VVI
 light_NN1
 he_PNP
@@ -4218,7 +4218,7 @@ society_NN1
 only_AV0
 began_VVD
 to_TO0
-fall_VVI
+fall_NN1
 apart_AV0
 when_CJS
 the_AT0
@@ -4255,7 +4255,7 @@ two_CRD
 guitars_NN2
 drums_NN2
 and_CJC
-bass_AJ0-NN1
+bass_AJ0
 We_PNP
 sang_VVD
 along_AVP
@@ -4323,7 +4323,7 @@ surfers_NN2
 among_PRP
 the_AT0
 flock_NN1
-limping_VVG-AJ0
+limping_VVG
 scarred_VVN
 sunburnt_AJ0
 dressed_VVN
@@ -4335,7 +4335,7 @@ of_PRF
 Rip_NP0
 Curl_NN1
 tee-shirts_NN2
-Billabong_NN1-NP0
+Billabong_NN1
 shorts_NN2
 and_CJC
 Oakley_NP0
@@ -4410,7 +4410,7 @@ for_PRP
 his_DPS
 beneficence_NN1
 citing_VVG
-Deuteronomy_NP0-NN1
+Deuteronomy_NP0
 1_CRD
 The_AT0
 Lord_NP0
@@ -4505,11 +4505,11 @@ shoes_NN2
 for_PRP
 the_AT0
 annual_AJ0
-ASP_NN1-NP0
+ASP_NN1
 banquet_NN1
 in_PRP
 Honolulu_NP0
-Bodo_NP0-NN1
+Bodo_NP0
 van_NN1
 der_NP0
 Leeden_NP0
@@ -4589,7 +4589,7 @@ were_VBD
 fabric_NN1
 instead_AV0
 of_PRF
-rubber_AJ0-NN1
+rubber_AJ0
 so_AV0
 they_PNP
 kept_VVD
@@ -4653,7 +4653,7 @@ back_AVP
 There_EX0
 goes_VVZ
 the_AT0
-jerk_VVI
+jerk_NN1
 with_PRP
 the_AT0
 shoes_NN2
@@ -4684,7 +4684,7 @@ earth_NN1
 With_PRP
 all_DT0
 that_CJT
-rubber_AJ0-NN1
+rubber_AJ0
 between_PRP
 you_PNP
 and_CJC
@@ -4784,7 +4784,7 @@ no_AT0
 shoes_NN2
 on_PRP
 as_CJS
-crackpots_NN2-VVZ
+crackpots_NN2
 and_CJC
 show-offs_NN2
 on_PRP
@@ -4824,7 +4824,7 @@ off_AVP
 and_CJC
 rode_VVD
 into_PRP
-Haleiwa_NP0-NN1
+Haleiwa_NP0
 with_PRP
 Michael_NP0
 As_CJS
@@ -4841,7 +4841,7 @@ and_CJC
 talked_VVD
 I_PNP
 could_VM0
-feel_VVI
+feel_VVB
 the_AT0
 long_AJ0
 grass_NN1
@@ -4857,7 +4857,7 @@ I_PNP
 never_AV0
 experienced_VVN
 before_PRP
-Walking_VVG-NN1
+Walking_VVG
 or_CJC
 just_AV0
 standing_VVG
@@ -4949,7 +4949,7 @@ talk_VVI
 about_PRP
 the_AT0
 Willis_NP0
-Phazer_NP0-NN1
+Phazer_NN1
 board_NN1
 You_PNP
 and_CJC
@@ -4985,7 +4985,7 @@ grounded_VVN
 said_VVD
 Michael_NP0
 A_AT0
-Phazer_NP0-NN1
+Phazer_NN1
 is_VBZ
 not_XX0
 a_AT0
@@ -5035,7 +5035,7 @@ the_AT0
 magic_NN1
 out_AVP
 of_PRF
-shaping_VVG-AJ0
+shaping_VVG
 and_CJC
 apply_VVI
 number_NN1
@@ -5064,7 +5064,7 @@ Michael_NP0
 pointed_VVD
 out_AVP
 the_AT0
-Phazer_NP0-NN1
+Phazer_NN1
 logo_NN1
 on_PRP
 one_CRD
@@ -5099,7 +5099,7 @@ with_PRP
 mosquito_NN1
 bites_NN2
 Great_AJ0
-itchy_AJ0-NN1
+itchy_AJ0
 red_AJ0
 lumps_NN2
 were_VBD
@@ -5125,7 +5125,7 @@ n't_XX0
 be_VBI
 able_AJ0
 to_TO0
-walk_VVI
+walk_NN1
 for_PRP
 a_AT0
 week_NN1
@@ -5364,7 +5364,7 @@ the_AT0
 meat_NN1
 So_AV0
 I_PNP
-closed_VVD
+closed_VVN
 all_DT0
 those_DT0
 books_NN2
@@ -5394,7 +5394,7 @@ to_TO0
 quote_VVI
 the_AT0
 ocean_NN1
-Living_VVG-NN1
+Living_VVG
 at_PRP
 Betty_NP0
 's_POS
@@ -5402,7 +5402,7 @@ house_NN1
 I_PNP
 had_VHD
 been_VBN
-listening_VVG-NN1
+listening_VVG
 to_TO0
 it_PNP
 speak_VVI
@@ -5481,7 +5481,7 @@ ride_VVI
 or_CJC
 like_PRP
 a_AT0
-war-cry_NN1-AJ0
+war-cry_AJ0
 to_TO0
 arouse_VVI
 aggression_NN1
@@ -5552,7 +5552,7 @@ It_PNP
 was_VBD
 an_AT0
 imaginary_AJ0
-Swahili_AJ0-NN1
+Swahili_AJ0
 Holy_AJ0
 Cow_NN1
 invented_VVN
@@ -5592,7 +5592,7 @@ our_DPS
 ancestors_NN2
 as_CJS
 the_AT0
-cry_VVI
+cry_NN1
 of_PRF
 nature_NN1
 Humanoid_AJ0
@@ -5619,7 +5619,7 @@ that_CJT
 casting_VVG
 off_AVP
 its_DPS
-Indo-European_AJ0-NN1
+Indo-European_AJ0
 moorings_NN2
 the_AT0
 language_NN1
@@ -5631,7 +5631,7 @@ with_PRP
 the_AT0
 rise_NN1
 and_CJC
-fall_VVI
+fall_NN1
 the_AT0
 ebb_NN1
 and_CJC
@@ -5650,7 +5650,7 @@ and_CJC
 music_NN1
 of_PRF
 the_AT0
-all-encompassing_AJ0-NN1
+all-encompassing_AJ0
 Pacific_NP0
 Students_NN2
 of_PRF
@@ -5707,7 +5707,7 @@ had_VHD
 chosen_VVN
 Hawaiians_NN2
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 their_DPS
 mouthpiece_NN1
@@ -5757,7 +5757,7 @@ too_AV0
 the_AT0
 Hawaiian_AJ0
 language_NN1
-abounded_VVN-VVD
+abounded_VVD
 in_PRP
 wave_NN1
 nomenclature_NN1
@@ -5780,7 +5780,7 @@ narratives_NN2
 Instead_AV0
 of_PRF
 terrible_AJ0
-death-dealing_NN1-AJ0
+death-dealing_NN1
 curling_VVG
 wave_NN1
 you_PNP
@@ -5818,7 +5818,7 @@ the_AT0
 other_AJ0
 a_AT0
 calm_AJ0
-unbreaking_VVG-AJ0
+unbreaking_VVG
 wave_NN1
 was_VBD
 known_VVN
@@ -5846,11 +5846,11 @@ split_VVN
 into_PRP
 two_CRD
 words_NN2
-he'e_NN1-VVB
+he'e_NN1
 and_CJC
 nalu_NN1
 He'e_NP0
-he'e_NN1-VVB
+he'e_NN1
 n_XX0
 1_CRD
 A_AT0
@@ -5879,7 +5879,7 @@ his_DPS
 slippery_AJ0
 qualities_NN2
 He'e_NP0
-he'e_NN1-VVB
+he'e_NN1
 v_PRP
 1_CRD
 To_TO0
@@ -5909,9 +5909,9 @@ to_TO0
 flee_VVI
 through_PRP
 fear_NN1
-Nalu_NP0-NN1
+Nalu_NN1
 na'lu_NN1
-adj_VVB-NN1
+adj_VVB
 Roaring_VVG
 surfing_VVG
 rolling_VVG
@@ -5922,8 +5922,8 @@ surf_NN1
 of_PRF
 the_AT0
 sea_NN1
-Nalu_NP0-NN1
-na'-lu_NN1-AJ0
+Nalu_NN1
+na'-lu_NN1
 n_XX0
 1_CRD
 The_AT0
@@ -5951,7 +5951,7 @@ a_AT0
 new_AJ0
 born_VVN
 infant_NN1
-Nalu_NP0-NN1
+Nalu_NN1
 na'lu_NN1
 v_PRP
 1_CRD
@@ -6016,7 +6016,7 @@ world_NN1
 So_AV0
 said_VVD
 the_AT0
-Belgian_AJ0-NN1
+Belgian_AJ0
 poet_NN1
 Henri_NP0
 Michaux_NP0
@@ -6053,7 +6053,7 @@ Surfing_NP0
 was_VBD
 not_XX0
 just_AV0
-wave-sliding_AJ0-NN1
+wave-sliding_AJ0
 as_CJS
 he'enalu_NN1
 was_VBD
@@ -6092,7 +6092,7 @@ the_AT0
 week_NN1
 when_CJS
 the_AT0
-Marui_AJ0-NN1
+Marui_AJ0
 Pipeline_NN1
 Masters_NN2
 should_VM0
@@ -6133,7 +6133,7 @@ poking_VVG
 out_AVP
 of_PRF
 jeeps_NN2
-strapped_VVN-VVD
+strapped_VVN
 to_TO0
 cars_NN2
 balanced_AJ0
@@ -6553,7 +6553,7 @@ I_PNP
 coached_VVN
 Four_CRD
 Kim_NP0
-Mearig_NP0-NN1
+Mearig_NP0
 Tom_NP0
 Carroll_NP0
 twice_AV0
@@ -6641,7 +6641,7 @@ COLBERT_NP0
 Yeah_ITJ
 it_PNP
 was_VBD
-choreographed_VVN-VVD
+choreographed_VVN
 We_PNP
 planned_VVN
 to_TO0
@@ -6679,7 +6679,7 @@ ninth_ORD
 year_NN1
 on_PRP
 the_AT0
-Tour_NN1-VVB
+Tour_NN1
 It_PNP
 was_VBD
 n't_XX0
@@ -6725,7 +6725,7 @@ was_VBD
 planned_VVN
 like_PRP
 a_AT0
-war-strategy_NN1-AJ0
+war-strategy_NN1
 AM_AV0
 How_AVQ
 did_VDD
@@ -6825,8 +6825,8 @@ it_PNP
 's_POS
 how_AVQ
 you_PNP
-feel_VVI
-Hardman_NP0-NN1
+feel_VVB
+Hardman_NP0
 and_CJC
 Lynch_NP0
 are_VBB
@@ -6856,7 +6856,7 @@ Tom_NP0
 Carroll_NP0
 and_CJC
 Damien_NP0
-Hardman_NP0-NN1
+Hardman_NP0
 and_CJC
 Californian_AJ0
 Tom_NP0
@@ -6869,13 +6869,13 @@ as_CJS
 world_NN1
 champions_NN2
 But_CJC
-Hardman_NP0-NN1
+Hardman_NP0
 was_VBD
 dismissed_VVN
 as_CJS
 a_AT0
 small-wave_AJ0
-specialist_NN1-AJ0
+specialist_NN1
 and_CJC
 Lynch_NP0
 was_VBD
@@ -6941,7 +6941,7 @@ Shore_NP0
 COLBERT_NP0
 Carroll_NP0
 was_VBD
-storming_NN1
+storming_VVG
 last_ORD
 year_NN1
 And_CJC
@@ -7081,7 +7081,7 @@ only_AV0
 person_NN1
 who_PNQ
 can_VM0
-fuck_VVB-NN1
+fuck_VVB
 this_DT0
 up_AVP
 is_VBZ
@@ -7299,7 +7299,7 @@ Pottz_NP0
 shot_NN1
 by_PRP
 Jeff_NP0
-Hornbaker_NP0-NN1
+Hornbaker_NP0
 for_PRP
 Gotcha_UNC
 his_DPS
@@ -7322,7 +7322,7 @@ more_AV0
 marketable_AJ0
 than_CJS
 Damien_NP0
-Hardman_NP0-NN1
+Hardman_NP0
 CALLAHAN_NP0
 Or_CJC
 Barton_NP0
@@ -7407,7 +7407,7 @@ in_PRP
 Australian_AJ0
 Penthouse_NN1
 and_CJC
-Playboy_NP0-NN1
+Playboy_NN1
 and_CJC
 been_VBN
 named_VVN
@@ -7462,14 +7462,14 @@ a_AT0
 ballerina_NN1
 With_PRP
 his_DPS
-deep-set_AJ0-NN1
+deep-set_NN1
 eyes_NN2
 Desperate_AJ0
 Dan_NP0
 chin_NN1
 and_CJC
 uncombed_AJ0
-quasi-Rasta_NN1-NP0
+quasi-Rasta_NP0
 locks_NN2
 he_PNP
 is_VBZ
@@ -7508,7 +7508,7 @@ on_PRP
 the_AT0
 cover_NN1
 of_PRF
-Surfer_NP0-NN1
+Surfer_NN1
 Recent_AJ0
 champions_NN2
 have_VHB
@@ -7632,10 +7632,10 @@ left-hander_NN1
 which_DTQ
 with_PRP
 its_DPS
-right-handed_AJ0-AV0
+right-handed_AJ0
 twin_NN1
 brother_NN1
-Backdoor_NN1-NP0
+Backdoor_NN1
 Pipeline_NN1
 turns_VVZ
 into_PRP
@@ -7659,7 +7659,7 @@ put_VVI
 more_AV0
 surfers_NN2
 in_PRP
-Kahuku_NP0-NN1
+Kahuku_NN1
 Hospital_NN1
 than_CJS
 any_DT0
@@ -7670,7 +7670,7 @@ Pottz_NP0
 said_VVD
 Anyone_PNI
 who_PNQ
-paddles_VVZ-NN2
+paddles_VVZ
 out_AVP
 at_PRP
 big_AJ0
@@ -7695,7 +7695,7 @@ aficionados_NN2
 reminiscing_VVG
 about_PRP
 the_AT0
-ten-point_AJ0-NN1
+ten-point_NN1
 tube_NN1
 Pottz_NP0
 had_VHD
@@ -7835,8 +7835,8 @@ and_CJC
 plummeted_VVD
 down_AVP
 the_AT0
-perpendicular_AJ0-NN1
-drop_VVI
+perpendicular_AJ0
+drop_NN1
 the_AT0
 lip_NN1
 curled_VVD
@@ -7855,7 +7855,7 @@ seemed_VVD
 big_AJ0
 enough_AV0
 to_TO0
-drive_VVI
+drive_NN1
 a_AT0
 train_NN1
 through_PRP
@@ -7877,10 +7877,10 @@ and_CJC
 the_AT0
 roof_NN1
 was_VBD
-caving_NN1
+caving_VVG
 in_PRP
 He_PNP
-crouched_AJ0
+crouched_VVD
 down_AVP
 and_CJC
 clung_VVD
@@ -7919,7 +7919,7 @@ had_VHD
 sucked_VVN
 in_PRP
 now_AV0
-compressed_AJ0
+compressed_VVN
 was_VBD
 ejected_VVN
 in_PRP
@@ -7945,7 +7945,7 @@ and_CJC
 the_AT0
 wave_NN1
 snapped_VVD
-shut_VVB
+shut_VVN
 behind_PRP
 him_PNP
 It_PNP
@@ -8063,7 +8063,7 @@ sacrifice_NN1
 to_TO0
 placate_VVI
 the_AT0
-bloodthirsty_NN1-AJ0
+bloodthirsty_AJ0
 gods_NN2
 of_PRF
 the_AT0
@@ -8087,14 +8087,14 @@ in_PRP
 the_AT0
 winter_NN1
 of_PRF
-'86\xe2\x80\x907_NN1-AJ0
+'86\xe2\x80\x907_AJ0
 when_CJS
 the_AT0
 early_AJ0
 rounds_NN2
 of_PRF
 the_AT0
-Billabong_NN1-NP0
+Billabong_NN1
 Pro_NN1
 were_VBD
 held_VVN
@@ -8109,7 +8109,7 @@ that_CJT
 some_DT0
 of_PRF
 the_AT0
-ASP_NN1-NP0
+ASP_NN1
 surfers_NN2
 refused_VVD
 to_TO0
@@ -8117,7 +8117,7 @@ go_VVI
 out_AVP
 Pottz_NP0
 was_VBD
-pressured_VVD
+pressured_VVN
 into_PRP
 taking_VVG
 off_AVP
@@ -8175,7 +8175,7 @@ wave_NN1
 came_VVD
 across_PRP
 A_AT0
-one-wave_AJ0-NN1
+one-wave_AJ0
 wipeout_NN1
 I_PNP
 can_VM0
@@ -8194,7 +8194,7 @@ marginal_AJ0
 As_CJS
 a_AT0
 wipeout_NN1
-specialist_NN1-AJ0
+specialist_NN1
 myself_PNX
 I_PNP
 could_VM0
@@ -8208,7 +8208,7 @@ the_AT0
 turbulence_NN1
 I_PNP
 could_VM0
-feel_VVI
+feel_VVB
 his_DPS
 bursting_VVG
 lungs_NN2
@@ -8325,7 +8325,7 @@ less_AV0
 sure_AJ0
 about_PRP
 the_AT0
-Triple_AJ0-NN1
+Triple_AJ0
 Crown_NN1
 That_DT0
 would_VM0
@@ -8339,7 +8339,7 @@ the_AT0
 Pipeline_NN1
 and_CJC
 the_AT0
-Billabong_NN1-NP0
+Billabong_NN1
 are_VBB
 probably_AV0
 the_AT0
@@ -8417,7 +8417,7 @@ what_DTQ
 he_PNP
 's_POS
 got_VVN
-Brashness_NN1-NP0
+Brashness_NP0
 Either_AV0
 that_CJT
 or_CJC
@@ -8454,7 +8454,7 @@ swell_NN1
 or_CJC
 not_XX0
 Ted_NP0
-Deerhurst_NP0-NN1
+Deerhurst_NN1
 was_VBD
 still_AV0
 worrying_AJ0
@@ -8486,7 +8486,7 @@ Crazy_AJ0
 Joe_NP0
 's_POS
 Plantation_NN1
-Village_NN1-NP0
+Village_NN1
 on_PRP
 the_AT0
 north_NN1
@@ -8510,7 +8510,7 @@ was_VBD
 no_AT0
 bigger_AJC
 than_CJS
-Fat_AJ0-NN1
+Fat_AJ0
 Eric_NP0
 's_POS
 but_CJC
@@ -8533,7 +8533,7 @@ Ted_NP0
 was_VBD
 beginning_NN1
 to_TO0
-feel_VVI
+feel_VVB
 everyone_PNI
 was_VBD
 against_PRP
@@ -8543,7 +8543,7 @@ was_VBD
 in_PRP
 the_AT0
 British_AJ0
-amateur_AJ0-NN1
+amateur_AJ0
 team_NN1
 for_PRP
 three_CRD
@@ -8589,7 +8589,7 @@ Newquay_NP0
 the_AT0
 only_AV0
 World_NN1
-Tour_NN1-VVB
+Tour_NN1
 contest_NN1
 to_TO0
 be_VBI
@@ -8668,7 +8668,7 @@ condensed_AJ0
 version_NN1
 not_XX0
 the_AT0
-six-volume_AJ0-NN1
+six-volume_AJ0
 job_NN1
 You_PNP
 got_VVN
@@ -9008,7 +9008,7 @@ break_VVI
 next_ORD
 door_NN1
 to_TO0
-Backdoor_NN1-NP0
+Backdoor_NN1
 In_PRP
 fact_NN1
 the_AT0
@@ -9108,7 +9108,7 @@ end_NN1
 of_PRF
 a_AT0
 disappointing_AJ0
-Tour_NN1-VVB
+Tour_NN1
 he_PNP
 was_VBD
 somewhere_AV0
@@ -9142,7 +9142,7 @@ to_TO0
 pass_VVI
 on_PRP
 the_AT0
-Billabong_NN1-NP0
+Billabong_NN1
 The_AT0
 high_AJ0
 point_NN1
@@ -9356,7 +9356,7 @@ spot_NN1
 You_PNP
 use_NN1
 the_AT0
-compressed_AJ0
+compressed_VVN
 air_NN1
 to_TO0
 pull_VVI
@@ -9395,7 +9395,7 @@ thing_NN1
 like_PRP
 a_AT0
 building_NN1
-crashing_VVG-AJ0
+crashing_VVG
 down_AVP
 right_NN1
 next_ORD
@@ -9439,7 +9439,7 @@ know_VVI
 that_CJT
 I_PNP
 was_VBD
-relaxing_VVG-AJ0
+relaxing_VVG
 for_PRP
 a_AT0
 long_AJ0
@@ -9458,7 +9458,7 @@ was_VBD
 panicking_VVG
 I_PNP
 was_VBD
-struggling_VVG-AJ0
+struggling_VVG
 and_CJC
 I_PNP
 was_VBD
@@ -9501,7 +9501,7 @@ You_PNP
 've_VHB
 got_VVN
 to_TO0
-paddle_VVI
+paddle_VVB
 out_AVP
 again_AV0
 after_PRP
@@ -9551,7 +9551,7 @@ them_PNP
 So_AV0
 steep_AJ0
 so_AV0
-fast_AV0-AJ0
+fast_AJ0
 When_CJS
 you_PNP
 take_VVI
@@ -9581,7 +9581,7 @@ going_VVG
 into_PRP
 a_AT0
 ninety-mile-an-hour_AJ0
-spin_VVI
+spin_NN1
 on_PRP
 a_AT0
 cliff_NN1
@@ -9592,7 +9592,7 @@ Ferrari_NP0
 and_CJC
 still_AV0
 not_XX0
-dying_VVG-AJ0
+dying_AJ0
 Carwyn_NP0
 desperately_AV0
 wanted_VVD
@@ -9796,7 +9796,7 @@ run_VVI
 down_AVP
 the_AT0
 beach_NN1
-paddle_VVI
+paddle_VVB
 out_AVP
 and_CJC
 have_VHB
@@ -9823,7 +9823,7 @@ that_CJT
 death_NN1
 If_CJS
 you_PNP
-fall_VVI
+fall_NN1
 off_AVP
 you_PNP
 drown_VVI
@@ -9834,11 +9834,11 @@ occasion_NN1
 when_CJS
 he_PNP
 was_VBD
-fast_AV0-AJ0
+fast_AJ0
 asleep_AJ0
 in_PRP
 his_DPS
-ground-floor_AJ0-NN1
+ground-floor_AJ0
 bedroom_NN1
 dreaming_VVG
 about_PRP
@@ -9853,7 +9853,7 @@ He_PNP
 woke_VVD
 up_AVP
 and_CJC
-lo_ITJ
+lo_UNC
 and_CJC
 behold_VVB
 a_AT0
@@ -9871,7 +9871,7 @@ in_PRP
 through_PRP
 the_AT0
 window_NN1
-Dumped_VVN-VVD
+Dumped_VVN
 a_AT0
 ton_NN1
 of_PRF
@@ -9940,7 +9940,7 @@ agreed_VVD
 to_TO0
 meet_VVI
 at_PRP
-Jocko_NP0-NN1
+Jocko_NP0
 's_POS
 at_PRP
 8.30_CRD
@@ -9974,7 +9974,7 @@ my_DPS
 brand_NN1
 new_AJ0
 Willis_NP0
-Phazer_NP0-NN1
+Phazer_NN1
 under_PRP
 my_DPS
 arm_NN1
@@ -9990,7 +9990,7 @@ blue_AJ0
 and_CJC
 yellow_AJ0
 and_CJC
-stamped_AJ0
+stamped_VVD
 with_PRP
 the_AT0
 sign_NN1
@@ -10081,7 +10081,7 @@ heels_NN2
 The_AT0
 waves_NN2
 were_VBD
-whipped_VVN
+whipped_VVD
 up_AVP
 like_PRP
 ice-cream_NN1
@@ -10108,7 +10108,7 @@ We_PNP
 would_VM0
 have_VHB
 first_ORD
-bite_VVI
+bite_NN1
 at_PRP
 the_AT0
 cake_NN1
@@ -10117,7 +10117,7 @@ would_VM0
 be_VBI
 the_AT0
 first_ORD
-footprints_NN2-VVZ
+footprints_NN2
 in_PRP
 the_AT0
 snow_NN1
@@ -10148,10 +10148,10 @@ what_DTQ
 had_VHD
 happened_VVD
 at_PRP
-Jocko_NP0-NN1
+Jocko_NP0
 's_POS
 and_CJC
-Haleiwa_NP0-NN1
+Haleiwa_NP0
 and_CJC
 Freddie_NP0
 's_POS
@@ -10193,7 +10193,7 @@ showed_VVD
 I_PNP
 span_NN1
 my_DPS
-Phazer_NP0-NN1
+Phazer_NN1
 round_AVP
 the_AT0
 wave_NN1
@@ -10531,7 +10531,7 @@ infinity_NN1
 and_CJC
 pulling_VVG
 for_PRP
-dear_ITJ
+dear_NN1
 life_NN1
 We_PNP
 were_VBD
@@ -10706,7 +10706,7 @@ the_AT0
 Absolute_AJ0
 the_AT0
 ens_NN2
-perfectissimum_NN1-AJ0
+perfectissimum_AJ0
 a_AT0
 metaphysical_AJ0
 colossus_NN1
@@ -10884,17 +10884,17 @@ was_VBD
 down_AVP
 I_PNP
 was_VBD
-drowning_NN1-VVG
+drowning_VVG
 and_CJC
 it_PNP
 did_VDD
 n't_XX0
-hurt_VVI
+hurt_VVN
 I_PNP
 felt_VVD
 a_AT0
 momentary_AJ0
-regret_VVI
+regret_NN1
 for_PRP
 all_DT0
 the_AT0
@@ -10970,7 +10970,7 @@ had_VHD
 n't_XX0
 showed_VVD
 at_PRP
-Jocko_NP0-NN1
+Jocko_NP0
 's_POS
 and_CJC
 I_PNP
@@ -10998,7 +10998,7 @@ home_NN1
 Maybe_AV0
 I_PNP
 'd_VM0
-drop_VVI
+drop_NN1
 by_PRP
 Michael_NP0
 's_POS
@@ -11007,7 +11007,7 @@ and_CJC
 see_VVI
 how_AVQ
 my_DPS
-Phazer_NP0-NN1
+Phazer_NN1
 was_VBD
 coming_VVG
 along_AVP
@@ -11045,7 +11045,7 @@ down_AVP
 their_DPS
 boards_NN2
 The_AT0
-Marui_AJ0-NN1
+Marui_AJ0
 Pipeline_NN1
 Masters_NN2
 was_VBD
@@ -11124,7 +11124,7 @@ grand_AJ0
 but_CJC
 remote_AJ0
 like_PRP
-listening_VVG-NN1
+listening_VVG
 to_TO0
 a_AT0
 radio_NN1
@@ -11195,7 +11195,7 @@ your_DPS
 teeth_NN2
 kicked_VVD
 in_PRP
-Backdoor_NN1-NP0
+Backdoor_NN1
 was_VBD
 breaking_VVG
 too_AV0
@@ -11216,7 +11216,7 @@ and_CJC
 turned_VVD
 up_AVP
 towards_PRP
-Ehukai_AJ0-NN1
+Ehukai_AJ0
 Beach_NN1
 Park_NN1
 the_AT0
@@ -11242,7 +11242,7 @@ of_PRF
 his_DPS
 yard-long_AJ0
 lens_NN1
-targeted_AJ0
+targeted_VVD
 on_PRP
 the_AT0
 snarling_AJ0
@@ -11477,7 +11477,7 @@ him_PNP
 So_AV0
 too_AV0
 the_AT0
-yawning_VVG-AJ0
+yawning_AJ0
 depths_NN2
 of_PRF
 the_AT0
@@ -11537,7 +11537,7 @@ It_PNP
 was_VBD
 a_AT0
 holy_AJ0
-virgin_NN1-AJ0
+virgin_AJ0
 untouchable_AJ0
 The_AT0
 first_ORD
@@ -11604,7 +11604,7 @@ on_PRP
 the_AT0
 beach_NN1
 at_PRP
-Banzai_AJ0
+Banzai_NN1
 and_CJC
 Pat_NP0
 said_VVD
@@ -11634,7 +11634,7 @@ began_VVD
 to_TO0
 circulate_VVI
 that_CJT
-Banzai_AJ0
+Banzai_NN1
 had_VHD
 been_VBN
 conquered_VVN
@@ -11685,7 +11685,7 @@ in_PRP
 and_CJC
 make_VVI
 the_AT0
-drop_VVI
+drop_NN1
 That_DT0
 was_VBD
 the_AT0
@@ -11693,7 +11693,7 @@ question_NN1
 It_PNP
 was_VBD
 so_AV0
-fast_AV0-AJ0
+fast_AJ0
 We_PNP
 knew_VVD
 if_CJS
@@ -11727,10 +11727,10 @@ added_VVN
 to_TO0
 the_AT0
 name_NN1
-Banzai_AJ0
+Banzai_NN1
 Edwards_NP0
 's_POS
-trailblazing_AJ0-NN1
+trailblazing_AJ0
 feat_NN1
 opened_VVD
 the_AT0
@@ -11742,7 +11742,7 @@ the_AT0
 time_NN1
 he_PNP
 'd_VM0
-strapped_VVN-VVD
+strapped_VVN
 his_DPS
 board_NN1
 on_PRP
@@ -11782,7 +11782,7 @@ itself_PNX
 not_XX0
 so_AV0
 much_DT0
-perpendicular_AJ0-NN1
+perpendicular_AJ0
 as_CJS
 concave_AJ0
 bent_VVD
@@ -11917,7 +11917,7 @@ bodysurfed_VVD
 big_AJ0
 Pipe_NN1
 was_VBD
-offhand_AV0-AJ0
+offhand_AJ0
 about_PRP
 the_AT0
 danger_NN1
@@ -11945,7 +11945,7 @@ action_NN1
 I_PNP
 began_VVD
 to_TO0
-regret_VVI
+regret_NN1
 I_PNP
 did_VDD
 n't_XX0
@@ -11978,7 +11978,7 @@ in_PRP
 capitals_NN2
 THE_AT0
 NORTH_NN1
-SHORE_NN1-NP0
+SHORE_NN1
 IS_VBZ
 TWELVE_CRD
 VIOLENT_AJ0
@@ -12056,7 +12056,7 @@ to_TO0
 wind_NN1
 up_AVP
 permanently_AV0
-parked_VVN
+parked_VVD
 on_PRP
 the_AT0
 Pipeline_NN1
@@ -12080,7 +12080,7 @@ heats_NN2
 would_VM0
 have_VHB
 to_TO0
-drop_VVI
+drop_NN1
 out_AVP
 before_PRP
 he_PNP
@@ -12121,7 +12121,7 @@ bluffing_VVG
 Just_AV0
 then_AV0
 the_AT0
-Tannoy_NN1-NP0
+Tannoy_NN1
 cleared_VVN
 its_DPS
 throat_NN1
@@ -12130,7 +12130,7 @@ made_VVN
 an_AT0
 announcement_NN1
 Ted_NP0
-Deerhurst_NP0-NN1
+Deerhurst_NN1
 pick_VVI
 up_AVP
 your_DPS
@@ -12164,7 +12164,7 @@ for_PRP
 a_AT0
 moment_NN1
 then_AV0
-clasped_VVN-VVD
+clasped_VVD
 his_DPS
 7_CRD
 ft_NN0
@@ -12252,7 +12252,7 @@ event_NN1
 recalled_VVD
 the_AT0
 1988_CRD
-Billabong_NN1-NP0
+Billabong_NN1
 which_DTQ
 for_PRP
 the_AT0
@@ -12266,7 +12266,7 @@ Pipeline_NN1
 Something_PNI
 of_PRF
 an_AT0
-intellectual_AJ0-NN1
+intellectual_AJ0
 among_PRP
 surfers_NN2
 Lynch_NP0
@@ -12287,7 +12287,7 @@ detachment_NN1
 For_PRP
 years_NN2
 the_AT0
-ASP_NN1-NP0
+ASP_NN1
 bureaucracy_NN1
 had_VHD
 annexed_VVN
@@ -12340,7 +12340,7 @@ culminate_VVI
 with_PRP
 the_AT0
 Hawaiian_AJ0
-Triple_AJ0-NN1
+Triple_AJ0
 Crown_NN1
 But_CJC
 that_CJT
@@ -12381,10 +12381,10 @@ which_DTQ
 contest_NN1
 the_AT0
 Eddie_NP0
-Aikau_NP0-NN1
+Aikau_NP0
 or_CJC
 the_AT0
-Triple_AJ0-NN1
+Triple_AJ0
 Crown_NN1
 would_VM0
 have_VHB
@@ -12476,7 +12476,7 @@ the_AT0
 waiting_VVG
 period_NN1
 was_VBD
-scheduled_VVN-AJ0
+scheduled_VVN
 to_TO0
 expire_VVI
 the_AT0
@@ -12494,11 +12494,11 @@ blue_AJ0
 sea_NN1
 and_CJC
 snapping_VVG
-shut_VVB
+shut_VVN
 like_PRP
 mousetraps_NN2
 The_AT0
-Billabong_NN1-NP0
+Billabong_NN1
 had_VHD
 been_VBN
 saved_VVN
@@ -12527,7 +12527,7 @@ between_PRP
 defending_VVG
 champion_NN1
 Damien_NP0
-Hardman_NP0-NN1
+Hardman_NP0
 Tom_NP0
 Carroll_NP0
 and_CJC
@@ -12561,7 +12561,7 @@ two_CRD
 heats_NN2
 to_TO0
 overhaul_NN1
-Hardman_NP0-NN1
+Hardman_NP0
 's_POS
 tally_NN1
 of_PRF
@@ -12659,7 +12659,7 @@ like_PRP
 he_PNP
 's_POS
 on_PRP
-Valium_NP0-NN1
+Valium_NN1
 cracked_VVD
 one_CRD
 photographer_NN1
@@ -12682,7 +12682,7 @@ out_AVP
 again_AV0
 Barton_NP0
 had_VHD
-clinched_VVN-VVD
+clinched_VVN
 the_AT0
 world_NN1
 title_NN1
@@ -12691,7 +12691,7 @@ subsequent_AJ0
 victory_NN1
 in_PRP
 the_AT0
-Billabong_NN1-NP0
+Billabong_NN1
 was_VBD
 almost_AV0
 a_AT0
@@ -12753,7 +12753,7 @@ the_AT0
 title_NN1
 and_CJC
 the_AT0
-Billabong_NN1-NP0
+Billabong_NN1
 at_PRP
 the_AT0
 last_ORD
@@ -12821,7 +12821,7 @@ he_PNP
 been_VBN
 practising_VVG
 his_DPS
-backhand_AJ0-AV0
+backhand_AV0
 all_DT0
 year_NN1
 mentally_AV0
@@ -12834,7 +12834,7 @@ Shore_NP0
 Lynch_NP0
 was_VBD
 a_AT0
-goofy_NN1-AJ0
+goofy_NN1
 so_AV0
 he_PNP
 surfed_VVD
@@ -12862,7 +12862,7 @@ take_VVI
 him_PNP
 through_PRP
 the_AT0
-Backdoor_NN1-NP0
+Backdoor_NN1
 he_PNP
 was_VBD
 always_AV0
@@ -12990,7 +12990,7 @@ was_VBD
 reversing_VVG
 up_AVP
 the_AT0
-stomach-churning_AJ0-NN1
+stomach-churning_NN1
 Pipeline_NN1
 elevator_NN1
 He_PNP
@@ -13019,7 +13019,7 @@ somersaulting_VVG
 as_CJS
 his_DPS
 board_NN1
-stalled_VVN
+stalled_VVD
 on_PRP
 the_AT0
 sandbank_NN1
@@ -13031,10 +13031,10 @@ opponents_NN2
 were_VBD
 finding_VVG
 the_AT0
-Backdoor_NN1-NP0
+Backdoor_NN1
 But_CJC
 Ted_NP0
-stuck_AJ0
+stuck_VVN
 with_PRP
 the_AT0
 left-handers_NN2
@@ -13067,7 +13067,7 @@ out_AVP
 as_CJS
 the_AT0
 roof_NN1
-caved_VVN-VVD
+caved_VVN
 in_PRP
 A_AT0
 mile_NN1
@@ -13097,7 +13097,7 @@ acquitted_VVN
 himself_PNX
 honourably_AV0
 In_PRP
-ASP_NN1-NP0
+ASP_NN1
 contests_NN2
 you_PNP
 are_VBB
@@ -13200,7 +13200,7 @@ to_TO0
 come_VVI
 over_PRP
 the_AT0
-Tannoy_NN1-NP0
+Tannoy_NN1
 When_CJS
 the_AT0
 names_NN2
@@ -13220,7 +13220,7 @@ heard_VVN
 the_AT0
 name_NN1
 of_PRF
-Deerhurst_NP0-NN1
+Deerhurst_NN1
 He_PNP
 was_VBD
 given_VVN
@@ -13264,7 +13264,7 @@ he_PNP
 took_VVD
 a_AT0
 steep_AJ0
-drop_VVI
+drop_NN1
 and_CJC
 his_DPS
 nose_NN1
@@ -13284,7 +13284,7 @@ later_AV0
 pulling_VVG
 into_PRP
 a_AT0
-Backdoor_NN1-NP0
+Backdoor_NN1
 tube_NN1
 and_CJC
 getting_VVG
@@ -13314,7 +13314,7 @@ Crazy_AJ0
 Joe_NP0
 's_POS
 Plantation_NN1
-Village_NN1-NP0
+Village_NN1
 he_PNP
 was_VBD
 in_PRP
@@ -13483,7 +13483,7 @@ It_PNP
 was_VBD
 How_AVQ
 to_TO0
-Increase_VVI
+Increase_VVB
 Your_DPS
 Self-Esteem_NN1
 TED_NP0
@@ -13529,7 +13529,7 @@ Martin_NP0
 Potter_NP0
 once_AV0
 at_PRP
-Lacanau_NP0-NN1
+Lacanau_NP0
 and_CJC
 again_AV0
 at_PRP
@@ -13626,7 +13626,7 @@ Pottz_NP0
 he_PNP
 did_VDD
 n't_XX0
-feel_VVI
+feel_VVB
 history_NN1
 was_VBD
 repeating_VVG
@@ -13739,7 +13739,7 @@ learned_VVN
 his_DPS
 lesson_NN1
 at_PRP
-Lacanau_NP0-NN1
+Lacanau_NP0
 God_NP0
 was_VBD
 the_AT0
@@ -13839,7 +13839,7 @@ in_PRP
 no_AT0
 hurry_NN1
 in_PRP
-Lacanau_NP0-NN1
+Lacanau_NP0
 He_PNP
 was_VBD
 waiting_VVG
@@ -13865,7 +13865,7 @@ good_AJ0
 witness_NN1
 on_PRP
 the_AT0
-Tour_NN1-VVB
+Tour_NN1
 You_PNP
 can_VM0
 save_VVI
@@ -13876,7 +13876,7 @@ he_PNP
 again_AV0
 failed_VVN
 to_TO0
-heed_VVI
+heed_NN1
 advice_NN1
 from_PRP
 above_PRP
@@ -13983,7 +13983,7 @@ important_AJ0
 contest_NN1
 on_PRP
 the_AT0
-Tour_NN1-VVB
+Tour_NN1
 Everyone_PNI
 knows_VVZ
 about_PRP
@@ -14040,7 +14040,7 @@ conundrum_NN1
 that_CJT
 affected_VVN
 Michael_NP0
-Chang_NP0-NN1
+Chang_NP0
 when_CJS
 he_PNP
 congratulated_VVD
@@ -14151,7 +14151,7 @@ floaters_NN2
 Sometimes_AV0
 he_PNP
 went_VVD
-semi-shaven-headed_AJ0-NN1
+semi-shaven-headed_AJ0
 and_CJC
 looked_VVD
 like_PRP
@@ -14171,7 +14171,7 @@ of_PRF
 the_AT0
 few_DT0
 top_NN1
-ASP_NN1-NP0
+ASP_NN1
 surfers_NN2
 who_PNQ
 shaped_VVN
@@ -14181,14 +14181,14 @@ boards_NN2
 His_DPS
 logo_NN1
 was_VBD
-Wave_NN1-VVB
+Wave_NN1
 Tools_NN2
 He_PNP
 favoured_VVN
 swallow-tails_NN2
 I_PNP
 tried_VVD
-bobs_NN2-VVZ
+bobs_NN2
 and_CJC
 square-tails_NN2
 I_PNP
@@ -14235,7 +14235,7 @@ the_AT0
 ranks_NN2
 was_VBD
 voted_VVN
-Rookie_NN1-NP0
+Rookie_NN1
 of_PRF
 the_AT0
 Year_NN1
@@ -14315,7 +14315,7 @@ the_AT0
 South_NN1
 Side_NN1
 of_PRF
-Oahu_NP0-NN1
+Oahu_NN1
 he_PNP
 went_VVD
 off_AVP
@@ -14338,7 +14338,7 @@ head_NN1
 I_PNP
 'd_VM0
 been_VBN
-wanting_VVG-AJ0
+wanting_VVG
 to_TO0
 break_VVI
 a_AT0
@@ -14489,7 +14489,7 @@ he_PNP
 was_VBD
 thirteen_CRD
 and_CJC
-competing_VVG-AJ0
+competing_AJ0
 since_CJS
 he_PNP
 was_VBD
@@ -14998,7 +14998,7 @@ there_EX0
 was_VBD
 nothing_PNI
 that_CJT
-Yahweh_NP0-NN1
+Yahweh_NP0
 created_VVN
 the_AT0
 universe_NN1
@@ -15037,7 +15037,7 @@ On_PRP
 this_DT0
 second_ORD
 interpretation_NN1
-Yahweh_NP0-NN1
+Yahweh_NP0
 summons_NN1
 order_NN1
 out_AVP
@@ -15133,7 +15133,7 @@ pneuma_NN1
 theos_NN2
 in_PRP
 the_AT0
-Septuagint_NN1-NP0
+Septuagint_NP0
 stirring_VVG
 the_AT0
 ocean_NN1
@@ -15189,7 +15189,7 @@ into_PRP
 birds_NN2
 An_AT0
 off-the-lip_NN1
-carved_AJ0
+carved_VVN
 out_AVP
 the_AT0
 Himalayas_NP0
@@ -15229,7 +15229,7 @@ Lost_AJ0
 Tribes_NN2
 of_PRF
 Israel_NP0
-begat_NN1-VVB
+begat_VVB
 the_AT0
 Polynesians_NN2
 and_CJC
@@ -15338,7 +15338,7 @@ being_VBG
 until_CJS
 the_AT0
 ocean_NN1
-cast_VVN
+cast_NN1
 me_PNP
 down_AVP
 again_AV0
@@ -15418,20 +15418,20 @@ my_DPS
 head_NN1
 in_PRP
 a_AT0
-leg-lock_NN1-AJ0
+leg-lock_AJ0
 and_CJC
 would_VM0
 n't_XX0
 let_VVB
 go_VVI
-Whiplash_NN1-NP0
+Whiplash_NN1
 that_CJT
 's_POS
 what_DTQ
 I_PNP
 've_VHB
 got_VVN
-Whiplash_NN1-NP0
+Whiplash_NN1
 Callahan_NP0
 liked_VVD
 the_AT0
@@ -15439,7 +15439,7 @@ sound_NN1
 of_PRF
 the_AT0
 word_NN1
-whiplash_NN1-VVB
+whiplash_NN1
 It_PNP
 could_VM0
 have_VHB
@@ -15498,7 +15498,7 @@ all_DT0
 these_DT0
 weirdos_NN2
 DON_NP0
-KING_NP0-NN1
+KING_NN1
 gave_VVD
 a_AT0
 party_NN1
@@ -15515,7 +15515,7 @@ his_DPS
 house_NN1
 on_PRP
 Ke_NP0
-Iki_NP0-NN1
+Iki_NP0
 Beach_NN1
 The_AT0
 house_NN1
@@ -15636,7 +15636,7 @@ garden_NN1
 talking_VVG
 to_TO0
 the_AT0
-bodyboarding_AJ0-NN1
+bodyboarding_AJ0
 champion_NN1
 of_PRF
 the_AT0
@@ -15691,7 +15691,7 @@ the_AT0
 flames_NN2
 Liese_NP0
 was_VBD
-Bodo_NP0-NN1
+Bodo_NP0
 van_NN1
 der_NP0
 Leeden_NP0
@@ -15755,7 +15755,7 @@ the_AT0
 lessons_NN2
 of_PRF
 the_AT0
-Tao_NP0-NN1
+Tao_NP0
 science_NN1
 philosophy_NN1
 astrology_NN1
@@ -15767,7 +15767,7 @@ told_VVD
 me_PNP
 that_CJT
 Ke_NP0
-Iki_NP0-NN1
+Iki_NP0
 meant_VVD
 Struggle_NN1
 little_AJ0
@@ -15811,7 +15811,7 @@ of_PRF
 anyone_PNI
 surfing_VVG
 Ke_NP0
-Iki_NP0-NN1
+Iki_NP0
 They_PNP
 did_VDD
 n't_XX0
@@ -15858,7 +15858,7 @@ far_AV0
 corner_NN1
 He_PNP
 stood_VVD
-mesmerized_VVD-VVN
+mesmerized_VVN
 by_PRP
 a_AT0
 giant_AJ0
@@ -15896,9 +15896,9 @@ flesh_NN1
 I_PNP
 was_VBD
 still_AV0
-nursing_AJ0-NN1
+nursing_NN1
 my_DPS
-Freddieland_NN1-NP0
+Freddieland_NN1
 injuries_NN2
 and_CJC
 the_AT0
@@ -15957,7 +15957,7 @@ of_PRF
 moon_NN1
 surf_NN1
 and_CJC
-acoustic_AJ0-NN1
+acoustic_AJ0
 guitars_NN2
 Like_PRP
 everyone_PNI
@@ -16220,7 +16220,7 @@ Jules_NP0
 Verne_NP0
 On_PRP
 its_DPS
-whistle-stop_AJ0-NN1
+whistle-stop_AJ0
 tour_NN1
 of_PRF
 the_AT0
@@ -16229,7 +16229,7 @@ his_DPS
 Floating_AJ0
 Island_NP0
 an_AT0
-Oahu_NP0-NN1
+Oahu_NN1
 with_PRP
 propellers_NN2
 found_VVD
@@ -16278,7 +16278,7 @@ passage_NN1
 an_AT0
 initiation_NN1
 an_AT0
-act_VVI
+act_NN1
 of_PRF
 worship_NN1
 a_AT0
@@ -16592,7 +16592,7 @@ underground_AJ0
 Certain_AJ0
 nineteenth-century_AJ0
 paintings_NN2
-Manet_NP0-NN1
+Manet_NP0
 's_POS
 On_PRP
 the_AT0
@@ -16637,14 +16637,14 @@ addition_NN1
 of_PRF
 a_AT0
 parasol_NN1
-Gauguin_NP0-NN1
+Gauguin_NN1
 in_PRP
 his_DPS
 evocations_NN2
 of_PRF
 life_NN1
 in_PRP
-Tahiti_NP0-NN1
+Tahiti_NP0
 was_VBD
 the_AT0
 first_ORD
@@ -16661,7 +16661,7 @@ culture_NN1
 more_AV0
 sensual_AJ0
 less_AV0
-strait-laced_AJ0-NN1
+strait-laced_AJ0
 more_AV0
 fitting_VVG
 to_TO0
@@ -16684,7 +16684,7 @@ fading_VVG
 away_AV0
 even_AV0
 as_CJS
-Gauguin_NP0-NN1
+Gauguin_NN1
 paid_VVN
 tribute_NN1
 to_TO0
@@ -16743,7 +16743,7 @@ culture_NN1
 a_AT0
 third_ORD
 force_NN1
-wedged_VVN-VVD
+wedged_VVN
 between_PRP
 town_NN1
 and_CJC
@@ -16755,7 +16755,7 @@ norms_NN2
 and_CJC
 practices_NN2
 has_VHZ
-spread_NN1
+spread_VVN
 across_PRP
 the_AT0
 globe_NN1
@@ -16777,7 +16777,7 @@ patterned_AJ0
 boardshorts_NN2
 and_CJC
 shirts_NN2
-present_AJ0-NN1
+present_AJ0
 a_AT0
 feeble_AJ0
 parody_NN1
@@ -16860,7 +16860,7 @@ has_VHZ
 nevertheless_AV0
 undergone_VVN
 a_AT0
-sea-change_NN1-AJ0
+sea-change_NN1
 And_CJC
 surfing_VVG
 is_VBZ
@@ -16872,7 +16872,7 @@ even_AV0
 stimulus_NN1
 of_PRF
 that_CJT
-shift_NN1-VVB
+shift_NN1
 Now_AV0
 that_CJT
 the_AT0
@@ -17011,7 +17011,7 @@ the_AT0
 sands_NN2
 of_PRF
 Ke_NP0
-Iki_NP0-NN1
+Iki_NP0
 at_PRP
 midnight_NN1
 with_PRP
@@ -17062,7 +17062,7 @@ going_VVG
 now_AV0
 I_PNP
 expect_VVI
-Bodo_NP0-NN1
+Bodo_NP0
 is_VBZ
 wondering_VVG
 where_AVQ
@@ -17091,11 +17091,11 @@ left_VVN
 here_AV0
 all_DT0
 alone_AJ0
-DOLLY_NP0-NN1
+DOLLY_NP0
 SPELLED_VVD
 her_DPS
 name_NN1
-Dolle_NP0-NN1
+Dolle_NP0
 I_PNP
 met_VVD
 her_DPS
@@ -17109,7 +17109,7 @@ Michael_NP0
 Willis_NP0
 always_AV0
 sat_VVD
-water-gazing_NN1-AJ0
+water-gazing_NN1
 This_DT0
 is_VBZ
 the_AT0
@@ -17151,7 +17151,7 @@ I_PNP
 let_VVB
 that_CJT
 pass_VVI
-Dolle_NP0-NN1
+Dolle_NP0
 was_VBD
 a_AT0
 woman_NN1
@@ -17204,10 +17204,10 @@ timeless_AJ0
 charm_NN1
 of_PRF
 Olive_NP0
-Oyl_NP0-NN1
+Oyl_NP0
 or_CJC
 Betty_NP0
-Boop_NP0-NN1
+Boop_NN1
 But_CJC
 her_DPS
 deep_AJ0
@@ -17225,7 +17225,7 @@ decades_NN2
 She_PNP
 was_VBD
 a_AT0
-veteran_AJ0-NN1
+veteran_NN1
 nymphette_NN1
 who_PNQ
 had_VHD
@@ -17267,7 +17267,7 @@ through_PRP
 a_AT0
 trapdoor_NN1
 Hi_ITJ
-Dolle_NP0-NN1
+Dolle_NP0
 I_PNP
 'd_VM0
 say_VVI
@@ -17315,7 +17315,7 @@ fit_VVI
 the_AT0
 modern_AJ0
 age_NN1
-Dolle_NP0-NN1
+Dolle_NP0
 described_VVN
 herself_PNX
 as_CJS
@@ -17381,7 +17381,7 @@ Dining_NN1
 for_PRP
 Hot_AJ0
 Place_NP0
-Living_VVG-NN1
+Living_VVG
 with_PRP
 Tid_AJ0
 Bits_NN2
@@ -17399,17 +17399,17 @@ tell_VVI
 from_PRP
 a_AT0
 quick_AJ0
-skim_NN1-VVB
+skim_VVB
 through_PRP
 every_AT0
 meal_NN1
 was_VBD
 designed_VVN
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 an_AT0
-aphrodisiac_NN1-AJ0
+aphrodisiac_NN1
 She_PNP
 'd_VM0
 also_AV0
@@ -17503,7 +17503,7 @@ men_NN2
 she_PNP
 'd_VM0
 known_VVN
-Dolle_NP0-NN1
+Dolle_NP0
 had_VHD
 spent_VVN
 her_DPS
@@ -17512,7 +17512,7 @@ life_NN1
 obsessed_AJ0
 with_PRP
 but_CJC
-ill-used_AJ0-NN1
+ill-used_NN1
 by_PRP
 men_NN2
 Men_NN2
@@ -17540,7 +17540,7 @@ me_PNP
 to_TO0
 help_VVI
 her_DPS
-edit_VVI
+edit_NN1
 it_PNP
 into_PRP
 shape_NN1
@@ -17574,7 +17574,7 @@ also_AV0
 sentimental_AJ0
 confused_AJ0
 and_CJC
-clich\xc3\xa9-ridden_AJ0-NN1
+clich\xc3\xa9-ridden_NN1
 My_DPS
 advice_NN1
 to_TO0
@@ -17631,7 +17631,7 @@ in_PRP
 love_NN1
 with_PRP
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 a_AT0
 punk_NN1
 Mafia_NN1
@@ -17719,7 +17719,7 @@ Viral_AJ0
 Hepatitis_NN1
 I_PNP
 started_VVD
-bullying_VVG-NN1
+bullying_VVG
 her_DPS
 She_PNP
 had_VHD
@@ -17740,7 +17740,7 @@ being_VBG
 ruthless_AJ0
 Confronted_VVN
 with_PRP
-Dolle_NP0-NN1
+Dolle_NP0
 I_PNP
 felt_VVD
 myself_PNX
@@ -17842,7 +17842,7 @@ mainly_AV0
 she_PNP
 kept_VVD
 on_PRP
-bodyboarding_AJ0-NN1
+bodyboarding_AJ0
 on_PRP
 the_AT0
 quieter_AJC
@@ -17883,7 +17883,7 @@ you_PNP
 think_VVB
 you_PNP
 could_VM0
-drive_VVI
+drive_NN1
 me_PNP
 to_TO0
 the_AT0
@@ -17891,7 +17891,7 @@ Sugar_NN1
 Bar_NN1
 Come_VVB
 on_PRP
-Dolle_NP0-NN1
+Dolle_NP0
 I_PNP
 'm_VBB
 trying_VVG
@@ -17967,7 +17967,7 @@ in_PRP
 not_XX0
 write_VVI
 in_PRP
-Writing_VVG-NN1
+Writing_NN1
 was_VBD
 a_AT0
 sign_NN1
@@ -17980,7 +17980,7 @@ a_AT0
 kind_NN1
 of_PRF
 punishment_NN1
-Dolle_NP0-NN1
+Dolle_NP0
 was_VBD
 still_AV0
 living_VVG
@@ -17995,10 +17995,10 @@ least_AV0
 the_AT0
 Sugar_NN1
 Bar_NN1
-Writing_VVG-NN1
+Writing_NN1
 was_VBD
 a_AT0
-substitute_NN1-AJ0
+substitute_NN1
 for_PRP
 surfing_VVG
 If_CJS
@@ -18017,7 +18017,7 @@ second_ORD
 day_NN1
 of_PRF
 the_AT0
-Marui_AJ0-NN1
+Marui_AJ0
 Pipeline_NN1
 Masters_NN2
 the_AT0
@@ -18035,7 +18035,7 @@ setting_VVG
 the_AT0
 pace_NN1
 The_AT0
-ASP_NN1-NP0
+ASP_NN1
 rule-book_NN1
 asked_VVD
 the_AT0
@@ -18092,7 +18092,7 @@ the_AT0
 tube_NN1
 A_AT0
 good_AJ0
-tube-ride_AJ0-NN1
+tube-ride_NN1
 might_VM0
 score_NN1
 anything_PNI
@@ -18147,7 +18147,7 @@ of_PRF
 Part_NN1
 of_PRF
 this_DT0
-record-breaking_AJ0-NN1
+record-breaking_AJ0
 hat_NN1
 trick_NN1
 was_VBD
@@ -18181,7 +18181,7 @@ more_AV0
 barrels_NN2
 than_CJS
 a_AT0
-beer-truck_NN1-AJ0
+beer-truck_NN1
 This_DT0
 was_VBD
 the_AT0
@@ -18316,7 +18316,7 @@ him_PNP
 you_PNP
 were_VBD
 history_NN1
-Jodie_NP0-NN1
+Jodie_NN1
 Cooper_NP0
 from_PRP
 Australia_NP0
@@ -18328,7 +18328,7 @@ had_VHD
 been_VBN
 out_AVP
 at_PRP
-Haleiwa_NP0-NN1
+Haleiwa_NP0
 when_CJS
 Johnny_NP0
 Boy_NN1
@@ -18369,9 +18369,9 @@ treated_VVN
 like_PRP
 a_AT0
 man_NN1
-Jodie_NP0-NN1
-retired_AJ0
-hurt_VVI
+Jodie_NN1
+retired_VVD
+hurt_VVN
 In_PRP
 the_AT0
 public_AJ0
@@ -18410,13 +18410,13 @@ out_AVP
 to_TO0
 be_VBI
 a_AT0
-cross_VVI
+cross_NN1
 between_PRP
 James_NP0
 Dean_NP0
 and_CJC
 Marlon_NP0
-Brando_NP0-NN1
+Brando_NP0
 Surfing_NP0
 was_VBD
 like_PRP
@@ -18479,7 +18479,7 @@ all_DT0
 non-surfing_AJ0
 humans_NN2
 are_VBB
-ridiculed_VVD
+ridiculed_VVN
 as_CJS
 hodads_NN2
 They_PNP
@@ -18508,7 +18508,7 @@ the_AT0
 embrace_VVI
 of_PRF
 the_AT0
-all-mothering_AJ0-NN1
+all-mothering_NN1
 sea_NN1
 You_PNP
 could_VM0
@@ -18600,7 +18600,7 @@ artist_NN1
 friend_NN1
 James_NP0
 William_NP0
-Berthrong_NP0-NN1
+Berthrong_NN1
 III_CRD
 said_VVD
 Johnny_NP0
@@ -18853,7 +18853,7 @@ hours_NN2
 Surfers_NP0
 were_VBD
 tranquil_AJ0
-Swimming_VVG-NN1
+Swimming_NN1
 and_CJC
 surfing_VVG
 give_VVI
@@ -18909,7 +18909,7 @@ a_AT0
 fifteen-foot_AJ0
 wave_NN1
 at_PRP
-Banzai_AJ0
+Banzai_NN1
 Pipeline_NN1
 you_PNP
 can_VM0
@@ -18918,7 +18918,7 @@ anything_PNI
 Above_PRP
 all_DT0
 it_PNP
-heightened_AJ0
+heightened_VVN
 your_DPS
 consciousness_NN1
 When_CJS
@@ -19137,7 +19137,7 @@ car_NN1
 out_AVP
 of_PRF
 my_DPS
-drive_VVI
+drive_NN1
 he_PNP
 growled_VVD
 I_PNP
@@ -19219,7 +19219,7 @@ car_NN1
 out_AVP
 of_PRF
 my_DPS
-drive_VVI
+drive_NN1
 Later_AV0
 that_CJT
 day_NN1
@@ -19267,7 +19267,7 @@ you_PNP
 kept_VVD
 your_DPS
 mouth_NN1
-shut_VVB
+shut_VVN
 That_DT0
 's_POS
 Johnny_NP0
@@ -19287,7 +19287,7 @@ dismembered_AJ0
 you_PNP
 The_AT0
 stretched-out_AJ0
-salivating_VVG-AJ0
+salivating_AJ0
 way_NN1
 Callahan_NP0
 said_VVD
@@ -19330,7 +19330,7 @@ they_PNP
 did_VDD
 it_PNP
 They_PNP
-sedated_VVD
+sedated_VVN
 him_PNP
 with_PRP
 Southern_AJ0
@@ -19413,7 +19413,7 @@ his_DPS
 self-esteem_NN1
 Richie_NP0
 was_VBD
-nursing_AJ0-NN1
+nursing_NN1
 a_AT0
 broken_VVN
 nose_NN1
@@ -19442,7 +19442,7 @@ ever_AV0
 seen_VVN
 from_PRP
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 sanctuary_NN1
 of_PRF
 the_AT0
@@ -19505,7 +19505,7 @@ results_NN2
 The_AT0
 surf_NN1
 was_VBD
-crashing_VVG-AJ0
+crashing_VVG
 outside_PRP
 my_DPS
 window_NN1
@@ -19603,11 +19603,11 @@ what_DTQ
 had_VHD
 happened_VVD
 The_AT0
-PR_NP0-NN1
+PR_NP0
 team_NN1
 in_PRP
 the_AT0
-Triple_AJ0-NN1
+Triple_AJ0
 Crown_NN1
 press_NN1
 trailer_NN1
@@ -19770,9 +19770,9 @@ day_NN1
 under_PRP
 the_AT0
 heading_VVG
-POTTER_NP0-NN1
+POTTER_NP0
 IS_VBZ
-NAMED_VVN-AJ0
+NAMED_AJ0
 RULER_NN1
 OF_PRF
 THE_AT0
@@ -19796,14 +19796,14 @@ of_PRF
 Great_AJ0
 Britain_NP0
 yesterday_AV0
-clinched_VVN-VVD
+clinched_VVN
 surfing_VVG
 's_POS
 world_NN1
 title_NN1
 at_PRP
 the_AT0
-Marui_AJ0-NN1
+Marui_AJ0
 Pipeline_NN1
 Masters_NN2
 in_PRP
@@ -19845,7 +19845,7 @@ run_VVI
 in_PRP
 the_AT0
 Hawaiian_AJ0
-Triple_AJ0-NN1
+Triple_AJ0
 Crown_NN1
 he_PNP
 can_VM0
@@ -19860,7 +19860,7 @@ Pipeline_NN1
 Master_NN1
 is_VBZ
 Gary_NP0
-Elkerton_NP0-NN1
+Elkerton_NP0
 of_PRF
 Australia_NP0
 who_PNQ
@@ -19883,7 +19883,7 @@ lives_NN2
 on_PRP
 at_PRP
 the_AT0
-Banzai_AJ0
+Banzai_NN1
 Pipeline_NN1
 not_XX0
 so_AV0
@@ -19942,7 +19942,7 @@ jaws_NN2
 open_AJ0
 then_AV0
 clamp_NN1
-shut_VVB
+shut_VVN
 occasionally_AV0
 spitting_VVG
 out_AVP
@@ -19996,7 +19996,7 @@ it_PNP
 was_VBD
 the_AT0
 Hawaiian_AJ0
-goofy_NN1-AJ0
+goofy_NN1
 Ronnie_NP0
 Burns_NP0
 who_PNQ
@@ -20015,14 +20015,14 @@ took_VVD
 third_ORD
 place_NN1
 while_CJS
-Tahiti_NP0-NN1
+Tahiti_NP0
 's_POS
 Vetea_NP0
 Poto_NP0
 David_NP0
 a_AT0
 popular_AJ0
-favourite_AJ0-NN1
+favourite_AJ0
 with_PRP
 the_AT0
 crowd_NN1
@@ -20048,8 +20048,8 @@ end_NN1
 it_PNP
 was_VBD
 the_AT0
-regular-footer_AJ0-NN1
-Elkerton_NP0-NN1
+regular-footer_NN1
+Elkerton_NP0
 's_POS
 ability_NN1
 to_TO0
@@ -20062,7 +20062,7 @@ of_PRF
 wave_NN1
 leg-breaks_NN2
 off-breaks_NN2
-googlies_NN2-VVZ
+googlies_VVZ
 head-severing_AJ0
 bouncers_NN2
 that_CJT
@@ -20087,14 +20087,14 @@ Rock_NN1
 Caf\xc3\xa9_NN1
 World_NN1
 Cup_NN1
-Elkerton_NP0-NN1
+Elkerton_NP0
 is_VBZ
 now_AV0
-favourite_AJ0-NN1
+favourite_AJ0
 to_TO0
 win_VVI
 the_AT0
-Triple_AJ0-NN1
+Triple_AJ0
 Crown_NN1
 The_AT0
 last_ORD
@@ -20103,11 +20103,11 @@ in_PRP
 the_AT0
 series_NN0
 the_AT0
-AAAAA-rated_AJ0-NN1
-Billabong_NN1-NP0
+AAAAA-rated_NN1
+Billabong_NN1
 Pro_NN1
 is_VBZ
-scheduled_VVN-AJ0
+scheduled_VVN
 to_TO0
 open_AJ0
 today_AV0
@@ -20117,7 +20117,7 @@ richest_AJS
 purse_NN1
 on_PRP
 the_AT0
-Tour_NN1-VVB
+Tour_NN1
 with_PRP
 a_AT0
 $50,000_NN0
@@ -20267,7 +20267,7 @@ as_CJS
 at_PRP
 the_AT0
 1988_CRD
-Billabong_NN1-NP0
+Billabong_NN1
 when_CJS
 Lynch_NP0
 went_VVD
@@ -20327,7 +20327,7 @@ surfer_NN1
 riding_VVG
 a_AT0
 Willis_NP0
-Phazer_NP0-NN1
+Phazer_NN1
 took_VVD
 off_AVP
 on_PRP
@@ -20626,7 +20626,7 @@ on_PRP
 good_AJ0
 terms_NN2
 always_AV0
-fraternizing_VVG-AJ0
+fraternizing_VVG
 and_CJC
 joking_VVG
 together_AV0
@@ -20717,7 +20717,7 @@ were_VBD
 at_PRP
 the_AT0
 Caf\xc3\xa9_NN1
-Haleiwa_NP0-NN1
+Haleiwa_NP0
 for_PRP
 breakfast_NN1
 It_PNP
@@ -20740,7 +20740,7 @@ laughed_VVD
 at_PRP
 me_PNP
 for_PRP
-missing_VVG-AJ0
+missing_VVG
 out_AVP
 on_PRP
 perfect_AJ0
@@ -20766,10 +20766,10 @@ on_PRP
 any_DT0
 particular_AJ0
 day_NN1
-Chang_NP0-NN1
+Chang_NP0
 could_VM0
 Aaron_NP0
-Chang_NP0-NN1
+Chang_NP0
 was_VBD
 Surfing_NP0
 's_POS
@@ -20798,9 +20798,9 @@ I_PNP
 was_VBD
 just_AV0
 a_AT0
-wannabe_NN1-VVB
+wannabe_VVB
 nobody_PNI
-Chang_NP0-NN1
+Chang_NP0
 was_VBD
 muscular_AJ0
 unemotional_AJ0
@@ -20823,7 +20823,7 @@ enigma_NN1
 He_PNP
 had_VHD
 found_VVD
-Chang_NP0-NN1
+Chang_NP0
 browbeating_VVG
 a_AT0
 bodyboarder_NN1
@@ -20831,7 +20831,7 @@ Do_VDB
 n't_XX0
 you_PNP
 ever_AV0
-feel_VVI
+feel_VVB
 the_AT0
 need_VVB
 for_PRP
@@ -20900,7 +20900,7 @@ of_PRF
 Callahan_NP0
 said_VVD
 to_TO0
-Chang_NP0-NN1
+Chang_NP0
 Yesterday_AV0
 you_PNP
 were_VBD
@@ -20956,11 +20956,11 @@ Why_AVQ
 do_VDB
 n't_XX0
 you_PNP
-shut_VVB
+shut_VVN
 up_AVP
 Callahan_NP0
 was_VBD
-Chang_NP0-NN1
+Chang_NP0
 's_POS
 response_NN1
 It_PNP
@@ -21079,7 +21079,7 @@ him_PNP
 off_AVP
 the_AT0
 hook_NN1
-Chang_NP0-NN1
+Chang_NP0
 lived_VVD
 just_AV0
 a_AT0
@@ -21139,19 +21139,19 @@ rejected_VVN
 the_AT0
 claims_NN2
 of_PRF
-Hornbaker_NP0-NN1
+Hornbaker_NP0
 I_PNP
 had_VHD
 met_VVD
 Jeff_NP0
-Hornbaker_NP0-NN1
+Hornbaker_NP0
 in_PRP
 France_NP0
 When_CJS
 Callahan_NP0
 heard_VVN
 that_CJT
-Hornbaker_NP0-NN1
+Hornbaker_NP0
 was_VBD
 on_PRP
 his_DPS
@@ -21203,9 +21203,9 @@ he_PNP
 would_VM0
 ask_VVI
 Seen_VVN
-Hornbaker_NP0-NN1
+Hornbaker_NP0
 yet_AV0
-Hornbaker_NP0-NN1
+Hornbaker_NP0
 was_VBD
 shadowing_VVG
 Pottz_NP0
@@ -21246,9 +21246,9 @@ his_DPS
 autograph_NN1
 In_PRP
 Hawaii_NP0
-Chang_NP0-NN1
+Chang_NP0
 said_VVD
-Hornbaker_NP0-NN1
+Hornbaker_NP0
 He_PNP
 wants_VVZ
 to_TO0
@@ -21276,11 +21276,11 @@ else_AV0
 was_VBD
 just_AV0
 window_NN1
-dressing_VVG
+dressing_NN1
 This_DT0
 opinion_NN1
 enraged_AJ0
-Chang_NP0-NN1
+Chang_NP0
 There_EX0
 are_VBB
 infinite_AJ0
@@ -21305,11 +21305,11 @@ is_VBZ
 the_AT0
 same_DT0
 wave_NN1
-Photographing_VVG-AJ0
+Photographing_VVG
 waves_NN2
 is_VBZ
 like_PRP
-photographing_VVG-AJ0
+photographing_VVG
 women_NN2
 There_EX0
 's_POS
@@ -21343,7 +21343,7 @@ was_VBD
 famous_AJ0
 for_PRP
 swimming_NN1
-one-armed_NN1-AJ0
+one-armed_AJ0
 into_PRP
 the_AT0
 most_AV0
@@ -21374,7 +21374,7 @@ the_AT0
 Lions_NN2
 '_POS
 den_NN1
-Chang_NP0-NN1
+Chang_NP0
 had_VHD
 produced_VVN
 some_DT0
@@ -21384,7 +21384,7 @@ shots_NN2
 too_AV0
 not_XX0
 just_AV0
-decapitating_VVG-AJ0
+decapitating_AJ0
 waves_NN2
 as_CJS
 they_PNP
@@ -21488,7 +21488,7 @@ hills_NN2
 and_CJC
 down_AVP
 into_PRP
-Haleiwa_NP0-NN1
+Haleiwa_NP0
 flanked_VVN
 by_PRP
 pineapple_NN1
@@ -21503,7 +21503,7 @@ the_AT0
 distance_NN1
 the_AT0
 Pacific_NP0
-rippling_VVG-AJ0
+rippling_VVG
 with_PRP
 big_AJ0
 waves_NN2
@@ -21514,7 +21514,7 @@ water_NN1
 photography_NN1
 too_AV0
 Once_AV0
-Chang_NP0-NN1
+Chang_NP0
 pulled_VVD
 rank_NN1
 on_PRP
@@ -21550,7 +21550,7 @@ roll_NN1
 for_PRP
 me_PNP
 at_PRP
-Lacanau_NP0-NN1
+Lacanau_NP0
 They_PNP
 were_VBD
 some_DT0
@@ -21600,7 +21600,7 @@ housing_NN1
 It_PNP
 happened_VVD
 to_TO0
-Sarge_NP0-NN1
+Sarge_NP0
 It_PNP
 was_VBD
 my_DPS
@@ -21637,13 +21637,13 @@ not_XX0
 to_TO0
 lose_VVI
 face_NN1
-Sarge_NP0-NN1
+Sarge_NP0
 his_DPS
 real_AJ0
 name_NN1
 was_VBD
 Paul_NP0
-Sargeant_NP0-NN1
+Sargeant_NN1
 was_VBD
 an_AT0
 Australian_AJ0
@@ -21653,9 +21653,9 @@ modelled_VVN
 himself_PNX
 on_PRP
 John_NP0
-Belushi_NP0-NN1
+Belushi_NP0
 and_CJC
-disapproved_VVD-VVN
+disapproved_VVN
 of_PRF
 good_AJ0
 language_NN1
@@ -21669,7 +21669,7 @@ for_PRP
 using_VVG
 the_AT0
 word_NN1
-carouse_NN1-VVB
+carouse_VVB
 He_PNP
 used_VVN
 to_TO0
@@ -21730,8 +21730,8 @@ He_PNP
 was_VBD
 pissed_VVN
 Now_AV0
-Sarge_NP0-NN1
-stuck_AJ0
+Sarge_NP0
+stuck_VVN
 to_TO0
 the_AT0
 beach_NN1
@@ -21795,7 +21795,7 @@ in_PRP
 the_AT0
 water_NN1
 said_VVD
-Chang_NP0-NN1
+Chang_NP0
 they_PNP
 destroy_VVI
 the_AT0
@@ -21909,18 +21909,18 @@ a_AT0
 cage_NN1
 said_VVD
 Callahan_NP0
-Chang_NP0-NN1
+Chang_NP0
 had_VHD
 got_VVN
 his_DPS
 start_NN1
 when_CJS
 Dan_NP0
-Merkel_NP0-NN1
+Merkel_NP0
 went_VVD
 into_PRP
 cinema_NN1
-Merkel_NP0-NN1
+Merkel_NP0
 had_VHD
 worked_VVD
 on_PRP
@@ -21934,7 +21934,7 @@ about_PRP
 surfing_VVG
 ever_AV0
 made_VVN
-Merkel_NP0-NN1
+Merkel_NP0
 was_VBD
 small_AJ0
 and_CJC
@@ -21970,8 +21970,8 @@ but_CJC
 especially_AV0
 other_AJ0
 photographers_NN2
-Fucking_AJ0-AV0
-photogs_NN2-VVZ
+Fucking_AJ0
+photogs_VVZ
 More_AV0
 of_PRF
 'em_PNP
@@ -22074,7 +22074,7 @@ a_AT0
 lot_NN1
 of_PRF
 lustre_NN1
-Merkel_NP0-NN1
+Merkel_NP0
 had_VHD
 come_VVI
 up_AVP
@@ -22197,7 +22197,7 @@ His_DPS
 name_NN1
 was_VBD
 Bruce_NP0
-Carver_NP0-NN1
+Carver_NP0
 He_PNP
 stayed_VVD
 for_PRP
@@ -22218,7 +22218,7 @@ a_AT0
 call_VVI
 from_PRP
 Bruce_NP0
-Carver_NP0-NN1
+Carver_NP0
 He_PNP
 was_VBD
 sorry_AJ0
@@ -22254,7 +22254,7 @@ fine_AJ0
 He_PNP
 had_VHD
 an_AT0
-unshaven_AJ0-NN1
+unshaven_AJ0
 anvil_NN1
 chin_NN1
 glittering_AJ0
@@ -22266,7 +22266,7 @@ schoolteacher_NN1
 whose_DTQ
 name_NN1
 was_VBD
-Maya_NP0-NN1
+Maya_NP0
 It_PNP
 was_VBD
 her_DPS
@@ -22286,7 +22286,7 @@ was_VBD
 away_AV0
 in_PRP
 Peru_NP0
-Carver_NP0-NN1
+Carver_NP0
 explained_VVD
 that_CJT
 he_PNP
@@ -22303,7 +22303,7 @@ $1,500_NN0
 any_DT0
 day_NN1
 Bruce_NP0
-Carver_NP0-NN1
+Carver_NP0
 reminded_VVD
 me_PNP
 of_PRF
@@ -22384,7 +22384,7 @@ He_PNP
 was_VBD
 a_AT0
 Vietnam_NP0
-veteran_AJ0-NN1
+veteran_NN1
 from_PRP
 Rhode_NP0
 Island_NP0
@@ -22443,13 +22443,13 @@ last_ORD
 day_NN1
 of_PRF
 the_AT0
-Marui_AJ0-NN1
+Marui_AJ0
 Pipeline_NN1
 Masters_NN2
 Bruce_NP0
-Carver_NP0-NN1
+Carver_NP0
 and_CJC
-Maya_NP0-NN1
+Maya_NP0
 went_VVD
 up_AVP
 in_PRP
@@ -22460,7 +22460,7 @@ take_VVI
 some_DT0
 aerial_AJ0
 shots_NN2
-Carver_NP0-NN1
+Carver_NP0
 wanted_VVD
 me_PNP
 to_TO0
@@ -22469,7 +22469,7 @@ a_AT0
 picture_NN1
 to_TO0
 London_NP0
-Maya_NP0-NN1
+Maya_NP0
 was_VBD
 bubbling_AJ0
 with_PRP
@@ -22510,7 +22510,7 @@ me_PNP
 by_PRP
 the_AT0
 shoulder_NN1
-Maya_NP0-NN1
+Maya_NP0
 was_VBD
 sitting_VVG
 on_PRP
@@ -22576,7 +22576,7 @@ Australian_AJ0
 schoolteacher_NN1
 in_PRP
 Hawaii_NP0
-wanting_VVG-AJ0
+wanting_VVG
 to_TO0
 write_VVI
 a_AT0
@@ -22584,7 +22584,7 @@ story_NN1
 on_PRP
 the_AT0
 States_NP0
-invading_AJ0-VVG
+invading_VVG
 Panama_NP0
 for_PRP
 The_AT0
@@ -22674,7 +22674,7 @@ says_VVZ
 Hal_NP0
 I_PNP
 can_VM0
-feel_VVI
+feel_VVB
 it_PNP
 going_VVG
 I_PNP
@@ -22691,7 +22691,7 @@ moments_NN2
 when_CJS
 I_PNP
 could_VM0
-feel_VVI
+feel_VVB
 my_DPS
 brain_NN1
 going_VVG
@@ -22731,7 +22731,7 @@ With_PRP
 one_CRD
 tentative_AJ0
 finger_NN1
-Maya_NP0-NN1
+Maya_NP0
 started_VVD
 tapping_VVG
 out_AVP
@@ -22807,15 +22807,15 @@ and_CJC
 I_PNP
 prised_VVD
 my_DPS
-Toshiba_NP0-NN1
+Toshiba_NN1
 away_AV0
 from_PRP
 her_DPS
-grasping_VVG-AJ0
+grasping_VVG
 hands_NN2
 As_CJS
 I_PNP
-closed_VVD
+closed_VVN
 my_DPS
 door_NN1
 she_PNP
@@ -22838,7 +22838,7 @@ wandered_VVD
 out_AVP
 for_PRP
 a_AT0
-surf-check_NN1-AJ0
+surf-check_NN1
 in_PRP
 the_AT0
 morning_NN1
@@ -22880,9 +22880,9 @@ can_VM0
 you_PNP
 ask_VVI
 for_PRP
-Carver_NP0-NN1
+Carver_NP0
 and_CJC
-Maya_NP0-NN1
+Maya_NP0
 had_VHD
 been_VBN
 fighting_VVG
@@ -22907,7 +22907,7 @@ in_PRP
 the_AT0
 shape_NN1
 of_PRF
-Chinook_NN1-NP0
+Chinook_NP0
 helicopters_NN2
 had_VHD
 served_VVN
@@ -22961,7 +22961,7 @@ called_VVN
 the_AT0
 emergency_NN1
 services_NN2
-Maya_NP0-NN1
+Maya_NP0
 cut_VVN
 through_PRP
 the_AT0
@@ -23053,7 +23053,7 @@ Highway_NN1
 and_CJC
 US_NP0
 Army_NN1
-grunts_NN2-VVZ
+grunts_NN2
 invaded_VVD
 the_AT0
 beaches_NN2
@@ -23115,10 +23115,10 @@ than_CJS
 Noriega_NP0
 I_PNP
 heard_VVN
-Maya_NP0-NN1
+Maya_NP0
 yell_NN1
 at_PRP
-Carver_NP0-NN1
+Carver_NP0
 She_PNP
 thought_VVD
 of_PRF
@@ -23169,7 +23169,7 @@ enemy_NN1
 of_PRF
 freedom_NN1
 originally_AV0
-shoehorned_VVD-VVN
+shoehorned_VVD
 into_PRP
 power_NN1
 to_TO0
@@ -23188,9 +23188,9 @@ Michael_NP0
 's_POS
 comment_NN1
 Bruce_NP0
-Carver_NP0-NN1
+Carver_NP0
 and_CJC
-Maya_NP0-NN1
+Maya_NP0
 ran_VVD
 to_TO0
 ground_NN1
@@ -23273,7 +23273,7 @@ returned_VVD
 I_PNP
 saw_VVD
 Bruce_NP0
-Carver_NP0-NN1
+Carver_NP0
 on_PRP
 the_AT0
 beach_NN1
@@ -23290,7 +23290,7 @@ me_PNP
 a_AT0
 Pottz_NP0
 picture_NN1
-Maya_NP0-NN1
+Maya_NP0
 said_VVD
 You_PNP
 ever_AV0
@@ -23336,7 +23336,7 @@ at_PRP
 work_NN1
 in_PRP
 his_DPS
-shaping_VVG-AJ0
+shaping_VVG
 room_NN1
 All_DT0
 he_PNP
@@ -23409,7 +23409,7 @@ in_PRP
 the_AT0
 roof_NN1
 They_PNP
-emit_VVI
+emit_VVB
 vitamins_NN2
 The_AT0
 more_AV0
@@ -23422,7 +23422,7 @@ healthier_AJC
 you_PNP
 get_VVI
 He_PNP
-listed_AJ0
+listed_VVN
 all_DT0
 the_AT0
 variables_NN2
@@ -23493,7 +23493,7 @@ of_PRF
 Jules_NP0
 Verne_NP0
 's_POS
-Albatross_NN1-NP0
+Albatross_NN1
 a_AT0
 flying_VVG
 machine_NN1
@@ -23514,7 +23514,7 @@ a_AT0
 bird_NN1
 But_CJC
 the_AT0
-Albatross_NN1-NP0
+Albatross_NN1
 was_VBD
 superseded_VVN
 in_PRP
@@ -23568,7 +23568,7 @@ I_PNP
 thought_VVD
 of_PRF
 dolphins_NN2
-Arion_NN1-NP0
+Arion_NP0
 son_NN1
 of_PRF
 Poseidon_NP0
@@ -23580,7 +23580,7 @@ lyre_NN1
 was_VBD
 sailing_VVG
 to_TO0
-Corinth_NP0-NN1
+Corinth_NN1
 when_CJS
 he_PNP
 was_VBD
@@ -23605,7 +23605,7 @@ one_CRD
 of_PRF
 which_DTQ
 ferried_VVN
-Arion_NN1-NP0
+Arion_NP0
 on_PRP
 his_DPS
 back_AVP
@@ -23613,7 +23613,7 @@ all_DT0
 the_AT0
 way_NN1
 to_TO0
-Corinth_NP0-NN1
+Corinth_NN1
 Now_AV0
 that_CJT
 the_AT0
@@ -23642,7 +23642,7 @@ had_VHD
 dissolved_VVN
 into_PRP
 the_AT0
-leering_VVG
+leering_AJ0
 grin_NN1
 of_PRF
 a_AT0
@@ -23753,7 +23753,7 @@ board_NN1
 I_PNP
 wanted_VVD
 a_AT0
-Phazer_NP0-NN1
+Phazer_NN1
 The_AT0
 board_NN1
 I_PNP
@@ -23938,7 +23938,7 @@ You_PNP
 're_VBB
 destroying_VVG
 nature_NN1
-Polyurethane_NN1-NP0
+Polyurethane_NP0
 is_VBZ
 plastic_NN1
 The_AT0
@@ -24002,7 +24002,7 @@ biodegradable_AJ0
 board_NN1
 like_PRP
 the_AT0
-husk_NN1-VVB
+husk_NN1
 of_PRF
 a_AT0
 grain_NN1
@@ -24019,7 +24019,7 @@ you_PNP
 do_VDB
 n't_XX0
 just_AV0
-toss_VVI
+toss_NN1
 it_PNP
 in_PRP
 the_AT0
@@ -24081,7 +24081,7 @@ true_AJ0
 Everything_PNI
 is_VBZ
 possible_AJ0
-Show_NN1-VVB
+Show_NN1
 me_PNP
 something_PNI
 that_CJT
@@ -24222,7 +24222,7 @@ almost_AV0
 an_AT0
 hour_NN1
 's_POS
-drive_VVI
+drive_NN1
 which_DTQ
 gave_VVD
 him_PNP
@@ -24348,7 +24348,7 @@ then_AV0
 left_VVN
 Alan_NP0
 said_VVD
-Bodo_NP0-NN1
+Bodo_NP0
 You_PNP
 do_VDB
 n't_XX0
@@ -24376,7 +24376,7 @@ heard_VVN
 from_PRP
 Alan_NP0
 again_AV0
-Bodo_NP0-NN1
+Bodo_NP0
 said_VVD
 he_PNP
 'd_VM0
@@ -24398,18 +24398,18 @@ Laniakea_NP0
 familiarly_AV0
 known_VVN
 as_CJS
-Lani_NP0-NN1
+Lani_NP0
 's_POS
 a_AT0
 long_AJ0
 multi-peaked_AJ0
 break_VVI
 past_NN1
-Jocko_NP0-NN1
+Jocko_NP0
 's_POS
 heading_VVG
 towards_PRP
-Haleiwa_NP0-NN1
+Haleiwa_NP0
 He_PNP
 had_VHD
 Damon_NP0
@@ -24426,7 +24426,7 @@ who_PNQ
 was_VBD
 staying_VVG
 with_PRP
-Bodo_NP0-NN1
+Bodo_NP0
 and_CJC
 Liese_NP0
 for_PRP
@@ -24463,7 +24463,7 @@ which_DTQ
 way_NN1
 we_PNP
 should_VM0
-paddle_VVI
+paddle_VVB
 out_AVP
 Half_DT0
 a_AT0
@@ -24489,7 +24489,7 @@ and_CJC
 small_AJ0
 You_PNP
 could_VM0
-paddle_VVI
+paddle_VVB
 out_AVP
 from_PRP
 the_AT0
@@ -24506,7 +24506,7 @@ from_PRP
 the_AT0
 left_VVN
 Before_PRP
-Bodo_NP0-NN1
+Bodo_NP0
 arrived_VVD
 I_PNP
 'd_VM0
@@ -24554,7 +24554,7 @@ board_NN1
 by_PRP
 the_AT0
 rocks_NN2
-Bodo_NP0-NN1
+Bodo_NP0
 said_VVD
 You_PNP
 might_VM0
@@ -24600,7 +24600,7 @@ were_VBD
 deceptively_AV0
 smooth_AJ0
 But_CJC
-accelerating_AJ0-VVG
+accelerating_VVG
 towards_PRP
 us_PNP
 was_VBD
@@ -24609,7 +24609,7 @@ row_NN1
 of_PRF
 sharp_AJ0
 jutting_VVG
-foamy_AJ0-NN1
+foamy_AJ0
 peaks_NN2
 like_PRP
 a_AT0
@@ -24619,7 +24619,7 @@ upturned_AJ0
 shark_NN1
 's_POS
 teeth_NN2
-wreathed_VVN-VVD
+wreathed_VVN
 in_PRP
 toothpaste_NN1
 Where_AVQ
@@ -24629,10 +24629,10 @@ path_NN1
 I_PNP
 yelled_VVD
 to_TO0
-Bodo_NP0-NN1
+Bodo_NP0
 above_PRP
 the_AT0
-grinding_AJ0-VVG
+grinding_AJ0
 of_PRF
 jaws_NN2
 It_PNP
@@ -24676,7 +24676,7 @@ down_AVP
 after_PRP
 me_PNP
 When_CJS
-Bodo_NP0-NN1
+Bodo_NP0
 saw_VVD
 I_PNP
 was_VBD
@@ -24741,7 +24741,7 @@ helmeted_AJ0
 truncheon-tipped_AJ0
 breakers_NN2
 The_AT0
-paddle_VVI
+paddle_VVB
 in_PRP
 around_PRP
 and_CJC
@@ -24760,7 +24760,7 @@ n't_XX0
 up_AVP
 to_TO0
 it_PNP
-Bodo_NP0-NN1
+Bodo_NP0
 mistook_VVD
 my_DPS
 cowardly_AJ0
@@ -24814,7 +24814,7 @@ already_AV0
 up_AVP
 and_CJC
 running_VVG
-Bodo_NP0-NN1
+Bodo_NP0
 was_VBD
 champing_VVG
 at_PRP
@@ -24829,7 +24829,7 @@ smaller_AJC
 break_VVI
 for_PRP
 starters_NN2
-Catch_VVB-NN1
+Catch_NN1
 up_AVP
 with_PRP
 you_PNP
@@ -24853,7 +24853,7 @@ sick_AJ0
 I_PNP
 'd_VM0
 been_VBN
-yo-yoing_AJ0-NN1
+yo-yoing_NN1
 up_AVP
 and_CJC
 down_AVP
@@ -24876,13 +24876,13 @@ from_PRP
 the_AT0
 phial_NN1
 of_PRF
-Renshenfengwangjiang_NP0-NN1
+Renshenfengwangjiang_NP0
 a_AT0
 potent_AJ0
 blend_NN1
 of_PRF
 panax_NN1
-ginseng_NN1-VVB
+ginseng_VVB
 and_CJC
 royal_AJ0
 bee_NN1
@@ -24934,7 +24934,7 @@ best_AJS
 possible_AJ0
 trial_NN1
 for_PRP
-Bodo_NP0-NN1
+Bodo_NP0
 's_POS
 eight-foot_AJ0
 minitanker_NN1
@@ -24945,7 +24945,7 @@ test-piloting_NN1
 a_AT0
 plane_NN1
 and_CJC
-crashing_VVG-AJ0
+crashing_VVG
 on_PRP
 the_AT0
 runway_NN1
@@ -24998,7 +24998,7 @@ with_PRP
 my_DPS
 bespoke_NN1
 Willis_NP0
-Phazer_NP0-NN1
+Phazer_NN1
 I_PNP
 knew_VVD
 it_PNP
@@ -25014,7 +25014,7 @@ was_VBD
 not_XX0
 just_AV0
 the_AT0
-shaping_VVG-AJ0
+shaping_VVG
 but_CJC
 the_AT0
 painting_NN1
@@ -25031,7 +25031,7 @@ few_DT0
 days_NN2
 of_PRF
 my_DPS
-scheduled_VVN-AJ0
+scheduled_VVN
 departure_NN1
 date_NN1
 I_PNP
@@ -25081,13 +25081,13 @@ WILL_VM0
 IS_VBZ
 BODO_NP0
 'S_POS
-EPIC_AJ0-NN1
+EPIC_AJ0
 misinterpretation_NN1
 of_PRF
 my_DPS
 failure_NN1
 at_PRP
-Lani_NP0-NN1
+Lani_NP0
 's_POS
 established_VVN
 itself_PNX
@@ -25132,9 +25132,9 @@ Chinese_AJ0
 style_NN1
 miso_NN1
 soup_NN1
-stir-fried_AJ0-NN1
+stir-fried_AJ0
 vegetables_NN2
-sweetsap_VVB-NN1
+sweetsap_NN1
 for_PRP
 dessert_NN1
 Afterwards_AV0
@@ -25232,7 +25232,7 @@ as_CJS
 cappuccino_NN1
 soothing_AJ0
 as_CJS
-Valium_NP0-NN1
+Valium_NN1
 anaesthetized_VVN
 my_DPS
 instinctive_AJ0
@@ -25287,7 +25287,7 @@ of_PRF
 wispy_AJ0
 Chinese_AJ0
 music_NN1
-looped_VVN-AJ0
+looped_AJ0
 themselves_PNX
 around_PRP
 my_DPS
@@ -25551,7 +25551,7 @@ not_XX0
 help_VVI
 just_AV0
 to_TO0
-stir_VVI
+stir_VVB
 it_PNP
 around_PRP
 Liese_NP0
@@ -25568,7 +25568,7 @@ to_TO0
 Lao-tzu_NP0
 in_PRP
 the_AT0
-Tao_NP0-NN1
+Tao_NP0
 Te_UNC
 Ching_NP0
 she_PNP
@@ -25580,7 +25580,7 @@ is_VBZ
 more_AV0
 soft_AJ0
 and_CJC
-yielding_VVG
+yielding_AJ0
 than_CJS
 water_NN1
 Yet_AV0
@@ -25711,7 +25711,7 @@ which_DTQ
 required_VVN
 me_PNP
 to_TO0
-inscribe_VVB
+inscribe_VVI
 a_AT0
 divided_VVN
 line_NN1
@@ -25883,7 +25883,7 @@ of_PRF
 an_AT0
 old_AJ0
 poplar_NN1
-sprouting_AJ0-VVG
+sprouting_VVG
 at_PRP
 the_AT0
 root_NN1
@@ -26027,7 +26027,7 @@ hexagram_NN1
 under_PRP
 the_AT0
 rubric_NN1
-K'un_NN1-VVB
+K'un_NN1
 Oppression_NN1
 Exhaustion_NN1
 I_PNP
@@ -26127,7 +26127,7 @@ the_AT0
 west_NN1
 side_NN1
 of_PRF
-Oahu_NP0-NN1
+Oahu_NN1
 in_PRP
 Makaha_NP0
 But_CJC
@@ -26224,7 +26224,7 @@ many_DT0
 Tahitians_NN2
 were_VBD
 already_AV0
-dying_VVG-AJ0
+dying_AJ0
 from_PRP
 the_AT0
 venereal_AJ0
@@ -26245,7 +26245,7 @@ like_PRP
 a_AT0
 cloud_NN1
 of_PRF
-anti-matter_NN1-AJ0
+anti-matter_AJ0
 he_PNP
 was_VBD
 fated_VVN
@@ -26622,7 +26622,7 @@ I_PNP
 did_VDD
 n't_XX0
 The_AT0
-ASP_NN1-NP0
+ASP_NN1
 had_VHD
 once_AV0
 had_VHD
@@ -26635,7 +26635,7 @@ prevent_VVI
 disruption_NN1
 to_TO0
 the_AT0
-Triple_AJ0-NN1
+Triple_AJ0
 Crown_NN1
 But_CJC
 surfing_VVG
@@ -26667,7 +26667,7 @@ Hawaiian_AJ0
 surf_NN1
 club_NN1
 the_AT0
-Hui_NN1-NP0
+Hui_NP0
 o_ZZ0
 he'enalu_NN1
 had_VHD
@@ -26717,19 +26717,19 @@ Wodehouse_NP0
 comic_AJ0
 villain_NN1
 Roderick_NP0
-Spode_NP0-NN1
+Spode_NN1
 I_PNP
 felt_VVD
 that_CJT
 Bertie_NP0
-Wooster_NP0-NN1
+Wooster_NN1
 might_VM0
 not_XX0
 have_VHB
 approved_VVN
 But_CJC
 the_AT0
-Hui_NN1-NP0
+Hui_NP0
 was_VBD
 essential_AJ0
 to_TO0
@@ -26738,7 +26738,7 @@ orderly_AJ0
 running_VVG
 of_PRF
 the_AT0
-ASP_NN1-NP0
+ASP_NN1
 contests_NN2
 Formidable_AJ0
 members_NN2
@@ -26791,7 +26791,7 @@ of_PRF
 the_AT0
 contest_NN1
 beach_NN1
-marshals_NN2-VVZ
+marshals_VVZ
 His_DPS
 name_NN1
 meant_VVD
@@ -26946,7 +26946,7 @@ Moby_NP0
 Dick_NP0
 I_PNP
 was_VBD
-chief_AJ0-NN1
+chief_NN1
 haole_NN1
 a_AT0
 direct_AJ0
@@ -26963,7 +26963,7 @@ Honolulu_NP0
 I_PNP
 found_VVD
 the_AT0
-sixteen-foot_AJ0-NN1
+sixteen-foot_AJ0
 board_NN1
 that_CJT
 George_NP0
@@ -26991,7 +26991,7 @@ ride_VVI
 the_AT0
 breakers_NN2
 of_PRF
-Waikiki_NN1-NP0
+Waikiki_NN1
 in_PRP
 the_AT0
 first_ORD
@@ -27041,7 +27041,7 @@ from_PRP
 Los_NP0
 Angeles_NP0
 to_TO0
-Redondo_NP0-NN1
+Redondo_NN1
 But_CJC
 no_AT0
 one_CRD
@@ -27068,7 +27068,7 @@ to_TO0
 devise_VVI
 a_AT0
 publicity_NN1
-stunt_NN1-VVB
+stunt_NN1
 to_TO0
 pull_VVI
 in_PRP
@@ -27084,7 +27084,7 @@ art_NN1
 of_PRF
 surfing_VVG
 at_PRP
-Redondo_NP0-NN1
+Redondo_NN1
 Beach_NN1
 In_PRP
 the_AT0
@@ -27151,7 +27151,7 @@ said_VVD
 that_CJT
 he_PNP
 had_VHD
-exhausted_VVN-AJ0
+exhausted_VVN
 himself_PNX
 rescuing_VVG
 swimmers_NN2
@@ -27168,7 +27168,7 @@ was_VBD
 President_NP0
 of_PRF
 the_AT0
-Hui_NN1-NP0
+Hui_NP0
 o_ZZ0
 he'enalu_NN1
 I_PNP
@@ -27178,7 +27178,7 @@ a_AT0
 lot_NN1
 at_PRP
 the_AT0
-Ehukai_AJ0-NN1
+Ehukai_AJ0
 Beach_NN1
 Park_NN1
 where_AVQ
@@ -27220,7 +27220,7 @@ a_AT0
 subversive_AJ0
 organization_NN1
 the_AT0
-Hui_NN1-NP0
+Hui_NP0
 was_VBD
 actually_AV0
 a_AT0
@@ -27269,7 +27269,7 @@ for_PRP
 you_PNP
 For_PRP
 the_AT0
-Hui_NN1-NP0
+Hui_NP0
 Hawaii_NP0
 was_VBD
 surfing_VVG
@@ -27298,7 +27298,7 @@ the_AT0
 climax_NN1
 of_PRF
 the_AT0
-Tour_NN1-VVB
+Tour_NN1
 was_VBD
 back_AVP
 where_AVQ
@@ -27331,7 +27331,7 @@ in_PRP
 Hawaii_NP0
 What_DTQ
 has_VHZ
-Billabong_NN1-NP0
+Billabong_NN1
 got_VVN
 to_TO0
 do_VDB
@@ -27355,7 +27355,7 @@ who_PNQ
 were_VBD
 n't_XX0
 even_AV0
-competing_VVG-AJ0
+competing_AJ0
 felt_VVD
 it_PNP
 most_AV0
@@ -27399,14 +27399,14 @@ club_NN1
 known_VVN
 as_CJS
 the_AT0
-Hui_NN1-NP0
-Nalu_NP0-NN1
+Hui_NP0
+Nalu_NN1
 It_PNP
 was_VBD
 said_VVD
 that_CJT
 the_AT0
-Kahanamokus_NN1-NP0
+Kahanamokus_NP0
 were_VBD
 the_AT0
 descendants_NN2
@@ -27455,7 +27455,7 @@ in_PRP
 the_AT0
 waters_NN2
 of_PRF
-Waikiki_NN1-NP0
+Waikiki_NN1
 It_PNP
 was_VBD
 the_AT0
@@ -27516,14 +27516,14 @@ a_AT0
 constant_AJ0
 seventy-six_CRD
 degrees_NN2
-Waikiki_NN1-NP0
+Waikiki_NN1
 was_VBD
 where_AVQ
 the_AT0
 bygone_AJ0
 chiefs_NN2
 of_PRF
-Oahu_NP0-NN1
+Oahu_NN1
 had_VHD
 surfed_VVD
 Princess_NP0
@@ -27586,11 +27586,11 @@ the_AT0
 period_NN1
 show_VVI
 a_AT0
-grinning_VVG-AJ0
+grinning_VVG
 Duke_NN1
 with_PRP
 his_DPS
-ten-foot_AJ0-NN1
+ten-foot_AJ0
 board_NN1
 looming_VVG
 up_AVP
@@ -27780,7 +27780,7 @@ only_AV0
 in_PRP
 Hawaii_NP0
 and_CJC
-Tahiti_NP0-NN1
+Tahiti_NP0
 whence_AVQ
 the_AT0
 Hawaiians_NN2
@@ -27794,7 +27794,7 @@ on_PRP
 their_DPS
 boards_NN2
 Dieter_NP0
-Schori_NP0-NN1
+Schori_NP0
 in_PRP
 Das_UNC
 Floss_UNC
@@ -27859,13 +27859,13 @@ is_VBZ
 that_CJT
 in_PRP
 the_AT0
-post-contact_AJ0-NN1
+post-contact_AJ0
 era_NN1
 it_PNP
 was_VBD
 Hawaii_NP0
 that_CJT
-colonized_VVN
+colonized_AJ0
 other_AJ0
 countries_NN2
 with_PRP
@@ -27903,7 +27903,7 @@ the_AT0
 New_AJ0
 South_NN1
 Wales_NP0
-Swimming_VVG-NN1
+Swimming_NN1
 Association_NN1
 invited_VVN
 Duke_NN1
@@ -27942,7 +27942,7 @@ a_AT0
 board_NN1
 he_PNP
 had_VHD
-carved_AJ0
+carved_VVN
 out_AVP
 of_PRF
 sugar_NN1
@@ -28151,7 +28151,7 @@ surf-going_AJ0
 one_CRD
 Duke_NN1
 Kahanamoku_NP0
-begat_NN1-VVB
+begat_VVB
 surfing_VVG
 he_PNP
 was_VBD
@@ -28237,7 +28237,7 @@ Wayne_NP0
 in_PRP
 the_AT0
 1948_CRD
-Wake_VVB-NN1
+Wake_NN1
 of_PRF
 the_AT0
 Red_AJ0
@@ -28311,7 +28311,7 @@ became_VVD
 Sheriff_NN1
 of_PRF
 Honolulu_NP0
-Official_AJ0-NN1
+Official_AJ0
 Greeter_NN1
 and_CJC
 Hawaii_NP0
@@ -28336,7 +28336,7 @@ his_DPS
 boat_NN1
 at_PRP
 the_AT0
-Waikiki_NN1-NP0
+Waikiki_NN1
 Yacht_NN1
 Club_NN1
 his_DPS
@@ -28344,7 +28344,7 @@ ashes_NN2
 were_VBD
 scattered_VVN
 over_PRP
-Kalahuewehe_NP0-NN1
+Kalahuewehe_NN1
 break_VVI
 In_PRP
 the_AT0
@@ -28357,9 +28357,9 @@ century_NN1
 hardly_AV0
 anyone_PNI
 surfed_VVD
-Kalahuewehe_NP0-NN1
+Kalahuewehe_NN1
 First_ORD
-Break_NN1-VVB
+Break_VVB
 off_AVP
 Diamond_NN1
 Head_NN1
@@ -28383,14 +28383,14 @@ the_AT0
 North_NN1
 Shore_NP0
 in_PRP
-Waikiki_NN1-NP0
+Waikiki_NN1
 In_PRP
 1917_CRD
 Duke_NN1
 had_VHD
 ridden_VVN
 a_AT0
-Kalahuewehe_NP0-NN1
+Kalahuewehe_NN1
 wave_NN1
 half_DT0
 a_AT0
@@ -28408,7 +28408,7 @@ Hotel_NN1
 where_AVQ
 now_AV0
 the_AT0
-ASP_NN1-NP0
+ASP_NN1
 annual_AJ0
 banquet_NN1
 is_VBZ
@@ -28486,7 +28486,7 @@ a_AT0
 rumour_NN1
 had_VHD
 swept_VVN
-Waikiki_NN1-NP0
+Waikiki_NN1
 that_CJT
 the_AT0
 Bluebirds_NP0
@@ -28533,9 +28533,9 @@ his_DPS
 Papa_NN1
 nui_NN2
 a_AT0
-sixteen-foot_AJ0-NN1
+sixteen-foot_AJ0
 hundred-and-fourteen-pound_UNC
-semi-hollow_AJ0-NN1
+semi-hollow_NN1
 Tom_NP0
 Blake_NP0
 board_NN1
@@ -28569,7 +28569,7 @@ string_NN1
 of_PRF
 freight_NN1
 cars_NN2
-roaring_VVG
+roaring_AJ0
 over_PRP
 a_AT0
 trestle_NN1
@@ -28685,7 +28685,7 @@ and_CJC
 speed_NN1
 seemed_VVD
 right_NN1
-Left_AJ0-NN1
+Left_AJ0
 foot_NN1
 forwards_AV0
 knees_NN2
@@ -28730,7 +28730,7 @@ wave_NN1
 I_PNP
 was_VBD
 on_PRP
-Spray_VVB-NN1
+Spray_NN1
 was_VBD
 spuming_VVG
 up_AVP
@@ -28787,7 +28787,7 @@ and_CJC
 slanted_VVD
 through_PRP
 into_PRP
-Public_AJ0-NN1
+Public_AJ0
 Baths_NN2
 Surf_NN1
 Three_CRD
@@ -28825,7 +28825,7 @@ to_TO0
 keep_VVI
 from_PRP
 pearling_VVG
-Left_AJ0-NN1
+Left_AJ0
 it_PNP
 was_VBD
 left_VVN
@@ -28901,7 +28901,7 @@ and_CJC
 bouncing_VVG
 through_PRP
 the_AT0
-lunatic_AJ0-NN1
+lunatic_AJ0
 water_NN1
 That_DT0
 ride_VVI
@@ -28911,7 +28911,7 @@ across_PRP
 Elks_NP0
 Cunhas_NP0
 and_CJC
-Public_AJ0-NN1
+Public_AJ0
 Baths_NN2
 as_CJS
 far_AV0
@@ -29135,7 +29135,7 @@ title_NN1
 one_CRD
 of_PRF
 the_AT0
-tabloid_AJ0-NN1
+tabloid_AJ0
 headlines_NN2
 in_PRP
 England_NP0
@@ -29164,7 +29164,7 @@ winter_NN1
 and_CJC
 the_AT0
 Eddie_NP0
-Aikau_NP0-NN1
+Aikau_NP0
 David_NP0
 Kahanamoku_NP0
 Duke_NN1
@@ -29307,16 +29307,16 @@ round_AVP
 its_DPS
 body_NN1
 When_CJS
-water-depth_NN1-AJ0
+water-depth_AJ0
 decreases_VVZ
 to_TO0
 1.3_CRD
 times_NN2
-wave-height_AJ0-NN1
+wave-height_AJ0
 the_AT0
 wave_NN1
 is_VBZ
-compressed_AJ0
+compressed_VVN
 its_DPS
 steepness_NN1
 rises_VVZ
@@ -29335,13 +29335,13 @@ a_AT0
 tilted_VVN
 ellipse_NN1
 The_AT0
-onrushing_AJ0-NN1
+onrushing_NN1
 crest_NN1
-dips_VVZ-NN2
+dips_VVZ
 below_AV0
 the_AT0
 critical_AJ0
-120-degree_AJ0-NN1
+120-degree_AJ0
 angle_NN1
 and_CJC
 falls_VVZ
@@ -29449,7 +29449,7 @@ speed_NN1
 and_CJC
 height_NN1
 Sometimes_AV0
-converging_VVG-AJ0
+converging_VVG
 swells_NN2
 will_VM0
 synchronize_VVI
@@ -29506,7 +29506,7 @@ breaking_VVG
 but_CJC
 they_PNP
 can_VM0
-stretch_VVI
+stretch_NN1
 to_TO0
 as_CJS
 much_DT0
@@ -29515,7 +29515,7 @@ a_AT0
 thousand_CRD
 feet_NN2
 The_AT0
-average_AJ0-NN1
+average_AJ0
 ocean_NN1
 wave_NN1
 is_VBZ
@@ -29534,7 +29534,7 @@ the_AT0
 height_NN1
 of_PRF
 the_AT0
-average_AJ0-NN1
+average_AJ0
 wave_NN1
 One_CRD
 in_PRP
@@ -29544,7 +29544,7 @@ over_PRP
 three_CRD
 times_NN2
 the_AT0
-average_AJ0-NN1
+average_AJ0
 But_CJC
 the_AT0
 totality_NN1
@@ -29575,7 +29575,7 @@ with_PRP
 them_PNP
 in_PRP
 the_AT0
-wine-dark_AJ0-NN1
+wine-dark_AJ0
 sea_NN1
 of_PRF
 the_AT0
@@ -29593,7 +29593,7 @@ mythic_AJ0
 monsters_NN2
 were_VBD
 as_CJS
-dwarves_VVZ-NN2
+dwarves_VVZ
 to_TO0
 the_AT0
 waves_NN2
@@ -29609,8 +29609,8 @@ watch_VVI
 officer_NN1
 aboard_PRP
 the_AT0
-USS_NN1-NP0
-Ramapo_NN1-NP0
+USS_NP0
+Ramapo_NP0
 patrolling_VVG
 the_AT0
 North_NN1
@@ -29641,7 +29641,7 @@ seventy_CRD
 knots_NN2
 that_CJT
 the_AT0
-Ramapo_NN1-NP0
+Ramapo_NP0
 encountered_VVN
 the_AT0
 biggest_AJS
@@ -29684,7 +29684,7 @@ to_TO0
 tell_VVI
 the_AT0
 tale_NN1
-Flying_AJ0-VVG
+Flying_VVG
 saucers_NN2
 and_CJC
 kidnapping_NN1
@@ -29823,7 +29823,7 @@ own_DT0
 ends_NN2
 he_PNP
 had_VHD
-coupled_VVN-VVD
+coupled_VVN
 it_PNP
 to_TO0
 revolution_NN1
@@ -29857,7 +29857,7 @@ his_DPS
 newly_AV0
 married_AJ0
 daughter_NN1
-L\xc3\xa9opoldine_NP0-NN1
+L\xc3\xa9opoldine_NP0
 and_CJC
 her_DPS
 husband_NN1
@@ -29961,7 +29961,7 @@ he_PNP
 had_VHD
 assumed_VVN
 the_AT0
-annihilating_AJ0-NN1
+annihilating_NN1
 impact_NN1
 of_PRF
 that_CJT
@@ -29993,7 +29993,7 @@ phases_NN2
 Autrefois_UNC
 Before_PRP
 and_CJC
-Aujourd'hui_NP0-NN1
+Aujourd'hui_NP0
 Today_AV0
 the_AT0
 dividing_VVG
@@ -30019,7 +30019,7 @@ of_PRF
 the_AT0
 sea_NN1
 the_AT0
-hydra-headed_AJ0-NN1
+hydra-headed_NN1
 dragon_NN1
 which_DTQ
 had_VHD
@@ -30130,7 +30130,7 @@ hurricane_NN1
 above_PRP
 If_CJS
 its_DPS
-roaring_VVG
+roaring_AJ0
 was_VBD
 not_XX0
 speech_NN1
@@ -30146,7 +30146,7 @@ all_DT0
 been_VBN
 affected_VVN
 by_PRP
-wave-fever_NN1-AJ0
+wave-fever_AJ0
 all_DT0
 of_PRF
 them_PNP
@@ -30185,7 +30185,7 @@ the_AT0
 waves_NN2
 the_AT0
 less_AV0
-scriptural_AJ0-NN1
+scriptural_AJ0
 the_AT0
 culture_NN1
 The_AT0
@@ -30268,7 +30268,7 @@ surfs_NN2
 and_CJC
 great_AJ0
 waves_NN2
-crashing_VVG-AJ0
+crashing_VVG
 against_PRP
 the_AT0
 Hawaiian_AJ0
@@ -30281,7 +30281,7 @@ and_CJC
 the_AT0
 Resolution_NN1
 from_PRP
-docking_NN1-VVG
+docking_VVG
 On_PRP
 17_CRD
 January_NP0
@@ -30321,7 +30321,7 @@ Cook_NP0
 was_VBD
 worshipped_VVN
 as_CJS
-Lono_NP0-NN1
+Lono_NN1
 god_NN1
 of_PRF
 peace_NN1
@@ -30334,7 +30334,7 @@ prostrated_VVD
 themselves_PNX
 before_PRP
 him_PNP
-Lono_NP0-NN1
+Lono_NN1
 who_PNQ
 came_VVD
 forth_AV0
@@ -30388,12 +30388,12 @@ are_VBB
 the_AT0
 men_NN2
 who_PNQ
-paddle_VVI
+paddle_VVB
 out_AVP
 If_CJS
 Sunset_NN1
 Beach_NN1
-Banzai_AJ0
+Banzai_NN1
 Pipeline_NN1
 and_CJC
 Waimea_NP0
@@ -30465,7 +30465,7 @@ claims_NN2
 of_PRF
 tradition_NN1
 and_CJC
-media-exploitation_NN1-AJ0
+media-exploitation_NN1
 divided_VVN
 in_PRP
 their_DPS
@@ -30476,7 +30476,7 @@ Ken_NP0
 Bradshaw_NP0
 and_CJC
 Mark_NP0
-Foo_NP0-NN1
+Foo_NP0
 two_CRD
 of_PRF
 the_AT0
@@ -30589,7 +30589,7 @@ time_NN1
 of_PRF
 day_NN1
 Mark_NP0
-Foo_NP0-NN1
+Foo_NP0
 is_VBZ
 more_AV0
 in_PRP
@@ -30614,7 +30614,7 @@ with_PRP
 a_AT0
 dash_NN1
 of_PRF
-French_AJ0-NN1
+French_AJ0
 blood_NN1
 in_PRP
 his_DPS
@@ -30710,7 +30710,7 @@ coverage_NN1
 No_ITJ
 photos_NN2
 no_AT0
-Foo_NP0-NN1
+Foo_NP0
 There_EX0
 was_VBD
 no_AT0
@@ -30721,7 +30721,7 @@ Ken_NP0
 Bradshaw_NP0
 and_CJC
 Mark_NP0
-Foo_NP0-NN1
+Foo_NP0
 But_CJC
 there_EX0
 was_VBD
@@ -30745,7 +30745,7 @@ clown_NN1
 pure_AJ0
 showman_NN1
 and_CJC
-extrovert_NN1-AJ0
+extrovert_AJ0
 the_AT0
 big-wave_AJ0
 riders_NN2
@@ -30766,8 +30766,8 @@ to_TO0
 be_VBI
 known_VVN
 as_CJS
-Ace_AJ0-NN1
-Cool_VVB
+Ace_NN1
+Cool_AJ0
 A_AT0
 real_AJ0
 estate_NN1
@@ -30893,7 +30893,7 @@ predictable_AJ0
 almost_AV0
 like_PRP
 a_AT0
-machine-wave_NN1-AJ0
+machine-wave_AJ0
 breaking_VVG
 at_PRP
 virtually_AV0
@@ -30929,7 +30929,7 @@ been_VBN
 described_VVN
 as_CJS
 a_AT0
-lunatic_AJ0-NN1
+lunatic_AJ0
 washing_NN1
 machine_NN1
 On_PRP
@@ -30946,7 +30946,7 @@ toilet_NN1
 Guys_NN2
 were_VBD
 getting_VVG
-flushed_VVN
+flushed_VVD
 away_AV0
 Bradshaw_NP0
 himself_PNX
@@ -30955,7 +30955,7 @@ picked_VVD
 off_AVP
 by_PRP
 a_AT0
-thirty-footer_NN1-AJ0
+thirty-footer_AJ0
 and_CJC
 lost_VVN
 his_DPS
@@ -30976,7 +30976,7 @@ end_NN1
 of_PRF
 the_AT0
 Bay_NN1
-wedged_VVN-VVD
+wedged_VVN
 between_PRP
 the_AT0
 point_NN1
@@ -30998,7 +30998,7 @@ towards_PRP
 Coffin_NN1
 Corner_NN1
 the_AT0
-shipwrecking_AJ0-NN1
+shipwrecking_AJ0
 rocks_NN2
 at_PRP
 the_AT0
@@ -31012,7 +31012,7 @@ angled_AJ0
 out_AVP
 to_TO0
 sea_NN1
-carved_AJ0
+carved_VVN
 round_AVP
 then_AV0
 tried_VVD
@@ -31266,7 +31266,7 @@ Jones_NP0
 who_PNQ
 had_VHD
 pioneered_VVD
-tube-riding_NN1-AJ0
+tube-riding_AJ0
 at_PRP
 Waimea_NP0
 in_PRP
@@ -31274,7 +31274,7 @@ the_AT0
 seventies_CRD
 paddled_VVD
 out_AVP
-Foo_NP0-NN1
+Foo_NP0
 and_CJC
 Cooke_NP0
 decided_VVD
@@ -31305,7 +31305,7 @@ a_AT0
 thirty-foot_AJ0
 tube_NN1
 which_DTQ
-Foo_NP0-NN1
+Foo_NP0
 described_VVN
 as_CJS
 a_AT0
@@ -31396,13 +31396,13 @@ looked_VVD
 up_AVP
 and_CJC
 the_AT0
-mammoth_AJ0-NN1
+mammoth_AJ0
 wave_NN1
 of_PRF
 all_DT0
 time_NN1
 a_AT0
-titan_NN1-AJ0
+titan_NN1
 among_PRP
 giants_NN2
 a_AT0
@@ -31440,7 +31440,7 @@ of_PRF
 that_CJT
 wave_NN1
 vary_VVB
-Foo_NP0-NN1
+Foo_NP0
 says_VVZ
 it_PNP
 was_VBD
@@ -31486,7 +31486,7 @@ the_AT0
 North_NN1
 Shore_NP0
 To_TO0
-Foo_NP0-NN1
+Foo_NP0
 it_PNP
 seemed_VVD
 so_AV0
@@ -31502,11 +31502,11 @@ big_AJ0
 wave_NN1
 that_CJT
 his_DPS
-initial_AJ0-NN1
+initial_AJ0
 reaction_NN1
 was_VBD
 to_TO0
-laugh_VVI
+laugh_NN1
 The_AT0
 freak_AJ0
 wave_NN1
@@ -31533,7 +31533,7 @@ bottom_NN1
 Twenty-five_CRD
 feet_NN2
 down_AVP
-Foo_NP0-NN1
+Foo_NP0
 rolled_VVD
 over_PRP
 and_CJC
@@ -31611,7 +31611,7 @@ minutes_NN2
 he_PNP
 was_VBD
 getting_VVG
-pulped_VVN-AJ0
+pulped_VVN
 by_PRP
 the_AT0
 shorebreak_NN1
@@ -31629,7 +31629,7 @@ Three_CRD
 times_NN2
 Cooke_NP0
 was_VBD
-pitched_AJ0
+pitched_VVD
 out_AVP
 by_PRP
 the_AT0
@@ -31667,7 +31667,7 @@ but_CJC
 ridicule_NN1
 and_CJC
 humiliation_NN1
-Foo_NP0-NN1
+Foo_NP0
 was_VBD
 alone_AJ0
 At_PRP
@@ -31709,7 +31709,7 @@ the_AT0
 more_AV0
 amenable_AJ0
 waves_NN2
-Foo_NP0-NN1
+Foo_NP0
 at_PRP
 last_ORD
 resolved_VVN
@@ -31756,7 +31756,7 @@ inside_PRP
 of_PRF
 a_AT0
 bottle_NN1
-Foo_NP0-NN1
+Foo_NP0
 was_VBD
 beyond_PRP
 the_AT0
@@ -31803,7 +31803,7 @@ more_AV0
 like_PRP
 landing_NN1
 on_PRP
-concrete_AJ0-NN1
+concrete_AJ0
 than_CJS
 water_NN1
 He_PNP
@@ -31821,7 +31821,7 @@ down_AVP
 the_AT0
 face_NN1
 Ted_NP0
-Deerhurst_NP0-NN1
+Deerhurst_NN1
 is_VBZ
 one_CRD
 of_PRF
@@ -31842,7 +31842,7 @@ the_AT0
 roof_NN1
 of_PRF
 a_AT0
-three-storey_AJ0-NN1
+three-storey_AJ0
 house_NN1
 he_PNP
 said_VVD
@@ -31859,7 +31859,7 @@ street_NN1
 The_AT0
 house_NN1
 chased_VVN
-Foo_NP0-NN1
+Foo_NP0
 caught_VVN
 him_PNP
 and_CJC
@@ -31871,9 +31871,9 @@ him_PNP
 obliterating_VVG
 his_DPS
 nine-foot_AJ0
-three-stringer_AJ0-NN1
+three-stringer_AJ0
 Lundy_NN1
-Foo_NP0-NN1
+Foo_NP0
 's_POS
 luck_NN1
 held_VVN
@@ -31883,7 +31883,7 @@ given_VVN
 the_AT0
 most_AV0
 cathartic_AJ0
-laundering_NN1-VVG
+laundering_NN1
 of_PRF
 his_DPS
 life_NN1
@@ -31932,7 +31932,7 @@ Day_NN1
 of_PRF
 the_AT0
 Biggest_AJS
-Wave_NN1-VVB
+Wave_NN1
 Never_AV0
 Ridden_VVN
 So_AV0
@@ -31956,7 +31956,7 @@ should_VM0
 go_VVI
 to_TO0
 Darrick_NP0
-Doerner_NP0-NN1
+Doerner_NP0
 a_AT0
 sinewy_AJ0
 red-haired_AJ0
@@ -31980,7 +31980,7 @@ period_NN1
 for_PRP
 the_AT0
 Eddie_NP0
-Aikau_NP0-NN1
+Aikau_NP0
 In_PRP
 the_AT0
 morning_NN1
@@ -32031,9 +32031,9 @@ thirty_CRD
 feet_NN2
 but_CJC
 still_AV0
-well-formed_VVN
-Doerner_NP0-NN1
-Foo_NP0-NN1
+well-formed_AJ0
+Doerner_NP0
+Foo_NP0
 and_CJC
 Bradshaw_NP0
 all_DT0
@@ -32054,13 +32054,13 @@ it_PNP
 is_VBZ
 possible_AJ0
 to_TO0
-slide_VVI
+slide_NN1
 into_PRP
 waves_NN2
 of_PRF
 this_DT0
 size_NN1
-Doerner_NP0-NN1
+Doerner_NP0
 alone_AJ0
 was_VBD
 in_PRP
@@ -32092,11 +32092,11 @@ After_PRP
 that_CJT
 the_AT0
 Bay_NN1
-shut_VVB
+shut_VVN
 down_AVP
 Bradshaw_NP0
-Foo_NP0-NN1
-Doerner_NP0-NN1
+Foo_NP0
+Doerner_NP0
 Cooke_NP0
 each_DT0
 of_PRF
@@ -32112,7 +32112,7 @@ was_VBD
 speculation_NN1
 that_CJT
 the_AT0
-sixteen-foot_AJ0-NN1
+sixteen-foot_AJ0
 olos_NN2
 of_PRF
 their_DPS
@@ -32153,7 +32153,7 @@ the_AT0
 moon_NN1
 and_CJC
 finding_VVG
-footprints_NN2-VVZ
+footprints_NN2
 in_PRP
 the_AT0
 dust_NN1
@@ -32179,7 +32179,7 @@ take_VVI
 to_TO0
 be_VBI
 a_AT0
-virgin_NN1-AJ0
+virgin_AJ0
 Himalayan_AJ0
 peak_NN1
 find_VVI
@@ -32187,11 +32187,11 @@ a_AT0
 sign_NN1
 saying_VVG
 M._NN1
-Durand_NP0-NN1
+Durand_NN1
 Dentist_NN1
 14_CRD
 rue_NN1
-Caumartin_NP0-NN1
+Caumartin_NN1
 Paris_NP0
 I_PNP
 ONCE_AV0
@@ -32205,7 +32205,7 @@ who_PNQ
 was_VBD
 on_PRP
 the_AT0
-Tour_NN1-VVB
+Tour_NN1
 but_CJC
 also_AV0
 liked_VVD
@@ -32267,7 +32267,7 @@ more_AV0
 cojones_NN2
 than_CJS
 the_AT0
-average_AJ0-NN1
+average_AJ0
 human_AJ0
 being_VBG
 and_CJC
@@ -32292,7 +32292,7 @@ time_NN1
 I_PNP
 saw_VVD
 Mark_NP0
-Foo_NP0-NN1
+Foo_NP0
 he_PNP
 had_VHD
 two_CRD
@@ -32305,7 +32305,7 @@ time_NN1
 I_PNP
 saw_VVD
 Mark_NP0
-Foo_NP0-NN1
+Foo_NP0
 he_PNP
 had_VHD
 two_CRD
@@ -32419,7 +32419,7 @@ When_CJS
 I_PNP
 saw_VVD
 him_PNP
-dancing_VVG
+dancing_NN1
 at_PRP
 the_AT0
 Saturday_NP0
@@ -32505,7 +32505,7 @@ one_CRD
 thing_NN1
 in_PRP
 common_AJ0
-Foo_NP0-NN1
+Foo_NP0
 was_VBD
 a_AT0
 writer_NN1
@@ -32534,7 +32534,7 @@ won_VVD
 a_AT0
 prize_NN1
 for_PRP
-French_AJ0-NN1
+French_AJ0
 poetry_NN1
 composition_NN1
 at_PRP
@@ -32543,9 +32543,9 @@ so_AV0
 I_PNP
 did_VDD
 n't_XX0
-feel_VVI
+feel_VVB
 too_AV0
-outclassed_AJ0-VVN
+outclassed_AJ0
 in_PRP
 this_DT0
 respect_NN1
@@ -32596,9 +32596,9 @@ was_VBD
 an_AT0
 actor_NN1
 a_AT0
-hype-artist_NN1-AJ0
+hype-artist_AJ0
 an_AT0
-image-projector_NN1-AJ0
+image-projector_AJ0
 This_DT0
 was_VBD
 true_AJ0
@@ -32729,12 +32729,12 @@ between_PRP
 you_PNP
 and_CJC
 castration_NN1
-Foo_NP0-NN1
+Foo_NP0
 started_VVD
 out_AVP
 on_PRP
 the_AT0
-Tour_NN1-VVB
+Tour_NN1
 but_CJC
 narrowed_VVD
 his_DPS
@@ -32902,10 +32902,10 @@ hell_NN1
 of_PRF
 it_PNP
 But_CJC
-Foo_NP0-NN1
+Foo_NP0
 hated_VVD
 heights_NN2
-fast_AV0-AJ0
+fast_AJ0
 cars_NN2
 motorbikes_NN2
 even_AV0
@@ -32989,9 +32989,9 @@ was_VBD
 a_AT0
 yogi_NN1
 a_AT0
-fire-eater_NN1-AJ0
+fire-eater_AJ0
 a_AT0
-knife-swallower_NN1-AJ0
+knife-swallower_AJ0
 with_PRP
 total_AJ0
 control_NN1
@@ -33082,7 +33082,7 @@ old_AJ0
 man_NN1
 's_POS
 wave_NN1
-Foo_NP0-NN1
+Foo_NP0
 was_VBD
 perceived_VVN
 as_CJS
@@ -33110,7 +33110,7 @@ the_AT0
 ageing_AJ0
 marshal_VVI
 He_PNP
-strapped_VVN-VVD
+strapped_VVN
 on_PRP
 his_DPS
 three-fin_NN1
@@ -33185,9 +33185,9 @@ in_PRP
 the_AT0
 1986_CRD
 Eddie_NP0
-Aikau_NP0-NN1
+Aikau_NP0
 when_CJS
-Foo_NP0-NN1
+Foo_NP0
 was_VBD
 second_ORD
 I_PNP
@@ -33195,7 +33195,7 @@ could_VM0
 sense_NN1
 how_AVQ
 badly_AV0
-Foo_NP0-NN1
+Foo_NP0
 wanted_VVD
 the_AT0
 Eddie_NP0
@@ -33296,7 +33296,7 @@ feet_NN2
 The_AT0
 idea_NN1
 of_PRF
-dying_VVG-AJ0
+dying_AJ0
 did_VDD
 n't_XX0
 worry_VVI
@@ -33353,7 +33353,7 @@ easy_AJ0
 as_CJS
 Outer_AJ0
 Space_NN1
-Foo_NP0-NN1
+Foo_NP0
 saw_VVD
 the_AT0
 waves_NN2
@@ -33456,7 +33456,7 @@ crazy_AJ0
 he_PNP
 said_VVD
 to_TO0
-Bodo_NP0-NN1
+Bodo_NP0
 later_AV0
 taking_VVG
 that_CJT
@@ -33491,7 +33491,7 @@ to_TO0
 one_CRD
 of_PRF
 the_AT0
-Haleiwa_NP0-NN1
+Haleiwa_NP0
 psychics_NN2
 We_PNP
 had_VHD
@@ -33575,7 +33575,7 @@ But_CJC
 just_AV0
 as_CJS
 at_PRP
-Lani_NP0-NN1
+Lani_NP0
 's_POS
 I_PNP
 backed_VVN
@@ -33598,7 +33598,7 @@ I_PNP
 went_VVD
 to_TO0
 Mark_NP0
-Foo_NP0-NN1
+Foo_NP0
 's_POS
 house_NN1
 overlooking_VVG
@@ -33608,7 +33608,7 @@ and_CJC
 Joseanne_NP0
 were_VBD
 there_EX0
-Foo_NP0-NN1
+Foo_NP0
 was_VBD
 still_AV0
 in_PRP
@@ -33627,21 +33627,21 @@ the_AT0
 same_DT0
 paragraph_NN1
 as_CJS
-Ace_AJ0-NN1
+Ace_NN1
 That_DT0
 was_VBD
 what_DTQ
 Mark_NP0
-Foo_NP0-NN1
+Foo_NP0
 had_VHD
 said_VVD
 to_TO0
 me_PNP
-Ace_AJ0-NN1
-Cool_VVB
+Ace_NN1
+Cool_AJ0
 lived_VVD
 at_PRP
-Jocko_NP0-NN1
+Jocko_NP0
 's_POS
 But_CJC
 it_PNP
@@ -33651,13 +33651,13 @@ the_AT0
 Coffee_NN1
 Gallery_NN1
 in_PRP
-Haleiwa_NP0-NN1
+Haleiwa_NP0
 that_CJT
-Bodo_NP0-NN1
+Bodo_NP0
 first_ORD
 introduced_VVN
 us_PNP
-Bodo_NP0-NN1
+Bodo_NP0
 and_CJC
 I_PNP
 had_VHD
@@ -33671,7 +33671,7 @@ Mark_NP0
 Cunningham_NP0
 but_CJC
 when_CJS
-Ace_AJ0-NN1
+Ace_NN1
 found_VVD
 out_AVP
 I_PNP
@@ -33700,7 +33700,7 @@ scoop_NN1
 on_PRP
 the_AT0
 Biggest_AJS
-Wave_NN1-VVB
+Wave_NN1
 story_NN1
 the_AT0
 thirty-five-foot_AJ0
@@ -33726,7 +33726,7 @@ mother_NN1
 of_PRF
 all_DT0
 waves_NN2
-rear_AJ0-NN1
+rear_NN1
 up_AVP
 out_AVP
 of_PRF
@@ -33734,7 +33734,7 @@ the_AT0
 water_NN1
 This_DT0
 was_VBD
-Ace_AJ0-NN1
+Ace_NN1
 's_POS
 wave_NN1
 the_AT0
@@ -33775,7 +33775,7 @@ tree_NN1
 that_CJT
 overhung_VVN
 a_AT0
-two-storey_AJ0-NN1
+two-storey_AJ0
 building_NN1
 and_CJC
 dissolved_VVN
@@ -33785,10 +33785,10 @@ inky_AJ0
 heavens_NN2
 Postcards_NN2
 of_PRF
-Ace_AJ0-NN1
+Ace_NN1
 and_CJC
 the_AT0
-Wave_NN1-VVB
+Wave_NN1
 showing_VVG
 him_PNP
 flying_VVG
@@ -33817,10 +33817,10 @@ Search_NN1
 of_PRF
 the_AT0
 Biggest_AJS
-Wave_NN1-VVB
+Wave_NN1
 And_CJC
 yet_AV0
-Ace_AJ0-NN1
+Ace_NN1
 was_VBD
 unhappy_AJ0
 I_PNP
@@ -33958,7 +33958,7 @@ one_CRD
 of_PRF
 these_DT0
 that_CJT
-Ace_AJ0-NN1
+Ace_NN1
 was_VBD
 planning_NN1
 another_DT0
@@ -34004,7 +34004,7 @@ calling_VVG
 it_PNP
 The_AT0
 Biggest_AJS
-Wave_NN1-VVB
+Wave_NN1
 Mission_NN1
 He_PNP
 made_VVN
@@ -34062,7 +34062,7 @@ though_CJS
 win_VVI
 or_CJC
 lose_VVI
-Ace_AJ0-NN1
+Ace_NN1
 expected_VVN
 to_TO0
 get_VVI
@@ -34191,7 +34191,7 @@ I_PNP
 'm_VBB
 going_VVG
 to_TO0
-license_NN1-VVB
+license_VVB
 my_DPS
 name_NN1
 I_PNP
@@ -34208,7 +34208,7 @@ be_VBI
 all_DT0
 over_PRP
 your_DPS
-tee-shirt_NN1-AJ0
+tee-shirt_NN1
 and_CJC
 coffee_NN1
 mug_NN1
@@ -34228,12 +34228,12 @@ household_NN1
 word_NN1
 After_PRP
 Joe_NP0
-Cool_VVB
-Ace_AJ0-NN1
-Cool_VVB
+Cool_AJ0
+Ace_NN1
+Cool_AJ0
 I_PNP
 saw_VVD
-Ace_AJ0-NN1
+Ace_NN1
 becoming_VVG
 the_AT0
 toast_NN1
@@ -34249,7 +34249,7 @@ an_AT0
 audience_NN1
 with_PRP
 the_AT0
-Pope_NP0-NN1
+Pope_NP0
 shaking_VVG
 hands_NN2
 with_PRP
@@ -34269,7 +34269,7 @@ hook_NN1
 up_AVP
 with_PRP
 Jacques_NP0
-Cousteau_NP0-NN1
+Cousteau_NP0
 we_PNP
 could_VM0
 stay_VVI
@@ -34320,7 +34320,7 @@ think_VVB
 it_PNP
 's_POS
 rideable_AJ0
-Ace_AJ0-NN1
+Ace_NN1
 wanted_VVD
 to_TO0
 go_VVI
@@ -34343,7 +34343,7 @@ ultimate_AJ0
 orgasm_NN1
 Although_CJS
 like_PRP
-Asterix_NP0-NN1
+Asterix_NP0
 he_PNP
 attributed_VVN
 his_DPS
@@ -34361,7 +34361,7 @@ his_DPS
 druidical_AJ0
 sponsors_NN2
 Body_NN1
-Ammo_NN1-NP0
+Ammo_NN1
 he_PNP
 did_VDD
 n't_XX0
@@ -34583,7 +34583,7 @@ waiting_VVG
 Yea_ITJ
 though_CJS
 I_PNP
-walk_VVI
+walk_NN1
 through_PRP
 the_AT0
 valley_NN1
@@ -34599,7 +34599,7 @@ biggest_AJS
 surfboard_NN1
 ever_AV0
 built_VVN
-Ace_AJ0-NN1
+Ace_NN1
 was_VBD
 a_AT0
 touch_NN1
@@ -34650,12 +34650,12 @@ vacuum_NN1
 in_PRP
 the_AT0
 caf\xc3\xa9_NN1
-Bodo_NP0-NN1
+Bodo_NP0
 said_VVD
 I_PNP
 worry_VVI
 about_PRP
-Ace_AJ0-NN1
+Ace_NN1
 I_PNP
 hope_VVB
 he_PNP
@@ -34731,7 +34731,7 @@ Shore_NP0
 One_CRD
 lifeguard_NN1
 said_VVD
-Ace_AJ0-NN1
+Ace_NN1
 may_VM0
 not_XX0
 have_VHB
@@ -34800,7 +34800,7 @@ early_AJ0
 rounds_NN2
 of_PRF
 the_AT0
-ASP_NN1-NP0
+ASP_NN1
 contests_NN2
 but_CJC
 ten_CRD
@@ -34834,7 +34834,7 @@ much_DT0
 attention_NN1
 as_CJS
 the_AT0
-Pope_NP0-NN1
+Pope_NP0
 on_PRP
 the_AT0
 balcony_NN1
@@ -34915,7 +34915,7 @@ surfing_VVG
 caveman_NN1
 who_PNQ
 would_VM0
-bite_VVI
+bite_NN1
 chunks_NN2
 out_AVP
 of_PRF
@@ -34940,7 +34940,7 @@ Hercules_NP0
 demonstrating_VVG
 how_AVQ
 to_TO0
-tear_NN1-VVB
+tear_NN1
 up_AVP
 a_AT0
 telephone_NN1
@@ -34996,7 +34996,7 @@ created_VVN
 them_PNP
 too_AV0
 His_DPS
-shaping_VVG-AJ0
+shaping_VVG
 room_NN1
 had_VHD
 the_AT0
@@ -35011,10 +35011,10 @@ the_AT0
 mystery_NN1
 of_PRF
 a_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 laboratory_NN1
 He_PNP
-strapped_VVN-VVD
+strapped_VVN
 his_DPS
 patients_NN2
 to_TO0
@@ -35068,7 +35068,7 @@ bemasked_VVD
 conjuring_VVG
 up_AVP
 the_AT0
-ten-foot_AJ0-NN1
+ten-foot_AJ0
 plus_PRP
 boards_NN2
 that_CJT
@@ -35102,7 +35102,7 @@ locked_VVN
 within_PRP
 its_DPS
 smooth_AJ0
-husk_NN1-VVB
+husk_NN1
 the_AT0
 seed_NN1
 of_PRF
@@ -35197,7 +35197,7 @@ it_PNP
 up_AVP
 and_CJC
 maybe_AV0
-float_VVI
+float_VVB
 around_PRP
 on_PRP
 it_PNP
@@ -35368,7 +35368,7 @@ to_TO0
 it_PNP
 Better_AV0
 for_PRP
-pivoting_AJ0-VVG
+pivoting_AJ0
 The_AT0
 trouble_NN1
 is_VBZ
@@ -35412,7 +35412,7 @@ stayed_VVD
 dry_AJ0
 under_PRP
 his_DPS
-ten-foot_AJ0-NN1
+ten-foot_AJ0
 Waimea_NP0
 gun_NN1
 Ken_NP0
@@ -35449,7 +35449,7 @@ I_PNP
 heard_VVN
 he_PNP
 was_VBD
-vegetarian_AJ0-NN1
+vegetarian_AJ0
 Lacto-ovo-vegetarian_NP0
 he_PNP
 corrected_VVN
@@ -35481,7 +35481,7 @@ It_PNP
 was_VBD
 the_AT0
 most_AV0
-epic_AJ0-NN1
+epic_NN1
 winter_NN1
 the_AT0
 West_NP0
@@ -35637,14 +35637,14 @@ the_AT0
 first_ORD
 man_NN1
 to_TO0
-tube-ride_AJ0-NN1
+tube-ride_NN1
 Waimea_NP0
 Bradshaw_NP0
 became_VVD
 apprenticed_VVN
 to_TO0
 Eddie_NP0
-Aikau_NP0-NN1
+Aikau_NP0
 Eddie_NP0
 was_VBD
 his_DPS
@@ -35733,7 +35733,7 @@ There_EX0
 were_VBD
 thirty-five_CRD
 to_TO0
-forty-foot_AJ0-NN1
+forty-foot_AJ0
 sets_NN2
 It_PNP
 was_VBD
@@ -35995,7 +35995,7 @@ over_PRP
 twenty-five_CRD
 feet_NN2
 and_CJC
-feel_VVI
+feel_VVB
 comfortable_AJ0
 you_PNP
 have_VHB
@@ -36020,8 +36020,8 @@ Ken_NP0
 did_VDD
 n't_XX0
 believe_VVB
-Ace_AJ0-NN1
-Cool_VVB
+Ace_NN1
+Cool_AJ0
 had_VHD
 surfed_VVD
 a_AT0
@@ -36093,19 +36093,19 @@ man_NN1
 I_PNP
 met_VVD
 to_TO0
-laugh_VVI
+laugh_NN1
 at_PRP
 twenty-foot_AJ0
 waves_NN2
 Talking_VVG
 of_PRF
-Ace_AJ0-NN1
+Ace_NN1
 set_VVN
 him_PNP
 off_AVP
 on_PRP
 Mark_NP0
-Foo_NP0-NN1
+Foo_NP0
 Mark_NP0
 is_VBZ
 the_AT0
@@ -36183,7 +36183,7 @@ grips_NN2
 gloves_NN2
 rash_NN1
 guard_NN1
-stretch_VVI
+stretch_NN1
 shirts_NN2
 anything_PNI
 that_CJT
@@ -36194,7 +36194,7 @@ them_PNP
 and_CJC
 the_AT0
 wave_NN1
-Rubber_AJ0-NN1
+Rubber_AJ0
 wetsuits_NN2
 they_PNP
 regarded_VVN
@@ -36249,7 +36249,7 @@ gloves_NN2
 as_CJS
 a_AT0
 wedding_NN1
-present_AJ0-NN1
+present_AJ0
 by_PRP
 Roger_NP0
 my_DPS
@@ -36285,9 +36285,9 @@ Turtle_NN1
 Bay_NN1
 Hilton_NP0
 At_PRP
-Lani_NP0-NN1
+Lani_NP0
 's_POS
-Bodo_NP0-NN1
+Bodo_NP0
 told_VVD
 me_PNP
 to_TO0
@@ -36310,12 +36310,12 @@ with_PRP
 my_DPS
 Coogee_NN1
 Beach_NN1
-swallow-tail_AJ0-NN1
+swallow-tail_AJ0
 radical_AJ0
 intermediate_AJ0
 Bradshaw_NP0
 and_CJC
-Foo_NP0-NN1
+Foo_NP0
 were_VBD
 popularly_AV0
 supposed_AJ0
@@ -36452,7 +36452,7 @@ like_PRP
 going_VVG
 through_PRP
 a_AT0
-car-wash_NN1-AJ0
+car-wash_AJ0
 without_PRP
 a_AT0
 car_NN1

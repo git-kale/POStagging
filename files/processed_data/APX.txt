@@ -17,10 +17,10 @@ Fitch_NP0
 Finds_VVZ
 A_AT0
 New_AJ0
-Mooring_NP0-NN1
+Mooring_NN1
 CONTENTS_NN2
-Frontis_NN1-NP0
-Left_AJ0-NN1
+Frontis_NP0
+Left_AJ0
 the_AT0
 main_AJ0
 entrance_NN1
@@ -38,7 +38,7 @@ contrasting_AJ0
 materials_NN2
 Right_AV0
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 of_PRF
 the_AT0
 building_NN1
@@ -70,11 +70,11 @@ building_NN1
 Right_AV0
 below_AV0
 the_AT0
-oak-floored_AJ0-NN1
+oak-floored_AJ0
 corridor_NN1
 to_TO0
 the_AT0
-top-floor_AJ0-NN1
+top-floor_AJ0
 conference_NN1
 rooms_NN2
 London_NP0
@@ -275,7 +275,7 @@ the_AT0
 render_VVI
 on_PRP
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 elevation_NN1
 was_VBD
 largely_AV0
@@ -289,7 +289,7 @@ replaced_VVN
 with_PRP
 more_AV0
 sympathetically_AV0
-proportioned_VVN-AJ0
+proportioned_VVN
 ones_NN2
 in_PRP
 softwood_NN1
@@ -347,7 +347,7 @@ consciously_AV0
 modern_AJ0
 style_NN1
 White_AJ0
-Eternit_NN1-NP0
+Eternit_NN1
 panels_NN2
 are_VBB
 defined_VVN
@@ -432,12 +432,12 @@ steel_NN1
 Inside_AV0
 the_AT0
 warehouse_NN1
-feel_VVI
+feel_VVB
 has_VHZ
 been_VBN
 retained_VVN
 Studded_AJ0
-rubber_AJ0-NN1
+rubber_AJ0
 has_VHZ
 been_VBN
 used_VVN
@@ -564,7 +564,7 @@ doors_NN2
 open_AJ0
 from_PRP
 the_AT0
-oak-floored_AJ0-NN1
+oak-floored_AJ0
 corridor_NN1
 in_PRP
 the_AT0
@@ -700,7 +700,7 @@ The_AT0
 workload_NN1
 continues_VVZ
 to_TO0
-fall_VVI
+fall_NN1
 sharply_AV0
 with_PRP
 only_AV0
@@ -836,7 +836,7 @@ This_DT0
 gives_VVZ
 an_AT0
 annual_AJ0
-fall_VVI
+fall_NN1
 of_PRF
 37_CRD
 per_UNC
@@ -870,7 +870,7 @@ commissions_NN2
 continues_VVZ
 with_PRP
 a_AT0
-fall_VVI
+fall_NN1
 this_DT0
 quarter_NN1
 of_PRF
@@ -936,7 +936,7 @@ cent_UNC
 now_AV0
 expecting_VVG
 a_AT0
-fall_VVI
+fall_NN1
 Fourteen_CRD
 per_UNC
 cent_UNC
@@ -1048,7 +1048,7 @@ members_NN2
 Has_VHZ
 the_AT0
 Leisure_NN1
-Bubble_NN1-VVB
+Bubble_NN1
 Finally_AV0
 Burst_VVB
 The_AT0
@@ -1115,7 +1115,7 @@ operating_VVG
 environment_NN1
 for_PRP
 companies_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 leisure_NN1
 Commentators_NN2
@@ -1131,7 +1131,7 @@ come_VVI
 too_AV0
 far_AV0
 too_AV0
-fast_AV0-AJ0
+fast_AJ0
 and_CJC
 that_CJT
 the_AT0
@@ -1160,7 +1160,7 @@ by_PRP
 leisure_NN1
 markets_NN2
 with_PRP
-overall_AJ0-NN1
+overall_AJ0
 leisure_NN1
 spending_VVG
 growing_AJ0
@@ -1235,7 +1235,7 @@ have_VHB
 higher_AJC
 net_AJ0
 savings_NN2
-relative_AJ0-NN1
+relative_AJ0
 to_TO0
 their_DPS
 outstanding_AJ0
@@ -1349,7 +1349,7 @@ sector_NN1
 will_VM0
 remain_VVI
 buoyant_AJ0
-overall_AJ0-NN1
+overall_AJ0
 In_PRP
 the_AT0
 1990s_CRD
@@ -1524,7 +1524,7 @@ The_AT0
 Henley_NP0
 Centre_NN1
 Dulwich_NP0
-Picture_NN1-VVB
+Picture_NN1
 Gallery_NN1
 Winners_NN2
 Christopher_NP0
@@ -1566,7 +1566,7 @@ at_PRP
 Soane_NP0
 's_POS
 Dulwich_NP0
-Picture_NN1-VVB
+Picture_NN1
 Gallery_NN1
 They_PNP
 receive_VVI
@@ -1623,7 +1623,7 @@ Jonathan_NP0
 Neill_NP0
 and_CJC
 Tom_NP0
-Ringhoff_NP0-NN1
+Ringhoff_NP0
 and_CJC
 Brendon_NP0
 Phelan_NP0
@@ -1638,7 +1638,7 @@ Bowyer_NP0
 Brian_NP0
 Carter_NP0
 of_PRF
-Arup_NP0-NN1
+Arup_NN1
 Associates_NN2
 Leonard_NP0
 Manasseh_NP0
@@ -1814,7 +1814,7 @@ deliver_VVI
 his_DPS
 inaugural_AJ0
 lecture_NN1
-Function_NN1-VVB
+Function_NN1
 fashion_NN1
 and_CJC
 finance_NN1
@@ -1879,7 +1879,7 @@ are_VBB
 available_AJ0
 from_PRP
 PA_NN1
-Consulting_NN1-AJ0
+Consulting_AJ0
 Group_NN1
 Bowater_AJC
 House_NN1
@@ -1982,7 +1982,7 @@ RIBA_NP0
 Journal_NN1
 August_NP0
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 elevation_NN1
 of_PRF
 the_AT0
@@ -2034,7 +2034,7 @@ Football_NN1
 Club_NN1
 site_NN1
 at_PRP
-Craven_NP0-NN1
+Craven_NN1
 cottage_NN1
 RIBA_NP0
 Journal_NN1
@@ -2143,7 +2143,7 @@ Lecture_NN1
 titled_VVN
 City_NN1
 Policy_NN1
-Greenery_NP0-NN1
+Greenery_NN1
 the_AT0
 case_NN1
 of_PRF
@@ -2202,10 +2202,10 @@ analyses_NN2
 the_AT0
 work_NN1
 of_PRF
-French_AJ0-NN1
+French_AJ0
 architect_NN1
 Jean_NP0
-Prouv\xc3\xa9_NP0-NN1
+Prouv\xc3\xa9_NN1
 and_CJC
 on_PRP
 4_CRD
@@ -2213,11 +2213,11 @@ December_NP0
 Swiss_AJ0
 architects_NN2
 Jacques_NP0
-Herzog_NP0-NN1
+Herzog_NP0
 and_CJC
 Pierre_NP0
 de_NP0
-Meuron_NP0-NN1
+Meuron_NP0
 talk_VVI
 about_PRP
 their_DPS
@@ -2230,7 +2230,7 @@ programme_NN1
 for_PRP
 1991_CRD
 Edward_NP0
-Cullinan_NP0-NN1
+Cullinan_NP0
 will_VM0
 give_VVI
 the_AT0
@@ -2314,16 +2314,16 @@ Vitra_NP0
 Museum_NN1
 by_PRP
 Frank_NP0
-Gehry_NP0-NN1
+Gehry_NP0
 and_CJC
 the_AT0
 Financial_AJ0
 Times_NN2
-Printing_VVG-NN1
+Printing_VVG
 Works_NN0
 by_PRP
 Nicholas_NP0
-Grimshaw_NP0-NN1
+Grimshaw_NN1
 The_AT0
 work_NN1
 of_PRF
@@ -2406,7 +2406,7 @@ Edwardian_AJ0
 Garden_NN1
 Yale_NP0
 University_NN1
-Press_NN1-VVB
+Press_NN1
 1989_CRD
 has_VHZ
 won_VVD
@@ -2657,7 +2657,7 @@ in_PRP
 fact_NN1
 a_AT0
 substantial_AJ0
-stretch_VVI
+stretch_NN1
 of_PRF
 landfill_NN1
 between_PRP
@@ -2813,7 +2813,7 @@ and_CJC
 to_TO0
 escape_VVI
 trivialisation_NN1
-Visiting_AJ0-VVG
+Visiting_VVG
 a_AT0
 large_AJ0
 London_NP0
@@ -2825,7 +2825,7 @@ end_NN1
 of_PRF
 the_AT0
 1980\xe2\x80\x9388_CRD
-Gulf_NP0-NN1
+Gulf_NN1
 War_NN1
 I_PNP
 was_VBD
@@ -2893,9 +2893,9 @@ invasion_NN1
 of_PRF
 Kuwait_NP0
 the_AT0
-Export_NN1-VVB
-Credits_NN2-VVZ
-Guarantee_NN1-VVB
+Export_NN1
+Credits_NN2
+Guarantee_NN1
 Department_NN1
 must_VM0
 have_VHB
@@ -2990,7 +2990,7 @@ there_EX0
 is_VBZ
 to_TO0
 be_VBI
-twinning_AJ0
+twinning_VVG
 between_PRP
 the_AT0
 two_CRD
@@ -3101,7 +3101,7 @@ the_AT0
 exhibition_NN1
 from_PRP
 the_AT0
-one-man_AJ0-NN1
+one-man_AJ0
 band_NN1
 to_TO0
 the_AT0
@@ -3297,7 +3297,7 @@ be_VBI
 Frank_NP0
 Duffy_NP0
 of_PRF
-DEGW_NP0-NN1
+DEGW_NN1
 who_PNQ
 is_VBZ
 now_AV0
@@ -3350,7 +3350,7 @@ Allies_NN2
 and_CJC
 Morrison_NP0
 's_POS
-initial_AJ0-NN1
+initial_AJ0
 project_NN1
 for_PRP
 Pier_NN1
@@ -3532,7 +3532,7 @@ a_AT0
 memorandum_NN1
 from_PRP
 the_AT0
-Chief_NP0
+Chief_NN1
 Technical_AJ0
 Officer_NN1
 to_TO0
@@ -3567,7 +3567,7 @@ prepared_AJ0
 in_PRP
 accordance_NN1
 with_PRP
-Standing_VVG-NN1
+Standing_NN1
 Orders_NN2
 but_CJC
 on_PRP
@@ -3614,7 +3614,7 @@ a_AT0
 meeting_NN1
 with_PRP
 the_AT0
-Chief_NP0
+Chief_NN1
 Technical_AJ0
 Officer_NN1
 When_CJS
@@ -3948,14 +3948,14 @@ subjected_VVN
 Advice_NN1
 to_TO0
 the_AT0
-retired_AJ0
+retired_VVD
 If_CJS
 you_PNP
 have_VHB
-retired_AJ0
+retired_VVD
 then_AV0
 stay_VVI
-retired_AJ0
+retired_VVD
 The_AT0
 decision_NN1
 to_TO0
@@ -4046,7 +4046,7 @@ then_AV0
 you_PNP
 have_VHB
 n't_XX0
-retired_AJ0
+retired_VVD
 So_AV0
 make_VVI
 sure_AJ0
@@ -4077,7 +4077,7 @@ is_VBZ
 that_CJT
 while_CJS
 a_AT0
-retired_AJ0
+retired_VVD
 architect_NN1
 may_VM0
 be_VBI
@@ -4102,7 +4102,7 @@ the_AT0
 work_NN1
 he_PNP
 was_VBD
-involved_AJ0
+involved_VVN
 with_PRP
 while_CJS
 a_AT0
@@ -4113,7 +4113,7 @@ practice_NN1
 And_CJC
 for_PRP
 a_AT0
-retired_AJ0
+retired_VVD
 lone_AJ0
 practitioner_NN1
 a_AT0
@@ -4144,7 +4144,7 @@ the_AT0
 case_NN1
 of_PRF
 a_AT0
-retired_AJ0
+retired_VVD
 practitioner_NN1
 who_PNQ
 was_VBD
@@ -4191,7 +4191,7 @@ or_CJC
 not_XX0
 advised_VVN
 at_PRP
-all-_NN1-AJ0
+all-_NN1
 as_CJS
 to_TO0
 decide_VVI
@@ -4463,7 +4463,7 @@ judgement_NN1
 of_PRF
 the_AT0
 firm_NN1
-involved_AJ0
+involved_VVN
 and_CJC
 their_DPS
 clients_NN2
@@ -4527,7 +4527,7 @@ leading_AJ0
 insurance_NN1
 companies_NN2
 are_VBB
-grasping_VVG-AJ0
+grasping_VVG
 the_AT0
 nettle_NN1
 of_PRF
@@ -4577,11 +4577,11 @@ it_PNP
 But_CJC
 most_AV0
 architects_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 liability_NN1
 cases_NN2
-feel_VVI
+feel_VVB
 that_CJT
 there_EX0
 has_VHZ
@@ -4662,7 +4662,7 @@ seen_VVN
 just_AV0
 how_AVQ
 much_DT0
-notice_VVI
+notice_NN1
 the_AT0
 courts_NN2
 will_VM0
@@ -4896,7 +4896,7 @@ is_VBZ
 organised_VVN
 and_CJC
 the_AT0
-present_AJ0-NN1
+present_AJ0
 levels_NN2
 of_PRF
 funding_NN1
@@ -4935,7 +4935,7 @@ is_VBZ
 that_CJT
 when_CJS
 our_DPS
-present_AJ0-NN1
+present_AJ0
 Government_NN1
 sees_VVZ
 an_AT0
@@ -5066,7 +5066,7 @@ to_TO0
 Bob_NP0
 Giles_NP0
 '_POS
-gallery-targeted_AJ0-NN1
+gallery-targeted_NN1
 speech_NN1
 RIBA_NP0
 Journal_NN1
@@ -5097,7 +5097,7 @@ the_AT0
 despair_NN1
 of_PRF
 the_AT0
-average_AJ0-NN1
+average_AJ0
 member_NN1
 in_PRP
 the_AT0
@@ -5244,7 +5244,7 @@ and_CJC
 it_PNP
 is_VBZ
 the_AT0
-average_AJ0-NN1
+average_AJ0
 member_NN1
 who_PNQ
 bears_VVZ
@@ -5503,7 +5503,7 @@ Nr_PRP
 Leeds_NP0
 A_AT0
 Resigning_VVG
-Issue_NN1-VVB
+Issue_NN1
 So_AV0
 the_AT0
 house_NN1
@@ -5560,10 +5560,10 @@ be_VBI
 capable_AJ0
 of_PRF
 an_AT0
-act_VVI
+act_NN1
 of_PRF
 faith_NN1
-act_VVI
+act_NN1
 of_PRF
 lunacy_NN1
 more_AV0
@@ -5688,7 +5688,7 @@ it_PNP
 proposes_VVZ
 such_DT0
 a_AT0
-mammoth_AJ0-NN1
+mammoth_AJ0
 commitment_NN1
 It_PNP
 is_VBZ
@@ -6059,7 +6059,7 @@ is_VBZ
 to_TO0
 be_VBI
 the_AT0
-premier_AJ0-NN1
+premier_NN1
 one_CRD
 in_PRP
 England_NP0
@@ -6085,7 +6085,7 @@ finally_AV0
 my_DPS
 own_DT0
 personal_AJ0
-quibble_VVI
+quibble_NN1
 a_AT0
 drawings_NN2
 collection_NN1
@@ -6108,13 +6108,13 @@ context_NN1
 you_PNP
 described_VVN
 Cedric_NP0
-Price_NP0-NN1
+Price_NP0
 and_CJC
 others_NN2
 as_CJS
 suckers_NN2
 for_PRP
-listening_VVG-NN1
+listening_VVG
 to_TO0
 the_AT0
 likes_VVZ
@@ -6236,7 +6236,7 @@ of_PRF
 all_DT0
 the_AT0
 issues_NN2
-involved_AJ0
+involved_VVN
 the_AT0
 matter_NN1
 is_VBZ
@@ -6419,7 +6419,7 @@ be_VBI
 kept_VVD
 to_TO0
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 There_EX0
 is_VBZ
 another_DT0
@@ -6632,7 +6632,7 @@ and_CJC
 their_DPS
 buildings_NN2
 or_CJC
-listening_VVG-NN1
+listening_VVG
 to_TO0
 occasional_AJ0
 lectures_NN2
@@ -6684,7 +6684,7 @@ centre_NN1
 based_VVN
 round_AVP
 its_DPS
-internationally-celebrated_AJ0-NN1
+internationally-celebrated_NN1
 library_NN1
 and_CJC
 drawings_NN2
@@ -6735,7 +6735,7 @@ the_AT0
 profession_NN1
 to_TO0
 an_AT0
-act_VVI
+act_NN1
 of_PRF
 faith_NN1
 There_EX0
@@ -6807,7 +6807,7 @@ Paper_NN1
 Qualifications_NN2
 Your_DPS
 September_NP0
-editorial_AJ0-NN1
+editorial_NN1
 spoke_VVD
 out_AVP
 strongly_AV0
@@ -7032,7 +7032,7 @@ possible_AJ0
 that_CJT
 students_NN2
 are_VBB
-missing_VVG-AJ0
+missing_VVG
 out_AVP
 by_PRP
 being_VBG
@@ -7045,7 +7045,7 @@ for_PRP
 so_AV0
 long_AJ0
 Graham_NP0
-Price_NP0-NN1
+Price_NP0
 London_NP0
 WC2_UNC
 Diary_NN1
@@ -7071,7 +7071,7 @@ to_TO0
 attend_VVI
 Details_NN2
 Betty_NP0
-Nyss_NP0-NN1
+Nyss_NN1
 at_PRP
 the_AT0
 RIBA_NP0
@@ -7133,7 +7133,7 @@ Addison_NP0
 Jeremy_NP0
 Edwards_NP0
 Michael_NP0
-Managh_NP0-NN1
+Managh_NP0
 and_CJC
 Melanie_NP0
 Nelson_NP0
@@ -7290,7 +7290,7 @@ Competition_NN1
 for_PRP
 the_AT0
 Dulwich_NP0
-Picture_NN1-VVB
+Picture_NN1
 Gallery_NN1
 Presentation_NN1
 of_PRF
@@ -7313,7 +7313,7 @@ Design_NN1
 in_PRP
 the_AT0
 Second_ORD
-Machine_VVB-NN1
+Machine_NN1
 Age_NN1
 Martin_NP0
 Pawley_NP0
@@ -7331,7 +7331,7 @@ Lecture_NN1
 by_PRP
 Professor_NP0
 Gunter_NP0
-Behnisch_NP0-NN1
+Behnisch_NN1
 6_CRD
 November_NP0
 Building_NN1
@@ -7353,7 +7353,7 @@ Institute/RIBA_UNC
 Lecture_NN1
 City_NN1
 Policy_NN1
-Greenery_NP0-NN1
+Greenery_NN1
 the_AT0
 case_NN1
 of_PRF
@@ -7402,7 +7402,7 @@ The_AT0
 Work_NN1
 of_PRF
 Jean_NP0
-Prouv\xc3\xa9_NP0-NN1
+Prouv\xc3\xa9_NN1
 by_PRP
 Professor_NP0
 Peter_NP0
@@ -7500,9 +7500,9 @@ Lancashire_NP0
 Nov_NP0
 23_CRD
 October_NP0
-Planning_NN1-VVG
+Planning_NN1
 Control_NN1
-Update_NN1-VVB
+Update_VVB
 the_AT0
 new_AJ0
 planning_NN1
@@ -7513,7 +7513,7 @@ by_PRP
 RIBAS_NP0
 at_PRP
 The_AT0
-Cresta_NP0-NN1
+Cresta_NN1
 Court_NN1
 Hotel_NN1
 Altrincham_NP0
@@ -7572,7 +7572,7 @@ W1_UNC
 1_CRD
 November_NP0
 CAD_NN1
-Investing_VVG-AJ0
+Investing_VVG
 for_PRP
 the_AT0
 Future_NN1
@@ -7586,7 +7586,7 @@ Place_NP0
 November_NP0
 JCT_NP0
 Contracts_NN2
-Update_NN1-VVB
+Update_VVB
 RIBAS_NP0
 seminar_NN1
 at_PRP
@@ -7598,7 +7598,7 @@ W1_UNC
 15_CRD
 November_NP0
 High_AJ0
-Rise_NN1-VVB
+Rise_NN1
 90_CRD
 Organised_VVN
 by_PRP
@@ -7733,7 +7733,7 @@ Technology_NN1
 Jubilee_NN1
 Conference_NN1
 Tree_NN1
-Tops_NN2-VVZ
+Tops_NN2
 Hotel_NN1
 Aberdeen_NP0
 Details_NN2
@@ -7776,7 +7776,7 @@ Leeds_NP0
 Society_NN1
 of_PRF
 Architects_NN2
-Talk_VVB-NN1
+Talk_NN1
 by_PRP
 Ray_NP0
 Cecil_NP0
@@ -7882,7 +7882,7 @@ Details_NN2
 5291_CRD
 4\xe2\x80\x936_CRD
 December_NP0
-Housing_NN1-VVG
+Housing_NN1
 Centre_NN1
 Trust_NN1
 study_NN1
@@ -7956,9 +7956,9 @@ Details_NN2
 22_CRD
 October\xe2\x80\x932_AJ0
 November_NP0
-Walking_VVG-NN1
+Walking_VVG
 on_PRP
-Glass_NP0-NN1
+Glass_NN1
 The_AT0
 work_NN1
 of_PRF
@@ -8048,7 +8048,7 @@ Grande_NP0
 Halle_NP0
 de_NP0
 la_UNC
-Villette_NP0-NN1
+Villette_NN1
 Paris_NP0
 Details_NN2
 33_CRD
@@ -8114,7 +8114,7 @@ by_PRP
 Walter_NP0
 Bor_NP0
 at_PRP
-DEGW_NP0-NN1
+DEGW_NN1
 8_CRD
 Crinan_NP0
 Street_NP0
@@ -8127,7 +8127,7 @@ at_PRP
 p.m_AV0
 Details_NN2
 Philip_NP0
-Cave_NP0-NN1
+Cave_NP0
 071\xe2\x80\x93240_CRD
 2430_CRD
 31_CRD
@@ -8217,7 +8217,7 @@ Management_NN1
 conference_NN1
 at_PRP
 the_AT0
-Selfridge_NP0-NN1
+Selfridge_NN1
 Hotel_NN1
 London_NP0
 W1_UNC
@@ -8253,7 +8253,7 @@ Avoiding_VVG
 Disputes_NN2
 and_CJC
 Getting_VVG
-Paid_AJ0-VVN
+Paid_VVN
 Organised_VVN
 by_PRP
 James_NP0
@@ -8285,7 +8285,7 @@ October_NP0
 Design_NN1
 and_CJC
 Build_VVB
-Contracting_VVG-AJ0
+Contracting_AJ0
 School_NN1
 of_PRF
 Business_NN1
@@ -8333,11 +8333,11 @@ Details_NN2
 1510_CRD
 24_CRD
 October_NP0
-Planning_NN1-VVG
+Planning_NN1
 for_PRP
 Profit_NN1
 An_AT0
-Update_NN1-VVB
+Update_VVB
 Current_AJ0
 issues_NN2
 in_PRP
@@ -8358,14 +8358,14 @@ Details_NN2
 8995_CRD
 25_CRD
 October_NP0
-Housing_NN1-VVG
+Housing_NN1
 for_PRP
 the_AT0
 Frail_AJ0
 Elderly_AJ0
 Practical_AJ0
 Issues_NN2
-Housing_NN1-VVG
+Housing_NN1
 Centre_NN1
 Trust_NN1
 seminar_NN1
@@ -8421,7 +8421,7 @@ Industrial_AJ0
 Management_NN1
 at_PRP
 the_AT0
-Selfridge_NP0-NN1
+Selfridge_NN1
 Hotel_NN1
 London_NP0
 W1_UNC
@@ -8440,10 +8440,10 @@ Communication_NN1
 at_PRP
 the_AT0
 Centre_NN1
-Fran\xc3\xa7ais_NP0-NN1
+Fran\xc3\xa7ais_NN1
 au_UNC
 Commerce_NN1
-Exterieur_NN1-NP0
+Exterieur_NP0
 Conference_NN1
 Centre_NN1
 Details_NN2
@@ -8509,7 +8509,7 @@ Buildings_NN2
 of_PRF
 England_NP0
 series_NN0
-Civilising_VVG-AJ0
+Civilising_VVG
 Transport_NN1
 Brian_NP0
 Richards_NP0
@@ -8517,7 +8517,7 @@ Transport_NN1
 in_PRP
 Cities_NN2
 ADT_NP0
-Press_NN1-VVB
+Press_NN1
 1990._CRD
 \xc2\xa314.95_NN0
 As_CJS
@@ -8568,7 +8568,7 @@ told_VVD
 us_PNP
 that_CJT
 road-building_NN1
-improved_AJ0
+improved_VVN
 public_AJ0
 transport_NN1
 and_CJC
@@ -8611,7 +8611,7 @@ that_CJT
 the_AT0
 age_NN1
 of_PRF
-conservation_AJ0-NN1
+conservation_NN1
 creates_VVZ
 a_AT0
 new_AJ0
@@ -8693,7 +8693,7 @@ which_DTQ
 we_PNP
 could_VM0
 greatly_AV0
-improved_AJ0
+improved_VVN
 urban_AJ0
 living_VVG
 by_PRP
@@ -8715,7 +8715,7 @@ interview_NN1
 by_PRP
 Herbert_NP0
 Muschamp_NP0
-Rizzoli_NP0-NN1
+Rizzoli_NN1
 International_AJ0
 1989._CRD
 \xc2\xa335_NN0
@@ -8724,7 +8724,7 @@ cloth_NN1
 paper_NN1
 Like_PRP
 Robert_NP0
-Venturi_NP0-NN1
+Venturi_NP0
 before_PRP
 them_PNP
 James_NP0
@@ -8751,7 +8751,7 @@ American_AJ0
 strip_NN1
 Compared_VVN
 to_TO0
-Venturi_NP0-NN1
+Venturi_NP0
 SITE_NN1
 has_VHZ
 had_VHD
@@ -8819,7 +8819,7 @@ growing_AJ0
 through_PRP
 them_PNP
 fa\xc3\xa7ades_NN2
-peel_VVI
+peel_NN1
 or_CJC
 tilt_NN1
 distorting_AJ0
@@ -8863,7 +8863,7 @@ might_VM0
 have_VHB
 expected_VVN
 from_PRP
-Rizzoli_NP0-NN1
+Rizzoli_NN1
 An_AT0
 office_NN1
 which_DTQ
@@ -8906,7 +8906,7 @@ Higgott_NP0
 Lincolnshire_NP0
 Discovered_VVD
 Nikolaus_NP0
-Pevsner_NP0-NN1
+Pevsner_NP0
 and_CJC
 John_NP0
 Harris_NP0
@@ -8942,7 +8942,7 @@ volume_NN1
 in_PRP
 which_DTQ
 Nikolaus_NP0
-Pevsner_NP0-NN1
+Pevsner_NP0
 collaborated_VVD
 with_PRP
 another_DT0
@@ -8963,7 +8963,7 @@ visited_VVD
 the_AT0
 secular_AJ0
 buildings_NN2
-Pevsner_NP0-NN1
+Pevsner_NP0
 confined_VVN
 himself_PNX
 to_TO0
@@ -8978,7 +8978,7 @@ academic_AJ0
 research_NN1
 combined_VVN
 with_PRP
-Pevsner_NP0-NN1
+Pevsner_NP0
 's_POS
 Germanic_AJ0
 organisation_NN1
@@ -9016,7 +9016,7 @@ was_VBD
 their_DPS
 brevity_NN1
 and_CJC
-Pevsner_NP0-NN1
+Pevsner_NP0
 's_POS
 idiosyncratic_AJ0
 style_NN1
@@ -9099,7 +9099,7 @@ structures_NN2
 is_VBZ
 included_VVD
 an_AT0
-increased_AJ0
+increased_VVN
 interest_NN1
 in_PRP
 gardens_NN2
@@ -9142,7 +9142,7 @@ this_DT0
 volume_NN1
 is_VBZ
 the_AT0
-increased_AJ0
+increased_VVN
 use_NN1
 of_PRF
 historical_AJ0
@@ -9161,7 +9161,7 @@ scene_NN1
 and_CJC
 reintroduce_VVB
 the_AT0
-Pevsner_NP0-NN1
+Pevsner_NP0
 flavour_NN1
 Some_DT0
 of_PRF
@@ -9185,7 +9185,7 @@ and_CJC
 plenty_PNI
 of_PRF
 recent_AJ0
-infill_NN1-VVB
+infill_NN1
 for_PRP
 the_AT0
 Grimsby_NP0
@@ -9283,7 +9283,7 @@ abroad_AV0
 mainly_AV0
 in_PRP
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 This_DT0
 interview_NN1
 came_VVD
@@ -9343,7 +9343,7 @@ together_AV0
 they_PNP
 create_VVI
 astonishing_AJ0
-tautly_AV0-AJ0
+tautly_AJ0
 dynamic_AJ0
 glittering_AJ0
 volumes_NN2
@@ -9362,7 +9362,7 @@ oasis_NN1
 in_PRP
 the_AT0
 current_AJ0
-clouded_VVD-VVN
+clouded_VVN
 debate_NN1
 whither_AVQ
 modern_AJ0
@@ -9387,7 +9387,7 @@ on_PRP
 utilitarian_AJ0
 steel_NN1
 or_CJC
-concrete_AJ0-NN1
+concrete_AJ0
 frames_NN2
 His_DPS
 buildings_NN2
@@ -9618,7 +9618,7 @@ spaces_NN2
 drawing_NN1
 source_NN1
 James_NP0
-Gleik_NP0-NN1
+Gleik_NN1
 Chaos_NN1
 Today_AV0
 we_PNP
@@ -9744,7 +9744,7 @@ the_AT0
 past_NN1
 but_CJC
 a_AT0
-binding_VVG-AJ0
+binding_AJ0
 love_NN1
 for_PRP
 the_AT0
@@ -9756,7 +9756,7 @@ link_NN1
 with_PRP
 the_AT0
 past_NN1
-Links_NN2-VVZ
+Links_VVZ
 with_PRP
 the_AT0
 past_NN1
@@ -9897,7 +9897,7 @@ a_AT0
 grand_AJ0
 community_NN1
 of_PRF
-integrated_AJ0
+integrated_VVN
 environment_NN1
 The_AT0
 craftsman_NN1
@@ -10056,10 +10056,10 @@ It_PNP
 is_VBZ
 no_AT0
 mere_AJ0
-act_VVI
+act_NN1
 of_PRF
 imitation_NN1
-Mimicry_NN1-NP0
+Mimicry_NN1
 destroys_VVZ
 the_AT0
 significance_NN1
@@ -10078,11 +10078,11 @@ assimilation_NN1
 in_PRP
 a_AT0
 perpetual_AJ0
-act_VVI
+act_NN1
 of_PRF
 gestation_NN1
 The_AT0
-act_VVI
+act_NN1
 of_PRF
 being_VBG
 creative_AJ0
@@ -10098,12 +10098,12 @@ the_AT0
 Universe_NN1
 Far_AV0
 from_PRP
-inspiring_VVG-AJ0
+inspiring_AJ0
 individualism_NN1
 or_CJC
 egoism_NN1
 the_AT0
-act_VVI
+act_NN1
 should_VM0
 inspire_VVI
 awe_NN1
@@ -10261,7 +10261,7 @@ form_NN1
 works_NN0
 efficiently_AV0
 with_PRP
-minimum_AJ0-NN1
+minimum_AJ0
 energy_NN1
 output_NN1
 Making_VVG
@@ -10347,7 +10347,7 @@ and_CJC
 tradition_NN1
 Making_VVG
 the_AT0
-Qiblatain_NN1-AJ0
+Qiblatain_NN1
 Mosque_NN1
 there_EX0
 was_VBD
@@ -10444,7 +10444,7 @@ affected_VVN
 What_DTQ
 is_VBZ
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 impression_NN1
 of_PRF
 the_AT0
@@ -10484,7 +10484,7 @@ an_AT0
 emblem_NN1
 to_TO0
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 design_NN1
 They_PNP
 serve_VVI
@@ -10509,7 +10509,7 @@ to_TO0
 note_NN1
 is_VBZ
 that_CJT
-high-tech_AJ0-NN1
+high-tech_AJ0
 implies_VVZ
 high_AJ0
 costs_NN2
@@ -10548,7 +10548,7 @@ and_CJC
 the_AT0
 open_AJ0
 panels_NN2
-fly_VVI
+fly_NN1
 like_PRP
 kites_NN2
 We_PNP
@@ -10574,7 +10574,7 @@ from_PRP
 Morocco_NP0
 and_CJC
 Pakistan_NP0
-carved_AJ0
+carved_VVN
 these_DT0
 beautiful_AJ0
 columns_NN2
@@ -10582,7 +10582,7 @@ for_PRP
 the_AT0
 mosque_NN1
 at_PRP
-Qiblatain_NN1-AJ0
+Qiblatain_NN1
 Medinah_NP0
 using_VVG
 their_DPS
@@ -10614,7 +10614,7 @@ Below_AV0
 view_NN1
 of_PRF
 the_AT0
-newly-completed_AJ0-NN1
+newly-completed_AJ0
 mosque_NN1
 The_AT0
 purity_NN1
@@ -10626,7 +10626,7 @@ expressed_VVN
 in_PRP
 the_AT0
 brick_NN1
-squinch_NN1-VVB
+squinch_VVB
 arches_NN2
 forming_VVG
 the_AT0
@@ -10873,7 +10873,7 @@ I_PNP
 worked_VVD
 with_PRP
 Hassan_NP0
-Fathy_NP0-NN1
+Fathy_NN1
 He_PNP
 dedicated_VVN
 his_DPS
@@ -11259,7 +11259,7 @@ all_DT0
 parties_NN2
 gain_VVI
 fulfilment_NN1
-Living_VVG-NN1
+Living_VVG
 ornament_NN1
 with_PRP
 three-dimensional_AJ0
@@ -11291,7 +11291,7 @@ individual_AJ0
 can_VM0
 be_VBI
 infinitely_AV0
-varied_AJ0
+varied_VVN
 each_DT0
 time_NN1
 I_PNP
@@ -11603,7 +11603,7 @@ in_PRP
 life_NN1
 Robert_NP0
 Kerr_NP0
-voiced_VVN-VVD
+voiced_VVN
 the_AT0
 general_AJ0
 disappointment_NN1
@@ -11689,8 +11689,8 @@ had_VHD
 spanned_VVN
 Georgian_AJ0
 Gothick_NN1
-neo-Greek_NN1-AJ0
-neo-Perpendicular_NN1-AJ0
+neo-Greek_NN1
+neo-Perpendicular_AJ0
 neo-Tudor_NP0
 neo-Jacobean_AJ0
 Scots_NN2
@@ -11699,13 +11699,13 @@ Italianate_AJ0
 Graeco-Roman_AJ0
 Tractarian_AJ0
 Gothic_AJ0
-French_AJ0-NN1
+French_AJ0
 Renaissance_NN1
 and_CJC
 even_AV0
-neo-Baroque_AJ0-NN1
+neo-Baroque_AJ0
 and_CJC
-neo-Rococo_NN1-AJ0
+neo-Rococo_AJ0
 without_PRP
 ever_AV0
 losing_VVG
@@ -11753,7 +11753,7 @@ his_DPS
 buildings_NN2
 has_VHZ
 been_VBN
-mixed_AJ0
+mixed_VVN
 Goodhart-Rendel_AJ0
 writing_NN1
 from_PRP
@@ -11804,7 +11804,7 @@ shares_NN2
 with_PRP
 Soane_NP0
 's_POS
-Pelwall_NP0-NN1
+Pelwall_NN1
 the_AT0
 distinction_NN1
 of_PRF
@@ -11815,7 +11815,7 @@ two_CRD
 houses_NN2
 Save_VVB
 and_CJC
-English_AJ0-NN1
+English_AJ0
 Heritage_NN1
 have_VHB
 done_VDN
@@ -11828,7 +11828,7 @@ and_CJC
 rightly_AV0
 so_AV0
 Nikolaus_NP0
-Pevsner_NP0-NN1
+Pevsner_NP0
 was_VBD
 nearer_AJC
 the_AT0
@@ -12005,7 +12005,7 @@ with_PRP
 the_AT0
 task_NN1
 of_PRF
-supervising_VVG-NN1
+supervising_VVG
 the_AT0
 building_NN1
 of_PRF
@@ -12102,7 +12102,7 @@ of_PRF
 the_AT0
 greatest_AJS
 of_PRF
-English_AJ0-NN1
+English_AJ0
 landowners_NN2
 Burn_NN1
 returned_VVD
@@ -12323,14 +12323,14 @@ great_AJ0
 Classical_AJ0
 mansion_NN1
 of_PRF
-Camperdown_NP0-NN1
+Camperdown_NN1
 seven_CRD
 years_NN2
 later_AV0
 Above_PRP
 Falkland_NP0
 1839\xe2\x80\x9341_CRD
-Left_AJ0-NN1
+Left_AJ0
 Revesby_NP0
 a_AT0
 house_NN1
@@ -12338,7 +12338,7 @@ which_DTQ
 both_AV0
 Save_VVB
 and_CJC
-English_AJ0-NN1
+English_AJ0
 Heritage_NN1
 campaigned_VVD
 to_TO0
@@ -12352,7 +12352,7 @@ and_CJC
 ingenuity_NN1
 in_PRP
 his_DPS
-initial_AJ0-NN1
+initial_AJ0
 designs_NN2
 for_PRP
 the_AT0
@@ -12360,7 +12360,7 @@ Edinburgh_NP0
 Academy_NN1
 giving_VVG
 a_AT0
-two-storey_AJ0-NN1
+two-storey_AJ0
 building_NN1
 a_AT0
 single-storey_AJ0
@@ -12372,7 +12372,7 @@ portico_NN1
 to_TO0
 save_VVI
 on_PRP
-fa\xc3\xa7ading_VVG-AJ0
+fa\xc3\xa7ading_AJ0
 costs_NN2
 others_NN2
 made_VVN
@@ -12436,7 +12436,7 @@ attention_NN1
 in_PRP
 Burn_NN1
 's_POS
-Theseion_NN1-NP0
+Theseion_NP0
 orders_NN2
 he_PNP
 did_VDD
@@ -12456,14 +12456,14 @@ ground_NN1
 floor_NN1
 plan_NN1
 of_PRF
-Saltoun_NP0-NN1
+Saltoun_NP0
 East_NN1
 Lothian_NP0
 Right_AV0
 north_NN1
 fa\xc3\xa7acde_NN1
 of_PRF
-Saltoun_NP0-NN1
+Saltoun_NP0
 But_CJC
 by_PRP
 1830_CRD
@@ -12514,7 +12514,7 @@ the_AT0
 neo-perpendicular_NN1
 of_PRF
 his_DPS
-fan-vaulted_AJ0-NN1
+fan-vaulted_NN1
 church_NN1
 of_PRF
 St_NP0
@@ -12537,9 +12537,9 @@ by_PRP
 the_AT0
 elegant_AJ0
 Early_AJ0
-English_AJ0-NN1
+English_AJ0
 and_CJC
-neo-Norman_AJ0-NN1
+neo-Norman_NN1
 of_PRF
 the_AT0
 numerous_AJ0
@@ -12550,7 +12550,7 @@ for_PRP
 the_AT0
 Duke_NN1
 of_PRF
-Buccleuch_NP0-NN1
+Buccleuch_NP0
 in_PRP
 the_AT0
 1830s_CRD
@@ -12594,7 +12594,7 @@ box_NN1
 desired_AJ0
 by_PRP
 presbyterian_AJ0
-divines_NN2-VVZ
+divines_NN2
 at_PRP
 that_CJT
 time_NN1
@@ -12625,11 +12625,11 @@ reputation_NN1
 as_CJS
 a_AT0
 hospital_NN1
-specialist_NN1-AJ0
+specialist_NN1
 at_PRP
 his_DPS
 large_AJ0
-cross-plan_AJ0-NN1
+cross-plan_AJ0
 mental_AJ0
 institutions_NN2
 at_PRP
@@ -12648,7 +12648,7 @@ his_DPS
 own_DT0
 choice_NN1
 virtually_AV0
-closed_VVD
+closed_VVN
 his_DPS
 career_NN1
 as_CJS
@@ -12757,14 +12757,14 @@ architect_NN1
 for_PRP
 Smirke_NP0
 's_POS
-Kinmount_NP0-NN1
+Kinmount_NN1
 1811\xe2\x80\x9312_CRD
 a_AT0
 huge_AJ0
 assemblage_NN1
 of_PRF
 Ledoux-like_AJ0
-interpenetrating_AJ0-NN1
+interpenetrating_NN1
 masses_NN2
 it_PNP
 took_VVD
@@ -13053,7 +13053,7 @@ The_AT0
 general_AJ0
 concept_NN1
 of_PRF
-Kinmount_NP0-NN1
+Kinmount_NN1
 with_PRP
 its_DPS
 vast_AJ0
@@ -13079,7 +13079,7 @@ his_DPS
 ambitious_AJ0
 enlargement_NN1
 of_PRF
-Saltoun_NP0-NN1
+Saltoun_NP0
 East_NN1
 Lothian_NP0
 1817_CRD
@@ -13090,14 +13090,14 @@ tower_NN1
 at_PRP
 his_DPS
 neo-Classical_AJ0
-Adderston_NP0-NN1
+Adderston_NN1
 Northumberland_NP0
 1819_CRD
 and_CJC
 the_AT0
 much_DT0
 larger_AJC
-Camperdown_NP0-NN1
+Camperdown_NN1
 Dundee_NP0
 1821\xe2\x80\x9328_CRD
 and_CJC
@@ -13133,10 +13133,10 @@ of_PRF
 William_NP0
 Wilkins_NP0
 '_POS
-Tregothnan_NN1-NP0
+Tregothnan_NN1
 1816_CRD
 and_CJC
-Dalmeny_NP0-NN1
+Dalmeny_NP0
 1814_CRD
 Dundas_NP0
 West_NP0
@@ -13205,7 +13205,7 @@ a_AT0
 family_NN1
 bedroom_NN1
 with_PRP
-dressing_VVG
+dressing_NN1
 rooms_NN2
 WC_NN1
 and_CJC
@@ -13260,7 +13260,7 @@ the_AT0
 main_AJ0
 floor_NN1
 at_PRP
-Mellerstain_NN1-AJ0
+Mellerstain_AJ0
 in_PRP
 1770_CRD
 and_CJC
@@ -13281,7 +13281,7 @@ wing_NN1
 in_PRP
 1803_CRD
 at_PRP
-Scone_NP0-NN1
+Scone_NP0
 Atkinson_NP0
 's_POS
 planning_NN1
@@ -13323,7 +13323,7 @@ Burn_NN1
 houses_NN2
 But_CJC
 at_PRP
-Camperdown_NP0-NN1
+Camperdown_NN1
 we_PNP
 see_VVI
 for_PRP
@@ -13338,7 +13338,7 @@ arrangements_NN2
 of_PRF
 private_AJ0
 and_CJC
-principal_AJ0-NN1
+principal_AJ0
 apartments_NN2
 from_PRP
 bedroom_NN1
@@ -13378,22 +13378,22 @@ ground_NN1
 floor_NN1
 plan_NN1
 of_PRF
-Saltoun_NP0-NN1
+Saltoun_NP0
 East_NN1
 Lothian_NP0
 Right_AV0
 north_NN1
 facade_NN1
 of_PRF
-Saltoun_NP0-NN1
-Left_AJ0-NN1
+Saltoun_NP0
+Left_AJ0
 Stoke_NP0
 Rochford_NP0
 Hall_NN1
 1840_CRD
 Below_AV0
 left_VVN
-Poltalloch_NP0-NN1
+Poltalloch_NP0
 House_NN1
 Argyll_NP0
 1849_CRD
@@ -13463,7 +13463,7 @@ even_AV0
 more_AV0
 sophisticated_AJ0
 Elongated_AJ0
-single-aspect_AJ0-NN1
+single-aspect_AJ0
 plans_NN2
 with_PRP
 hall-corridors_NN2
@@ -13512,7 +13512,7 @@ block_NN1
 to_TO0
 create_VVI
 sheltered_AJ0
-L-plan_AJ0-NN1
+L-plan_AJ0
 forecourts_NN2
 That_DT0
 great_AJ0
@@ -13564,7 +13564,7 @@ the_AT0
 housekeeper_NN1
 and_CJC
 the_AT0
-cook_VVI
+cook_NN1
 with_PRP
 solidly_AV0
 walled_AJ0
@@ -13659,7 +13659,7 @@ MacVicar_NP0
 Anderson_NP0
 and_CJC
 his_DPS
-chief_AJ0-NN1
+chief_NN1
 clerk_NN1
 Colling_NP0
 under_PRP
@@ -13677,7 +13677,7 @@ and_CJC
 in_PRP
 pen_NN1
 and_CJC
-wash_VVI
+wash_NN1
 with_PRP
 great_AJ0
 neatness_NN1
@@ -13689,7 +13689,7 @@ He_PNP
 followed_VVN
 Blore_NP0
 into_PRP
-Cotswold-type_AJ0-NN1
+Cotswold-type_AJ0
 Tudor_NP0
 cottage_NN1
 houses_NN2
@@ -13706,7 +13706,7 @@ Smirke_NP0
 began_VVD
 experimenting_VVG
 with_PRP
-Elizabethan_AJ0-NN1
+Elizabethan_AJ0
 and_CJC
 Jacobean_AJ0
 forms_NN2
@@ -13726,7 +13726,7 @@ any_DT0
 of_PRF
 the_AT0
 parallel_AJ0
-English_AJ0-NN1
+English_AJ0
 or_CJC
 Irish_AJ0
 examples_NN2
@@ -13738,7 +13738,7 @@ to_TO0
 complete_AJ0
 Salvin_NP0
 's_POS
-Harlaxton_NN1-NP0
+Harlaxton_NP0
 in_PRP
 1834_CRD
 had_VHD
@@ -13764,7 +13764,7 @@ Falkland_NP0
 1839\xe2\x80\x9341_CRD
 Whitehill_NP0
 1839\xe2\x80\x9343_CRD
-Muckross_NP0-NN1
+Muckross_NN1
 and_CJC
 Stoke_NP0
 Rochford_NP0
@@ -13775,10 +13775,10 @@ Dartrey_NP0
 Revesby_NP0
 1844_CRD
 and_CJC
-Poltalloch_NP0-NN1
+Poltalloch_NP0
 1849_CRD
 In_PRP
-varying_AJ0-VVG
+varying_AJ0
 degrees_NN2
 these_DT0
 had_VHD
@@ -13806,7 +13806,7 @@ and_CJC
 1830s_CRD
 which_DTQ
 had_VHD
-depended_VVN-VVD
+depended_VVD
 largely_AV0
 on_PRP
 rich_AJ0
@@ -13856,7 +13856,7 @@ at_PRP
 Milton_NP0
 Lockhart_NP0
 and_CJC
-Tyninghame_VVB-NN1
+Tyninghame_VVB
 in_PRP
 1829_CRD
 reaching_VVG
@@ -13875,7 +13875,7 @@ his_DPS
 spectacular_AJ0
 reconstruction_NN1
 of_PRF
-Thirlestane_NN1-NP0
+Thirlestane_NN1
 in_PRP
 1840_CRD
 and_CJC
@@ -13896,8 +13896,8 @@ invited_VVN
 to_TO0
 Scotland_NP0
 the_AT0
-English_AJ0-NN1
-architect-author_NN1-AJ0
+English_AJ0
+architect-author_NN1
 Robert_NP0
 William_NP0
 Billings_NN2
@@ -14013,7 +14013,7 @@ before_PRP
 Only_AV0
 at_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 chateau_NN1
 of_PRF
 Montagu_NP0
@@ -14034,7 +14034,7 @@ patron_NN1
 the_AT0
 Duke_NN1
 of_PRF
-Buccleuch_NP0-NN1
+Buccleuch_NP0
 and_CJC
 was_VBD
 ever_AV0
@@ -14056,7 +14056,7 @@ of_PRF
 his_DPS
 powers_NN2
 Like_PRP
-Harlaxton_NN1-NP0
+Harlaxton_NP0
 where_AVQ
 Bavarians_NN2
 may_VM0
@@ -14071,7 +14071,7 @@ had_VHD
 lavish_AJ0
 baroque_NN1
 and_CJC
-rococo_AJ0-NN1
+rococo_AJ0
 interiors_NN2
 The_AT0
 extent_NN1
@@ -14256,7 +14256,7 @@ Royal_AJ0
 hospital_NN1
 Dumfries_NP0
 1834_CRD
-Left_AJ0-NN1
+Left_AJ0
 Milton_NP0
 Lockhart_NP0
 1829_CRD
@@ -14383,7 +14383,7 @@ and_CJC
 rural_AJ0
 Professor_NP0
 Adrian_NP0
-Gale_NN1-NP0
+Gale_NP0
 of_PRF
 Plymouth_NP0
 School_NN1
@@ -14402,7 +14402,7 @@ and_CJC
 Morrison_NP0
 Dr_NP0
 Sheila_NP0
-Cassidy_NP0-NN1
+Cassidy_NP0
 Medical_AJ0
 Director_NN1
 St_NP0
@@ -14460,7 +14460,7 @@ the_AT0
 relatives_NN2
 and_CJC
 the_AT0
-dying_VVG-AJ0
+dying_AJ0
 patients_NN2
 From_PRP
 the_AT0
@@ -14619,7 +14619,7 @@ insulation_NN1
 Projects_NN2
 were_VBD
 carefully_AV0
-oriented_VVN
+oriented_VVD
 to_TO0
 maximise_VVI
 usable_AJ0
@@ -14679,7 +14679,7 @@ lightweight_AJ0
 structures_NN2
 for_PRP
 energy_NN1
-conservation_AJ0-NN1
+conservation_NN1
 was_VBD
 the_AT0
 entrants_NN2
@@ -14853,7 +14853,7 @@ joint_AJ0
 entry_NN1
 by_PRP
 Tim_NP0
-Makower_NP0-NN1
+Makower_NP0
 of_PRF
 the_AT0
 University_NN1
@@ -14891,7 +14891,7 @@ University_NN1
 Edinburgh_NP0
 and_CJC
 Joyce_NP0
-Michie_NP0-NN1
+Michie_NP0
 of_PRF
 the_AT0
 Scott_NP0
@@ -14995,7 +14995,7 @@ his_DPS
 ideas_NN2
 embrace_VVI
 three_CRD
-characteristic_AJ0-NN1
+characteristic_NN1
 spaces_NN2
 the_AT0
 community_NN1
@@ -15039,7 +15039,7 @@ Here_AV0
 patients_NN2
 do_VDB
 not_XX0
-feel_VVI
+feel_VVB
 remote_AJ0
 because_CJS
 of_PRF
@@ -15060,7 +15060,7 @@ the_AT0
 corner_NN1
 A_AT0
 gurgling_AJ0
-burn_VVI
+burn_NN1
 bisects_VVZ
 the_AT0
 site_NN1
@@ -15072,7 +15072,7 @@ the_AT0
 elements_NN2
 of_PRF
 the_AT0
-three-storey_AJ0-NN1
+three-storey_AJ0
 hospice_NN1
 The_AT0
 approach_NN1
@@ -15283,13 +15283,13 @@ the_AT0
 ward_NN1
 block_NN1
 of_PRF
-Makower_NP0-NN1
+Makower_NP0
 and_CJC
 Taylor_NP0
 's_POS
 scheme_NN1
 Tim_NP0
-Makower_NP0-NN1
+Makower_NP0
 Department_NN1
 of_PRF
 Architecture_NN1
@@ -15314,7 +15314,7 @@ cupped_AJ0
 in_PRP
 a_AT0
 tight_AJ0
-bend_VVI
+bend_NN1
 of_PRF
 the_AT0
 Thames_NP0
@@ -15363,7 +15363,7 @@ a_AT0
 mews_NN2
 at_PRP
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 From_PRP
 the_AT0
 reception_NN1
@@ -15378,7 +15378,7 @@ a_AT0
 garden_NN1
 and_CJC
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 offices_NN2
 for_PRP
 the_AT0
@@ -15449,7 +15449,7 @@ of_PRF
 one_CRD
 of_PRF
 the_AT0
-four-bed_AJ0-NN1
+four-bed_AJ0
 wards_NN2
 On_PRP
 an_AT0
@@ -15543,10 +15543,10 @@ wards_NN2
 the_AT0
 single_AJ0
 and_CJC
-four-bed_AJ0-NN1
+four-bed_AJ0
 wards_NN2
 are_VBB
-coupled_VVN-VVD
+coupled_VVN
 around_PRP
 toilet_NN1
 and_CJC
@@ -15591,7 +15591,7 @@ of_PRF
 one_CRD
 of_PRF
 the_AT0
-four-bed_AJ0-NN1
+four-bed_AJ0
 wards_NN2
 Commendation_NN1
 Peter_NP0
@@ -15608,18 +15608,18 @@ Collier_NP0
 commended_VVN
 scheme_NN1
 at_PRP
-Torphin_NP0-NN1
+Torphin_NN1
 Farm_NN1
 near_PRP
 Edinburgh_NP0
-Torphin_NP0-NN1
+Torphin_NN1
 Farm_NN1
 on_PRP
 the_AT0
 edge_NN1
 of_PRF
 the_AT0
-Pentland_NP0-NN1
+Pentland_NP0
 Hills_NP0
 just_AV0
 outside_PRP
@@ -15720,7 +15720,7 @@ and_CJC
 visitors_NN2
 Commendation_NN1
 Joyce_NP0
-Michie_NP0-NN1
+Michie_NP0
 Scott_NP0
 Sutherland_NP0
 School_NN1
@@ -15815,7 +15815,7 @@ balconies_NN2
 overlooking_VVG
 the_AT0
 sea_NN1
-Michie_NP0-NN1
+Michie_NP0
 's_POS
 coastal_AJ0
 scheme_NN1
@@ -16059,7 +16059,7 @@ which_DTQ
 would_VM0
 release_NN1
 the_AT0
-wealth-generating_AJ0-NN1
+wealth-generating_NN1
 powers_NN2
 of_PRF
 the_AT0
@@ -16305,7 +16305,7 @@ have_VHB
 been_VBN
 relaxed_AJ0
 to_TO0
-varying_AJ0-VVG
+varying_AJ0
 degrees_NN2
 in_PRP
 the_AT0
@@ -16388,7 +16388,7 @@ over_PRP
 the_AT0
 formation_NN1
 of_PRF
-mixed_AJ0
+mixed_VVN
 and_CJC
 inter-professional_AJ0
 practices_NN2
@@ -16470,7 +16470,7 @@ register_VVI
 maintained_VVN
 by_PRP
 the_AT0
-ARCUK_NN1-NP0
+ARCUK_NN1
 A_AT0
 system_NN1
 of_PRF
@@ -16693,7 +16693,7 @@ been_VBN
 restricted_VVN
 by_PRP
 the_AT0
-ARCUK_NN1-NP0
+ARCUK_NN1
 and_CJC
 the_AT0
 RIBA_NP0
@@ -16795,7 +16795,7 @@ were_VBD
 prohibited_VVN
 by_PRP
 the_AT0
-ARCUK_NN1-NP0
+ARCUK_NN1
 and_CJC
 the_AT0
 RIBA_NP0
@@ -16856,7 +16856,7 @@ In_PRP
 1981_CRD
 however_AV0
 the_AT0
-ARCUK_NN1-NP0
+ARCUK_NN1
 issued_VVN
 a_AT0
 new_AJ0
@@ -17061,7 +17061,7 @@ Applied_AJ0
 Microeconomics_NN1
 Research_NN1
 group_NN1
-AMERG_NP0-NN1
+AMERG_NP0
 at_PRP
 Loughborough_NP0
 University_NN1
@@ -17111,7 +17111,7 @@ there_EX0
 is_VBZ
 evidence_NN1
 that_CJT
-relative_AJ0-NN1
+relative_AJ0
 to_TO0
 earnings_NN2
 in_PRP
@@ -17128,7 +17128,7 @@ have_VHB
 suffered_VVN
 the_AT0
 largest_AJS
-fall_VVI
+fall_NN1
 suggesting_VVG
 that_CJT
 fees_NN2
@@ -17200,8 +17200,8 @@ in_PRP
 found_VVD
 that_CJT
 organisations_NN2
-commissioning_VVG
-consulting_AJ0-VVG
+commissioning_NN1
+consulting_VVG
 architects_NN2
 were_VBD
 in_PRP
@@ -17246,7 +17246,7 @@ mandatory_AJ0
 scale_NN1
 referred_VVN
 to_TO0
-minimum_AJ0-NN1
+minimum_AJ0
 fees_NN2
 and_CJC
 there_EX0
@@ -17277,7 +17277,7 @@ felt_VVD
 that_CJT
 rules_NN2
 on_PRP
-competing_VVG-AJ0
+competing_AJ0
 for_PRP
 fees_NN2
 had_VHD
@@ -17286,7 +17286,7 @@ effect_NN1
 However_AV0
 the_AT0
 1989_CRD
-AMERG_NP0-NN1
+AMERG_NP0
 survey_NN1
 asked_VVD
 specifically_AV0
@@ -17345,7 +17345,7 @@ assessing_VVG
 the_AT0
 impact_NN1
 of_PRF
-increased_AJ0
+increased_VVN
 fee_NN1
 competition_NN1
 is_VBZ
@@ -17384,7 +17384,7 @@ has_VHZ
 been_VBN
 a_AT0
 gradual_AJ0
-fall_VVI
+fall_NN1
 in_PRP
 profit_NN1
 margins_NN2
@@ -17586,7 +17586,7 @@ Greater_NP0
 flexibility_NN1
 in_PRP
 charging_VVG
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 the_AT0
 introduction_NN1
@@ -17673,7 +17673,7 @@ lower_AJC
 rates_NN2
 of_PRF
 unemployment_NN1
-relative_AJ0-NN1
+relative_AJ0
 to_TO0
 the_AT0
 national_AJ0
@@ -17793,7 +17793,7 @@ the_AT0
 expense_NN1
 of_PRF
 sole_AJ0
-principal_AJ0-NN1
+principal_AJ0
 practices_NN2
 Change_NN1
 has_VHZ
@@ -17856,7 +17856,7 @@ smallest_AJS
 sizes_NN2
 of_PRF
 practice_NN1
-increased_AJ0
+increased_VVN
 proportionately_AV0
 at_PRP
 the_AT0
@@ -17890,7 +17890,7 @@ other_AJ0
 size_NN1
 groups_NN2
 have_VHB
-increased_AJ0
+increased_VVN
 Conclusions_NN2
 must_VM0
 be_VBI
@@ -17913,7 +17913,7 @@ to_TO0
 conclude_VVI
 that_CJT
 the_AT0
-increased_AJ0
+increased_VVN
 competitive_AJ0
 pressures_NN2
 following_AJ0
@@ -17965,7 +17965,7 @@ both_AV0
 the_AT0
 OFT_AV0
 and_CJC
-AMERG_NP0-NN1
+AMERG_NP0
 surveys_NN2
 that_CJT
 the_AT0
@@ -18035,7 +18035,7 @@ their_DPS
 behaviour_NN1
 The_AT0
 1989_CRD
-AMERG_NP0-NN1
+AMERG_NP0
 survey_NN1
 presents_VVZ
 a_AT0
@@ -18105,7 +18105,7 @@ in_PRP
 many_DT0
 cases_NN2
 however_AV0
-devoted_AJ0-VVN
+devoted_AJ0
 more_AV0
 resources_NN2
 to_TO0
@@ -18151,7 +18151,7 @@ of_PRF
 clients_NN2
 questioned_VVN
 by_PRP
-AMERG_NP0-NN1
+AMERG_NP0
 responded_VVD
 that_CJT
 changes_NN2
@@ -18238,7 +18238,7 @@ this_DT0
 question_NN1
 in_PRP
 the_AT0
-AMERG_NP0-NN1
+AMERG_NP0
 survey_NN1
 then_AV0
 the_AT0
@@ -18248,7 +18248,7 @@ to_TO0
 have_VHB
 been_VBN
 a_AT0
-mixed_AJ0
+mixed_VVN
 blessing_NN1
 42_CRD
 per_UNC
@@ -18294,7 +18294,7 @@ stimulus_NN1
 since_CJS
 they_PNP
 now_AV0
-feel_VVI
+feel_VVB
 able_AJ0
 to_TO0
 compete_VVI
@@ -18307,11 +18307,11 @@ restricted_VVN
 arena_NN1
 Others_NN2
 however_AV0
-feel_VVI
+feel_VVB
 that_CJT
 reforms_NN2
 have_VHB
-debased_AJ0-VVN
+debased_VVN
 the_AT0
 profession_NN1
 and_CJC
@@ -18345,7 +18345,7 @@ permitted_VVN
 in_PRP
 fee_NN1
 setting_VVG
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 the_AT0
 ability_NN1
@@ -18378,7 +18378,7 @@ greater_AJC
 efficiency_NN1
 The_AT0
 1989_CRD
-AMERG_NP0-NN1
+AMERG_NP0
 survey_NN1
 of_PRF
 architects_NN2
@@ -18536,14 +18536,14 @@ has_VHZ
 rendered_VVN
 Interiors_NN2
 The_AT0
-Rockette_NN1-NP0
+Rockette_NN1
 display_NN1
 system_NN1
 by_PRP
 Dick_NP0
 Stringer_NP0
 Associates_NN2
-Flying_AJ0-VVG
+Flying_VVG
 into_PRP
 the_AT0
 Fifties_CRD
@@ -18561,7 +18561,7 @@ in_PRP
 the_AT0
 shape_NN1
 of_PRF
-Rockette_NN1-NP0
+Rockette_NN1
 by_PRP
 Dick_NP0
 Stringer_NP0
@@ -18582,7 +18582,7 @@ domestic_AJ0
 use_NN1
 consists_VVZ
 of_PRF
-shelving_VVG-NN1
+shelving_VVG
 rails_NN2
 hangers_NN2
 and_CJC
@@ -18605,7 +18605,7 @@ The_AT0
 range_NN1
 including_PRP
 the_AT0
-palette-shaped_AJ0-NN1
+palette-shaped_AJ0
 table_NN1
 is_VBZ
 available_AJ0
@@ -18631,7 +18631,7 @@ July_NP0
 's_POS
 New_AJ0
 Designers_NN2
-Show_NN1-VVB
+Show_NN1
 showcasing_VVG
 the_AT0
 best_AJS
@@ -18680,7 +18680,7 @@ awards_NN2
 presented_VVN
 were_VBD
 the_AT0
-Zoeftig_NN1-NP0
+Zoeftig_NN1
 Furniture_NN1
 Award_NN1
 of_PRF
@@ -18689,7 +18689,7 @@ which_DTQ
 went_VVD
 to_TO0
 the_AT0
-RCA_NP0-NN1
+RCA_NP0
 's_POS
 Adam_NP0
 Brinkworth_NP0
@@ -18704,7 +18704,7 @@ stool_NN1
 and_CJC
 armchair_NN1
 The_AT0
-Emess_NN1-NP0
+Emess_NP0
 Lighting_NN1
 Award_NN1
 went_VVD
@@ -18790,7 +18790,7 @@ decision_NN1
 to_TO0
 move_VVI
 the_AT0
-Salone_NN1-NP0
+Salone_NN1
 del_UNC
 Mobile_AJ0
 in_PRP
@@ -18845,7 +18845,7 @@ Saturday_NP0
 Glasgow_NP0
 showrooms_NN2
 including_PRP
-Artemide_NP0-NN1
+Artemide_NN1
 Domus_NP0
 Tiles_NN2
 Marlin_NP0
@@ -18881,11 +18881,11 @@ and_CJC
 Thomas_NP0
 of_PRF
 the_AT0
-RCA_NP0-NN1
+RCA_NP0
 Instant_AJ0
 Heroes_NN2
 ADT_NP0
-Press_NN1-VVB
+Press_NN1
 has_VHZ
 launched_VVN
 a_AT0
@@ -18928,7 +18928,7 @@ Ben_NP0
 Kelly_NP0
 Design_NN1
 and_CJC
-Jasper_NP0-NN1
+Jasper_NP0
 Morrison_NP0
 plans_NN2
 projects_NN2
@@ -18961,7 +18961,7 @@ in_PRP
 Manchester_NP0
 of_PRF
 1989_CRD
-intercut_VVB-NN1
+intercut_VVB
 with_PRP
 an_AT0
 eclectic_AJ0
@@ -18974,7 +18974,7 @@ Kelly_NP0
 iconoclastic_AJ0
 career_NN1
 The_AT0
-Jasper_NP0-NN1
+Jasper_NP0
 Morrison_NP0
 volume_NN1
 is_VBZ
@@ -19012,7 +19012,7 @@ classics_NN2
 such_DT0
 as_CJS
 the_AT0
-Wing-nut_AJ0-NN1
+Wing-nut_NN1
 Chair_NN1
 1984_CRD
 and_CJC
@@ -19030,15 +19030,15 @@ Plywood_NN1
 desk_NN1
 1988_CRD
 by_PRP
-Jasper_NP0-NN1
+Jasper_NP0
 Morrison_NP0
 from_PRP
 the_AT0
 recent_AJ0
 ADT_NP0
-Press_NN1-VVB
+Press_NN1
 monograph_NN1
-Fitting_AJ0-VVG
+Fitting_VVG
 Out_AVP
 Fitch_NP0
 Carl_NP0
@@ -19082,9 +19082,9 @@ of_PRF
 the_AT0
 original_AJ0
 building_NN1
-Left_AJ0-NN1
+Left_AJ0
 a_AT0
-curving_VVG
+curving_AJ0
 wall_NN1
 contains_VVZ
 the_AT0
@@ -19111,7 +19111,7 @@ Fitch-RS_NP0
 Certainly_AV0
 one_CRD
 's_POS
-initial_AJ0-NN1
+initial_AJ0
 impression_NN1
 is_VBZ
 of_PRF
@@ -19179,8 +19179,8 @@ South_NN1
 is_VBZ
 a_AT0
 former_DT0
-three-storey_AJ0-NN1
-beer-bottling_AJ0-NN1
+three-storey_AJ0
+beer-bottling_AJ0
 plant_NN1
 built_VVN
 in_PRP
@@ -19241,7 +19241,7 @@ of_PRF
 Foster_NP0
 's_POS
 long_AJ0
-awaited_VVD
+awaited_VVN
 regeneration_NN1
 scheme_NN1
 Fitch_NP0
@@ -19250,9 +19250,9 @@ arrival_NN1
 and_CJC
 that_CJT
 of_PRF
-next-door_AJ0-NN1
+next-door_AJ0
 neighbours_NN2
-DEGW_NP0-NN1
+DEGW_NN1
 is_VBZ
 perhaps_AV0
 just_AV0
@@ -19296,7 +19296,7 @@ building_NN1
 in_PRP
 the_AT0
 West_NP0
-End_NP0
+End_NN1
 would_VM0
 have_VHB
 been_VBN
@@ -19341,7 +19341,7 @@ existing_AJ0
 fabric_NN1
 The_AT0
 original_AJ0
-three-storey_AJ0-NN1
+three-storey_AJ0
 Edwardian_AJ0
 building_NN1
 with_PRP
@@ -19355,7 +19355,7 @@ adaptable_AJ0
 But_CJC
 a_AT0
 tatty_AJ0
-concrete_AJ0-NN1
+concrete_AJ0
 post-war_AJ0
 extension_NN1
 located_VVN
@@ -19372,7 +19372,7 @@ creation_NN1
 of_PRF
 a_AT0
 new_AJ0
-five-storey_AJ0-NN1
+five-storey_AJ0
 office_NN1
 space_NN1
 in_PRP
@@ -19430,7 +19430,7 @@ but_CJC
 this_DT0
 would_VM0
 have_VHB
-sliced_AJ0
+sliced_VVN
 the_AT0
 building_NN1
 into_PRP
@@ -19452,7 +19452,7 @@ adopted_VVN
 Visitors_NN2
 enter_VVI
 the_AT0
-slate-floored_AJ0-NN1
+slate-floored_AJ0
 reception_NN1
 area_NN1
 up_AVP
@@ -19524,7 +19524,7 @@ have_VHB
 nicknamed_VVN
 the_AT0
 gorge_NN1
-Raised_AJ0-VVN
+Raised_VVN
 up_AVP
 to_TO0
 ensure_VVI
@@ -19559,7 +19559,7 @@ almost_AV0
 from_PRP
 front_NN1
 to_TO0
-rear_AJ0-NN1
+rear_NN1
 is_VBZ
 the_AT0
 planar_AJ0
@@ -19571,12 +19571,12 @@ a_AT0
 simple_AJ0
 bowstring_NN1
 steel_NN1
-truss_NN1-VVB
+truss_VVB
 frame_NN1
 Linking_VVG
 up_AVP
 with_PRP
-ceiling-to-floor_AJ0-NN1
+ceiling-to-floor_AJ0
 glazing_NN1
 on_PRP
 the_AT0
@@ -19605,7 +19605,7 @@ with_PRP
 the_AT0
 smooth_AJ0
 screed_NN1
-concrete_AJ0-NN1
+concrete_AJ0
 on_PRP
 either_AV0
 side_NN1
@@ -19660,7 +19660,7 @@ and_CJC
 accompanying_VVG
 walkways_NN2
 The_AT0
-full-height_AJ0-NN1
+full-height_AJ0
 enclosed_AJ0
 stair_NN1
 tower_NN1
@@ -19689,7 +19689,7 @@ square_NN1
 windows_NN2
 with_PRP
 steel_NN1
-riveted_VVN-VVD
+riveted_VVD
 frames_NN2
 This_DT0
 grid-like_AJ0
@@ -19703,7 +19703,7 @@ scheme_NN1
 for_PRP
 example_NN1
 the_AT0
-beech-wood_AJ0-NN1
+beech-wood_AJ0
 frames_NN2
 surrounded_VVN
 the_AT0
@@ -19728,7 +19728,7 @@ in_PRP
 the_AT0
 floor_NN1
 which_DTQ
-wash_VVI
+wash_NN1
 the_AT0
 walls_NN2
 with_PRP
@@ -19785,7 +19785,7 @@ the_AT0
 kitchen/servery_NN1
 area_NN1
 The_AT0
-high-tech_AJ0-NN1
+high-tech_AJ0
 equipment_NN1
 for_PRP
 these_DT0
@@ -19834,7 +19834,7 @@ columns_NN2
 tow_VVI
 of_PRF
 which_DTQ
-drive_VVI
+drive_NN1
 up_AVP
 through_PRP
 the_AT0
@@ -19972,7 +19972,7 @@ albeit_CJS
 taken_VVN
 inside_PRP
 and_CJC
-miniaturised_VVD-AJ0
+miniaturised_AJ0
 The_AT0
 sense_NN1
 of_PRF
@@ -20014,9 +20014,9 @@ bottling_NN1
 plant_NN1
 shared_VVN
 by_PRP
-next-door_AJ0-NN1
+next-door_AJ0
 neighbours_NN2
-DEGW_NP0-NN1
+DEGW_NN1
 houses_NN2
 all_DT0
 the_AT0
@@ -20056,7 +20056,7 @@ floor_NN1
 in_PRP
 the_AT0
 former_DT0
-roof-void_AJ0-NN1
+roof-void_AJ0
 area_NN1
 With_PRP
 three_CRD
@@ -20280,12 +20280,12 @@ hand_NN1
 to_TO0
 install_VVI
 a_AT0
-brise-soleil_NN1-AJ0
+brise-soleil_NN1
 and_CJC
 possibly_AV0
 a_AT0
 local_AJ0
-air-conditioning_AJ0-NN1
+air-conditioning_NN1
 system_NN1
 Elsewhere_AV0
 in_PRP
@@ -20399,7 +20399,7 @@ balcony_NN1
 cut_VVN
 into_PRP
 the_AT0
-top-floor_AJ0-NN1
+top-floor_AJ0
 end-wall_NN1
 which_DTQ
 offers_VVZ
@@ -20438,7 +20438,7 @@ we_PNP
 had_VHD
 to_TO0
 use_NN1
-high-frequency_AJ0-NN1
+high-frequency_AJ0
 fluorescents_NN2
 In_PRP
 collaboration_NN1
@@ -20561,7 +20561,7 @@ entrance_NN1
 area_NN1
 provide_VVI
 a_AT0
-semi-public_AJ0-NN1
+semi-public_AJ0
 view_NN1
 down_AVP
 into_PRP
@@ -20702,7 +20702,7 @@ one-time_AJ0
 rivals_NN2
 Michael_NP0
 Peters_NP0
-fall_VVI
+fall_NN1
 by_PRP
 the_AT0
 wayside_NN1
@@ -20762,7 +20762,7 @@ of_PRF
 the_AT0
 1980s_CRD
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 effect_NN1
 is_VBZ
 both_AV0
@@ -20804,7 +20804,7 @@ MacFarlane_NP0
 Mechanical_AJ0
 Engineer_NN1
 Mott_NP0
-Laverack_NP0-NN1
+Laverack_NN1
 Quantity_NN1
 Surveyor_NN1
 Banks_NN2
@@ -20827,11 +20827,11 @@ Stewart_NP0
 Joinery_NN1
 Subcontractor_NP0
 Hillsons_NP0
-Contracting_VVG-AJ0
-Metalwork_NN1-NP0
+Contracting_AJ0
+Metalwork_NN1
 Subcontractor_NP0
 Aynsleys_NP0
-Metalwork_NN1-NP0
+Metalwork_NN1
 Right_AV0
 view_NN1
 through_PRP
@@ -20866,7 +20866,7 @@ plan_NN1
 Roofing_NN1
 Flat_AJ0
 and_CJC
-Pitched_VVD-VVN
+Pitched_VVN
 Tile_NN1
 Council_NN1
 Robin_NP0
@@ -20900,7 +20900,7 @@ the_AT0
 Council_NN1
 's_POS
 members_NN2
-Left_AJ0-NN1
+Left_AJ0
 Redland_NP0
 's_POS
 new_AJ0
@@ -21018,13 +21018,13 @@ Tiles_NN2
 must_VM0
 pass_VVI
 100_CRD
-freeze/thaw_NN1-VVB
+freeze/thaw_NN1
 cycles_NN2
 which_DTQ
 is_VBZ
 twice_AV0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 requirement_NN1
 for_PRP
 example_NN1
@@ -21247,7 +21247,7 @@ case_NN1
 Such_DT0
 is_VBZ
 the_AT0
-Delors-led_AJ0-NN1
+Delors-led_NN1
 demand_NN1
 for_PRP
 uniformity_NN1
@@ -21357,7 +21357,7 @@ of_PRF
 the_AT0
 current_AJ0
 British_AJ0
-French_AJ0-NN1
+French_AJ0
 Dutch_AJ0
 and_CJC
 German_AJ0
@@ -21456,7 +21456,7 @@ into_PRP
 a_AT0
 piece_NN1
 of_PRF
-Euro-nonsense_NN1-AJ0
+Euro-nonsense_NN1
 Fittings_NN2
 as_CJS
 you_PNP
@@ -21638,7 +21638,7 @@ the_AT0
 UK_NP0
 's_POS
 largest_AJS
-pitched_AJ0
+pitched_VVD
 roofing_NN1
 manufacturer_NN1
 Redland_NP0
@@ -21694,7 +21694,7 @@ is_VBZ
 the_AT0
 largest_AJS
 single_AJ0
-green-field_AJ0-NN1
+green-field_AJ0
 plant_NN1
 investment_NN1
 the_AT0
@@ -21829,7 +21829,7 @@ a_AT0
 decade_NN1
 On_PRP
 Humberside_NP0
-Sandtoft_NP0-NN1
+Sandtoft_NP0
 has_VHZ
 recently_AV0
 announced_VVD
@@ -21989,7 +21989,7 @@ made_VVN
 on_PRP
 one_CRD
 of_PRF
-Sandtoft_NP0-NN1
+Sandtoft_NP0
 's_POS
 modern_AJ0
 multiple_AJ0
@@ -22059,7 +22059,7 @@ surface_NN1
 ensures_VVZ
 that_CJT
 it_PNP
-blends_VVZ
+blends_NN2
 right_NN1
 away_AV0
 with_PRP
@@ -22150,7 +22150,7 @@ demands_NN2
 of_PRF
 this_DT0
 market_NN1
-Left_AJ0-NN1
+Left_AJ0
 two_CRD
 rebuilt_VVN
 Tudor_NP0
@@ -22225,7 +22225,7 @@ by_PRP
 an_AT0
 expansion_NN1
 in_PRP
-pitched_AJ0
+pitched_VVD
 roof_NN1
 construction_NN1
 Both_DT0
@@ -22241,7 +22241,7 @@ subject_NN1
 to_TO0
 imitation_NN1
 with_PRP
-varying_AJ0-VVG
+varying_AJ0
 degrees_NN2
 of_PRF
 success_NN1
@@ -22553,9 +22553,9 @@ of_PRF
 The_AT0
 Flat_AJ0
 Roofing_NN1
-Guide_NN1-VVB
+Guide_NN1
 A_AT0
-450-page_NN1-AJ0
+450-page_NN1
 hardback_NN1
 volume_NN1
 illustrated_VVN
@@ -22570,7 +22570,7 @@ be_VBI
 issued_VVN
 in_PRP
 1991_CRD
-Editing_NN1-VVG
+Editing_NN1
 and_CJC
 updating_VVG
 will_VM0
@@ -22755,7 +22755,7 @@ will_VM0
 be_VBI
 examined_VVN
 including_PRP
-APP_NP0-NN1
+APP_NP0
 and_CJC
 SBS_NP0
 polymer-modified_NN1
@@ -22780,7 +22780,7 @@ systems_NN2
 each_DT0
 with_PRP
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 gross_AJ0
 area_NN1
 of_PRF
@@ -22813,7 +22813,7 @@ NatWest_NP0
 Staff_NN0
 College_NN1
 at_PRP
-Heythorp_NP0-NN1
+Heythorp_NP0
 Park_NN1
 All_DT0
 the_AT0
@@ -22837,7 +22837,7 @@ including_PRP
 infra-red_AJ0
 thermography_NN1
 ultrasonic_AJ0
-pulse-echo_AJ0-NN1
+pulse-echo_NN1
 testing_NN1
 and_CJC
 strain_NN1
@@ -22914,7 +22914,7 @@ The_AT0
 research_NN1
 programme_NN1
 has_VHZ
-involved_AJ0
+involved_VVN
 the_AT0
 creation_NN1
 of_PRF
@@ -22963,8 +22963,8 @@ from_PRP
 the_AT0
 Government_NN1
 's_POS
-DOE_NP0-NN1
-LINK_NN1-VVB
+DOE_NP0
+LINK_VVB
 programme_NN1
 Since_CJS
 the_AT0
@@ -22986,7 +22986,7 @@ maintenance_NN1
 and_CJC
 to_TO0
 develop_VVI
-improved_AJ0
+improved_VVN
 specification_NN1
 and_CJC
 quality_NN1
@@ -23039,7 +23039,7 @@ In_PRP
 the_AT0
 past_NN1
 the_AT0
-fall_VVI
+fall_NN1
 from_PRP
 grace_NN1
 of_PRF
@@ -23139,7 +23139,7 @@ with_PRP
 BFRC_NP0
 The_AT0
 new_AJ0
-improved_AJ0
+improved_VVN
 materials_NN2
 available_AJ0
 have_VHB
@@ -23160,7 +23160,7 @@ These_DT0
 flat_AJ0
 roofing_NN1
 materials_NN2
-fall_VVI
+fall_NN1
 into_PRP
 three_CRD
 major_AJ0
@@ -23214,7 +23214,7 @@ resistance_NN1
 to_TO0
 damage-in-use_NN1
 were_VBD
-increased_AJ0
+increased_VVN
 by_PRP
 factors_NN2
 of_PRF
@@ -23357,7 +23357,7 @@ carried_VVN
 out_AVP
 by_PRP
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 mastic_NN1
 asphalt_NN1
 contractor_NN1
@@ -23375,7 +23375,7 @@ general_AJ0
 a_AT0
 general_AJ0
 a_AT0
-concrete_AJ0-NN1
+concrete_AJ0
 base_NN1
 is_VBZ
 preferred_VVD
@@ -23538,7 +23538,7 @@ any_DT0
 of_PRF
 the_AT0
 new_AJ0
-improved_AJ0
+improved_VVN
 materials_NN2
 is_VBZ
 dependent_AJ0
@@ -23560,7 +23560,7 @@ installer_NN1
 Over_PRP
 the_AT0
 years_NN2
-improved_AJ0
+improved_VVN
 material_NN1
 and_CJC
 application_NN1
@@ -23596,7 +23596,7 @@ importance_NN1
 of_PRF
 good_AJ0
 design_NN1
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 the_AT0
 use_NN1
@@ -23609,7 +23609,7 @@ design_NN1
 can_VM0
 not_XX0
 be_VBI
-stressed_VVD
+stressed_VVN
 too_AV0
 strongly_AV0
 The_AT0
@@ -23635,7 +23635,7 @@ low-pitched_AJ0
 roofing_NN1
 and_CJC
 gradually_AV0
-eradicating_VVG-AJ0
+eradicating_VVG
 the_AT0
 memory_NN1
 of_PRF
@@ -23683,7 +23683,7 @@ European_AJ0
 scene_NN1
 is_VBZ
 changing_VVG
-fast_AV0-AJ0
+fast_AJ0
 The_AT0
 CEN_AJ0
 Technical_AJ0
@@ -23774,10 +23774,10 @@ applications_NN2
 and_CJC
 company_NN1
 developments_NN2
-Lightweight_AJ0-NN1
+Lightweight_AJ0
 Replacement_NN1
 Slate_NN1
-Anchorlite_NN1-NP0
+Anchorlite_NN1
 Slate_NN1
 is_VBZ
 the_AT0
@@ -23836,7 +23836,7 @@ with_PRP
 a_AT0
 50-year_AJ0
 guarantee_NN1
-Anchorlite_NN1-NP0
+Anchorlite_NN1
 is_VBZ
 available_AJ0
 initially_AV0
@@ -23850,7 +23850,7 @@ for_PRP
 use_NN1
 on_PRP
 all_DT0
-pitched_AJ0
+pitched_VVD
 roofs_NN2
 from_PRP
 25_CRD
@@ -23895,7 +23895,7 @@ A_AT0
 full_AJ0
 range_NN1
 of_PRF
-matching_VVG
+matching_AJ0
 detailing_VVG
 products_NN2
 for_PRP
@@ -23913,15 +23913,15 @@ number_NN1
 141_CRD
 Reading_NP0
 Landmark_NN1
-Twin_NN1-AJ0
-barrel-vault_NN1-AJ0
+Twin_NN1
+barrel-vault_NN1
 roofs_NN2
 formed_VVN
 from_PRP
 Broderick_NP0
 Structures_NN2
 '_POS
-Brodseam_NN1-NP0
+Brodseam_NN1
 were_VBD
 used_VVN
 in_PRP
@@ -23962,7 +23962,7 @@ contrasts_NN2
 with_PRP
 the_AT0
 white_AJ0
-powder-coated_AJ0-NN1
+powder-coated_NN1
 aluminium_NN1
 walls_NN2
 Reader_NN1
@@ -23985,7 +23985,7 @@ Joseph_NP0
 's_POS
 Convent_NN1
 and_CJC
-Convalescent_AJ0-NN1
+Convalescent_AJ0
 Home_NN1
 which_DTQ
 has_VHZ
@@ -24016,7 +24016,7 @@ The_AT0
 architects_NN2
 were_VBD
 Jackson_NP0
-Greenen_NP0-NN1
+Greenen_NN1
 Down_NP0
 and_CJC
 Partners_NN2
@@ -24031,12 +24031,12 @@ Tile_NN1
 for_PRP
 Exploration_NN1
 Building_NN1
-Sandtoft_NP0-NN1
+Sandtoft_NP0
 's_POS
 natural_AJ0
 red_AJ0
 Old_AJ0
-English_AJ0-NN1
+English_AJ0
 clay_NN1
 pantiles_NN2
 have_VHB
@@ -24081,7 +24081,7 @@ enquiry_NN1
 number_NN1
 144_CRD
 Ventilated_AJ0
-Lean-to_AJ0-NN1
+Lean-to_NN1
 Roof_NN1
 Solution_NN1
 The_AT0
@@ -24140,7 +24140,7 @@ be_VBI
 easily_AV0
 applied_VVN
 without_PRP
-dressing_VVG
+dressing_NN1
 and_CJC
 provides_VVZ
 a_AT0
@@ -24227,8 +24227,8 @@ and_CJC
 development_NN1
 building_NN1
 for_PRP
-Rank_NP0-NN1
-Xerox_NP0-NN1
+Rank_NN1
+Xerox_NP0
 in_PRP
 Welwyn_NP0
 Garden_NN1
@@ -24281,7 +24281,7 @@ ultra-violet_AJ0
 degradation_NN1
 fire_NN1
 and_CJC
-chemical_AJ0-NN1
+chemical_AJ0
 attack_NN1
 Installation_NN1
 is_VBZ
@@ -24311,7 +24311,7 @@ the_AT0
 final_AJ0
 installation_NN1
 before_PRP
-issuing_VVG-AJ0
+issuing_VVG
 a_AT0
 10-year_AJ0
 guarantee_NN1
@@ -24328,8 +24328,8 @@ envelope_NN1
 of_PRF
 the_AT0
 Ponds_NN2
-Forge_NP0-NN1
-Swimming_VVG-NN1
+Forge_NP0
+Swimming_NN1
 Pool_NN1
 in_PRP
 Sheffield_NP0
@@ -24339,7 +24339,7 @@ FaulknerBrowns_NP0
 is_VBZ
 almost_AV0
 complete_AJ0
-Planned_VVN-AJ0
+Planned_VVN
 to_TO0
 be_VBI
 open_AJ0
@@ -24432,7 +24432,7 @@ performance_NN1
 vapour_NN1
 barrier_NN1
 from_PRP
-Monarflex_NP0-NN1
+Monarflex_NN1
 capable_AJ0
 of_PRF
 overcoming_VVG
@@ -24444,7 +24444,7 @@ quality_NN1
 control_NN1
 of_PRF
 sheet_NN1
-jointing_VVG-NN1
+jointing_VVG
 and_CJC
 general_AJ0
 construction_NN1
@@ -24452,7 +24452,7 @@ damage_NN1
 For_PRP
 the_AT0
 Ponds_NN2
-Forge_NP0-NN1
+Forge_NP0
 roof_NN1
 clear_AJ0
 0.5_CRD
@@ -24486,7 +24486,7 @@ for_PRP
 Homes_NN2
 At_PRP
 the_AT0
-Swan_NP0-NN1
+Swan_NP0
 Reach_VVB
 development_NN1
 at_PRP
@@ -24511,7 +24511,7 @@ for_PRP
 clients_NN2
 Jarvis_NP0
 Homes_NN2
-Dark_AJ0-NN1
+Dark_AJ0
 grey_AJ0
 Hardrow_NN1
 slates_NN2
@@ -24545,7 +24545,7 @@ extensive_AJ0
 refurbishment_NN1
 of_PRF
 its_DPS
-Hughsfield_NP0-NN1
+Hughsfield_NN1
 Estate_NN1
 the_AT0
 London_NP0
@@ -24564,11 +24564,11 @@ Vulcatherm_NN1
 insulation_NN1
 boards_NN2
 The_AT0
-Hughsfield_NP0-NN1
+Hughsfield_NN1
 Estate_NN1
 is_VBZ
 a_AT0
-mixed_AJ0
+mixed_VVN
 development_NN1
 of_PRF
 blocks_NN2
@@ -24644,12 +24644,12 @@ less_AV0
 than_CJS
 is_VBZ
 popular_AJ0
-hand-riven_NN1-AJ0
+hand-riven_AJ0
 Westmorland_NP0
 green_AJ0
 roofing_NN1
 slate_NN1
-Cumbria-based_AJ0-NN1
+Cumbria-based_NN1
 Burlington_NP0
 Slate_NN1
 now_AV0
@@ -24658,13 +24658,13 @@ the_AT0
 product_NN1
 with_PRP
 a_AT0
-sawn_AJ0-VVN
+sawn_AJ0
 face_NN1
 The_AT0
 company_NN1
 introduced_VVN
 the_AT0
-bate_AJ0-NN1
+bate_NN1
 sawing_VVG
 of_PRF
 Westmorland_NP0
@@ -24685,10 +24685,10 @@ rock_NN1
 In_PRP
 addition_NN1
 to_TO0
-initial_AJ0-NN1
+initial_AJ0
 cost_NN1
 savings_NN2
-sawn_AJ0-VVN
+sawn_AJ0
 roofing_NN1
 slate_NN1
 has_VHZ
@@ -24780,11 +24780,11 @@ are_VBB
 dressed_VVN
 with_PRP
 the_AT0
-bevelled_VVD-AJ0
+bevelled_AJ0
 tail_NN1
 and_CJC
 edge_NN1
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 thick_AJ0
 square_NN1
@@ -24814,7 +24814,7 @@ Products_NN2
 Hardwood_NN1
 Conservatories_NN2
 Although_CJS
-Atrium_NN1-NP0
+Atrium_NP0
 Conservatory_NN1
 Systems_NN2
 uses_NN2
@@ -24848,7 +24848,7 @@ company_NN1
 does_VDZ
 not_XX0
 use_NN1
-infill_NN1-VVB
+infill_NN1
 spacers_NN2
 In_PRP
 it_PNP
@@ -24873,7 +24873,7 @@ structure_NN1
 is_VBZ
 test-erected_AJ0
 in_PRP
-Atrium_NN1-NP0
+Atrium_NP0
 's_POS
 factory_NN1
 Reader_NN1
@@ -24942,7 +24942,7 @@ and_CJC
 good_AJ0
 light_NN1
 reflectancy_NN1
-Sealed_AJ0-VVD
+Sealed_VVD
 ML_NN0
 ceilings_NN2
 for_PRP
@@ -24967,14 +24967,14 @@ by_PRP
 Redland_NP0
 Brick_NN1
 the_AT0
-Chailey_NP0-NN1
+Chailey_NP0
 Multicoloured_AJ0
-Stock_NP0-NN1
+Stock_NN1
 and_CJC
 the_AT0
-improved_AJ0
+improved_VVN
 Wealden_NP0
-Stock_NP0-NN1
+Stock_NN1
 Flex_NN1
 paver_NN1
 The_AT0
@@ -24990,7 +24990,7 @@ coloration_NN1
 of_PRF
 a_AT0
 genuine_AJ0
-clamp-fired_AJ0-NN1
+clamp-fired_AJ0
 brick_NN1
 whilst_CJS
 the_AT0
@@ -25011,7 +25011,7 @@ have_VHB
 non-slip_AJ0
 surfaces_NN2
 the_AT0
-Chailey_NP0-NN1
+Chailey_NP0
 has_VHZ
 an_AT0
 FL_AJ0
@@ -25046,7 +25046,7 @@ Alexandra_NP0
 Palace_NN1
 is_VBZ
 the_AT0
-Niviv_NN1-NP0
+Niviv_NN1
 a_AT0
 steel_NN1
 design_NN1
@@ -25089,14 +25089,14 @@ include_VVI
 British_AJ0
 Danish_AJ0
 and_CJC
-French_AJ0-NN1
+French_AJ0
 systems_NN2
 Reader_NN1
 enquiry_NN1
 number_NN1
 124_CRD
 Wood_NP0
-Laminate_NP0-NN1
+Laminate_NN1
 Suitable_AJ0
 for_PRP
 internal_AJ0
@@ -25206,7 +25206,7 @@ and_CJC
 laminates_NN2
 and_CJC
 the_AT0
-upholstered_VVD
+upholstered_AJ0
 seat_NN1
 in_PRP
 a_AT0
@@ -25307,9 +25307,9 @@ of_PRF
 the_AT0
 original_AJ0
 composite_AJ0
-steel/concrete_NN1-AJ0
+steel/concrete_AJ0
 Thor_NP0
-Beam_NN1-VVB
+Beam_VVB
 launched_VVN
 a_AT0
 few_DT0
@@ -25329,12 +25329,12 @@ now_AV0
 been_VBN
 introduced_VVN
 by_PRP
-ConstrucThor_NP0-NN1
+ConstrucThor_NN1
 Its_DPS
 characteristics_NN2
 include_VVI
 reduced_VVN
-overall_AJ0-NN1
+overall_AJ0
 depth_NN1
 no_AT0
 requirement_NN1
@@ -25345,7 +25345,7 @@ protection_NN1
 and_CJC
 a_AT0
 flat_AJ0
-soffit_NN1-VVB
+soffit_NN1
 for_PRP
 ease_NN1
 of_PRF
@@ -25358,7 +25358,7 @@ second_ORD
 version_NN1
 has_VHZ
 continuous_AJ0
-concrete_AJ0-NN1
+concrete_AJ0
 bearing_VVG
 pads_NN2
 on_PRP
@@ -25383,7 +25383,7 @@ of_PRF
 re-configuring_VVG
 office_NN1
 furniture_NN1
-Abak_VVB-NN1
+Abak_NN1
 from_PRP
 Integrated_AJ0
 Furniture_NN1
@@ -25410,7 +25410,7 @@ contains_VVZ
 wireways_NN2
 giving_VVG
 considerable_AJ0
-cable-carrying_AJ0-NN1
+cable-carrying_NN1
 capacity_NN1
 both_AV0
 vertically_AV0
@@ -25418,7 +25418,7 @@ and_CJC
 horizontally_AV0
 Panels_NN2
 simply_AV0
-clip_NN1-VVB
+clip_NN1
 on_PRP
 to_TO0
 the_AT0
@@ -25455,7 +25455,7 @@ round_AVP
 with_PRP
 Bisque_NN1
 's_POS
-Arbonia_NP0-NN1
+Arbonia_NN1
 towel_NN1
 radiator_NN1
 which_DTQ
@@ -25471,8 +25471,8 @@ from_PRP
 Bisque_NN1
 is_VBZ
 the_AT0
-battery-powered_AJ0
-remote-control_AJ0-NN1
+battery-powered_NN1
+remote-control_AJ0
 Bagno-Stat_NP0
 which_DTQ
 allows_VVZ
@@ -25518,7 +25518,7 @@ this_DT0
 country_NN1
 from_PRP
 Thomas_NP0
-Laidlaw_NP0-NN1
+Laidlaw_NP0
 The_AT0
 range_NN1
 is_VBZ
@@ -25559,9 +25559,9 @@ Reader_NN1
 enquiry_NN1
 number_NN1
 1313_CRD
-Glass_NP0-NN1
+Glass_NN1
 Luminaires_NP0
-Glass_NP0-NN1
+Glass_NN1
 fittings_NN2
 Marlin_NP0
 Lighting_NN1
@@ -25574,7 +25574,7 @@ to_TO0
 the_AT0
 light_NN1
 they_PNP
-emit_VVI
+emit_VVB
 hence_AV0
 its_DPS
 Limburg_NP0
@@ -25620,15 +25620,15 @@ fittings_NN2
 in_PRP
 satin_NN1
 matt_AJ0
-three-ply_AJ0-NN1
+three-ply_NN1
 opal_NN1
 glass_NN1
 Reader_NN1
 enquiry_NN1
 number_NN1
 132_CRD
-Fitted_AJ0-VVN
-Sanitaryware_NN1-NP0
+Fitted_AJ0
+Sanitaryware_NN1
 Stelrad_NP0
 Doulton_NP0
 's_POS
@@ -25658,7 +25658,7 @@ semi-recessed_AJ0
 washbasin_NN1
 and_CJC
 the_AT0
-back-to-wall_AJ0-NN1
+back-to-wall_NN1
 WC_NN1
 They_PNP
 are_VBB
@@ -25710,7 +25710,7 @@ Donn_NP0
 Products_NN2
 '_POS
 new_AJ0
-Auratone_NN1-NP0
+Auratone_NN1
 Nordic_AJ0
 ceiling_NN1
 panel_NN1
@@ -25751,8 +25751,8 @@ whilst_CJS
 shadow_NN1
 line_NN1
 and_CJC
-interline_VVB-NN1
-edged_VVN
+interline_NN1
+edged_VVD
 panels_NN2
 are_VBB
 available_AJ0
@@ -25762,7 +25762,7 @@ the_AT0
 smaller_AJC
 size_NN1
 Flame_NN1
-spread_NN1
+spread_VVN
 is_VBZ
 Class_NN1
 1_CRD
@@ -25816,8 +25816,8 @@ as_CJS
 including_PRP
 external_AJ0
 luminaires_NN2
-Low-glare_NN1-AJ0
-high-efficiency_AJ0-NN1
+Low-glare_NN1
+high-efficiency_AJ0
 and_CJC
 good_AJ0
 colour_NN1
@@ -25831,7 +25831,7 @@ number_NN1
 135_CRD
 Light_NN1
 fittings_NN2
-Zon_NP0-NN1
+Zon_NP0
 International_AJ0
 has_VHZ
 announced_VVD
@@ -25844,10 +25844,10 @@ the_AT0
 UK_NP0
 distributorship_NN1
 for_PRP
-Solar_AJ0-NN1
+Solar_AJ0
 lighting_NN1
 products_NN2
-Solar_AJ0-NN1
+Solar_AJ0
 hales_NN2
 from_PRP
 Scandinavia_NP0
@@ -25868,7 +25868,7 @@ the_AT0
 British_AJ0
 market_NN1
 New_AJ0
-Solar_AJ0-NN1
+Solar_AJ0
 products_NN2
 to_TO0
 be_VBI
@@ -25912,7 +25912,7 @@ and_CJC
 fire_NN1
 alarm_NN1
 system_NN1
-Starting_VVG-NN1
+Starting_VVG
 with_PRP
 30_CRD
 monitoring_NN1
@@ -25929,7 +25929,7 @@ fact_NN1
 that_CJT
 it_PNP
 can_VM0
-substitute_NN1-AJ0
+substitute_NN1
 two_CRD
 wires_NN2
 punctuated_VVN
@@ -26029,7 +26029,7 @@ with_PRP
 new_AJ0
 pivot_NN1
 style_NN1
-clips_NN2-VVZ
+clips_NN2
 and_CJC
 is_VBZ
 fitted_VVN
@@ -26037,12 +26037,12 @@ with_PRP
 a_AT0
 long_AJ0
 radius_NN1
-downpipe_NN1-VVB
+downpipe_NN1
 Reader_NN1
 enquiry_NN1
 number_NN1
 138_CRD
-Continuing_VVG-AJ0
+Continuing_VVG
 Professional_AJ0
 Development_NN1
 Comparing_VVG
@@ -26250,7 +26250,7 @@ last_ORD
 year_NN1
 for_PRP
 the_AT0
-DOE_NP0-NN1
+DOE_NP0
 and_CJC
 the_AT0
 Council_NN1
@@ -26272,7 +26272,7 @@ developing_VVG
 CPD_NP0
 for_PRP
 the_AT0
-RTPI_NN1-NP0
+RTPI_NN1
 presented_VVN
 the_AT0
 results_NN2
@@ -26333,7 +26333,7 @@ the_AT0
 knowledge_NN1
 gained_VVN
 in_PRP
-initial_AJ0-NN1
+initial_AJ0
 vocational_AJ0
 education_NN1
 may_VM0
@@ -26353,7 +26353,7 @@ to_TO0
 high_AJ0
 expectations_NN2
 and_CJC
-increased_AJ0
+increased_VVN
 litigation_NN1
 which_DTQ
 in_PRP
@@ -26442,16 +26442,16 @@ monitored_VVN
 and_CJC
 the_AT0
 fully_AV0
-enforced_AJ0
+enforced_VVN
 Most_DT0
 institutions_NN2
 including_PRP
 the_AT0
 RIBA_NP0
 under_PRP
-present_AJ0-NN1
+present_AJ0
 proposals_NN2
-fall_VVI
+fall_NN1
 into_PRP
 the_AT0
 middle_NN1
@@ -26470,12 +26470,12 @@ cases_NN2
 explicit_AJ0
 requirement_NN1
 The_AT0
-CIBSE_NP0-NN1
+CIBSE_NP0
 the_AT0
 ICE_NN1
 and_CJC
 the_AT0
-RTPI_NN1-NP0
+RTPI_NN1
 have_VHB
 schemes_NN2
 that_CJT
@@ -26494,7 +26494,7 @@ higher_AJC
 grades_NN2
 of_PRF
 membership_NN1
-CIBSE_NP0-NN1
+CIBSE_NP0
 plans_NN2
 to_TO0
 make_VVI
@@ -26636,7 +26636,7 @@ them_PNP
 this_DT0
 year_NN1
 The_AT0
-RICS_NN1-NP0
+RICS_NN1
 acted_VVD
 early_AJ0
 to_TO0
@@ -26723,7 +26723,7 @@ The_AT0
 most_AV0
 rigid_AJ0
 requirements_NN2
-lie_VVI
+lie_VVB
 outside_PRP
 the_AT0
 construction_NN1
@@ -26825,7 +26825,7 @@ that_CJT
 take-up_NN1
 in_PRP
 the_AT0
-RICS_NN1-NP0
+RICS_NN1
 with_PRP
 its_DPS
 earlier_AJC
@@ -26906,7 +26906,7 @@ may_VM0
 be_VBI
 argued_VVD
 that_CJT
-overall_AJ0-NN1
+overall_AJ0
 more_AV0
 learning_NN1
 takes_VVZ
@@ -26968,7 +26968,7 @@ practice_NN1
 review/practitioner_NN1
 research_NN1
 and_CJC
-self-help_AJ0-NN1
+self-help_AJ0
 groups_NN2
 Different_AJ0
 professional_AJ0
@@ -26987,7 +26987,7 @@ and_CJC
 their_DPS
 mix_NN1
 The_AT0
-CIOB_NN1-NP0
+CIOB_NP0
 for_PRP
 example_NN1
 draws_VVZ
@@ -27001,7 +27001,7 @@ activities_NN2
 which_DTQ
 contribute_VVI
 to_TO0
-improved_AJ0
+improved_VVN
 professional_AJ0
 performance_NN1
 and_CJC
@@ -27051,7 +27051,7 @@ CPD_NP0
 officers_NN2
 in_PRP
 the_AT0
-CIOB_NN1-NP0
+CIOB_NP0
 's_POS
 13_CRD
 regions_NN2
@@ -27120,7 +27120,7 @@ Manager_NN1
 Once_AV0
 again_AV0
 the_AT0
-RICS_NN1-NP0
+RICS_NN1
 has_VHZ
 a_AT0
 well_AV0
@@ -27199,7 +27199,7 @@ the_AT0
 ISE_NP0
 and_CJC
 the_AT0
-RICS_NN1-NP0
+RICS_NN1
 is_VBZ
 on_PRP
 individual_AJ0
@@ -27220,13 +27220,13 @@ but_CJC
 as_CJS
 with_PRP
 the_AT0
-CIOB_NN1-NP0
+CIOB_NP0
 a_AT0
 distinction_NN1
 is_VBZ
 drawn_VVN
 between_PRP
-practice-related_AJ0-NN1
+practice-related_NN1
 CPD_NP0
 and_CJC
 personal_AJ0
@@ -27307,12 +27307,12 @@ permitted_VVN
 to_TO0
 allow_VVI
 for_PRP
-varying_AJ0-VVG
+varying_AJ0
 circumstances_NN2
-CIOB_NN1-NP0
-CIBSE_NP0-NN1
+CIOB_NP0
+CIBSE_NP0
 and_CJC
-RICS_NN1-NP0
+RICS_NN1
 all_DT0
 look_VVI
 for_PRP
@@ -27322,7 +27322,7 @@ per_UNC
 year_NN1
 while_CJS
 the_AT0
-RTPI_NN1-NP0
+RTPI_NN1
 expects_VVZ
 25_CRD
 hours_NN2
@@ -27382,7 +27382,7 @@ in_PRP
 particular_AJ0
 the_AT0
 strong_AJ0
-drive_VVI
+drive_NN1
 to_TO0
 continuing_AJ0
 professional_AJ0
@@ -27390,7 +27390,7 @@ in_PRP
 particular_AJ0
 the_AT0
 strong_AJ0
-drive_VVI
+drive_NN1
 to_TO0
 continuing_AJ0
 professional_AJ0
@@ -27508,7 +27508,7 @@ tackled_VVN
 Members_NN2
 Obituaries_NN2
 Robert_NP0
-Purdew_VVB
+Purdew_NP0
 died_VVD
 on_PRP
 11_CRD
@@ -27537,7 +27537,7 @@ former_DT0
 colleagues_NN2
 will_VM0
 greatly_AV0
-regret_VVI
+regret_NN1
 his_DPS
 passing_VVG
 In_PRP
@@ -27576,7 +27576,7 @@ including_PRP
 a_AT0
 period_NN1
 as_CJS
-Chief_NP0
+Chief_NN1
 Architect_NN1
 at_PRP
 Camus_NP0
@@ -27601,9 +27601,9 @@ Agency_NN1
 's_POS
 advisory_AJ0
 work_NN1
-Purdew_VVB
+Purdew_NP0
 greatly_AV0
-improved_AJ0
+improved_VVN
 the_AT0
 detailed_AJ0
 planning_NN1
@@ -27627,7 +27627,7 @@ number_NN1
 of_PRF
 authorities_NN2
 of_PRF
-rationalised_VVD-VVN
+rationalised_VVN
 traditional_AJ0
 designs_NN2
 and_CJC
@@ -27675,7 +27675,7 @@ the_AT0
 BRE_NP0
 and_CJC
 with_PRP
-TRADA_NP0-NN1
+TRADA_NP0
 he_PNP
 carried_VVN
 out_AVP
@@ -27877,11 +27877,11 @@ question_NN1
 but_CJC
 according_VVG
 to_TO0
-DOCOMOMO_NP0-NN1
+DOCOMOMO_NN1
 it_PNP
 is_VBZ
 not_XX0
-DOCOMOMO_NP0-NN1
+DOCOMOMO_NN1
 is_VBZ
 the_AT0
 euphoniously_AV0
@@ -27939,7 +27939,7 @@ unexpected_AJ0
 direction_NN1
 While_CJS
 some_DT0
-DOCOMOMO_NP0-NN1
+DOCOMOMO_NN1
 delegates_NN2
 were_VBD
 tough-minded_AJ0
@@ -27955,7 +27955,7 @@ famous_AJ0
 exhortation_NN1
 to_TO0
 his_DPS
-wavering_VVG-AJ0
+wavering_VVG
 guardsmen_NN2
 Do_VDB
 you_PNP
@@ -27991,14 +27991,14 @@ to_TO0
 the_AT0
 Eindhoven_NP0
 conference_NN1
-DOCOMOMO_NP0-NN1
+DOCOMOMO_NN1
 should_VM0
 have_VHB
 recognised_VVN
 immediately_AV0
 that_CJT
 the_AT0
-conservation_AJ0-NN1
+conservation_NN1
 industry_NN1
 has_VHZ
 aims_NN2
@@ -28128,7 +28128,7 @@ the_AT0
 siren_NN1
 song_NN1
 of_PRF
-conservation_AJ0-NN1
+conservation_NN1
 more_AV0
 difficult_AJ0
 to_TO0
@@ -28200,7 +28200,7 @@ the_AT0
 central_AJ0
 committee_NN1
 of_PRF
-DOCOMOMO_NP0-NN1
+DOCOMOMO_NN1
 in_PRP
 the_AT0
 shape_NN1
@@ -28256,7 +28256,7 @@ did_VDD
 not_XX0
 take_VVI
 place_NN1
-Notwithstanding_PRP-CJS
+Notwithstanding_PRP
 the_AT0
 efforts_NN2
 that_CJT
@@ -28270,14 +28270,14 @@ din_NN1
 the_AT0
 contradiction_NN1
 between_PRP
-conservation_AJ0-NN1
+conservation_NN1
 and_CJC
 utilitarianism_NN1
 into_PRP
 the_AT0
 brains_NN2
 behind_PRP
-DOCOMOMO_NP0-NN1
+DOCOMOMO_NN1
 the_AT0
 lure_VVI
 of_PRF
@@ -28390,10 +28390,10 @@ original_AJ0
 Bauhaus_NP0
 buildings_NN2
 the_AT0
-Weissenhof_NN1-NP0
+Weissenhof_NP0
 the_AT0
 Maison_NP0
-Savoye_NP0-NN1
+Savoye_NP0
 and_CJC
 many_DT0
 more_AV0
@@ -28440,7 +28440,7 @@ the_AT0
 destruction_NN1
 of_PRF
 the_AT0
-Tacoma_NP0-NN1
+Tacoma_NP0
 Bridge_NN1
 and_CJC
 Pruitt_NP0
@@ -28473,7 +28473,7 @@ one_CRD
 other_AJ0
 radical_AJ0
 solution_NN1
-canvassed_VVD-VVN
+canvassed_VVD
 at_PRP
 Eindhoven_NP0
 and_CJC
@@ -28509,7 +28509,7 @@ student_NN1
 to_TO0
 the_AT0
 Maison_NP0
-Savoye_NP0-NN1
+Savoye_NP0
 in_PRP
 the_AT0
 summer_NN1
@@ -28558,7 +28558,7 @@ door_NN1
 handles_NN2
 even_AV0
 find_VVI
-undrunk_NN1-VVB
+undrunk_VVB
 wine_NN1
 in_PRP
 a_AT0
@@ -28624,7 +28624,7 @@ two_CRD
 ways_NN2
 in_PRP
 which_DTQ
-DOCOMOMO_NP0-NN1
+DOCOMOMO_NN1
 can_VM0
 remain_VVI
 true_AJ0

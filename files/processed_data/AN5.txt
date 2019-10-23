@@ -205,7 +205,7 @@ Act_NN1
 enabling_VVG
 until_CJS
 the_AT0
-ERA_NP0-NN1
+ERA_NP0
 1988_CRD
 restricted_VVN
 its_DPS
@@ -460,7 +460,7 @@ state_NN1
 parent_NN1
 and_CJC
 child_NN1
-interrelate_NN1-VVB
+interrelate_NN1
 Put_VVB
 simply_AV0
 LEAs_NP0
@@ -793,7 +793,7 @@ and_CJC
 school_NN1
 uniform_NN1
 they_PNP
-lie_VVI
+lie_VVB
 at_PRP
 the_AT0
 heart_NN1
@@ -924,12 +924,12 @@ best_AJS
 be_VBI
 promoted_VVN
 the_AT0
-chief_AJ0-NN1
+chief_NN1
 emphasis_NN1
 was_VBD
 on_PRP
 the_AT0
-competing_VVG-AJ0
+competing_AJ0
 rights_NN2
 and_CJC
 responsibilities_NN2
@@ -1246,7 +1246,7 @@ to_TO0
 the_AT0
 LEA_NP0
 's_POS
-overall_AJ0-NN1
+overall_AJ0
 administrative_AJ0
 goal_NN1
 The_AT0
@@ -1361,7 +1361,7 @@ inter_UNC
 alios_NN2
 a_AT0
 volunteer_NN1
-retired_AJ0
+retired_VVD
 teacher_NN1
 in_PRP
 rooms_NN2
@@ -1759,7 +1759,7 @@ to_TO0
 parental_AJ0
 demands_NN2
 has_VHZ
-involved_AJ0
+involved_VVN
 an_AT0
 extension_NN1
 of_PRF
@@ -2004,7 +2004,7 @@ to_TO0
 parental_AJ0
 wishes_NN2
 The_AT0
-Plowden_NN1-NP0
+Plowden_NP0
 Report_NN1
 on_PRP
 Children_NN2
@@ -2099,7 +2099,7 @@ the_AT0
 light_NN1
 of_PRF
 the_AT0
-present_AJ0-NN1
+present_AJ0
 government_NN1
 's_POS
 open_AJ0
@@ -2107,7 +2107,7 @@ enrolment_NN1
 policy_NN1
 under_PRP
 the_AT0
-ERA_NP0-NN1
+ERA_NP0
 1988_CRD
 which_DTQ
 is_VBZ
@@ -2682,7 +2682,7 @@ committee_NN1
 's_POS
 decision_NN1
 is_VBZ
-binding_VVG-AJ0
+binding_AJ0
 on_PRP
 the_AT0
 LEA_NP0
@@ -2783,7 +2783,7 @@ which_DTQ
 many_DT0
 parents_NN2
 might_VM0
-feel_VVI
+feel_VVB
 when_CJS
 attending_VVG
 a_AT0
@@ -2999,7 +2999,7 @@ an_AT0
 investigation_NN1
 by_PRP
 the_AT0
-Local_NN1-AJ0
+Local_AJ0
 Ombudsman_NN1
 There_EX0
 have_VHB
@@ -3200,7 +3200,7 @@ few_DT0
 places_NN2
 comparison_NN1
 between_PRP
-competing_VVG-AJ0
+competing_AJ0
 claims_NN2
 is_VBZ
 necessary_AJ0
@@ -3331,7 +3331,7 @@ of_PRF
 the_AT0
 LEA_NP0
 's_POS
-overall_AJ0-NN1
+overall_AJ0
 policy_NN1
 on_PRP
 admissions_NN2
@@ -3433,7 +3433,7 @@ grounds_NN2
 of_PRF
 efficiency_NN1
 and_CJC
-cost-effectiveness_NN1-AJ0
+cost-effectiveness_AJ0
 enabling_VVG
 parental_AJ0
 choice_NN1
@@ -3593,7 +3593,7 @@ after_PRP
 the_AT0
 court_NN1
 's_POS
-ruling_AJ0-NN1
+ruling_NN1
 to_TO0
 find_VVI
 prejudice_NN1
@@ -3830,7 +3830,7 @@ sections_NN2
 26\xe2\x80\x9332_CRD
 of_PRF
 the_AT0
-ERA_NP0-NN1
+ERA_NP0
 1988_CRD
 schools_NN2
 would_VM0
@@ -4351,7 +4351,7 @@ it_PNP
 may_VM0
 be_VBI
 that_CJT
-admitting_VVG-AJ0
+admitting_VVG
 pupils_NN2
 up_AVP
 to_TO0
@@ -4397,7 +4397,7 @@ Annex_NN1
 A_AT0
 to_TO0
 DES_NP0
-Circular_NN1-AJ0
+Circular_NN1
 11/88_CRD
 There_EX0
 are_VBB
@@ -5434,7 +5434,7 @@ was_VBD
 not_XX0
 a_AT0
 deliberate_AJ0
-act_VVI
+act_NN1
 of_PRF
 discrimination_NN1
 here_AV0
@@ -5563,7 +5563,7 @@ This_DT0
 meant_VVD
 that_CJT
 on_PRP
-average_AJ0-NN1
+average_AJ0
 a_AT0
 girl_NN1
 would_VM0
@@ -5656,7 +5656,7 @@ unlawful_AJ0
 sex_NN1
 discrimination_NN1
 Lord_NP0
-Goff_NP0-NN1
+Goff_NP0
 said_VVD
 that_CJT
 it_PNP
@@ -5700,7 +5700,7 @@ comply_VVI
 with_PRP
 the_AT0
 court_NN1
-ruling_AJ0-NN1
+ruling_NN1
 the_AT0
 authority_NN1
 was_VBD
@@ -5736,7 +5736,7 @@ of_PRF
 the_AT0
 court_NN1
 's_POS
-ruling_AJ0-NN1
+ruling_NN1
 The_AT0
 authority_NN1
 has_VHZ
@@ -5760,7 +5760,7 @@ said_VVD
 they_PNP
 might_VM0
 invoke_VVI
-opting-out_NN1-AJ0
+opting-out_AJ0
 procedure_NN1
 to_TO0
 avoid_VVI
@@ -5784,7 +5784,7 @@ of_PRF
 pupils_NN2
 to_TO0
 racially_AV0
-mixed_AJ0
+mixed_VVN
 schools_NN2
 The_AT0
 best_AJS
@@ -5904,7 +5904,7 @@ C_ZZ0
 reported_VVN
 words_NN2
 learning_NN1
-Pakistani_NN1-AJ0
+Pakistani_AJ0
 Mrs_NP0
 C_ZZ0
 wanted_VVD
@@ -6132,7 +6132,7 @@ on_PRP
 Christianity_NN1
 which_DTQ
 the_AT0
-ERA_NP0-NN1
+ERA_NP0
 1988_CRD
 seems_VVZ
 to_TO0
@@ -6558,7 +6558,7 @@ school_NN1
 inspectors_NN2
 the_AT0
 DES_NP0
-Circular_NN1-AJ0
+Circular_NN1
 2/86_CRD
 and_CJC
 a_AT0
@@ -6652,7 +6652,7 @@ of_PRF
 some_DT0
 LEAs_NP0
 at_PRP
-present_AJ0-NN1
+present_AJ0
 to_TO0
 prosecute_VVI
 parents_NN2
@@ -6699,7 +6699,7 @@ an_AT0
 education_NN1
 welfare_NN1
 officer_NN1
-EWO_NP0-NN1
+EWO_NN1
 and_CJC
 a_AT0
 police_NN2
@@ -6777,14 +6777,14 @@ new_AJ0
 legal_AJ0
 solution_NN1
 to_TO0
-non-attendance_NN1-AJ0
+non-attendance_NN1
 at_PRP
 school_NN1
 the_AT0
 Education_NN1
 Supervision_NN1
 Order_NN1
-Defining_VVG-AJ0
+Defining_VVG
 truancy_NN1
 Before_PRP
 considering_VVG
@@ -6902,7 +6902,7 @@ in_PRP
 view_NN1
 of_PRF
 its_DPS
-relative_AJ0-NN1
+relative_AJ0
 practical_AJ0
 insignificance_NN1
 parents_NN2
@@ -7073,7 +7073,7 @@ of_PRF
 the_AT0
 law_NN1
 at_PRP
-present_AJ0-NN1
+present_AJ0
 In_PRP
 this_DT0
 respect_NN1
@@ -7094,7 +7094,7 @@ persistent_AJ0
 and_CJC
 regular_AJ0
 truancy_NN1
-fall_VVI
+fall_NN1
 squarely_AV0
 within_PRP
 the_AT0
@@ -7124,7 +7124,7 @@ legal_AJ0
 intervention_NN1
 is_VBZ
 really_AV0
-centred_VVN-VVD
+centred_VVN
 Under_PRP
 the_AT0
 law_NN1
@@ -7351,7 +7351,7 @@ isolated_AJ0
 and_CJC
 unlit_AJ0
 and_CJC
-involved_AJ0
+involved_VVN
 crossing_VVG
 difficult_AJ0
 terrain_NN1
@@ -7378,7 +7378,7 @@ an_AT0
 unaccompanied_AJ0
 child_NN1
 to_TO0
-walk_VVI
+walk_NN1
 it_PNP
 without_PRP
 danger_NN1
@@ -7594,15 +7594,15 @@ might_VM0
 call_VVI
 truancy_NN1
 simple_AJ0
-non-attendance_NN1-AJ0
+non-attendance_NN1
 parentally_AV0
-condoned_VVN-VVD
+condoned_VVN
 absence_NN1
 and_CJC
 school_NN1
 refusal/phobia_NN1
 Parentally_AV0
-condoned_VVN-VVD
+condoned_VVN
 absenteeism_NN1
 can_VM0
 according_VVG
@@ -7638,7 +7638,7 @@ presence_NN1
 But_CJC
 is_VBZ
 parentally_AV0
-condoned_VVN-VVD
+condoned_VVN
 absenteeism_NN1
 distinguishable_AJ0
 from_PRP
@@ -7652,7 +7652,7 @@ opinion_NN1
 on_PRP
 this_DT0
 question_NN1
-Galloway_NP0-NN1
+Galloway_NP0
 for_PRP
 example_NN1
 argues_VVZ
@@ -7825,7 +7825,7 @@ of_PRF
 administrative_AJ0
 networks_NN2
 has_VHZ
-intensified_VVD-VVN
+intensified_VVD
 and_CJC
 tactics_NN2
 from_PRP
@@ -7859,7 +7859,7 @@ in_PRP
 some_DT0
 quarters_NN2
 The_AT0
-pre-court_AJ0-NN1
+pre-court_AJ0
 tribunal_NN1
 investigation_NN1
 employed_VVN
@@ -8019,7 +8019,7 @@ appropriateness_NN1
 or_CJC
 otherwise_AV0
 of_PRF
-instituting_VVG-AJ0
+instituting_VVG
 care_NN1
 proceedings_NN2
 under_PRP
@@ -8034,7 +8034,7 @@ and_CJC
 Young_NP0
 Persons_NN2
 Act_NN1
-CYPA_NN1-NP0
+CYPA_NP0
 in_PRP
 the_AT0
 juvenile_AJ0
@@ -8063,7 +8063,7 @@ or_CJC
 as_CJS
 well_AV0
 as_CJS
-prosecuting_VVG-AJ0
+prosecuting_VVG
 see_VVI
 Education_NN1
 Act_NN1
@@ -8150,7 +8150,7 @@ Reid_NP0
 suggested_VVN
 that_CJT
 the_AT0
-CYPA_NN1-NP0
+CYPA_NP0
 had_VHD
 led_VVD
 to_TO0
@@ -8167,7 +8167,7 @@ is_VBZ
 seen_VVN
 as_CJS
 being_VBG
-allied_AJ0
+allied_VVN
 to_TO0
 the_AT0
 social_AJ0
@@ -8375,7 +8375,7 @@ as_CJS
 well_AV0
 as_CJS
 reducing_VVG
-overall_AJ0-NN1
+overall_AJ0
 levels_NN2
 of_PRF
 local_AJ0
@@ -8489,7 +8489,7 @@ particular_AJ0
 disposal_NN1
 at_PRP
 random_AJ0
-Galloway_NP0-NN1
+Galloway_NP0
 suggested_VVN
 how_AVQ
 could_VM0
@@ -8764,7 +8764,7 @@ of_PRF
 their_DPS
 child_NN1
 's_POS
-non-attendance_NN1-AJ0
+non-attendance_NN1
 problem_NN1
 a_AT0
 financial_AJ0
@@ -8963,8 +8963,8 @@ have_VHB
 become_VVI
 too_AV0
 firmly_AV0
-entrenched_AJ0
-Experience_NN1-VVB
+entrenched_VVN
+Experience_NN1
 in_PRP
 Leeds_NP0
 suggests_VVZ
@@ -9112,7 +9112,7 @@ cases_NN2
 of_PRF
 truancy_NN1
 But_CJC
-Galloway_NP0-NN1
+Galloway_NP0
 concluded_VVD
 from_PRP
 his_DPS
@@ -9303,7 +9303,7 @@ visit_NN1
 there_EX0
 convinced_AJ0
 one_CRD
-EWO_NP0-NN1
+EWO_NN1
 that_CJT
 there_EX0
 should_VM0
@@ -9331,7 +9331,7 @@ enforcement_NN1
 issue_NN1
 Many_DT0
 professionals_NN2
-feel_VVI
+feel_VVB
 that_CJT
 criminal_AJ0
 proceedings_NN2
@@ -9339,7 +9339,7 @@ are_VBB
 inappropriate_AJ0
 and_CJC
 that_CJT
-care-type_AJ0-NN1
+care-type_NN1
 procedures_NN2
 which_DTQ
 place_NN1
@@ -9394,11 +9394,11 @@ Children_NN2
 Act_NN1
 1989_CRD
 Before_PRP
-instituting_VVG-AJ0
+instituting_VVG
 criminal_AJ0
 proceedings_NN2
 for_PRP
-non-attendance_NN1-AJ0
+non-attendance_NN1
 an_AT0
 LEA_NP0
 must_VM0
@@ -9414,7 +9414,7 @@ or_CJC
 as_CJS
 well_AV0
 as_CJS
-prosecuting_VVG-AJ0
+prosecuting_VVG
 to_TO0
 apply_VVI
 for_PRP
@@ -9775,7 +9775,7 @@ the_AT0
 characteristics_NN2
 of_PRF
 the_AT0
-CYPA_NN1-NP0
+CYPA_NP0
 supervision_NN1
 order_NN1
 But_CJC
@@ -9853,7 +9853,7 @@ out_AVP
 routine_NN1
 supervision_NN1
 under_PRP
-CYPA_NN1-NP0
+CYPA_NP0
 are_VBB
 said_VVD
 to_TO0
@@ -10094,7 +10094,7 @@ that_CJT
 the_AT0
 object_NN1
 of_PRF
-EWO_NP0-NN1
+EWO_NN1
 intervention_NN1
 under_PRP
 the_AT0
@@ -10158,7 +10158,7 @@ role_NN1
 in_PRP
 relation_NN1
 to_TO0
-non-attendance_NN1-AJ0
+non-attendance_NN1
 Some_DT0
 researchers_NN2
 have_VHB
@@ -10243,7 +10243,7 @@ is_VBZ
 a_AT0
 solution_NN1
 possible_AJ0
-Galloway_NP0-NN1
+Galloway_NP0
 has_VHZ
 commented_VVD
 that_CJT
@@ -10361,7 +10361,7 @@ the_AT0
 easier_AJC
 option_NN1
 and_CJC
-accords_VVZ-NN2
+accords_NN2
 with_PRP
 the_AT0
 prevalent_AJ0
@@ -10529,7 +10529,7 @@ the_AT0
 recommendations_NN2
 of_PRF
 the_AT0
-Warnock_NN1-NP0
+Warnock_NN1
 Committee_NN1
 establishes_VVZ
 a_AT0
@@ -10550,7 +10550,7 @@ a_AT0
 number_NN1
 of_PRF
 factors_NN2
-Singled_VVN-VVD
+Singled_VVD
 out_AVP
 in_PRP
 particular_AJ0
@@ -10801,7 +10801,7 @@ be_VBI
 made_VVN
 for_PRP
 him_PNP
-Learning_VVG-NN1
+Learning_NN1
 difficulty_NN1
 is_VBZ
 thus_AV0
@@ -10813,7 +10813,7 @@ is_VBZ
 consonant_AJ0
 with_PRP
 the_AT0
-Warnock_NN1-NP0
+Warnock_NN1
 Report_NN1
 's_POS
 recommendation_NN1
@@ -10879,7 +10879,7 @@ from_PRP
 LEA_NP0
 to_TO0
 LEA_NP0
-Learning_VVG-NN1
+Learning_NN1
 difficulty_NN1
 is_VBZ
 defined_VVN
@@ -11591,7 +11591,7 @@ him_PNP
 This_DT0
 aspect_NN1
 of_PRF
-statementing_VVG-NN1
+statementing_NN1
 which_DTQ
 falls_VVZ
 under_PRP
@@ -12031,7 +12031,7 @@ assessment_NN1
 process_NN1
 see_VVI
 DES_NP0
-Circular_NN1-AJ0
+Circular_NN1
 22/89_CRD
 Parents_NN2
 who_PNQ
@@ -12084,7 +12084,7 @@ in_PRP
 writing_NN1
 within_PRP
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 period_NN1
 of_PRF
 29_CRD
@@ -12092,7 +12092,7 @@ days_NN2
 from_PRP
 service_NN1
 of_PRF
-notice_VVI
+notice_NN1
 by_PRP
 the_AT0
 LEA_NP0
@@ -12100,7 +12100,7 @@ Once_AV0
 the_AT0
 period_NN1
 of_PRF
-notice_VVI
+notice_NN1
 has_VHZ
 expired_VVN
 the_AT0
@@ -12216,7 +12216,7 @@ with_PRP
 requirements_NN2
 of_PRF
 a_AT0
-notice_VVI
+notice_NN1
 requiting_VVG
 the_AT0
 child_NN1
@@ -12248,7 +12248,7 @@ case_NN1
 conference_NN1
 although_CJS
 the_AT0
-Circular_NN1-AJ0
+Circular_NN1
 advocates_NN2
 their_DPS
 presence_NN1
@@ -12280,7 +12280,7 @@ the_AT0
 assessment_NN1
 process_NN1
 The_AT0
-Circular_NN1-AJ0
+Circular_NN1
 emphasises_VVZ
 that_CJT
 parents_NN2
@@ -12525,7 +12525,7 @@ County_NN1
 council_NN1
 ex_UNC
 parte_UNC
-Lashford_NP0-NN1
+Lashford_NP0
 the_AT0
 Court_NN1
 of_PRF
@@ -12890,7 +12890,7 @@ of_PRF
 a_AT0
 statement_NN1
 The_AT0
-Lashford_NP0-NN1
+Lashford_NP0
 case_NN1
 thus_AV0
 demonstrates_VVZ
@@ -12903,7 +12903,7 @@ under_PRP
 the_AT0
 1981_CRD
 Act_NN1
-Hannon_NP0-NN1
+Hannon_NP0
 's_POS
 prognosis_NN1
 of_PRF
@@ -13091,7 +13091,7 @@ committee_NN1
 decision_NN1
 is_VBZ
 not_XX0
-binding_VVG-AJ0
+binding_AJ0
 on_PRP
 the_AT0
 LEA_NP0
@@ -13301,7 +13301,7 @@ situations_NN2
 in_PRP
 which_DTQ
 parents_NN2
-feel_VVI
+feel_VVB
 their_DPS
 contribution_NN1
 to_TO0
@@ -13385,7 +13385,7 @@ parental_AJ0
 involvement_NN1
 would_VM0
 be_VBI
-improved_AJ0
+improved_VVN
 if_CJS
 parents_NN2
 were_VBD
@@ -13430,7 +13430,7 @@ lack_NN1
 of_PRF
 appropriate_AJ0
 provision_NN1
-stems_VVZ-NN2
+stems_NN2
 most_AV0
 often_AV0
 from_PRP
@@ -13541,7 +13541,7 @@ fixed_AJ0
 level_NN1
 of_PRF
 those_DT0
-overall_AJ0-NN1
+overall_AJ0
 resources_NN2
 the_AT0
 inevitable_AJ0
@@ -13584,10 +13584,10 @@ the_AT0
 challenges_NN2
 of_PRF
 the_AT0
-ERA_NP0-NN1
+ERA_NP0
 1988_CRD
 reforms_NN2
-Access_NN1-VVB
+Access_NN1
 to_TO0
 information_NN1
 INTRODUCTION_NN1
@@ -13836,7 +13836,7 @@ recognise_VVI
 that_CJT
 decisions_NN2
 about_PRP
-information-holding_NN1-AJ0
+information-holding_AJ0
 or_CJC
 access_NN1
 are_VBB
@@ -14029,7 +14029,7 @@ be_VBI
 private_AJ0
 In_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 context_NN1
 the_AT0
 nearest_AJS
@@ -14519,13 +14519,13 @@ others_NN2
 kept_VVD
 only_AV0
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 information_NN1
 Some_DT0
 of_PRF
 the_AT0
 tragic_AJ0
-child-abuse_AJ0-NN1
+child-abuse_NN1
 cases_NN2
 publicly_AV0
 investigated_VVN
@@ -14799,7 +14799,7 @@ with_PRP
 parents_NN2
 A_AT0
 general_AJ0
-shift_NN1-VVB
+shift_NN1
 of_PRF
 attitude_NN1
 by_PRP
@@ -14889,7 +14889,7 @@ children_NN2
 's_POS
 files_NN2
 The_AT0
-Assistant_AJ0-NN1
+Assistant_AJ0
 Masters_NN2
 and_CJC
 Mistresses_NN2
@@ -15319,7 +15319,7 @@ Regulation_NN1
 One_CRD
 year_NN1
 's_POS
-notice_VVI
+notice_NN1
 was_VBD
 given_VVN
 to_TO0
@@ -15548,12 +15548,12 @@ Human_AJ0
 Rights_NN2
 decision_NN1
 in_PRP
-Gaskin_NP0-NN1
+Gaskin_NP0
 could_VM0
 be_VBI
 invoked_VVN
 Mr_NP0
-Gaskin_NP0-NN1
+Gaskin_NP0
 had_VHD
 been_VBN
 a_AT0
@@ -15743,7 +15743,7 @@ a_AT0
 person_NN1
 on_PRP
 a_AT0
-child-abuse_AJ0-NN1
+child-abuse_NN1
 register_VVI
 to_TO0
 know_VVI
@@ -16094,7 +16094,7 @@ of_PRF
 Lords_NP0
 case_NN1
 of_PRF
-Gillick_NP0-NN1
+Gillick_NP0
 v_PRP
 West_NP0
 Norfolk_NP0
@@ -16259,7 +16259,7 @@ which_DTQ
 arise_VVI
 In_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 context_NN1
 however_AV0
 there_EX0
@@ -16341,7 +16341,7 @@ on_PRP
 his_DPS
 behalf_NN1
 In_PRP
-Gillick_NP0-NN1
+Gillick_NP0
 terms_NN2
 the_AT0
 ability_NN1
@@ -16484,7 +16484,7 @@ a_AT0
 copy_NN1
 of_PRF
 the_AT0
-notice_VVI
+notice_NN1
 must_VM0
 be_VBI
 sent_VVN
@@ -17022,7 +17022,7 @@ should_VM0
 write_VVI
 with_PRP
 The_AT0
-specialist_NN1-AJ0
+specialist_NN1
 's_POS
 report_NN1
 to_TO0
@@ -17084,7 +17084,7 @@ transitory_AJ0
 emotional_AJ0
 difficulties_NN2
 Ed_NP0
-Psych_VVB-NN1
+Psych_VVB
 The_AT0
 result_NN1
 was_VBD
@@ -17118,7 +17118,7 @@ not_XX0
 return_NN1
 to_TO0
 school_NN1
-Access_NN1-VVB
+Access_NN1
 to_TO0
 the_AT0
 file_NN1
@@ -17346,7 +17346,7 @@ were_VBD
 not_XX0
 so_AV0
 potentially_AV0
-damaging_VVG-AJ0
+damaging_AJ0
 Another_DT0
 example_NN1
 found_VVD
@@ -17462,7 +17462,7 @@ libel_NN1
 reflects_VVZ
 this_DT0
 difference_NN1
-Access_NN1-VVB
+Access_NN1
 to_TO0
 files_NN2
 sometimes_AV0
@@ -18233,7 +18233,7 @@ they_PNP
 expect_VVI
 to_TO0
 be_VBI
-involved_AJ0
+involved_VVN
 in_PRP
 day-to-day_AJ0
 matters_NN2
@@ -18388,7 +18388,7 @@ authority_NN1
 associations_NN2
 agreed_VVD
 a_AT0
-self-denying_AJ0-NN1
+self-denying_AJ0
 ordinance_NN1
 and_CJC
 in_PRP
@@ -18415,9 +18415,9 @@ perhaps_AV0
 extended_VVN
 in_PRP
 the_AT0
-Local_NN1-AJ0
+Local_AJ0
 Government_NN1
-Access_NN1-VVB
+Access_NN1
 to_TO0
 Information_NN1
 Act_NN1
@@ -18632,7 +18632,7 @@ the_AT0
 councillor_NN1
 should_VM0
 get_VVI
-involved_AJ0
+involved_VVN
 ACCESS_NN1
 BY_PRP
 THE_AT0
@@ -18655,7 +18655,7 @@ authority_NN1
 the_AT0
 Commissioner_NN1
 for_PRP
-Local_NN1-AJ0
+Local_AJ0
 Administration_NN1
 may_VM0
 investigate_VVI
@@ -18867,7 +18867,7 @@ last_ORD
 10_CRD
 years_NN2
 of_PRF
-shifting_AJ0-VVG
+shifting_AJ0
 the_AT0
 balance_NN1
 of_PRF
@@ -19087,7 +19087,7 @@ also_AV0
 information_NN1
 about_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 financial_AJ0
 position_NN1
 of_PRF
@@ -19136,7 +19136,7 @@ or_CJC
 92(2)_UNC
 of_PRF
 the_AT0
-ERA_NP0-NN1
+ERA_NP0
 As_CJS
 well_AV0
 as_CJS
@@ -19215,7 +19215,7 @@ demise_NN1
 of_PRF
 public_AJ0
 libraries_NN2
-Access_NN1-VVB
+Access_NN1
 to_TO0
 the_AT0
 policy_NN1
@@ -19229,9 +19229,9 @@ provided_VVN
 by_PRP
 law_NN1
 The_AT0
-Local_NN1-AJ0
+Local_AJ0
 Government_NN1
-Access_NN1-VVB
+Access_NN1
 to_TO0
 Information_NN1
 Act_NN1
@@ -19544,7 +19544,7 @@ a_AT0
 special_AJ0
 reason_NN1
 for_PRP
-wanting_VVG-AJ0
+wanting_VVG
 it_PNP
 but_CJC
 there_EX0
@@ -19591,7 +19591,7 @@ a_AT0
 special_AJ0
 reason_NN1
 for_PRP
-wanting_VVG-AJ0
+wanting_VVG
 the_AT0
 information_NN1
 or_CJC
@@ -19721,7 +19721,7 @@ been_VBN
 provided_VVN
 under_PRP
 the_AT0
-Public_AJ0-NN1
+Public_AJ0
 Bodies_NN2
 Admission_NN1
 to_TO0
@@ -19778,7 +19778,7 @@ but_CJC
 this_DT0
 is_VBZ
 no_AT0
-substitute_NN1-AJ0
+substitute_NN1
 for_PRP
 attendance_NN1
 at_PRP
@@ -19854,7 +19854,7 @@ make_VVI
 controversial_AJ0
 decisions_NN2
 behind_PRP
-closed_VVD
+closed_VVN
 doors_NN2
 and_CJC
 without_PRP
@@ -19880,13 +19880,13 @@ into_PRP
 languages_NN2
 other_AJ0
 than_CJS
-English_AJ0-NN1
+English_AJ0
 Ethnic_AJ0
 minority_NN1
 groups_NN2
 for_PRP
 whom_PNQ
-English_AJ0-NN1
+English_AJ0
 is_VBZ
 not_XX0
 their_DPS
@@ -20021,7 +20021,7 @@ a_AT0
 positive_AJ0
 rather_AV0
 than_CJS
-constraining_NN1-AJ0
+constraining_VVG
 factor_NN1
 and_CJC
 had_VHD
@@ -20058,7 +20058,7 @@ the_AT0
 late_AJ0
 1960s_CRD
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 autonomy_NN1
 of_PRF
 the_AT0
@@ -20097,7 +20097,7 @@ following_AJ0
 the_AT0
 1944_CRD
 Act_NN1
-Dent_NN1-NP0
+Dent_NN1
 's_POS
 comment_NN1
 at_PRP
@@ -20334,7 +20334,7 @@ which_DTQ
 was_VBD
 identified_VVN
 by_PRP
-Dent_NN1-NP0
+Dent_NN1
 nearly_AV0
 50_CRD
 years_NN2
@@ -20350,7 +20350,7 @@ been_VBN
 argued_VVD
 is_VBZ
 also_AV0
-present_AJ0-NN1
+present_AJ0
 although_CJS
 manifested_VVN
 in_PRP
@@ -20689,7 +20689,7 @@ CONTROL_NN1
 OF_PRF
 THE_AT0
 CURRICULUM_NN1
-Writing_VVG-NN1
+Writing_NN1
 about_PRP
 the_AT0
 future_NN1
@@ -20932,9 +20932,9 @@ this_DT0
 new_AJ0
 regulation_NN1
 has_VHZ
-involved_AJ0
+involved_VVN
 a_AT0
-shift_NN1-VVB
+shift_NN1
 towards_PRP
 central_AJ0
 rather_AV0
@@ -21101,7 +21101,7 @@ modern_AJ0
 language_NN1
 other_AJ0
 than_CJS
-English_AJ0-NN1
+English_AJ0
 A_AT0
 High_AJ0
 Court_NN1
@@ -21343,7 +21343,7 @@ the_AT0
 Act_NN1
 above_PRP
 being_VBG
-revoked_VVD
+revoked_VVN
 Under_PRP
 section_NN1
 18_CRD
@@ -21669,7 +21669,7 @@ allocations_NN2
 of_PRF
 curricular_AJ0
 time_NN1
-spelled_VVD-VVN
+spelled_VVD
 out_AVP
 in_PRP
 the_AT0
@@ -21794,7 +21794,7 @@ of_PRF
 study_NN1
 see_VVI
 now_AV0
-ERA_NP0-NN1
+ERA_NP0
 1988_CRD
 section_NN1
 4(3)_UNC
@@ -22042,7 +22042,7 @@ A._NP0
 Core_NN1
 subjects_NN2
 mathematics_NN1
-English_AJ0-NN1
+English_AJ0
 and_CJC
 science_NN1
 and_CJC
@@ -22095,12 +22095,12 @@ an_AT0
 Order_NN1
 Danish_AJ0
 Dutch_AJ0
-French_AJ0-NN1
+French_AJ0
 German_AJ0
 Greek_AJ0
 Modern_AJ0
-Italian_AJ0-NN1
-Portuguese_AJ0-NN1
+Italian_AJ0
+Portuguese_AJ0
 and_CJC
 Spanish_AJ0
 Other_AJ0
@@ -22136,8 +22136,8 @@ prescribed_VVN
 by_PRP
 the_AT0
 Order_NN1
-Arabic_NN1-AJ0
-Bengali_AJ0
+Arabic_AJ0
+Bengali_NP0
 Chinese_AJ0
 Cantonese_NP0
 or_CJC
@@ -22147,11 +22147,11 @@ Hebrew_AJ0
 Modem_NN1
 Hindi_NP0
 Japanese_AJ0
-Punjabi_NN1-AJ0
+Punjabi_AJ0
 Russian_AJ0
 Turkish_AJ0
 and_CJC
-Urdu_NP0-NN1
+Urdu_NN1
 For_PRP
 each_DT0
 of_PRF
@@ -22373,7 +22373,7 @@ PS_NN1
 for_PRP
 mathematics_NN1
 science_NN1
-English_AJ0-NN1
+English_AJ0
 technology_NN1
 Welsh_AJ0
 history_NN1
@@ -22467,7 +22467,7 @@ during_PRP
 this_DT0
 first_ORD
 year_NN1
-Prescribed_AJ0-VVN
+Prescribed_AJ0
 ATs_NP0
 and_CJC
 PS_NN1
@@ -22475,7 +22475,7 @@ for_PRP
 maths_NN1
 science_NN1
 and_CJC
-English_AJ0-NN1
+English_AJ0
 applied_VVN
 to_TO0
 those_DT0
@@ -22492,7 +22492,7 @@ with_PRP
 the_AT0
 exception_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 in_PRP
 the_AT0
 first_ORD
@@ -22618,7 +22618,7 @@ stage_NN1
 2_CRD
 and_CJC
 for_PRP
-English_AJ0-NN1
+English_AJ0
 in_PRP
 the_AT0
 first_ORD
@@ -22758,7 +22758,7 @@ a_AT0
 detailed_AJ0
 Annual_AJ0
 Curriculum_NN1
-Return_VVB-NN1
+Return_NN1
 on_PRP
 a_AT0
 standard_NN1
@@ -22948,7 +22948,7 @@ Examinations_NN2
 and_CJC
 Assessment_NN1
 Council_NN1
-SEAC_NP0-NN1
+SEAC_NN1
 see_VVI
 below_AV0
 It_PNP
@@ -22987,7 +22987,7 @@ the_AT0
 National_AJ0
 Curriculum_NN1
 The_AT0
-SEAC_NP0-NN1
+SEAC_NN1
 has_VHZ
 identified_VVN
 the_AT0
@@ -23115,7 +23115,7 @@ core_NN1
 subjects_NN2
 But_CJC
 many_DT0
-feel_VVI
+feel_VVB
 that_CJT
 they_PNP
 are_VBB
@@ -23339,7 +23339,7 @@ resulting_VVG
 from_PRP
 the_AT0
 Act_NN1
-Public_AJ0-NN1
+Public_AJ0
 accountability_NN1
 is_VBZ
 further_AJC
@@ -23461,7 +23461,7 @@ contrast_NN1
 to_TO0
 the_AT0
 restrictions_NN2
-binding_VVG-AJ0
+binding_AJ0
 teachers_NN2
 under_PRP
 the_AT0
@@ -23736,7 +23736,7 @@ Society_NN1
 of_PRF
 Education_NN1
 Officers_NN2
-stressed_VVD
+stressed_VVN
 the_AT0
 need_VVB
 for_PRP
@@ -23781,7 +23781,7 @@ the_AT0
 ablest_AJS
 pupils_NN2
 to_TO0
-drop_VVI
+drop_NN1
 a_AT0
 non-core_AJ0
 foundation_NN1
@@ -23875,7 +23875,7 @@ only_AV0
 in_PRP
 respect_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 and_CJC
 Welsh_AJ0
 teaching_NN1
@@ -24086,12 +24086,12 @@ respect_NN1
 of_PRF
 a_AT0
 recently_AV0
-immigrated_AJ0-VVD
+immigrated_AJ0
 child_NN1
 who_PNQ
 speaks_VVZ
 little_AJ0
-English_AJ0-NN1
+English_AJ0
 and_CJC
 who_PNQ
 needs_VVZ
@@ -24149,7 +24149,7 @@ not_XX0
 only_AV0
 of_PRF
 their_DPS
-increased_AJ0
+increased_VVN
 administrative_AJ0
 responsibilities_NN2
 but_CJC
@@ -24332,13 +24332,13 @@ body_NN1
 responsible_AJ0
 to_TO0
 it_PNP
-Contrasting_AJ0-VVG
+Contrasting_VVG
 the_AT0
 Soviet_AJ0
 and_CJC
-English_AJ0-NN1
+English_AJ0
 systems_NN2
-Muckle_NP0-NN1
+Muckle_NN1
 points_NN2
 out_AVP
 that_CJT
@@ -24366,7 +24366,7 @@ the_AT0
 enactment_NN1
 of_PRF
 the_AT0
-ERA_NP0-NN1
+ERA_NP0
 it_PNP
 may_VM0
 be_VBI
@@ -24429,7 +24429,7 @@ party_NN1
 recommendations_NN2
 Nevertheless_AV0
 the_AT0
-ERA_NP0-NN1
+ERA_NP0
 has_VHZ
 given_VVN
 the_AT0
@@ -24623,7 +24623,7 @@ a_AT0
 middle_NN1
 course_NN1
 the_AT0
-present_AJ0-NN1
+present_AJ0
 government_NN1
 believing_VVG
 that_CJT
@@ -24634,7 +24634,7 @@ can_VM0
 not_XX0
 raise_VVI
 standards_NN2
-Experience_NN1-VVB
+Experience_NN1
 has_VHZ
 shown_VVN
 that_CJT
@@ -24734,7 +24734,7 @@ arguments_NN2
 teachers_NN2
 face_NN1
 a_AT0
-challenging_VVG-AJ0
+challenging_VVG
 period_NN1
 of_PRF
 adjustment_NN1
@@ -24761,9 +24761,9 @@ of_PRF
 regulation_NN1
 RELIGION_NN1
 SEX_NN1
-RACE_NN1-VVB
+RACE_NN1
 AND_CJC
-POLITIC_NP0-NN1
+POLITIC_NP0
 THE_AT0
 ENFORCEMENT_NN1
 OF_PRF
@@ -24889,7 +24889,7 @@ currently_AV0
 under_PRP
 attack_NN1
 The_AT0
-New-Right_AJ0-NN1
+New-Right_AJ0
 Conservatives_NN2
 have_VHB
 challenged_VVN
@@ -24928,7 +24928,7 @@ which_DTQ
 traditional_AJ0
 values_NN2
 are_VBB
-reasserted_VVN-AJ0
+reasserted_VVN
 for_PRP
 example_NN1
 via_PRP
@@ -25118,7 +25118,7 @@ of_PRF
 England_NP0
 representatives_NN2
 of_PRF
-principal_AJ0-NN1
+principal_AJ0
 religious_AJ0
 traditions_NN2
 in_PRP
@@ -25204,7 +25204,7 @@ practices_NN2
 of_PRF
 the_AT0
 other_AJ0
-principal_AJ0-NN1
+principal_AJ0
 religions_NN2
 represented_VVN
 in_PRP
@@ -25287,7 +25287,7 @@ anticipation_NN1
 of_PRF
 this_DT0
 criticism_NN1
-Poulter_NP0-NN1
+Poulter_NN1
 argues_VVZ
 that_CJT
 it_PNP
@@ -25300,7 +25300,7 @@ have_VHB
 given_VVN
 all_DT0
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 religious_AJ0
 traditions_NN2
 represented_VVN
@@ -25364,7 +25364,7 @@ agreed_VVD
 syllabuses_NN2
 as_CJS
 at_PRP
-present_AJ0-NN1
+present_AJ0
 Ealing_NP0
 LEA_NP0
 's_POS
@@ -25508,7 +25508,7 @@ religions_NN2
 is_VBZ
 possible_AJ0
 As_CJS
-Poulter_NP0-NN1
+Poulter_NN1
 points_NN2
 out_AVP
 this_DT0
@@ -25554,7 +25554,7 @@ on_PRP
 Christianity_NN1
 in_PRP
 the_AT0
-ERA_NP0-NN1
+ERA_NP0
 1988_CRD
 parents_NN2
 from_PRP
@@ -25563,7 +25563,7 @@ minority_NN1
 groups_NN2
 may_VM0
 now_AV0
-feel_VVI
+feel_VVB
 more_AV0
 inclined_AJ0
 to_TO0
@@ -25808,7 +25808,7 @@ meet_VVI
 for_PRP
 the_AT0
 daily_AJ0
-act_VVI
+act_NN1
 of_PRF
 collective_AJ0
 worship_NN1
@@ -25898,7 +25898,7 @@ the_AT0
 law_NN1
 to_TO0
 reflect_VVI
-present_AJ0-NN1
+present_AJ0
 practice_NN1
 in_PRP
 schools_NN2
@@ -25910,7 +25910,7 @@ section_NN1
 6_CRD
 of_PRF
 the_AT0
-ERA_NP0-NN1
+ERA_NP0
 1988_CRD
 still_AV0
 requires_VVZ
@@ -25921,7 +25921,7 @@ take_VVI
 part_NN1
 in_PRP
 an_AT0
-act_VVI
+act_NN1
 of_PRF
 collective_AJ0
 worship_NN1
@@ -25931,7 +25931,7 @@ may_VM0
 be_VBI
 a_AT0
 single_AJ0
-act_VVI
+act_NN1
 for_PRP
 all_DT0
 pupils_NN2
@@ -25946,7 +25946,7 @@ pupils_NN2
 Furthermore_AV0
 whilst_CJS
 the_AT0
-act_VVI
+act_NN1
 of_PRF
 worship_NN1
 must_VM0
@@ -26018,13 +26018,13 @@ which_DTQ
 has_VHZ
 now_AV0
 been_VBN
-repealed_VVN
+repealed_VVD
 the_AT0
-ERA_NP0-NN1
+ERA_NP0
 provides_VVZ
 that_CJT
 the_AT0
-act_VVI
+act_NN1
 of_PRF
 collective_AJ0
 worship_NN1
@@ -26242,7 +26242,7 @@ several_DT0
 provisions_NN2
 which_DTQ
 as_CJS
-Poulter_NP0-NN1
+Poulter_NN1
 puts_VVZ
 it_PNP
 offer_VVI
@@ -26278,7 +26278,7 @@ not_XX0
 necessary_AJ0
 for_PRP
 every_AT0
-act_VVI
+act_NN1
 of_PRF
 collective_AJ0
 worship_NN1
@@ -26319,7 +26319,7 @@ in_PRP
 determining_VVG
 whether_CJS
 an_AT0
-act_VVI
+act_NN1
 of_PRF
 collective_AJ0
 worship_NN1
@@ -26348,7 +26348,7 @@ when_CJS
 deciding_VVG
 whether_CJS
 the_AT0
-act_VVI
+act_NN1
 of_PRF
 collective_AJ0
 worship_NN1
@@ -26493,7 +26493,7 @@ life_NN1
 One_CRD
 of_PRF
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 means_NN0
 of_PRF
 fulfilling_VVG
@@ -26896,7 +26896,7 @@ under_PRP
 the_AT0
 Education_NN1
 Acts_NN2
-Local_NN1-AJ0
+Local_AJ0
 authorities_NN2
 also_AV0
 have_VHB
@@ -27091,7 +27091,7 @@ group_NN1
 greater_AJC
 access_NN1
 to_TO0
-specialist_NN1-AJ0
+specialist_NN1
 facilities_NN2
 such_DT0
 as_CJS
@@ -27328,7 +27328,7 @@ create_VVI
 a_AT0
 harmonious_AJ0
 racially_AV0
-integrated_AJ0
+integrated_VVN
 environment_NN1
 justified_VVN
 the_AT0
@@ -27636,7 +27636,7 @@ its_DPS
 booking_NN1
 so_AV0
 that_CJT
-rescheduling_NN1-VVG
+rescheduling_NN1
 was_VBD
 still_AV0
 a_AT0
@@ -27771,7 +27771,7 @@ that_CJT
 if_CJS
 the_AT0
 well_AV0
--established_AJ0-NN1
+-established_NN1
 indigenous_AJ0
 white_AJ0
 population_NN1
@@ -27781,7 +27781,7 @@ in_PRP
 their_DPS
 mother_NN1
 tongue_NN1
-English_AJ0-NN1
+English_AJ0
 those_DT0
 originating_VVG
 from_PRP
@@ -27799,9 +27799,9 @@ in_PRP
 their_DPS
 mother_NN1
 tongue_NN1
-Urdu_NP0-NN1
-Punjabi_NN1-AJ0
-Bengali_AJ0
+Urdu_NN1
+Punjabi_AJ0
+Bengali_NP0
 and_CJC
 so_AV0
 on_PRP
@@ -27879,7 +27879,7 @@ services_NN2
 without_PRP
 discrimination_NN1
 a_AT0
-complainant_NN1-AJ0
+complainant_NN1
 can_VM0
 institute_NN1
 proceedings_NN2
@@ -27922,7 +27922,7 @@ and_CJC
 issue_NN1
 a_AT0
 non-discrimination_AJ0
-notice_VVI
+notice_NN1
 A_AT0
 complaint_NN1
 of_PRF
@@ -28243,7 +28243,7 @@ it_PNP
 seems_VVZ
 that_CJT
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 focus_NN1
 of_PRF
 the_AT0
@@ -28542,7 +28542,7 @@ be_VBI
 awarded_VVN
 to_TO0
 a_AT0
-complainant_NN1-AJ0
+complainant_NN1
 on_PRP
 complaint_NN1
 to_TO0
@@ -28782,7 +28782,7 @@ to_TO0
 governors_NN2
 by_PRP
 DES_NP0
-Circular_NN1-AJ0
+Circular_NN1
 11/87_CRD
 that_CJT
 although_CJS
@@ -28840,7 +28840,7 @@ for_PRP
 science_NN1
 But_CJC
 DES_NP0
-Circular_NN1-AJ0
+Circular_NN1
 11/87_CRD
 exhorts_VVZ
 schools_NN2
@@ -29043,7 +29043,7 @@ was_VBD
 for_PRP
 schools_NN2
 to_TO0
-present_AJ0-NN1
+present_AJ0
 information_NN1
 and_CJC
 knowledge_NN1
@@ -29078,7 +29078,7 @@ Chapter_NN1
 I_PNP
 of_PRF
 the_AT0
-ERA_NP0-NN1
+ERA_NP0
 1988_CRD
 as_CJS
 well_AV0
@@ -29114,7 +29114,7 @@ section_NN1
 23_CRD
 of_PRF
 the_AT0
-ERA_NP0-NN1
+ERA_NP0
 1988_CRD
 then_AV0
 via_PRP
@@ -29474,7 +29474,7 @@ of_PRF
 contracting_VVG
 a_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 disease_NN1
 The_AT0
 government_NN1
@@ -29504,7 +29504,7 @@ the_AT0
 suggestion_NN1
 in_PRP
 the_AT0
-Circular_NN1-AJ0
+Circular_NN1
 that_CJT
 contraception_NN1
 is_VBZ
@@ -29533,7 +29533,7 @@ later_AV0
 advice_NN1
 in_PRP
 the_AT0
-Circular_NN1-AJ0
+Circular_NN1
 that_CJT
 in_PRP
 sex_NN1
@@ -29638,7 +29638,7 @@ behaviour_NN1
 The_AT0
 case_NN1
 of_PRF
-Gillick_NP0-NN1
+Gillick_NP0
 v_PRP
 West_NP0
 Norfolk_NP0
@@ -29665,7 +29665,7 @@ without_PRP
 parental_AJ0
 consent_NN1
 The_AT0
-Circular_NN1-AJ0
+Circular_NN1
 points_NN2
 out_AVP
 that_CJT
@@ -29774,7 +29774,7 @@ of_PRF
 human_AJ0
 relationship_NN1
 DES_NP0
-Circular_NN1-AJ0
+Circular_NN1
 11/87_CRD
 referred_VVN
 to_TO0
@@ -29883,7 +29883,7 @@ section_NN1
 2A_UNC
 of_PRF
 the_AT0
-Local_NN1-AJ0
+Local_AJ0
 Government_NN1
 Act_NN1
 1986_CRD
@@ -29893,7 +29893,7 @@ section_NN1
 28_CRD
 of_PRF
 the_AT0
-Local_NN1-AJ0
+Local_AJ0
 Government_NN1
 Act_NN1
 1988_CRD
@@ -29976,14 +29976,14 @@ this_DT0
 book_NN1
 in_PRP
 an_AT0
-ILEA_NP0-NN1
+ILEA_NN1
 school_NN1
 was_VBD
 seized_VVN
 upon_PRP
 by_PRP
 the_AT0
-tabloid_AJ0-NN1
+tabloid_AJ0
 press_NN1
 Doubt_NN1
 about_PRP
@@ -30000,7 +30000,7 @@ the_AT0
 course_NN1
 of_PRF
 teaching_NN1
-stems_VVZ-NN2
+stems_NN2
 from_PRP
 the_AT0
 wording_NN1
@@ -30043,7 +30043,7 @@ the_AT0
 failure_NN1
 of_PRF
 a_AT0
-Local_NN1-AJ0
+Local_AJ0
 Authority_NN1
 to_TO0
 prevent_VVI
@@ -30064,7 +30064,7 @@ as_CJS
 promotion_NN1
 by_PRP
 the_AT0
-Local_NN1-AJ0
+Local_AJ0
 Authority_NN1
 itself_PNX
 There_EX0
@@ -30094,7 +30094,7 @@ previously_AV0
 resting_VVG
 with_PRP
 the_AT0
-Local_NN1-AJ0
+Local_AJ0
 Authority_NN1
 Political_AJ0
 issues_NN2
@@ -30311,9 +30311,9 @@ which_DTQ
 is_VBZ
 almost_AV0
 totally_AV0
-unproven_AJ0-VVN
+unproven_VVN
 DES_NP0
-Circular_NN1-AJ0
+Circular_NN1
 8/86_CRD
 referred_VVN
 to_TO0
@@ -30342,7 +30342,7 @@ a_AT0
 somewhat_AV0
 alarmist_NN1
 approach_NN1
-overall_AJ0-NN1
+overall_AJ0
 Political_AJ0
 issue_NN1
 may_VM0
@@ -30381,7 +30381,7 @@ the_AT0
 register_VVI
 have_VHB
 to_TO0
-present_AJ0-NN1
+present_AJ0
 a_AT0
 case_NN1
 for_PRP
@@ -30439,7 +30439,7 @@ unwarranted_AJ0
 possibly_AV0
 inflamed_VVN
 by_PRP
-scare_VVI
+scare_NN1
 stories_NN2
 in_PRP
 the_AT0
@@ -30497,7 +30497,7 @@ therefore_AV0
 have_VHB
 been_VBN
 largely_AV0
-misplaced_VVN-AJ0
+misplaced_AJ0
 it_PNP
 has_VHZ
 been_VBN
@@ -30789,7 +30789,7 @@ take_VVI
 place_NN1
 Thus_AV0
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 focus_NN1
 was_VBD
 to_TO0
@@ -31131,7 +31131,7 @@ use_NN1
 of_PRF
 sanctions_NN2
 by_PRP
-motivating_VVG-AJ0
+motivating_VVG
 pupils_NN2
 emphasising_VVG
 and_CJC
@@ -31251,7 +31251,7 @@ system_NN1
 In_PRP
 cases_NN2
 of_PRF
-bullying_VVG-NN1
+bullying_VVG
 which_DTQ
 is_VBZ
 widespread_AJ0
@@ -31300,7 +31300,7 @@ on_PRP
 a_AT0
 school_NN1
 of_PRF
-bullying_VVG-NN1
+bullying_VVG
 and_CJC
 racial_AJ0
 harassment_NN1
@@ -32268,7 +32268,7 @@ was_VBD
 felt_VVD
 that_CJT
 the_AT0
-ruling_AJ0-NN1
+ruling_NN1
 did_VDD
 not_XX0
 revoke_VVI
@@ -32291,7 +32291,7 @@ is_VBZ
 probably_AV0
 sufficient_AJ0
 to_TO0
-inhibit_VVI
+inhibit_VVB
 litigation_NN1
 by_PRP
 parents_NN2
@@ -32479,7 +32479,7 @@ by_PRP
 Parliament_NN1
 following_AJ0
 the_AT0
-ruling_AJ0-NN1
+ruling_NN1
 in_PRP
 Campbell_NP0
 and_CJC
@@ -32966,7 +32966,7 @@ flexibility_NN1
 which_DTQ
 exists_VVZ
 at_PRP
-present_AJ0-NN1
+present_AJ0
 inevitably_AV0
 leaving_VVG
 grey_AJ0
@@ -33140,7 +33140,7 @@ a_AT0
 school_NN1
 trip_NN1
 or_CJC
-bullying_VVG-NN1
+bullying_VVG
 out_AVP
 of_PRF
 school_NN1
@@ -33332,7 +33332,7 @@ of_PRF
 a_AT0
 particular_AJ0
 sanction_NN1
-depended_VVN-VVD
+depended_VVD
 both_AV0
 on_PRP
 the_AT0
@@ -33363,7 +33363,7 @@ teacher_NN1
 to_TO0
 be_VBI
 in_PRP
-overall_AJ0-NN1
+overall_AJ0
 control_NN1
 of_PRF
 discipline_NN1
@@ -33488,7 +33488,7 @@ Hopley_NP0
 1860_CRD
 for_PRP
 example_NN1
-Chief_NP0
+Chief_NN1
 Justice_NP0
 Cockburn_NP0
 said_VVD
@@ -33976,7 +33976,7 @@ to_TO0
 the_AT0
 Court_NN1
 's_POS
-ruling_AJ0-NN1
+ruling_NN1
 The_AT0
 Education_NN1
 Corporal_NP0
@@ -33992,7 +33992,7 @@ parent_NN1
 the_AT0
 right_NN1
 to_TO0
-veto_VVI
+veto_NN1
 the_AT0
 use_NN1
 of_PRF
@@ -34349,7 +34349,7 @@ the_AT0
 first_ORD
 example_NN1
 could_VM0
-fall_VVI
+fall_NN1
 within_PRP
 the_AT0
 definition_NN1
@@ -34595,7 +34595,7 @@ Rahman_NP0
 by_PRP
 the_AT0
 Lord_NP0
-Chief_NP0
+Chief_NN1
 Justice_NP0
 Lord_NP0
 Lane_NP0
@@ -34944,7 +34944,7 @@ which_DTQ
 usually_AV0
 takes_VVZ
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 form_NN1
 of_PRF
 suspension_NN1
@@ -35133,7 +35133,7 @@ or_CJC
 pupil_NN1
 if_CJS
 aged_PRP
-18-plus_AJ0-NN1
+18-plus_AJ0
 of_PRF
 their_DPS
 right_NN1
@@ -35391,7 +35391,7 @@ pupil_NN1
 's_POS
 reinstatement_NN1
 is_VBZ
-binding_VVG-AJ0
+binding_AJ0
 on_PRP
 the_AT0
 head_NN1
@@ -35781,7 +35781,7 @@ would_VM0
 involve_VVI
 the_AT0
 pupil_NN1
-missing_VVG-AJ0
+missing_VVG
 a_AT0
 public_AJ0
 examination_NN1
@@ -35957,7 +35957,7 @@ marks_NN2
 refers_VVZ
 to_TO0
 an_AT0
-act_VVI
+act_NN1
 of_PRF
 the_AT0
 same_DT0
@@ -36013,7 +36013,7 @@ special_AJ0
 unit_NN1
 would_VM0
 surely_AV0
-fall_VVI
+fall_NN1
 within_PRP
 its_DPS
 scope_NN1
@@ -36050,7 +36050,7 @@ difficult_AJ0
 for_PRP
 an_AT0
 individual_AJ0
-complainant_NN1-AJ0
+complainant_NN1
 to_TO0
 show_VVI
 that_CJT
@@ -36364,7 +36364,7 @@ the_AT0
 aggressive_AJ0
 behaviour_NN1
 and_CJC
-attention-seeking_NN1-AJ0
+attention-seeking_NN1
 which_DTQ
 are_VBB
 more_AV0
@@ -36469,7 +36469,7 @@ Training_NN1
 Grants_NN2
 and_CJC
 Education_NN1
-Support_NN1-VVB
+Support_NN1
 Grants_NN2
 Schemes_NN2
 Central_AJ0
@@ -36553,7 +36553,7 @@ Already_AV0
 a_AT0
 National_AJ0
 Exclusions_NN2
-Reporting_VVG-NN1
+Reporting_NN1
 System_NN1
 whereby_AVQ
 heads_NN2
@@ -36742,7 +36742,7 @@ and_CJC
 children_NN2
 's_POS
 rights_NN2
-Wringe_NN1-NP0
+Wringe_NP0
 has_VHZ
 shown_VVN
 how_AVQ
@@ -36907,7 +36907,7 @@ diminish_VVI
 misbehaviour_NN1
 was_VBD
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 reason_NN1
 for_PRP
 reform_NN1
@@ -37023,7 +37023,7 @@ schools_NN2
 results_NN2
 from_PRP
 a_AT0
-spread_NN1
+spread_VVN
 of_PRF
 child-centred_AJ0
 views_NN2
@@ -37212,7 +37212,7 @@ the_AT0
 pupils_NN2
 Victor_NP0
 is_VBZ
-bullying_VVG-NN1
+bullying_VVG
 the_AT0
 other_AJ0
 Robert_NP0
@@ -37371,7 +37371,7 @@ from_PRP
 school_NN1
 indefinitely_AV0
 for_PRP
-bullying_VVG-NN1
+bullying_VVG
 and_CJC
 for_PRP
 kicking_VVG

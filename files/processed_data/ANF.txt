@@ -24,7 +24,7 @@ he_PNP
 came_VVD
 back_AVP
 from_PRP
-Livorno_NP0-NN1
+Livorno_NP0
 in_PRP
 the_AT0
 late_AJ0
@@ -37,7 +37,7 @@ straight_AV0
 for_PRP
 the_AT0
 Caf\xc3\xa9_NN1
-Rotonde_NN1-NP0
+Rotonde_NP0
 to_TO0
 be_VBI
 greeted_VVN
@@ -253,7 +253,7 @@ When_CJS
 Charles_NP0
 Beadle_NP0
 an_AT0
-English_AJ0-NN1
+English_AJ0
 journalist_NN1
 living_VVG
 in_PRP
@@ -314,10 +314,10 @@ painters_NN2
 rarely_AV0
 had_VHD
 a_AT0
-one-man_AJ0-NN1
+one-man_AJ0
 show_VVI
 Paul_NP0
-Ch\xc3\xa9ron_NP0-NN1
+Ch\xc3\xa9ron_NP0
 Modigliani_NP0
 's_POS
 first_ORD
@@ -352,7 +352,7 @@ Paris_NP0
 on_PRP
 Place_NP0
 Saint-Augustine_NP0
-Ch\xc3\xa9ron_NP0-NN1
+Ch\xc3\xa9ron_NP0
 lacked_VVD
 the_AT0
 finesse_NN1
@@ -380,7 +380,7 @@ the_AT0
 trade_NN1
 He_PNP
 deliberately_AV0
-cultivated_AJ0
+cultivated_VVN
 a_AT0
 policy_NN1
 of_PRF
@@ -396,7 +396,7 @@ appreciate_VVI
 To_TO0
 encourage_VVI
 speculators_NN2
-Ch\xc3\xa9ron_NP0-NN1
+Ch\xc3\xa9ron_NP0
 published_VVN
 a_AT0
 brochure_NN1
@@ -438,7 +438,7 @@ A_AT0
 gambler_NN1
 by_PRP
 instinct_NN1
-Ch\xc3\xa9ron_NP0-NN1
+Ch\xc3\xa9ron_NP0
 listened_VVD
 to_TO0
 the_AT0
@@ -485,7 +485,7 @@ enlist_VVI
 by_PRP
 this_DT0
 method_NN1
-Ch\xc3\xa9ron_NP0-NN1
+Ch\xc3\xa9ron_NP0
 also_AV0
 made_VVN
 sure_AJ0
@@ -516,7 +516,7 @@ in_PRP
 the_AT0
 morning_NN1
 I_PNP
-shut_VVB
+shut_VVN
 him_PNP
 up_AVP
 in_PRP
@@ -571,7 +571,7 @@ was_VBD
 born_VVN
 To_TO0
 economize_VVI
-Ch\xc3\xa9ron_NP0-NN1
+Ch\xc3\xa9ron_NP0
 sent_VVN
 his_DPS
 wife_NN1
@@ -611,7 +611,7 @@ Girl_NN1
 With_PRP
 Red_AJ0
 Hands_NN2
-Ch\xc3\xa9ron_NP0-NN1
+Ch\xc3\xa9ron_NP0
 paid_VVN
 Modigliani_NP0
 a_AT0
@@ -670,7 +670,7 @@ obviously_AV0
 could_VM0
 not_XX0
 last_ORD
-Ch\xc3\xa9ron_NP0-NN1
+Ch\xc3\xa9ron_NP0
 boasted_VVD
 of_PRF
 Modigliani_NP0
@@ -697,7 +697,7 @@ painting_NN1
 in_PRP
 Cubist_AJ0
 fashion_NN1
-Ch\xc3\xa9ron_NP0-NN1
+Ch\xc3\xa9ron_NP0
 took_VVD
 it_PNP
 off_AVP
@@ -708,7 +708,7 @@ with_PRP
 a_AT0
 poem_NN1
 by_PRP
-Baudelaire_NP0-NN1
+Baudelaire_NP0
 considering_VVG
 that_CJT
 he_PNP
@@ -716,7 +716,7 @@ had_VHD
 elevated_AJ0
 the_AT0
 tone_NN1
-Appalled_AJ0-VVN
+Appalled_AJ0
 at_PRP
 the_AT0
 dealer_NN1
@@ -732,7 +732,7 @@ the_AT0
 work_NN1
 Modi_NP0
 told_VVD
-Ch\xc3\xa9ron_NP0-NN1
+Ch\xc3\xa9ron_NP0
 he_PNP
 was_VBD
 a_AT0
@@ -748,7 +748,7 @@ contract_NN1
 was_VBD
 dissolved_VVN
 Apparently_AV0
-Ch\xc3\xa9ron_NP0-NN1
+Ch\xc3\xa9ron_NP0
 hid_VVD
 Modi_NP0
 's_POS
@@ -758,7 +758,7 @@ keep_VVI
 him_PNP
 in_PRP
 for_PRP
-Brancusi_NP0-NN1
+Brancusi_NP0
 claimed_VVD
 to_TO0
 have_VHB
@@ -807,7 +807,7 @@ mundane_AJ0
 The_AT0
 portrait_NN1
 of_PRF
-Ch\xc3\xa9ron_NP0-NN1
+Ch\xc3\xa9ron_NP0
 however_AV0
 shows_VVZ
 a_AT0
@@ -1018,7 +1018,7 @@ artist_NN1
 could_VM0
 fail_VVI
 to_TO0
-fall_VVI
+fall_NN1
 for_PRP
 her_DPS
 The_AT0
@@ -1087,7 +1087,7 @@ out_AVP
 of_PRF
 the_AT0
 caf\xc3\xa9_NN1
-arm-in-arm_NN1-AJ0
+arm-in-arm_NN1
 at_PRP
 two_CRD
 in_PRP
@@ -1247,7 +1247,7 @@ neck_NN1
 and_CJC
 thick_AJ0
 lips_NN2
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 the_AT0
 crudest_AJS
@@ -1304,7 +1304,7 @@ Louvre_NP0
 pointing_VVG
 out_AVP
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 painters_NN2
 he_PNP
 admired_VVN
@@ -1314,7 +1314,7 @@ and_CJC
 Giotto_NP0
 Botticelli_AJ0
 and_CJC
-Tintoretto_NP0-NN1
+Tintoretto_NP0
 Soutine_NP0
 could_VM0
 speak_VVI
@@ -1322,7 +1322,7 @@ hardly_AV0
 a_AT0
 word_NN1
 of_PRF
-French_AJ0-NN1
+French_AJ0
 Modigliani_NP0
 helped_VVN
 him_PNP
@@ -1414,7 +1414,7 @@ Soutine_NP0
 at_PRP
 the_AT0
 Cit\xc3\xa9_NP0
-Falgui\xc3\xa8re_NP0-NN1
+Falgui\xc3\xa8re_NN1
 The_AT0
 two_CRD
 men_NN2
@@ -1456,7 +1456,7 @@ first_ORD
 he_PNP
 did_VDD
 n't_XX0
-notice_VVI
+notice_NN1
 the_AT0
 visitor_NN1
 Then_AV0
@@ -1466,7 +1466,7 @@ up_AVP
 slapped_VVD
 the_AT0
 book_NN1
-closed_VVD
+closed_VVN
 and_CJC
 said_VVD
 Dostoevsky_NP0
@@ -1484,7 +1484,7 @@ on_PRP
 his_DPS
 artist_NN1
 friends_NN2
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 the_AT0
 resonance_NN1
@@ -1608,7 +1608,7 @@ sculptor_NN1
 was_VBD
 a_AT0
 pleased_AJ0
-laugh_VVI
+laugh_NN1
 And_CJC
 Zadkine_NP0
 referred_VVN
@@ -1672,7 +1672,7 @@ In_PRP
 February_NP0
 1914_CRD
 she_PNP
-scraped_VVN
+scraped_VVD
 together_AV0
 the_AT0
 money_NN1
@@ -1691,7 +1691,7 @@ room_NN1
 on_PRP
 the_AT0
 Boulevard_NP0
-Raspail_NP0-NN1
+Raspail_NN1
 On_PRP
 her_DPS
 first_ORD
@@ -1755,7 +1755,7 @@ said_VVD
 Je_UNC
 suis_UNC
 Modigliani_NP0
-Juif_NP0-NN1
+Juif_NP0
 Jew_NN1
 and_CJC
 unrolled_VVD
@@ -1831,7 +1831,7 @@ difficulties_NN2
 By_PRP
 then_AV0
 La_NP0
-Rotonde_NN1-NP0
+Rotonde_NP0
 which_DTQ
 had_VHD
 opened_VVD
@@ -1902,7 +1902,7 @@ was_VBD
 on_PRP
 the_AT0
 Boulevard_NP0
-Raspail_NP0-NN1
+Raspail_NN1
 where_AVQ
 Nina_NP0
 lived_VVD
@@ -1978,7 +1978,7 @@ the_AT0
 studio_NN1
 and_CJC
 fell_VVD
-fast_AV0-AJ0
+fast_AJ0
 asleep_AJ0
 Suddenly_AV0
 two_CRD
@@ -2002,7 +2002,7 @@ yelling_VVG
 up_AVP
 the_AT0
 Boulevard_NP0
-Raspail_NP0-NN1
+Raspail_NN1
 into_PRP
 the_AT0
 arms_NN2
@@ -2023,7 +2023,7 @@ concentrating_VVG
 on_PRP
 drawing_NN1
 and_CJC
-sculpting_NN1-VVG
+sculpting_VVG
 Whenever_AVQ
 she_PNP
 could_VM0
@@ -2097,7 +2097,7 @@ beside_PRP
 Nina_NP0
 at_PRP
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 and_CJC
 draw_VVI
 while_CJS
@@ -2261,7 +2261,7 @@ the_AT0
 Boulevard_NP0
 St_NP0
 Michel_NP0
-frequented_VVD
+frequented_VVN
 by_PRP
 painted_VVN
 ladies_NN2
@@ -2269,7 +2269,7 @@ dull_AJ0
 students_NN2
 from_PRP
 the_AT0
-Sorbonne_NP0-NN1
+Sorbonne_NP0
 and_CJC
 sometimes_AV0
 businessmen_NN2
@@ -2345,9 +2345,9 @@ the_AT0
 morning_NN1
 after_PRP
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 had_VHD
-closed_VVD
+closed_VVN
 Modigliani_NP0
 would_VM0
 chase_NN1
@@ -2376,7 +2376,7 @@ gone_VVN
 All-night_AJ0
 parties_NN2
 Nina_NP0
-dancing_VVG
+dancing_NN1
 in_PRP
 the_AT0
 nude_AJ0
@@ -2384,7 +2384,7 @@ Modi_NP0
 stumbling_VVG
 into_PRP
 the_AT0
-sketching_VVG-NN1
+sketching_VVG
 class_NN1
 very_AV0
 drunk_AJ0
@@ -2620,7 +2620,7 @@ she_PNP
 married_AJ0
 and_CJC
 then_AV0
-divorced_AJ0
+divorced_VVN
 a_AT0
 professional_AJ0
 boxer_NN1
@@ -2734,7 +2734,7 @@ at_PRP
 a_AT0
 time_NN1
 when_CJS
-birth-control_AJ0-NN1
+birth-control_NN1
 was_VBD
 practically_AV0
 unavailable_AJ0
@@ -2917,7 +2917,7 @@ delightful_AJ0
 You_PNP
 ca_VM0
 n't_XX0
-walk_VVI
+walk_NN1
 home_NN1
 at_PRP
 dawn_NN1
@@ -2951,7 +2951,7 @@ inside_PRP
 and_CJC
 outside_PRP
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 very_AV0
 much_DT0
 alive_AJ0
@@ -2963,7 +2963,7 @@ flame_NN1
 or_CJC
 a_AT0
 half-moon_AJ0
-dancing_VVG
+dancing_NN1
 down_AVP
 the_AT0
 boulevard_NN1
@@ -3052,7 +3052,7 @@ Modigliani_NP0
 table_NN1
 at_PRP
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 He_PNP
 whistled_VVD
 after_PRP
@@ -3068,7 +3068,7 @@ looked_VVD
 down_AVP
 at_PRP
 him_PNP
-unshaven_AJ0-NN1
+unshaven_AJ0
 and_CJC
 dishevelled_AJ0
 and_CJC
@@ -3084,7 +3084,7 @@ of_PRF
 course_NN1
 to_TO0
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 Beatrice_NP0
 Hastings_NP0
 poetess_NN1
@@ -3146,13 +3146,13 @@ again_AV0
 at_PRP
 the_AT0
 Caf\xc3\xa9_NN1
-Rotonde_NN1-NP0
+Rotonde_NP0
 He_PNP
 was_VBD
 shaved_VVN
 and_CJC
 charming_AJ0
-Raised_AJ0-VVN
+Raised_VVN
 his_DPS
 cap_NN1
 with_PRP
@@ -3226,7 +3226,7 @@ was_VBD
 sitting_VVG
 inside_PRP
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 because_CJS
 the_AT0
 weather_NN1
@@ -3241,8 +3241,8 @@ the_AT0
 fair_AJ0
 and_CJC
 pure_AJ0
-English_AJ0-NN1
-bourgeoise_NN1-VVB
+English_AJ0
+bourgeoise_VVB
 by_PRP
 being_VBG
 very_AV0
@@ -3262,7 +3262,7 @@ last_ORD
 thread_NN1
 of_PRF
 that_CJT
-natty_AJ0-NN1
+natty_NN1
 rig_NN1
 he_PNP
 had_VHD
@@ -3276,7 +3276,7 @@ cap_NN1
 scarf_NN1
 and_CJC
 corduroy_NN1
-Rose-Bud_NP0-NN1
+Rose-Bud_NP0
 was_VBD
 quite_AV0
 shook_VVD
@@ -3373,7 +3373,7 @@ she_PNP
 went_VVD
 on_PRP
 Ah_ITJ
-j'adore_VVB-NN1
+j'adore_VVB
 \xc3\xa7a_VM0
 he_PNP
 said_VVD
@@ -3414,7 +3414,7 @@ else_AV0
 You_PNP
 must_VM0
 n't_XX0
-fall_VVI
+fall_NN1
 in_PRP
 love_NN1
 with_PRP
@@ -3467,7 +3467,7 @@ obsession_NN1
 with_PRP
 Modi_NP0
 Beatrice_NP0
-glosses_VVZ-NN2
+glosses_NN2
 lightly_AV0
 over_PRP
 more_AV0
@@ -3554,7 +3554,7 @@ indirectly_AV0
 Walter_NP0
 Sickert_NP0
 the_AT0
-English_AJ0-NN1
+English_AJ0
 artist_NN1
 a_AT0
 contributor_NN1
@@ -3582,7 +3582,7 @@ Paris_NP0
 the_AT0
 aesthetic_AJ0
 nuts_NN2
-disapproved_VVD-VVN
+disapproved_VVN
 of_PRF
 the_AT0
 practice_NN1
@@ -3674,7 +3674,7 @@ true_AJ0
 thing_NN1
 and_CJC
 the_AT0
-true-to-life_AJ0-NN1
+true-to-life_AJ0
 thing_NN1
 nearly_AV0
 split_VVN
@@ -3699,7 +3699,7 @@ to_TO0
 make_VVI
 and_CJC
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 is_VBZ
 liable_AJ0
 to_TO0
@@ -3720,7 +3720,7 @@ child_NN1
 of_PRF
 the_AT0
 quarter_NN1
-enfant_UNC
+enfant_AJ0
 sometimes_AV0
 terrible_AJ0
 but_CJC
@@ -3842,11 +3842,11 @@ or_CJC
 quarrelling_VVG
 \xc3\xa0_AT0
 la_UNC
-Rotonde_NN1-NP0
+Rotonde_NP0
 he_PNP
 horrifies_VVZ
 some_DT0
-English_AJ0-NN1
+English_AJ0
 friends_NN2
 by_PRP
 tubbing_VVG
@@ -3868,8 +3868,8 @@ as_CJS
 an_AT0
 aid_NN1
 to_TO0
-sculpturing_NN1-VVG
-Babel_NP0-NN1
+sculpturing_NN1
+Babel_NN1
 Early_AJ0
 entries_NN2
 about_PRP
@@ -3952,7 +3952,7 @@ carriage_NN1
 and_CJC
 all_DT0
 the_AT0
-English_AJ0-NN1
+English_AJ0
 stared_VVD
 she_PNP
 wrote_VVD
@@ -4043,7 +4043,7 @@ In_PRP
 her_DPS
 column_NN1
 La_NP0
-Rotonde_NN1-NP0
+Rotonde_NP0
 is_VBZ
 the_AT0
 caf\xc3\xa9_NN1
@@ -4080,14 +4080,14 @@ Le_NP0
 Petit_UNC
 Napolitain_NN1
 But_CJC
-Libion_NP0-NN1
+Libion_NP0
 the_AT0
 fat_AJ0
 good-natured_AJ0
 proprietor_NN1
 of_PRF
 La_NP0
-Rotonde_NN1-NP0
+Rotonde_NP0
 created_VVN
 a_AT0
 homely_AJ0
@@ -4107,7 +4107,7 @@ welcome_AJ0
 including_PRP
 prostitutes_NN2
 whom_PNQ
-Libion_NP0-NN1
+Libion_NP0
 would_VM0
 advise_VVI
 to_TO0
@@ -4124,14 +4124,14 @@ discreet_AJ0
 as_CJS
 well_AV0
 as_CJS
-Slav_AJ0-NN1
+Slav_AJ0
 families_NN2
 Russian_AJ0
 revolutionaries_NN2
 and_CJC
 the_AT0
 artists_NN2
-Libion_NP0-NN1
+Libion_NP0
 's_POS
 favourites_NN2
 Hungry_AJ0
@@ -4149,7 +4149,7 @@ warmth_NN1
 and_CJC
 company_NN1
 for_PRP
-Libion_NP0-NN1
+Libion_NP0
 's_POS
 good_AJ0
 coffee_NN1
@@ -4179,7 +4179,7 @@ came_VVD
 to_TO0
 look_VVI
 on_PRP
-Libion_NP0-NN1
+Libion_NP0
 as_CJS
 a_AT0
 kind_NN1
@@ -4204,7 +4204,7 @@ Russia_NP0
 ran_VVD
 to_TO0
 La_NP0
-Rotonde_NN1-NP0
+Rotonde_NP0
 for_PRP
 comfort_NN1
 and_CJC
@@ -4421,7 +4421,7 @@ in_PRP
 a_AT0
 pair_NN0
 of_PRF
-French_AJ0-NN1
+French_AJ0
 workman_NN1
 's_POS
 trousers_NN2
@@ -4473,7 +4473,7 @@ corner_NN1
 of_PRF
 the_AT0
 Rue_NP0
-Delambre_NP0-NN1
+Delambre_NP0
 and_CJC
 the_AT0
 Boulevard_NP0
@@ -4521,7 +4521,7 @@ were_VBD
 battered_AJ0
 and_CJC
 an_AT0
-Austrian_AJ0-NN1
+Austrian_AJ0
 student_NN1
 was_VBD
 surrounded_VVN
@@ -4539,7 +4539,7 @@ standstill_NN1
 The_AT0
 smaller_AJC
 shops_NN2
-closed_VVD
+closed_VVN
 down_AVP
 the_AT0
 larger_AJC
@@ -4601,7 +4601,7 @@ to_TO0
 come_VVI
 back_AVP
 to_TO0
-Livorno_NP0-NN1
+Livorno_NP0
 too_AV0
 but_CJC
 his_DPS
@@ -4917,7 +4917,7 @@ time_NN1
 he_PNP
 was_VBD
 still_AV0
-sculpting_NN1-VVG
+sculpting_VVG
 and_CJC
 he_PNP
 continued_VVD
@@ -4928,7 +4928,7 @@ large_AJ0
 heads_NN2
 sometimes_AV0
 in_PRP
-polychrome_NN1-AJ0
+polychrome_AJ0
 until_CJS
 1915_CRD
 or_CJC
@@ -4946,7 +4946,7 @@ ceased_VVN
 building_NN1
 sites_NN2
 were_VBD
-closed_VVD
+closed_VVN
 and_CJC
 workmen_NN2
 were_VBD
@@ -5323,7 +5323,7 @@ revolt_NN1
 against_PRP
 my_DPS
 own_DT0
-anti-militarist_AJ0-NN1
+anti-militarist_AJ0
 beliefs_NN2
 A_AT0
 little_AJ0
@@ -5457,7 +5457,7 @@ was_VBD
 blacked_VVD
 out_AVP
 caf\xc3\xa9s_NN2
-closed_VVD
+closed_VVN
 at_PRP
 8pm_AV0
 and_CJC
@@ -5574,7 +5574,7 @@ a_AT0
 few_DT0
 francs_NN2
 To_TO0
-feed_VVI
+feed_NN1
 the_AT0
 foreign_AJ0
 artists_NN2
@@ -5851,7 +5851,7 @@ prophecies_NN2
 of_PRF
 Nostradamus_NP0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 sixteenth-century_AJ0
 mystic_NN1
 and_CJC
@@ -5936,12 +5936,12 @@ absinthe_NN1
 was_VBD
 banned_VVN
 caf\xc3\xa9s_NN2
-shut_VVB
+shut_VVN
 early_AJ0
 and_CJC
 many_DT0
 bars_NN2
-closed_VVD
+closed_VVN
 down_AVP
 secret_AJ0
 drinking-clubs_NN2
@@ -5964,7 +5964,7 @@ Montparnasse_NP0
 Beatrice_NP0
 kept_VVD
 a_AT0
-twixty_NN1-AJ0
+twixty_NN1
 a_AT0
 bottle_NN1
 of_PRF
@@ -5984,7 +5984,7 @@ appealed_VVD
 unashamedly_AV0
 to_TO0
 her_DPS
-English_AJ0-NN1
+English_AJ0
 readers_NN2
 for_PRP
 money_NN1
@@ -6066,7 +6066,7 @@ to_TO0
 rent_NN1
 now_AV0
 deeply_AV0
-involved_AJ0
+involved_VVN
 with_PRP
 Modi_NP0
 and_CJC
@@ -6144,7 +6144,7 @@ Picasso_NP0
 and_CJC
 the_AT0
 sculptors_NN2
-Archipenko_NN1-NP0
+Archipenko_NP0
 Zadkine_NP0
 and_CJC
 Lipchitz_NP0
@@ -6169,7 +6169,7 @@ common_AJ0
 They_PNP
 were_VBD
 both_AV0
-intellectual_AJ0-NN1
+intellectual_AJ0
 Jews_NN2
 with_PRP
 a_AT0
@@ -6179,7 +6179,7 @@ of_PRF
 literature_NN1
 and_CJC
 art_NN1
-enmeshed_VVD
+enmeshed_VVN
 with_PRP
 a_AT0
 taste_NN1
@@ -6397,7 +6397,7 @@ one_CRD
 afternoon_NN1
 at_PRP
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 Max_NP0
 Jacob_NP0
 and_CJC
@@ -6410,12 +6410,12 @@ the_AT0
 terrace_NN1
 with_PRP
 Modi_NP0
-sketching_VVG-NN1
+sketching_VVG
 as_CJS
 usual_AJ0
 on_PRP
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 's_POS
 thin_AJ0
 paper_NN1
@@ -6546,7 +6546,7 @@ between_PRP
 the_AT0
 two_CRD
 were_VBD
-strained_AJ0
+strained_VVN
 Max_NP0
 Jacob_NP0
 's_POS
@@ -6647,7 +6647,7 @@ experimentally_AV0
 for_PRP
 he_PNP
 was_VBD
-struggling_VVG-AJ0
+struggling_VVG
 to_TO0
 find_VVI
 himself_PNX
@@ -6679,7 +6679,7 @@ in_PRP
 the_AT0
 Rue_NP0
 du_UNC
-Schoelcher_NP0-NN1
+Schoelcher_NP0
 conveniently_AV0
 near_PRP
 Picasso_NP0
@@ -6729,7 +6729,7 @@ could_VM0
 afford_VVI
 to_TO0
 buy_VVI
-Fernande_NP0-NN1
+Fernande_NP0
 Olivier_NP0
 Picasso_NP0
 's_POS
@@ -6784,7 +6784,7 @@ colours_NN2
 reminiscent_AJ0
 of_PRF
 the_AT0
-Divisionist_AJ0-NN1
+Divisionist_AJ0
 style_NN1
 in_PRP
 vibrant_AJ0
@@ -6815,7 +6815,7 @@ something_PNI
 of_PRF
 the_AT0
 wistful_AJ0
-yearning_VVG
+yearning_NN1
 of_PRF
 his_DPS
 nature_NN1
@@ -6849,7 +6849,7 @@ knew_VVD
 neither_AV0
 how_AVQ
 to_TO0
-lie_VVI
+lie_VVB
 nor_CJC
 how_AVQ
 to_TO0
@@ -7029,7 +7029,7 @@ was_VBD
 living_VVG
 with_PRP
 Angelina_NP0
-Beloff_NP0-NN1
+Beloff_NP0
 a_AT0
 Russian_AJ0
 engraver_NN1
@@ -7116,7 +7116,7 @@ sitting_VVG
 on_PRP
 the_AT0
 floor_NN1
-sketching_VVG-NN1
+sketching_VVG
 Rivera_NP0
 one_CRD
 evening_NN1
@@ -7255,7 +7255,7 @@ although_CJS
 his_DPS
 dream_NN1
 of_PRF
-sculpting_NN1-VVG
+sculpting_VVG
 still_AV0
 haunted_VVN
 him_PNP
@@ -7376,7 +7376,7 @@ talk_VVI
 It_PNP
 has_VHZ
 been_VBN
-exaggerated_AJ0
+exaggerated_VVN
 To_TO0
 drink_NN1
 is_VBZ
@@ -7387,7 +7387,7 @@ a_AT0
 drunkard_NN1
 The_AT0
 painter_NN1
-Vlaminck_NP0-NN1
+Vlaminck_NP0
 maintained_VVN
 that_CJT
 Modi_NP0
@@ -7447,7 +7447,7 @@ much_DT0
 despised_VVN
 had_VHD
 to_TO0
-cross_VVI
+cross_NN1
 his_DPS
 will_VM0
 and_CJC
@@ -7511,7 +7511,7 @@ frantic_AJ0
 with_PRP
 black_AJ0
 bristles_NN2
-sprouting_AJ0-VVG
+sprouting_VVG
 over_PRP
 his_DPS
 face_NN1
@@ -7635,11 +7635,11 @@ a_AT0
 running_VVG
 commentary_NN1
 The_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 's_POS
 had_VHD
 a_AT0
-drop_VVI
+drop_NN1
 or_CJC
 the_AT0
 Englishwoman_NN1
@@ -7791,7 +7791,7 @@ of_PRF
 Les_NP0
 Chants_VVZ
 de_NP0
-Maldoror_NP0-NN1
+Maldoror_NP0
 the_AT0
 book_NN1
 that_CJT
@@ -7808,7 +7808,7 @@ the_AT0
 mischief_NN1
 done_VDN
 by_PRP
-Maldoror_NP0-NN1
+Maldoror_NP0
 during_PRP
 recent_AJ0
 years_NN2
@@ -7882,7 +7882,7 @@ also_AV0
 as_CJS
 Robert_NP0
 West_NP0
-Cynicus_NP0-NN1
+Cynicus_NP0
 Beatrice_NP0
 Tina_NP0
 Robert_NP0
@@ -7890,7 +7890,7 @@ A._NP0
 Field_NP0
 T.K.L._NP0
 Minnie_NP0
-Pinnikin_NP0-NN1
+Pinnikin_NN1
 and_CJC
 occasionally_AV0
 in_PRP
@@ -7945,16 +7945,16 @@ of_PRF
 four_CRD
 pages_NN2
 which_DTQ
-contrived_VVD
+contrived_VVN
 to_TO0
 be_VBI
 both_AV0
 anti-Semitic_AJ0
 and_CJC
-anti-Catholic_NN1-AJ0
+anti-Catholic_NN1
 I_PNP
 'll_VM0
-tear_NN1-VVB
+tear_NN1
 my_DPS
 robe_NN1
 from_PRP
@@ -8010,7 +8010,7 @@ ripen_VVI
 her_DPS
 bosom_NN1
 scanty_AJ0
-Till_CJS-PRP
+Till_CJS
 her_DPS
 lover_NN1
 gasp_NN1
@@ -8019,7 +8019,7 @@ will_VM0
 know_VVI
 that_CJT
 he_PNP
-clasp_VVI
+clasp_VVB
 No_ITJ
 mortal_AJ0
 maid_NN1
@@ -8028,7 +8028,7 @@ a_AT0
 lost_VVN
 Bacchante_UNC
 However_AV0
-decadent_NN1-AJ0
+decadent_AJ0
 his_DPS
 taste_NN1
 Modigliani_NP0
@@ -8036,7 +8036,7 @@ looked_VVD
 to_TO0
 literature_NN1
 Dante_NP0
-Lautr\xc3\xa9amont_NP0-NN1
+Lautr\xc3\xa9amont_NN1
 D'Annunzio_NP0
 Beatrice_NP0
 saw_VVD
@@ -8044,7 +8044,7 @@ him_PNP
 reading_NN1
 Les_NP0
 Liaisons_NN2
-Dang\xc3\xa9reuses_NN2-VVZ
+Dang\xc3\xa9reuses_NN2
 and_CJC
 slated_VVD
 that_CJT
@@ -8221,7 +8221,7 @@ a_AT0
 Fascist_AJ0
 sympathizer_NN1
 Anti-semitism_NN1
-increased_AJ0
+increased_VVN
 in_PRP
 wartime_NN1
 and_CJC
@@ -8236,7 +8236,7 @@ caf\xc3\xa9_NN1
 on_PRP
 the_AT0
 Boulevard_NP0
-Pasteur_NP0-NN1
+Pasteur_NN1
 when_CJS
 Modigliani_NP0
 confronted_VVN
@@ -8268,7 +8268,7 @@ Ehrenburg_NP0
 sonnets_NN2
 by_PRP
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 Jewish_AJ0
 poet_NN1
 of_PRF
@@ -8485,7 +8485,7 @@ had_VHD
 a_AT0
 wonderfully_AV0
 fluent_AJ0
-French-flavoured_AJ0-NN1
+French-flavoured_NN1
 pen_NN1
 and_CJC
 captured_VVN
@@ -8536,11 +8536,11 @@ over_PRP
 Chaim_NP0
 Soutine_NP0
 1915_CRD
-Caryatid_NN1-NP0
+Caryatid_NN1
 1913_CRD
 Beatrice_NP0
 1915_CRD
-Nude_AJ0-NN1
+Nude_AJ0
 Modi_NP0
 Kisling_NP0
 and_CJC
@@ -8557,7 +8557,7 @@ of_PRF
 a_AT0
 man_NN1
 1915_CRD
-Luisa_NN1-NP0
+Luisa_NP0
 1915_CRD
 Will_VM0
 he_PNP
@@ -8802,7 +8802,7 @@ paintings_NN2
 is_VBZ
 not_XX0
 yet_AV0
-present_AJ0-NN1
+present_AJ0
 but_CJC
 by_PRP
 now_AV0
@@ -9012,7 +9012,7 @@ made_VVN
 it_PNP
 imperative_NN1
 to_TO0
-shut_VVB
+shut_VVN
 the_AT0
 shutters_NN2
 at_PRP
@@ -9089,7 +9089,7 @@ that_CJT
 winter_NN1
 at_PRP
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 or_CJC
 the_AT0
 Closerie_NP0
@@ -9102,7 +9102,7 @@ delighted_AJ0
 to_TO0
 discover_VVI
 an_AT0
-English_AJ0-NN1
+English_AJ0
 poetess_NN1
 who_PNQ
 gets_VVZ
@@ -9193,7 +9193,7 @@ working_VVG
 at_PRP
 night_NN1
 and_CJC
-sleeping_VVG
+sleeping_NN1
 during_PRP
 the_AT0
 day_NN1
@@ -9418,7 +9418,7 @@ has_VHZ
 been_VBN
 staying_VVG
 indoors_AV0
-nursing_AJ0-NN1
+nursing_NN1
 a_AT0
 sick_AJ0
 wasp_NN1
@@ -9576,7 +9576,7 @@ save_VVI
 the_AT0
 mean_VVI
 is_VBZ
-missing_VVG-AJ0
+missing_VVG
 from_PRP
 the_AT0
 stone_NN1
@@ -9671,7 +9671,7 @@ looking-back_NN1
 in_PRP
 this_DT0
 effulgent_AJ0
-unforbidding_VVG-AJ0
+unforbidding_AJ0
 smile_NN1
 of_PRF
 intelligent_AJ0
@@ -9934,7 +9934,7 @@ the_AT0
 Right_AV0
 Bank_NP0
 to_TO0
-Montmartre_NP0-NN1
+Montmartre_NP0
 She_PNP
 settled_VVN
 in_PRP
@@ -10051,7 +10051,7 @@ her_DPS
 in_PRP
 bitchiness_NN1
 and_CJC
-swank_VVB-NN1
+swank_VVB
 Behind_PRP
 her_DPS
 back_AVP
@@ -10059,7 +10059,7 @@ Katherine_NP0
 who_PNQ
 was_VBD
 almost_AV0
-mesmerized_VVD-VVN
+mesmerized_VVN
 as_CJS
 well_AV0
 as_CJS
@@ -10089,7 +10089,7 @@ March_NP0
 Katherine_NP0
 and_CJC
 Beatrice_NP0
-dined_VVD-VVN
+dined_VVD
 together_AV0
 at_PRP
 the_AT0
@@ -10162,7 +10162,7 @@ room_NN1
 with_PRP
 a_AT0
 grey_AJ0
-self-colour_AJ0-NN1
+self-colour_AJ0
 carpet_NN1
 lamps_NN2
 in_PRP
@@ -10194,7 +10194,7 @@ I_PNP
 think_VVB
 detestable_AJ0
 One_CRD
-creeps_VVZ-NN2
+creeps_VVZ
 up_AVP
 and_CJC
 down_AVP
@@ -10203,11 +10203,11 @@ She_PNP
 has_VHZ
 dismissed_VVN
 D._NP0
-Dedo_NP0-NN1
+Dedo_NP0
 and_CJC
 transferred_VVN
 her_DPS
-virgin_NN1-AJ0
+virgin_AJ0
 heart_NN1
 to_TO0
 P._NP0
@@ -10218,7 +10218,7 @@ by_PRP
 Alfredo_NP0
 Pina_NP0
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 sculptor_NN1
 Strange_NP0
 and_CJC
@@ -10298,7 +10298,7 @@ over_PRP
 for_PRP
 me_PNP
 my_DPS
-dear_ITJ
+dear_NN1
 or_CJC
 Last_ORD
 Sunday_NP0
@@ -10316,7 +10316,7 @@ by_PRP
 myself_PNX
 at_PRP
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 and_CJC
 ran_VVD
 up_AVP
@@ -10378,14 +10378,14 @@ war_NN1
 The_AT0
 dismissal_NN1
 of_PRF
-Dedo_NP0-NN1
+Dedo_NP0
 was_VBD
 temporary_AJ0
 the_AT0
 affair_NN1
 with_PRP
 Pina_NP0
-contrived_VVD
+contrived_VVN
 Sporadically_AV0
 Katherine_NP0
 Mansfield_NP0
@@ -10564,7 +10564,7 @@ never_AV0
 touched_VVD
 anything_PNI
 but_CJC
-soda-water_AJ0-NN1
+soda-water_AJ0
 and_CJC
 so_AV0
 I_PNP
@@ -10580,7 +10580,7 @@ and_CJC
 she_PNP
 was_VBD
 so_AV0
-half-charming_AJ0-NN1
+half-charming_NN1
 and_CJC
 such_DT0
 a_AT0
@@ -10622,7 +10622,7 @@ Hastings_NP0
 has_VHZ
 maxed_VVN
 her_DPS
-jacob_NN1-VVB
+jacob_NN1
 yet_AV0
 or_CJC
 if_CJS
@@ -10633,7 +10633,7 @@ Italy_NP0
 with_PRP
 her_DPS
 Dado_NN1
-Dedo_NP0-NN1
+Dedo_NP0
 I_PNP
 am_VBB
 not_XX0
@@ -10770,7 +10770,7 @@ Max_NP0
 was_VBD
 there_EX0
 when_CJS
-Dedo_NP0-NN1
+Dedo_NP0
 arrived_VVD
 the_AT0
 chances_NN2
@@ -10807,13 +10807,13 @@ beginning_NN1
 to_TO0
 dread_NN1
 the_AT0
-swoop_VVI
+swoop_NN1
 of_PRF
 the_AT0
 Assyrian_NN1
 on_PRP
 my_DPS
-fold_VVI
+fold_NN1
 In_PRP
 one_CRD
 of_PRF
@@ -10900,7 +10900,7 @@ repeating_VVG
 in_PRP
 a_AT0
 pronounced_AJ0
-English_AJ0-NN1
+English_AJ0
 accent_NN1
 Modigliani_NP0
 do_VDB
@@ -11091,7 +11091,7 @@ flung_VVD
 her_DPS
 through_PRP
 a_AT0
-closed_VVD
+closed_VVN
 window_NN1
 Later_AV0
 Beatrice_NP0
@@ -11159,7 +11159,7 @@ walls_NN2
 and_CJC
 singing_VVG
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 song_NN1
 There_EX0
 were_VBD
@@ -11186,7 +11186,7 @@ his_DPS
 life_NN1
 A_AT0
 down-at-heel_AJ0
-English_AJ0-NN1
+English_AJ0
 journalist_NN1
 Charles_NP0
 Beadle_NP0
@@ -11220,7 +11220,7 @@ sent_VVN
 it_PNP
 to_TO0
 be_VBI
-collated_AJ0-VVN
+collated_VVN
 by_PRP
 Douglas_NP0
 Goldring_NP0
@@ -11240,7 +11240,7 @@ first_ORD
 extensive_AJ0
 biography_NN1
 in_PRP
-English_AJ0-NN1
+English_AJ0
 of_PRF
 Modigliani_NP0
 Published_VVN
@@ -11261,7 +11261,7 @@ completed_VVN
 thirty-six_CRD
 oils_NN2
 and_CJC
-gouaches_VVZ-NN2
+gouaches_VVZ
 during_PRP
 1915_CRD
 approximately_AV0
@@ -11590,7 +11590,7 @@ the_AT0
 same_DT0
 air_NN1
 of_PRF
-awed_AJ0
+awed_VVN
 reverence_NN1
 that_CJT
 he_PNP
@@ -11609,8 +11609,8 @@ for_PRP
 Modigliani_NP0
 in_PRP
 the_AT0
-Bateau_NP0-NN1
-Lavoir_NP0-NN1
+Bateau_NN1
+Lavoir_NP0
 The_AT0
 investment_NN1
 was_VBD
@@ -11681,8 +11681,8 @@ other_AJ0
 poets_NN2
 written_VVN
 in_PRP
-French_AJ0-NN1
-Italian_AJ0-NN1
+French_AJ0
+Italian_AJ0
 or_CJC
 Latin_AJ0
 can_VM0
@@ -11719,7 +11719,7 @@ No_ITJ
 Integrity_NN1
 does_VDZ
 not_XX0
-lie_VVI
+lie_VVB
 that_CJT
 way_NN1
 What_DTQ
@@ -11737,7 +11737,7 @@ drawing_NN1
 he_PNP
 wrote_VVD
 The_AT0
-Flamboyant_AJ0-NN1
+Flamboyant_AJ0
 Style_NN1
 underlined_VVN
 it_PNP
@@ -11763,7 +11763,7 @@ wrote_VVD
 on_PRP
 it_PNP
 in_PRP
-Italian_AJ0-NN1
+Italian_AJ0
 Will_VM0
 he_PNP
 flower_NN1
@@ -11793,9 +11793,9 @@ Un_UNC
 homme_NN1
 qui_UNC
 m'en_NN1
-veut_VVB-NN1
+veut_VVB
 \xc3\xa0_AT0
-mort_UNC
+mort_NN1
 There_EX0
 is_VBZ
 a_AT0
@@ -11820,7 +11820,7 @@ illness_NN1
 stalking_NN1
 him_PNP
 And_CJC
-Ma_NP0-NN1
+Ma_NP0
 plus_PRP
 belle_NN1
 m\xc3\xa2itresse_NN1
@@ -11896,12 +11896,12 @@ be_VBI
 received_VVD
 into_PRP
 the_AT0
-Catholic_AJ0-NN1
+Catholic_AJ0
 church_NN1
 when_CJS
 he_PNP
 became_VVD
-entangled_VVN-AJ0
+entangled_VVN
 in_PRP
 the_AT0
 affairs_NN2
@@ -11939,7 +11939,7 @@ room_NN1
 in_PRP
 the_AT0
 Rue_NP0
-Ravignan_NP0-NN1
+Ravignan_NN1
 After_PRP
 lengthy_AJ0
 instruction_NN1
@@ -12000,7 +12000,7 @@ L'Imitation_NP0
 de_NP0
 J\xc3\xa9sus-Christ_NP0
 and_CJC
-inscribed_AJ0
+inscribed_VVN
 it_PNP
 To_TO0
 my_DPS
@@ -12008,7 +12008,7 @@ brother_NN1
 Cyprien_NP0
 Max_NP0
 Jacob_NP0
-Souvenir_NN1-NP0
+Souvenir_NN1
 of_PRF
 his_DPS
 Baptism_NN1
@@ -12141,7 +12141,7 @@ During_PRP
 Modigliani_NP0
 came_VVD
 to_TO0
-feel_VVI
+feel_VVB
 that_CJT
 Max_NP0
 had_VHD
@@ -12430,7 +12430,7 @@ disappointment_NN1
 of_PRF
 a_AT0
 lover_NN1
-spurned_VVD-VVN
+spurned_VVN
 rather_AV0
 than_CJS
 During_PRP
@@ -12447,7 +12447,7 @@ foreigners_NN2
 in_PRP
 Montparnasse_NP0
 and_CJC
-French_AJ0-NN1
+French_AJ0
 artists_NN2
 unfit_AJ0
 for_PRP
@@ -12484,7 +12484,7 @@ lived_VVD
 as_CJS
 one_CRD
 extended_VVN
-bickering_NN1-VVG
+bickering_VVG
 family_NN1
 and_CJC
 writers_NN2
@@ -12508,7 +12508,7 @@ it_PNP
 was_VBD
 this_DT0
 atmosphere_NN1
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 Max_NP0
 Jacob_NP0
@@ -12524,7 +12524,7 @@ out_AVP
 his_DPS
 roots_NN2
 Chana_NP0
-Orloff_NP0-NN1
+Orloff_NP0
 the_AT0
 gifted_AJ0
 sculptor_NN1
@@ -12631,7 +12631,7 @@ in_PRP
 La_NP0
 Ruche_NP0
 the_AT0
-beehive-shaped_AJ0-NN1
+beehive-shaped_AJ0
 building_NN1
 with_PRP
 small_AJ0
@@ -12639,7 +12639,7 @@ studios_NN2
 in_PRP
 Le_NP0
 Passage_NN1
-Dantzig_NP0-NN1
+Dantzig_NN1
 They_PNP
 were_VBD
 delighted_AJ0
@@ -12772,9 +12772,9 @@ a_AT0
 mixture_NN1
 of_PRF
 Russian_AJ0
-French_AJ0-NN1
+French_AJ0
 and_CJC
-Yiddish_NN1-AJ0
+Yiddish_NN1
 Modigliani_NP0
 delighted_AJ0
 with_PRP
@@ -12816,7 +12816,7 @@ almost_AV0
 hero-worshipped_AJ0
 the_AT0
 handsome_AJ0
-Italian_AJ0-NN1
+Italian_AJ0
 with_PRP
 his_DPS
 love_NN1
@@ -12838,7 +12838,7 @@ brutality_NN1
 when_CJS
 horsemen_NN2
 would_VM0
-swoop_VVI
+swoop_NN1
 down_AVP
 into_PRP
 the_AT0
@@ -13076,7 +13076,7 @@ good-looking_AJ0
 but_CJC
 rather_AV0
 boring_AJ0
-Italian_AJ0-NN1
+Italian_AJ0
 sculptor_NN1
 Alfredo_NP0
 Pina_NP0
@@ -13195,7 +13195,7 @@ a_AT0
 genuine_AJ0
 flair_NN1
 for_PRP
-divining_VVG-AJ0
+divining_AJ0
 quality_NN1
 in_PRP
 both_AV0
@@ -13238,7 +13238,7 @@ that_CJT
 suited_VVN
 her_DPS
 pert_AJ0
-little-girl_AJ0-NN1
+little-girl_AJ0
 look_VVI
 One_CRD
 evening_NN1
@@ -13255,7 +13255,7 @@ was_VBD
 only_AV0
 a_AT0
 small_AJ0
-gathering_NN1
+gathering_VVG
 in_PRP
 a_AT0
 studio_NN1
@@ -13377,7 +13377,7 @@ sprayed_VVN
 his_DPS
 design_NN1
 with_PRP
-fixative_NN1-AJ0
+fixative_AJ0
 Once_AV0
 the_AT0
 dress_NN1
@@ -13498,7 +13498,7 @@ with_PRP
 mud_NN1
 Go_VVB
 and_CJC
-wash_VVI
+wash_NN1
 she_PNP
 said_VVD
 disgustedly_AV0
@@ -13637,7 +13637,7 @@ dropped_VVN
 in_PRP
 to_TO0
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 late_AJ0
 one_CRD
 night_NN1
@@ -13724,7 +13724,7 @@ technique_NN1
 not_XX0
 engaged_VVN
 in_PRP
-grappling_VVG-AJ0
+grappling_AJ0
 with_PRP
 the_AT0
 secret_AJ0
@@ -13752,7 +13752,7 @@ scholarship_NN1
 to_TO0
 a_AT0
 Paris_NP0
-Lyc\xc3\xa9e_NP0-NN1
+Lyc\xc3\xa9e_NN1
 and_CJC
 began_VVD
 coming_VVG
@@ -13810,7 +13810,7 @@ at_PRP
 the_AT0
 D\xc3\xb4me_NN1
 and_CJC
-Rotonde_NN1-NP0
+Rotonde_NP0
 struck_VVN
 him_PNP
 as_CJS
@@ -13822,7 +13822,7 @@ his_DPS
 lessons_NN2
 at_PRP
 the_AT0
-Lyc\xc3\xa9e_NP0-NN1
+Lyc\xc3\xa9e_NN1
 and_CJC
 before_PRP
 long_AJ0
@@ -13962,14 +13962,14 @@ of_PRF
 the_AT0
 picture_NN1
 the_AT0
-shoulder-line_AJ0-NN1
+shoulder-line_NN1
 tilts_VVZ
 towards_PRP
 us_PNP
 and_CJC
 the_AT0
 face_NN1
-retreats_VVZ-NN2
+retreats_VVZ
 and_CJC
 takes_VVZ
 on_PRP
@@ -14107,7 +14107,7 @@ offer_VVI
 it_PNP
 as_CJS
 a_AT0
-present_AJ0-NN1
+present_AJ0
 if_CJS
 the_AT0
 purchaser_NN1
@@ -14209,7 +14209,7 @@ to_TO0
 Indenbaum_NP0
 at_PRP
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 and_CJC
 said_VVD
 baldly_AV0
@@ -14244,7 +14244,7 @@ Montparnasse_NP0
 looking_VVG
 pale_AJ0
 and_CJC
-unshaven_AJ0-NN1
+unshaven_AJ0
 Modi_NP0
 came_VVD
 up_AVP
@@ -14475,7 +14475,7 @@ turned_VVD
 up_AVP
 clean-shaven_AJ0
 and_CJC
-well-groomed_NN1-AJ0
+well-groomed_AJ0
 and_CJC
 behaved_VVD
 in_PRP
@@ -14543,11 +14543,11 @@ the_AT0
 portrait_NN1
 as_CJS
 a_AT0
-present_AJ0-NN1
+present_AJ0
 When_CJS
 he_PNP
 was_VBD
-involved_AJ0
+involved_VVN
 in_PRP
 serious_AJ0
 work_NN1
@@ -14634,7 +14634,7 @@ behind_PRP
 long_AJ0
 translations_NN2
 of_PRF
-French_AJ0-NN1
+French_AJ0
 poetry_NN1
 light_NN1
 satire_NN1
@@ -14710,7 +14710,7 @@ skeletons_NN2
 of_PRF
 Modigliani_NP0
 reciting_VVG
-Lautr\xc3\xa9amont_NP0-NN1
+Lautr\xc3\xa9amont_NN1
 beside_PRP
 the_AT0
 graves_NN2
@@ -14799,7 +14799,7 @@ mother_NN1
 a_AT0
 postcard_NN1
 My_DPS
-dear_ITJ
+dear_NN1
 Mamma_NN1
 I_PNP
 am_VBB
@@ -14871,9 +14871,9 @@ in_PRP
 munitions_NN2
 As_CJS
 to_TO0
-Laure_NP0-NN1
+Laure_NN1
 I_PNP
-feel_VVI
+feel_VVB
 that_CJT
 if_CJS
 she_PNP
@@ -14967,10 +14967,10 @@ others_NN2
 A_AT0
 big_AJ0
 kiss_VVI
-Dedo_NP0-NN1
-Laure_NP0-NN1
+Dedo_NP0
+Laure_NN1
 his_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 aunt_NN1
 was_VBD
 suffering_VVG
@@ -14982,7 +14982,7 @@ breakdown_NN1
 Her_DPS
 sister_NN1
 Gabrielle_NP0
-Garsin_NP0-NN1
+Garsin_NN1
 who_PNQ
 had_VHD
 lived_VVD
@@ -14992,7 +14992,7 @@ and_CJC
 the_AT0
 family_NN1
 when_CJS
-Dedo_NP0-NN1
+Dedo_NP0
 was_VBD
 a_AT0
 child_NN1
@@ -15010,7 +15010,7 @@ steep_AJ0
 flight_NN1
 of_PRF
 stairs_NN2
-Laure_NP0-NN1
+Laure_NN1
 's_POS
 distress_NN1
 was_VBD
@@ -15049,7 +15049,7 @@ his_DPS
 life_NN1
 head_NN1
 1911_CRD
-Kikoine_VVB-NN1
+Kikoine_NN1
 1917_CRD
 Les_NP0
 Pampas_NP0
@@ -15064,12 +15064,12 @@ Modi_NP0
 Soutine_NP0
 Rivera_NP0
 Marevna_NP0
-Voloshin_NP0-NN1
+Voloshin_NP0
 Ehrenburg_NP0
 Picasso_NP0
 Max_NP0
 Jacob_NP0
-Drawing_VVG-NN1
+Drawing_NN1
 by_PRP
 Marevna_NP0
 Woman_NN1
@@ -15077,7 +15077,7 @@ with_PRP
 red_AJ0
 hair_NN1
 1915_CRD
-Seated_VVN-AJ0
+Seated_AJ0
 woman_NN1
 1916_CRD
 Towards_PRP
@@ -15090,7 +15090,7 @@ taking_VVG
 me_PNP
 to_TO0
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 the_AT0
 rising_VVG
 young_AJ0
@@ -15122,7 +15122,7 @@ as_CJS
 the_AT0
 insignia_NN1
 of_PRF
-feeble-mindedness_NN1-AJ0
+feeble-mindedness_AJ0
 still_AV0
 it_PNP
 's_POS
@@ -15234,7 +15234,7 @@ him_PNP
 who_PNQ
 the_AT0
 great_AJ0
-French_AJ0-NN1
+French_AJ0
 artists_NN2
 were_VBD
 he_PNP
@@ -15247,7 +15247,7 @@ Stravinsky_NP0
 a_AT0
 Spaniard_NN1
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 and_CJC
 two_CRD
 Russians_NN2
@@ -15313,12 +15313,12 @@ what_DTQ
 he_PNP
 called_VVN
 the_AT0
-snobs_NN2-VVZ
+snobs_NN2
 d'art_UNC
 and_CJC
 all_DT0
 the_AT0
-high-falutin_AJ0-NN1
+high-falutin_NN1
 discussion_NN1
 of_PRF
 art_NN1
@@ -15369,9 +15369,9 @@ of_PRF
 the_AT0
 sexual_AJ0
 encounters_NN2
-heightened_AJ0
+heightened_VVN
 by_PRP
-intellectual_AJ0-NN1
+intellectual_AJ0
 friction_NN1
 But_CJC
 their_DPS
@@ -15475,7 +15475,7 @@ Modigliani_NP0
 models_NN2
 speak_VVI
 of_PRF
-two-_NN1-AJ0
+two-_AJ0
 or_CJC
 three-day_AJ0
 sittings_NN2
@@ -15513,7 +15513,7 @@ had_VHD
 served_VVN
 in_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Foreign_AJ0
 Legion_NN1
 was_VBD
@@ -15917,7 +15917,7 @@ painted_VVN
 Cocteau_NP0
 in_PRP
 a_AT0
-high-backed_AJ0-NN1
+high-backed_AJ0
 chair_NN1
 looking_VVG
 every_AT0
@@ -15957,7 +15957,7 @@ was_VBD
 acute_AJ0
 yet_AV0
 the_AT0
-exaggerated_AJ0
+exaggerated_VVN
 portrait_NN1
 had_VHD
 a_AT0
@@ -16028,7 +16028,7 @@ have_VHB
 the_AT0
 cash_NN1
 to_TO0
-hire_VVI
+hire_NN1
 a_AT0
 fiacre_NN1
 the_AT0
@@ -16036,7 +16036,7 @@ painting_NN1
 remained_VVD
 at_PRP
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 for_PRP
 years_NN2
 Modigliani_NP0
@@ -16077,7 +16077,7 @@ Cocteau_NP0
 unbearably_AV0
 pretentious_AJ0
 a_AT0
-name-dropper_NN1-AJ0
+name-dropper_AJ0
 with_PRP
 an_AT0
 instinct_NN1
@@ -16086,12 +16086,12 @@ self-advertisement_NN1
 Possibly_AV0
 Cocteau_NP0
 's_POS
-exaggerated_AJ0
+exaggerated_VVN
 precious_AJ0
 manner_NN1
 made_VVN
 Modigliani_NP0
-feel_VVI
+feel_VVB
 threatened_VVN
 in_PRP
 his_DPS
@@ -16187,7 +16187,7 @@ year_NN1
 when_CJS
 the_AT0
 poet_NN1
-Apollinaire_NN1-NP0
+Apollinaire_NN1
 came_VVD
 back_AVP
 from_PRP
@@ -16223,7 +16223,7 @@ Picasso_NP0
 Max_NP0
 Jacob_NP0
 Matisse_NP0
-Vlaminck_NP0-NN1
+Vlaminck_NP0
 and_CJC
 Cocteau_NP0
 sat_VVD
@@ -16245,7 +16245,7 @@ futuristes_NN2
 M\xc3\xa9ditations_NN2
 esth\xc3\xa9tiques_NN2
 en_UNC
-salade_VVB-NN1
+salade_NN1
 Caf\xc3\xa9_NN1
 des_UNC
 Soir\xc3\xa9es_NN2
@@ -16292,7 +16292,7 @@ life_NN1
 of_PRF
 Montparnasse_NP0
 too_AV0
-involved_AJ0
+involved_VVN
 with_PRP
 the_AT0
 individuals_NN2
@@ -16312,7 +16312,7 @@ met_VVD
 Hans_NP0
 Arp_NP0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 painter_NN1
 who_PNQ
 was_VBD
@@ -16322,7 +16322,7 @@ prominent_AJ0
 in_PRP
 the_AT0
 new_AJ0
-Dada_NP0-NN1
+Dada_NP0
 movement_NN1
 at_PRP
 the_AT0
@@ -16504,7 +16504,7 @@ were_VBD
 the_AT0
 leaders_NN2
 of_PRF
-Dada_NP0-NN1
+Dada_NP0
 We_PNP
 wanted_VVD
 to_TO0
@@ -16634,12 +16634,12 @@ precepts_NN2
 of_PRF
 bourgeois_AJ0
 morality_NN1
-Dada_NP0-NN1
+Dada_NP0
 was_VBD
 to_TO0
 be_VBI
 a_AT0
-rallying_NN1-AJ0
+rallying_NN1
 point_NN1
 for_PRP
 abstract_AJ0
@@ -16707,7 +16707,7 @@ of_PRF
 the_AT0
 launch_VVI
 of_PRF
-Dada_NP0-NN1
+Dada_NP0
 Modigliani_NP0
 was_VBD
 not_XX0
@@ -16737,7 +16737,7 @@ energy_NN1
 and_CJC
 will_VM0
 and_CJC
-assured_VVD
+assured_VVN
 the_AT0
 world_NN1
 that_CJT
@@ -16758,7 +16758,7 @@ was_VBD
 forthcoming_AJ0
 When_CJS
 the_AT0
-Dada_NP0-NN1
+Dada_NP0
 brochure_NN1
 Cabaret_NN1
 Voltaire_NP0
@@ -16787,7 +16787,7 @@ to_TO0
 us_PNP
 to_TO0
 constitute_VVB
-Dada_NP0-NN1
+Dada_NP0
 The_AT0
 cover_NN1
 design_NN1
@@ -16841,7 +16841,7 @@ also_AV0
 shown_VVN
 at_PRP
 the_AT0
-Dada_NP0-NN1
+Dada_NP0
 gallery_NN1
 in_PRP
 1917_CRD
@@ -16851,7 +16851,7 @@ Voltaire_NP0
 with_PRP
 a_AT0
 very_AV0
-mixed_AJ0
+mixed_VVN
 group_NN1
 of_PRF
 artists_NN2
@@ -16861,7 +16861,7 @@ Arp_NP0
 De_NP0
 Chirico_NP0
 Paul_NP0
-Klee_NP0-NN1
+Klee_NN1
 and_CJC
 Oscar_NP0
 Kokoshka_NP0
@@ -16930,7 +16930,7 @@ Jean_NP0
 Cocteau_NP0
 was_VBD
 deeply_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 avant-garde_AJ0
@@ -17055,7 +17055,7 @@ effect_NN1
 One_CRD
 evening_NN1
 Leopold_NP0
-Zborowski_NP0-NN1
+Zborowski_NP0
 a_AT0
 Polish_AJ0
 poet_NN1
@@ -17076,7 +17076,7 @@ Modigliani_NP0
 's_POS
 remarkable_AJ0
 talent_NN1
-Zborowski_NP0-NN1
+Zborowski_NP0
 had_VHD
 arrived_VVD
 in_PRP
@@ -17095,7 +17095,7 @@ When_CJS
 the_AT0
 grant_NN1
 ceased_VVN
-Zbo_NP0-NN1
+Zbo_NP0
 as_CJS
 he_PNP
 was_VBD
@@ -17129,7 +17129,7 @@ as_CJS
 yet_AV0
 unrecognized_AJ0
 artists_NN2
-Zborowski_NP0-NN1
+Zborowski_NP0
 displayed_VVN
 an_AT0
 intuitive_AJ0
@@ -17214,15 +17214,15 @@ intellectuals_NN2
 With_PRP
 her_DPS
 husband_NN1
-Casimir_NP0-NN1
-Czechowski_NP0-NN1
+Casimir_NN1
+Czechowski_NP0
 a_AT0
 soldier_NN1
 on_PRP
 leave_VVI
 she_PNP
 was_VBD
-Zborowski_NP0-NN1
+Zborowski_NP0
 's_POS
 guest_NN1
 for_PRP
@@ -17232,19 +17232,19 @@ and_CJC
 after_PRP
 the_AT0
 exhibition_NN1
-Zborowski_NP0-NN1
+Zborowski_NP0
 invited_VVN
 the_AT0
 couple_NN1
 to_TO0
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 which_DTQ
 was_VBD
 only_AV0
 a_AT0
 short_AJ0
-walk_VVI
+walk_NN1
 away_AV0
 As_CJS
 they_PNP
@@ -17420,7 +17420,7 @@ embarrassed_AJ0
 and_CJC
 it_PNP
 was_VBD
-Zborowski_NP0-NN1
+Zborowski_NP0
 who_PNQ
 coped_VVD
 with_PRP
@@ -17501,7 +17501,7 @@ little_AJ0
 lodging_VVG
 house_NN1
 where_AVQ
-Zborowski_NP0-NN1
+Zborowski_NP0
 was_VBD
 living_VVG
 with_PRP
@@ -17522,7 +17522,7 @@ admiring_AJ0
 Modigliani_NP0
 's_POS
 talent_NN1
-Zborowski_NP0-NN1
+Zborowski_NP0
 found_VVD
 him_PNP
 a_AT0
@@ -17669,7 +17669,7 @@ covers_VVZ
 the_AT0
 loose_AJ0
 leaves_VVZ
-fall_VVI
+fall_NN1
 on_PRP
 the_AT0
 warm_AJ0
@@ -17677,7 +17677,7 @@ pavement_NN1
 A_AT0
 kind_NN1
 of_PRF
-swooning_VVG-NN1
+swooning_NN1
 An_AT0
 evening_NN1
 prayer_NN1
@@ -17784,7 +17784,7 @@ talk_VVI
 to_TO0
 me_PNP
 in_PRP
-Italian_AJ0-NN1
+Italian_AJ0
 He_PNP
 painted_VVN
 with_PRP
@@ -17822,7 +17822,7 @@ and_CJC
 began_VVD
 to_TO0
 sing_VVI
-Italian_AJ0-NN1
+Italian_AJ0
 songs_NN2
 to_TO0
 make_VVI
@@ -17893,9 +17893,9 @@ pleasing_AJ0
 his_DPS
 diction_NN1
 in_PRP
-French_AJ0-NN1
+French_AJ0
 and_CJC
-Italian_AJ0-NN1
+Italian_AJ0
 excellent_AJ0
 When_CJS
 he_PNP
@@ -17908,7 +17908,7 @@ he_PNP
 rolled_VVD
 his_DPS
 rrrs_NN0
-Admir_NN1-NP0
+Admir_NP0
 rable_AJ0
 he_PNP
 would_VM0
@@ -18017,7 +18017,7 @@ and_CJC
 drug-taking_NN1
 are_VBB
 extremely_AV0
-exaggerated_AJ0
+exaggerated_VVN
 He_PNP
 only_AV0
 drank_VVD
@@ -18142,7 +18142,7 @@ The_AT0
 new_AJ0
 hope_VVB
 that_CJT
-Zborowski_NP0-NN1
+Zborowski_NP0
 would_VM0
 be_VBI
 able_AJ0
@@ -18186,7 +18186,7 @@ client_NN1
 without_PRP
 too_AV0
 much_DT0
-regret_VVI
+regret_NN1
 The_AT0
 young_AJ0
 man_NN1
@@ -18196,7 +18196,7 @@ real_AJ0
 gift_NN1
 he_PNP
 told_VVD
-Zborowski_NP0-NN1
+Zborowski_NP0
 patronizingly_AV0
 It_PNP
 's_POS
@@ -18208,7 +18208,7 @@ not_XX0
 a_AT0
 bit_NN1
 more_AV0
-French_AJ0-NN1
+French_AJ0
 Guillaume_NP0
 would_VM0
 have_VHB
@@ -18285,7 +18285,7 @@ ironic_AJ0
 Guillaume_NP0
 understood_VVN
 that_CJT
-Zborowski_NP0-NN1
+Zborowski_NP0
 who_PNQ
 led_VVD
 the_AT0
@@ -18306,7 +18306,7 @@ far_AV0
 more_AV0
 suitable_AJ0
 Unfortunately_AV0
-Zborowski_NP0-NN1
+Zborowski_NP0
 fell_VVD
 ill_AJ0
 that_CJT
@@ -18355,7 +18355,7 @@ decline_NN1
 to_TO0
 his_DPS
 later_AV0
-regret_VVI
+regret_NN1
 But_CJC
 Jacques_NP0
 Lipchitz_NP0
@@ -18553,7 +18553,7 @@ easel_NN1
 and_CJC
 with_PRP
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 of_PRF
 fuss_NN1
 placing_VVG
@@ -18973,7 +18973,7 @@ Simone_NP0
 was_VBD
 a_AT0
 wealthy_AJ0
-French_AJ0-NN1
+French_AJ0
 Canadian_AJ0
 girl_NN1
 who_PNQ
@@ -19020,7 +19020,7 @@ studying_VVG
 intermittently_AV0
 at_PRP
 the_AT0
-Sorbonne_NP0-NN1
+Sorbonne_NP0
 until_CJS
 she_PNP
 had_VHD
@@ -19053,12 +19053,12 @@ a_AT0
 magnificent_AJ0
 scene_NN1
 or_CJC
-sketching_VVG-NN1
+sketching_VVG
 beautiful_AJ0
 women_NN2
 at_PRP
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 and_CJC
 with_PRP
 her_DPS
@@ -19112,7 +19112,7 @@ said_VVD
 she_PNP
 was_VBD
 a_AT0
-scalp-hunter_NN1-AJ0
+scalp-hunter_AJ0
 but_CJC
 most_AV0
 agreed_VVD
@@ -19120,7 +19120,7 @@ that_CJT
 she_PNP
 was_VBD
 genuinely_AV0
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 Modi_NP0
 more_AV0
@@ -19216,7 +19216,7 @@ her_DPS
 a_AT0
 milksop_NN1
 Whilst_CJS
-Zborowski_NP0-NN1
+Zborowski_NP0
 was_VBD
 still_AV0
 in_PRP
@@ -19476,13 +19476,13 @@ the_AT0
 train_NN1
 fare_NN1
 for_PRP
-Zbo_NP0-NN1
+Zbo_NP0
 's_POS
 return_NN1
 journey_NN1
 to_TO0
 Paris_NP0
-Zborowski_NP0-NN1
+Zborowski_NP0
 had_VHD
 a_AT0
 stroke_NN1
@@ -19517,7 +19517,7 @@ a_AT0
 contract_NN1
 Unlike_PRP
 Guillaume_NP0
-Zborowski_NP0-NN1
+Zborowski_NP0
 was_VBD
 unbusinesslike_AJ0
 and_CJC
@@ -19545,7 +19545,7 @@ used_VVN
 a_AT0
 room_NN1
 in_PRP
-Zborowski_NP0-NN1
+Zborowski_NP0
 's_POS
 apartment_NN1
 in_PRP
@@ -19579,7 +19579,7 @@ which_DTQ
 also_AV0
 served_VVN
 as_CJS
-Zbo_NP0-NN1
+Zbo_NP0
 's_POS
 gallery_NN1
 Modigliani_NP0
@@ -19588,7 +19588,7 @@ daily_AJ0
 for_PRP
 fifteen_CRD
 francs_NN2
-Zborowski_NP0-NN1
+Zborowski_NP0
 supplied_VVN
 the_AT0
 charcoal_NN1
@@ -19703,7 +19703,7 @@ also_AV0
 smoked_VVD
 the_AT0
 cigarettes_NN2
-Zborowski_NP0-NN1
+Zborowski_NP0
 provided_VVN
 as_CJS
 part_NN1
@@ -19807,7 +19807,7 @@ was_VBD
 confined_VVN
 to_TO0
 a_AT0
-lunatic_AJ0-NN1
+lunatic_AJ0
 asylum_NN1
 through_PRP
 his_DPS
@@ -19817,7 +19817,7 @@ and_CJC
 Lunia_NP0
 and_CJC
 the_AT0
-Zborowskis_NP0-NN1
+Zborowskis_NN1
 went_VVD
 to_TO0
 visit_NN1
@@ -19849,7 +19849,7 @@ dingy_AJ0
 and_CJC
 sinister_AJ0
 surroundings_NN2
-humiliated_AJ0-VVN
+humiliated_VVN
 and_CJC
 frightened_AJ0
 They_PNP
@@ -19867,7 +19867,7 @@ from_PRP
 postcards_NN2
 Occasionally_AV0
 they_PNP
-contrived_VVD
+contrived_VVN
 to_TO0
 smuggle_VVI
 in_PRP
@@ -19875,7 +19875,7 @@ a_AT0
 small_AJ0
 bottle_NN1
 of_PRF
-cr\xc3\xa8me-de-menthe_NN1-AJ0
+cr\xc3\xa8me-de-menthe_NN1
 in_PRP
 response_NN1
 to_TO0
@@ -19897,7 +19897,7 @@ Utrillo_NP0
 out_AVP
 for_PRP
 a_AT0
-walk_VVI
+walk_NN1
 Periodically_AV0
 Utrillo_NP0
 was_VBD
@@ -19948,7 +19948,7 @@ and_CJC
 beaten_VVN
 up_AVP
 Despite_PRP
-Zborowski_NP0-NN1
+Zborowski_NP0
 's_POS
 frantic_AJ0
 efforts_NN2
@@ -19996,7 +19996,7 @@ the_AT0
 rare_AJ0
 nights_NN2
 when_CJS
-Zborowski_NP0-NN1
+Zborowski_NP0
 had_VHD
 a_AT0
 sale_NN1
@@ -20073,7 +20073,7 @@ in_PRP
 a_AT0
 corner_NN1
 in_PRP
-Zborowski_NP0-NN1
+Zborowski_NP0
 's_POS
 apartment_NN1
 and_CJC
@@ -20082,7 +20082,7 @@ price_NN1
 was_VBD
 depressingly_AV0
 low_AJ0
-Zborowski_NP0-NN1
+Zborowski_NP0
 did_VDD
 have_VHB
 a_AT0
@@ -20091,7 +20091,7 @@ for_PRP
 the_AT0
 drawings_NN2
 in_PRP
-Lucien_NP0-NN1
+Lucien_NP0
 Descaves_NP0
 the_AT0
 brother_NN1
@@ -20107,7 +20107,7 @@ by_PRP
 the_AT0
 batch_NN1
 To_TO0
-Zborowski_NP0-NN1
+Zborowski_NP0
 's_POS
 annoyance_NN1
 Modigliani_NP0
@@ -20132,7 +20132,7 @@ his_DPS
 work_NN1
 away_AV0
 or_CJC
-bartering_VVG
+bartering_AJ0
 it_PNP
 to_TO0
 buy_VVI
@@ -20140,7 +20140,7 @@ drinks_NN2
 One_CRD
 evening_NN1
 when_CJS
-Zbo_NP0-NN1
+Zbo_NP0
 and_CJC
 Modi_NP0
 were_VBD
@@ -20166,7 +20166,7 @@ of_PRF
 his_DPS
 blue_AJ0
 sketchbook_NN1
-Thinking_VVG-NN1
+Thinking_NN1
 he_PNP
 was_VBD
 going_VVG
@@ -20174,7 +20174,7 @@ to_TO0
 throw_VVI
 it_PNP
 away_AV0
-Zborowski_NP0-NN1
+Zborowski_NP0
 put_VVI
 out_AVP
 his_DPS
@@ -20184,7 +20184,7 @@ take_VVI
 it_PNP
 but_CJC
 Modigliani_NP0
-cowed_VVN
+cowed_AJ0
 him_PNP
 with_PRP
 a_AT0
@@ -20201,7 +20201,7 @@ If_CJS
 he_PNP
 was_VBD
 annoyed_AJ0
-Zborowski_NP0-NN1
+Zborowski_NP0
 smothered_VVN
 his_DPS
 feelings_NN2
@@ -20225,7 +20225,7 @@ writer_NN1
 saw_VVD
 Modigliani_NP0
 let_VVB
-fall_VVI
+fall_NN1
 a_AT0
 twenty-franc_NN1
 note_NN1
@@ -20286,10 +20286,10 @@ their_DPS
 way_NN1
 to_TO0
 the_AT0
-Zborowskis_NP0-NN1
+Zborowskis_NN1
 who_PNQ
 were_VBD
-struggling_VVG-AJ0
+struggling_VVG
 themselves_PNX
 Sometimes_AV0
 Hanka_NP0
@@ -20332,7 +20332,7 @@ wait_VVI
 for_PRP
 their_DPS
 money_NN1
-Zbo_NP0-NN1
+Zbo_NP0
 tried_VVD
 desperately_AV0
 hard_AJ0
@@ -20427,12 +20427,12 @@ were_VBD
 sitting_VVG
 at_PRP
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 Beatrice_NP0
 the_AT0
 lady_NN1
 of_PRF
-Montmartre_NP0-NN1
+Montmartre_NP0
 entered_VVD
 with_PRP
 a_AT0
@@ -20466,14 +20466,14 @@ and_CJC
 scarred_VVN
 for_PRP
 life_NN1
-Libion_NP0-NN1
+Libion_NP0
 the_AT0
 kindly_AV0
 caf\xc3\xa9_NN1
 proprietor_NN1
 was_VBD
 so_AV0
-exasperated_AJ0
+exasperated_VVN
 that_CJT
 he_PNP
 had_VHD
@@ -20510,7 +20510,7 @@ and_CJC
 ran_VVD
 to_TO0
 the_AT0
-Zborowskis_NP0-NN1
+Zborowskis_NN1
 '_POS
 apartment_NN1
 in_PRP
@@ -20531,7 +20531,7 @@ he_PNP
 was_VBD
 eventually_AV0
 found_VVD
-Zbo_NP0-NN1
+Zbo_NP0
 did_VDD
 his_DPS
 best_AJS
@@ -20579,7 +20579,7 @@ weekend_NN1
 hungry_AJ0
 and_CJC
 dirty_AJ0
-Zbo_NP0-NN1
+Zbo_NP0
 who_PNQ
 had_VHD
 been_VBN
@@ -20595,7 +20595,7 @@ returned_VVD
 to_TO0
 find_VVI
 Modigliani_NP0
-sleeping_VVG
+sleeping_NN1
 off_AVP
 his_DPS
 drunken_AJ0
@@ -20603,7 +20603,7 @@ stupor_NN1
 on_PRP
 their_DPS
 sofa_NN1
-Zborowski_NP0-NN1
+Zborowski_NP0
 said_VVD
 nothing_PNI
 but_CJC
@@ -20633,7 +20633,7 @@ to_TO0
 the_AT0
 pawnbroker_NN1
 However_AV0
-romanticized_AJ0
+romanticized_VVD
 that_CJT
 account_NN1
 may_VM0
@@ -20650,7 +20650,7 @@ or_CJC
 ambition_NN1
 for_PRP
 himself_PNX
-Zborowski_NP0-NN1
+Zborowski_NP0
 trudged_VVD
 the_AT0
 streets_NN2
@@ -20680,7 +20680,7 @@ beaten_VVN
 down_AVP
 in_PRP
 price_NN1
-Writing_VVG-NN1
+Writing_NN1
 a_AT0
 dutiful_AJ0
 postcard_NN1
@@ -20770,8 +20770,8 @@ A_AT0
 big_AJ0
 hug_NN1
 from_PRP
-Dedo_NP0-NN1
-Zborowski_NP0-NN1
+Dedo_NP0
+Zborowski_NP0
 's_POS
 constant_AJ0
 if_CJS
@@ -20855,14 +20855,14 @@ a_AT0
 drawing_NN1
 of_PRF
 a_AT0
-table-turning_NN1-AJ0
+table-turning_AJ0
 In_PRP
 Paris_NP0
 during_PRP
 the_AT0
 war_NN1
 La_NP0
-Rotonde_NN1-NP0
+Rotonde_NP0
 was_VBD
 full_AJ0
 of_PRF
@@ -21002,7 +21002,7 @@ of_PRF
 Jacob_NP0
 's_POS
 books_NN2
-Cornet_NP0-NN1
+Cornet_NP0
 \xc3\xa0_AT0
 D\xc3\xa9s_NP0
 there_EX0
@@ -21167,7 +21167,7 @@ cost_NN1
 of_PRF
 Modigliani_NP0
 's_POS
-favourite_AJ0-NN1
+favourite_AJ0
 food_NN1
 fish_NN0
 rose_VVD
@@ -21195,7 +21195,7 @@ streets_NN2
 One_CRD
 winter_NN1
 morning_NN1
-Vlaminck_NP0-NN1
+Vlaminck_NP0
 noticed_VVD
 Modigliani_NP0
 standing_VVG
@@ -21206,7 +21206,7 @@ island_NN1
 in_PRP
 the_AT0
 Boulevard_NP0
-Raspail_NP0-NN1
+Raspail_NN1
 With_PRP
 the_AT0
 haughty_AJ0
@@ -21229,7 +21229,7 @@ there_EX0
 was_VBD
 no_AT0
 petrol_NN1
-rationing_VVG-NN1
+rationing_NN1
 until_CJS
 April_NP0
 1917_CRD
@@ -21283,7 +21283,7 @@ fit_VVI
 you_PNP
 nicely_AV0
 28_CRD
-Vlaminck_NP0-NN1
+Vlaminck_NP0
 was_VBD
 a_AT0
 bulky_AJ0
@@ -21379,7 +21379,7 @@ place_NN1
 and_CJC
 Modi_NP0
 often_AV0
-bartered_VVN-VVD
+bartered_VVN
 a_AT0
 meal_NN1
 for_PRP
@@ -21398,7 +21398,7 @@ francs_NN2
 a_AT0
 day_NN1
 if_CJS
-Zborowski_NP0-NN1
+Zborowski_NP0
 could_VM0
 manage_VVI
 it_PNP
@@ -21431,7 +21431,7 @@ book_NN1
 Modigliani_NP0
 would_VM0
 have_VHB
-prized_VVN-AJ0
+prized_AJ0
 but_CJC
 at_PRP
 the_AT0
@@ -21589,7 +21589,7 @@ about_PRP
 thirty_CRD
 nudes_NN2
 in_PRP
-Zborowski_NP0-NN1
+Zborowski_NP0
 's_POS
 apartment_NN1
 in_PRP
@@ -21681,7 +21681,7 @@ of_PRF
 both_AV0
 Modi_NP0
 and_CJC
-Zborowski_NP0-NN1
+Zborowski_NP0
 When_CJS
 Carco_NP0
 called_VVN
@@ -21689,13 +21689,13 @@ to_TO0
 see_VVI
 the_AT0
 paintings_NN2
-Zborowski_NP0-NN1
+Zborowski_NP0
 ran_VVD
 to_TO0
 buy_VVI
 a_AT0
 candle_NN1
-stuck_AJ0
+stuck_VVN
 it_PNP
 into_PRP
 the_AT0
@@ -21752,7 +21752,7 @@ what_DTQ
 poetry_NN1
 he_PNP
 said_VVD
-Zborowski_NP0-NN1
+Zborowski_NP0
 told_VVD
 Carco_NP0
 how_AVQ
@@ -21783,7 +21783,7 @@ away_AV0
 They_PNP
 are_VBB
 stupid_AJ0
-Zbo_NP0-NN1
+Zbo_NP0
 said_VVD
 fervently_AV0
 They_PNP
@@ -21828,10 +21828,10 @@ buy_VVI
 a_AT0
 painting_NN1
 The_AT0
-Standing_VVG-NN1
-Nude_AJ0-NN1
+Standing_NN1
+Nude_AJ0
 and_CJC
-Zbo_NP0-NN1
+Zbo_NP0
 was_VBD
 so_AV0
 overcome_VVI
@@ -21930,7 +21930,7 @@ affair_NN1
 to_TO0
 an_AT0
 end_NN1
-Gossip_VVB-NN1
+Gossip_VVB
 in_PRP
 the_AT0
 quarter_NN1
@@ -22117,7 +22117,7 @@ was_VBD
 sitting_VVG
 at_PRP
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 with_PRP
 Rivera_NP0
 Boris_NP0
@@ -22127,13 +22127,13 @@ revolutionary_AJ0
 writer_NN1
 and_CJC
 Max_NP0
-Voloshin_NP0-NN1
+Voloshin_NP0
 a_AT0
 poet_NN1
-Fernand_VVB-NN1
+Fernand_VVB
 L\xc3\xa9ger_NN1
 and_CJC
-Lipinski_NP0-NN1
+Lipinski_NP0
 the_AT0
 revolutionary_AJ0
 were_VBD
@@ -22188,7 +22188,7 @@ or_CJC
 making_VVG
 a_AT0
 scene_NN1
-Fernand_VVB-NN1
+Fernand_VVB
 L\xc3\xa9ger_NN1
 on_PRP
 leave_VVI
@@ -22216,7 +22216,7 @@ the_AT0
 whole_AJ0
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 people_NN0
 my_DPS
 new_AJ0
@@ -22234,7 +22234,7 @@ them_PNP
 I_PNP
 discovered_VVN
 the_AT0
-French_AJ0-NN1
+French_AJ0
 people_NN0
 At_PRP
 the_AT0
@@ -22327,7 +22327,7 @@ technology_NN1
 work_NN1
 and_CJC
 sport_NN1
-Voloshin_NP0-NN1
+Voloshin_NP0
 argued_VVD
 against_PRP
 him_PNP
@@ -22354,7 +22354,7 @@ say_VVI
 to_TO0
 you_PNP
 My_DPS
-dear_ITJ
+dear_NN1
 fellows_NN2
 take_VVI
 your_DPS
@@ -22362,7 +22362,7 @@ choice_NN1
 You_PNP
 make_VVI
 me_PNP
-laugh_VVI
+laugh_NN1
 The_AT0
 only_AV0
 people_NN0
@@ -22452,7 +22452,7 @@ was_VBD
 hopeless_AJ0
 Art_NN1
 was_VBD
-dying_VVG-AJ0
+dying_AJ0
 no_AT0
 one_CRD
 in_PRP
@@ -22523,14 +22523,14 @@ Cadorna_NP0
 Luigi_NP0
 Cadorna_NP0
 was_VBD
-Chief_NP0
+Chief_NN1
 of_PRF
 Staff_NN0
 and_CJC
 Commander-in-Chief_NN1
 of_PRF
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 armies_NN2
 1915_CRD
 1917_CRD
@@ -22602,7 +22602,7 @@ Modi_NP0
 could_VM0
 continue_VVI
 Rivera_NP0
-shut_VVB
+shut_VVN
 his_DPS
 eyes_NN2
 a_AT0
@@ -22628,7 +22628,7 @@ white_AJ0
 Modigliani_NP0
 and_CJC
 Ehrenburg_NP0
-edged_VVN
+edged_VVD
 towards_PRP
 the_AT0
 door_NN1
@@ -22641,7 +22641,7 @@ and_CJC
 sturdy_AJ0
 poet_NN1
 Max_NP0
-Voloshin_NP0-NN1
+Voloshin_NP0
 from_PRP
 the_AT0
 floor_NN1
@@ -22683,7 +22683,7 @@ of_PRF
 individuals_NN2
 Ever_AV0
 since_CJS
-Zborowski_NP0-NN1
+Zborowski_NP0
 took_VVD
 him_PNP
 on_PRP
@@ -22691,9 +22691,9 @@ Modigliani_NP0
 had_VHD
 been_VBN
 urging_VVG
-Zbo_NP0-NN1
+Zbo_NP0
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 Soutine_NP0
 's_POS
@@ -22765,7 +22765,7 @@ a_AT0
 door_NN1
 of_PRF
 the_AT0
-Zborowskis_NP0-NN1
+Zborowskis_NN1
 '_POS
 apartment_NN1
 in_PRP
@@ -22789,7 +22789,7 @@ Hanka_NP0
 fury_NN1
 When_CJS
 Georges_NP0
-Braque_NP0-NN1
+Braque_NP0
 badly_AV0
 wounded_AJ0
 and_CJC
@@ -22853,7 +22853,7 @@ laurels_NN2
 were_VBD
 offered_VVN
 to_TO0
-Braque_NP0-NN1
+Braque_NP0
 and_CJC
 his_DPS
 wife_NN1
@@ -22986,11 +22986,11 @@ six_CRD
 in_PRP
 the_AT0
 morning_NN1
-Braque_NP0-NN1
+Braque_NP0
 and_CJC
 Derain_NP0
 were_VBD
-dancing_VVG
+dancing_NN1
 with_PRP
 the_AT0
 bones_NN2
@@ -23007,7 +23007,7 @@ the_AT0
 occasion_NN1
 gave_VVD
 the_AT0
-party-loving_AJ0-NN1
+party-loving_NN1
 painter_NN1
 a_AT0
 wonderful_AJ0
@@ -23026,9 +23026,9 @@ guests_NN2
 went_VVD
 to_TO0
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 and_CJC
-Libion_NP0-NN1
+Libion_NP0
 the_AT0
 popular_AJ0
 patron_NN1
@@ -23059,7 +23059,7 @@ Leduc_NP0
 's_POS
 restaurant_NN1
 Chana_NP0
-Orloff_NP0-NN1
+Orloff_NP0
 who_PNQ
 was_VBD
 sitting_VVG
@@ -23292,7 +23292,7 @@ parties_NN2
 grew_VVD
 even_AV0
 wilder_AJC
-Ren\xc3\xa9e_NP0-NN1
+Ren\xc3\xa9e_NP0
 Kisling_NP0
 the_AT0
 daughter_NN1
@@ -23354,7 +23354,7 @@ and_CJC
 hectic_AJ0
 but_CJC
 a_AT0
-drain_VVI
+drain_NN1
 on_PRP
 Modigliani_NP0
 's_POS
@@ -23380,19 +23380,19 @@ Simone_NP0
 1918_CRD
 Hanka_NP0
 Zborowska_NP0
-Reclining_AJ0-VVG
+Reclining_VVG
 nude_AJ0
 1917_CRD
 \xc3\x80_AT0
 notre_NN1
-Amour_NN1-NP0
+Amour_NN1
 1917_CRD
-Mechan_NN1-NP0
+Mechan_NN1
 1917_CRD
 Max_NP0
 Jacob_NP0
 1916_CRD
-Nude_AJ0-NN1
+Nude_AJ0
 on_PRP
 Divan_NN1
 1910_CRD
@@ -23428,7 +23428,7 @@ on_PRP
 high_AJ0
 boots_NN2
 home-made_AJ0
-poncho-style_AJ0-NN1
+poncho-style_NN1
 Russian_AJ0
 blouse_NN1
 and_CJC
@@ -23477,7 +23477,7 @@ Jeanne_NP0
 looks_VVZ
 in_PRP
 a_AT0
-faded_AJ0
+faded_VVN
 photograph_NN1
 as_CJS
 if_CJS
@@ -23502,10 +23502,10 @@ art_NN1
 at_PRP
 the_AT0
 Academi_AJ0
-Colarossi_NN1-NP0
+Colarossi_NN1
 and_CJC
 the_AT0
-\xc3\x89cole_NN1-NP0
+\xc3\x89cole_NN1
 des_UNC
 Arts_NN2
 D\xc3\xa9coratifs_NN2
@@ -23515,7 +23515,7 @@ met_VVD
 the_AT0
 sculptor_NN1
 Chana_NP0
-Orloff_NP0-NN1
+Orloff_NP0
 who_PNQ
 claimed_VVD
 to_TO0
@@ -23572,7 +23572,7 @@ fascinated_VVN
 by_PRP
 Foujita_NP0
 the_AT0
-diminutive_AJ0-NN1
+diminutive_AJ0
 Japanese_AJ0
 artist_NN1
 who_PNQ
@@ -23583,7 +23583,7 @@ to_TO0
 set_VVN
 off_AVP
 his_DPS
-owl-shaped_AJ0-NN1
+owl-shaped_AJ0
 face_NN1
 and_CJC
 a_AT0
@@ -23619,7 +23619,7 @@ that_CJT
 she_PNP
 was_VBD
 a_AT0
-virgin_NN1-AJ0
+virgin_AJ0
 when_CJS
 she_PNP
 met_VVD
@@ -23742,7 +23742,7 @@ imaginative_AJ0
 courage_NN1
 After_PRP
 the_AT0
-flamboyant_AJ0-NN1
+flamboyant_AJ0
 destructiveness_NN1
 of_PRF
 Beatrice_NP0
@@ -23784,7 +23784,7 @@ competently_AV0
 Bach_NP0
 was_VBD
 a_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 composer_NN1
 She_PNP
 was_VBD
@@ -23799,7 +23799,7 @@ to_TO0
 a_AT0
 diet_NN1
 of_PRF
-Plotinus_NP0-NN1
+Plotinus_NN1
 the_AT0
 third-century_NN1
 Greek_AJ0
@@ -23824,7 +23824,7 @@ Achille_NP0
 H\xc3\xa9buterne_NP0
 worked_VVD
 as_CJS
-chief_AJ0-NN1
+chief_NN1
 cashier_NN1
 in_PRP
 a_AT0
@@ -23855,8 +23855,8 @@ a_AT0
 pillar_NN1
 of_PRF
 the_AT0
-Roman_AJ0-NN1
-Catholic_AJ0-NN1
+Roman_AJ0
+Catholic_AJ0
 church_NN1
 Jeanne_NP0
 's_POS
@@ -23914,7 +23914,7 @@ of_PRF
 piety_NN1
 in_PRP
 the_AT0
-fifth-floor_AJ0-NN1
+fifth-floor_NN1
 apartment_NN1
 With_PRP
 her_DPS
@@ -24018,10 +24018,10 @@ student_NN1
 friends_NN2
 like_PRP
 Chana_NP0
-Orloff_NP0-NN1
+Orloff_NP0
 and_CJC
 Germaine_NP0
-Labaye_NP0-NN1
+Labaye_NP0
 known_VVN
 as_CJS
 Red_AJ0
@@ -24031,7 +24031,7 @@ Jeanne_NP0
 friend_NN1
 from_PRP
 the_AT0
-Colarossi_NN1-NP0
+Colarossi_NN1
 she_PNP
 could_VM0
 be_VBI
@@ -24055,7 +24055,7 @@ the_AT0
 D\xc3\xb4me_NN1
 or_CJC
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 regularly_AV0
 at_PRP
 aperitif_NN1
@@ -24111,7 +24111,7 @@ of_PRF
 them_PNP
 both_AV0
 intensely_AV0
-introverted_VVD-AJ0
+introverted_AJ0
 people_NN0
 conducted_VVN
 their_DPS
@@ -24302,7 +24302,7 @@ the_AT0
 crowd_NN1
 at_PRP
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 and_CJC
 had_VHD
 little_AJ0
@@ -24400,7 +24400,7 @@ the_AT0
 piano_NN1
 by_PRP
 the_AT0
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 pianist_NN1
 Ricardo_NP0
 Vines_NP0
@@ -24412,7 +24412,7 @@ their_DPS
 poems_NN2
 Worldly_AJ0
 Paris_NP0
-mingled_VVN-VVD
+mingled_VVD
 in_PRP
 these_DT0
 sessions_NN2
@@ -24425,7 +24425,7 @@ had_VHD
 come_VVI
 from_PRP
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 and_CJC
 the_AT0
 D\xc3\xb4me_NN1
@@ -24652,7 +24652,7 @@ You_PNP
 will_VM0
 see_VVI
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 painter_NN1
 who_PNQ
 is_VBZ
@@ -24802,7 +24802,7 @@ often_AV0
 went_VVD
 out_AVP
 alone_AJ0
-Italian_AJ0-NN1
+Italian_AJ0
 style_NN1
 and_CJC
 Jeanne_NP0
@@ -24816,7 +24816,7 @@ street_NN1
 after_PRP
 the_AT0
 caf\xc3\xa9s_NN2
-closed_VVD
+closed_VVN
 He_PNP
 would_VM0
 sit_VVI
@@ -24849,7 +24849,7 @@ half_DT0
 led_VVD
 him_PNP
 home_NN1
-Zborowski_NP0-NN1
+Zborowski_NP0
 was_VBD
 enthusiastic_AJ0
 about_PRP
@@ -24900,13 +24900,13 @@ he_PNP
 deserved_VVD
 That_DT0
 autumn_NN1
-Zbo_NP0-NN1
+Zbo_NP0
 worked_VVD
 hard_AJ0
 to_TO0
 arrange_VVI
 a_AT0
-one-man_AJ0-NN1
+one-man_AJ0
 show_VVI
 for_PRP
 Modigliani_NP0
@@ -24927,10 +24927,10 @@ modern_AJ0
 artists_NN2
 such_DT0
 as_CJS
-Dufy_NP0-NN1
-Vlaminck_NP0-NN1
+Dufy_NP0
+Vlaminck_NP0
 Utrillo_NP0
-Pascin_NP0-NN1
+Pascin_NP0
 and_CJC
 Picasso_NP0
 he_PNP
@@ -24954,7 +24954,7 @@ out_AVP
 of_PRF
 sympathy_NN1
 for_PRP
-Zborowski_NP0-NN1
+Zborowski_NP0
 's_POS
 hopeless_AJ0
 task_NN1
@@ -25002,12 +25002,12 @@ B._NP0
 Weill_NP0
 50_CRD
 Rue_NP0
-Taitbout_NP0-NN1
+Taitbout_NN1
 in_PRP
 the_AT0
 9th_ORD
 arrondissement_NN1
-Zborowski_NP0-NN1
+Zborowski_NP0
 decided_VVD
 to_TO0
 feature_NN1
@@ -25031,7 +25031,7 @@ When_CJS
 Modigliani_NP0
 was_VBD
 working_VVG
-Zbo_NP0-NN1
+Zbo_NP0
 could_VM0
 not_XX0
 resist_VVI
@@ -25067,7 +25067,7 @@ artist_NN1
 and_CJC
 sitter_NN1
 When_CJS
-Zbo_NP0-NN1
+Zbo_NP0
 interrupted_VVN
 he_PNP
 flew_VVD
@@ -25080,7 +25080,7 @@ violation_NN1
 On_PRP
 one_CRD
 occasion_NN1
-Zborowski_NP0-NN1
+Zborowski_NP0
 came_VVD
 in_PRP
 when_CJS
@@ -25099,7 +25099,7 @@ that_CJT
 he_PNP
 started_VVD
 to_TO0
-slash_VVI
+slash_NN1
 the_AT0
 canvas_NN1
 Lunia_NP0
@@ -25223,7 +25223,7 @@ the_AT0
 private_AJ0
 view_NN1
 Modigliani_NP0
-Zborowski_NP0-NN1
+Zborowski_NP0
 and_CJC
 Berthe_NP0
 Weill_NP0
@@ -25235,7 +25235,7 @@ the_AT0
 paintings_NN2
 and_CJC
 drawings_NN2
-Zbo_NP0-NN1
+Zbo_NP0
 insisted_VVD
 on_PRP
 placing_VVG
@@ -25280,7 +25280,7 @@ friends_NN2
 from_PRP
 Montparnasse_NP0
 Unfortunately_AV0
-Zborowski_NP0-NN1
+Zborowski_NP0
 was_VBD
 too_AV0
 successful_AJ0
@@ -25298,7 +25298,7 @@ bystanders_NN2
 gathered_VVN
 staring_VVG
 and_CJC
-leering_VVG
+leering_AJ0
 at_PRP
 the_AT0
 nude_AJ0
@@ -25315,7 +25315,7 @@ the_AT0
 Divisional_AJ0
 Police_NN2
 Commissioner_NN1
-Rousselet_NP0-NN1
+Rousselet_NP0
 who_PNQ
 had_VHD
 been_VBN
@@ -25421,7 +25421,7 @@ Weill_NP0
 carefully_AV0
 brought_VVN
 the_AT0
-offending_AJ0-NN1
+offending_AJ0
 nude_AJ0
 inside_PRP
 But_CJC
@@ -25485,7 +25485,7 @@ the_AT0
 gallery_NN1
 Monsieur_NP0
 le_UNC
-Commissaire_NP0-NN1
+Commissaire_NP0
 wants_VVZ
 to_TO0
 see_VVI
@@ -25601,12 +25601,12 @@ But_CJC
 those_DT0
 nudes_NN2
 said_VVD
-Rousselet_NP0-NN1
+Rousselet_NP0
 growing_AJ0
 red-faced_AJ0
 they_PNP
 have_VHB
-h-h-hair_AJ0-NN1
+h-h-hair_AJ0
 Until_PRP
 that_CJT
 time_NN1
@@ -25704,7 +25704,7 @@ to_TO0
 the_AT0
 gallery_NN1
 furious_AJ0
-shut_VVB
+shut_VVN
 the_AT0
 door_NN1
 pulled_VVD
@@ -25728,9 +25728,9 @@ the_AT0
 walls_NN2
 Modigliani_NP0
 's_POS
-one-man_AJ0-NN1
+one-man_AJ0
 show_VVI
-scheduled_VVN-AJ0
+scheduled_VVN
 to_TO0
 last_ORD
 throughout_PRP
@@ -25738,7 +25738,7 @@ the_AT0
 month_NN1
 of_PRF
 December_NP0
-closed_VVD
+closed_VVN
 on_PRP
 the_AT0
 day_NN1
@@ -25779,7 +25779,7 @@ a_AT0
 brief_AJ0
 moment_NN1
 the_AT0
-one-man_AJ0-NN1
+one-man_AJ0
 show_VVI
 had_VHD
 seemed_VVD
@@ -25796,7 +25796,7 @@ episode_NN1
 could_VM0
 only_AV0
 have_VHB
-increased_AJ0
+increased_VVN
 his_DPS
 distrust_NN1
 of_PRF
@@ -25877,7 +25877,7 @@ was_VBD
 possibly_AV0
 suggested_VVN
 by_PRP
-Zborowski_NP0-NN1
+Zborowski_NP0
 to_TO0
 attract_VVI
 attention_NN1
@@ -25938,7 +25938,7 @@ more_AV0
 saleable_AJ0
 although_CJS
 when_CJS
-Zborowski_NP0-NN1
+Zborowski_NP0
 offered_VVN
 Jacques_NP0
 Lipchitz_NP0
@@ -25982,7 +25982,7 @@ began_VVD
 to_TO0
 arrive_VVI
 at_PRP
-Zborowski_NP0-NN1
+Zborowski_NP0
 's_POS
 flat_AJ0
 early_AJ0
@@ -26011,7 +26011,7 @@ a_AT0
 well-known_AJ0
 collector_NN1
 asked_VVD
-Zbo_NP0-NN1
+Zbo_NP0
 to_TO0
 put_VVI
 aside_AV0
@@ -26028,7 +26028,7 @@ was_VBD
 now_AV0
 promoted_VVN
 to_TO0
-Secr\xc3\xa9taire_NP0-NN1
+Secr\xc3\xa9taire_NN1
 G\xc3\xa9n\xc3\xa9ral_NN1
 of_PRF
 the_AT0
@@ -26061,12 +26061,12 @@ finally_AV0
 a_AT0
 banker_NN1
 named_VVN
-Schenemayer_NP0-NN1
+Schenemayer_NN1
 hurried_VVD
 over_PRP
 to_TO0
 see_VVI
-Zborowski_NP0-NN1
+Zborowski_NP0
 and_CJC
 bought_VVN
 six_CRD
@@ -26088,7 +26088,7 @@ terrible_AJ0
 disappointment_NN1
 of_PRF
 the_AT0
-one-man_AJ0-NN1
+one-man_AJ0
 show_VVI
 Modigliani_NP0
 was_VBD
@@ -26114,7 +26114,7 @@ and_CJC
 Jeanne_NP0
 's_POS
 seemed_VVD
-assured_VVD
+assured_VVN
 Francis_NP0
 Carco_NP0
 who_PNQ
@@ -26198,7 +26198,7 @@ hard_AJ0
 to_TO0
 find_VVI
 Butchers_NN0
-closed_VVD
+closed_VVN
 their_DPS
 doors_NN2
 for_PRP
@@ -26216,7 +26216,7 @@ become_VVI
 accustomed_AJ0
 to_TO0
 now_AV0
-intensified_VVD-VVN
+intensified_VVD
 On_PRP
 30_CRD
 January_NP0
@@ -26434,7 +26434,7 @@ the_AT0
 modern_AJ0
 painters_NN2
 Derain_NP0
-Vlaminck_NP0-NN1
+Vlaminck_NP0
 Valadon_NP0
 completely_AV0
 depressed_AJ0
@@ -26451,8 +26451,8 @@ beginning_NN1
 of_PRF
 the_AT0
 year_NN1
-faded_AJ0
-Zborowski_NP0-NN1
+faded_VVN
+Zborowski_NP0
 boldly_AV0
 decided_VVD
 to_TO0
@@ -26466,7 +26466,7 @@ and_CJC
 Jeanne_NP0
 with_PRP
 him_PNP
-Zbo_NP0-NN1
+Zbo_NP0
 had_VHD
 been_VBN
 impressed_AJ0
@@ -26612,7 +26612,7 @@ he_PNP
 took_VVD
 to_TO0
 following_AJ0
-Zborowski_NP0-NN1
+Zborowski_NP0
 round_AVP
 like_PRP
 a_AT0
@@ -26621,8 +26621,8 @@ hanging_VVG
 about_PRP
 outside_PRP
 the_AT0
-Rotonde_NN1-NP0
-Zborowski_NP0-NN1
+Rotonde_NP0
+Zborowski_NP0
 had_VHD
 to_TO0
 find_VVI
@@ -26642,12 +26642,12 @@ his_DPS
 beautiful_AJ0
 domineering_VVG
 wife_NN1
-Fernande_NP0-NN1
+Fernande_NP0
 Barrey_NP0
 joined_VVD
 the_AT0
 party_NN1
-Fernande_NP0-NN1
+Fernande_NP0
 openly_AV0
 admitted_VVN
 to_TO0
@@ -26655,7 +26655,7 @@ starting_VVG
 life_NN1
 as_CJS
 a_AT0
-street-walker_NN1-AJ0
+street-walker_AJ0
 and_CJC
 Madame_NN1
 H\xc3\xa9buterne_NP0
@@ -26713,7 +26713,7 @@ Amedeo_NP0
 excited_AJ0
 like_PRP
 a_AT0
-virgin_NN1-AJ0
+virgin_AJ0
 by_PRP
 the_AT0
 bombardments_NN2
@@ -26821,7 +26821,7 @@ constantly_AV0
 disapproving_AJ0
 and_CJC
 interfering_VVG
-Zborowski_NP0-NN1
+Zborowski_NP0
 had_VHD
 rented_VVN
 an_AT0
@@ -26961,7 +26961,7 @@ Madame_NN1
 H\xc3\xa9buterne_NP0
 became_VVD
 so_AV0
-strained_AJ0
+strained_VVN
 with_PRP
 Jeanne_NP0
 refusing_VVG
@@ -26988,7 +26988,7 @@ stay_VVI
 in_PRP
 the_AT0
 H\xc3\xb4tel_NN1
-Tarelli_NN1-NP0
+Tarelli_NP0
 5_CRD
 Rue_NP0
 de_NP0
@@ -27121,7 +27121,7 @@ the_AT0
 D\xc3\xb4me_NN1
 or_CJC
 the_AT0
-Rotonde_NN1-NP0
+Rotonde_NP0
 he_PNP
 would_VM0
 find_VVI
@@ -27133,9 +27133,9 @@ beauties_NN2
 or_CJC
 bohemians_NN2
 or_CJC
-Zbo_NP0-NN1
+Zbo_NP0
 could_VM0
-hire_VVI
+hire_NN1
 models_NN2
 for_PRP
 him_PNP
@@ -27168,7 +27168,7 @@ visited_VVD
 the_AT0
 Russian_AJ0
 sculptor_NN1
-Archipenko_NN1-NP0
+Archipenko_NP0
 and_CJC
 his_DPS
 wife_NN1
@@ -27195,7 +27195,7 @@ end_NN1
 of_PRF
 the_AT0
 visit_NN1
-Archipenko_NN1-NP0
+Archipenko_NP0
 told_VVD
 Modigliani_NP0
 to_TO0
@@ -27248,7 +27248,7 @@ were_VBD
 taken_VVN
 up_AVP
 in_PRP
-caring_VVG-NN1
+caring_NN1
 for_PRP
 Modigliani_NP0
 keeping_VVG
@@ -27337,7 +27337,7 @@ love_NN1
 she_PNP
 could_VM0
 grow_VVI
-exasperated_AJ0
+exasperated_VVN
 with_PRP
 her_DPS
 impossible_AJ0
@@ -27353,7 +27353,7 @@ drawing_NN1
 of_PRF
 his_DPS
 friend_NN1
-Fabiano_NP0-NN1
+Fabiano_NP0
 de_NP0
 Castro_NP0
 in_PRP
@@ -27371,7 +27371,7 @@ qui_UNC
 cherche_NN1
 une_UNC
 rime_NN1
-Ma_NP0-NN1
+Ma_NP0
 femme_UNC
 pour_VVI
 un_UNC
@@ -27422,7 +27422,7 @@ to_TO0
 marry_VVI
 in_PRP
 the_AT0
-Catholic_AJ0-NN1
+Catholic_AJ0
 Church_NN1
 The_AT0
 accounts_NN2
@@ -27457,7 +27457,7 @@ close_AJ0
 to_TO0
 Nice_AJ0
 There_EX0
-Zborowski_NP0-NN1
+Zborowski_NP0
 rented_VVN
 rooms_NN2
 for_PRP
@@ -27465,7 +27465,7 @@ them_PNP
 all_DT0
 from_PRP
 Papa_NN1
-Curel_NN1-NP0
+Curel_NN1
 an_AT0
 elderly_AJ0
 eccentric_AJ0
@@ -27482,7 +27482,7 @@ all_DT0
 about_PRP
 artists_NN2
 The_AT0
-Zborowskis_NP0-NN1
+Zborowskis_NN1
 with_PRP
 Jeanne_NP0
 and_CJC
@@ -27632,7 +27632,7 @@ returned_VVD
 to_TO0
 Nice_AJ0
 because_CJS
-Zborowski_NP0-NN1
+Zborowski_NP0
 had_VHD
 failed_VVN
 to_TO0
@@ -27644,7 +27644,7 @@ pay_VVI
 the_AT0
 rent_NN1
 Papa_NN1
-Curel_NN1-NP0
+Curel_NN1
 who_PNQ
 had_VHD
 plagued_VVN
@@ -27690,7 +27690,7 @@ Before_PRP
 long_AJ0
 Foujita_NP0
 and_CJC
-Fernande_NP0-NN1
+Fernande_NP0
 returned_VVD
 to_TO0
 Paris_NP0
@@ -27719,7 +27719,7 @@ July_NP0
 the_AT0
 actor_NN1
 Pierre_NP0
-Bertin_NP0-NN1
+Bertin_NP0
 who_PNQ
 became_VVD
 a_AT0
@@ -27742,9 +27742,9 @@ along_AVP
 the_AT0
 Promenade_NN1
 des_UNC
-Anglais_NP0-NN1
+Anglais_NN1
 with_PRP
-Zborowski_NP0-NN1
+Zborowski_NP0
 The_AT0
 painter_NN1
 looked_VVD
@@ -27754,11 +27754,11 @@ shabbily_AV0
 dressed_VVN
 Sensing_VVG
 that_CJT
-Bertin_NP0-NN1
+Bertin_NP0
 was_VBD
 an_AT0
-art-lover_NN1-AJ0
-Zbo_NP0-NN1
+art-lover_AJ0
+Zbo_NP0
 showed_VVD
 him_PNP
 some_DT0
@@ -27769,7 +27769,7 @@ a_AT0
 sale_NN1
 In_PRP
 conversation_NN1
-Bertin_NP0-NN1
+Bertin_NP0
 remarked_VVD
 that_CJT
 his_DPS
@@ -27807,7 +27807,7 @@ with_PRP
 him_PNP
 to_TO0
 accompany_VVI
-Bertin_NP0-NN1
+Bertin_NP0
 's_POS
 sister-in-law_NN1
 Germaine_NP0
@@ -27934,7 +27934,7 @@ a_AT0
 single_AJ0
 minute_NN1
 In_PRP
-Zborowski_NP0-NN1
+Zborowski_NP0
 's_POS
 apartment_NN1
 in_PRP
@@ -28200,7 +28200,7 @@ working_VVG
 they_PNP
 would_VM0
 often_AV0
-stroll_VVI
+stroll_NN1
 towards_PRP
 the_AT0
 caf\xc3\xa9_NN1
@@ -28228,7 +28228,7 @@ badly_AV0
 out_AVP
 of_PRF
 tune_NN1
-Italian_AJ0-NN1
+Italian_AJ0
 and_CJC
 Hebrew_AJ0
 melodies_NN2
@@ -28244,7 +28244,7 @@ said_VVD
 Frans_NP0
 Hellens_NP0
 a_AT0
-Belgian_AJ0-NN1
+Belgian_AJ0
 writer_NN1
 whose_DTQ
 portrait_NN1
@@ -28335,7 +28335,7 @@ the_AT0
 waste_NN1
 of_PRF
 life_NN1
-increased_AJ0
+increased_VVN
 The_AT0
 sight_NN1
 of_PRF
@@ -28373,7 +28373,7 @@ devastating_AJ0
 news_NN1
 that_CJT
 his_DPS
-Portuguese_AJ0-NN1
+Portuguese_AJ0
 friend_NN1
 the_AT0
 artist_NN1
@@ -28418,7 +28418,7 @@ smoking_VVG
 altogether_AV0
 His_DPS
 dealer_NN1
-Zborowski_NP0-NN1
+Zborowski_NP0
 found_VVD
 to_TO0
 his_DPS
@@ -28460,7 +28460,7 @@ painters_NN2
 were_VBD
 envious_AJ0
 of_PRF
-Zbo_NP0-NN1
+Zbo_NP0
 's_POS
 life_NN1
 strolling_VVG
@@ -28536,7 +28536,7 @@ is_VBZ
 no_AT0
 doubt_NN1
 that_CJT
-Zbo_NP0-NN1
+Zbo_NP0
 played_VVD
 on_PRP
 Modigliani_NP0
@@ -28591,7 +28591,7 @@ after_PRP
 himself_PNX
 And_CJC
 when_CJS
-Zbo_NP0-NN1
+Zbo_NP0
 explained_VVD
 that_CJT
 Modi_NP0
@@ -28603,7 +28603,7 @@ they_PNP
 chased_VVN
 him_PNP
 away_AV0
-Zborowski_NP0-NN1
+Zborowski_NP0
 travelled_VVD
 along_AVP
 the_AT0
@@ -28636,7 +28636,7 @@ again_AV0
 caused_VVN
 a_AT0
 scene_NN1
-Local_NN1-AJ0
+Local_AJ0
 students_NN2
 were_VBD
 so_AV0
@@ -28688,7 +28688,7 @@ by_PRP
 Modigliani_NP0
 After_PRP
 some_DT0
-bartering_VVG
+bartering_AJ0
 they_PNP
 acquired_VVN
 both_AV0
@@ -28901,7 +28901,7 @@ account_NN1
 Cendrars_NP0
 first_ORD
 wife_NN1
-F\xc3\xa9licie_NP0-NN1
+F\xc3\xa9licie_NP0
 remembers_VVZ
 seeing_VVG
 Modi_NP0
@@ -28993,7 +28993,7 @@ with_PRP
 that_CJT
 look_VVI
 of_PRF
-yearning_VVG
+yearning_NN1
 that_CJT
 brings_VVZ
 to_TO0
@@ -29013,7 +29013,7 @@ children_NN2
 his_DPS
 own_DT0
 Jeanne_NP0
-Zborowski_NP0-NN1
+Zborowski_NP0
 and_CJC
 perhaps_AV0
 most_AV0
@@ -29074,7 +29074,7 @@ awkwardly_AV0
 placed_VVN
 her_DPS
 hands_NN2
-clasped_VVN-VVD
+clasped_VVD
 tightly_AV0
 not_XX0
 folded_VVN
@@ -29183,7 +29183,7 @@ the_AT0
 Nice_AJ0
 Maternity_NN1
 Hospital_NN1
-F\xc3\xa9licie_NP0-NN1
+F\xc3\xa9licie_NP0
 waited_VVD
 with_PRP
 him_PNP
@@ -29259,9 +29259,9 @@ Modigliani_NP0
 always_AV0
 called_VVN
 her_DPS
-Giovanna_NN1-NP0
+Giovanna_NN1
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 version_NN1
 He_PNP
 was_VBD
@@ -29413,7 +29413,7 @@ not_XX0
 surprised_AJ0
 that_CJT
 you_PNP
-feel_VVI
+feel_VVB
 like_PRP
 a_AT0
 grandmother_NN1
@@ -29445,7 +29445,7 @@ I_PNP
 kiss_VVI
 you_PNP
 warmly_AV0
-Dedo_NP0-NN1
+Dedo_NP0
 Modigliani_NP0
 's_POS
 fears_NN2
@@ -29455,7 +29455,7 @@ baby_NN1
 were_VBD
 realistic_AJ0
 When_CJS
-F\xc3\xa9licie_NP0-NN1
+F\xc3\xa9licie_NP0
 Cendrars_NP0
 saw_VVD
 them_PNP
@@ -29506,7 +29506,7 @@ in_PRP
 front_NN1
 of_PRF
 a_AT0
-fruit-shop_NN1-AJ0
+fruit-shop_NN1
 and_CJC
 another_DT0
 that_CJT
@@ -29566,7 +29566,7 @@ with_PRP
 her_DPS
 baby_NN1
 daughter_NN1
-Warmed_AJ0-VVN
+Warmed_VVN
 with_PRP
 wine_NN1
 and_CJC
@@ -29576,7 +29576,7 @@ spirit_NN1
 he_PNP
 wrote_VVD
 to_TO0
-Zborowski_NP0-NN1
+Zborowski_NP0
 now_AV0
 back_AVP
 in_PRP
@@ -29634,7 +29634,7 @@ send_VVI
 you_PNP
 and_CJC
 your_DPS
-dear_ITJ
+dear_NN1
 wife_NN1
 best_AJS
 wishes_NN2
@@ -29642,14 +29642,14 @@ for_PRP
 the_AT0
 New_AJ0
 Year_NN1
-Resurrectio_NP0-NN1
+Resurrectio_NP0
 Vitae_NP0
-Incipit_VVB-NN1
+Incipit_NN1
 vita_NN1
 nova_NN1
 Il_UNC
 nuovo_NN1
-Anno_NN1-NP0
+Anno_NN1
 Modigliani_NP0
 At_PRP
 the_AT0
@@ -29678,7 +29678,7 @@ of_PRF
 the_AT0
 New_AJ0
 Year_NN1
-Zborowski_NP0-NN1
+Zborowski_NP0
 took_VVD
 his_DPS
 words_NN2
@@ -29702,7 +29702,7 @@ set_VVN
 him_PNP
 straight_AV0
 My_DPS
-dear_ITJ
+dear_NN1
 Friend_NN1
 You_PNP
 're_VBB
@@ -29802,7 +29802,7 @@ mine_PNP
 that_CJT
 I_PNP
 'm_VBB
-stuck_AJ0
+stuck_VVN
 like_PRP
 this_DT0
 here_AV0
@@ -29933,7 +29933,7 @@ his_DPS
 next_ORD
 letter_NN1
 to_TO0
-Zbo_NP0-NN1
+Zbo_NP0
 suggests_VVZ
 that_CJT
 he_PNP
@@ -29947,8 +29947,8 @@ to_TO0
 the_AT0
 subject_NN1
 My_DPS
-dear_ITJ
-Zbo_NP0-NN1
+dear_NN1
+Zbo_NP0
 Here_AV0
 is_VBZ
 the_AT0
@@ -29960,7 +29960,7 @@ the_AT0
 question_NN1
 written_VVN
 in_PRP
-English_AJ0-NN1
+English_AJ0
 see_VVI
 Hamlet_NP0
 That_DT0
@@ -30058,7 +30058,7 @@ not_XX0
 I_PNP
 'll_VM0
 remain_VVI
-immobilized_VVD
+immobilized_AJ0
 at_PRP
 my_DPS
 place_NN1
@@ -30172,10 +30172,10 @@ along_AVP
 the_AT0
 Promenade_NN1
 des_UNC
-Anglais_NP0-NN1
+Anglais_NN1
 Guillaume_NP0
 looking_VVG
-natty_AJ0-NN1
+natty_NN1
 and_CJC
 brisk_AJ0
 with_PRP
@@ -30243,7 +30243,7 @@ his_DPS
 paintings_NN2
 in_PRP
 a_AT0
-mixed_AJ0
+mixed_VVN
 show_VVI
 with_PRP
 Picasso_NP0
@@ -30283,13 +30283,13 @@ and_CJC
 Modigliani_NP0
 repeatedly_AV0
 asked_VVD
-Zbo_NP0-NN1
+Zbo_NP0
 about_PRP
 them_PNP
 Although_CJS
 no_AT0
 saint_NN1
-Zborowski_NP0-NN1
+Zborowski_NP0
 was_VBD
 genuine_AJ0
 in_PRP
@@ -30301,14 +30301,14 @@ as_CJS
 an_AT0
 extraordinary_AJ0
 if_CJS
-exasperating_AJ0-VVG
+exasperating_AJ0
 human_AJ0
 being_VBG
 Modigliani_NP0
 was_VBD
 pleased_AJ0
 when_CJS
-Zbo_NP0-NN1
+Zbo_NP0
 responded_VVD
 quickly_AV0
 to_TO0
@@ -30461,7 +30461,7 @@ express_VVI
 And_CJC
 he_PNP
 warned_VVD
-Zborowski_NP0-NN1
+Zborowski_NP0
 not_XX0
 to_TO0
 expect_VVI
@@ -30503,7 +30503,7 @@ of_PRF
 desolation_NN1
 trees_NN2
 dominate_VVI
-cypress_VVB-NN1
+cypress_NN1
 trees_NN2
 or_CJC
 leafless_AJ0
@@ -30541,7 +30541,7 @@ wrote_VVD
 several_DT0
 times_NN2
 to_TO0
-Zborowski_NP0-NN1
+Zborowski_NP0
 in_PRP
 Paris_NP0
 on_PRP
@@ -30554,7 +30554,7 @@ money_NN1
 and_CJC
 canvases_NN2
 thanking_VVG
-Zbo_NP0-NN1
+Zbo_NP0
 for_PRP
 sending_VVG
 money_NN1
@@ -30592,7 +30592,7 @@ using_VVG
 the_AT0
 establishment_NN1
 's_POS
-writing-paper_NN1-AJ0
+writing-paper_AJ0
 From_PRP
 the_AT0
 Caf\xc3\xa9_NN1
@@ -30604,7 +30604,7 @@ he_PNP
 wrote_VVD
 again_AV0
 Dear_AJ0
-Zbo_NP0-NN1
+Zbo_NP0
 Thank_VVB
 you_PNP
 for_PRP
@@ -30702,7 +30702,7 @@ n't_XX0
 forget_VVI
 the_AT0
 Place_NP0
-Ravignan_NP0-NN1
+Ravignan_NN1
 business_NN1
 and_CJC
 write_VVI
@@ -30720,7 +30720,7 @@ studio_NN1
 in_PRP
 the_AT0
 Rue_NP0
-Ravignan_NP0-NN1
+Ravignan_NN1
 Possibly_AV0
 there_EX0
 were_VBD
@@ -30729,7 +30729,7 @@ canvases_NN2
 left_VVN
 there_EX0
 If_CJS
-Zbo_NP0-NN1
+Zbo_NP0
 did_VDD
 rescue_NN1
 some_DT0
@@ -30752,7 +30752,7 @@ of_PRF
 Modigliani_NP0
 's_POS
 work_NN1
-Zbo_NP0-NN1
+Zbo_NP0
 would_VM0
 probably_AV0
 have_VHB
@@ -30881,7 +30881,7 @@ comes_VVZ
 early_AJ0
 to_TO0
 the_AT0
-Riviera_NP0-NN1
+Riviera_NP0
 and_CJC
 it_PNP
 made_VVN
@@ -30921,7 +30921,7 @@ with_PRP
 one_CRD
 of_PRF
 the_AT0
-pimps_NN2-VVZ
+pimps_NN2
 because_CJS
 the_AT0
 girls_NN2
@@ -30951,7 +30951,7 @@ In_PRP
 a_AT0
 letter_NN1
 to_TO0
-Zborowski_NP0-NN1
+Zborowski_NP0
 dated_VVN
 27_CRD
 February_NP0
@@ -31102,7 +31102,7 @@ backing_NN1
 Modigliani_NP0
 's_POS
 work_NN1
-Zborowski_NP0-NN1
+Zborowski_NP0
 scented_AJ0
 the_AT0
 first_ORD
@@ -31170,14 +31170,14 @@ painters_NN2
 Young_NP0
 Sitwell_NP0
 visited_VVD
-Zborowski_NP0-NN1
+Zborowski_NP0
 in_PRP
 his_DPS
 apartment_NN1
 and_CJC
 suggested_VVN
 that_CJT
-Zbo_NP0-NN1
+Zbo_NP0
 should_VM0
 help_VVI
 to_TO0
@@ -31245,12 +31245,12 @@ Modigliani_NP0
 drawing_NN1
 Still_AV0
 an_AT0
-amateur_AJ0-NN1
+amateur_AJ0
 working_VVG
 from_PRP
 his_DPS
 apartment_NN1
-Zborowski_NP0-NN1
+Zborowski_NP0
 contacted_VVN
 other_AJ0
 dealers_NN2
@@ -31267,7 +31267,7 @@ This_DT0
 was_VBD
 the_AT0
 opening_NN1
-Zborowski_NP0-NN1
+Zborowski_NP0
 had_VHD
 worked_VVD
 for_PRP
@@ -31313,7 +31313,7 @@ overjoyed_AJ0
 Modi_NP0
 replied_VVD
 My_DPS
-dear_ITJ
+dear_NN1
 friend_NN1
 I_PNP
 was_VBD
@@ -31404,7 +31404,7 @@ on_PRP
 July_NP0
 1884_CRD
 at_PRP
-Livorno_NP0-NN1
+Livorno_NP0
 I_PNP
 wrote_VVD
 to_TO0
@@ -31441,7 +31441,7 @@ office_NN1
 on_PRP
 the_AT0
 Rue_NP0
-Camp_NP0-NN1
+Camp_NN1
 Premier_NN1
 It_PNP
 should_VM0
@@ -31497,7 +31497,7 @@ a_AT0
 great_AJ0
 hic_UNC
 Perhaps_AV0
-Zborowski_NP0-NN1
+Zborowski_NP0
 had_VHD
 considered_VVN
 opening_NN1
@@ -31514,7 +31514,7 @@ to_TO0
 look_VVI
 into_PRP
 the_AT0
-Montmartre_NP0-NN1
+Montmartre_NP0
 business_NN1
 My_DPS
 daughter_NN1
@@ -31732,13 +31732,13 @@ at_PRP
 that_CJT
 time_NN1
 that_CJT
-Zborowski_NP0-NN1
+Zborowski_NP0
 took_VVD
 Modigliani_NP0
 to_TO0
 visit_NN1
 Anders_NP0
-Osterlind_NP0-NN1
+Osterlind_NP0
 a_AT0
 Swedish_AJ0
 painter_NN1
@@ -31767,7 +31767,7 @@ by_PRP
 Modigliani_NP0
 's_POS
 condition_NN1
-Zborowski_NP0-NN1
+Zborowski_NP0
 brought_VVN
 him_PNP
 ill_AJ0
@@ -31777,7 +31777,7 @@ to_TO0
 the_AT0
 quiet_AJ0
 of_PRF
-Osterlind_NP0-NN1
+Osterlind_NP0
 's_POS
 house_NN1
 into_PRP
@@ -31795,7 +31795,7 @@ beautiful_AJ0
 features_NN2
 of_PRF
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 prince_NN1
 but_CJC
 he_PNP
@@ -31820,7 +31820,7 @@ his_DPS
 shadow_NN1
 the_AT0
 poetic_AJ0
-Zborowski_NP0-NN1
+Zborowski_NP0
 who_PNQ
 in_PRP
 brotherly_AJ0
@@ -31835,7 +31835,7 @@ dangerous_AJ0
 life_NN1
 of_PRF
 Nice_AJ0
-Osterlind_NP0-NN1
+Osterlind_NP0
 and_CJC
 his_DPS
 wife_NN1
@@ -31852,7 +31852,7 @@ dark-haired_AJ0
 gentle_AJ0
 beauty_NN1
 Rachel_NP0
-Osterlind_NP0-NN1
+Osterlind_NP0
 was_VBD
 fatally_AV0
 ill_AJ0
@@ -31905,11 +31905,11 @@ room_NN1
 and_CJC
 painted_VVN
 a_AT0
-haunting_AJ0-NN1
+haunting_AJ0
 portrait_NN1
 of_PRF
 Rachel_NP0
-Osterlind_NP0-NN1
+Osterlind_NP0
 her_DPS
 cheek_NN1
 resting_VVG
@@ -31995,8 +31995,8 @@ forcibly_AV0
 Poster_NN1
 art_NN1
 he_PNP
-assured_VVD
-Osterlind_NP0-NN1
+assured_VVN
+Osterlind_NP0
 was_VBD
 the_AT0
 art_NN1
@@ -32049,7 +32049,7 @@ life_NN1
 One_CRD
 evening_NN1
 Anders_NP0
-Osterlind_NP0-NN1
+Osterlind_NP0
 was_VBD
 astonished_AJ0
 to_TO0
@@ -32149,7 +32149,7 @@ owned_VVN
 by_PRP
 a_AT0
 M._NN1
-Nicolai_NN1-NP0
+Nicolai_NP0
 the_AT0
 proprietor_NN1
 of_PRF
@@ -32194,10 +32194,10 @@ to_TO0
 cover_NN1
 his_DPS
 chicken_NN1
-coops_NN2-VVZ
+coops_VVZ
 and_CJC
 rabbit_NN1
-hutches_NN2-VVZ
+hutches_NN2
 A_AT0
 few_DT0
 years_NN2
@@ -32243,10 +32243,10 @@ Cagnes-sur-Mer_NN2
 The_AT0
 visit_NN1
 to_TO0
-Osterlind_NP0-NN1
+Osterlind_NP0
 's_POS
 neighbour_NN1
-Renoir_NP0-NN1
+Renoir_NN1
 is_VBZ
 another_DT0
 story_NN1
@@ -32254,7 +32254,7 @@ told_VVD
 with_PRP
 many_DT0
 variations_NN2
-Osterlind_NP0-NN1
+Osterlind_NP0
 himself_PNX
 told_VVD
 it_PNP
@@ -32270,11 +32270,11 @@ of_PRF
 the_AT0
 elderly_AJ0
 painter_NN1
-Osterlind_NP0-NN1
+Osterlind_NP0
 used_VVN
 to_TO0
 visit_NN1
-Renoir_NP0-NN1
+Renoir_NN1
 every_AT0
 day_NN1
 He_PNP
@@ -32285,7 +32285,7 @@ metres_NN2
 higher_AJC
 up_AVP
 than_CJS
-Osterlind_NP0-NN1
+Osterlind_NP0
 in_PRP
 a_AT0
 rambling_AJ0
@@ -32302,15 +32302,15 @@ Modigliani_NP0
 and_CJC
 he_PNP
 asked_VVD
-Osterlind_NP0-NN1
+Osterlind_NP0
 to_TO0
 take_VVI
 him_PNP
 up_AVP
 to_TO0
 see_VVI
-Renoir_NP0-NN1
-Osterlind_NP0-NN1
+Renoir_NN1
+Osterlind_NP0
 extracted_VVN
 a_AT0
 promise_NN1
@@ -32321,14 +32321,14 @@ he_PNP
 would_VM0
 stay_VVI
 sober_AJ0
-Crippled_VVN-AJ0
+Crippled_AJ0
 with_PRP
 arthritis_NN1
 and_CJC
 wheelchair-bound_AJ0
 at_PRP
 77_CRD
-Renoir_NP0-NN1
+Renoir_NN1
 detested_VVD
 meeting_NN1
 strangers_NN2
@@ -32339,12 +32339,12 @@ heard_VVN
 about_PRP
 Modigliani_NP0
 from_PRP
-Osterlind_NP0-NN1
+Osterlind_NP0
 and_CJC
 almost_AV0
 certainly_AV0
 from_PRP
-Zborowski_NP0-NN1
+Zborowski_NP0
 and_CJC
 agreed_VVD
 to_TO0
@@ -32372,7 +32372,7 @@ conversation_NN1
 became_VVD
 dangerously_AV0
 frigid_AJ0
-Renoir_NP0-NN1
+Renoir_NN1
 had_VHD
 some_DT0
 of_PRF
@@ -32404,7 +32404,7 @@ you_PNP
 paint_NN1
 young_AJ0
 man_NN1
-Renoir_NP0-NN1
+Renoir_NN1
 remarked_VVD
 mildly_AV0
 Modi_NP0
@@ -32457,7 +32457,7 @@ their_DPS
 difference_NN1
 is_VBZ
 apparent_AJ0
-Renoir_NP0-NN1
+Renoir_NN1
 with_PRP
 his_DPS
 earthy_AJ0
@@ -32503,7 +32503,7 @@ relations_NN2
 with_PRP
 women_NN2
 With_PRP
-Osterlind_NP0-NN1
+Osterlind_NP0
 he_PNP
 discussed_VVN
 art_NN1
@@ -32565,12 +32565,12 @@ affair_NN1
 Apparently_AV0
 the_AT0
 elderly_AJ0
-Renoir_NP0-NN1
+Renoir_NN1
 bore_VVD
 Modigliani_NP0
 no_AT0
 malice_NN1
-Zborowski_NP0-NN1
+Zborowski_NP0
 had_VHD
 been_VBN
 trying_VVG
@@ -32592,13 +32592,13 @@ in_PRP
 Nice_AJ0
 Shortly_AV0
 afterwards_AV0
-Renoir_NP0-NN1
+Renoir_NN1
 even_AV0
 sold_VVN
 two_CRD
 canvases_NN2
 to_TO0
-Zborowski_NP0-NN1
+Zborowski_NP0
 in_PRP
 order_NN1
 to_TO0
@@ -32632,7 +32632,7 @@ her_DPS
 in_PRP
 letters_NN2
 to_TO0
-Zbo_NP0-NN1
+Zbo_NP0
 as_CJS
 his_DPS
 wife_NN1
@@ -32649,7 +32649,7 @@ was_VBD
 very_AV0
 much_DT0
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 husband_NN1
 leaving_VVG
 his_DPS
@@ -32732,7 +32732,7 @@ a_AT0
 safe_AJ0
 conduct_NN1
 c/o_PRP
-Osterlind_NP0-NN1
+Osterlind_NP0
 and_CJC
 he_PNP
 travelled_VVD

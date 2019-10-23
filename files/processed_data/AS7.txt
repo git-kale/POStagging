@@ -1,5 +1,5 @@
-STRATHBEG_NP0-NN1
-STRATHBEG_NP0-NN1
+STRATHBEG_NP0
+STRATHBEG_NP0
 is_VBZ
 a_AT0
 naturalist_NN1
@@ -52,7 +52,7 @@ have_VHB
 been_VBN
 counted_VVN
 at_PRP
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 during_PRP
 the_AT0
 course_NN1
@@ -75,7 +75,7 @@ are_VBB
 huge_AJ0
 flocks_NN2
 of_PRF
-Scandinavian_AJ0-NN1
+Scandinavian_NN1
 greylag_NN1
 and_CJC
 pink-footed_AJ0
@@ -83,7 +83,7 @@ geese_NN2
 which_DTQ
 winter-roost_NN1
 at_PRP
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 grazing_NN1
 in_PRP
 surrounding_AJ0
@@ -104,7 +104,7 @@ their_DPS
 tiring_AJ0
 journey_NN1
 from_PRP
-Spitzbergen_NP0-NN1
+Spitzbergen_NP0
 in_PRP
 Norway_NP0
 to_TO0
@@ -124,7 +124,7 @@ October_NP0
 and_CJC
 November_NP0
 Their_DPS
-haunting_AJ0-NN1
+haunting_AJ0
 call_VVI
 echoes_NN2
 across_PRP
@@ -139,24 +139,24 @@ From_PRP
 September_NP0
 smaller_AJC
 ducks_NN2
-fly_VVI
+fly_NN1
 in_PRP
 tufted_AJ0
 pochard_NN1
-goldeneye_VVB-NN1
+goldeneye_NN1
 mallard_NN1
 wigeon_NN1
 mergansers_NN2
-goosander_NN1-VVB
+goosander_VVB
 and_CJC
-smew_NN1-VVB
+smew_NN1
 Mute_AJ0
 swan_NN1
 stately_AJ0
 and_CJC
 serene_AJ0
 are_VBB
-present_AJ0-NN1
+present_AJ0
 all_DT0
 the_AT0
 year_NN1
@@ -165,7 +165,7 @@ last_ORD
 time_NN1
 I_PNP
 visited_VVD
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 I_PNP
 counted_VVN
 eighty_CRD
@@ -188,7 +188,7 @@ have_VHB
 been_VBN
 noted_VVN
 at_PRP
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 including_PRP
 rarities_NN2
 such_DT0
@@ -196,7 +196,7 @@ as_CJS
 Caspian_NP0
 tern_NN1
 little_AJ0
-egret_VVB-NN1
+egret_NN1
 crane_NN1
 pied-billed_AJ0
 grebe_NN1
@@ -204,7 +204,7 @@ and_CJC
 red-footed_AJ0
 falcon_NN1
 amongst_PRP
-nesting_VVG-NN1
+nesting_VVG
 residents_NN2
 are_VBB
 shelduck_NN1
@@ -214,7 +214,7 @@ duck_NN0
 secretive_AJ0
 water_NN1
 rail_NN1
-sedge_NN1-VVB
+sedge_NN1
 and_CJC
 willow_NN1
 warbler_NN1
@@ -222,9 +222,9 @@ black-bibbed_AJ0
 reed_NN1
 bunting_NN1
 and_CJC
-diminutive_AJ0-NN1
+diminutive_AJ0
 wren_NN1
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 lies_VVZ
 on_PRP
 the_AT0
@@ -247,7 +247,7 @@ to_TO0
 the_AT0
 village_NN1
 of_PRF
-Crimond_NP0-NN1
+Crimond_NN1
 The_AT0
 reserve_NN1
 is_VBZ
@@ -321,15 +321,15 @@ flowers_NN2
 heath_NN1
 and_CJC
 marsh_NN1
-bedstraw_NN1-VVB
-ragwort_VVB-NN1
+bedstraw_VVB
+ragwort_NN1
 meadow_NN1
-vetchling_VVG-NN1
+vetchling_VVG
 tufted_AJ0
 vetch_NN0
 marsh_NN1
-cinquefoil_NN1-VVB
-felwort_VVB-NN1
+cinquefoil_NN1
+felwort_VVB
 angelica_NN1
 marsh_NN1
 valerian_NN1
@@ -339,7 +339,7 @@ Buchan_NP0
 beauty_NN1
 grass_NN1
 of_PRF
-Parnassus_NP0-NN1
+Parnassus_NN1
 as_CJS
 well_AV0
 as_CJS
@@ -366,7 +366,7 @@ into_PRP
 the_AT0
 loch_NN1
 keeping_VVG
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 trout_NN0
 alert_AJ0
 and_CJC
@@ -374,9 +374,9 @@ fit_VVI
 Badger_NN1
 roe_NN0
 deer_NN0
-weasel_NN1-VVB
+weasel_NN1
 and_CJC
-stoat_VVB-NN1
+stoat_NN1
 live_VVI
 by_PRP
 the_AT0
@@ -402,16 +402,16 @@ lovely_AJ0
 of_PRF
 all_DT0
 falcons_NN2
-diminutive_AJ0-NN1
+diminutive_AJ0
 merlin_NN1
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 is_VBZ
 connected_VVN
 to_TO0
 the_AT0
 sea_NN1
 by_PRP
-Rattray_NP0-NN1
+Rattray_NP0
 Burn_NN1
 and_CJC
 before_PRP
@@ -427,9 +427,9 @@ estuary_NN1
 well_AV0
 used_VVN
 by_PRP
-Roman_AJ0-NN1
+Roman_AJ0
 then_AV0
-Viking_NN1-AJ0
+Viking_NN1
 warships_NN2
 seeking_VVG
 refuge_NN1
@@ -448,7 +448,7 @@ the_AT0
 honour_NN1
 of_PRF
 Royal_AJ0
-Burgh_NN1-NP0
+Burgh_NN1
 on_PRP
 the_AT0
 community_NN1
@@ -479,7 +479,7 @@ the_AT0
 early_AJ0
 eighteenth_ORD
 century_NN1
-closed_VVD
+closed_VVN
 the_AT0
 harbour_NN1
 but_CJC
@@ -502,16 +502,16 @@ was_VBD
 formed_VVN
 the_AT0
 largest_AJS
-dune-slack_AJ0-NN1
+dune-slack_AJ0
 lake_NN1
 in_PRP
 Britain_NP0
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 is_VBZ
 bordered_VVN
 on_PRP
 its_DPS
-landward_AV0
+landward_AJ0
 side_NN1
 by_PRP
 a_AT0
@@ -564,11 +564,11 @@ mind_NN1
 eye_NN1
 South_NN1
 end_NN1
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 is_VBZ
 the_AT0
-principal_AJ0-NN1
-mooring_AJ0-NN1
+principal_AJ0
+mooring_NN1
 bay_NN1
 close_AJ0
 to_TO0
@@ -610,9 +610,9 @@ grass-covered_AJ0
 sand_NN1
 dunes_NN2
 of_PRF
-Rattray_NP0-NN1
+Rattray_NP0
 Head_NN1
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 is_VBZ
 one_CRD
 of_PRF
@@ -697,13 +697,13 @@ port_NN1
 of_PRF
 call_VVI
 was_VBD
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 and_CJC
 as_CJS
 we_PNP
 drove_VVD
 through_PRP
-Crimond_NP0-NN1
+Crimond_NN1
 on_PRP
 our_DPS
 way_NN1
@@ -734,7 +734,7 @@ to_TO0
 see_VVI
 Loch_NP0
 of_PRF
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 See_VVB
 was_VBD
 the_AT0
@@ -755,7 +755,7 @@ boat_NN1
 held_VVN
 three_CRD
 We_PNP
-parked_VVN
+parked_VVD
 near_PRP
 the_AT0
 boathouse_NN1
@@ -765,7 +765,7 @@ west_NN1
 shore_NN1
 a_AT0
 ruined_VVN
-mud-filled_AJ0-NN1
+mud-filled_NN1
 RAF_NP0
 building_NN1
 where_AVQ
@@ -792,7 +792,7 @@ I_PNP
 explored_VVN
 the_AT0
 shores_NN2
-haunting_AJ0-NN1
+haunting_AJ0
 the_AT0
 hides_VVZ
 marvelling_VVG
@@ -819,7 +819,7 @@ evening_NN1
 stealing_VVG
 in_PRP
 on_PRP
-crimson_NN1-AJ0
+crimson_AJ0
 wings_NN2
 The_AT0
 anglers_NN2
@@ -853,13 +853,13 @@ fishing_NN1
 is_VBZ
 verboten_VVB
 on_PRP
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 because_CJS
 of_PRF
 the_AT0
 importance_NN1
 to_TO0
-nesting_VVG-NN1
+nesting_VVG
 birds_NN2
 of_PRF
 surrounding_AJ0
@@ -874,7 +874,7 @@ the_AT0
 serious_AJ0
 business_NN1
 of_PRF
-propitiating_VVG-AJ0
+propitiating_AJ0
 species_NN0
 Fishing_NN1
 is_VBZ
@@ -882,11 +882,11 @@ from_PRP
 boats_NN2
 only_AV0
 but_CJC
-outboard_NN1-AJ0
+outboard_AJ0
 motors_NN2
 are_VBB
 allowed_VVN
-Welcome_VVB-NN1
+Welcome_NN1
 relief_NN1
 on_PRP
 this_DT0
@@ -894,7 +894,7 @@ exposed_VVN
 often_AV0
 windy_AJ0
 water_NN1
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 fishes_NN2
 best_AJS
 in_PRP
@@ -903,7 +903,7 @@ decent_AJ0
 wind_NN1
 and_CJC
 trout_NN0
-average_AJ0-NN1
+average_AJ0
 12oz_NN0
 in_PRP
 weight_NN1
@@ -927,7 +927,7 @@ important_AJ0
 to_TO0
 proper_AJ0
 anglers_NN2
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 trout_NN0
 reward_NN1
 effort_NN1
@@ -945,7 +945,7 @@ characters_NN2
 regardless_AV0
 of_PRF
 size_NN1
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 trout_NN0
 are_VBB
 not_XX0
@@ -967,7 +967,7 @@ producing_VVG
 outstanding_AJ0
 personalities_NN2
 George_NP0
-Halket_NP0-NN1
+Halket_NN1
 1690\xe2\x80\x931756_CRD
 schoolmaster_NN1
 in_PRP
@@ -980,10 +980,10 @@ satirist_NN1
 and_CJC
 Hanoverian_AJ0
 scourge_NN1
-Halket_NP0-NN1
+Halket_NN1
 a_AT0
 staunch_AJ0
-Jacobite_AJ0-NN1
+Jacobite_NN1
 is_VBZ
 remembered_VVD
 for_PRP
@@ -999,7 +999,7 @@ for_PRP
 his_DPS
 fine_AJ0
 song_NN1
-Logie_NN1
+Logie_NP0
 O'_PRF
 Buchan_NP0
 The_AT0
@@ -1009,14 +1009,14 @@ the_AT0
 events_NN2
 described_VVN
 in_PRP
-Logie_NN1
+Logie_NP0
 is_VBZ
-Crimond_NP0-NN1
+Crimond_NN1
 by_PRP
-Strathbeg_NP0-NN1
+Strathbeg_NN1
 where_AVQ
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 character_NN1
 James_NP0
 Robertson_NP0
@@ -1026,7 +1026,7 @@ laird_NN1
 's_POS
 gardener_NN1
 Another_DT0
-Halket_NP0-NN1
+Halket_NN1
 satire_NN1
 A_AT0
 dialogue_NN1
@@ -1052,7 +1052,7 @@ so_AV0
 incensed_AJ0
 his_DPS
 son_NN1
-Butcher_NP0-NN1
+Butcher_NP0
 Cumberland_NP0
 that_CJT
 he_PNP
@@ -1065,7 +1065,7 @@ who_PNQ
 would_VM0
 bring_VVI
 him_PNP
-Halket_NP0-NN1
+Halket_NN1
 's_POS
 body_NN1
 Dead_AJ0
@@ -1085,7 +1085,7 @@ care_NN1
 of_PRF
 their_DPS
 own_DT0
-Halket_NP0-NN1
+Halket_NN1
 's_POS
 famous_AJ0
 contemporary_AJ0
@@ -1099,7 +1099,7 @@ at_PRP
 the_AT0
 Battle_NN1
 of_PRF
-Culloden_NP0-NN1
+Culloden_NN1
 also_AV0
 benefited_VVN
 from_PRP
@@ -1348,12 +1348,12 @@ windless_AJ0
 Sea-trout_NN0
 jumped_VVD
 and_CJC
-splashed_VVN-VVD
+splashed_VVN
 enticingly_AV0
 All_DT0
 refused_VVD
 to_TO0
-bite_VVI
+bite_NN1
 Unlike_PRP
 Ythan_NP0
 midges_NN2
@@ -1445,7 +1445,7 @@ immortality_NN1
 by_PRP
 devising_VVG
 the_AT0
-greased_VVN-AJ0
+greased_AJ0
 line_NN1
 method_NN1
 of_PRF
@@ -1458,7 +1458,7 @@ conditions_NN2
 using_VVG
 a_AT0
 small_AJ0
-fly_VVI
+fly_NN1
 called_VVN
 a_AT0
 Blue_AJ0
@@ -1500,7 +1500,7 @@ Arthur_NP0
 Wood_NP0
 and_CJC
 his_DPS
-wee_AJ0-NN1
+wee_AJ0
 Blue_AJ0
 Charm_NN1
 Jimmy_NP0
@@ -1523,7 +1523,7 @@ success_NN1
 with_PRP
 the_AT0
 small_AJ0
-fly_VVI
+fly_NN1
 Wee_VVB
 Blue_AJ0
 Charm_NN1
@@ -1605,7 +1605,7 @@ taken_VVN
 mostly_AV0
 by_PRP
 dry_AJ0
-fly_VVI
+fly_NN1
 experts_NN2
 fishing_NN1
 the_AT0
@@ -1620,7 +1620,7 @@ where_AVQ
 the_AT0
 big_AJ0
 fish_NN0
-lie_VVI
+lie_VVB
 and_CJC
 creep_VVI
 up_AVP
@@ -1639,7 +1639,7 @@ As_CJS
 a_AT0
 party_NN1
 of_PRF
-French_AJ0-NN1
+French_AJ0
 anglers_NN2
 did_VDD
 whilst_CJS
@@ -1744,7 +1744,7 @@ first-class_AJ0
 advice_NN1
 on_PRP
 the_AT0
-fly_VVI
+fly_NN1
 of_PRF
 the_AT0
 moment_NN1
@@ -1752,7 +1752,7 @@ and_CJC
 which_DTQ
 fingers_NN2
 to_TO0
-cross_VVI
+cross_NN1
 I_PNP
 am_VBB
 careful_AJ0
@@ -1772,7 +1772,7 @@ an_AT0
 afternoon_NN1
 on_PRP
 our_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 Don_NP0
 beat_VVI
 between_PRP
@@ -1814,7 +1814,7 @@ elm_NN1
 copper_NN1
 beech_NN1
 larch_NN1
-spruce_AJ0
+spruce_NN1
 and_CJC
 magnificent_AJ0
 statuesque_AJ0
@@ -1862,13 +1862,13 @@ fishing-rod_NN1
 In_PRP
 the_AT0
 ensuing_AJ0
-tussle_VVI
+tussle_NN1
 the_AT0
 middle_NN1
-fly_VVI
+fly_NN1
 on_PRP
 her_DPS
-cast_VVN
+cast_NN1
 a_AT0
 size_NN1
 14_CRD
@@ -1914,7 +1914,7 @@ red-faced_AJ0
 Ann_NP0
 appeared_VVD
 the_AT0
-fly_VVI
+fly_NN1
 having_VHG
 been_VBN
 removed_VVN
@@ -1934,7 +1934,7 @@ which_DTQ
 is_VBZ
 essentially_AV0
 a_AT0
-Highland_NN1-NP0
+Highland_NN1
 spate_NN1
 stream_NN1
 rushing_VVG
@@ -2048,7 +2048,7 @@ Pool_NN1
 covering_VVG
 every_AT0
 possible_AJ0
-lie_VVI
+lie_VVB
 when_CJS
 a_AT0
 good_AJ0
@@ -2062,7 +2062,7 @@ back_AVP
 to_TO0
 have_VHB
 a_AT0
-cast_VVN
+cast_NN1
 at_PRP
 him_PNP
 A_AT0
@@ -2077,7 +2077,7 @@ brutes_NN2
 Having_VHG
 rejected_VVN
 your_DPS
-fly_VVI
+fly_NN1
 once_AV0
 they_PNP
 are_VBB
@@ -2124,7 +2124,7 @@ had_VHD
 fallen_VVN
 forward_AV0
 still_AV0
-hinged_VVN-VVD
+hinged_VVD
 so_AV0
 to_TO0
 speak_VVI
@@ -2152,7 +2152,7 @@ ground_NN1
 lay_VVD
 beneath_PRP
 I_PNP
-cast_VVN
+cast_NN1
 into_PRP
 the_AT0
 pool_NN1
@@ -2189,7 +2189,7 @@ rock_NN1
 ledge_NN1
 towards_PRP
 my_DPS
-fly_VVI
+fly_NN1
 I_PNP
 froze_VVD
 mouth_NN1
@@ -2276,7 +2276,7 @@ bottom_NN1
 of_PRF
 the_AT0
 river_NN1
-drowning_NN1-VVG
+drowning_VVG
 fishing_NN1
 jacket_NN1
 waders_NN2
@@ -2300,7 +2300,7 @@ weeds_NN2
 Beautiful_AJ0
 green_AJ0
 fronds_NN2
-Mesmerising_VVG-NN1
+Mesmerising_VVG
 This_DT0
 is_VBZ
 it_PNP
@@ -2333,7 +2333,7 @@ and_CJC
 the_AT0
 thought_VVD
 of_PRF
-damaging_VVG-AJ0
+damaging_AJ0
 that_CJT
 galvanised_AJ0
 me_PNP
@@ -2392,8 +2392,8 @@ bag_NN1
 ashore_AV0
 the_AT0
 4lb_NN0
-breaking-strain_AJ0-NN1
-cast_VVN
+breaking-strain_NN1
+cast_NN1
 snapped_VVD
 and_CJC
 the_AT0
@@ -2410,7 +2410,7 @@ deep_AJ0
 and_CJC
 struggled_VVD
 ashore_AV0
-Dripping_VVG-NN1
+Dripping_VVG
 shaking_VVG
 absolutely_AV0
 stunned_AJ0
@@ -2431,7 +2431,7 @@ chance_NN1
 and_CJC
 I_PNP
 had_VHD
-botched_VVN-AJ0
+botched_VVN
 mine_PNP
 The_AT0
 sun_NN1
@@ -2443,7 +2443,7 @@ I_PNP
 stripped_VVN
 off_AVP
 and_CJC
-spread_NN1
+spread_VVN
 my_DPS
 garments_NN2
 out_AVP
@@ -2475,7 +2475,7 @@ Ann_NP0
 's_POS
 All_DT0
 right_NN1
-dear_ITJ
+dear_NN1
 Having_VHG
 fun_NN1
 I_PNP
@@ -2545,7 +2545,7 @@ was_VBD
 the_AT0
 trout_NN0
 Dad_NN1
-Pulled_VVD-VVN
+Pulled_VVN
 you_PNP
 right_NN1
 into_PRP
@@ -2758,7 +2758,7 @@ pool_NN1
 first_ORD
 Ignoring_VVG
 the_AT0
-veiled_AJ0
+veiled_VVN
 insult_NN1
 I_PNP
 insisted_VVD
@@ -2820,11 +2820,11 @@ and_CJC
 slashed_VVN
 at_PRP
 my_DPS
-cast_VVN
+cast_NN1
 taking_VVG
 the_AT0
 tail_NN1
-fly_VVI
+fly_NN1
 a_AT0
 size_NN1
 14_CRD
@@ -3038,7 +3038,7 @@ of_PRF
 success_NN1
 Mere_AJ0
 mortals_NN2
-average_AJ0-NN1
+average_AJ0
 run-of-the-mill_AJ0
 duffers_NN2
 do_VDB
@@ -3204,7 +3204,7 @@ winter_NN1
 months_NN2
 suffering_VVG
 from_PRP
-wander-lust_NN1-AJ0
+wander-lust_NN1
 I_PNP
 descend_VVB
 upon_PRP
@@ -3316,7 +3316,7 @@ travel_NN1
 brochures_NN2
 to_TO0
 help_VVI
-feed_VVI
+feed_NN1
 my_DPS
 fantasies_NN2
 Consequently_AV0
@@ -3379,7 +3379,7 @@ overwhelming_AJ0
 urge_NN1
 just_AV0
 to_TO0
-drop_VVI
+drop_NN1
 everything_PNI
 and_CJC
 be_VBI
@@ -3548,7 +3548,7 @@ and_CJC
 even_AV0
 delights_NN2
 from_PRP
-Roman_AJ0-NN1
+Roman_AJ0
 times_NN2
 Splendid_AJ0
 memorable_AJ0
@@ -3607,7 +3607,7 @@ Twelve_CRD
 miles_NN2
 from_PRP
 our_DPS
-Caithness_NP0-NN1
+Caithness_NN1
 home_NN1
 across_PRP
 the_AT0
@@ -3615,9 +3615,9 @@ stormy_AJ0
 waters_NN2
 of_PRF
 the_AT0
-Pentland_NP0-NN1
+Pentland_NP0
 Firth_NN1
-lie_VVI
+lie_VVB
 the_AT0
 Orkney_NP0
 Islands_NP0
@@ -3656,7 +3656,7 @@ one_CRD
 imagines_VVZ
 one_CRD
 might_VM0
-stretch_VVI
+stretch_NN1
 out_AVP
 a_AT0
 hand_NN1
@@ -3781,14 +3781,14 @@ The_AT0
 stone_NN1
 circles_NN2
 at_PRP
-Brodgar_NN1-NP0
+Brodgar_NN1
 and_CJC
 Stenness_NP0
 Maes_NP0
 Howe_NP0
 Chambered_AJ0
 Cairn_NN1
-sealed_AJ0
+sealed_VVN
 by_PRP
 its_DPS
 priests_NN2
@@ -3805,7 +3805,7 @@ Vikings_NN2
 in_PRP
 1150_CRD
 AD_AV0
-Norsemen_NP0
+Norsemen_NN2
 conquered_VVN
 Orkney_NP0
 in_PRP
@@ -3827,7 +3827,7 @@ during_PRP
 the_AT0
 time_NN1
 of_PRF
-Viking_NN1-AJ0
+Viking_NN1
 domination_NN1
 that_CJT
 Rognvald_NP0
@@ -3852,7 +3852,7 @@ on_PRP
 the_AT0
 island_NN1
 of_PRF
-Eglisay_NN1-NP0
+Eglisay_NP0
 in_PRP
 1116_CRD
 AD_AV0
@@ -3886,7 +3886,7 @@ For_PRP
 it_PNP
 is_VBZ
 not_XX0
-seemly_AV0-AJ0
+seemly_AJ0
 to_TO0
 behead_NN1
 chiefs_NN2
@@ -3916,7 +3916,7 @@ deeply_AV0
 marked_VVN
 by_PRP
 an_AT0
-axe-blow_NN1-AJ0
+axe-blow_AJ0
 King_NP0
 Haakon_NP0
 defeated_VVN
@@ -3943,7 +3943,7 @@ the_AT0
 same_DT0
 year_NN1
 and_CJC
-Norse_NN1-NP0
+Norse_NN1
 rule_NN1
 ended_VVD
 when_CJS
@@ -3988,7 +3988,7 @@ the_AT0
 stormy_AJ0
 days_NN2
 of_PRF
-Viking_NN1-AJ0
+Viking_NN1
 rule_NN1
 abound_VVB
 particularly_AV0
@@ -4010,7 +4010,7 @@ ruins_NN2
 of_PRF
 a_AT0
 great_AJ0
-banqueting_AJ0-NN1
+banqueting_AJ0
 hall_NN1
 remain_VVI
 and_CJC
@@ -4121,7 +4121,7 @@ clung_VVD
 to_TO0
 the_AT0
 rail_NN1
-listening_VVG-NN1
+listening_VVG
 to_TO0
 the_AT0
 wind_NN1
@@ -4139,8 +4139,8 @@ Mother_NN1
 and_CJC
 Father_NN1
 had_VHD
-retired_AJ0
-hurt_VVI
+retired_VVD
+hurt_VVN
 along_AVP
 with_PRP
 my_DPS
@@ -4200,7 +4200,7 @@ lived_VVD
 in_PRP
 until_CJS
 1939_CRD
-Stranathro_NP0-NN1
+Stranathro_NP0
 at_PRP
 Muchalls_NP0
 perched_VVN
@@ -4243,7 +4243,7 @@ sound_NN1
 of_PRF
 waves_NN2
 and_CJC
-cry_VVI
+cry_NN1
 of_PRF
 gull_NN1
 The_AT0
@@ -4275,7 +4275,7 @@ first_ORD
 gannet_NN1
 plunging_VVG
 into_PRP
-mirror-calm_AJ0-NN1
+mirror-calm_NN1
 waters_NN2
 snow-white_AJ0
 yellow-tipped_AJ0
@@ -4300,7 +4300,7 @@ overhead_AV0
 and_CJC
 I_PNP
 was_VBD
-entranced_VVN
+entranced_VVD
 by_PRP
 its_DPS
 beauty_NN1
@@ -4356,7 +4356,7 @@ on_PRP
 a_AT0
 farm_NN1
 at_PRP
-Backakeldy_NP0-NN1
+Backakeldy_NP0
 ten_CRD
 miles_NN2
 south_NN1
@@ -4387,8 +4387,8 @@ sisters_NN2
 Senior_AJ0
 brother_NN1
 John_NP0
-Isbister_NP0-NN1
-smiling_VVG-AJ0
+Isbister_NN1
+smiling_VVG
 brightly_AV0
 met_VVD
 us_PNP
@@ -4536,7 +4536,7 @@ to_TO0
 linger_VVI
 round_AVP
 the_AT0
-milking_NN1-AJ0
+milking_NN1
 parlour_NN1
 warmed_VVN
 by_PRP
@@ -4661,7 +4661,7 @@ beautifully_AV0
 shaped_VVN
 bird_NN1
 flying_VVG
-fast_AV0-AJ0
+fast_AJ0
 over_PRP
 the_AT0
 sea_NN1
@@ -4823,7 +4823,7 @@ He_PNP
 was_VBD
 allowed_VVN
 to_TO0
-drive_VVI
+drive_NN1
 the_AT0
 old_AJ0
 red_AJ0
@@ -4900,7 +4900,7 @@ worse_AJC
 the_AT0
 heather_NN1
 had_VHD
-closed_VVD
+closed_VVN
 above_PRP
 his_DPS
 head_NN1
@@ -4910,7 +4910,7 @@ he_PNP
 had_VHD
 fallen_VVN
 John_NP0
-Isbister_NP0-NN1
+Isbister_NN1
 roared_VVD
 Keep_VVB
 yelling_VVG
@@ -4933,7 +4933,7 @@ eventually_AV0
 discovered_VVN
 the_AT0
 spot_NN1
-Parting_NN1-VVG
+Parting_VVG
 the_AT0
 heather_NN1
 he_PNP
@@ -4964,7 +4964,7 @@ waist_NN1
 deep_AJ0
 and_CJC
 sinking_VVG
-fast_AV0-AJ0
+fast_AJ0
 We_PNP
 had_VHD
 another_DT0
@@ -5005,7 +5005,7 @@ Churchill_NP0
 Barriers_NN2
 the_AT0
 great_AJ0
-concrete_AJ0-NN1
+concrete_AJ0
 causeways_NN2
 Winston_NP0
 Churchill_NP0
@@ -5051,7 +5051,7 @@ and_CJC
 Burray_NP0
 to_TO0
 South_NN1
-Ronaldsay_NP0-NN1
+Ronaldsay_NP0
 The_AT0
 Isbisters_NN2
 had_VHD
@@ -5067,14 +5067,14 @@ day_NN1
 exploring_VVG
 visiting_VVG
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 Chapel_NN1
 on_PRP
 Lamb_NP0
 Holm_NP0
 built_VVN
 by_PRP
-Italian_AJ0-NN1
+Italian_AJ0
 POWs_NN2
 now_AV0
 guarded_VVN
@@ -5101,7 +5101,7 @@ particularly_AV0
 impressed_AJ0
 with_PRP
 the_AT0
-half-submerged_AJ0-NN1
+half-submerged_AJ0
 hulks_NN2
 of_PRF
 the_AT0
@@ -5299,7 +5299,7 @@ we_PNP
 eventually_AV0
 arrived_VVD
 at_PRP
-Backakeldy_NP0-NN1
+Backakeldy_NP0
 we_PNP
 were_VBD
 told_VVD
@@ -5356,7 +5356,7 @@ broken_VVN
 waters_NN2
 of_PRF
 the_AT0
-Pentland_NP0-NN1
+Pentland_NP0
 Firth_NN1
 to_TO0
 spend_VVI
@@ -5371,7 +5371,7 @@ the_AT0
 shores_NN2
 of_PRF
 Loch_NP0
-Boardhouse_NP0-NN1
+Boardhouse_NP0
 Orcadian_AJ0
 game_NN1
 fishing_NN1
@@ -5426,10 +5426,10 @@ on_PRP
 Mainland_NN1
 Harray_NP0
 Stenness_NP0
-Boardhouse_NP0-NN1
+Boardhouse_NP0
 Hundland_NP0
 and_CJC
-Swannay_NP0-NN1
+Swannay_NP0
 There_EX0
 are_VBB
 many_DT0
@@ -5459,7 +5459,7 @@ these_DT0
 five_CRD
 and_CJC
 rarely_AV0
-regret_VVI
+regret_NN1
 their_DPS
 decision_NN1
 to_TO0
@@ -5468,7 +5468,7 @@ so_AV0
 Our_DPS
 caravan_NN1
 at_PRP
-Boardhouse_NP0-NN1
+Boardhouse_NP0
 was_VBD
 perfectly_AV0
 situated_VVN
@@ -5563,7 +5563,7 @@ Brae_NP0
 the_AT0
 Bay_NN1
 of_PRF
-Skail_NP0-NN1
+Skail_NP0
 is_VBZ
 one_CRD
 of_PRF
@@ -5590,14 +5590,14 @@ are_VBB
 warmed_VVN
 by_PRP
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 Streams_NN2
 and_CJC
 we_PNP
 often_AV0
 swam_VVD
 at_PRP
-Skail_NP0-NN1
+Skail_NP0
 I_PNP
 taught_VVN
 my_DPS
@@ -5643,7 +5643,7 @@ came_VVD
 to_TO0
 live_VVI
 in_PRP
-Caithness_NP0-NN1
+Caithness_NN1
 with_PRP
 two_CRD
 more_AV0
@@ -5659,7 +5659,7 @@ The_AT0
 rough_AJ0
 passage_NN1
 from_PRP
-Scrabster_NP0-NN1
+Scrabster_NN1
 was_VBD
 a_AT0
 small_AJ0
@@ -5684,7 +5684,7 @@ cliffs_NN2
 Harray_NP0
 is_VBZ
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 trout_NN0
 fishery_NN1
 producing_VVG
@@ -5712,7 +5712,7 @@ also_AV0
 because_CJS
 of_PRF
 its_DPS
-varied_AJ0
+varied_VVN
 nature_NN1
 There_EX0
 are_VBB
@@ -5727,7 +5727,7 @@ skerries_NN2
 underwater_AJ0
 rocky_AJ0
 outcrops_NN2
-lie_VVI
+lie_VVB
 scattered_VVN
 throughout_PRP
 its_DPS
@@ -5812,13 +5812,13 @@ to_TO0
 visitors_NN2
 from_PRP
 various_AJ0
-mooring_AJ0-NN1
+mooring_NN1
 bays_NN2
 around_PRP
 Harray_NP0
 but_CJC
 my_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 venue_NN1
 is_VBZ
 the_AT0
@@ -5875,7 +5875,7 @@ by_PRP
 the_AT0
 Ring_NN1
 of_PRF
-Brodgar_NN1-NP0
+Brodgar_NN1
 Orkney_NP0
 's_POS
 largest_AJS
@@ -5916,7 +5916,7 @@ outlet_NN1
 at_PRP
 Bridge_NN1
 of_PRF
-Waithie_NP0-NN1
+Waithie_NN1
 into_PRP
 Bay_NN1
 of_PRF
@@ -5931,7 +5931,7 @@ dramatic_AJ0
 monument_NN1
 is_VBZ
 the_AT0
-Standing_VVG-NN1
+Standing_NN1
 Stones_NN2
 of_PRF
 Stenness_NP0
@@ -5972,7 +5972,7 @@ graceful_AJ0
 mute_AJ0
 swans_NN2
 shores_NN2
-edged_VVN
+edged_VVD
 emerald_AJ0
 and_CJC
 gold_NN1
@@ -6006,7 +6006,7 @@ contemporary_AJ0
 photograph_NN1
 of_PRF
 the_AT0
-Standing_VVG-NN1
+Standing_NN1
 Stones_NN2
 I_PNP
 noticed_VVD
@@ -6097,7 +6097,7 @@ the_AT0
 use_NN1
 of_PRF
 Association_NN1
-mooring_AJ0-NN1
+mooring_NN1
 bays_NN2
 jetties_NN2
 and_CJC
@@ -6143,11 +6143,11 @@ decided_VVD
 to_TO0
 assault_NN1
 my_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 Orkney_NP0
 loch_NN1
-Swannay_NP0-NN1
-Fighting_VVG-NN1
+Swannay_NP0
+Fighting_NN1
 our_DPS
 way_NN1
 through_PRP
@@ -6231,7 +6231,7 @@ green_AJ0
 coat_NN1
 shoulders_NN2
 bent_VVD
-struggling_VVG-AJ0
+struggling_VVG
 back_AVP
 snowwoman-like_AJ0
 with_PRP
@@ -6246,7 +6246,7 @@ morning_NN1
 we_PNP
 returned_VVD
 to_TO0
-Swannay_NP0-NN1
+Swannay_NP0
 by_PRP
 Dale_NP0
 Farm_NN1
@@ -6256,7 +6256,7 @@ sparkled_VVD
 over_PRP
 the_AT0
 water_NN1
-dancing_VVG
+dancing_NN1
 across_PRP
 snow-covered_AJ0
 fields_NN2
@@ -6302,7 +6302,7 @@ cooked_VVD
 and_CJC
 ate_VVD
 the_AT0
-Swannay_NP0-NN1
+Swannay_NP0
 trout_NN0
 for_PRP
 supper_NN1
@@ -6358,7 +6358,7 @@ Orkney_NP0
 lingers_VVZ
 forever_AV0
 ALTNAHARRA_NP0
-SINGING_VVG-NN1
+SINGING_NN1
 is_VBZ
 the_AT0
 secret_AJ0
@@ -6483,7 +6483,7 @@ they_PNP
 come_VVI
 If_CJS
 you_PNP
-don_NN1-VVB
+don_NN1
 t_ZZ0
 believe_VVB
 me_PNP
@@ -6576,7 +6576,7 @@ Handel_NP0
 Messiah_NN1
 He_PNP
 shall_VM0
-feed_VVI
+feed_NN1
 his_DPS
 flock_NN1
 Handel_NP0
@@ -6647,7 +6647,7 @@ I_PNP
 was_VBD
 fishing_NN1
 the_AT0
-Tweed_NP0-NN1
+Tweed_NP0
 at_PRP
 Manor_NN1
 downstream_AV0
@@ -6723,7 +6723,7 @@ railway_NN1
 bridge_NN1
 down_AVP
 towards_PRP
-Neidpath_NP0-NN1
+Neidpath_NP0
 Castle_NN1
 I_PNP
 was_VBD
@@ -6772,7 +6772,7 @@ myself_PNX
 singing_VVG
 He_PNP
 shall_VM0
-feed_VVI
+feed_NN1
 his_DPS
 flock_NN1
 and_CJC
@@ -6787,7 +6787,7 @@ would_VM0
 be_VBI
 able_AJ0
 to_TO0
-feed_VVI
+feed_NN1
 five_CRD
 let_VVB
 alone_AJ0
@@ -6819,12 +6819,12 @@ and_CJC
 grabbed_VVD
 my_DPS
 tail_NN1
-fly_VVI
+fly_NN1
 a_AT0
 size_NN1
 16_CRD
 Silver_NP0
-Butcher_NP0-NN1
+Butcher_NP0
 I_PNP
 landed_VVD
 him_PNP
@@ -6838,7 +6838,7 @@ singing_VVG
 The_AT0
 very_AV0
 next_ORD
-cast_VVN
+cast_NN1
 another_DT0
 fish_NN0
 rose_VVD
@@ -6886,7 +6886,7 @@ Lord_NP0
 for_PRP
 his_DPS
 kindness_NN1
-strapped_VVN-VVD
+strapped_VVN
 the_AT0
 creel_NN1
 to_TO0
@@ -6923,7 +6923,7 @@ have_VHB
 you_PNP
 gone_VVN
 stark_AJ0
-raving_VVG-AJ0
+raving_VVG
 mad_AJ0
 Two_CRD
 seconds_NN2
@@ -6980,7 +6980,7 @@ and_CJC
 grabbed_VVD
 his_DPS
 bob_NN0
-fly_VVI
+fly_NN1
 Would_VM0
 you_PNP
 believe_VVB
@@ -7123,7 +7123,7 @@ their_DPS
 ribald_AJ0
 comments_NN2
 and_CJC
-downright_AV0-AJ0
+downright_AJ0
 abuse_NN1
 A_AT0
 prerequisite_NN1
@@ -7249,7 +7249,7 @@ was_VBD
 Have_VHB
 you_PNP
 tried_VVD
-Schuman_NP0-NN1
+Schuman_NN1
 yet_AV0
 I_PNP
 had_VHD
@@ -7298,7 +7298,7 @@ course_NN1
 there_EX0
 and_CJC
 a_AT0
-devoted_AJ0-VVN
+devoted_AJ0
 band_NN1
 of_PRF
 anglers_NN2
@@ -7313,7 +7313,7 @@ and_CJC
 sea-trout_NN0
 in_PRP
 Naver_NP0
-Mallart_NP0-NN1
+Mallart_NP0
 and_CJC
 Loch_NP0
 Hope_NP0
@@ -7350,7 +7350,7 @@ of_PRF
 Scotland_NP0
 by_PRP
 R._NP0
-Crombie_NP0-NN1
+Crombie_NP0
 Saunders_NP0
 one-time_AJ0
 editor_NN1
@@ -7455,9 +7455,9 @@ horizon_NN1
 Ben_NP0
 Stack_NP0
 Arkle_NP0
-Foinaven_NP0-NN1
+Foinaven_NP0
 Ganu_NP0
-Mor_NP0-NN1
+Mor_NP0
 Cranstackie_NP0
 and_CJC
 a_AT0
@@ -7475,7 +7475,7 @@ Outer_AJ0
 Hebrides_NP0
 shimmering_AJ0
 and_CJC
-dancing_VVG
+dancing_NN1
 in_PRP
 Atlantic_NP0
 haze_NN1
@@ -7493,7 +7493,7 @@ Quinag_NP0
 rears_NN2
 above_PRP
 Glen_NP0
-Coul_VVB-NN1
+Coul_NN1
 mighty_AJ0
 Ben_NP0
 More_AV0
@@ -7503,8 +7503,8 @@ highest_AJS
 peak_NN1
 in_PRP
 Sutherland_NP0
-Canisp_NP0-NN1
-Suilven_NP0-NN1
+Canisp_NP0
+Suilven_NP0
 and_CJC
 on_PRP
 a_AT0
@@ -7523,7 +7523,7 @@ by_PRP
 Destitution_NP0
 Road_NP0
 and_CJC
-Slioch_NP0-NN1
+Slioch_NN1
 the_AT0
 Spear_NP0
 guarding_VVG
@@ -7544,7 +7544,7 @@ with_PRP
 lochs_NN2
 and_CJC
 lochans_NN2
-Caithness_NP0-NN1
+Caithness_NN1
 mountains_NN2
 Morven_NP0
 and_CJC
@@ -7556,7 +7556,7 @@ level_NN1
 moor_NN1
 Across_PRP
 the_AT0
-Pentland_NP0-NN1
+Pentland_NP0
 Firth_NN1
 leaden-grey_AJ0
 Atlantic_NP0
@@ -7564,7 +7564,7 @@ and_CJC
 North_NN1
 Sea_NP0
 waves_NN2
-wash_VVI
+wash_NN1
 gentle_AJ0
 Orkney_NP0
 Isles_NN2
@@ -7583,7 +7583,7 @@ Strathnaver_NP0
 came_VVD
 shortly_AV0
 after_PRP
-Crombie_NP0-NN1
+Crombie_NP0
 Saunders_NP0
 '_POS
 guide_NN1
@@ -7602,7 +7602,7 @@ with_PRP
 Mrs_NP0
 Mackay_NP0
 at_PRP
-Skail_NP0-NN1
+Skail_NP0
 a_AT0
 lady_NN1
 of_PRF
@@ -7633,12 +7633,12 @@ memory_NN1
 I_PNP
 have_VHB
 of_PRF
-Skail_NP0-NN1
+Skail_NP0
 however_AV0
 is_VBZ
 not_XX0
 of_PRF
-psalm-singing_AJ0-NN1
+psalm-singing_NN1
 Mrs_NP0
 Mackay_NP0
 but_CJC
@@ -7809,7 +7809,7 @@ Mackay_NP0
 old_AJ0
 home_NN1
 at_PRP
-Skail_NP0-NN1
+Skail_NP0
 a_AT0
 polygonal_AJ0
 chamber_NN1
@@ -7837,7 +7837,7 @@ are_VBB
 the_AT0
 brochs_NN2
 which_DTQ
-zig-zag_VVB-NN1
+zig-zag_NN1
 up_AVP
 the_AT0
 River_NP0
@@ -7846,7 +7846,7 @@ from_PRP
 the_AT0
 sea_NN1
 at_PRP
-Invernaver_NP0-NN1
+Invernaver_NN1
 to_TO0
 Mudale_NP0
 south_NN1
@@ -7872,7 +7872,7 @@ with_PRP
 double_AJ0
 walls_NN2
 fifteen_CRD
-fret_VVI
+fret_VVB
 thick_AJ0
 containing_VVG
 galleries_NN2
@@ -8000,7 +8000,7 @@ Strathnaver_NP0
 pursued_VVN
 their_DPS
 independent_AJ0
-Highland_NN1-NP0
+Highland_NN1
 way_NN1
 tending_VVG
 black_AJ0
@@ -8014,7 +8014,7 @@ amongst_PRP
 themselves_PNX
 and_CJC
 their_DPS
-Caithness_NP0-NN1
+Caithness_NN1
 neighbours_NN2
 So-called_AJ0
 civilisation_NN1
@@ -8047,7 +8047,7 @@ Charlie_NP0
 His_DPS
 defeat_NN1
 at_PRP
-Culloden_NP0-NN1
+Culloden_NN1
 in_PRP
 1746_CRD
 ushered_VVD
@@ -8096,7 +8096,7 @@ had_VHD
 to_TO0
 go_VVI
 The_AT0
-Highland_NN1-NP0
+Highland_NN1
 Clearances_NN2
 The_AT0
 work_NN1
@@ -8174,7 +8174,7 @@ income_NN1
 would_VM0
 be_VBI
 much_DT0
-increased_AJ0
+increased_VVN
 Stafford_NP0
 who_PNQ
 sometimes_AV0
@@ -8294,8 +8294,8 @@ a_AT0
 fine_AJ0
 house_NN1
 at_PRP
-Syre_NN1-NP0
-ruling_AJ0-NN1
+Syre_NN1
+ruling_NN1
 dispossessed_AJ0
 Clan_NN1
 Mackay_NP0
@@ -8429,7 +8429,7 @@ from_PRP
 the_AT0
 village_NN1
 of_PRF
-Rossal_NN1-NP0
+Rossal_NN1
 His_DPS
 book_NN1
 Gloomy_AJ0
@@ -8455,7 +8455,7 @@ Lands_NN2
 which_DTQ
 included_VVD
 a_AT0
-glowing_AJ0-VVG
+glowing_AJ0
 account_NN1
 of_PRF
 many_DT0
@@ -8584,7 +8584,7 @@ harsh_AJ0
 military_AJ0
 discipline_NN1
 when_CJS
-drum-head_AJ0-NN1
+drum-head_NN1
 courts_NN2
 public_AJ0
 floggings_NN2
@@ -8617,7 +8617,7 @@ regiment_NN1
 was_VBD
 ever_AV0
 punished_VVN
-Highland_NN1-NP0
+Highland_NN1
 pride_NN1
 Other_AJ0
 battles_NN2
@@ -8664,7 +8664,7 @@ are_VBB
 caught_VVN
 from_PRP
 its_DPS
-peat-stained_AJ0-NN1
+peat-stained_NN1
 waters_NN2
 Obtaining_VVG
 permission_NN1
@@ -8686,7 +8686,7 @@ very_AV0
 expensive_AJ0
 Recently_AV0
 the_AT0
-Syre_NN1-NP0
+Syre_NN1
 Beat_NN1
 was_VBD
 sold_VVN
@@ -8750,7 +8750,7 @@ When_CJS
 we_PNP
 stayed_VVD
 at_PRP
-Skail_NP0-NN1
+Skail_NP0
 Father_NN1
 and_CJC
 I_PNP
@@ -8770,7 +8770,7 @@ nothing_PNI
 but_CJC
 lost_VVN
 my_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 fishing_NN1
 hat_NN1
 whisked_VVD
@@ -8869,9 +8869,9 @@ of_PRF
 lark_NN1
 and_CJC
 meadow_NN1
-pipit_NN1-VVB
+pipit_VVB
 Loch_NP0
-Tarvie_NN1-NP0
+Tarvie_NP0
 to_TO0
 the_AT0
 north_NN1
@@ -8887,7 +8887,7 @@ an_AT0
 hour_NN1
 's_POS
 gentle_AJ0
-walk_VVI
+walk_NN1
 from_PRP
 the_AT0
 road_NN1
@@ -8901,7 +8901,7 @@ shielings_NN2
 to_TO0
 utter_AJ0
 paradise_NN1
-Tarvie_NN1-NP0
+Tarvie_NP0
 trout_NN0
 fight_VVI
 like_PRP
@@ -9030,7 +9030,7 @@ respect_NN1
 Always_AV0
 wear_VVI
 a_AT0
-life-jacket_NN1-AJ0
+life-jacket_NN1
 when_CJS
 afloat_AJ0
 The_AT0
@@ -9071,7 +9071,7 @@ had_VHD
 also_AV0
 offered_VVN
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 our_DPS
 gillie_NN1
@@ -9096,7 +9096,7 @@ knew_VVD
 every_AT0
 inch_NN1
 intimately_AV0
-Writing_VVG-NN1
+Writing_NN1
 about_PRP
 fishing_NN1
 as_CJS
@@ -9173,7 +9173,7 @@ frequently_AV0
 this_DT0
 uncomfortable_AJ0
 mask_NN1
-slips_NN2
+slips_VVZ
 generally_AV0
 leaving_VVG
 me_PNP
@@ -9255,7 +9255,7 @@ on_PRP
 my_DPS
 best_AJS
 behaviour_NN1
-Determined_VVN-AJ0
+Determined_AJ0
 not_XX0
 to_TO0
 put_VVI
@@ -9363,7 +9363,7 @@ flies_NN2
 on_PRP
 a_AT0
 back_AVP
-cast_VVN
+cast_NN1
 and_CJC
 finally_AV0
 managing_VVG
@@ -9372,7 +9372,7 @@ get_VVI
 floss_NN1
 and_CJC
 line_NN1
-mixed_AJ0
+mixed_VVN
 up_AVP
 in_PRP
 an_AT0
@@ -9410,7 +9410,7 @@ and_CJC
 handed_VVD
 me_PNP
 the_AT0
-fly_VVI
+fly_NN1
 rod_NN1
 Here_AV0
 Bruce_NP0
@@ -9447,7 +9447,7 @@ dap_NN1
 and_CJC
 Ann_NP0
 's_POS
-cast_VVN
+cast_NN1
 at_PRP
 the_AT0
 same_DT0
@@ -9482,7 +9482,7 @@ flies_NN2
 catching_VVG
 my_DPS
 tail_NN1
-fly_VVI
+fly_NN1
 on_PRP
 the_AT0
 bottom_NN1
@@ -9509,8 +9509,8 @@ hull_NN1
 searching_VVG
 for_PRP
 the_AT0
-stuck_AJ0
-fly_VVI
+stuck_VVN
+fly_NN1
 getting_VVG
 both_AV0
 arms_NN2
@@ -9537,7 +9537,7 @@ was_VBD
 afloat_AJ0
 with_PRP
 a_AT0
-lunatic_AJ0-NN1
+lunatic_AJ0
 It_PNP
 is_VBZ
 hard_AJ0
@@ -9569,7 +9569,7 @@ seem_VVI
 appropriate_AJ0
 So_AV0
 I_PNP
-shut_VVB
+shut_VVN
 up_AVP
 suffered_VVN
 and_CJC
@@ -9622,7 +9622,7 @@ my_DPS
 breath_NN1
 I_PNP
 began_VVD
-humming_VVG-AJ0
+humming_VVG
 Handel_NP0
 If_CJS
 Alan_NP0
@@ -9685,7 +9685,7 @@ n't_XX0
 you_PNP
 have_VHB
 a_AT0
-cast_VVN
+cast_NN1
 There_EX0
 seem_VVI
 to_TO0
@@ -9713,7 +9713,7 @@ merited_VVD
 its_DPS
 ancient_AJ0
 title_NN1
-Auld_NN1-NP0
+Auld_NP0
 Reekie_NP0
 The_AT0
 reason_NN1
@@ -9862,7 +9862,7 @@ on_PRP
 packets_NN2
 of_PRF
 Tudor_NP0
-Crisps_NN2-VVZ
+Crisps_NN2
 East_NN1
 Durham_NP0
 was_VBD
@@ -9907,7 +9907,7 @@ towns_NN2
 Houghton-le-Springs_NP0
 Hetton-le-Hole_NP0
 Easington_NP0
-Horden_NP0-NN1
+Horden_NN1
 Blackhall_NP0
 Colliery_NN1
 Wheatly_NP0
@@ -9936,7 +9936,7 @@ with_PRP
 tree-decked_AJ0
 green_AJ0
 Tabatha_NP0
-Twitchet_NP0-NN1
+Twitchet_NN1
 shop_NN1
 and_CJC
 two_CRD
@@ -10009,7 +10009,7 @@ I_PNP
 joined_VVD
 the_AT0
 Tees_NP0
-Amateur_AJ0-NN1
+Amateur_AJ0
 Rowing_NN1
 Club_NN1
 Not_XX0
@@ -10048,7 +10048,7 @@ The_AT0
 Tees_NP0
 is_VBZ
 much_DT0
-improved_AJ0
+improved_VVN
 now_AV0
 but_CJC
 then_AV0
@@ -10097,7 +10097,7 @@ sallied_VVD
 forth_AV0
 bustling_AJ0
 by_PRP
-ash-covered_AJ0-NN1
+ash-covered_NN1
 Consett_NP0
 Iron_NN1
 Works_NN0
@@ -10105,10 +10105,10 @@ the_AT0
 light_NN1
 of_PRF
 battle_NN1
-glinting_VVG-AJ0
+glinting_VVG
 in_PRP
 our_DPS
-trout-starved_AJ0-NN1
+trout-starved_NN1
 eyes_NN2
 Within_PRP
 twenty_CRD
@@ -10132,7 +10132,7 @@ themselves_PNX
 instantly_AV0
 at_PRP
 whatever_DTQ
-fly_VVI
+fly_NN1
 we_PNP
 offered_VVN
 We_PNP
@@ -10306,7 +10306,7 @@ packed_VVN
 in_PRP
 an_AT0
 ex-army_AJ0
-gas-mask_AJ0-NN1
+gas-mask_AJ0
 carrier_NN1
 His_DPS
 rod_NN1
@@ -10364,7 +10364,7 @@ still_AV0
 hear_VVI
 his_DPS
 plaintiff_NN1
-cry_VVI
+cry_NN1
 in_PRP
 a_AT0
 strong_AJ0
@@ -10372,7 +10372,7 @@ Durham_NP0
 accent_NN1
 before_PRP
 the_AT0
-cast_VVN
+cast_NN1
 broke_VVD
 He_PNP
 's_POS
@@ -10380,7 +10380,7 @@ pulling_VVG
 al_UNC
 me_PNP
 line_NN1
-oot_NN1-VVB
+oot_NN1
 Alternative_AJ0
 fishing_NN1
 and_CJC
@@ -10421,7 +10421,7 @@ James_NP0
 Radcliffe_NP0
 Earl_NN1
 of_PRF
-Derwentwater_NP0-NN1
+Derwentwater_NP0
 and_CJC
 his_DPS
 younger_AJC
@@ -10434,7 +10434,7 @@ their_DPS
 support_NN1
 of_PRF
 the_AT0
-Jacobite_AJ0-NN1
+Jacobite_NN1
 cause_NN1
 during_PRP
 the_AT0
@@ -10512,7 +10512,7 @@ south_NN1
 over_PRP
 the_AT0
 Tyne_NP0
-Valley_NN1-NP0
+Valley_NN1
 and_CJC
 River_NP0
 South_NN1
@@ -10637,7 +10637,7 @@ a_AT0
 long_AJ0
 time_NN1
 to_TO0
-burn_VVI
+burn_NN1
 I_PNP
 once_AV0
 read_VVI
@@ -10714,7 +10714,7 @@ Wars_NN2
 of_PRF
 Independence_NN1
 the_AT0
-English_AJ0-NN1
+English_AJ0
 Civil_AJ0
 War_NN1
 religious_AJ0
@@ -10733,7 +10733,7 @@ Border_NN1
 lairds_NN2
 were_VBD
 not_XX0
-involved_AJ0
+involved_VVN
 in_PRP
 a_AT0
 national_AJ0
@@ -10772,7 +10772,7 @@ was_VBD
 only_AV0
 a_AT0
 ten-minute_AJ0
-walk_VVI
+walk_NN1
 from_PRP
 the_AT0
 front_NN1
@@ -10817,7 +10817,7 @@ then_AV0
 had_VHD
 been_VBN
 Lady_NP0
-Tweed_NP0-NN1
+Tweed_NP0
 but_CJC
 I_PNP
 soon_AV0
@@ -10841,7 +10841,7 @@ Scottish_AJ0
 rivers_NN2
 and_CJC
 the_AT0
-stretch_VVI
+stretch_NN1
 below_AV0
 our_DPS
 house_NN1
@@ -10881,7 +10881,7 @@ another_DT0
 fisherman_NN1
 on_PRP
 my_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 part_NN1
 of_PRF
 the_AT0
@@ -10931,7 +10931,7 @@ home_NN1
 The_AT0
 South_NN1
 Tyne_NP0
-Valley_NN1-NP0
+Valley_NN1
 also_AV0
 offered_VVN
 splendid_AJ0
@@ -10947,7 +10947,7 @@ Hadrian_NP0
 Wall_NN1
 and_CJC
 a_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 outing_NN1
 was_VBD
 to_TO0
@@ -10977,7 +10977,7 @@ in_PRP
 the_AT0
 east_NN1
 to_TO0
-Bowness_NP0-NN1
+Bowness_NP0
 on_PRP
 Solway_NP0
 in_PRP
@@ -11031,8 +11031,8 @@ the_AT0
 home_NN1
 of_PRF
 500_CRD
-Roman_AJ0-NN1
-auxiliary_AJ0-NN1
+Roman_AJ0
+auxiliary_AJ0
 soldiers_NN2
 We_PNP
 used_VVN
@@ -11058,7 +11058,7 @@ of_PRF
 part_NN1
 of_PRF
 the_AT0
-Roman_AJ0-NN1
+Roman_AJ0
 Wall_NN1
 has_VHZ
 been_VBN
@@ -11067,7 +11067,7 @@ there_EX0
 is_VBZ
 a_AT0
 museum_NN1
-listening_VVG-NN1
+listening_VVG
 posts_NN2
 video_NN1
 programmes_NN2
@@ -11080,7 +11080,7 @@ thousands_CRD
 of_PRF
 visitors_NN2
 The_AT0
-Roman_AJ0-NN1
+Roman_AJ0
 Wall_NN1
 was_VBD
 built_VVN
@@ -11102,12 +11102,12 @@ north_NN1
 out_AVP
 The_AT0
 wall_NN1
-delineated_AJ0-VVD
+delineated_VVD
 the_AT0
 northernmost_AJ0
 frontier_NN1
 of_PRF
-Roman_AJ0-NN1
+Roman_AJ0
 civilisation_NN1
 The_AT0
 Picts_NN2
@@ -11139,7 +11139,7 @@ did_VDD
 Much_DT0
 of_PRF
 the_AT0
-Roman_AJ0-NN1
+Roman_AJ0
 Wall_NN1
 was_VBD
 spirited_AJ0
@@ -11179,7 +11179,7 @@ slab_NN1
 which_DTQ
 looked_VVD
 suspiciously_AV0
-Roman_AJ0-NN1
+Roman_AJ0
 I_PNP
 am_VBB
 sure_AJ0
@@ -11206,7 +11206,7 @@ spectacular_AJ0
 views_NN2
 northwards_AV0
 over_PRP
-Kielder_NP0-NN1
+Kielder_NN1
 Forest_NN1
 to_TO0
 the_AT0
@@ -11230,8 +11230,8 @@ at_PRP
 the_AT0
 foot_NN1
 of_PRF
-Steel_NN1-NP0
-Rigg_VVB-NN1
+Steel_NP0
+Rigg_NN1
 one_CRD
 of_PRF
 the_AT0
@@ -11241,8 +11241,8 @@ sections_NN2
 of_PRF
 the_AT0
 wall_NN1
-Broomlee_NP0-NN1
-Greenlee_NP0-NN1
+Broomlee_NN1
+Greenlee_NN1
 and_CJC
 Crag_NP0
 Loughs_NP0
@@ -11470,7 +11470,7 @@ Tyne_NP0
 offered_VVN
 perfect_AJ0
 dry_AJ0
-fly_VVI
+fly_NN1
 fishing_NN1
 Difficult_AJ0
 delicate_AJ0
@@ -11504,7 +11504,7 @@ Allen_NP0
 were_VBD
 also_AV0
 a_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 for_PRP
 family_NN1
 walks_NN2
@@ -11677,7 +11677,7 @@ true_AJ0
 identity_NN1
 was_VBD
 discovered_VVN
-Walking_VVG-NN1
+Walking_VVG
 through_PRP
 the_AT0
 camp_NN1
@@ -11687,7 +11687,7 @@ months_NN2
 I_PNP
 used_VVN
 to_TO0
-feel_VVI
+feel_VVB
 the_AT0
 presence_NN1
 of_PRF
@@ -11711,7 +11711,7 @@ would_VM0
 disturb_VVI
 huge_AJ0
 salmon_NN0
-red-dressed_NN1-AJ0
+red-dressed_AJ0
 for_PRP
 spawning_NN1
 and_CJC
@@ -11734,7 +11734,7 @@ to_TO0
 meagre_AJ0
 wartime_NN1
 rations_NN2
-Catcleugh_VVB-NN1
+Catcleugh_NN1
 Reservoir_NN1
 just_AV0
 south_NN1
@@ -11743,7 +11743,7 @@ Carter_NP0
 Bar_NN1
 was_VBD
 another_DT0
-favourite_AJ0-NN1
+favourite_AJ0
 venue_NN1
 This_DT0
 was_VBD
@@ -11772,7 +11772,7 @@ with_PRP
 a_AT0
 few_DT0
 trout_NN0
-Catcleugh_VVB-NN1
+Catcleugh_NN1
 was_VBD
 stocked_VVN
 with_PRP
@@ -11801,7 +11801,7 @@ place_NN1
 not_XX0
 far_AV0
 from_PRP
-Catcleugh_VVB-NN1
+Catcleugh_NN1
 in_PRP
 1388_CRD
 the_AT0
@@ -11897,7 +11897,7 @@ wounds_NN2
 As_CJS
 he_PNP
 lay_VVD
-dying_VVG-AJ0
+dying_AJ0
 a_AT0
 kinsman_NN1
 Sir_NP0
@@ -11950,7 +11950,7 @@ banner_NN1
 and_CJC
 drove_VVD
 the_AT0
-English_AJ0-NN1
+English_AJ0
 from_PRP
 the_AT0
 field_NN1
@@ -11967,7 +11967,7 @@ slaying_VVG
 half_DT0
 a_AT0
 dozen_CRD
-English_AJ0-NN1
+English_AJ0
 soldiers_NN2
 with_PRP
 his_DPS
@@ -11978,7 +11978,7 @@ before_PRP
 Bannockburn_NP0
 felling_VVG
 an_AT0
-English_AJ0-NN1
+English_AJ0
 knight_NN1
 with_PRP
 one_CRD
@@ -11999,7 +11999,7 @@ a_AT0
 mortal_AJ0
 dread_NN1
 of_PRF
-dying_VVG-AJ0
+dying_AJ0
 in_PRP
 bed_NN1
 To_TO0
@@ -12044,7 +12044,7 @@ rather_AV0
 than_CJS
 Scots_NN2
 and_CJC
-English_AJ0-NN1
+English_AJ0
 There_EX0
 is_VBZ
 a_AT0
@@ -12054,7 +12054,7 @@ lough_NN1
 close_AJ0
 by_PRP
 called_VVN
-Sweethope_NP0-NN1
+Sweethope_NP0
 a_AT0
 classic_AJ0
 place_NN1
@@ -12081,7 +12081,7 @@ When_CJS
 we_PNP
 first_ORD
 fished_VVD
-Sweethope_NP0-NN1
+Sweethope_NP0
 in_PRP
 1973_CRD
 it_PNP
@@ -12095,7 +12095,7 @@ and_CJC
 managed_VVD
 by_PRP
 a_AT0
-retired_AJ0
+retired_VVD
 naval_AJ0
 officer_NN1
 who_PNQ
@@ -12138,7 +12138,7 @@ feathers_NN2
 and_CJC
 hooks_NN2
 of_PRF
-fly-tying_NN1-AJ0
+fly-tying_AJ0
 What_DTQ
 I_PNP
 most_AV0
@@ -12179,7 +12179,7 @@ into_PRP
 your_DPS
 first_ORD
 fish_NN0
-Sweethope_NP0-NN1
+Sweethope_NP0
 has_VHZ
 become_VVI
 an_AT0
@@ -12192,12 +12192,12 @@ are_VBB
 two_CRD
 loughs_NN2
 Great_AJ0
-Lough_NP0-NN1
+Lough_NN1
 and_CJC
 Little_AJ0
-Lough_NP0-NN1
+Lough_NN1
 Little_AJ0
-Lough_NP0-NN1
+Lough_NN1
 was_VBD
 created_VVN
 in_PRP
@@ -12206,7 +12206,7 @@ early_AJ0
 eighteenth_ORD
 century_NN1
 by_PRP
-damming_VVG-AJ0
+damming_VVG
 the_AT0
 stream_NN1
 that_CJT
@@ -12219,7 +12219,7 @@ River_NP0
 Wansbeck_NP0
 and_CJC
 Great_AJ0
-Lough_NP0-NN1
+Lough_NN1
 was_VBD
 formed_VVN
 in_PRP
@@ -12235,7 +12235,7 @@ mature_AJ0
 Scots_NN2
 pine_NN1
 and_CJC
-Sweethope_NP0-NN1
+Sweethope_NP0
 Loughs_NP0
 appear_VVI
 entirely_AV0
@@ -12265,8 +12265,8 @@ in_PRP
 recent_AJ0
 years_NN2
 The_AT0
-present_AJ0-NN1
-incumbent_AJ0-NN1
+present_AJ0
+incumbent_NN1
 of_PRF
 my_DPS
 dream_NN1
@@ -12340,7 +12340,7 @@ them_PNP
 to_TO0
 take_VVI
 a_AT0
-fly_VVI
+fly_NN1
 no_AT0
 matter_NN1
 how_AVQ
@@ -12460,7 +12460,7 @@ are_VBB
 many_DT0
 more_AV0
 exciting_AJ0
-game-fishing_AJ0-NN1
+game-fishing_AJ0
 opportunities_NN2
 awaiting_VVG
 the_AT0
@@ -12519,10 +12519,10 @@ most_AV0
 productive_AJ0
 such_DT0
 as_CJS
-Grassholme_NP0-NN1
-Hury_NP0-NN1
+Grassholme_NN1
+Hury_NP0
 and_CJC
-Fontburn_NP0-NN1
+Fontburn_NP0
 see_VVI
 upwards_AV0
 of_PRF
@@ -12531,7 +12531,7 @@ trout_NN0
 taken_VVN
 each_DT0
 season_NN1
-Kielder_NP0-NN1
+Kielder_NN1
 Water_NN1
 the_AT0
 largest_AJS
@@ -12565,7 +12565,7 @@ a_AT0
 major_AJ0
 water-sports_NN2
 centre_NN1
-Kielder_NP0-NN1
+Kielder_NN1
 offers_VVZ
 a_AT0
 wide_AJ0
@@ -12589,7 +12589,7 @@ are_VBB
 facilities_NN2
 for_PRP
 swimming_NN1
-water-skiing_NN1-AJ0
+water-skiing_NN1
 and_CJC
 sub-aqua_UNC
 diving_NN1
@@ -12618,7 +12618,7 @@ Forest_NN1
 drives_VVZ
 and_CJC
 pony_NN1
-trekking_VVG-NN1
+trekking_VVG
 are_VBB
 also_AV0
 available_AJ0
@@ -12631,7 +12631,7 @@ both_AV0
 have_VHB
 centres_NN2
 at_PRP
-Kielder_NP0-NN1
+Kielder_NN1
 and_CJC
 the_AT0
 entire_AJ0
@@ -12647,22 +12647,22 @@ fishing_NN1
 boats_NN2
 waiting_VVG
 for_PRP
-hire_VVI
+hire_NN1
 at_PRP
 Matthew_NP0
 's_POS
-Linn_NP0-NN1
+Linn_NP0
 You_PNP
 are_VBB
 never_AV0
 alone_AJ0
 at_PRP
-Kielder_NP0-NN1
+Kielder_NN1
 But_CJC
 I_PNP
 remember_VVI
-Kielder_NP0-NN1
-Valley_NN1-NP0
+Kielder_NN1
+Valley_NN1
 before_PRP
 it_PNP
 was_VBD
@@ -12711,7 +12711,7 @@ of_PRF
 industrial_AJ0
 activity_NN1
 on_PRP
-Teesside_NP0-NN1
+Teesside_NP0
 The_AT0
 predicted_VVN
 expansion_NN1
@@ -12723,7 +12723,7 @@ may_VM0
 be_VBI
 argued_VVD
 that_CJT
-Kielder_NP0-NN1
+Kielder_NN1
 and_CJC
 the_AT0
 flooding_NN1
@@ -12802,7 +12802,7 @@ to_TO0
 move_VVI
 north_NN1
 to_TO0
-Caithness_NP0-NN1
+Caithness_NN1
 taking_VVG
 with_PRP
 us_PNP
@@ -12838,8 +12838,8 @@ I_PNP
 use_NN1
 it_PNP
 my_DPS
-present_AJ0-NN1
-trout-rod_NN1-AJ0
+present_AJ0
+trout-rod_NN1
 It_PNP
 is_VBZ
 a_AT0
@@ -12851,7 +12851,7 @@ by_PRP
 Mr_NP0
 Stott_NP0
 a_AT0
-retired_AJ0
+retired_VVD
 employee_NN1
 of_PRF
 Hardy_NP0
@@ -12866,18 +12866,18 @@ was_VBD
 actually_AV0
 on_PRP
 the_AT0
-Roman_AJ0-NN1
+Roman_AJ0
 Wall_NN1
 and_CJC
 every_AT0
 time_NN1
 I_PNP
-cast_VVN
+cast_NN1
 or_CJC
 see_VVI
 my_DPS
 rod_NN1
-bend_VVI
+bend_NN1
 in_PRP
 anger_NN1
 I_PNP
@@ -12940,9 +12940,9 @@ went_VVD
 fishing_NN1
 instead_AV0
 Sutherland_NP0
-Caithness_NP0-NN1
+Caithness_NN1
 and_CJC
-Ross-shire_NN1-AJ0
+Ross-shire_AJ0
 offer_VVI
 wonderful_AJ0
 game_NN1
@@ -13016,7 +13016,7 @@ cone_NN1
 of_PRF
 Ben_NP0
 Stack_NP0
-Outboard_AJ0-NN1
+Outboard_AJ0
 motors_NN2
 are_VBB
 not_XX0
@@ -13039,7 +13039,7 @@ over_PRP
 the_AT0
 most_AV0
 productive_AJ0
-drifts_NN2-VVZ
+drifts_NN2
 One_CRD
 such_DT0
 gillie_NN1
@@ -13163,7 +13163,7 @@ as_CJS
 a_AT0
 bat_NN1
 was_VBD
-bashing_VVG-NN1
+bashing_NN1
 away_AV0
 at_PRP
 the_AT0
@@ -13222,7 +13222,7 @@ fitness_NN1
 to_TO0
 reach_VVI
 They_PNP
-lie_VVI
+lie_VVB
 scattered_VVN
 amongst_PRP
 the_AT0
@@ -13332,7 +13332,7 @@ in_PRP
 the_AT0
 boat_NN1
 on_PRP
-Gorm_NN1-NP0
+Gorm_NN1
 Loch_NP0
 Ann_NP0
 would_VM0
@@ -13405,7 +13405,7 @@ meet_VVI
 for_PRP
 lunch_NN1
 was_VBD
-fast_AV0-AJ0
+fast_AJ0
 approaching_VVG
 Turning_VVG
 her_DPS
@@ -13451,7 +13451,7 @@ morning_NN1
 route_NN1
 along_AVP
 the_AT0
-Gorm_NN1-NP0
+Gorm_NN1
 track_NN1
 finally_AV0
 arriving_VVG
@@ -13611,7 +13611,7 @@ Mackay_NP0
 who_PNQ
 joined_VVD
 the_AT0
-English_AJ0-NN1
+English_AJ0
 army_NN1
 in_PRP
 1660_CRD
@@ -13639,7 +13639,7 @@ no_AT0
 love_NN1
 for_PRP
 the_AT0
-Jacobite_AJ0-NN1
+Jacobite_NN1
 cause_NN1
 and_CJC
 in_PRP
@@ -13779,7 +13779,7 @@ indeed_AV0
 The_AT0
 system_NN1
 is_VBZ
-centred_VVN-VVD
+centred_VVN
 round_AVP
 a_AT0
 board_NN1
@@ -13792,7 +13792,7 @@ of_PRF
 the_AT0
 senior_AJ0
 guests_NN2
-present_AJ0-NN1
+present_AJ0
 Might_VM0
 sound_NN1
 a_AT0
@@ -13990,7 +13990,7 @@ avoid_VVI
 where_AVQ
 not_XX0
 to_TO0
-fall_VVI
+fall_NN1
 in_PRP
 so_AV0
 he_PNP
@@ -14015,14 +14015,14 @@ Scourie_NP0
 fishings_NN2
 and_CJC
 my_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 is_VBZ
 a_AT0
 wonderful_AJ0
 gentleman_NN1
 called_VVN
 Stanley_NP0
-Tuer_AJC
+Tuer_NP0
 a_AT0
 man_NN1
 of_PRF
@@ -14034,14 +14034,14 @@ of_PRF
 foot_NN1
 who_PNQ
 has_VHZ
-exhausted_VVN-AJ0
+exhausted_VVN
 me_PNP
 on_PRP
 many_DT0
 a_AT0
 long_AJ0
 hill_NN1
-walk_VVI
+walk_NN1
 He_PNP
 has_VHZ
 been_VBN
@@ -14080,7 +14080,7 @@ to_TO0
 his_DPS
 beloved_AJ0
 Scourie_NP0
-Starting_VVG-NN1
+Starting_VVG
 his_DPS
 career_NN1
 in_PRP
@@ -14118,7 +14118,7 @@ Come_VVB
 holiday_NN1
 time_NN1
 Stanley_NP0
-closed_VVD
+closed_VVN
 the_AT0
 school_NN1
 and_CJC
@@ -14133,7 +14133,7 @@ say_VVI
 algebra_NN1
 When_CJS
 Stan_NP0
-retired_AJ0
+retired_VVD
 he_PNP
 settled_VVN
 in_PRP
@@ -14161,7 +14161,7 @@ an_AT0
 easy_AJ0
 hour_NN1
 's_POS
-drive_VVI
+drive_NN1
 of_PRF
 Scourie_NP0
 Stanley_NP0
@@ -14230,7 +14230,7 @@ fishing_NN1
 here_AV0
 we_PNP
 will_VM0
-walk_VVI
+walk_NN1
 on_PRP
 to_TO0
 the_AT0
@@ -14261,7 +14261,7 @@ me_PNP
 back_AVP
 Worth_PRP
 a_AT0
-cast_VVN
+cast_NN1
 Bruce_NP0
 See_VVB
 if_CJS
@@ -14269,7 +14269,7 @@ you_PNP
 can_VM0
 get_VVI
 your_DPS
-fly_VVI
+fly_NN1
 out_AVP
 towards_PRP
 the_AT0
@@ -14341,7 +14341,7 @@ special_AJ0
 day_NN1
 on_PRP
 your_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 loch_NN1
 In_PRP
 spite_NN1
@@ -14395,7 +14395,7 @@ catapulted_VVD
 to_TO0
 top_NN1
 position_NN1
-missing_VVG-AJ0
+missing_VVG
 out_AVP
 on_PRP
 second-_AJ0
@@ -14488,7 +14488,7 @@ master_NN1
 was_VBD
 known_VVN
 as_CJS
-chief_AJ0-NN1
+chief_NN1
 fork_NN1
 He_PNP
 was_VBD
@@ -14581,7 +14581,7 @@ side_NN1
 of_PRF
 the_AT0
 dining-room_NN1
-divorced_AJ0
+divorced_VVN
 from_PRP
 the_AT0
 influence_NN1
@@ -14681,7 +14681,7 @@ Yeoman_NP0
 Loch_NP0
 a_AT0
 tiny_AJ0
-Y-shaped_AJ0-NN1
+Y-shaped_AJ0
 lochan_NN1
 at_PRP
 the_AT0
@@ -14701,7 +14701,7 @@ and_CJC
 just_AV0
 happened_VVD
 to_TO0
-notice_VVI
+notice_NN1
 movement_NN1
 under_PRP
 the_AT0
@@ -14873,7 +14873,7 @@ no_AT0
 matter_NN1
 where_AVQ
 you_PNP
-cast_VVN
+cast_NN1
 it_PNP
 might_VM0
 well_AV0
@@ -14913,7 +14913,7 @@ story_NN1
 does_VDZ
 not_XX0
 really_AV0
-lie_VVI
+lie_VVB
 within_PRP
 the_AT0
 boundary_NN1
@@ -15104,7 +15104,7 @@ soldier_NN1
 had_VHD
 the_AT0
 last_ORD
-laugh_VVI
+laugh_NN1
 In_PRP
 spite_NN1
 of_PRF
@@ -15116,7 +15116,7 @@ miscreants_NN2
 returned_VVD
 fishless_AJ0
 Another_DT0
-retired_AJ0
+retired_VVD
 military_AJ0
 gentleman_NN1
 a_AT0
@@ -15140,10 +15140,10 @@ the_AT0
 ashes_NN2
 of_PRF
 his_DPS
-late-lamented_AJ0-NN1
+late-lamented_NN1
 second_ORD
 wife_NN1
-tucked_VVN-VVD
+tucked_VVD
 away_AV0
 in_PRP
 the_AT0
@@ -15329,10 +15329,10 @@ a_AT0
 lochan_NN1
 along_AVP
 the_AT0
-Gorm_NN1-NP0
+Gorm_NN1
 Track_NN1
 a_AT0
-raven_NN1-AJ0
+raven_AJ0
 at_PRP
 the_AT0
 Black_AJ0
@@ -15375,7 +15375,7 @@ Ethel_NP0
 stocked_VVN
 by_PRP
 Stan_NP0
-Tuer_AJC
+Tuer_NP0
 when_CJS
 she_PNP
 was_VBD
@@ -15448,7 +15448,7 @@ and_CJC
 soon_AV0
 broke_VVD
 the_AT0
-cast_VVN
+cast_NN1
 that_CJT
 was_VBD
 about_PRP
@@ -15490,7 +15490,7 @@ to_TO0
 one_CRD
 of_PRF
 his_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 lochs_NN2
 close_AJ0
 to_TO0
@@ -15541,7 +15541,7 @@ to_TO0
 stand_VVI
 there_EX0
 and_CJC
-cast_VVN
+cast_NN1
 out_AVP
 a_AT0
 Black_AJ0
@@ -15585,7 +15585,7 @@ to_TO0
 have_VHB
 the_AT0
 first_ORD
-cast_VVN
+cast_NN1
 and_CJC
 eventually_AV0
 crouching_VVG
@@ -15627,7 +15627,7 @@ waited_VVD
 and_CJC
 waited_VVD
 I_PNP
-cast_VVN
+cast_NN1
 again_AV0
 And_CJC
 waited_VVD
@@ -15689,7 +15689,7 @@ a_AT0
 chink_NN1
 in_PRP
 the_AT0
-Tuer_AJC
+Tuer_NP0
 armour_NN1
 The_AT0
 following_AJ0
@@ -15767,7 +15767,7 @@ Poor_AJ0
 Blair_NP0
 would_VM0
 then_AV0
-feel_VVI
+feel_VVB
 guilty_AJ0
 having_VHG
 missed_VVN
@@ -15846,7 +15846,7 @@ let_VVB
 me_PNP
 have_VHB
 first_ORD
-cast_VVN
+cast_NN1
 Look_VVB
 it_PNP
 must_VM0
@@ -15932,7 +15932,7 @@ the_AT0
 remote_AJ0
 vastness_NN1
 of_PRF
-Foinaven_NP0-NN1
+Foinaven_NP0
 and_CJC
 Arkle_NP0
 to_TO0
@@ -15963,7 +15963,7 @@ grabbed_VVD
 and_CJC
 each_DT0
 successive_AJ0
-cast_VVN
+cast_NN1
 brought_VVN
 two_CRD
 more_AV0
@@ -16059,7 +16059,7 @@ north_NN1
 of_PRF
 Wick_NP0
 in_PRP
-Caithness_NP0-NN1
+Caithness_NN1
 and_CJC
 he_PNP
 quickly_AV0
@@ -16108,7 +16108,7 @@ busy_AJ0
 fishing_NN1
 port_NN1
 where_AVQ
-Scandinavian_AJ0-NN1
+Scandinavian_NN1
 timber_NN1
 was_VBD
 imported_VVN
@@ -16140,7 +16140,7 @@ century_NN1
 We_PNP
 moved_VVD
 to_TO0
-Caithness_NP0-NN1
+Caithness_NN1
 in_PRP
 1975_CRD
 for_PRP
@@ -16157,7 +16157,7 @@ the_AT0
 family_NN1
 connection_NN1
 But_CJC
-Caithness_NP0-NN1
+Caithness_NN1
 also_AV0
 offered_VVN
 everything_PNI
@@ -16198,7 +16198,7 @@ trout_NN0
 fishing_NN1
 in_PRP
 Scotland_NP0
-Caithness_NP0-NN1
+Caithness_NN1
 mainland_NN1
 Scotland_NP0
 's_POS
@@ -16215,7 +16215,7 @@ Sutherland_NP0
 Between_PRP
 the_AT0
 Royal_AJ0
-Burgh_NN1-NP0
+Burgh_NN1
 of_PRF
 Wick_NP0
 the_AT0
@@ -16244,7 +16244,7 @@ Cheviot_NP0
 sheep_NN0
 for_PRP
 which_DTQ
-Caithness_NP0-NN1
+Caithness_NN1
 is_VBZ
 famous_AJ0
 and_CJC
@@ -16261,7 +16261,7 @@ fields_NN2
 moorlands_NN2
 rise_NN1
 and_CJC
-fall_VVI
+fall_NN1
 in_PRP
 gentle_AJ0
 folds_NN2
@@ -16269,7 +16269,7 @@ southwards_AV0
 to_TO0
 where_AVQ
 dramatic_AJ0
-Caithness_NP0-NN1
+Caithness_NN1
 mountains_NN2
 line_NN1
 the_AT0
@@ -16283,7 +16283,7 @@ Alisky_NP0
 and_CJC
 Beinn_NP0
 Glas_NP0
-Choire_NP0-NN1
+Choire_NP0
 Westwards_AV0
 past_NN1
 the_AT0
@@ -16356,13 +16356,13 @@ golden_AJ0
 eagle_NN1
 golden_AJ0
 plover_NN1
-greenshank_NN1-VVB
+greenshank_NN1
 and_CJC
 dunlin_NN1
 where_AVQ
 we_PNP
 could_VM0
-walk_VVI
+walk_NN1
 endless_AJ0
 miles_NN2
 with_PRP
@@ -16436,7 +16436,7 @@ now_AV0
 coloured_AJ0
 muddy_AJ0
 brown_AJ0
-Silt_NN1-VVB
+Silt_NN1
 washed_VVN
 from_PRP
 deep_AJ0
@@ -16473,7 +16473,7 @@ roads_NN2
 locked_VVN
 gates_NN2
 and_CJC
-electrified_VVN-AJ0
+electrified_AJ0
 fences_NN2
 bar_NN1
 the_AT0
@@ -16516,9 +16516,9 @@ new_AJ0
 forests_NN2
 and_CJC
 at_PRP
-present_AJ0-NN1
+present_AJ0
 in_PRP
-Caithness_NP0-NN1
+Caithness_NN1
 forestry_NN1
 has_VHZ
 provided_VVN
@@ -16535,7 +16535,7 @@ cost_NN1
 of_PRF
 the_AT0
 greatest_AJS
-act_VVI
+act_NN1
 of_PRF
 environmental_AJ0
 vandalism_NN1
@@ -16555,7 +16555,7 @@ faceless_AJ0
 bureaucrats_NN2
 the_AT0
 time-serving_NN1
-vote-chasing_NN1-AJ0
+vote-chasing_AJ0
 career_NN1
 politicians_NN2
 who_PNQ
@@ -16606,7 +16606,7 @@ trouble_NN1
 them_PNP
 to_TO0
 their_DPS
-dying_VVG-AJ0
+dying_AJ0
 day_NN1
 They_PNP
 have_VHB
@@ -16632,7 +16632,7 @@ most_AV0
 of_PRF
 the_AT0
 tree-farmers_NN2
-involved_AJ0
+involved_VVN
 Self-assured_AJ0
 young_AJ0
 men_NN2
@@ -16732,7 +16732,7 @@ own_DT0
 more_AV0
 than_CJS
 forty_CRD
-Caithness_NP0-NN1
+Caithness_NN1
 and_CJC
 East_NN1
 Sutherland_NP0
@@ -16774,26 +16774,26 @@ by_PRP
 forestry_NN1
 Meala_NP0
 Sletill_NP0
-Leir_NP0-NN1
+Leir_NP0
 Talaheel_NP0
 Lochan_NP0
 nan_NN1
-Clach_NP0-NN1
+Clach_NN1
 Geala_NP0
 The_AT0
 Cross_NP0
 Lochs_NN2
 Caol_NP0
-Garbh_NP0-NN1
+Garbh_NP0
 Skyline_NN1
 Caise_NP0
 Meadie_NP0
 Cherigal_NP0
-Gaineimh_NP0-NN1
+Gaineimh_NN1
 Eileanach_NP0
-Dubh_NP0-NN1
+Dubh_NP0
 nan_NN1
-Geodh_NN1-NP0
+Geodh_NN1
 and_CJC
 Toftingall_NP0
 If_CJS
@@ -16802,7 +16802,7 @@ value_NN1
 the_AT0
 quality_NN1
 of_PRF
-Caithness_NP0-NN1
+Caithness_NN1
 game_NN1
 fishing_NN1
 and_CJC
@@ -16863,7 +16863,7 @@ one_CRD
 of_PRF
 the_AT0
 first_ORD
-Caithness_NP0-NN1
+Caithness_NN1
 lochs_NN2
 we_PNP
 fished_VVD
@@ -16882,7 +16882,7 @@ shallow_AJ0
 indeed_AV0
 prior_AJ0
 to_TO0
-mass-afforestation_NN1-AJ0
+mass-afforestation_NN1
 it_PNP
 was_VBD
 possible_AJ0
@@ -16946,7 +16946,7 @@ at_PRP
 the_AT0
 centre_NN1
 of_PRF
-Caithness_NP0-NN1
+Caithness_NN1
 and_CJC
 in_PRP
 times_NN2
@@ -16970,7 +16970,7 @@ in_PRP
 search_NN1
 of_PRF
 revenge_NN1
-plunder_VVI
+plunder_NN1
 or_CJC
 just_AV0
 a_AT0
@@ -17005,7 +17005,7 @@ eighteenth-century_AJ0
 lair_NN1
 of_PRF
 a_AT0
-Caithness_NP0-NN1
+Caithness_NN1
 Robin_NP0
 Hood_NP0
 said_VVD
@@ -17096,7 +17096,7 @@ Arctic_AJ0
 to_TO0
 winter_NN1
 in_PRP
-Caithness_NP0-NN1
+Caithness_NN1
 as_CJS
 do_VDB
 flights_NN2
@@ -17318,7 +17318,7 @@ is_VBZ
 generally_AV0
 excellent_AJ0
 An_AT0
-average_AJ0-NN1
+average_AJ0
 day_NN1
 sent_VVN
 us_PNP
@@ -17413,7 +17413,7 @@ to_TO0
 this_DT0
 day_NN1
 I_PNP
-regret_VVI
+regret_NN1
 ever_AV0
 falling_VVG
 for_PRP
@@ -17594,9 +17594,9 @@ Instead_AV0
 of_PRF
 trying_VVG
 to_TO0
-walk_VVI
+walk_NN1
 doggy_NN1
-paddle_VVI
+paddle_VVB
 Heathcliffe_NP0
 always_AV0
 tried_VVD
@@ -17638,7 +17638,7 @@ boat_NN1
 an_AT0
 ill-considered_AJ0
 back_AVP
-cast_VVN
+cast_NN1
 sent_VVN
 him_PNP
 flying_VVG
@@ -17775,7 +17775,7 @@ may_VM0
 have_VHB
 good_AJ0
 sport_NN1
-Access_NN1-VVB
+Access_NN1
 by_PRP
 car_NN1
 is_VBZ
@@ -17810,8 +17810,8 @@ each_DT0
 day_NN1
 Happily_AV0
 the_AT0
-principal_AJ0-NN1
-Caithness_NP0-NN1
+principal_AJ0
+Caithness_NN1
 lochs_NN2
 have_VHB
 not_XX0
@@ -17838,7 +17838,7 @@ St_NP0
 John_NP0
 's_POS
 and_CJC
-Heilen_AJ0
+Heilen_NP0
 all_DT0
 readily_AV0
 available_AJ0
@@ -17864,11 +17864,11 @@ of_PRF
 exceptional_AJ0
 quality_NN1
 My_DPS
-favourite_AJ0-NN1
-Caithness_NP0-NN1
+favourite_AJ0
+Caithness_NN1
 loch_NN1
 is_VBZ
-Heilen_AJ0
+Heilen_NP0
 near_PRP
 Castletown_NP0
 an_AT0
@@ -17914,7 +17914,7 @@ going_VVG
 back_AVP
 for_PRP
 more_AV0
-Heilen_AJ0
+Heilen_NP0
 is_VBZ
 very_AV0
 shallow_AJ0
@@ -17945,10 +17945,10 @@ areas_NN2
 to_TO0
 fish_NN0
 The_AT0
-average_AJ0-NN1
+average_AJ0
 weight_NN1
 of_PRF
-Heilen_AJ0
+Heilen_NP0
 trout_NN0
 is_VBZ
 in_PRP
@@ -17985,7 +17985,7 @@ fish_NN0
 weighed_VVD
 4lb_NN0
 8oz_NN0
-Heilen_AJ0
+Heilen_NP0
 trout_NN0
 are_VBB
 in_PRP
@@ -18058,14 +18058,14 @@ friends_NN2
 visit_NN1
 me_PNP
 in_PRP
-Caithness_NP0-NN1
+Caithness_NN1
 I_PNP
 always_AV0
 persuade_VVI
 them_PNP
 to_TO0
 fish_NN0
-Heilen_AJ0
+Heilen_NP0
 and_CJC
 invariably_AV0
 suffer_VVI
@@ -18179,7 +18179,7 @@ as_CJS
 a_AT0
 matter_NN1
 of_PRF
-principal_AJ0-NN1
+principal_AJ0
 I_PNP
 estimated_VVN
 that_CJT
@@ -18211,12 +18211,12 @@ the_AT0
 water_NN1
 The_AT0
 tail_NN1
-fly_VVI
+fly_NN1
 a_AT0
 size_NN1
 14_CRD
 Silver_NP0
-Butcher_NP0-NN1
+Butcher_NP0
 grazed_VVN
 the_AT0
 surface_NN1
@@ -18315,7 +18315,7 @@ To_TO0
 the_AT0
 north_NN1
 of_PRF
-Heilen_AJ0
+Heilen_NP0
 is_VBZ
 Loch_NP0
 St_NP0
@@ -18369,11 +18369,11 @@ loch_NN1
 certain_AJ0
 of_PRF
 its_DPS
-curative_AJ0-NN1
+curative_AJ0
 properties_NN2
 The_AT0
 treatment_NN1
-involved_AJ0
+involved_VVN
 walking_VVG
 three_CRD
 times_NN2
@@ -18511,7 +18511,7 @@ are_VBB
 carefully_AV0
 reared_VVN
 to_TO0
-fingerling_VVG-AJ0
+fingerling_AJ0
 stage_NN1
 and_CJC
 then_AV0
@@ -18525,10 +18525,10 @@ resulted_VVD
 in_PRP
 a_AT0
 temporary_AJ0
-drop_VVI
+drop_NN1
 in_PRP
 the_AT0
-average_AJ0-NN1
+average_AJ0
 weight_NN1
 of_PRF
 fish_NN0
@@ -18543,7 +18543,7 @@ John_NP0
 's_POS
 trout_NN0
 now_AV0
-average_AJ0-NN1
+average_AJ0
 approximately_AV0
 10oz_NN0
 Nevertheless_AV0
@@ -18572,12 +18572,12 @@ waiting_VVG
 for_PRP
 your_DPS
 well-presented_AJ0
-cast_VVN
+cast_NN1
 Watten_NP0
 is_VBZ
 the_AT0
 largest_AJS
-Caithness_NP0-NN1
+Caithness_NN1
 loch_NN1
 three-and-a-half_CRD
 miles_NN2
@@ -18599,7 +18599,7 @@ the_AT0
 boat_NN1
 With_PRP
 a_AT0
-trout-rod_NN1-AJ0
+trout-rod_NN1
 I_PNP
 mention_VVI
 this_DT0
@@ -18669,7 +18669,7 @@ five-year-old_NN1
 not_XX0
 to_TO0
 be_VBI
-trusted_VVD
+trusted_AJ0
 and_CJC
 at_PRP
 times_NN2
@@ -18690,14 +18690,14 @@ getting_VVG
 Mother_NN1
 into_PRP
 suitable_AJ0
-wet-weather_AJ0-NN1
+wet-weather_NN1
 gear_NN1
 After_PRP
 a_AT0
 great_AJ0
 struggle_NN1
 I_PNP
-frog-marched_AJ0-NN1
+frog-marched_NN1
 her_DPS
 into_PRP
 oilskins_NN2
@@ -18705,7 +18705,7 @@ and_CJC
 over-trousers_NN2
 fitted_VVN
 the_AT0
-outboard_NN1-AJ0
+outboard_AJ0
 and_CJC
 set_VVN
 off_AVP
@@ -18742,7 +18742,7 @@ Without_PRP
 a_AT0
 word_NN1
 I_PNP
-restarted_VVN-VVD
+restarted_VVN
 the_AT0
 motor_NN1
 and_CJC
@@ -18750,7 +18750,7 @@ headed_VVN
 back_AVP
 to_TO0
 the_AT0
-mooring_AJ0-NN1
+mooring_NN1
 bay_NN1
 half_DT0
 a_AT0
@@ -18888,7 +18888,7 @@ had_VHD
 mounted_VVD
 on_PRP
 her_DPS
-cast_VVN
+cast_NN1
 when_CJS
 the_AT0
 trout_NN0
@@ -19006,7 +19006,7 @@ dynasty_NN1
 and_CJC
 until_CJS
 the_AT0
-present_AJ0-NN1
+present_AJ0
 day_NN1
 the_AT0
 Douglas_NP0
@@ -19021,7 +19021,7 @@ a_AT0
 major_AJ0
 part_NN1
 in_PRP
-shaping_VVG-AJ0
+shaping_VVG
 Scotland_NP0
 's_POS
 story_NN1
@@ -19050,7 +19050,7 @@ prisoner_NN1
 of_PRF
 Edward_NP0
 I_PNP
-Hammer_NN1-VVB
+Hammer_NN1
 of_PRF
 the_AT0
 Scots_NN2
@@ -19064,7 +19064,7 @@ Black_AJ0
 Douglas_NP0
 was_VBD
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 lieutenant_NN1
 and_CJC
 a_AT0
@@ -19119,7 +19119,7 @@ Scotland_NP0
 will_VM0
 to_TO0
 resist_VVI
-English_AJ0-NN1
+English_AJ0
 domination_NN1
 Later_AV0
 events_NN2
@@ -19140,7 +19140,7 @@ entered_VVD
 into_PRP
 protracted_AJ0
 frequently_AV0
-downright_AV0-AJ0
+downright_AJ0
 treacherous_AJ0
 negotiations_NN2
 to_TO0
@@ -19233,7 +19233,7 @@ Dukes_NN2
 of_PRF
 Hamilton_NP0
 and_CJC
-Buccleuch_NP0-NN1
+Buccleuch_NP0
 Earls_NP0
 of_PRF
 Home_NN1
@@ -19241,7 +19241,7 @@ and_CJC
 Morton_NP0
 Marquess_NN1
 of_PRF
-Queensberry_NP0-NN1
+Queensberry_NN1
 and_CJC
 Lord_NP0
 Torphichen_NP0
@@ -19275,7 +19275,7 @@ drawbridge_NN1
 completed_VVN
 defences_NN2
 The_AT0
-present_AJ0-NN1
+present_AJ0
 dramatic_AJ0
 ruin_NN1
 probably_AV0
@@ -19447,7 +19447,7 @@ been_VBN
 used_VVN
 as_CJS
 a_AT0
-dumping_NN1
+dumping_VVG
 place_NN1
 for_PRP
 unwanted_AJ0
@@ -19578,7 +19578,7 @@ owned_VVN
 and_CJC
 managed_VVD
 by_PRP
-Buccleuch_NP0-NN1
+Buccleuch_NP0
 Estates_NN2
 The_AT0
 loch_NN1
@@ -19623,7 +19623,7 @@ wild_AJ0
 days_NN2
 Brown_NP0
 trout_NN0
-average_AJ0-NN1
+average_AJ0
 12oz_NN0
 rainbow_NN1
 trout_NN0
@@ -19670,9 +19670,9 @@ a_AT0
 mile_NN1
 south_NN1
 from_PRP
-Drumlanrig_NN1-VVB
+Drumlanrig_NN1
 Castle_NN1
-Drumlanrig_NN1-VVB
+Drumlanrig_NN1
 is_VBZ
 a_AT0
 magnificent_AJ0
@@ -19688,7 +19688,7 @@ the_AT0
 first_ORD
 Earl_NN1
 of_PRF
-Queensberry_NP0-NN1
+Queensberry_NN1
 who_PNQ
 spent_VVN
 only_AV0
@@ -19697,7 +19697,7 @@ night_NN1
 under_PRP
 its_DPS
 roof_NN1
-Drumlanrig_NN1-VVB
+Drumlanrig_NN1
 Castle_NN1
 and_CJC
 grounds_NN2
@@ -19774,7 +19774,7 @@ fortified_AJ0
 tower_NN1
 to_TO0
 the_AT0
-English_AJ0-NN1
+English_AJ0
 The_AT0
 possession_NN1
 of_PRF
@@ -19801,12 +19801,12 @@ the_AT0
 fish_NN0
 garth_NN1
 the_AT0
-English_AJ0-NN1
+English_AJ0
 built_VVN
 across_PRP
 the_AT0
 River_NP0
-Esk_NN1-NP0
+Esk_NP0
 traditional_AJ0
 boundary_NN1
 of_PRF
@@ -19833,7 +19833,7 @@ source_NN1
 of_PRF
 food_NN1
 The_AT0
-English_AJ0-NN1
+English_AJ0
 claimed_VVD
 that_CJT
 such_DT0
@@ -19863,11 +19863,11 @@ down_AVP
 By_PRP
 1485_CRD
 the_AT0
-English_AJ0-NN1
+English_AJ0
 had_VHD
 rebuilt_VVN
 the_AT0
-Esk_NN1-NP0
+Esk_NP0
 fish_NN0
 trap_NN1
 but_CJC
@@ -19900,7 +19900,7 @@ As_CJS
 soon_AV0
 as_CJS
 the_AT0
-English_AJ0-NN1
+English_AJ0
 rebuilt_VVN
 the_AT0
 trap_NN1
@@ -19923,7 +19923,7 @@ before_PRP
 the_AT0
 Battle_NN1
 of_PRF
-Flodden_NP0-NN1
+Flodden_NP0
 when_CJS
 James_NP0
 IV_CRD
@@ -19933,7 +19933,7 @@ Earl_NN1
 of_PRF
 Surrey_NP0
 to_TO0
-single-handed_AV0-AJ0
+single-handed_AV0
 combat_VVI
 to_TO0
 decide_VVI
@@ -19964,7 +19964,7 @@ the_AT0
 removal_NN1
 of_PRF
 the_AT0
-Esk_NN1-NP0
+Esk_NP0
 fish_NN0
 garth_NN1
 The_AT0
@@ -19991,9 +19991,9 @@ the_AT0
 fish_NN0
 garth_NN1
 remained_VVD
-Claim_NN1-VVB
+Claim_NN1
 followed_VVN
-counter-claim_NN1-VVB
+counter-claim_NN1
 until_CJS
 1543_CRD
 when_CJS
@@ -20015,7 +20015,7 @@ the_AT0
 dispute_NN1
 over_PRP
 the_AT0
-Esk_NN1-NP0
+Esk_NP0
 fish_NN0
 trap_NN1
 exploded_VVD
@@ -20037,7 +20037,7 @@ Sir_NP0
 James_NP0
 Graham_NP0
 of_PRF
-Netherby_NP0-NN1
+Netherby_NP0
 Hall_NN1
 rebuilt_VVN
 the_AT0
@@ -20061,7 +20061,7 @@ and_CJC
 set_VVN
 out_AVP
 to_TO0
-tear_NN1-VVB
+tear_NN1
 it_PNP
 down_AVP
 Graham_NP0
@@ -20123,7 +20123,7 @@ line_NN1
 of_PRF
 the_AT0
 River_NP0
-Esk_NN1-NP0
+Esk_NP0
 and_CJC
 its_DPS
 tributary_NN1
@@ -20159,7 +20159,7 @@ known_VVN
 as_CJS
 the_AT0
 Debatable_AJ0
-Land_NP0-NN1
+Land_NN1
 which_DTQ
 both_AV0
 countries_NN2
@@ -20170,7 +20170,7 @@ hundred_CRD
 years_NN2
 the_AT0
 Debatable_AJ0
-Land_NP0-NN1
+Land_NN1
 was_VBD
 largely_AV0
 uninhabited_AJ0
@@ -20211,7 +20211,7 @@ be_VBI
 free_AJ0
 to_TO0
 rob_VVI
-burn_VVI
+burn_NN1
 spoil_VVI
 slay_VVI
 murder_NN1
@@ -20425,7 +20425,7 @@ rather_AV0
 than_CJS
 attempting_VVG
 to_TO0
-drag_VVI
+drag_NN1
 them_PNP
 away_AV0
 he_PNP
@@ -20500,7 +20500,7 @@ been_VBN
 radically_AV0
 altered_VVN
 severely_AV0
-damaging_VVG-AJ0
+damaging_AJ0
 wildlife_NN1
 and_CJC
 the_AT0
@@ -20534,14 +20534,14 @@ and_CJC
 naturally_AV0
 acidic_AJ0
 Conifers_NN2
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 increasing_AJ0
 atmospheric_AJ0
 pollution_NN1
 have_VHB
 greatly_AV0
-increased_AJ0
+increased_VVN
 the_AT0
 acidity_NN1
 of_PRF
@@ -20622,7 +20622,7 @@ Carsfad_NP0
 Reservoir_NN1
 near_PRP
 New_AJ0
-Galloway_NP0-NN1
+Galloway_NP0
 In_PRP
 spite_NN1
 of_PRF
@@ -21011,7 +21011,7 @@ and_CJC
 Dalrymple_NP0
 under_PRP
 the_AT0
-Auld_NN1-NP0
+Auld_NP0
 Brig_NN1
 o'_PRF
 Doon_NP0
@@ -21020,7 +21020,7 @@ Alloway_NP0
 where_AVQ
 Tam_NP0
 o'_PRF
-Shanter_NP0-NN1
+Shanter_NN1
 escaped_VVD
 from_PRP
 pursuing_VVG
@@ -21050,14 +21050,14 @@ thou_PNP
 thy_DPS
 tail_NN1
 may_VM0
-toss_VVI
+toss_NN1
 A_AT0
 running_VVG
 stream_NN1
 they_PNP
 dare_VM0
 na_TO0
-cross_VVI
+cross_NN1
 Robert_NP0
 Burns_NP0
 regarded_VVN
@@ -21281,9 +21281,9 @@ To_TO0
 school_NN1
 in_PRP
 bands_NN2
-thegither_VVB-NN1
+thegither_VVB
 O_ZZ0
-tread_VVI
+tread_VVB
 but_CJC
 lightly_AV0
 on_PRP
@@ -21344,7 +21344,7 @@ scene_NN1
 from_PRP
 Tam_NP0
 o'_PRF
-Shanter_NP0-NN1
+Shanter_NN1
 complete_AJ0
 with_PRP
 Tam_NP0
@@ -21387,7 +21387,7 @@ directness_NN1
 honesty_NN1
 and_CJC
 wry_AJ0
-lop-sided_AJ0-NN1
+lop-sided_AJ0
 humour_NN1
 the_AT0
 appreciation_NN1
@@ -21835,8 +21835,8 @@ in_PRP
 The_AT0
 day_NN1
 you_PNP
-retired_AJ0
-hurt_VVI
+retired_VVD
+hurt_VVN
 I_PNP
 gritted_VVD
 my_DPS
@@ -21858,7 +21858,7 @@ I_PNP
 really_AV0
 caught_VVN
 it_PNP
-Trapped_AJ0-VVD
+Trapped_VVD
 in_PRP
 a_AT0
 nightmare_NN1
@@ -21905,7 +21905,7 @@ promised_VVD
 himself_PNX
 one_CRD
 more_AV0
-cast_VVN
+cast_NN1
 followed_VVN
 by_PRP
 a_AT0
@@ -22002,7 +22002,7 @@ off_AVP
 the_AT0
 hook_NN1
 only_AV0
-improved_AJ0
+improved_VVN
 the_AT0
 tale_NN1
 Which_DTQ
@@ -22033,7 +22033,7 @@ buses_NN2
 were_VBD
 much_DT0
 better_AJC
-Travelling_VVG-NN1
+Travelling_VVG
 on_PRP
 them_PNP
 was_VBD
@@ -22113,7 +22113,7 @@ eventually_AV0
 gave_VVD
 in_PRP
 and_CJC
-lugged_VVD-AJ0
+lugged_VVD
 my_DPS
 piece_NN1
 of_PRF
@@ -22152,7 +22152,7 @@ of_PRF
 the_AT0
 pier_NN1
 fishing_NN1
-Tackle_NN1-VVB
+Tackle_NN1
 consisted_VVD
 of_PRF
 a_AT0
@@ -22161,7 +22161,7 @@ frame_NN1
 around_PRP
 which_DTQ
 was_VBD
-wrapped_VVN-VVD
+wrapped_VVN
 light_NN1
 brown_AJ0
 fishing-line_NN1
@@ -22446,7 +22446,7 @@ the_AT0
 bowl_NN1
 was_VBD
 about_PRP
-sea-food_NN1-AJ0
+sea-food_NN1
 describing_VVG
 the_AT0
 sound_NN1
@@ -22483,7 +22483,7 @@ owned_VVN
 by_PRP
 Mr_NP0
 Jake_NP0
-Nisbet_NP0-NN1
+Nisbet_NP0
 Jake_NP0
 was_VBD
 a_AT0
@@ -22508,7 +22508,7 @@ a_AT0
 marvellous_AJ0
 collection_NN1
 of_PRF
-carved_AJ0
+carved_VVN
 whales_NN2
 '_POS
 teeth_NN2
@@ -22844,7 +22844,7 @@ history_NN1
 Berwick_NP0
 was_VBD
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 trading_NN1
 city_NN1
 of_PRF
@@ -23049,7 +23049,7 @@ Bruce_NP0
 Queen_NN1
 his_DPS
 sister_NN1
-Christina_NP0-NN1
+Christina_NP0
 and_CJC
 daughter_NN1
 Marjorie_NP0
@@ -23057,7 +23057,7 @@ were_VBD
 captured_VVN
 by_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 Edward_NP0
 arranged_VVN
 a_AT0
@@ -23147,7 +23147,7 @@ Scots_NN2
 in_PRP
 1312_CRD
 and_CJC
-regained_VVD
+regained_VVN
 in_PRP
 1318_CRD
 besieged_VVN
@@ -23159,7 +23159,7 @@ in_PRP
 taken_VVN
 by_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 in_PRP
 1333_CRD
 burned_VVN
@@ -23205,7 +23205,7 @@ terror_NN1
 at_PRP
 Berwick_NP0
 and_CJC
-fanned_VVN-VVD
+fanned_VVD
 in_PRP
 my_DPS
 heart_NN1
@@ -23492,7 +23492,7 @@ do_VDB
 so_AV0
 If_CJS
 you_PNP
-walk_VVI
+walk_NN1
 out_AVP
 from_PRP
 Coldingham_NP0
@@ -23717,11 +23717,11 @@ remember_VVI
 once_AV0
 catching_VVG
 a_AT0
-sand-martin_NN1-AJ0
+sand-martin_NN1
 On_PRP
 the_AT0
 back_AVP
-cast_VVN
+cast_NN1
 There_EX0
 was_VBD
 a_AT0
@@ -23742,7 +23742,7 @@ grab_VVI
 any_DT0
 moment_NN1
 I_PNP
-cast_VVN
+cast_NN1
 back_AVP
 and_CJC
 suddenly_AV0
@@ -23758,7 +23758,7 @@ had_VHD
 been_VBN
 feeding_VVG
 avidly_AV0
-dipping_VVG-NN1
+dipping_VVG
 and_CJC
 swooping_VVG
 over_PRP
@@ -23790,7 +23790,7 @@ and_CJC
 carefully_AV0
 removed_VVN
 the_AT0
-fly_VVI
+fly_NN1
 which_DTQ
 had_VHD
 gone_VVN
@@ -23808,7 +23808,7 @@ very_AV0
 pleasant_AJ0
 for_PRP
 the_AT0
-sand-martin_NN1-AJ0
+sand-martin_NN1
 but_CJC
 for_PRP
 me_PNP
@@ -23994,7 +23994,7 @@ lifeless_AJ0
 to_TO0
 me_PNP
 and_CJC
-high-modulus_NN1-AJ0
+high-modulus_AJ0
 high-strength_AJ0
 aerospace_NN1
 technology_NN1
@@ -24038,7 +24038,7 @@ family_NN1
 I_PNP
 could_VM0
 never_AV0
-fall_VVI
+fall_NN1
 in_PRP
 love_NN1
 with_PRP
@@ -24129,7 +24129,7 @@ that_CJT
 became_VVD
 my_DPS
 firm_NN1
-favourite_AJ0-NN1
+favourite_AJ0
 Other_AJ0
 boys_NN2
 poured_VVD
@@ -24144,7 +24144,7 @@ The_AT0
 Fisherman_NN1
 's_POS
 Vade_NP0
-Mecum_NP0-NN1
+Mecum_NP0
 I_PNP
 read_VVI
 it_PNP
@@ -24268,7 +24268,7 @@ tributary_NN1
 of_PRF
 the_AT0
 River_NP0
-Tweed_NP0-NN1
+Tweed_NP0
 Well_AV0
 sort_NN1
 of_PRF
@@ -24338,10 +24338,10 @@ salmon_NN0
 after_PRP
 their_DPS
 first_ORD
-cast_VVN
+cast_NN1
 Others_NN2
 a_AT0
-hard-fighting_NN1-AJ0
+hard-fighting_AJ0
 sea-liced_AJ0
 sea-trout_NN0
 For_PRP
@@ -24388,7 +24388,7 @@ in_PRP
 pain_NN1
 I_PNP
 hurriedly_AV0
-cast_VVN
+cast_NN1
 again_AV0
 The_AT0
 small_AJ0
@@ -24403,7 +24403,7 @@ attached_VVN
 to_TO0
 the_AT0
 tail_NN1
-fly_VVI
+fly_NN1
 In_PRP
 an_AT0
 agony_NN1
@@ -24504,9 +24504,9 @@ Shortened_VVN
 into_PRP
 a_AT0
 beautiful_AJ0
-two-piece_NN1-AJ0
+two-piece_NN1
 seven-foot-long_AJ0
-trout-rod_NN1-AJ0
+trout-rod_NN1
 All_DT0
 our_DPS
 children_NN2
@@ -24552,7 +24552,7 @@ Watten_NP0
 and_CJC
 Toftingall_NP0
 in_PRP
-Caithness_NP0-NN1
+Caithness_NN1
 Which_DTQ
 is_VBZ
 a_AT0
@@ -24567,7 +24567,7 @@ my_DPS
 old_AJ0
 friend_NN1
 has_VHZ
-retired_AJ0
+retired_VVD
 now_AV0
 As_CJS
 I_PNP
@@ -24587,7 +24587,7 @@ shining_AJ0
 brass-reel_NN1
 in_PRP
 place_NN1
-cast_VVN
+cast_NN1
 and_CJC
 flies_NN2
 still_AV0
@@ -24602,7 +24602,7 @@ trumpet_NN1
 to_TO0
 sound_NN1
 The_AT0
-principal_AJ0-NN1
+principal_AJ0
 Border_NN1
 fishery_NN1
 is_VBZ
@@ -24611,7 +24611,7 @@ course_NN1
 the_AT0
 mighty_AJ0
 River_NP0
-Tweed_NP0-NN1
+Tweed_NP0
 and_CJC
 there_EX0
 are_VBB
@@ -24654,11 +24654,11 @@ to_TO0
 admit_VVI
 that_CJT
 the_AT0
-Whiteadder_NP0-NN1
+Whiteadder_NP0
 River_NP0
 is_VBZ
 my_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 Border_NN1
 stream_NN1
 and_CJC
@@ -24671,7 +24671,7 @@ a_AT0
 vested_VVN
 interest_NN1
 in_PRP
-Whiteadder_NP0-NN1
+Whiteadder_NP0
 My_DPS
 wife_NN1
 and_CJC
@@ -24690,7 +24690,7 @@ St_NP0
 Bathan_NP0
 's_POS
 on_PRP
-Whiteadder_NP0-NN1
+Whiteadder_NP0
 when_CJS
 we_PNP
 stayed_VVD
@@ -24968,13 +24968,13 @@ whole_AJ0
 world_NN1
 seemed_VVD
 to_TO0
-ache_VVI
+ache_NN1
 for_PRP
 summer_NN1
 's_POS
 coming_VVG
 Fish_NN0
-splashed_VVN-VVD
+splashed_VVN
 in_PRP
 small_AJ0
 pools_NN2
@@ -24995,7 +24995,7 @@ the_AT0
 evening_NN1
 before_PRP
 a_AT0
-roaring_VVG
+roaring_AJ0
 open_AJ0
 fire_NN1
 we_PNP
@@ -25023,7 +25023,7 @@ for_PRP
 tea_NN1
 Happy_AJ0
 times_NN2
-RANNOCH_NP0-NN1
+RANNOCH_NN1
 EIGHTY_CRD
 years_NN2
 ago_AV0
@@ -25036,7 +25036,7 @@ on_PRP
 Dunalister_AJC
 Estate_NN1
 Kinloch_NP0
-Rannoch_NP0-NN1
+Rannoch_NP0
 Perthshire_NP0
 a_AT0
 Gaelic_AJ0
@@ -25051,7 +25051,7 @@ of_PRF
 Bonnie_NP0
 Prince_NN1
 Charlie_NP0
-Pretender_NN1-NP0
+Pretender_NN1
 to_TO0
 the_AT0
 throne_NN1
@@ -25130,14 +25130,14 @@ to_TO0
 cleaning_NN1
 and_CJC
 polishing_NN1
-burnishing_VVG-AJ0
+burnishing_VVG
 brass_NN1
 copper_NN1
 and_CJC
 silver_NN1
 A_AT0
 relaxed_AJ0
-gathering_NN1
+gathering_VVG
 with_PRP
 the_AT0
 hard_AJ0
@@ -25180,7 +25180,7 @@ The_AT0
 armoury_NN1
 fired_VVN
 his_DPS
-Jacobite_AJ0-NN1
+Jacobite_NN1
 imagination_NN1
 and_CJC
 within_PRP
@@ -25240,7 +25240,7 @@ break_VVI
 into_PRP
 the_AT0
 Gaelic_AJ0
-roaring_VVG
+roaring_AJ0
 and_CJC
 shouting_VVG
 at_PRP
@@ -25308,7 +25308,7 @@ made_VVN
 the_AT0
 mistake_NN1
 of_PRF
-challenging_VVG-AJ0
+challenging_VVG
 him_PNP
 Joicey_NP0
 you_PNP
@@ -25326,7 +25326,7 @@ Highlanders_NN2
 ran_VVD
 away_AV0
 at_PRP
-Culloden_NP0-NN1
+Culloden_NN1
 without_PRP
 striking_AJ0
 a_AT0
@@ -25377,7 +25377,7 @@ what_DTQ
 I_PNP
 mean_VVI
 you_PNP
-heathen_AJ0-NN1
+heathen_AJ0
 Joicey_NP0
 roared_VVD
 Come_VVB
@@ -25418,7 +25418,7 @@ this_DT0
 way_NN1
 and_CJC
 that_CJT
-Calm_VVB-NN1
+Calm_VVB
 down_AVP
 Joicey_NP0
 I_PNP
@@ -25525,7 +25525,7 @@ into_PRP
 trouble_NN1
 with_PRP
 the_AT0
-Laird_NN1-NP0
+Laird_NN1
 When_CJS
 parties_NN2
 went_VVD
@@ -25639,7 +25639,7 @@ damp_AJ0
 and_CJC
 leave_VVI
 him_PNP
-sleeping_VVG
+sleeping_NN1
 soundly_AV0
 until_CJS
 the_AT0
@@ -25650,7 +25650,7 @@ day_NN1
 Then_AV0
 when_CJS
 the_AT0
-Laird_NN1-NP0
+Laird_NN1
 was_VBD
 n't_XX0
 looking_VVG
@@ -25713,7 +25713,7 @@ up_AVP
 at_PRP
 Moor_NN1
 of_PRF
-Rannoch_NP0-NN1
+Rannoch_NP0
 he_PNP
 had_VHD
 every_AT0
@@ -25761,7 +25761,7 @@ lost_VVN
 their_DPS
 native_AJ0
 tongue_NN1
-Rannoch_NP0-NN1
+Rannoch_NP0
 is_VBZ
 a_AT0
 wild_AJ0
@@ -25816,7 +25816,7 @@ Pitlochry_NP0
 past_NN1
 Tummel_NP0
 and_CJC
-Rannoch_NP0-NN1
+Rannoch_NP0
 is_VBZ
 the_AT0
 fabled_AJ0
@@ -25858,7 +25858,7 @@ Loch_NP0
 Tummel_NP0
 to_TO0
 graceful_AJ0
-Schiehallion_NP0-NN1
+Schiehallion_NN1
 Most_DT0
 people_NN0
 imagine_VVI
@@ -25984,7 +25984,7 @@ sure_AJ0
 she_PNP
 signed_VVN
 it_PNP
-Schiehallion_NP0-NN1
+Schiehallion_NN1
 one_CRD
 of_PRF
 Scotland_NP0
@@ -26000,14 +26000,14 @@ height_NN1
 dominates_VVZ
 Tummel_NP0
 and_CJC
-Rannoch_NP0-NN1
+Rannoch_NP0
 The_AT0
 peak_NN1
 was_VBD
 marked_VVN
 by_PRP
-Ptolemy_NP0-NN1
-Egyptian_AJ0-NN1
+Ptolemy_NN1
+Egyptian_AJ0
 geographer_NN1
 and_CJC
 astronomer_NN1
@@ -26029,7 +26029,7 @@ in_PRP
 that_CJT
 Nevil_NP0
 Maskelyne_NP0
-Astronomer_NP0-NN1
+Astronomer_NN1
 Royal_AJ0
 conducted_VVN
 his_DPS
@@ -26044,7 +26044,7 @@ planet_NN1
 earth_NN1
 Westwards_AV0
 from_PRP
-Schiehallion_NP0-NN1
+Schiehallion_NN1
 at_PRP
 the_AT0
 very_AV0
@@ -26052,7 +26052,7 @@ heart_NN1
 of_PRF
 Scotland_NP0
 lies_VVZ
-Rannoch_NP0-NN1
+Rannoch_NP0
 Moor_NN1
 a_AT0
 desolate_AJ0
@@ -26166,7 +26166,7 @@ fish_NN0
 particularly_AV0
 in_PRP
 Loch_NP0
-Rannoch_NP0-NN1
+Rannoch_NP0
 and_CJC
 since_CJS
 the_AT0
@@ -26190,7 +26190,7 @@ to_TO0
 22lb_NN0
 most_AV0
 seasons_NN2
-Rannoch_NP0-NN1
+Rannoch_NP0
 still_AV0
 produces_VVZ
 the_AT0
@@ -26329,7 +26329,7 @@ Another_DT0
 wonderful_AJ0
 aspect_NN1
 of_PRF
-Rannoch_NP0-NN1
+Rannoch_NP0
 is_VBZ
 the_AT0
 Black_AJ0
@@ -26497,7 +26497,7 @@ we_PNP
 Scots_NN2
 were_VBD
 a_AT0
-bloodthirsty_NN1-AJ0
+bloodthirsty_AJ0
 race_NN1
 then_AV0
 and_CJC
@@ -26517,7 +26517,7 @@ the_AT0
 hunting_NN1
 of_PRF
 the_AT0
-Rannoch_NP0-NN1
+Rannoch_NP0
 Macgregors_NP0
 was_VBD
 probably_AV0
@@ -26539,10 +26539,10 @@ of_PRF
 Loch_NP0
 Tummel_NP0
 and_CJC
-Rannoch_NP0-NN1
+Rannoch_NP0
 out_AVP
 to_TO0
-Gaur_NP0-NN1
+Gaur_NN1
 Bridge_NN1
 on_PRP
 the_AT0
@@ -26571,7 +26571,7 @@ Children_NN2
 of_PRF
 the_AT0
 Mist_NN1
-Rannoch_NP0-NN1
+Rannoch_NP0
 can_VM0
 be_VBI
 a_AT0
@@ -26600,7 +26600,7 @@ into_PRP
 the_AT0
 mists_NN2
 of_PRF
-Rannoch_NP0-NN1
+Rannoch_NP0
 Moor_NN1
 where_AVQ
 they_PNP
@@ -26683,7 +26683,7 @@ of_PRF
 pardon_NN1
 women_NN2
 were_VBD
-branded_VVN-AJ0
+branded_VVN
 on_PRP
 the_AT0
 forehead_NN1
@@ -26750,7 +26750,7 @@ hills_NN2
 above_PRP
 Tummel_NP0
 and_CJC
-Rannoch_NP0-NN1
+Rannoch_NP0
 A_AT0
 few_DT0
 years_NN2
@@ -26811,7 +26811,7 @@ damp_AJ0
 valley_NN1
 peat_NN1
 and_CJC
-heather-filled_NN1-AJ0
+heather-filled_NN1
 where_AVQ
 insects_NN2
 hummed_VVD
@@ -26840,7 +26840,7 @@ running_VVG
 I_PNP
 mean_VVI
 as_CJS
-fast_AV0-AJ0
+fast_AJ0
 as_CJS
 she_PNP
 could_VM0
@@ -26868,7 +26868,7 @@ kept_VVD
 saying_VVG
 almost_AV0
 whispering_VVG
-Quick_AJ0-AV0
+Quick_AJ0
 quick_AJ0
 get_VVI
 out_AVP
@@ -27088,7 +27088,7 @@ lain_VVN
 trembling_VVG
 with_PRP
 fear_NN1
-listening_VVG-NN1
+listening_VVG
 to_TO0
 the_AT0
 sound_NN1
@@ -27144,7 +27144,7 @@ sure_AJ0
 that_CJT
 the_AT0
 effort_NN1
-involved_AJ0
+involved_VVN
 in_PRP
 reaching_VVG
 the_AT0
@@ -27193,7 +27193,7 @@ old_AJ0
 battered_AJ0
 dusty_AJ0
 Austin_NP0
-Allegro_NP0-NN1
+Allegro_NN1
 Beyond_PRP
 I_PNP
 could_VM0
@@ -27213,7 +27213,7 @@ had_VHD
 come_VVI
 The_AT0
 car_NN1
-parked_VVN
+parked_VVD
 about_PRP
 a_AT0
 hundred_CRD
@@ -27256,7 +27256,7 @@ bank_NN1
 in_PRP
 spite_NN1
 of_PRF
-admitting_VVG-AJ0
+admitting_VVG
 that_CJT
 they_PNP
 had_VHD
@@ -27304,7 +27304,7 @@ down_AVP
 to_TO0
 some_DT0
 serious_AJ0
-fly_VVI
+fly_NN1
 fishing_NN1
 ending_NN1
 the_AT0
@@ -27470,7 +27470,7 @@ In_PRP
 1976_CRD
 a_AT0
 new_AJ0
-act_VVI
+act_NN1
 was_VBD
 passed_VVN
 The_AT0
@@ -27529,7 +27529,7 @@ new_AJ0
 development_NN1
 at_PRP
 Kinloch_NP0
-Rannoch_NP0-NN1
+Rannoch_NP0
 has_VHZ
 been_VBN
 the_AT0
@@ -27542,7 +27542,7 @@ based_VVN
 upon_PRP
 the_AT0
 Kinloch_NP0
-Rannoch_NP0-NN1
+Rannoch_NP0
 Hotel_NN1
 A_AT0
 series_NN0
@@ -27580,7 +27580,7 @@ Scottish_AJ0
 self-catering_AJ0
 properties_NN2
 the_AT0
-Rannoch_NP0-NN1
+Rannoch_NP0
 flats_NN2
 and_CJC
 apartments_NN2
@@ -27617,7 +27617,7 @@ kitchen_NN1
 Our_DPS
 most_AV0
 disastrous_AJ0
-Rannoch_NP0-NN1
+Rannoch_NP0
 cottage_NN1
 was_VBD
 little_AJ0
@@ -27677,7 +27677,7 @@ a_AT0
 pipe_NN1
 from_PRP
 the_AT0
-burn_VVI
+burn_NN1
 Lighting_NN1
 was_VBD
 by_PRP
@@ -27702,7 +27702,7 @@ one_CRD
 was_VBD
 expected_VVN
 to_TO0
-drive_VVI
+drive_NN1
 two_CRD
 miles_NN2
 along_AVP
@@ -27871,7 +27871,7 @@ the_AT0
 card_NN1
 table_NN1
 an_AT0
-exhausted_VVN-AJ0
+exhausted_VVN
 nervous_AJ0
 wreck_NN1
 Made_VVN
@@ -27899,7 +27899,7 @@ shallow_AJ0
 flooded_VVN
 loch_NN1
 between_PRP
-Rannoch_NP0-NN1
+Rannoch_NP0
 and_CJC
 Tummel_NP0
 formed_VVN
@@ -27907,7 +27907,7 @@ when_CJS
 the_AT0
 waters_NN2
 of_PRF
-Rannoch_NP0-NN1
+Rannoch_NP0
 were_VBD
 impounded_VVN
 as_CJS
@@ -27948,7 +27948,7 @@ of_PRF
 the_AT0
 loch_NN1
 firmly_AV0
-wedged_VVN-VVD
+wedged_VVN
 on_PRP
 one_CRD
 such_DT0
@@ -28030,7 +28030,7 @@ call_VVI
 of_PRF
 the_AT0
 Kinloch_NP0
-Rannoch_NP0-NN1
+Rannoch_NP0
 Hotel_NN1
 was_VBD
 far_AV0
@@ -28043,7 +28043,7 @@ April_NP0
 fishing_NN1
 They_PNP
 were_VBD
-relaxing_VVG-AJ0
+relaxing_VVG
 in_PRP
 front_NN1
 of_PRF
@@ -28096,7 +28096,7 @@ one_CRD
 of_PRF
 them_PNP
 is_VBZ
-wading_VVG-NN1
+wading_VVG
 around_PRP
 in_PRP
 the_AT0
@@ -28193,7 +28193,7 @@ moorland_NN1
 lochan_NN1
 where_AVQ
 I_PNP
-cast_VVN
+cast_NN1
 once_AV0
 whilst_CJS
 passing_VVG
@@ -28308,7 +28308,7 @@ flag_NN1
 by_PRP
 a_AT0
 tiny_AJ0
-burn_VVI
+burn_NN1
 where_AVQ
 mountain_NN1
 everlasting_AJ0
@@ -28373,7 +28373,7 @@ t_ZZ0
 seen_VVN
 an_AT0
 artificial_AJ0
-fly_VVI
+fly_NN1
 for_PRP
 years_NN2
 We_PNP
@@ -28487,7 +28487,7 @@ to_TO0
 the_AT0
 most_AV0
 northerly_AJ0
-coal-mining_AJ0-NN1
+coal-mining_NN1
 town_NN1
 on_PRP
 mainland_NN1
@@ -28498,7 +28498,7 @@ mine_PNP
 a_AT0
 private_AJ0
 venture_NN1
-closed_VVD
+closed_VVN
 a_AT0
 few_DT0
 years_NN2
@@ -28640,7 +28640,7 @@ the_AT0
 lower_AJC
 river_NN1
 where_AVQ
-Rockpool_NP0-NN1
+Rockpool_NN1
 half_DT0
 a_AT0
 mile_NN1
@@ -28666,7 +28666,7 @@ In_PRP
 the_AT0
 right_NN1
 conditions_NN2
-Rockpool_NP0-NN1
+Rockpool_NN1
 can_VM0
 provide_VVI
 spectacular_AJ0
@@ -28690,7 +28690,7 @@ Marine_AJ0
 close_AJ0
 to_TO0
 Brora_NP0
-golf-course_NN1-AJ0
+golf-course_NN1
 Apart_AV0
 from_PRP
 good_AJ0
@@ -28922,7 +28922,7 @@ same_DT0
 finding_VVG
 where_AVQ
 they_PNP
-lie_VVI
+lie_VVB
 And_CJC
 the_AT0
 best_AJS
@@ -28967,7 +28967,7 @@ as_CJS
 Mr_NP0
 Brora_NP0
 has_VHZ
-retired_AJ0
+retired_VVD
 you_PNP
 might_VM0
 still_AV0
@@ -29050,7 +29050,7 @@ and_CJC
 an_AT0
 empty_AJ0
 basket_NN1
-Local_NN1-AJ0
+Local_AJ0
 knowledge_NN1
 is_VBZ
 worth_PRP
@@ -29091,7 +29091,7 @@ Rob_NP0
 ever_AV0
 hooked_VVN
 a_AT0
-fresh-run_AJ0-NN1
+fresh-run_AJ0
 12lb_NN0
 salmon_NN0
 from_PRP
@@ -29118,7 +29118,7 @@ rod_NN1
 much_DT0
 good_AJ0
 My_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 tale_NN1
 comes_VVZ
 from_PRP
@@ -29183,7 +29183,7 @@ to_TO0
 save_VVI
 a_AT0
 bad_AJ0
-fall_VVI
+fall_NN1
 dropped_VVN
 the_AT0
 rod_NN1
@@ -29275,7 +29275,7 @@ on_PRP
 a_AT0
 new_AJ0
 two-and-three-quarter-ounce_UNC
-trout-rod_NN1-AJ0
+trout-rod_NN1
 and_CJC
 had_VHD
 asked_VVD
@@ -29286,8 +29286,8 @@ to_TO0
 try_VVI
 it_PNP
 out_AVP
-Passing_VVG-NN1
-Bengie_NP0-NN1
+Passing_VVG
+Bengie_NN1
 Pool_NN1
 where_AVQ
 Brora_NP0
@@ -29323,7 +29323,7 @@ size_NN1
 Green_AJ0
 Highlander_NN1
 John_NP0
-cast_VVN
+cast_NN1
 out_AVP
 over_PRP
 the_AT0
@@ -29331,7 +29331,7 @@ stream_NN1
 At_PRP
 the_AT0
 eighth_ORD
-cast_VVN
+cast_NN1
 the_AT0
 salmon_NN0
 grabbed_VVD
@@ -29428,7 +29428,7 @@ Mother_NN1
 to_TO0
 have_VHB
 a_AT0
-cast_VVN
+cast_NN1
 or_CJC
 two_CRD
 rather_AV0
@@ -29494,7 +29494,7 @@ conditions_NN2
 she_PNP
 kept_VVD
 getting_VVG
-stuck_AJ0
+stuck_VVN
 on_PRP
 the_AT0
 bottom_NN1
@@ -29510,12 +29510,12 @@ or_CJC
 length_NN1
 of_PRF
 temper_NN1
-stamped_AJ0
+stamped_VVD
 down_AVP
 to_TO0
 free_AJ0
 the_AT0
-fly_VVI
+fly_NN1
 and_CJC
 he_PNP
 soon_AV0
@@ -29559,7 +29559,7 @@ hoping_VVG
 he_PNP
 would_VM0
 not_XX0
-notice_VVI
+notice_NN1
 and_CJC
 almost_AV0
 died_VVD
@@ -29606,7 +29606,7 @@ as_CJS
 Mother_NN1
 struggled_VVD
 and_CJC
-splashed_VVN-VVD
+splashed_VVN
 in_PRP
 the_AT0
 river_NN1
@@ -29617,7 +29617,7 @@ with_PRP
 one_CRD
 hand_NN1
 whilst_CJS
-struggling_VVG-AJ0
+struggling_VVG
 to_TO0
 remain_VVI
 decent_AJ0
@@ -29682,7 +29682,7 @@ whilst_CJS
 doing_VDG
 so_AV0
 Now_AV0
-dear_ITJ
+dear_NN1
 we_PNP
 do_VDB
 n't_XX0
@@ -29730,7 +29730,7 @@ in_PRP
 horror_NN1
 as_CJS
 the_AT0
-fly_VVI
+fly_NN1
 fell_VVD
 from_PRP
 its_DPS
@@ -29812,7 +29812,7 @@ excellence_NN1
 for_PRP
 that_CJT
 other_AJ0
-favourite_AJ0-NN1
+favourite_AJ0
 Scottish_AJ0
 pastime_NN1
 golf_NN1
@@ -29840,7 +29840,7 @@ half_DT0
 an_AT0
 hour_NN1
 's_POS
-drive_VVI
+drive_NN1
 south_NN1
 from_PRP
 Brora_NP0
@@ -29913,7 +29913,7 @@ cancelled_VVN
 he_PNP
 decided_VVD
 to_TO0
-drive_VVI
+drive_NN1
 down_AVP
 and_CJC
 collect_VVI
@@ -29934,7 +29934,7 @@ tributary_NN1
 of_PRF
 the_AT0
 River_NP0
-Tweed_NP0-NN1
+Tweed_NP0
 I_PNP
 was_VBD
 fishing_NN1
@@ -30013,7 +30013,7 @@ than_CJS
 when_CJS
 he_PNP
 was_VBD
-waist-deep_AJ0-NN1
+waist-deep_AJ0
 regardless_AV0
 of_PRF
 time_NN1
@@ -30052,7 +30052,7 @@ river_NN1
 adjacent_AJ0
 to_TO0
 a_AT0
-golf-course_NN1-AJ0
+golf-course_NN1
 avoiding_VVG
 the_AT0
 balls_NN2
@@ -30095,7 +30095,7 @@ was_VBD
 a_AT0
 wild_AJ0
 slice_NN1
-whistling_NN1-VVG
+whistling_VVG
 just_AV0
 past_NN1
 Mother_NN1
@@ -30113,7 +30113,7 @@ at_PRP
 her_DPS
 side_NN1
 and_CJC
-exasperated_AJ0
+exasperated_VVN
 flung_VVD
 his_DPS
 clubs_NN2
@@ -30238,9 +30238,9 @@ A_AT0
 particularly_AV0
 vicious_AJ0
 back-cast_NN1
-entangled_VVN-AJ0
+entangled_VVN
 her_DPS
-cast_VVN
+cast_NN1
 high_AJ0
 in_PRP
 the_AT0
@@ -30269,7 +30269,7 @@ was_VBD
 to_TO0
 get_VVI
 the_AT0
-cast_VVN
+cast_NN1
 down_AVP
 somehow_AV0
 Pondering_VVG
@@ -30321,7 +30321,7 @@ head_NN1
 next_ORD
 to_TO0
 the_AT0
-cast_VVN
+cast_NN1
 out_AVP
 of_PRF
 reach_VVI
@@ -30329,7 +30329,7 @@ In_PRP
 a_AT0
 final_AJ0
 ill-considered_AJ0
-act_VVI
+act_NN1
 of_PRF
 desperation_NN1
 she_PNP
@@ -30464,7 +30464,7 @@ on_PRP
 a_AT0
 Dunlop_NP0
 65_CRD
-golf-ball_NN1-AJ0
+golf-ball_NN1
 and_CJC
 it_PNP
 happened_VVD
@@ -30476,7 +30476,7 @@ where_AVQ
 I_PNP
 live_VVI
 in_PRP
-Caithness_NP0-NN1
+Caithness_NN1
 there_EX0
 is_VBZ
 a_AT0
@@ -30486,7 +30486,7 @@ ideal_AJ0
 for_PRP
 a_AT0
 quick_AJ0
-cast_VVN
+cast_NN1
 if_CJS
 time_NN1
 is_VBZ
@@ -30551,7 +30551,7 @@ eye_NN1
 Curious_AJ0
 I_PNP
 began_VVD
-scrabbling_VVG-NN1
+scrabbling_VVG
 about_PRP
 with_PRP
 my_DPS
@@ -30562,7 +30562,7 @@ what_DTQ
 it_PNP
 was_VBD
 A_AT0
-golf-ball_NN1-AJ0
+golf-ball_NN1
 Never_AV0
 one_CRD
 to_TO0
@@ -30652,7 +30652,7 @@ and_CJC
 I_PNP
 had_VHD
 the_AT0
-golf-ball_NN1-AJ0
+golf-ball_NN1
 firmly_AV0
 clutched_VVD
 in_PRP
@@ -30664,7 +30664,7 @@ I_PNP
 landed_VVD
 them_PNP
 both_AV0
-Staggering_VVG-AJ0
+Staggering_AJ0
 to_TO0
 my_DPS
 feet_NN2
@@ -30709,7 +30709,7 @@ to_TO0
 them_PNP
 about_PRP
 the_AT0
-golf-ball_NN1-AJ0
+golf-ball_NN1
 it_PNP
 only_AV0
 made_VVN
@@ -30728,11 +30728,11 @@ of_PRF
 Sutherland_NP0
 's_POS
 monstrous_AJ0
-French-ch\xc3\xa2teau_AJ0-NN1
+French-ch\xc3\xa2teau_NN1
 fantasy_NN1
 castle_NN1
 at_PRP
-Dunrobin_NP0-NN1
+Dunrobin_NN1
 is_VBZ
 the_AT0
 town_NN1
@@ -30785,15 +30785,15 @@ the_AT0
 origin_NN1
 of_PRF
 its_DPS
-present_AJ0-NN1
+present_AJ0
 name_NN1
 Sutherland_NP0
 the_AT0
-Viking_NN1-AJ0
+Viking_NN1
 South_NN1
-Land_NP0-NN1
+Land_NN1
 They_PNP
-integrated_AJ0
+integrated_VVN
 with_PRP
 the_AT0
 Picts_NN2
@@ -30829,7 +30829,7 @@ passing_VVG
 Integration_NN1
 was_VBD
 a_AT0
-Viking_NN1-AJ0
+Viking_NN1
 way_NN1
 of_PRF
 life_NN1
@@ -30907,7 +30907,7 @@ the_AT0
 head_NN1
 of_PRF
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 adversary_NN1
 and_CJC
 carry_VVI
@@ -31044,7 +31044,7 @@ Paisley_NP0
 one_CRD
 of_PRF
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 reasons_NN2
 for_PRP
 its_DPS
@@ -31163,7 +31163,7 @@ Taking_VVG
 two_CRD
 freshly_AV0
 caught_VVN
-Highland_NN1-NP0
+Highland_NN1
 sea-trout_NN0
 he_PNP
 placed_VVN
@@ -31195,7 +31195,7 @@ to_TO0
 the_AT0
 River_NP0
 Cart_NN1
-Learned_VVD
+Learned_AJ0
 letters_NN2
 both_AV0
 for_PRP
@@ -31247,7 +31247,7 @@ of_PRF
 the_AT0
 Outer_AJ0
 Hebrides_NP0
-lie_VVI
+lie_VVB
 three_CRD
 of_PRF
 the_AT0
@@ -31403,7 +31403,7 @@ spell_NN1
 the_AT0
 Outer_AJ0
 Hebrides_NP0
-cast_VVN
+cast_NN1
 over_PRP
 all_DT0
 who_PNQ
@@ -31421,7 +31421,7 @@ The_AT0
 Chinese_AJ0
 call_VVI
 it_PNP
-brainwashing_VVG-AJ0
+brainwashing_AJ0
 I_PNP
 call_VVI
 it_PNP
@@ -31471,8 +31471,8 @@ where_AVQ
 to_TO0
 go_VVI
 Orkney_NP0
-Caithness_NP0-NN1
-Ross-shire_NN1-AJ0
+Caithness_NN1
+Ross-shire_AJ0
 Sutherland_NP0
 or_CJC
 the_AT0
@@ -31537,7 +31537,7 @@ girls_NN2
 are_VBB
 like_PRP
 that_CJT
-Driving_VVG-AJ0
+Driving_VVG
 south_NN1
 from_PRP
 Lochmaddy_NP0
@@ -31611,7 +31611,7 @@ patchwork_NN1
 coastal_AJ0
 fields_NN2
 were_VBD
-centred_VVN-VVD
+centred_VVN
 by_PRP
 small_AJ0
 four-square-to-the-wind_AJ0
@@ -31634,7 +31634,7 @@ we_PNP
 passed_VVN
 Red-rust_AJ0
 tractors_NN2
-parked_VVN
+parked_VVD
 perched_VVN
 on_PRP
 downward-facing_AJ0
@@ -31666,7 +31666,7 @@ caravan_NN1
 close_AJ0
 to_TO0
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 town_NN1
 of_PRF
 Benbecula_NP0
@@ -31746,7 +31746,7 @@ headquarters_NN0
 of_PRF
 Comhairle_NP0
 nan_NN1
-Eilean_AJ0-NN1
+Eilean_NN1
 the_AT0
 Outer_AJ0
 Hebrides_NP0
@@ -31786,7 +31786,7 @@ shadowed_VVN
 our_DPS
 way_NN1
 curlew_NN1
-piped_VVN
+piped_VVD
 from_PRP
 spagnum_NN1
 tussocks_NN2
@@ -31822,12 +31822,12 @@ the_AT0
 magnificent_AJ0
 sweep_NN1
 of_PRF
-Valley_NN1-NP0
+Valley_NN1
 Strand_NP0
 guarded_VVN
 by_PRP
 deserted_AJ0
-Valley_NN1-NP0
+Valley_NN1
 Island_NP0
 Traigh_NP0
 Leathann_NP0
@@ -31841,15 +31841,15 @@ small_AJ0
 secret_AJ0
 coves_NN2
 at_PRP
-Scolpaig_NP0-NN1
-Raikinish_AJ0-NN1
+Scolpaig_NP0
+Raikinish_NN1
 and_CJC
 Hougharry_NP0
 near_PRP
 the_AT0
-Balranald_NN1-NP0
+Balranald_NN1
 Nature_NN1
-Reserve_AJ0
+Reserve_NN1
 home_NN1
 of_PRF
 rare_AJ0
@@ -31862,7 +31862,7 @@ Within_PRP
 this_DT0
 encircling_VVG
 road_NN1
-lie_VVI
+lie_VVB
 a_AT0
 series_NN0
 of_PRF
@@ -31872,11 +31872,11 @@ trout_NN0
 and_CJC
 sea-trout_NN0
 lochs_NN2
-Scadavay_NP0-NN1
+Scadavay_NP0
 with_PRP
 shores_NN2
 that_CJT
-meander_VVB-NN1
+meander_VVB
 round_AVP
 the_AT0
 moor_NN1
@@ -31928,7 +31928,7 @@ also_AV0
 lies_VVZ
 here_AV0
 Loch_NP0
-Skeltar_NP0-NN1
+Skeltar_NP0
 which_DTQ
 exists_VVZ
 under_PRP
@@ -31936,14 +31936,14 @@ the_AT0
 road_NN1
 past_NN1
 rocky_AJ0
-Eilean_AJ0-NN1
-Leiravay_NN1-NP0
+Eilean_NN1
+Leiravay_NN1
 to_TO0
 the_AT0
 sea_NN1
 in_PRP
 Loch_NP0
-nam_NN1-AJ0
+nam_NN1
 Madadh_NN1
 Until_PRP
 recently_AV0
@@ -31953,7 +31953,7 @@ farm_NN1
 inhibited_VVN
 fishing_NN1
 in_PRP
-Skeltar_NP0-NN1
+Skeltar_NP0
 but_CJC
 this_DT0
 enterprise_NN1
@@ -32014,12 +32014,12 @@ this_DT0
 road_NN1
 are_VBB
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 sea-trout_NN0
 waters_NN2
 Struban_NP0
-Dusary_NP0-NN1
-Trosavat_NP0-NN1
+Dusary_NN1
+Trosavat_NN1
 and_CJC
 Hosta_NN0
 But_CJC
@@ -32081,7 +32081,7 @@ over_PRP
 wet_AJ0
 moorlands_NN2
 round_AVP
-Scadavay_NP0-NN1
+Scadavay_NP0
 's_POS
 ragged_AJ0
 shores_NN2
@@ -32112,7 +32112,7 @@ in_PRP
 bringing_VVG
 with_PRP
 them_PNP
-hard-fighting_NN1-AJ0
+hard-fighting_AJ0
 sea-trout_NN0
 which_DTQ
 dash_NN1
@@ -32193,7 +32193,7 @@ chambers_NN2
 and_CJC
 standing_VVG
 stones_NN2
-lie_VVI
+lie_VVB
 scattered_VVN
 throughout_PRP
 the_AT0
@@ -32205,7 +32205,7 @@ Geireann_NP0
 between_PRP
 Beinn_NP0
 Dhubh_NP0
-Shollais_NP0-NN1
+Shollais_NN1
 and_CJC
 Crogary_NP0
 Hills_NP0
@@ -32213,7 +32213,7 @@ in_PRP
 the_AT0
 north_NN1
 is_VBZ
-Eilean_AJ0-NN1
+Eilean_NN1
 an_AT0
 Tighe_NN1
 where_AVQ
@@ -32291,7 +32291,7 @@ wild_AJ0
 brown_AJ0
 trout_NN0
 At_PRP
-Cleetraval_NP0-NN1
+Cleetraval_NN1
 in_PRP
 the_AT0
 west_NN1
@@ -32330,7 +32330,7 @@ ancient_AJ0
 grave_NN1
 and_CJC
 at_PRP
-Carinish_NN1-AJ0
+Carinish_AJ0
 before_PRP
 the_AT0
 causeway_NN1
@@ -32360,11 +32360,11 @@ the_AT0
 thirteenth_ORD
 century_NN1
 My_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 Benbecula_NP0
 loch_NN1
 is_VBZ
-Ba_NP0-NN1
+Ba_NP0
 Alasdair_NP0
 at_PRP
 the_AT0
@@ -32396,7 +32396,7 @@ about_PRP
 fifteen_CRD
 minutes_NN2
 easy_AJ0
-walk_VVI
+walk_NN1
 from_PRP
 the_AT0
 road_NN1
@@ -32412,9 +32412,9 @@ the_AT0
 tide_NN1
 is_VBZ
 right_NN1
-Linked_VVN-AJ0
+Linked_VVN
 to_TO0
-Ba_NP0-NN1
+Ba_NP0
 Alasdair_NP0
 by_PRP
 a_AT0
@@ -32485,7 +32485,7 @@ about_PRP
 two_CRD
 hours_NN2
 '_POS
-walk_VVI
+walk_NN1
 along_AVP
 a_AT0
 good_AJ0
@@ -32494,7 +32494,7 @@ from_PRP
 Market_NN1
 Stance_NN1
 past_NN1
-Rueval_NP0-NN1
+Rueval_NN1
 where_AVQ
 Charles_NP0
 Edward_NP0
@@ -32551,7 +32551,7 @@ after_PRP
 the_AT0
 disaster_NN1
 at_PRP
-Culloden_NP0-NN1
+Culloden_NN1
 in_PRP
 1746_CRD
 including_PRP
@@ -32634,7 +32634,7 @@ been_VBN
 washed_VVN
 ashore_AV0
 at_PRP
-Rossinish_NN1-AJ0
+Rossinish_NN1
 on_PRP
 Benbecula_NP0
 in_PRP
@@ -32678,7 +32678,7 @@ an_AT0
 old_AJ0
 sail_NN1
 was_VBD
-spread_NN1
+spread_VVN
 upon_PRP
 the_AT0
 bare_AJ0
@@ -32785,7 +32785,7 @@ to_TO0
 Loch_NP0
 Seaforth_NP0
 Loch_NP0
-Uskevagh_NP0-NN1
+Uskevagh_NP0
 on_PRP
 Benbecula_NP0
 landing_NN1
@@ -32867,7 +32867,7 @@ Lady_NP0
 Clanranald_NP0
 prepared_AJ0
 the_AT0
-disguise_VVI
+disguise_NN1
 Prince_NN1
 Charles_NP0
 was_VBD
@@ -32884,7 +32884,7 @@ Prince_NN1
 was_VBD
 brought_VVN
 to_TO0
-Rossinish_NN1-AJ0
+Rossinish_NN1
 and_CJC
 a_AT0
 boat_NN1
@@ -32967,7 +32967,7 @@ and_CJC
 Flora_NP0
 were_VBD
 at_PRP
-Uskevagh_NP0-NN1
+Uskevagh_NP0
 preparing_VVG
 for_PRP
 the_AT0
@@ -33189,7 +33189,7 @@ in_PRP
 the_AT0
 churchyard_NN1
 at_PRP
-Kilmuir_NP0-NN1
+Kilmuir_NN1
 near_PRP
 Duntulm_NP0
 Castle_NN1
@@ -33198,7 +33198,7 @@ a_AT0
 white_AJ0
 granite_NN1
 Iona_NP0
-cross_VVI
+cross_NN1
 and_CJC
 her_DPS
 winding_AJ0
@@ -33228,7 +33228,7 @@ from_PRP
 the_AT0
 village_NN1
 of_PRF
-Howbeg_NN1-NP0
+Howbeg_NP0
 on_PRP
 South_NN1
 Uist_NP0
@@ -33299,7 +33299,7 @@ turbulent_AJ0
 times_NN2
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Revolution_NN1
 quickly_AV0
 gained_VVN
@@ -33354,7 +33354,7 @@ father_NN1
 's_POS
 home_NN1
 at_PRP
-Howbeg_NN1-NP0
+Howbeg_NP0
 Before_PRP
 returning_VVG
 to_TO0
@@ -33386,7 +33386,7 @@ grave_NN1
 One_CRD
 of_PRF
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 problems_NN2
 facing_VVG
 anglers_NN2
@@ -33445,7 +33445,7 @@ our_DPS
 oldest_AJS
 son_NN1
 was_VBD
-entranced_VVN
+entranced_VVD
 by_PRP
 the_AT0
 islands_NN2
@@ -33493,7 +33493,7 @@ in_PRP
 one_CRD
 glorious_AJ0
 fell_VVD
-swoop_VVI
+swoop_NN1
 we_PNP
 had_VHD
 not_XX0
@@ -33507,7 +33507,7 @@ fishing_NN1
 locations_NN2
 but_CJC
 also_AV0
-assured_VVD
+assured_VVN
 board_NN1
 and_CJC
 lodging_VVG
@@ -33586,7 +33586,7 @@ and_CJC
 the_AT0
 hills_NN2
 of_PRF
-Barra_NP0-NN1
+Barra_NP0
 to_TO0
 the_AT0
 south_NN1
@@ -33659,7 +33659,7 @@ it_PNP
 is_VBZ
 possible_AJ0
 to_TO0
-walk_VVI
+walk_NN1
 out_AVP
 to_TO0
 the_AT0
@@ -33690,7 +33690,7 @@ visit_NN1
 Blair_NP0
 asked_VVD
 Graeme_NP0
-Longmuir_NP0-NN1
+Longmuir_NN1
 to_TO0
 be_VBI
 our_DPS
@@ -33699,7 +33699,7 @@ Graeme_NP0
 is_VBZ
 chaplain_NN1
 at_PRP
-Strathalmond_NP0-NN1
+Strathalmond_NP0
 School_NN1
 in_PRP
 Perthshire_NP0
@@ -33744,7 +33744,7 @@ bounded_VVN
 ahead_AV0
 across_PRP
 the_AT0
-shifting_AJ0-VVG
+shifting_AJ0
 sands_NN2
 Blair_NP0
 and_CJC
@@ -33880,7 +33880,7 @@ word_NN1
 best_AJS
 is_VBZ
 a_AT0
-relative_AJ0-NN1
+relative_AJ0
 term_NN1
 all_DT0
 the_AT0
@@ -33942,10 +33942,10 @@ rapidly_AV0
 and_CJC
 fight_VVI
 hard_AJ0
-Stilligarry_NN1-VVB
+Stilligarry_NN1
 is_VBZ
 my_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 machair_NN1
 loch_NN1
 a_AT0
@@ -33973,7 +33973,7 @@ a_AT0
 fishing_NN1
 picnic_NN1
 to_TO0
-Stilligarry_NN1-VVB
+Stilligarry_NN1
 Early_AJ0
 April_NP0
 in_PRP
@@ -34047,9 +34047,9 @@ member_NN1
 of_PRF
 Clan_NN1
 Sandison_NP0
-retired_AJ0
-hurt_VVI
-Left_AJ0-NN1
+retired_VVD
+hurt_VVN
+Left_AJ0
 alone_AJ0
 in_PRP
 solitary_AJ0
@@ -34058,7 +34058,7 @@ I_PNP
 could_VM0
 see_VVI
 them_PNP
-crouched_AJ0
+crouched_VVD
 behind_PRP
 the_AT0
 car_NN1
@@ -34083,7 +34083,7 @@ on_PRP
 more_AV0
 as_CJS
 an_AT0
-act_VVI
+act_NN1
 of_PRF
 defiance_NN1
 than_CJS
@@ -34137,7 +34137,7 @@ determined_VVN
 to_TO0
 land_NN1
 a_AT0
-fly_VVI
+fly_NN1
 over_PRP
 that_CJT
 trout_NN0
@@ -34152,14 +34152,14 @@ of_PRF
 the_AT0
 freezing_AJ0
 water_NN1
-soaked_AJ0
+soaked_VVN
 to_TO0
 the_AT0
 knees_NN2
 The_AT0
 moment_NN1
 my_DPS
-fly_VVI
+fly_NN1
 touched_VVD
 the_AT0
 surface_NN1
@@ -34241,7 +34241,7 @@ accommodate_VVI
 whaling_NN1
 crews_NN2
 returning_VVG
-thirsting_VVG-NN1
+thirsting_NN1
 from_PRP
 the_AT0
 South_NN1
@@ -34358,7 +34358,7 @@ historic_AJ0
 water_NN1
 of_PRF
 life_NN1
-Salvage_VVB-NN1
+Salvage_NN1
 work_NN1
 is_VBZ
 expected_VVN
@@ -34450,7 +34450,7 @@ length_NN1
 none_PNI
 of_PRF
 which_DTQ
-drop_VVI
+drop_NN1
 below_AV0
 2,000_CRD
 feet_NN2
@@ -34481,7 +34481,7 @@ long_AJ0
 grey_AJ0
 shoulder_NN1
 of_PRF
-Canisp_NP0-NN1
+Canisp_NP0
 2,700_CRD
 feet_NN2
 south_NN1
@@ -34492,7 +34492,7 @@ an_AT0
 easy_AJ0
 three-and-a-half_CRD
 hour_NN1
-walk_VVI
+walk_NN1
 to_TO0
 the_AT0
 summit_NN1
@@ -34521,7 +34521,7 @@ shores_NN2
 of_PRF
 little_AJ0
 Loch_NP0
-Awe_NP0
+Awe_NN1
 our_DPS
 two_CRD
 dogs_NN2
@@ -34538,10 +34538,10 @@ deteriorated_VVD
 and_CJC
 after_PRP
 crunching_VVG
-knee-deep_AV0-AJ0
+knee-deep_AV0
 through_PRP
 frozen_AJ0
-drifts_NN2-VVZ
+drifts_NN2
 for_PRP
 half_DT0
 an_AT0
@@ -34568,7 +34568,7 @@ we_PNP
 reached_VVD
 the_AT0
 car_NN1
-Canisp_NP0-NN1
+Canisp_NP0
 had_VHD
 disappeared_VVD
 amidst_PRP
@@ -34579,7 +34579,7 @@ from_PRP
 the_AT0
 summit_NN1
 of_PRF
-Canisp_NP0-NN1
+Canisp_NP0
 on_PRP
 a_AT0
 clear_AJ0
@@ -34603,19 +34603,19 @@ south_NN1
 Inverpolly_AV0
 National_AJ0
 Nature_NN1
-Reserve_AJ0
+Reserve_NN1
 crowded_AJ0
 with_PRP
 dramatic_AJ0
 mountains_NN2
-Suilven_NP0-NN1
+Suilven_NP0
 Stac_NP0
 Polly_NP0
 Cul_NP0
-Mor_NP0-NN1
+Mor_NP0
 and_CJC
 Cul_NP0
-Beag_NP0-NN1
+Beag_NN1
 and_CJC
 in_PRP
 the_AT0
@@ -34624,7 +34624,7 @@ beyond_PRP
 the_AT0
 crags_NN2
 of_PRF
-Coigach_NP0-NN1
+Coigach_NP0
 the_AT0
 peaks_NN2
 and_CJC
@@ -34648,7 +34648,7 @@ the_AT0
 horizon_NN1
 Quinaig_NP0
 Arkle_NP0
-Foinaven_NP0-NN1
+Foinaven_NP0
 and_CJC
 Ben_NP0
 Stac_NP0
@@ -34721,7 +34721,7 @@ the_AT0
 praises_NN2
 of_PRF
 Cul_NP0
-Mor_NP0-NN1
+Mor_NP0
 saying_VVG
 And_CJC
 God_NP0
@@ -34731,8 +34731,8 @@ when_CJS
 he_PNP
 wrote_VVD
 Cul_NP0
-Mor_NP0-NN1
-Suilven_NP0-NN1
+Mor_NP0
+Suilven_NP0
 that_CJT
 finest_AJS
 of_PRF
@@ -34753,9 +34753,9 @@ in_PRP
 space_NN1
 The_AT0
 name_NN1
-Suilven_NP0-NN1
+Suilven_NP0
 is_VBZ
-Norse_NN1-NP0
+Norse_NN1
 in_PRP
 origin_NN1
 As_CJS
@@ -34783,10 +34783,10 @@ coast_NN1
 of_PRF
 their_DPS
 South_NN1
-Land_NP0-NN1
+Land_NN1
 they_PNP
 saw_VVD
-Suilven_NP0-NN1
+Suilven_NP0
 as_CJS
 a_AT0
 single_AJ0
@@ -34805,17 +34805,17 @@ This_DT0
 pillar_NN1
 is_VBZ
 Caisteal_AJ0
-Liath_NN1-NP0
+Liath_NN1
 the_AT0
 grey_AJ0
 castle_NN1
 highest_AJS
 point_NN1
 on_PRP
-Suilven_NP0-NN1
+Suilven_NP0
 and_CJC
 although_CJS
-Suilven_NP0-NN1
+Suilven_NP0
 is_VBZ
 only_AV0
 a_AT0
@@ -34834,7 +34834,7 @@ it_PNP
 appear_VVI
 much_DT0
 higher_AJC
-rearing_VVG-AJ0
+rearing_VVG
 majestically_AV0
 from_PRP
 the_AT0
@@ -35019,7 +35019,7 @@ Lochinver_NP0
 up_AVP
 the_AT0
 River_NP0
-Inver_NN1-NP0
+Inver_NP0
 into_PRP
 the_AT0
 six-mile-long_AJ0
@@ -35032,12 +35032,12 @@ their_DPS
 way_NN1
 through_PRP
 tiny_AJ0
-Lonnan_AJ0-NN1
+Lonnan_AJ0
 Burn_NN1
 to_TO0
-island-clad_AJ0-NN1
+island-clad_NN1
 Loch_NP0
-Awe_NP0
+Awe_NN1
 Many_DT0
 a_AT0
 trout_NN0
@@ -35049,7 +35049,7 @@ red-letter_AJ0
 day_NN1
 on_PRP
 Loch_NP0
-Awe_NP0
+Awe_NN1
 suddenly_AV0
 encountering_VVG
 a_AT0
@@ -35120,7 +35120,7 @@ where_AVQ
 the_AT0
 big_AJ0
 fish_NN0
-lie_VVI
+lie_VVB
 is_VBZ
 part_NN1
 of_PRF
@@ -35134,14 +35134,14 @@ area_NN1
 Tiny_AJ0
 waters_NN2
 2,000_CRD
-fret_VVI
+fret_VVB
 up_AVP
 can_VM0
 produce_VVI
 trout_NN0
 of_PRF
 3lb_NN0
-Drag_VVB-NN1
+Drag_NN1
 on_PRP
 the_AT0
 climbing_VVG
@@ -35171,7 +35171,7 @@ most_AV0
 spectacular_AJ0
 waterfalls_NN2
 Eas_NP0
-Coul_VVB-NN1
+Coul_NN1
 the_AT0
 maiden_AJ0
 's_POS
@@ -35238,12 +35238,12 @@ any_DT0
 other_AJ0
 sort_NN1
 of_PRF
--ologist_NN1-AJ0
+-ologist_NN1
 then_AV0
 Inchnadamph_NP0
 National_AJ0
 Nature_NN1
-Reserve_AJ0
+Reserve_NN1
 will_VM0
 please_AV0
 and_CJC
@@ -35278,7 +35278,7 @@ rare_AJ0
 plants_NN2
 Don_NP0
 's_POS
-twitch_VVI
+twitch_NN1
 grass_NN1
 named_VVN
 after_PRP
@@ -35286,7 +35286,7 @@ George_NP0
 Don_NP0
 Forfar_NP0
 botanist_NN1
-hakweed_VVB-NN1
+hakweed_VVB
 stone_NN1
 crop_NN1
 whortle-leaved_AJ0
@@ -35294,7 +35294,7 @@ willow_NN1
 purple_AJ0
 and_CJC
 mountain_NN1
-saxifrage_NN1-VVB
+saxifrage_NN1
 Norwegian_AJ0
 sandwort_NN1
 alpine_AJ0
@@ -35337,17 +35337,17 @@ giants_NN2
 ravine_NN1
 Noc_NP0
 nan_NN1
-Uamh_NN1-NP0
+Uamh_NP0
 the_AT0
 hill_NN1
 of_PRF
 the_AT0
 caves_NN2
-Allt_NN1-NP0
+Allt_NP0
 nan_NN1
-Uamh_NN1-NP0
+Uamh_NP0
 the_AT0
-burn_VVI
+burn_NN1
 of_PRF
 the_AT0
 caves_NN2
@@ -35372,7 +35372,7 @@ abandoned_VVN
 our_DPS
 assault_NN1
 on_PRP
-Canisp_NP0-NN1
+Canisp_NP0
 we_PNP
 visited_VVD
 Traligill_NP0
@@ -35412,7 +35412,7 @@ families_NN2
 One_CRD
 of_PRF
 our_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 Assynt_NP0
 lochs_NN2
 lies_VVZ
@@ -35446,7 +35446,7 @@ limestone_NN1
 loughs_NN2
 such_DT0
 as_CJS
-Neigh_NP0-NN1
+Neigh_NP0
 and_CJC
 Mask_NN1
 These_DT0
@@ -35477,7 +35477,7 @@ inhabit_VVB
 Loch_NP0
 na_TO0
 Moal_NP0
-Choire_NP0-NN1
+Choire_NP0
 long_AJ0
 since_CJS
 fished_VVD
@@ -35566,7 +35566,7 @@ Assynt_NP0
 Neil_NP0
 Macleod_NP0
 eleventh_ORD
-chief_AJ0-NN1
+chief_NN1
 of_PRF
 the_AT0
 Assynt_NP0
@@ -35577,7 +35577,7 @@ the_AT0
 fugitive_NN1
 refuge_NN1
 at_PRP
-Ardvreck_NP0-NN1
+Ardvreck_NP0
 his_DPS
 castle_NN1
 in_PRP
@@ -35620,7 +35620,7 @@ the_AT0
 age-old_AJ0
 tradition_NN1
 of_PRF
-Highland_NN1-NP0
+Highland_NN1
 hospitality_NN1
 brought_VVN
 him_PNP
@@ -35663,7 +35663,7 @@ where_AVQ
 he_PNP
 was_VBD
 tried_VVD
-convicted_VVN-AJ0
+convicted_VVN
 and_CJC
 hanged_VVN
 Various_AJ0
@@ -35752,7 +35752,7 @@ Montrose_NP0
 travelling_VVG
 south_NN1
 from_PRP
-Caithness_NP0-NN1
+Caithness_NN1
 over_PRP
 the_AT0
 Ord_NN1
@@ -35766,7 +35766,7 @@ Lairg_NP0
 then_AV0
 up_AVP
 Strath_NP0
-Oykle_NP0-NN1
+Oykle_NN1
 At_PRP
 the_AT0
 watershed_NN1
@@ -35810,7 +35810,7 @@ ever_AV0
 since_CJS
 When_CJS
 the_AT0
-slings_NN2-VVZ
+slings_NN2
 and_CJC
 arrows_NN2
 of_PRF
@@ -35834,9 +35834,9 @@ weekend_NN1
 and_CJC
 always_AV0
 return_NN1
-refreshed_VVD
+refreshed_AJ0
 perspective_NN1
-regained_VVD
+regained_VVN
 However_AV0
 that_CJT
 day_NN1
@@ -35875,7 +35875,7 @@ converted_VVN
 and_CJC
 refurbished_VVN
 by_PRP
-Highland_NN1-NP0
+Highland_NN1
 Regional_AJ0
 Council_NN1
 into_PRP
@@ -36005,7 +36005,7 @@ until_CJS
 the_AT0
 senior_AJ0
 master_NN1
-present_AJ0-NN1
+present_AJ0
 Bill_NP0
 Oliver_NP0
 the_AT0
@@ -36062,7 +36062,7 @@ I_PNP
 even_AV0
 managed_VVD
 to_TO0
-drag_VVI
+drag_NN1
 some_DT0
 of_PRF
 the_AT0
@@ -36173,7 +36173,7 @@ boundary_NN1
 between_PRP
 Sutherland_NP0
 and_CJC
-Ross-shire_NN1-AJ0
+Ross-shire_AJ0
 and_CJC
 in_PRP
 days_NN2
@@ -36205,9 +36205,9 @@ matter_NN1
 is_VBZ
 commemorated_VVN
 at_PRP
-Altnacealgach_NN1-NP0
+Altnacealgach_NN1
 the_AT0
-burn_VVI
+burn_NN1
 of_PRF
 the_AT0
 cheat_VVI
@@ -36219,12 +36219,12 @@ from_PRP
 Elphin_NP0
 Two_CRD
 senior_AJ0
-Ross-shire_NN1-AJ0
+Ross-shire_AJ0
 men_NN2
 were_VBD
 ordered_VVD
 to_TO0
-walk_VVI
+walk_NN1
 the_AT0
 boundary_NN1
 as_CJS
@@ -36264,7 +36264,7 @@ had_VHD
 never_AV0
 once_AV0
 left_VVN
-Ross-shire_NN1-AJ0
+Ross-shire_AJ0
 soil_NN1
 Nor_CJC
 had_VHD
@@ -36280,7 +36280,7 @@ shoes_NN2
 with_PRP
 earth_NN1
 from_PRP
-Balnagowan_NP0-NN1
+Balnagowan_NN1
 in_PRP
 Easter_NN1
 Ross_NP0
@@ -36297,7 +36297,7 @@ feet_NN2
 had_VHD
 never_AV0
 left_VVN
-Ross-shire_NN1-AJ0
+Ross-shire_AJ0
 soil_NN1
 This_DT0
 part_NN1
@@ -36313,7 +36313,7 @@ and_CJC
 stories_NN2
 and_CJC
 the_AT0
-Altnacealgach_NN1-NP0
+Altnacealgach_NN1
 Hotel_NN1
 by_PRP
 the_AT0
@@ -36413,7 +36413,7 @@ hearing_VVG
 a_AT0
 group_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 anglers_NN2
 complaining_VVG
 bitterly_AV0
@@ -36440,7 +36440,7 @@ had_VHD
 n't_XX0
 seen_VVN
 artificial_AJ0
-fly_VVI
+fly_NN1
 or_CJC
 an_AT0
 angler_NN1
@@ -36451,7 +36451,7 @@ surprisingly_AV0
 they_PNP
 returned_VVD
 fishless_AJ0
-exhausted_VVN-AJ0
+exhausted_VVN
 and_CJC
 furious_AJ0
 at_PRP
@@ -36483,7 +36483,7 @@ bemoaning_VVG
 their_DPS
 ten-mile_AJ0
 fishless_AJ0
-walk_VVI
+walk_NN1
 A_AT0
 local_AJ0
 standing_VVG
@@ -36539,7 +36539,7 @@ to_TO0
 Ullapool_NP0
 are_VBB
 the_AT0
-Knocknan_AJ0-NN1
+Knocknan_NN1
 cliffs_NN2
 another_DT0
 famous_AJ0
@@ -36592,8 +36592,8 @@ stark_AJ0
 Assynt_NP0
 peaks_NN2
 Quinag_NP0
-Canisp_NP0-NN1
-Suilven_NP0-NN1
+Canisp_NP0
+Suilven_NP0
 and_CJC
 Ben_NP0
 More_AV0
@@ -36660,7 +36660,7 @@ Horne_NP0
 colleagues_NN2
 of_PRF
 Archibald_NP0
-Geikie_NP0-NN1
+Geikie_NN1
 of_PRF
 the_AT0
 Geological_AJ0
@@ -36735,13 +36735,13 @@ in_PRP
 the_AT0
 north_NN1
 the_AT0
-Birchbank_NN1-NP0
+Birchbank_NP0
 Activity_NN1
 Holiday_NN1
 Lodge_NN1
 at_PRP
 Elphin_NP0
-Birchbank_NN1-NP0
+Birchbank_NP0
 caters_VVZ
 for_PRP
 a_AT0
@@ -36757,7 +36757,7 @@ so_AV0
 individual_AJ0
 attention_NN1
 is_VBZ
-assured_VVD
+assured_VVN
 and_CJC
 just_AV0
 about_PRP
@@ -36767,7 +36767,7 @@ activity_NN1
 is_VBZ
 provided_VVN
 including_PRP
-cross-country_AJ0-NN1
+cross-country_AJ0
 skiing_NN1
 Tom_NP0
 even_AV0
@@ -36798,7 +36798,7 @@ rest_NN1
 area_NN1
 Marvellous_AJ0
 for_PRP
-relaxing_VVG-AJ0
+relaxing_VVG
 aching_AJ0
 muscles_NN2
 after_PRP
@@ -36812,7 +36812,7 @@ Where_AVQ
 to_TO0
 acquire_VVI
 the_AT0
-ache_VVI
+ache_NN1
 is_VBZ
 never_AV0
 hard_AJ0
@@ -36860,7 +36860,7 @@ had_VHD
 a_AT0
 climb_VVI
 and_CJC
-regret_VVI
+regret_NN1
 all_DT0
 the_AT0
 long_AJ0
@@ -36915,7 +36915,7 @@ dog_NN1
 They_PNP
 both_AV0
 went_VVD
-galloping_VVG-AJ0
+galloping_AJ0
 about_PRP
 the_AT0
 pinnacles_NN2
@@ -36950,16 +36950,16 @@ to_TO0
 the_AT0
 top_NN1
 of_PRF
-Suilven_NP0-NN1
+Suilven_NP0
 and_CJC
 the_AT0
-walk_VVI
+walk_NN1
 out_AVP
 passes_VVZ
 one_CRD
 of_PRF
 our_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 fishing_NN1
 locations_NN2
 Fionn_NP0
@@ -36967,14 +36967,14 @@ Loch_NP0
 which_DTQ
 lies_VVZ
 below_AV0
-Suilven_NP0-NN1
+Suilven_NP0
 's_POS
 towering_AJ0
 heights_NN2
 The_AT0
 path_NN1
 from_PRP
-Inverkirkaig_NP0-NN1
+Inverkirkaig_NP0
 is_VBZ
 a_AT0
 delight_NN1
@@ -36991,10 +36991,10 @@ pools_NN2
 where_AVQ
 silver_NN1
 salmon_NN0
-lie_VVI
+lie_VVB
 by_PRP
 the_AT0
-roaring_VVG
+roaring_AJ0
 splendour_NN1
 of_PRF
 sixty-foot_AJ0
@@ -37051,7 +37051,7 @@ of_PRF
 more_AV0
 traditionally_AV0
 sized_AJ0
-Highland_NN1-NP0
+Highland_NN1
 trout_NN0
 averaging_VVG
 8-I2oz_NP0
@@ -37072,7 +37072,7 @@ exception_NN1
 The_AT0
 Sutherland_NP0
 and_CJC
-Ross-shire_NN1-AJ0
+Ross-shire_AJ0
 county_NN1
 boundary_NN1
 runs_VVZ
@@ -37101,7 +37101,7 @@ hundreds_CRD
 of_PRF
 square_NN1
 miles_NN2
-gathering_NN1
+gathering_VVG
 them_PNP
 from_PRP
 as_CJS
@@ -37111,7 +37111,7 @@ as_CJS
 Loch_NP0
 Borralan_NP0
 at_PRP
-Atnacealgach_NP0-NN1
+Atnacealgach_NP0
 Urigill_NP0
 Cama_NP0
 the_AT0
@@ -37120,10 +37120,10 @@ loch_NN1
 and_CJC
 long_AJ0
 windswept_AJ0
-Veyatie_NP0-NN1
+Veyatie_NP0
 below_AV0
 Cul_NP0
-Mor_NP0-NN1
+Mor_NP0
 Fionn_NP0
 receives_VVZ
 them_PNP
@@ -37135,10 +37135,10 @@ over_PRP
 Kirkaig_NP0
 Falls_NN2
 to_TO0
-Inver_NN1-NP0
+Inver_NP0
 Bay_NN1
 The_AT0
-principal_AJ0-NN1
+principal_AJ0
 town_NN1
 in_PRP
 this_DT0
@@ -37225,7 +37225,7 @@ of_PRF
 the_AT0
 country_NN1
 in_PRP
-Caithness_NP0-NN1
+Caithness_NN1
 where_AVQ
 the_AT0
 society_NN1
@@ -37295,10 +37295,10 @@ Saturday_NP0
 afternoon_NN1
 Russian_AJ0
 Polish_AJ0
-French_AJ0-NN1
+French_AJ0
 German_AJ0
 Spanish_AJ0
-English_AJ0-NN1
+English_AJ0
 and_CJC
 of_PRF
 course_NN1
@@ -37319,12 +37319,12 @@ by_PRP
 the_AT0
 mountains_NN2
 of_PRF
-Coigach_NP0-NN1
+Coigach_NP0
 the_AT0
 fifth_ORD
 part_NN1
 of_PRF
-Ross-shire_NN1-AJ0
+Ross-shire_AJ0
 and_CJC
 the_AT0
 busy_AJ0
@@ -37336,13 +37336,13 @@ the_AT0
 escape_VVI
 from_PRP
 the_AT0
-rat-race_NN1-AJ0
+rat-race_NN1
 stakes_NN2
 being_VBG
 popular_AJ0
 with_PRP
 our_DPS
-English_AJ0-NN1
+English_AJ0
 cousins_NN2
 The_AT0
 population_NN1
@@ -37350,7 +37350,7 @@ is_VBZ
 very_AV0
 cosmopolitan_AJ0
 most_AV0
-un-Highland_NN1-NP0
+un-Highland_NN1
 and_CJC
 there_EX0
 is_VBZ
@@ -37387,7 +37387,7 @@ your_DPS
 first_ORD
 well_AV0
 considered_VVN
-cast_VVN
+cast_NN1
 A_AT0
 series_NN0
 of_PRF
@@ -37402,7 +37402,7 @@ road_NN1
 that_CJT
 leads_VVZ
 from_PRP
-Drumrunie_NP0-NN1
+Drumrunie_NP0
 out_AVP
 to_TO0
 the_AT0
@@ -37412,7 +37412,7 @@ Lurgainn_NP0
 Bad_AJ0
 a'Gahil_NN1
 and_CJC
-Oscaig_NP0-NN1
+Oscaig_NN1
 The_AT0
 first_ORD
 two_CRD
@@ -37421,7 +37421,7 @@ good_AJ0
 brown_AJ0
 trout_NN0
 waters_NN2
-Oscaig_NP0-NN1
+Oscaig_NN1
 owned_VVN
 by_PRP
 the_AT0
@@ -37456,7 +37456,7 @@ for_PRP
 where_AVQ
 the_AT0
 fish_NN0
-lie_VVI
+lie_VVB
 so_AV0
 be_VBI
 prepared_AJ0
@@ -37469,9 +37469,9 @@ and_CJC
 a_AT0
 lot_NN1
 of_PRF
-finger-crossing_NN1-AJ0
+finger-crossing_NN1
 on_PRP
-Oscaig_NP0-NN1
+Oscaig_NN1
 But_CJC
 if_CJS
 sea-trout_NN0
@@ -37481,13 +37481,13 @@ co-operate_VVI
 follow_VVI
 the_AT0
 outlet_NN1
-burn_VVI
+burn_NN1
 from_PRP
 Loch_NP0
-Oscaig_NP0-NN1
+Oscaig_NN1
 the_AT0
 river_NN1
-Garvie_NP0-NN1
+Garvie_NN1
 and_CJC
 you_PNP
 will_VM0
@@ -37522,7 +37522,7 @@ else_AV0
 there_EX0
 fear_NN1
 not_XX0
-walk_VVI
+walk_NN1
 over_PRP
 the_AT0
 headland_NN1

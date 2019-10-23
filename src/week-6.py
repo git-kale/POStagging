@@ -3,22 +3,28 @@ from natsort import natsorted
 import xml.etree.ElementTree as ET
 from multiprocessing import Pool
 from time import time
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
 
 PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 tags = {}
 
 i = 0
-N = 89
+N = 58
 confusion_matrix = [ [ 0 for i in range(N) ] for j in range(N) ]
+
+taglist = []
 ll = [line.rstrip('\n') for line in open(PROJECT_DIR+"/generated_files/tagfreq.txt",'r+' ,encoding='utf-8')]
 for line in ll:
     line = line.rsplit(":",1)
+    taglist.append(line[0])
     tags[str(line[0])[1:-1]] = str(i)
     i+=1
 
 
-i = 0
+
 l = [line.rstrip('\n') for line in open(PROJECT_DIR+"/generated_files/outfreq.txt",'r+' ,encoding='utf-8')]
 
 
@@ -65,8 +71,14 @@ def process_file(file_name):
         word = item.text
         word = str(bytes(word,'utf-8'))[2:-1]
         pos_tag = item.attrib['c5']
+        if "-" in pos_tag:
+            pos_tag = pos_tag.split("-")
         gussed_tag = wordtag[(word.strip())]
-        confusion_matrix[int(tags[pos_tag])][int(tags[gussed_tag])] += 1
+        if(type(pos_tag)!=type("this")):
+            for tag in pos_tag:
+                confusion_matrix[int(tags[tag])][int(tags[gussed_tag])] += 1
+        else:
+            confusion_matrix[int(tags[pos_tag])][int(tags[gussed_tag])] += 1
     
     
 
@@ -85,6 +97,23 @@ for fi in all_filenames:
     process_file(fi)
 time_taken = time() - start
 
+# def print_confusion_matrix(confusion_matrix, class_names, figsize = (10,7), fontsize=14):
+#     df_cm = pd.DataFrame(
+#         confusion_matrix, index=class_names, columns=class_names, 
+#     )
+#     fig = plt.figure(figsize=figsize)
+#     try:
+#         heatmap = sns.heatmap(df_cm, annot=True, fmt="d")
+#     except ValueError:
+#         raise ValueError("Confusion matrix values must be integers.")
+#     heatmap.yaxis.set_ticklabels(heatmap.yaxis.get_ticklabels(), rotation=0, ha='right', fontsize=fontsize)
+#     heatmap.xaxis.set_ticklabels(heatmap.xaxis.get_ticklabels(), rotation=45, ha='right', fontsize=fontsize)
+#     plt.ylabel('True label')
+#     plt.xlabel('Predicted label')
+    
+# print_confusion_matrix(confusion_matrix,taglist)
+# #plt.show()
+
 for i in range(0,N):
     sum = 0
     for j in range(0,N):
@@ -93,7 +122,7 @@ for i in range(0,N):
         for j in range(0,N):
             confusion_matrix[i][j] = confusion_matrix[i][j]/sum
 
-print(confusion_matrix)
-
-
+#plt.imshow(confusion_matrix, cmap='hot', interpolation='nearest')
+sns.heatmap(confusion_matrix)
+plt.show()
 

@@ -104,7 +104,7 @@ two_CRD
 or_CJC
 more_AV0
 centuries_NN2
-Listening_VVG-NN1
+Listening_VVG
 to_TO0
 all_DT0
 these_DT0
@@ -150,7 +150,7 @@ miserable_AJ0
 they_PNP
 do_VDB
 not_XX0
-feel_VVI
+feel_VVB
 in_PRP
 their_DPS
 real_AJ0
@@ -251,11 +251,11 @@ They_PNP
 need_VVB
 not_XX0
 to_TO0
-feel_VVI
+feel_VVB
 old_AJ0
 but_CJC
 to_TO0
-feel_VVI
+feel_VVB
 themselves_PNX
 We_PNP
 have_VHB
@@ -310,7 +310,7 @@ by_PRP
 a_AT0
 fortunate_AJ0
 minority_NN1
-average_AJ0-NN1
+average_AJ0
 life_NN1
 expectancy_NN1
 was_VBD
@@ -362,7 +362,7 @@ once_AV0
 tiny_AJ0
 fringe_NN1
 of_PRF
-retired_AJ0
+retired_VVD
 men_NN2
 and_CJC
 women_NN2
@@ -540,7 +540,7 @@ some_DT0
 fallacies_NN2
 about_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 They_PNP
 bring_VVI
 us_PNP
@@ -632,7 +632,7 @@ per_UNC
 cent_UNC
 are_VBB
 seriously_AV0
-incapacitated_VVN-AJ0
+incapacitated_VVN
 or_CJC
 housebound_AJ0
 5_CRD
@@ -718,7 +718,7 @@ continue_VVI
 The_AT0
 most_AV0
 recent_AJ0
-Scandinavian_AJ0-NN1
+Scandinavian_NN1
 and_CJC
 American_AJ0
 research_NN1
@@ -734,8 +734,8 @@ is_VBZ
 most_AV0
 likely_AJ0
 to_TO0
-lie_VVI
-compressed_AJ0
+lie_VVB
+compressed_VVN
 into_PRP
 the_AT0
 last_ORD
@@ -778,7 +778,7 @@ incomes_NN2
 and_CJC
 the_AT0
 recent_AJ0
-spread_NN1
+spread_VVN
 of_PRF
 advertised_VVN
 facilities_NN2
@@ -804,7 +804,7 @@ a_AT0
 third_ORD
 of_PRF
 the_AT0
-retired_AJ0
+retired_VVD
 today_AV0
 live_VVI
 at_PRP
@@ -879,7 +879,7 @@ one_CRD
 reason_NN1
 for_PRP
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 generosity_NN1
 of_PRF
 earlier_AJC
@@ -1217,7 +1217,7 @@ Behind_PRP
 it_PNP
 seems_VVZ
 to_TO0
-lie_VVI
+lie_VVB
 a_AT0
 powerful_AJ0
 public_AJ0
@@ -1332,7 +1332,7 @@ the_AT0
 poor_AJ0
 dears_NN2
 in_PRP
-nursing_AJ0-NN1
+nursing_NN1
 homes_NN2
 not_XX0
 to_TO0
@@ -1369,7 +1369,7 @@ discarding_VVG
 follows_VVZ
 The_AT0
 active_AJ0
-next-door_AJ0-NN1
+next-door_AJ0
 neighbour_NN1
 the_AT0
 national_AJ0
@@ -1377,7 +1377,7 @@ political_AJ0
 leader_NN1
 artist_NN1
 or_CJC
-intellectual_AJ0-NN1
+intellectual_AJ0
 the_AT0
 well-to-do_AJ0
 couple_NN1
@@ -1420,7 +1420,7 @@ described_VVN
 here_AV0
 give_VVI
 the_AT0
-lie_VVI
+lie_VVB
 to_TO0
 such_DT0
 false_AJ0
@@ -1437,7 +1437,7 @@ the_AT0
 shadow_NN1
 which_DTQ
 they_PNP
-cast_VVN
+cast_NN1
 particularly_AV0
 on_PRP
 older_AJC
@@ -1573,7 +1573,7 @@ also_AV0
 because_CJS
 their_DPS
 own_DT0
-specialist_NN1-AJ0
+specialist_NN1
 interests_NN2
 have_VHB
 led_VVD
@@ -1614,7 +1614,7 @@ than_CJS
 looking_VVG
 at_PRP
 their_DPS
-present_AJ0-NN1
+present_AJ0
 lives_NN2
 as_CJS
 a_AT0
@@ -1726,7 +1726,7 @@ even_AV0
 then_AV0
 the_AT0
 East_NN1
-End_NP0
+End_NN1
 of_PRF
 London_NP0
 could_VM0
@@ -1827,7 +1827,7 @@ the_AT0
 past_NN1
 than_CJS
 the_AT0
-present_AJ0-NN1
+present_AJ0
 so_AV0
 they_PNP
 only_AV0
@@ -1853,7 +1853,7 @@ a_AT0
 help_VVI
 to_TO0
 the_AT0
-present_AJ0-NN1
+present_AJ0
 lives_NN2
 of_PRF
 those_DT0
@@ -1889,7 +1889,7 @@ history_NN1
 interviews_NN2
 were_VBD
 typically_AV0
-truncated_VVN-AJ0
+truncated_VVN
 Sociologists_NN2
 chopped_VVN
 off_AVP
@@ -2305,7 +2305,7 @@ do_VDB
 slowly_AV0
 cumulate_VVI
 on_PRP
-average_AJ0-NN1
+average_AJ0
 with_PRP
 increasing_AJ0
 years_NN2
@@ -2336,7 +2336,7 @@ that_CJT
 life_NN1
 itself_PNX
 was_VBD
-ebbing_AJ0-NN1
+ebbing_NN1
 away_AV0
 This_DT0
 was_VBD
@@ -2353,7 +2353,7 @@ Henry_NP0
 's_POS
 influential_AJ0
 book_NN1
-Growing_VVG-AJ0
+Growing_VVG
 Old_AJ0
 1961_CRD
 But_CJC
@@ -2573,7 +2573,7 @@ created_VVN
 spontaneously_AV0
 in_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 They_PNP
 are_VBB
 the_AT0
@@ -2590,7 +2590,7 @@ puts_VVZ
 it_PNP
 sculpted_AJ0
 their_DPS
-present_AJ0-NN1
+present_AJ0
 problems_NN2
 and_CJC
 concerns_NN2
@@ -2662,7 +2662,7 @@ each_DT0
 person_NN1
 's_POS
 singular_AJ0
-present_AJ0-NN1
+present_AJ0
 It_PNP
 has_VHZ
 been_VBN
@@ -2828,7 +2828,7 @@ maintain_VVI
 their_DPS
 sense_NN1
 of_PRF
-self-identity_NN1-AJ0
+self-identity_AJ0
 Or_CJC
 following_AJ0
 closely_AV0
@@ -3012,7 +3012,7 @@ can_VM0
 be_VBI
 just_AV0
 as_CJS
-wrenching_VVG
+wrenching_AJ0
 for_PRP
 them_PNP
 to_TO0
@@ -3033,7 +3033,7 @@ women_NN2
 can_VM0
 prove_VVI
 a_AT0
-mixed_AJ0
+mixed_VVN
 blessing_NN1
 it_PNP
 gives_VVZ
@@ -3081,7 +3081,7 @@ domestic_AJ0
 help_VVI
 from_PRP
 their_DPS
-retired_AJ0
+retired_VVD
 husbands_NN2
 others_NN2
 will_VM0
@@ -3108,7 +3108,7 @@ the_AT0
 remarkable_AJ0
 exodus_NN1
 of_PRF
-retired_AJ0
+retired_VVD
 couples_NN2
 from_PRP
 Paris_NP0
@@ -3172,7 +3172,7 @@ to_TO0
 work_NN1
 cultivating_VVG
 vegetables_NN2
-rearing_VVG-AJ0
+rearing_VVG
 rabbits_NN2
 and_CJC
 poultry_NN0
@@ -3595,7 +3595,7 @@ the_AT0
 exhausting_AJ0
 conflict_NN1
 of_PRF
-mixed_AJ0
+mixed_VVN
 emotions_NN2
 the_AT0
 love_NN1
@@ -3620,7 +3620,7 @@ be_VBI
 gained_VVN
 from_PRP
 the_AT0
-caring_VVG-NN1
+caring_NN1
 and_CJC
 nurturing_VVG
 work_NN1
@@ -3630,7 +3630,7 @@ in_PRP
 the_AT0
 family_NN1
 Barbara_NP0
-Myerhoff_NP0-NN1
+Myerhoff_NN1
 's_POS
 notably_AV0
 thoughtful_AJ0
@@ -3697,7 +3697,7 @@ did_VDD
 the_AT0
 women_NN2
 really_AV0
-feel_VVI
+feel_VVB
 that_CJT
 their_DPS
 own_DT0
@@ -3773,7 +3773,7 @@ producing_VVG
 and_CJC
 raising_VVG
 children_NN2
-shaping_VVG-AJ0
+shaping_VVG
 the_AT0
 atmosphere_NN1
 of_PRF
@@ -3808,7 +3808,7 @@ the_AT0
 conventional_AJ0
 functions_NN2
 In_PRP
-caring_VVG-NN1
+caring_NN1
 for_PRP
 others_NN2
 in_PRP
@@ -3828,7 +3828,7 @@ in_PRP
 arranging_VVG
 lives_NN2
 of_PRF
-self-care_NN1-AJ0
+self-care_AJ0
 and_CJC
 attentiveness_NN1
 to_TO0
@@ -3845,7 +3845,7 @@ of_PRF
 underground_AJ0
 culture_NN1
 quietly_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 Real_AJ0
 but_CJC
 rather_AV0
@@ -3968,7 +3968,7 @@ Chris_NP0
 Phillipson_NP0
 has_VHZ
 contrasted_VVN
-retired_AJ0
+retired_VVD
 men_NN2
 from_PRP
 different_AJ0
@@ -4359,7 +4359,7 @@ must_VM0
 count_VVI
 is_VBZ
 their_DPS
-present_AJ0-NN1
+present_AJ0
 resources_NN2
 their_DPS
 home_NN1
@@ -4486,7 +4486,7 @@ group_NN1
 they_PNP
 are_VBB
 in_PRP
-relative_AJ0-NN1
+relative_AJ0
 or_CJC
 absolute_AJ0
 poverty_NN1
@@ -4527,7 +4527,7 @@ of_PRF
 active_AJ0
 parenthood_NN1
 soon_AV0
-deprived_AJ0
+deprived_VVN
 of_PRF
 all_DT0
 but_CJC
@@ -4552,7 +4552,7 @@ West_NP0
 Anthropologists_NN2
 like_PRP
 Nancy_NP0
-Foner_NP0-NN1
+Foner_NP0
 in_PRP
 Ages_NN2
 in_PRP
@@ -4755,7 +4755,7 @@ our_DPS
 experience_NN1
 And_CJC
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 groupings_NN2
 which_DTQ
 we_PNP
@@ -4927,7 +4927,7 @@ of_PRF
 individual_AJ0
 meaning_NN1
 and_CJC
-self-identity_NN1-AJ0
+self-identity_AJ0
 essential_AJ0
 for_PRP
 survival_NN1
@@ -4964,7 +4964,7 @@ the_AT0
 accounts_NN2
 which_DTQ
 we_PNP
-present_AJ0-NN1
+present_AJ0
 here_AV0
 Two_CRD
 kinds_NN2
@@ -5267,7 +5267,7 @@ we_PNP
 all_DT0
 go_VVI
 on_PRP
-reinterpreting_VVG-AJ0
+reinterpreting_VVG
 our_DPS
 lives_NN2
 in_PRP
@@ -5277,7 +5277,7 @@ at_PRP
 every_AT0
 stage_NN1
 We_PNP
-feel_VVI
+feel_VVB
 differently_AV0
 about_PRP
 our_DPS
@@ -5497,7 +5497,7 @@ and_CJC
 relationships_NN2
 in_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 For_PRP
 this_DT0
 purpose_NN1
@@ -5567,7 +5567,7 @@ does_VDZ
 not_XX0
 attempt_NN1
 to_TO0
-present_AJ0-NN1
+present_AJ0
 an_AT0
 objective_NN1
 measure_NN1
@@ -5590,7 +5590,7 @@ physical_AJ0
 and_CJC
 mental_AJ0
 health_NN1
-listed_AJ0
+listed_VVN
 the_AT0
 facilities_NN2
 and_CJC
@@ -5969,7 +5969,7 @@ there_EX0
 is_VBZ
 only_AV0
 one_CRD
-immigrant_AJ0-NN1
+immigrant_AJ0
 family_NN1
 among_PRP
 them_PNP
@@ -6122,10 +6122,10 @@ our_DPS
 group_NN1
 seem_VVI
 to_TO0
-present_AJ0-NN1
+present_AJ0
 a_AT0
 typical_AJ0
-spread_NN1
+spread_VVN
 excluding_VVG
 only_AV0
 the_AT0
@@ -6182,7 +6182,7 @@ note_NN1
 It_PNP
 did_VDD
 not_XX0
-feel_VVI
+feel_VVB
 right_NN1
 in_PRP
 a_AT0
@@ -6734,7 +6734,7 @@ agriculture_NN1
 or_CJC
 the_AT0
 crafts_NN2
-Respect_NN1-VVB
+Respect_NN1
 did_VDD
 not_XX0
 prevent_VVI
@@ -6768,7 +6768,7 @@ interests_NN2
 would_VM0
 be_VBI
 mercilessly_AV0
-ridiculed_VVD
+ridiculed_VVN
 by_PRP
 the_AT0
 youth_NN1
@@ -7240,7 +7240,7 @@ somewhat_AV0
 fewer_DT0
 old_AJ0
 in_PRP
-booming_AJ0-NN1
+booming_AJ0
 Victorian_AJ0
 England_NP0
 than_CJS
@@ -7261,7 +7261,7 @@ this_DT0
 country_NN1
 until_CJS
 the_AT0
-present_AJ0-NN1
+present_AJ0
 century_NN1
 Right_AV0
 through_PRP
@@ -7292,7 +7292,7 @@ per_UNC
 cent_UNC
 of_PRF
 the_AT0
-English_AJ0-NN1
+English_AJ0
 population_NN1
 By_PRP
 1900_CRD
@@ -7311,7 +7311,7 @@ fewer_DT0
 children_NN2
 just_AV0
 as_CJS
-improved_AJ0
+improved_VVN
 health_NN1
 had_VHD
 also_AV0
@@ -7342,7 +7342,7 @@ families_NN2
 with_PRP
 a_AT0
 new_AJ0
-fall_VVI
+fall_NN1
 in_PRP
 death_NN1
 rates_NN2
@@ -7426,7 +7426,7 @@ the_AT0
 impact_NN1
 of_PRF
 the_AT0
-fall_VVI
+fall_NN1
 in_PRP
 death_NN1
 rates_NN2
@@ -7532,7 +7532,7 @@ past_NN1
 and_CJC
 in_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 The_AT0
 withdrawal_NN1
 of_PRF
@@ -7545,7 +7545,7 @@ marked_VVN
 that_CJT
 today_AV0
 most_AV0
-English_AJ0-NN1
+English_AJ0
 people_NN0
 will_VM0
 have_VHB
@@ -7818,7 +7818,7 @@ the_AT0
 coming_VVG
 of_PRF
 death_NN1
-feel_VVI
+feel_VVB
 stranger_NN1
 and_CJC
 harsher_AJC
@@ -7960,7 +7960,7 @@ of_PRF
 the_AT0
 surviving_AJ0
 has_VHZ
-improved_AJ0
+improved_VVN
 Doctors_NN2
 in_PRP
 early_AJ0
@@ -8032,7 +8032,7 @@ as_CJS
 chronically_AV0
 sick_AJ0
 physically_AV0
-maimed_VVN-AJ0
+maimed_AJ0
 or_CJC
 mentally_AV0
 impaired_VVN
@@ -8098,7 +8098,7 @@ exercise_NN1
 including_PRP
 riding_VVG
 and_CJC
-dancing_VVG
+dancing_NN1
 is_VBZ
 Francis_NP0
 Bacon_NP0
@@ -8251,7 +8251,7 @@ eight_CRD
 hundred_CRD
 yeeres_NN2
 A_AT0
-shift_NN1-VVB
+shift_NN1
 to_TO0
 simple_AJ0
 wholesome_AJ0
@@ -8285,7 +8285,7 @@ It_PNP
 was_VBD
 led_VVD
 by_PRP
-French_AJ0-NN1
+French_AJ0
 physicians_NN2
 and_CJC
 at_PRP
@@ -8345,7 +8345,7 @@ being_VBG
 discovered_VVN
 through_PRP
 post-mortems_NN2
-Decay_NN1-VVB
+Decay_NN1
 was_VBD
 seen_VVN
 as_CJS
@@ -8386,7 +8386,7 @@ old_AJ0
 age_NN1
 Texts_NN2
 in_PRP
-English_AJ0-NN1
+English_AJ0
 such_DT0
 as_CJS
 George_NP0
@@ -8456,7 +8456,7 @@ In_PRP
 France_NP0
 itself_PNX
 this_DT0
-stifling_VVG-AJ0
+stifling_VVG
 view_NN1
 was_VBD
 still_AV0
@@ -8471,7 +8471,7 @@ was_VBD
 only_AV0
 with_PRP
 the_AT0
-American-led_AJ0-NN1
+American-led_NN1
 development_NN1
 from_PRP
 the_AT0
@@ -8489,7 +8489,7 @@ the_AT0
 interwar_NN1
 years_NN2
 by_PRP
-self-help_AJ0-NN1
+self-help_AJ0
 books_NN2
 and_CJC
 clubs_NN2
@@ -8651,7 +8651,7 @@ dry_AJ0
 we_PNP
 have_VHB
 to_TO0
-squeeze_VVI
+squeeze_NN1
 it_PNP
 hard_AJ0
 to_TO0
@@ -8672,7 +8672,7 @@ what_DTQ
 the_AT0
 archives_NN2
 can_VM0
-yield_VVI
+yield_NN1
 There_EX0
 is_VBZ
 only_AV0
@@ -8706,7 +8706,7 @@ through_PRP
 which_DTQ
 the_AT0
 elderly_AJ0
-transmitted_AJ0-VVN
+transmitted_VVN
 their_DPS
 material_NN1
 possessions_NN2
@@ -8757,10 +8757,10 @@ a_AT0
 general_AJ0
 principle_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 and_CJC
 also_AV0
-Scandinavian_AJ0-NN1
+Scandinavian_NN1
 medieval_AJ0
 law_NN1
 that_CJT
@@ -8796,7 +8796,7 @@ level_NN1
 of_PRF
 a_AT0
 single_AJ0
-English_AJ0-NN1
+English_AJ0
 county_NN1
 Nor_CJC
 is_VBZ
@@ -8817,7 +8817,7 @@ Act_NN1
 the_AT0
 principle_NN1
 under_PRP
-English_AJ0-NN1
+English_AJ0
 common_AJ0
 law_NN1
 was_VBD
@@ -9143,7 +9143,7 @@ his_DPS
 bairns_NN2
 There_EX0
 are_VBB
-English_AJ0-NN1
+English_AJ0
 law_NN1
 cases_NN2
 of_PRF
@@ -9159,7 +9159,7 @@ and_CJC
 lodging_VVG
 to_TO0
 a_AT0
-retired_AJ0
+retired_VVD
 father-in-law_NN1
 while_CJS
 Swedish_AJ0
@@ -9350,7 +9350,7 @@ to_TO0
 be_VBI
 one-sided_AJ0
 One_CRD
-retired_AJ0
+retired_VVD
 Somerset_NP0
 man_NN1
 told_VVD
@@ -9457,7 +9457,7 @@ next_ORD
 generation_NN1
 when_CJS
 they_PNP
-retired_AJ0
+retired_VVD
 perhaps_AV0
 in_PRP
 their_DPS
@@ -9465,7 +9465,7 @@ sixties_CRD
 but_CJC
 for_PRP
 the_AT0
-retired_AJ0
+retired_VVD
 couple_NN1
 to_TO0
 retain_VVI
@@ -9556,7 +9556,7 @@ Families_NN2
 in_PRP
 this_DT0
 still_AV0
-Gaelic-speaking_AJ0-NN1
+Gaelic-speaking_NN1
 region_NN1
 were_VBD
 classically_AV0
@@ -9686,10 +9686,10 @@ hearth_NN1
 food_NN1
 and_CJC
 the_AT0
-yield_VVI
+yield_NN1
 of_PRF
 a_AT0
-potato-patch_NN1-AJ0
+potato-patch_NN1
 and_CJC
 grass_NN1
 of_PRF
@@ -9850,7 +9850,7 @@ late_AJ0
 middle_NN1
 ages_NN2
 the_AT0
-English_AJ0-NN1
+English_AJ0
 were_VBD
 beginning_NN1
 to_TO0
@@ -9906,11 +9906,11 @@ more_AV0
 generally_AV0
 on_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 class_NN1
 system_NN1
 The_AT0
-English_AJ0-NN1
+English_AJ0
 aristocracy_NN1
 pursued_VVN
 the_AT0
@@ -9994,7 +9994,7 @@ put_VVI
 it_PNP
 a_AT0
 duchess_NN1
-abdicates_VVZ-NN2
+abdicates_VVZ
 when_CJS
 her_DPS
 son_NN1
@@ -10024,11 +10024,11 @@ through_PRP
 inheritance_NN1
 on_PRP
 a_AT0
-principal_AJ0-NN1
+principal_AJ0
 heir_NN1
 that_CJT
 the_AT0
-English_AJ0-NN1
+English_AJ0
 aristocracy_NN1
 were_VBD
 able_AJ0
@@ -10079,7 +10079,7 @@ into_PRP
 commerce_NN1
 and_CJC
 trade_NN1
-stuck_AJ0
+stuck_VVN
 to_TO0
 the_AT0
 old_AJ0
@@ -10093,7 +10093,7 @@ picture_NN1
 given_VVN
 by_PRP
 Leonore_NP0
-Davidoff_NP0-NN1
+Davidoff_NN1
 and_CJC
 Catherine_NP0
 Hall_NN1
@@ -10305,7 +10305,7 @@ Essex_NP0
 trustee_NN1
 that_CJT
 her_DPS
-present_AJ0-NN1
+present_AJ0
 views_NN2
 are_VBB
 of_PRF
@@ -10421,7 +10421,7 @@ mere_AJ0
 per_UNC
 cent_UNC
 on_PRP
-average_AJ0-NN1
+average_AJ0
 This_DT0
 is_VBZ
 half_DT0
@@ -10451,7 +10451,7 @@ the_AT0
 same_DT0
 centuries_NN2
 The_AT0
-English_AJ0-NN1
+English_AJ0
 figure_NN1
 climbed_VVD
 briefly_AV0
@@ -10700,7 +10700,7 @@ sixty_CRD
 live_VVI
 with_PRP
 another_DT0
-relative_AJ0-NN1
+relative_AJ0
 apart_AV0
 from_PRP
 their_DPS
@@ -10827,7 +10827,7 @@ it_PNP
 another_DT0
 way_NN1
 the_AT0
-English_AJ0-NN1
+English_AJ0
 have_VHB
 always_AV0
 been_VBN
@@ -10872,7 +10872,7 @@ figures_NN2
 suggests_VVZ
 that_CJT
 the_AT0
-English_AJ0-NN1
+English_AJ0
 have_VHB
 not_XX0
 been_VBN
@@ -11043,7 +11043,7 @@ support_NN1
 The_AT0
 early_AJ0
 modern_AJ0
-English_AJ0-NN1
+English_AJ0
 household_NN1
 listings_NN2
 show_VVI
@@ -11083,7 +11083,7 @@ home_NN1
 But_CJC
 the_AT0
 pattern_NN1
-varied_AJ0
+varied_VVN
 distinctly_AV0
 between_PRP
 the_AT0
@@ -11179,7 +11179,7 @@ go_VVI
 into_PRP
 institutions_NN2
 Thus_AV0
-overall_AJ0-NN1
+overall_AJ0
 only_AV0
 one_CRD
 in_PRP
@@ -11228,7 +11228,7 @@ and_CJC
 distinctive_AJ0
 is_VBZ
 the_AT0
-English_AJ0-NN1
+English_AJ0
 reluctance_NN1
 to_TO0
 take_VVI
@@ -11336,7 +11336,7 @@ The_AT0
 other_AJ0
 side_NN1
 to_TO0
-English_AJ0-NN1
+English_AJ0
 hesitation_NN1
 in_PRP
 offering_VVG
@@ -11441,7 +11441,7 @@ his_DPS
 early_AJ0
 sixties_CRD
 to_TO0
-shift_NN1-VVB
+shift_NN1
 his_DPS
 money_NN1
 to_TO0
@@ -11646,7 +11646,7 @@ work_NN1
 had_VHD
 begun_VVN
 to_TO0
-fall_VVI
+fall_NN1
 however_AV0
 and_CJC
 from_PRP
@@ -11710,13 +11710,13 @@ own_DT0
 pace_NN1
 Among_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 peasants_NN2
 of_PRF
-Village_NN1-NP0
+Village_NN1
 in_PRP
 the_AT0
-Vaucluse_NN1-NP0
+Vaucluse_NP0
 Laurence_NP0
 Wylie_NP0
 still_AV0
@@ -11752,7 +11752,7 @@ or_CJC
 animals_NN2
 keeping_VVG
 chickens_NN2
-gathering_NN1
+gathering_VVG
 firewood_NN1
 or_CJC
 growing_AJ0
@@ -11786,7 +11786,7 @@ which_DTQ
 men_NN2
 tended_VVD
 to_TO0
-shift_NN1-VVB
+shift_NN1
 as_CJS
 they_PNP
 got_VVN
@@ -11845,7 +11845,7 @@ in_PRP
 the_AT0
 1930s_CRD
 Seebohm_NP0
-Rowntree_NP0-NN1
+Rowntree_NP0
 found_VVD
 many_DT0
 older_AJC
@@ -12110,7 +12110,7 @@ Thomas_NP0
 Paine_NP0
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Revolution_NN1
 years_NN2
 The_AT0
@@ -12298,7 +12298,7 @@ paternalism_NN1
 was_VBD
 sometimes_AV0
 explicitly_AV0
-mixed_AJ0
+mixed_VVN
 with_PRP
 the_AT0
 desire_NN1
@@ -12436,10 +12436,10 @@ shillings_NN2
 below_AV0
 the_AT0
 bare_AJ0
-minimum_AJ0-NN1
+minimum_AJ0
 which_DTQ
 Seebohm_NP0
-Rowntree_NP0-NN1
+Rowntree_NP0
 calculated_VVN
 was_VBD
 then_AV0
@@ -12465,7 +12465,7 @@ impact_NN1
 in_PRP
 allowing_VVG
 ordinary_AJ0
-retired_AJ0
+retired_VVD
 workers_NN2
 some_DT0
 self-respect_NN1
@@ -12579,7 +12579,7 @@ eligible_AJ0
 only_AV0
 at_PRP
 65_CRD
-Public_AJ0-NN1
+Public_AJ0
 and_CJC
 private_AJ0
 sector_NN1
@@ -12777,7 +12777,7 @@ in_PRP
 1913_CRD
 as_CJS
 the_AT0
-Independent_AJ0
+Independent_NN1
 observed_VVN
 gray_AJ0
 hair_NN1
@@ -12984,7 +12984,7 @@ poor_AJ0
 had_VHD
 scarcely_AV0
 any_DT0
-Support_NN1-VVB
+Support_NN1
 was_VBD
 given_VVN
 in_PRP
@@ -13000,7 +13000,7 @@ from_PRP
 Oxfordshire_NP0
 described_VVN
 by_PRP
-Rowntree_NP0-NN1
+Rowntree_NP0
 may_VM0
 typify_VVI
 the_AT0
@@ -13031,7 +13031,7 @@ a_AT0
 fresh_AJ0
 colour_NN1
 and_CJC
-benignant_AJ0-NN1
+benignant_AJ0
 expression_NN1
 was_VBD
 sitting_VVG
@@ -13156,7 +13156,7 @@ the_AT0
 two_CRD
 aspects_NN2
 of_PRF
-English_AJ0-NN1
+English_AJ0
 attitudes_NN2
 could_VM0
 indeed_AV0
@@ -13208,7 +13208,7 @@ one-quarter_CRD
 of_PRF
 the_AT0
 church_NN1
-tithes_NN2-VVZ
+tithes_NN2
 were_VBD
 also_AV0
 customarily_AV0
@@ -13297,7 +13297,7 @@ oscillation_NN1
 between_PRP
 phases_NN2
 of_PRF
-relative_AJ0-NN1
+relative_AJ0
 generosity_NN1
 and_CJC
 meanness_NN1
@@ -13354,7 +13354,7 @@ see_VVI
 Fig._NN1
 1_CRD
 The_AT0
-mid-_NN1-AJ0
+mid-_AJ0
 and_CJC
 late_AJ0
 nineteenth_ORD
@@ -13380,7 +13380,7 @@ the_AT0
 value_NN1
 of_PRF
 the_AT0
-average_AJ0-NN1
+average_AJ0
 working_VVG
 man_NN1
 's_POS
@@ -13390,7 +13390,7 @@ a_AT0
 concerted_AJ0
 attempt_NN1
 to_TO0
-shift_NN1-VVB
+shift_NN1
 more_AV0
 of_PRF
 the_AT0
@@ -13487,7 +13487,7 @@ found_VVD
 more_AV0
 likely_AJ0
 to_TO0
-stir_VVI
+stir_VVB
 up_AVP
 serious_AJ0
 friction_NN1
@@ -13870,7 +13870,7 @@ write_VVI
 up_AVP
 the_AT0
 words_NN2
-Abandon_VVB-NN1
+Abandon_VVB
 hope_VVB
 all_DT0
 ye_PNP
@@ -14113,7 +14113,7 @@ an_AT0
 old_AJ0
 grey_AJ0
 man_NN1
-drive_VVI
+drive_NN1
 up_AVP
 the_AT0
 street_NN1
@@ -14275,7 +14275,7 @@ the_AT0
 old_AJ0
 man_NN1
 was_VBD
-dying_VVG-AJ0
+dying_AJ0
 they_PNP
 'd_VM0
 maybe_AV0
@@ -14655,7 +14655,7 @@ than_CJS
 lack_NN1
 of_PRF
 food_NN1
-Rowntree_NP0-NN1
+Rowntree_NP0
 's_POS
 three_CRD
 surveys_NN2
@@ -14744,7 +14744,7 @@ very_AV0
 worst_AJS
 housing_NN1
 In_PRP
-Rowntree_NP0-NN1
+Rowntree_NP0
 's_POS
 examples_NN2
 of_PRF
@@ -14914,7 +14914,7 @@ and_CJC
 two_CRD
 younger_AJC
 tenants_NN2
-Deprived_AJ0-VVN
+Deprived_VVN
 and_CJC
 often_AV0
 also_AV0
@@ -14963,7 +14963,7 @@ people_NN0
 in_PRP
 significant_AJ0
 numbers_NN2
-Rowntree_NP0-NN1
+Rowntree_NP0
 's_POS
 investigators_NN2
 sketched_VVD
@@ -14991,7 +14991,7 @@ widows_NN2
 went_VVD
 out_AVP
 as_CJS
-chars_NN2-VVZ
+chars_NN2
 or_CJC
 washerwomen_NN2
 and_CJC
@@ -15004,7 +15004,7 @@ atmosphere_NN1
 of_PRF
 the_AT0
 homes_NN2
-varied_AJ0
+varied_VVN
 At_PRP
 one_CRD
 extreme_AJ0
@@ -15035,7 +15035,7 @@ as_CJS
 a_AT0
 house_NN1
 of_PRF
-ill-fame_NN1-AJ0
+ill-fame_AJ0
 At_PRP
 the_AT0
 other_AJ0
@@ -15052,7 +15052,7 @@ living_VVG
 on_PRP
 his_DPS
 means_NN0
-Resting_VVG-NN1
+Resting_NN1
 after_PRP
 a_AT0
 life_NN1
@@ -15398,7 +15398,7 @@ and_CJC
 great-grandchildren_NN2
 or_CJC
 the_AT0
-amateur_AJ0-NN1
+amateur_AJ0
 painter_NN1
 always_AV0
 at_PRP
@@ -15611,7 +15611,7 @@ the_AT0
 help_VVI
 of_PRF
 two_CRD
-devoted_AJ0-VVN
+devoted_AJ0
 grown-up_AJ0
 daughters_NN2
 One_CRD
@@ -15633,7 +15633,7 @@ worrying_AJ0
 She_PNP
 is_VBZ
 absolutely_AV0
-wrapped_VVN-VVD
+wrapped_VVN
 up_AVP
 in_PRP
 her_DPS
@@ -15643,7 +15643,7 @@ is_VBZ
 a_AT0
 good_AJ0
 and_CJC
-devoted_AJ0-VVN
+devoted_AJ0
 mother_NN1
 and_CJC
 others_NN2
@@ -15676,7 +15676,7 @@ striking_AJ0
 in_PRP
 other_AJ0
 ways_NN2
-Sheffield-born_NN1-AJ0
+Sheffield-born_AJ0
 and_CJC
 daughter_NN1
 of_PRF
@@ -15921,7 +15921,7 @@ She_PNP
 was_VBD
 a_AT0
 high-class_AJ0
-cook_VVI
+cook_NN1
 who_PNQ
 had_VHD
 worked_VVD
@@ -16066,14 +16066,14 @@ they_PNP
 do_VDB
 in_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 The_AT0
 one_CRD
 undoubted_AJ0
 gain_VVI
 has_VHZ
 been_VBN
-improved_AJ0
+improved_VVN
 health_NN1
 and_CJC
 with_PRP
@@ -16100,7 +16100,7 @@ people_NN0
 and_CJC
 a_AT0
 majority_NN1
-struggling_VVG-AJ0
+struggling_VVG
 to_TO0
 survive_VVI
 in_PRP
@@ -16134,7 +16134,7 @@ life_NN1
 both_AV0
 past_NN1
 and_CJC
-present_AJ0-NN1
+present_AJ0
 Nor_CJC
 has_VHZ
 there_EX0
@@ -16230,7 +16230,7 @@ women_NN2
 have_VHB
 been_VBN
 equally_AV0
-varied_AJ0
+varied_VVN
 So_AV0
 far_AV0
 however_AV0
@@ -16331,7 +16331,7 @@ a_AT0
 convincing_AJ0
 possibility_NN1
 The_AT0
-Autobiographer_NP0-NN1
+Autobiographer_NN1
 's_POS
 Eye_NN1
 IF_CJS
@@ -16389,7 +16389,7 @@ thirty_CRD
 confides_VVZ
 his_DPS
 deep_AJ0
-hurt_VVI
+hurt_VVN
 at_PRP
 the_AT0
 seeming_AJ0
@@ -16460,7 +16460,7 @@ myself_PNX
 when_CJS
 I_PNP
 am_VBB
-assured_VVD
+assured_VVN
 if_CJS
 I_PNP
 know_VVI
@@ -16504,7 +16504,7 @@ How_AVQ
 familiar_AJ0
 does_VDZ
 that_CJT
-cry_VVI
+cry_NN1
 sound_NN1
 But_CJC
 unfortunately_AV0
@@ -16649,7 +16649,7 @@ meaning_NN1
 and_CJC
 the_AT0
 daily_AJ0
-bustle_NN1-VVB
+bustle_NN1
 of_PRF
 their_DPS
 own_DT0
@@ -16719,7 +16719,7 @@ social_AJ0
 spectrum_NN1
 For_PRP
 our_DPS
-present_AJ0-NN1
+present_AJ0
 purpose_NN1
 we_PNP
 have_VHB
@@ -16949,7 +16949,7 @@ the_AT0
 hope_VVB
 that_CJT
 if_CJS
-reprieved_VVD-VVN
+reprieved_VVN
 he_PNP
 could_VM0
 comfort_NN1
@@ -16982,7 +16982,7 @@ happiest_AJS
 or_CJC
 that_CJT
 a_AT0
-retired_AJ0
+retired_VVD
 doctor_NN1
 found_VVD
 life_NN1
@@ -17414,7 +17414,7 @@ professional_AJ0
 poacher_NN1
 and_CJC
 been_VBN
-disowned_AJ0-VVD
+disowned_VVD
 by_PRP
 his_DPS
 harsh_AJ0
@@ -17556,7 +17556,7 @@ on_PRP
 their_DPS
 children_NN2
 James_NP0
-Sexton_NP0-NN1
+Sexton_NP0
 explains_VVZ
 more_AV0
 fully_AV0
@@ -17600,7 +17600,7 @@ very_AV0
 good_AJ0
 of_PRF
 you_PNP
-dear_ITJ
+dear_NN1
 lad_NN1
 and_CJC
 I_PNP
@@ -17628,7 +17628,7 @@ fender_NN1
 In_PRP
 the_AT0
 end_NN1
-Sexton_NP0-NN1
+Sexton_NP0
 took_VVD
 her_DPS
 literally_AV0
@@ -17706,12 +17706,12 @@ which_DTQ
 would_VM0
 arrive_VVI
 at_PRP
-Hale-wood_NN1-AJ0
+Hale-wood_NN1
 in_PRP
 due_AJ0
 course_NN1
 No_ITJ
-English_AJ0-NN1
+English_AJ0
 autobiography_NN1
 of_PRF
 this_DT0
@@ -17885,7 +17885,7 @@ in_PRP
 a_AT0
 little_AJ0
 artificial_AJ0
-smiling_VVG-AJ0
+smiling_VVG
 world_NN1
 away_AV0
 from_PRP
@@ -18048,7 +18048,7 @@ itself_PNX
 was_VBD
 now_AV0
 slowly_AV0
-constricting_VVG-AJ0
+constricting_AJ0
 The_AT0
 size_NN1
 of_PRF
@@ -18226,7 +18226,7 @@ now_AV0
 again_AV0
 surrounded_VVN
 by_PRP
-devoted_AJ0-VVN
+devoted_AJ0
 thought_VVD
 and_CJC
 care_NN1
@@ -18348,7 +18348,7 @@ on_PRP
 which_DTQ
 I_PNP
 can_VM0
-cook_VVI
+cook_NN1
 a_AT0
 dinner_NN1
 and_CJC
@@ -18367,7 +18367,7 @@ on_PRP
 my_DPS
 allotment_NN1
 and_CJC
-cook_VVI
+cook_NN1
 quite_AV0
 nice_AJ0
 dinners_NN2
@@ -18407,7 +18407,7 @@ grow_VVI
 Just_AV0
 at_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 time_NN1
 everything_PNI
 looks_VVZ
@@ -18594,7 +18594,7 @@ then_AV0
 only_AV0
 14_CRD
 were_VBD
-retired_AJ0
+retired_VVD
 in_PRP
 the_AT0
 broadest_AJS
@@ -18615,7 +18615,7 @@ still_AV0
 at_PRP
 work_NN1
 The_AT0
-retired_AJ0
+retired_VVD
 include_VVI
 nine_CRD
 middle-class_AJ0
@@ -19014,7 +19014,7 @@ he_PNP
 amused_AJ0
 himself_PNX
 with_PRP
-carpentering_VVG-AJ0
+carpentering_VVG
 and_CJC
 the_AT0
 making_VVG
@@ -19041,7 +19041,7 @@ men_NN2
 who_PNQ
 owned_VVN
 or_CJC
-tenanted_AJ0-VVD
+tenanted_VVD
 land_NN1
 however_AV0
 only_AV0
@@ -19050,7 +19050,7 @@ were_VBD
 recalled_VVD
 as_CJS
 independently_AV0
-retired_AJ0
+retired_VVD
 and_CJC
 both_AV0
 were_VBD
@@ -19180,7 +19180,7 @@ who_PNQ
 was_VBD
 also_AV0
 a_AT0
-horse-breeder_NN1-AJ0
+horse-breeder_NN1
 a_AT0
 barrister_NN1
 a_AT0
@@ -19342,10 +19342,10 @@ Even_AV0
 two_CRD
 of_PRF
 the_AT0
-farmhands_NN2-VVZ
+farmhands_NN2
 rented_VVN
 a_AT0
-smallholding_NN1-AJ0
+smallholding_NN1
 where_AVQ
 they_PNP
 could_VM0
@@ -19387,7 +19387,7 @@ characters_NN2
 like_PRP
 the_AT0
 Lancashire_NP0
-shopkeeping_VVG-AJ0
+shopkeeping_AJ0
 grandmother_NN1
 a_AT0
 powerful_AJ0
@@ -19417,7 +19417,7 @@ for_PRP
 the_AT0
 neighbours_NN2
 in_PRP
-Berthengam_NP0-NN1
+Berthengam_NN1
 and_CJC
 they_PNP
 were_VBD
@@ -19491,7 +19491,7 @@ in_PRP
 the_AT0
 night_NN1
 and_CJC
-walk_VVI
+walk_NN1
 miles_NN2
 to_TO0
 attend_VVI
@@ -19532,7 +19532,7 @@ stood_VVD
 facing_VVG
 the_AT0
 window_NN1
-puffing_VVG-AJ0
+puffing_VVG
 away_AV0
 at_PRP
 his_DPS
@@ -19681,7 +19681,7 @@ founded_VVN
 their_DPS
 suspicions_NN2
 my_DPS
-relative_AJ0-NN1
+relative_AJ0
 usually_AV0
 managed_VVD
 to_TO0
@@ -19735,7 +19735,7 @@ the_AT0
 day_NN1
 he_PNP
 would_VM0
-cross_VVI
+cross_NN1
 the_AT0
 bridge_NN1
 to_TO0
@@ -19752,7 +19752,7 @@ the_AT0
 streets_NN2
 with_PRP
 his_DPS
-cry_VVI
+cry_NN1
 of_PRF
 Old_AJ0
 clothes_NN2
@@ -19772,7 +19772,7 @@ more_AV0
 fashionable_AJ0
 parts_NN2
 from_PRP
-cooks_NN2-VVZ
+cooks_NN2
 thinking_VVG
 he_PNP
 was_VBD
@@ -19834,7 +19834,7 @@ small_AJ0
 windows_NN2
 and_CJC
 cobwebs_NN2
-abounded_VVN-VVD
+abounded_VVD
 everywhere_AV0
 Old_AJ0
 clothes_NN2
@@ -20006,7 +20006,7 @@ at_PRP
 his_DPS
 antagonist_NN1
 Rumours_NN2
-spread_NN1
+spread_VVN
 and_CJC
 eventually_AV0
 the_AT0
@@ -20020,7 +20020,7 @@ in_PRP
 his_DPS
 shop_NN1
 dead_AJ0
-sprawled_VVD
+sprawled_VVN
 amidst_PRP
 rubbish_NN1
 around_PRP
@@ -20490,7 +20490,7 @@ landed_VVD
 grandparents_NN2
 their_DPS
 social_AJ0
-fall_VVI
+fall_NN1
 was_VBD
 too_AV0
 severe_AJ0
@@ -20663,8 +20663,8 @@ who_PNQ
 used_VVN
 to_TO0
 box_NN1
-dear_ITJ
-Grandpapa_NP0-NN1
+dear_NN1
+Grandpapa_NN1
 lovingly_AV0
 on_PRP
 the_AT0
@@ -20925,7 +20925,7 @@ Miss_NP0
 Drake_NN1
 an_AT0
 old_AJ0
-mittened_VVD-AJ0
+mittened_VVD
 companion_NN1
 hardly_AV0
 younger_AJC
@@ -21003,7 +21003,7 @@ grandparents_NN2
 who_PNQ
 evoked_VVN
 admiration_NN1
-mixed_AJ0
+mixed_VVN
 with_PRP
 awe_NN1
 or_CJC
@@ -21295,7 +21295,7 @@ other_AJ0
 grandmother_NN1
 as_CJS
 a_AT0
-wee_AJ0-NN1
+wee_AJ0
 frail_AJ0
 woman_NN1
 in_PRP
@@ -21342,7 +21342,7 @@ could_VM0
 spring_NN1
 to_TO0
 a_AT0
-halfpenny_NN1-AJ0
+halfpenny_NN1
 or_CJC
 an_AT0
 apple_NN1
@@ -21396,10 +21396,10 @@ of_PRF
 time_NN1
 with_PRP
 his_DPS
-labouring_VVG-AJ0
+labouring_AJ0
 grandparents_NN2
 a_AT0
-dear_ITJ
+dear_NN1
 old_AJ0
 cupple_NN1
 and_CJC
@@ -21508,9 +21508,9 @@ stays_VVZ
 by_PRP
 a_AT0
 keen_AJ0
-chapel-going_AJ0-NN1
+chapel-going_AJ0
 Welsh_AJ0
-labouring_VVG-AJ0
+labouring_AJ0
 grandfather_NN1
 A_AT0
 Scots_NN2
@@ -22138,9 +22138,9 @@ which_DTQ
 could_VM0
 open_AJ0
 and_CJC
-shut_VVB
+shut_VVN
 and_CJC
-chief_AJ0-NN1
+chief_NN1
 novelty_NN1
 of_PRF
 all_DT0
@@ -22387,7 +22387,7 @@ did_VDD
 not_XX0
 Two_CRD
 other_AJ0
-living-in_NN1-AJ0
+living-in_NN1
 grandparents_NN2
 directly_AV0
 encouraged_VVN
@@ -22498,7 +22498,7 @@ was_VBD
 an_AT0
 austere_AJ0
 and_CJC
-repressing_VVG-AJ0
+repressing_AJ0
 influence_NN1
 she_PNP
 had_VHD
@@ -22544,7 +22544,7 @@ who_PNQ
 performed_VVN
 a_AT0
 similar_AJ0
-caring_VVG-NN1
+caring_NN1
 role_NN1
 is_VBZ
 remembered_VVD
@@ -22605,7 +22605,7 @@ uniquely_AV0
 strong_AJ0
 position_NN1
 as_CJS
-substitute_NN1-AJ0
+substitute_NN1
 parents_NN2
 for_PRP
 they_PNP
@@ -22630,7 +22630,7 @@ strong_AJ0
 personalities_NN2
 the_AT0
 Swansea_NP0
-shopkeeping_VVG-AJ0
+shopkeeping_AJ0
 grandmother_NN1
 a_AT0
 wonderful_AJ0
@@ -22644,10 +22644,10 @@ stories_NN2
 of_PRF
 the_AT0
 Rebecca_NP0
-Riots_NN2-VVZ
+Riots_NN2
 the_AT0
 cultured_AJ0
-much-travelled_AJ0-NN1
+much-travelled_AJ0
 Scots_NN2
 widow_NN1
 a_AT0
@@ -22662,7 +22662,7 @@ husband_NN1
 estate_NN1
 the_AT0
 toothless_AJ0
-pipe-smoking_NN1-AJ0
+pipe-smoking_NN1
 mediumistic_AJ0
 Lancashire_NP0
 granny_NN1
@@ -22817,7 +22817,7 @@ lost_VVN
 a_AT0
 friend_NN1
 Practical_AJ0
-caring_VVG-NN1
+caring_NN1
 undoubtedly_AV0
 made_VVN
 the_AT0
@@ -22833,7 +22833,7 @@ strong_AJ0
 But_CJC
 lasting_AJ0
 influence_NN1
-depended_VVN-VVD
+depended_VVD
 not_XX0
 only_AV0
 on_PRP
@@ -22928,7 +22928,7 @@ as_CJS
 coming_VVG
 from_PRP
 a_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 fiery_AJ0
 grandmother_NN1
 with_PRP
@@ -23030,7 +23030,7 @@ working_VVG
 energy_NN1
 of_PRF
 the_AT0
-octogenarian_AJ0-NN1
+octogenarian_NN1
 grandmother_NN1
 who_PNQ
 was_VBD
@@ -23095,7 +23095,7 @@ me_PNP
 and_CJC
 an_AT0
 entertaining_AJ0
-caring_VVG-NN1
+caring_NN1
 grandfather_NN1
 who_PNQ
 had_VHD
@@ -23104,7 +23104,7 @@ himself_PNX
 I_PNP
 'm_VBB
 not_XX0
-shure_VVB-NN1
+shure_VVB
 I_PNP
 did_VDD
 not_XX0
@@ -23165,7 +23165,7 @@ for_PRP
 many_DT0
 years_NN2
 as_CJS
-chief_AJ0-NN1
+chief_NN1
 mate_NN1
 of_PRF
 her_DPS
@@ -23200,7 +23200,7 @@ He_PNP
 would_VM0
 come_VVI
 back_AVP
-entranced_VVN
+entranced_VVD
 to_TO0
 his_DPS
 own_DT0
@@ -23288,7 +23288,7 @@ a_AT0
 North_NN1
 Welsh_AJ0
 orphan_NN1
-baptised_VVN-AJ0
+baptised_VVN
 as_CJS
 John_NP0
 Rowlands_NP0
@@ -23366,7 +23366,7 @@ valves_NN2
 of_PRF
 my_DPS
 heart_NN1
-closed_VVD
+closed_VVN
 as_CJS
 with_PRP
 a_AT0
@@ -23574,7 +23574,7 @@ last_ORD
 hope_VVB
 of_PRF
 a_AT0
-parent-figure_NN1-AJ0
+parent-figure_AJ0
 among_PRP
 his_DPS
 own_DT0
@@ -23658,7 +23658,7 @@ At_PRP
 the_AT0
 Edge_NN1
 of_PRF
-Living_VVG-NN1
+Living_VVG
 Memory_NN1
 Autobiographers_NN2
 are_VBB
@@ -23695,7 +23695,7 @@ because_CJS
 they_PNP
 were_VBD
 exceptional_AJ0
-Recorded_AJ0-VVN
+Recorded_AJ0
 life_NN1
 stories_NN2
 by_PRP
@@ -24214,14 +24214,14 @@ contact_NN1
 with_PRP
 their_DPS
 Irish_AJ0
-Catholic_AJ0-NN1
+Catholic_AJ0
 grandparents_NN2
 because_CJS
 he_PNP
 had_VHD
 married_AJ0
 a_AT0
-Protestant_AJ0-NN1
+Protestant_AJ0
 although_CJS
 he_PNP
 did_VDD
@@ -24265,7 +24265,7 @@ labourer_NN1
 her_DPS
 own_DT0
 relatives_NN2
-disowned_AJ0-VVD
+disowned_VVD
 her_DPS
 it_PNP
 was_VBD
@@ -24304,7 +24304,7 @@ easily_AV0
 harden_VVI
 and_CJC
 become_VVI
-two-sided_AJ0-NN1
+two-sided_AJ0
 obliterating_VVG
 family_NN1
 memory_NN1
@@ -24345,7 +24345,7 @@ brought_VVN
 up_AVP
 by_PRP
 her_DPS
-retired_AJ0
+retired_VVD
 grandparents_NN2
 who_PNQ
 had_VHD
@@ -24573,7 +24573,7 @@ the_AT0
 great-grandfather_NN1
 a_AT0
 Lancashire_NP0
-clogger_NN1-VVB
+clogger_NN1
 with_PRP
 his_DPS
 own_DT0
@@ -24585,7 +24585,7 @@ go_VVI
 down_AVP
 to_TO0
 the_AT0
-clogger_NN1-VVB
+clogger_NN1
 's_POS
 shop_NN1
 which_DTQ
@@ -24648,7 +24648,7 @@ take_VVI
 all_DT0
 the_AT0
 kids_NN2
-gathering_NN1
+gathering_VVG
 coltsfoot_NN1
 You_PNP
 had_VHD
@@ -24672,7 +24672,7 @@ used_VVN
 to_TO0
 go_VVI
 and_CJC
-pinch_VVI
+pinch_NN1
 out_AVP
 of_PRF
 the_AT0
@@ -24817,7 +24817,7 @@ He_PNP
 got_VVN
 just_AV0
 tuppence_NN0
-ha'penny_NN1-AJ0
+ha'penny_NN1
 in_PRP
 his_DPS
 pocket_NN1
@@ -24864,7 +24864,7 @@ One_CRD
 was_VBD
 an_AT0
 Abergavenny_NP0
-horse-cab_AJ0-NN1
+horse-cab_NN1
 proprietor_NN1
 who_PNQ
 drove_VVD
@@ -24920,21 +24920,21 @@ life_NN1
 a_AT0
 third_ORD
 a_AT0
-retired_AJ0
+retired_VVD
 London_NP0
-stevedore_NN1-VVB
+stevedore_NN1
 who_PNQ
 had_VHD
 a_AT0
 pub_NN1
 in_PRP
-Rotherhithe_NP0-NN1
+Rotherhithe_NP0
 An_AT0
 Aberdeenshire_NP0
 small_AJ0
 farmer_NN1
 had_VHD
-retired_AJ0
+retired_VVD
 but_CJC
 onto_PRP
 a_AT0
@@ -25020,7 +25020,7 @@ age_NN1
 of_PRF
 retirement_NN1
 was_VBD
-enforced_AJ0
+enforced_VVN
 before_PRP
 nationalization_NN1
 in_PRP
@@ -25085,7 +25085,7 @@ wait_VVI
 I_PNP
 'm_VBB
 no_AT0
-packin'_VVG-NN1
+packin'_NN1
 in_PRP
 They_PNP
 said_VVD
@@ -25098,7 +25098,7 @@ of_PRF
 the_AT0
 grandfathers_NN2
 were_VBD
-retired_AJ0
+retired_VVD
 and_CJC
 so_AV0
 was_VBD
@@ -25152,7 +25152,7 @@ much_DT0
 younger_AJC
 woman_NN1
 and_CJC
-retired_AJ0
+retired_VVD
 early_AJ0
 partly_AV0
 to_TO0
@@ -25209,7 +25209,7 @@ was_VBD
 not_XX0
 uncommon_AJ0
 for_PRP
-retired_AJ0
+retired_VVD
 men_NN2
 to_TO0
 take_VVI
@@ -25354,7 +25354,7 @@ to_TO0
 outwork_NN1
 stockingers_NN2
 and_CJC
-frameknitters_NN2-VVZ
+frameknitters_NN2
 through_PRP
 cornfactors_NN2
 and_CJC
@@ -25833,7 +25833,7 @@ of_PRF
 grandfathers_NN2
 reflects_VVZ
 the_AT0
-shrinking_AJ0-NN1
+shrinking_AJ0
 participation_NN1
 of_PRF
 married_AJ0
@@ -25863,7 +25863,7 @@ widowed_AJ0
 as_CJS
 a_AT0
 midwife_NN1
-nursing_AJ0-NN1
+nursing_NN1
 or_CJC
 doing_VDG
 a_AT0
@@ -25952,7 +25952,7 @@ gran_NN1
 she_PNP
 had_VHD
 a_AT0
-wee_AJ0-NN1
+wee_AJ0
 shop_NN1
 and_CJC
 she_PNP
@@ -26023,7 +26023,7 @@ very_AV0
 old_AJ0
 gentleman_NN1
 who_PNQ
-scraped_VVN
+scraped_VVD
 together_AV0
 a_AT0
 living_VVG
@@ -26110,7 +26110,7 @@ from_PRP
 Chatham_NP0
 seeking_VVG
 a_AT0
-relative_AJ0-NN1
+relative_AJ0
 who_PNQ
 had_VHD
 once_AV0
@@ -26145,7 +26145,7 @@ old_AJ0
 wife_NN1
 proved_VVN
 a_AT0
-dear_ITJ
+dear_NN1
 old_AJ0
 soul_NN1
 and_CJC
@@ -26387,7 +26387,7 @@ old_AJ0
 woman_NN1
 called_VVN
 Granny_NN1
-Vasey_NP0-NN1
+Vasey_NP0
 Her_DPS
 used_VVN
 to_TO0
@@ -26624,7 +26624,7 @@ they_PNP
 could_VM0
 draw_VVI
 from_PRP
-dying_VVG-AJ0
+dying_AJ0
 They_PNP
 did_VDD
 that_CJT
@@ -26679,7 +26679,7 @@ it_PNP
 is_VBZ
 important_AJ0
 to_TO0
-notice_VVI
+notice_NN1
 how_AVQ
 the_AT0
 idea_NN1
@@ -26824,7 +26824,7 @@ never_AV0
 find_VVI
 out_AVP
 what_DTQ
-relative_AJ0-NN1
+relative_AJ0
 she_PNP
 was_VBD
 to_TO0
@@ -26967,7 +26967,7 @@ day_NN1
 she_PNP
 had_VHD
 a_AT0
-wee_AJ0-NN1
+wee_AJ0
 brown_AJ0
 jug_NN1
 and_CJC
@@ -27190,7 +27190,7 @@ I_PNP
 was_VBD
 only_AV0
 a_AT0
-wee_AJ0-NN1
+wee_AJ0
 mite_NN1
 She_PNP
 was_VBD
@@ -27275,7 +27275,7 @@ I_PNP
 saw_VVD
 her_DPS
 comin'_VVG
-t'the_NN1-VVB
+t'the_VVB
 door_NN1
 But_CJC
 eh_ITJ
@@ -27402,7 +27402,7 @@ daddy_NN1
 He_PNP
 used_VVN
 to_TO0
-drill_VVI
+drill_NN1
 it_PNP
 in_PRP
 us_PNP
@@ -27908,7 +27908,7 @@ lady_NN1
 who_PNQ
 was_VBD
 the_AT0
-spittin'_AJ0-NN1
+spittin'_AJ0
 image_NN1
 of_PRF
 his_DPS
@@ -27967,7 +27967,7 @@ uncles_NN2
 each_DT0
 with_PRP
 a_AT0
-fiddle_NN1-VVB
+fiddle_NN1
 or_CJC
 cello_NN1
 to_TO0
@@ -28015,7 +28015,7 @@ of_PRF
 whom_PNQ
 two_CRD
 were_VBD
-amateur_AJ0-NN1
+amateur_AJ0
 opera_NN1
 singers_NN2
 and_CJC
@@ -28190,7 +28190,7 @@ by_PRP
 the_AT0
 fire_NN1
 all_DT0
-wrapped_VVN-VVD
+wrapped_VVN
 up_AVP
 an'_CJC
 coughing_VVG
@@ -28284,7 +28284,7 @@ know_VVI
 she_PNP
 used_VVN
 to_TO0
-polish_VVI
+polish_NN1
 her_DPS
 table_NN1
 legs_NN2
@@ -28374,7 +28374,7 @@ he_PNP
 always_AV0
 had_VHD
 his_DPS
-tot_NN1-VVB
+tot_NN1
 of_PRF
 rum_NN1
 and_CJC
@@ -28604,7 +28604,7 @@ very_AV0
 very_AV0
 strict_AJ0
 old_AJ0
-dear_ITJ
+dear_NN1
 Sometimes_AV0
 it_PNP
 is_VBZ
@@ -28652,14 +28652,14 @@ the_AT0
 dead_AJ0
 do_VDB
 n't_XX0
-hurt_VVI
+hurt_VVN
 you_PNP
 it_PNP
 's_POS
 the_AT0
 living_VVG
 that_CJT
-hurt_VVI
+hurt_VVN
 I_PNP
 've_VHB
 remembered_VVD
@@ -28807,7 +28807,7 @@ used_VVN
 to_TO0
 wear_VVI
 very_AV0
-thick-lensed_AJ0-NN1
+thick-lensed_AJ0
 spectacles_NN2
 and_CJC
 they_PNP
@@ -28838,7 +28838,7 @@ the_AT0
 yard_NN1
 door_NN1
 was_VBD
-shut_VVB
+shut_VVN
 she_PNP
 went_VVD
 into_PRP
@@ -29041,7 +29041,7 @@ his_DPS
 stiff_AJ0
 white_AJ0
 serviette_NN1
-tucked_VVN-VVD
+tucked_VVD
 into_PRP
 his_DPS
 waistcoat_NN1
@@ -29379,7 +29379,7 @@ you_PNP
 could_VM0
 n't_XX0
 move_VVI
-Couldna_NN1-NP0
+Couldna_NP0
 look_VVI
 at_PRP
 her_DPS
@@ -29486,7 +29486,7 @@ Scots_NN2
 miner_NN1
 who_PNQ
 had_VHD
-retired_AJ0
+retired_VVD
 from_PRP
 the_AT0
 pit_NN1
@@ -29510,7 +29510,7 @@ man_NN1
 a_AT0
 non-smoker_NN1
 and_CJC
-non-drinker_NN1-AJ0
+non-drinker_NN1
 an_AT0
 elder_AJC
 of_PRF
@@ -29640,7 +29640,7 @@ apples_NN2
 pears_NN2
 plums_NN2
 cherries_NN2
-rasps_NN2-VVZ
+rasps_NN2
 gooseberries_NN2
 and_CJC
 redcurrant_AJ0
@@ -29767,7 +29767,7 @@ would_VM0
 watch_VVI
 her_DPS
 granddaughter_NN1
-wash_VVI
+wash_NN1
 the_AT0
 doorstep_NN1
 and_CJC
@@ -29797,7 +29797,7 @@ showed_VVD
 me_PNP
 how_AVQ
 to_TO0
-wring_VVB-NN1
+wring_NN1
 out_AVP
 a_AT0
 cloth_NN1
@@ -29904,7 +29904,7 @@ was_VBD
 encouraged_VVN
 by_PRP
 a_AT0
-strained_AJ0
+strained_VVN
 relationship_NN1
 with_PRP
 the_AT0
@@ -30014,7 +30014,7 @@ on_PRP
 and_CJC
 she_PNP
 always_AV0
-stuck_AJ0
+stuck_VVN
 by_PRP
 me_PNP
 When_CJS
@@ -30178,7 +30178,7 @@ and_CJC
 sit_VVI
 down_AVP
 ducky_AJ0
-Used_VVN-AJ0
+Used_VVN
 to_TO0
 go_VVI
 and_CJC
@@ -30266,7 +30266,7 @@ factory_NN1
 working_VVG
 beside_PRP
 real_AJ0
-cockney_AJ0-NN1
+cockney_AJ0
 women_NN2
 I_PNP
 was_VBD
@@ -30438,7 +30438,7 @@ exchange_NN1
 of_PRF
 help_VVI
 and_CJC
-caring_VVG-NN1
+caring_NN1
 between_PRP
 the_AT0
 generations_NN2
@@ -30669,7 +30669,7 @@ first_ORD
 married_AJ0
 to_TO0
 a_AT0
-shrimp-seller_NN1-AJ0
+shrimp-seller_NN1
 and_CJC
 later_AV0
 living_VVG
@@ -30909,7 +30909,7 @@ been_VBN
 a_AT0
 gentleman_NN1
 's_POS
-cook_VVI
+cook_NN1
 she_PNP
 ate_VVD
 well_AV0
@@ -30957,7 +30957,7 @@ at_PRP
 school_NN1
 they_PNP
 would_VM0
-walk_VVI
+walk_NN1
 the_AT0
 mile_NN1
 and_CJC
@@ -31008,7 +31008,7 @@ stair_NN1
 matting_NN1
 washed_VVN
 and_CJC
-ironed_VVN
+ironed_VVD
 each_DT0
 week_NN1
 And_CJC
@@ -31064,7 +31064,7 @@ hens_NN2
 There_EX0
 was_VBD
 a_AT0
-wee_AJ0-NN1
+wee_AJ0
 window_NN1
 you_PNP
 could_VM0
@@ -31170,7 +31170,7 @@ The_AT0
 grandfather_NN1
 was_VBD
 a_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 with_PRP
 the_AT0
 neighbouring_AJ0
@@ -31203,7 +31203,7 @@ but_CJC
 other_AJ0
 children_NN2
 about_PRP
-listening_VVG-NN1
+listening_VVG
 to_TO0
 the_AT0
 tales_NN2
@@ -31279,7 +31279,7 @@ was_VBD
 mammy_NN1
 down_AVP
 the_AT0
-raw'_NN1-AJ0
+raw'_AJ0
 So_AV0
 that_CJT
 I_PNP
@@ -31458,7 +31458,7 @@ watch_VVI
 me_PNP
 clean_AJ0
 'em_PNP
-Hearthstone_NN1-NP0
+Hearthstone_NN1
 all_DT0
 the_AT0
 lot_NN1
@@ -31651,7 +31651,7 @@ from_PRP
 the_AT0
 Bible_NN1
 After_PRP
-listening_VVG-NN1
+listening_VVG
 he_PNP
 would_VM0
 say_VVI
@@ -31961,7 +31961,7 @@ husbands_NN2
 lived_VVD
 for_PRP
 an_AT0
-initial_AJ0-NN1
+initial_AJ0
 period_NN1
 sometimes_AV0
 brief_AJ0
@@ -32162,10 +32162,10 @@ only_AV0
 daughters_NN2
 who_PNQ
 could_VM0
-feel_VVI
+feel_VVB
 such_DT0
 a_AT0
-binding_VVG-AJ0
+binding_AJ0
 duty_NN1
 A_AT0
 Devon_NP0
@@ -32301,7 +32301,7 @@ a_AT0
 wholly_AV0
 dependent_AJ0
 old_AJ0
-relative_AJ0-NN1
+relative_AJ0
 was_VBD
 a_AT0
 serious_AJ0
@@ -32345,7 +32345,7 @@ very_AV0
 clean_AJ0
 very_AV0
 like_PRP
-prigmeat_NN1-VVB
+prigmeat_NN1
 you_PNP
 know_VVI
 everything_PNI
@@ -32361,7 +32361,7 @@ brothers_NN2
 moved_VVD
 into_PRP
 the_AT0
-next-door_AJ0-NN1
+next-door_AJ0
 house_NN1
 when_CJS
 he_PNP
@@ -32403,7 +32403,7 @@ then_AV0
 this_DT0
 brother_NN1
 lived_VVD
-next-door_AJ0-NN1
+next-door_AJ0
 and_CJC
 his_DPS
 wife_NN1
@@ -32654,7 +32654,7 @@ responsible_AJ0
 for_PRP
 an_AT0
 elderly_AJ0
-relative_AJ0-NN1
+relative_AJ0
 to_TO0
 take_VVI
 turns_VVZ
@@ -32687,7 +32687,7 @@ pottery_NN1
 manager_NN1
 's_POS
 parents_NN2
-retired_AJ0
+retired_VVD
 to_TO0
 the_AT0
 south-west_NN1
@@ -32741,7 +32741,7 @@ time_NN1
 with_PRP
 various_AJ0
 relatives_NN2
-Bachelor_NN1-NP0
+Bachelor_NP0
 uncles_NN2
 were_VBD
 the_AT0
@@ -32764,7 +32764,7 @@ and_CJC
 even_AV0
 one_CRD
 could_VM0
-stir_VVI
+stir_VVB
 up_AVP
 great_AJ0
 resentment_NN1
@@ -32793,7 +32793,7 @@ wouldna_NN1
 stay_VVI
 wi'_PRP
 any_DT0
-o'them_NN1-VVB
+o'them_NN1
 cause_NN1
 he_PNP
 wanted_VVD
@@ -32841,7 +32841,7 @@ telt_VVB
 me_PNP
 Bruce_NP0
 's_POS
-stayin'_VVG-NN1
+stayin'_NN1
 wi'_PRP
 you_PNP
 He_PNP
@@ -32861,10 +32861,10 @@ were_VBD
 never_AV0
 didna_NN1
 seem_VVI
-t'have_VVB-NN1
+t'have_NN1
 the_AT0
 hoose_NN1
-t'oorselves_NN2-VVZ
+t'oorselves_NN2
 Grandparents_NN2
 who_PNQ
 moved_VVD
@@ -32914,7 +32914,7 @@ was_VBD
 n't_XX0
 able_AJ0
 to_TO0
-walk_VVI
+walk_NN1
 She_PNP
 had_VHD
 two_CRD
@@ -33156,7 +33156,7 @@ dad_NN1
 Another_DT0
 grandfather_NN1
 a_AT0
-retired_AJ0
+retired_VVD
 Manchester_NP0
 newsagent_NN1
 would_VM0
@@ -33166,7 +33166,7 @@ fires_NN2
 mend_VVI
 shoes_NN2
 and_CJC
-peel_VVI
+peel_NN1
 the_AT0
 potatoes_NN2
 while_CJS
@@ -33184,7 +33184,7 @@ clean_AJ0
 the_AT0
 shoes_NN2
 and_CJC
-cook_VVI
+cook_NN1
 too_AV0
 We_PNP
 always_AV0
@@ -33241,7 +33241,7 @@ he_PNP
 was_VBD
 a_AT0
 natural_AJ0
-vegetarian_AJ0-NN1
+vegetarian_AJ0
 he_PNP
 did_VDD
 n't_XX0
@@ -33354,7 +33354,7 @@ sat_VVD
 upright_AV0
 always_AV0
 she_PNP
-knitted_AJ0
+knitted_VVD
 all_DT0
 our_DPS
 socks_NN2
@@ -33434,7 +33434,7 @@ who_PNQ
 had_VHD
 been_VBN
 out_AVP
-tot_NN1-VVB
+tot_NN1
 he_PNP
 Australian_AJ0
 Gold_NN1
@@ -33446,7 +33446,7 @@ inseparable_AJ0
 from_PRP
 her_DPS
 pet_NN1
-chaffinch_NN1-VVB
+chaffinch_NN1
 and_CJC
 her_DPS
 nightly_AJ0
@@ -33791,7 +33791,7 @@ grandfather_NN1
 who_PNQ
 had_VHD
 been_VBN
-orphaned_VVN-AJ0
+orphaned_VVN
 in_PRP
 the_AT0
 Irish_AJ0
@@ -33960,7 +33960,7 @@ about_PRP
 her_DPS
 grandfather_NN1
 's_POS
-dying_VVG-AJ0
+dying_AJ0
 You_PNP
 see_VVI
 we_PNP
@@ -33995,7 +33995,7 @@ she_PNP
 said_VVD
 I_PNP
 then_AV0
-closed_VVD
+closed_VVN
 his_DPS
 eyes_NN2
 and_CJC
@@ -34206,7 +34206,7 @@ the_AT0
 old_AJ0
 room_NN1
 A_AT0
-Barra_NP0-NN1
+Barra_NP0
 fisherman_NN1
 's_POS
 son_NN1
@@ -34382,7 +34382,7 @@ into_PRP
 service_NN1
 as_CJS
 a_AT0
-living-in_NN1-AJ0
+living-in_NN1
 maid_NN1
 with_PRP
 a_AT0
@@ -34501,7 +34501,7 @@ as_CJS
 grandma_NN1
 I_PNP
 was_VBD
-sleeping_VVG
+sleeping_NN1
 with_PRP
 her_DPS
 the_AT0
@@ -34516,7 +34516,7 @@ morning_NN1
 The_AT0
 grandparent_NN1
 could_VM0
-feel_VVI
+feel_VVB
 resentful_AJ0
 at_PRP
 such_DT0
@@ -34962,7 +34962,7 @@ take_VVI
 me_PNP
 after_PRP
 from_PRP
-rearing_VVG-AJ0
+rearing_VVG
 me_PNP
 Similarly_AV0
 a_AT0
@@ -35000,7 +35000,7 @@ The_AT0
 grandmother_NN1
 had_VHD
 a_AT0
-wee_AJ0-NN1
+wee_AJ0
 shop_NN1
 and_CJC
 the_AT0
@@ -35027,7 +35027,7 @@ soldier_NN1
 in_PRP
 India_NP0
 and_CJC
-retired_AJ0
+retired_VVD
 horseman_NN1
 had_VHD
 had_VHD
@@ -35126,7 +35126,7 @@ me_PNP
 to_TO0
 that_CJT
 convent_NN1
-thinkin'_VVG-NN1
+thinkin'_VVG
 she_PNP
 would_VM0
 make_VVI
@@ -35188,8 +35188,8 @@ would_VM0
 take_VVI
 ye_PNP
 a_AT0
-wee_AJ0-NN1
-walk_VVI
+wee_AJ0
+walk_NN1
 round_AVP
 the_AT0
 cemetery_NN1
@@ -35248,8 +35248,8 @@ said_VVD
 I_PNP
 'd_VM0
 turn_NN1
-oot_NN1-VVB
-t'be_NN1-VVB
+oot_NN1
+t'be_VVB
 like_PRP
 my_DPS
 mother_NN1
@@ -35291,10 +35291,10 @@ he_PNP
 would_VM0
 be_VBI
 cut_VVN
-oot_NN1-VVB
+oot_NN1
 cut_VVN
 off_AVP
-withoot_VVB-NN1
+withoot_VVB
 a_AT0
 penny_NN1
 Her_DPS
@@ -35455,14 +35455,14 @@ they_PNP
 were_VBD
 there_EX0
 That_DT0
-shut_VVB
+shut_VVN
 her_DPS
 up_AVP
 The_AT0
 grandmother_NN1
 was_VBD
 also_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 interfering_VVG
 with_PRP
@@ -35572,7 +35572,7 @@ suffered_VVN
 maist_NN1
 fae_NN2
 her_DPS
-dying_VVG-AJ0
+dying_AJ0
 than_CJS
 her_DPS
 ain_NN1
@@ -35655,9 +35655,9 @@ parents_NN2
 '_POS
 generation_NN1
 were_VBD
-involved_AJ0
+involved_VVN
 in_PRP
-caring_VVG-NN1
+caring_NN1
 Larger_AJC
 family_NN1
 size_NN1
@@ -35780,7 +35780,7 @@ ingenious_AJ0
 man_NN1
 and_CJC
 after_PRP
-retiring_VVG-AJ0
+retiring_VVG
 from_PRP
 the_AT0
 smithy_NN1
@@ -35910,7 +35910,7 @@ mince_NN1
 pies_NN2
 for_PRP
 Christmas_NN1
-peel_VVI
+peel_NN1
 the_AT0
 potatoes_NN2
 for_PRP
@@ -36079,7 +36079,7 @@ each_DT0
 grandchild_NN1
 a_AT0
 wedding_NN1
-present_AJ0-NN1
+present_AJ0
 from_PRP
 his_DPS
 own_DT0
@@ -36104,7 +36104,7 @@ lasted_VVD
 donkey_NN1
 's_POS
 years_NN2
-Donkey_NN1-NP0
+Donkey_NN1
 's_POS
 years_NN2
 Yes_ITJ
@@ -36502,7 +36502,7 @@ especially_AV0
 full_AJ0
 way_NN1
 of_PRF
-house-sharing_NN1-AJ0
+house-sharing_AJ0
 Above_PRP
 all_DT0
 we_PNP
@@ -36523,7 +36523,7 @@ visiting_VVG
 and_CJC
 of_PRF
 practical_AJ0
-caring_VVG-NN1
+caring_NN1
 but_CJC
 equally_AV0
 of_PRF
@@ -36615,7 +36615,7 @@ past_NN1
 as_CJS
 in_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 both_AV0
 through_PRP
 fortune_NN1

@@ -22,7 +22,13 @@ def process_file(file_name):
     for item in strings:
         word = item.text
         pos_tag = item.attrib['c5']
-        processed_string += word.strip()+'_'+pos_tag+'\n'
+        if "-" in pos_tag:
+            pos_tag = pos_tag.split("-")
+            for tag in pos_tag:
+                processed_string += word.strip()+'_'+tag+'\n'
+        else:
+            processed_string += word.strip()+'_'+pos_tag+'\n'
+
     
     #writing the processed string to txt file
     outfile = open(PROCESS_DIR+file_name[0:3]+'.txt','w+')

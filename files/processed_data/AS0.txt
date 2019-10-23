@@ -132,7 +132,7 @@ a_AT0
 bed_NN1
 in_PRP
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 rehabilitation_NN1
 unit_NN1
 to_TO0
@@ -227,7 +227,7 @@ will_VM0
 need_VVB
 The_AT0
 team_NN1
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 care_NN1
@@ -380,7 +380,7 @@ patient_NN1
 to_TO0
 sit_VVI
 or_CJC
-lie_VVI
+lie_VVB
 on_PRP
 The_AT0
 district_NN1
@@ -402,7 +402,7 @@ out_AVP
 of_PRF
 bed_NN1
 and_CJC
-wash_VVI
+wash_NN1
 The_AT0
 patient_NN1
 who_PNQ
@@ -438,7 +438,7 @@ he_PNP
 gradually_AV0
 starts_VVZ
 to_TO0
-wash_VVI
+wash_NN1
 while_CJS
 sitting_VVG
 and_CJC
@@ -676,7 +676,7 @@ carers_NN2
 and_CJC
 everyone_PNI
 else_AV0
-involved_AJ0
+involved_VVN
 will_VM0
 all_DT0
 help_VVI
@@ -726,7 +726,7 @@ services_NN2
 department_NN1
 and_CJC
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 contact_NN1
 is_VBZ
 usually_AV0
@@ -832,7 +832,7 @@ patient_NN1
 partly_AV0
 to_TO0
 make_VVI
-dressing_VVG
+dressing_NN1
 simple_AJ0
 and_CJC
 practical_AJ0
@@ -948,7 +948,7 @@ worker_NN1
 is_VBZ
 not_XX0
 usually_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 early_AJ0
@@ -1119,7 +1119,7 @@ trained_VVN
 in_PRP
 very_AV0
 basic_AJ0
-nursing_AJ0-NN1
+nursing_NN1
 skills_NN2
 if_CJS
 the_AT0
@@ -1624,7 +1624,7 @@ If_CJS
 this_DT0
 was_VBD
 the_AT0
-sleeping_VVG
+sleeping_NN1
 arrangement_NN1
 prior_AJ0
 to_TO0
@@ -1717,7 +1717,7 @@ or_CJC
 should_VM0
 have_VHB
 a_AT0
-head-board_NN1-AJ0
+head-board_NN1
 When_CJS
 the_AT0
 patient_NN1
@@ -2066,9 +2066,9 @@ turn_NN1
 his_DPS
 head_NN1
 or_CJC
-bend_VVI
+bend_NN1
 or_CJC
-crick_NN1
+crick_VVB
 his_DPS
 neck_NN1
 Always_AV0
@@ -2104,7 +2104,7 @@ people_NN0
 up_AVP
 Hemiplegic_AJ0
 patients_NN2
-feel_VVI
+feel_VVB
 the_AT0
 cold_AJ0
 so_AV0
@@ -2128,7 +2128,7 @@ the_AT0
 patient_NN1
 may_VM0
 not_XX0
-feel_VVI
+feel_VVB
 comfortable_AJ0
 in_PRP
 the_AT0
@@ -2194,7 +2194,7 @@ the_AT0
 patient_NN1
 may_VM0
 still_AV0
-feel_VVI
+feel_VVB
 the_AT0
 cold_AJ0
 so_AV0
@@ -2263,7 +2263,7 @@ should_VM0
 also_AV0
 be_VBI
 properly_AV0
-ventilated_VVN-AJ0
+ventilated_VVN
 especially_AV0
 if_CJS
 he_PNP
@@ -2280,7 +2280,7 @@ no_AT0
 other_AJ0
 system_NN1
 of_PRF
-air-conditioning_AJ0-NN1
+air-conditioning_NN1
 and_CJC
 the_AT0
 window_NN1
@@ -2557,7 +2557,7 @@ tends_VVZ
 to_TO0
 topple_VVI
 and_CJC
-fall_VVI
+fall_NN1
 backwards_AV0
 and_CJC
 towards_PRP
@@ -2665,7 +2665,7 @@ been_VBN
 devised_VVN
 to_TO0
 place_NN1
-minimum_AJ0-NN1
+minimum_AJ0
 strain_NN1
 on_PRP
 the_AT0
@@ -2888,7 +2888,7 @@ is_VBZ
 placed_VVN
 slightly_AV0
 forwards_AV0
-relative_AJ0-NN1
+relative_AJ0
 to_TO0
 the_AT0
 other_AJ0
@@ -2899,7 +2899,7 @@ asks_VVZ
 the_AT0
 patient_NN1
 to_TO0
-clasp_VVI
+clasp_VVB
 his_DPS
 hands_NN2
 together_AV0
@@ -3027,7 +3027,7 @@ he_PNP
 holds_VVZ
 his_DPS
 hands_NN2
-clasped_VVN-VVD
+clasped_VVD
 together_AV0
 to_TO0
 avoid_VVI
@@ -3163,7 +3163,7 @@ people_NN0
 can_VM0
 always_AV0
 be_VBI
-present_AJ0-NN1
+present_AJ0
 The_AT0
 pelvic_AJ0
 lift_NN1
@@ -3295,7 +3295,7 @@ nearest_AJS
 to_TO0
 them_PNP
 they_PNP
-clasp_VVI
+clasp_VVB
 their_DPS
 other_AJ0
 hand_NN1
@@ -3418,7 +3418,7 @@ patient_NN1
 keeps_VVZ
 his_DPS
 hands_NN2
-clasped_VVN-VVD
+clasped_VVD
 together_AV0
 throughout_PRP
 the_AT0
@@ -3604,7 +3604,7 @@ patient_NN1
 's_POS
 hands_NN2
 are_VBB
-clasped_VVN-VVD
+clasped_VVD
 together_AV0
 with_PRP
 his_DPS
@@ -4109,7 +4109,7 @@ sensation_NN1
 and_CJC
 can_VM0
 not_XX0
-feel_VVI
+feel_VVB
 when_CJS
 the_AT0
 bladder_NN1
@@ -4397,7 +4397,7 @@ without_PRP
 having_VHG
 learned_VVN
 to_TO0
-wash_VVI
+wash_NN1
 himself_PNX
 properly_AV0
 the_AT0
@@ -4408,7 +4408,7 @@ to_TO0
 help_VVI
 him_PNP
 to_TO0
-wash_VVI
+wash_NN1
 and_CJC
 to_TO0
 teach_VVI
@@ -4449,7 +4449,7 @@ observes_VVZ
 whether_CJS
 he_PNP
 can_VM0
-feed_VVI
+feed_NN1
 himself_PNX
 or_CJC
 whether_CJS
@@ -4688,7 +4688,7 @@ carer_NN1
 has_VHZ
 to_TO0
 be_VBI
-involved_AJ0
+involved_VVN
 in_PRP
 this_DT0
 process_NN1
@@ -4738,7 +4738,7 @@ until_CJS
 the_AT0
 patient_NN1
 can_VM0
-wash_VVI
+wash_NN1
 himself_PNX
 properly_AV0
 and_CJC
@@ -4779,7 +4779,7 @@ is_VBZ
 rather_AV0
 like_PRP
 a_AT0
-ski-chair_NN1-AJ0
+ski-chair_NN1
 with_PRP
 a_AT0
 bar_NN1
@@ -4837,7 +4837,7 @@ for_PRP
 the_AT0
 patient_NN1
 to_TO0
-wash_VVI
+wash_NN1
 himself_PNX
 all_DT0
 over_PRP
@@ -4918,7 +4918,7 @@ easier_AJC
 for_PRP
 him_PNP
 to_TO0
-wash_VVI
+wash_NN1
 himself_PNX
 thoroughly_AV0
 When_CJS
@@ -5028,7 +5028,7 @@ helping_VVG
 the_AT0
 patient_NN1
 to_TO0
-wash_VVI
+wash_NN1
 you_PNP
 should_VM0
 try_VVI
@@ -5085,7 +5085,7 @@ forgetting_VVG
 to_TO0
 shave_VVI
 or_CJC
-wash_VVI
+wash_NN1
 the_AT0
 left_VVN
 half_DT0
@@ -5177,7 +5177,7 @@ carer_NN1
 If_CJS
 you_PNP
 do_VDB
-feel_VVI
+feel_VVB
 revolted_VVD
 when_CJS
 you_PNP
@@ -5188,7 +5188,7 @@ eat_VVI
 you_PNP
 should_VM0
 not_XX0
-feel_VVI
+feel_VVB
 guilty_AJ0
 about_PRP
 it_PNP
@@ -5252,7 +5252,7 @@ the_AT0
 patient_NN1
 can_VM0
 not_XX0
-walk_VVI
+walk_NN1
 or_CJC
 be_VBI
 transported_VVN
@@ -5317,7 +5317,7 @@ you_PNP
 should_VM0
 avoid_VVI
 serving_VVG
-piping_VVG-NN1
+piping_NN1
 hot_AJ0
 boiled_AJ0
 meals_NN2
@@ -5493,7 +5493,7 @@ his_DPS
 head_NN1
 tends_VVZ
 to_TO0
-drop_VVI
+drop_NN1
 forward_AV0
 towards_PRP
 his_DPS
@@ -5899,7 +5899,7 @@ squares_NN2
 or_CJC
 fingers_NN2
 already_AV0
-spread_NN1
+spread_VVN
 with_PRP
 butter_NN1
 or_CJC
@@ -5965,7 +5965,7 @@ chunks_NN2
 or_CJC
 cubes_NN2
 not_XX0
-minced_VVN-AJ0
+minced_VVN
 A_AT0
 meat_NN1
 burger_NN1
@@ -6040,7 +6040,7 @@ chew_VVI
 and_CJC
 swallow_VVI
 Peas_NN2
-sweetcorn_NN1-VVB
+sweetcorn_NN1
 and_CJC
 mushy_AJ0
 soft_AJ0
@@ -6247,7 +6247,7 @@ handle_VVI
 usually_AV0
 made_VVN
 of_PRF
-rubber_AJ0-NN1
+rubber_AJ0
 which_DTQ
 slides_NN2
 onto_PRP
@@ -6352,7 +6352,7 @@ may_VM0
 be_VBI
 preferable_AJ0
 to_TO0
-squeeze_VVI
+squeeze_NN1
 or_CJC
 liquidize_VVI
 fresh_AJ0
@@ -6435,7 +6435,7 @@ glass_NN1
 with_PRP
 both_AV0
 hands_NN2
-clasped_VVN-VVD
+clasped_VVD
 round_AVP
 it_PNP
 If_CJS
@@ -6579,7 +6579,7 @@ programme_NN1
 Some_DT0
 patients_NN2
 relearn_VVI
-dressing_VVG
+dressing_NN1
 very_AV0
 quickly_AV0
 others_NN2
@@ -6590,7 +6590,7 @@ patient_NN1
 should_VM0
 not_XX0
 be_VBI
-pressurized_AJ0-VVD
+pressurized_AJ0
 Initially_AV0
 it_PNP
 may_VM0
@@ -6622,7 +6622,7 @@ stay_VVI
 in_PRP
 pyjamas_NN2
 and_CJC
-dressing_VVG
+dressing_NN1
 gown_NN1
 for_PRP
 a_AT0
@@ -6642,7 +6642,7 @@ If_CJS
 you_PNP
 make_VVI
 him_PNP
-feel_VVI
+feel_VVB
 that_CJT
 he_PNP
 should_VM0
@@ -6722,7 +6722,7 @@ is_VBZ
 unattended_AJ0
 he_PNP
 may_VM0
-fall_VVI
+fall_NN1
 over_PRP
 if_CJS
 he_PNP
@@ -6802,7 +6802,7 @@ is_VBZ
 put_VVI
 into_PRP
 a_AT0
-trouser-leg_NN1-AJ0
+trouser-leg_NN1
 the_AT0
 other_AJ0
 holds_VVZ
@@ -6827,7 +6827,7 @@ one_CRD
 's_POS
 arms_NN2
 can_VM0
-slide_VVI
+slide_NN1
 into_PRP
 the_AT0
 sleeves_NN2
@@ -6956,7 +6956,7 @@ he_PNP
 does_VDZ
 not_XX0
 get_VVI
-involved_AJ0
+involved_VVN
 in_PRP
 making_VVG
 any_DT0
@@ -7022,7 +7022,7 @@ often_AV0
 makes_VVZ
 the_AT0
 patient_NN1
-feel_VVI
+feel_VVB
 vulnerable_AJ0
 It_PNP
 is_VBZ
@@ -7044,7 +7044,7 @@ dignity_NN1
 While_CJS
 you_PNP
 are_VBB
-dressing_VVG
+dressing_NN1
 him_PNP
 you_PNP
 should_VM0
@@ -7191,7 +7191,7 @@ of_PRF
 doing_VDG
 the_AT0
 same_DT0
-dressing_VVG
+dressing_NN1
 task_NN1
 nor_CJC
 must_VM0
@@ -7205,7 +7205,7 @@ can_VM0
 not_XX0
 achieve_VVI
 Everyone_PNI
-involved_AJ0
+involved_VVN
 has_VHZ
 to_TO0
 realize_VVI
@@ -7392,7 +7392,7 @@ might_VM0
 use_NN1
 an_AT0
 all-in-one_AJ0
-slip-over_AJ0-NN1
+slip-over_AJ0
 brassi\xc3\xa8_NN1
 or_CJC
 one_CRD
@@ -7425,7 +7425,7 @@ would_VM0
 have_VHB
 a_AT0
 zip_NN1
-fly_VVI
+fly_NN1
 rather_AV0
 than_CJS
 buttons_NN2
@@ -7516,7 +7516,7 @@ is_VBZ
 sitting_VVG
 down_AVP
 When_CJS
-dressing_VVG
+dressing_NN1
 practice_NN1
 starts_VVZ
 the_AT0
@@ -7572,7 +7572,7 @@ be_VBI
 big_AJ0
 enough_AV0
 to_TO0
-spread_NN1
+spread_VVN
 the_AT0
 garment_NN1
 out_AVP
@@ -7724,7 +7724,7 @@ back_AVP
 Alternatively_AV0
 he_PNP
 might_VM0
-spread_NN1
+spread_VVN
 the_AT0
 front_NN1
 of_PRF
@@ -7957,7 +7957,7 @@ his_DPS
 hemiplegic_AJ0
 leg_NN1
 to_TO0
-cross_VVI
+cross_NN1
 over_PRP
 the_AT0
 other_AJ0
@@ -7997,7 +7997,7 @@ lift_NN1
 the_AT0
 leg_NN1
 up_AVP
-shifting_AJ0-VVG
+shifting_AJ0
 his_DPS
 weight_NN1
 sideways_AV0
@@ -8207,7 +8207,7 @@ Undressing_NP0
 is_VBZ
 easier_AJC
 than_CJS
-dressing_VVG
+dressing_NN1
 as_CJS
 it_PNP
 does_VDZ
@@ -8237,7 +8237,7 @@ of_PRF
 the_AT0
 sequence_NN1
 for_PRP
-dressing_VVG
+dressing_NN1
 The_AT0
 patient_NN1
 often_AV0
@@ -8402,7 +8402,7 @@ with_PRP
 practice_NN1
 of_PRF
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 movements_NN2
 for_PRP
 putting_VVG
@@ -8448,11 +8448,11 @@ most_AV0
 of_PRF
 the_AT0
 actual_AJ0
-dressing_VVG
+dressing_NN1
 The_AT0
 carer_NN1
 is_VBZ
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 routine_NN1
@@ -8518,7 +8518,7 @@ normal_AJ0
 everyday_AJ0
 life_NN1
 and_CJC
-dressing_VVG
+dressing_NN1
 becomes_VVZ
 part_NN1
 of_PRF
@@ -8603,7 +8603,7 @@ spasticity_NN1
 would_VM0
 become_VVI
 more_AV0
-entrenched_AJ0
+entrenched_VVN
 and_CJC
 pronounced_AJ0
 It_PNP
@@ -8794,7 +8794,7 @@ rest_NN1
 he_PNP
 should_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 in_PRP
 some_DT0
 activity_NN1
@@ -8944,7 +8944,7 @@ lazy_AJ0
 While_CJS
 you_PNP
 can_VM0
-substitute_NN1-AJ0
+substitute_NN1
 another_DT0
 activity_NN1
 for_PRP
@@ -9064,10 +9064,10 @@ magazines_NN2
 so_AV0
 that_CJT
 some_DT0
-intellectual_AJ0-NN1
+intellectual_AJ0
 stimulus_NN1
 is_VBZ
-involved_AJ0
+involved_VVN
 Activities_NN2
 in_PRP
 the_AT0
@@ -9225,7 +9225,7 @@ very_AV0
 young_AJ0
 children_NN2
 about_PRP
-matching_VVG
+matching_AJ0
 objects_NN2
 shapes_NN2
 and_CJC
@@ -9361,7 +9361,7 @@ same_DT0
 purpose_NN1
 Reading_NP0
 and_CJC
-listening_VVG-NN1
+listening_VVG
 can_VM0
 also_AV0
 help_VVI
@@ -9407,7 +9407,7 @@ letter_NN1
 units_NN2
 from_PRP
 a_AT0
-Scrabble_NN1-NP0
+Scrabble_NN1
 set_VVN
 are_VBB
 useful_AJ0
@@ -9425,7 +9425,7 @@ problems_NN2
 may_VM0
 enjoy_VVI
 playing_VVG
-Scrabble_NN1-NP0
+Scrabble_NN1
 itself_PNX
 He_PNP
 may_VM0
@@ -9447,7 +9447,7 @@ a_AT0
 patient_NN1
 with_PRP
 severe_AJ0
-word-finding_AJ0-NN1
+word-finding_NN1
 difficulties_NN2
 you_PNP
 may_VM0
@@ -9481,7 +9481,7 @@ time_NN1
 he_PNP
 wants_VVZ
 something_PNI
-Learning_VVG-NN1
+Learning_NN1
 handwriting_NN1
 with_PRP
 the_AT0
@@ -9524,7 +9524,7 @@ is_VBZ
 slightly_AV0
 easier_AJC
 to_TO0
-feed_VVI
+feed_NN1
 paper_NN1
 one-handed_AV0
 into_PRP
@@ -9598,7 +9598,7 @@ as_CJS
 drawing_NN1
 painting_NN1
 or_CJC
-needlepoint_VVB-NN1
+needlepoint_VVB
 you_PNP
 should_VM0
 try_VVI
@@ -9622,7 +9622,7 @@ secure_VVI
 a_AT0
 canvas_NN1
 or_CJC
-needlepoint_VVB-NN1
+needlepoint_VVB
 frame_NN1
 in_PRP
 clamps_NN2
@@ -9752,7 +9752,7 @@ the_AT0
 patient_NN1
 's_POS
 needs_VVZ
-Visiting_AJ0-VVG
+Visiting_VVG
 friends_NN2
 can_VM0
 be_VBI
@@ -9905,16 +9905,16 @@ may_VM0
 be_VBI
 able_AJ0
 to_TO0
-wash_VVI
+wash_NN1
 up_AVP
 or_CJC
-cook_VVI
+cook_NN1
 and_CJC
 practise_VVI
 planning_NN1
 and_CJC
 problem-solving_NN1
-Cooking_VVG-NN1
+Cooking_NN1
 from_PRP
 a_AT0
 recipe_NN1
@@ -10217,7 +10217,7 @@ he_PNP
 is_VBZ
 likely_AJ0
 to_TO0
-feel_VVI
+feel_VVB
 much_DT0
 more_AV0
 satisfied_AJ0
@@ -10243,7 +10243,7 @@ patient_NN1
 first_ORD
 opportunity_NN1
 to_TO0
-feel_VVI
+feel_VVB
 he_PNP
 has_VHZ
 achieved_VVN
@@ -10369,7 +10369,7 @@ outside_PRP
 It_PNP
 may_VM0
 need_VVB
-hosing_VVG-NN1
+hosing_NN1
 at_PRP
 high_AJ0
 pressure_NN1
@@ -10465,10 +10465,10 @@ over_PRP
 or_CJC
 if_CJS
 he_PNP
-slips_NN2
+slips_VVZ
 A_AT0
 soft_AJ0
-rubber_AJ0-NN1
+rubber_AJ0
 ball_NN1
 like_PRP
 a_AT0
@@ -10544,7 +10544,7 @@ patient_NN1
 should_VM0
 wear_VVI
 a_AT0
-sun-hat_NN1-AJ0
+sun-hat_NN1
 and_CJC
 neckerchief_NN1
 and_CJC
@@ -10603,7 +10603,7 @@ kept_VVD
 up_AVP
 to_TO0
 date_NN1
-Raised_AJ0-VVN
+Raised_VVN
 flower_NN1
 beds_NN2
 are_VBB
@@ -10770,7 +10770,7 @@ him_PNP
 from_PRP
 having_VHG
 to_TO0
-bend_VVI
+bend_NN1
 over_PRP
 too_AV0
 far_AV0
@@ -10804,7 +10804,7 @@ such_DT0
 as_CJS
 a_AT0
 hoe_NN1
-rake_NN1-VVB
+rake_NN1
 or_CJC
 spade_NN1
 Otherwise_AV0
@@ -10838,7 +10838,7 @@ weeder_NN1
 hoe_NN1
 trowel_NN1
 or_CJC
-rake_NN1-VVB
+rake_NN1
 with_PRP
 long_AJ0
 medium_NN1
@@ -11134,7 +11134,7 @@ it_PNP
 without_PRP
 having_VHG
 to_TO0
-bend_VVI
+bend_NN1
 too_AV0
 far_AV0
 The_AT0
@@ -11308,7 +11308,7 @@ local_AJ0
 library_NN1
 or_CJC
 contact_NN1
-specialist_NN1-AJ0
+specialist_NN1
 organizations_NN2
 such_DT0
 as_CJS
@@ -11337,7 +11337,7 @@ to_TO0
 sports_NN2
 when_CJS
 they_PNP
-feel_VVI
+feel_VVB
 well_AV0
 enough_AV0
 They_PNP
@@ -11372,8 +11372,8 @@ player_NN1
 performance_NN1
 a_AT0
 little_AJ0
-Walking_VVG-NN1
-cycling_VVG-NN1
+Walking_VVG
+cycling_VVG
 and_CJC
 swimming_NN1
 are_VBB
@@ -11404,7 +11404,7 @@ Sports_NN2
 like_PRP
 bowls_NN2
 and_CJC
-snooker_NN1-VVB
+snooker_NN1
 are_VBB
 excellent_AJ0
 practice_NN1
@@ -11559,7 +11559,7 @@ competition_NN1
 If_CJS
 he_PNP
 was_VBD
-involved_AJ0
+involved_VVN
 in_PRP
 competitive_AJ0
 sports_NN2
@@ -11615,7 +11615,7 @@ physiotherapist_NN1
 and_CJC
 the_AT0
 carers_NN2
-feel_VVI
+feel_VVB
 it_PNP
 is_VBZ
 realistic_AJ0
@@ -11797,7 +11797,7 @@ the_AT0
 patient_NN1
 can_VM0
 not_XX0
-walk_VVI
+walk_NN1
 at_PRP
 all_DT0
 you_PNP
@@ -11847,7 +11847,7 @@ If_CJS
 the_AT0
 patient_NN1
 can_VM0
-walk_VVI
+walk_NN1
 but_CJC
 your_DPS
 steps_NN2
@@ -11900,7 +11900,7 @@ the_AT0
 back_AVP
 door_NN1
 and_CJC
-walk_VVI
+walk_NN1
 or_CJC
 be_VBI
 wheeled_VVN
@@ -11971,7 +11971,7 @@ outing_NN1
 so_AV0
 that_CJT
 you_PNP
-walk_VVI
+walk_NN1
 short_AJ0
 distances_NN2
 between_PRP
@@ -12047,7 +12047,7 @@ legs_NN2
 might_VM0
 easily_AV0
 be_VBI
-jarred_VVN-AJ0
+jarred_VVN
 or_CJC
 hit_VVD
 You_PNP
@@ -12134,7 +12134,7 @@ as_CJS
 the_AT0
 patient_NN1
 might_VM0
-fall_VVI
+fall_NN1
 out_AVP
 of_PRF
 the_AT0
@@ -12263,7 +12263,7 @@ the_AT0
 car_NN1
 you_PNP
 should_VM0
-fold_VVI
+fold_NN1
 it_PNP
 so_AV0
 that_CJT
@@ -12314,7 +12314,7 @@ your_DPS
 thighs_NN2
 and_CJC
 then_AV0
-slide_VVI
+slide_NN1
 it_PNP
 into_PRP
 the_AT0
@@ -12640,7 +12640,7 @@ If_CJS
 the_AT0
 patient_NN1
 can_VM0
-walk_VVI
+walk_NN1
 you_PNP
 should_VM0
 make_VVI
@@ -12763,7 +12763,7 @@ meal_NN1
 The_AT0
 patient_NN1
 may_VM0
-feel_VVI
+feel_VVB
 embarrassed_AJ0
 at_PRP
 first_ORD
@@ -12830,7 +12830,7 @@ When_CJS
 the_AT0
 patient_NN1
 can_VM0
-walk_VVI
+walk_NN1
 safely_AV0
 he_PNP
 may_VM0
@@ -12890,7 +12890,7 @@ outing_NN1
 as_CJS
 a_AT0
 short_AJ0
-walk_VVI
+walk_NN1
 down_AVP
 the_AT0
 road_NN1
@@ -12931,7 +12931,7 @@ He_PNP
 may_VM0
 tend_VVB
 to_TO0
-walk_VVI
+walk_NN1
 slightly_AV0
 sideways_AV0
 towards_PRP
@@ -12975,7 +12975,7 @@ road_NN1
 or_CJC
 trip_NN1
 and_CJC
-fall_VVI
+fall_NN1
 He_PNP
 may_VM0
 go_VVI
@@ -12989,7 +12989,7 @@ get_VVI
 too_AV0
 tired_AJ0
 to_TO0
-walk_VVI
+walk_NN1
 back_AVP
 safely_AV0
 He_PNP
@@ -13001,7 +13001,7 @@ crossing_VVG
 a_AT0
 road_NN1
 by_PRP
-fast_AV0-AJ0
+fast_AJ0
 cars_NN2
 by_PRP
 crowds_NN2
@@ -13017,7 +13017,7 @@ he_PNP
 may_VM0
 panic_NN1
 and_CJC
-freeze_VVI
+freeze_NN1
 in_PRP
 these_DT0
 situations_NN2
@@ -13175,7 +13175,7 @@ him_PNP
 more_AV0
 likely_AJ0
 to_TO0
-fall_VVI
+fall_NN1
 Looking_VVG
 down_AVP
 carries_VVZ
@@ -13194,7 +13194,7 @@ him_PNP
 When_CJS
 he_PNP
 can_VM0
-walk_VVI
+walk_NN1
 outside_PRP
 confidently_AV0
 the_AT0
@@ -13221,7 +13221,7 @@ time_NN1
 to_TO0
 complete_AJ0
 his_DPS
-walk_VVI
+walk_NN1
 This_DT0
 type_NN1
 of_PRF
@@ -13230,14 +13230,14 @@ helps_VVZ
 the_AT0
 patient_NN1
 to_TO0
-walk_VVI
+walk_NN1
 further_AJC
 without_PRP
 losing_VVG
 his_DPS
 ability_NN1
 to_TO0
-walk_VVI
+walk_NN1
 correctly_AV0
 Crossing_VVG
 roads_NN2
@@ -13270,7 +13270,7 @@ the_AT0
 traffic_NN1
 is_VBZ
 moving_VVG
-fast_AV0-AJ0
+fast_AJ0
 he_PNP
 may_VM0
 prefer_VVB
@@ -13307,7 +13307,7 @@ to_TO0
 allow_VVI
 him_PNP
 to_TO0
-cross_VVI
+cross_NN1
 the_AT0
 helper_NN1
 should_VM0
@@ -13366,7 +13366,7 @@ may_VM0
 be_VBI
 panic-stricken_AJ0
 by_PRP
-revving_VVG-AJ0
+revving_AJ0
 engines_NN2
 or_CJC
 impatient_AJ0
@@ -13425,7 +13425,7 @@ he_PNP
 will_VM0
 have_VHB
 to_TO0
-cross_VVI
+cross_NN1
 roads_NN2
 In_PRP
 order_NN1
@@ -13462,7 +13462,7 @@ there_EX0
 is_VBZ
 time_NN1
 to_TO0
-cross_VVI
+cross_NN1
 the_AT0
 road_NN1
 and_CJC
@@ -13511,7 +13511,7 @@ should_VM0
 certainly_AV0
 wear_VVI
 a_AT0
-dog-tag_NN1-AJ0
+dog-tag_NN1
 or_CJC
 carry_VVI
 an_AT0
@@ -13662,7 +13662,7 @@ colour_NN1
 coded_AJ0
 as_CJS
 well_AV0
-Planning_NN1-VVG
+Planning_NN1
 each_DT0
 outing_NN1
 is_VBZ
@@ -13811,7 +13811,7 @@ not_XX0
 been_VBN
 able_AJ0
 to_TO0
-drive_VVI
+drive_NN1
 for_PRP
 several_DT0
 months_NN2
@@ -13864,7 +13864,7 @@ need_VVB
 When_CJS
 the_AT0
 patient_NN1
-restarts_NN2-VVZ
+restarts_VVZ
 driving_VVG
 he_PNP
 may_VM0
@@ -13890,7 +13890,7 @@ Motoring_NN1
 BSM_NP0
 which_DTQ
 have_VHB
-specialist_NN1-AJ0
+specialist_NN1
 instructors_NN2
 for_PRP
 people_NN0
@@ -13976,7 +13976,7 @@ in_PRP
 his_DPS
 car_NN1
 and_CJC
-drive_VVI
+drive_NN1
 around_PRP
 before_PRP
 he_PNP
@@ -13985,7 +13985,7 @@ been_VBN
 pronounced_AJ0
 competent_AJ0
 to_TO0
-drive_VVI
+drive_NN1
 and_CJC
 has_VHZ
 organized_VVN
@@ -14018,7 +14018,7 @@ the_AT0
 patient_NN1
 can_VM0
 not_XX0
-walk_VVI
+walk_NN1
 he_PNP
 may_VM0
 still_AV0
@@ -14102,7 +14102,7 @@ actions_NN2
 If_CJS
 relearning_VVG
 to_TO0
-walk_VVI
+walk_NN1
 safely_AV0
 takes_VVZ
 several_DT0
@@ -14408,7 +14408,7 @@ unable_AJ0
 to_TO0
 receive_VVI
 the_AT0
-specialist_NN1-AJ0
+specialist_NN1
 rehabilitation_NN1
 treatment_NN1
 which_DTQ
@@ -14564,7 +14564,7 @@ said_VVD
 that_CJT
 the_AT0
 British_AJ0
-lag_NN1-VVB
+lag_NN1
 behind_PRP
 other_AJ0
 European_AJ0
@@ -14595,7 +14595,7 @@ his_DPS
 social_AJ0
 worker_NN1
 The_AT0
-Disablement_NN1-NP0
+Disablement_NN1
 Resettlement_NN1
 Officer_NN1
 a_AT0
@@ -14689,7 +14689,7 @@ people_NN0
 in_PRP
 Britain_NP0
 is_VBZ
-Remploy_NP0-NN1
+Remploy_NN1
 which_DTQ
 is_VBZ
 run_VVI
@@ -14942,7 +14942,7 @@ of_PRF
 his_DPS
 full_AJ0
 recovery_NN1
-Caring_VVG-NN1
+Caring_VVG
 for_PRP
 the_AT0
 carer_NN1
@@ -15138,7 +15138,7 @@ the_AT0
 Chest_NN1
 Heart_NN1
 and_CJC
-Stroke_VVB-NN1
+Stroke_NN1
 Association_NN1
 CHSA_NP0
 among_PRP
@@ -15536,7 +15536,7 @@ as_CJS
 making_VVG
 provision_NN1
 for_PRP
-caring_VVG-NN1
+caring_NN1
 for_PRP
 the_AT0
 patient_NN1
@@ -15750,7 +15750,7 @@ and_CJC
 if_CJS
 you_PNP
 still_AV0
-feel_VVI
+feel_VVB
 the_AT0
 same_DT0
 warmth_NN1
@@ -15866,8 +15866,8 @@ person_NN1
 However_AV0
 if_CJS
 you_PNP
-feel_VVI
-repulsed_VVD-VVN
+feel_VVB
+repulsed_VVN
 by_PRP
 the_AT0
 physical_AJ0
@@ -15891,7 +15891,7 @@ towards_PRP
 him_PNP
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 can_VM0
 not_XX0
@@ -15929,7 +15929,7 @@ the_AT0
 patient_NN1
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 have_VHB
 to_TO0
@@ -16287,7 +16287,7 @@ the_AT0
 patient_NN1
 responds_VVZ
 with_PRP
-exaggerated_AJ0
+exaggerated_VVN
 emotions_NN2
 for_PRP
 instance_NN1
@@ -16346,7 +16346,7 @@ of_PRF
 a_AT0
 tragedy_NN1
 or_CJC
-cry_VVI
+cry_NN1
 at_PRP
 joyful_AJ0
 news_NN1
@@ -16422,7 +16422,7 @@ is_VBZ
 ill-tempered_AJ0
 and_CJC
 perhaps_AV0
-foulmouthed_VVD-VVN
+foulmouthed_VVN
 towards_PRP
 you_PNP
 because_CJS
@@ -16511,7 +16511,7 @@ the_AT0
 doctor_NN1
 or_CJC
 hospital_NN1
-specialist_NN1-AJ0
+specialist_NN1
 rather_AV0
 than_CJS
 trying_VVG
@@ -16533,7 +16533,7 @@ are_VBB
 coping_VVG
 well_AV0
 enough_AV0
-overall_AJ0-NN1
+overall_AJ0
 you_PNP
 may_VM0
 sometimes_AV0
@@ -16565,7 +16565,7 @@ created_VVN
 You_PNP
 may_VM0
 even_AV0
-feel_VVI
+feel_VVB
 like_PRP
 hitting_VVG
 him_PNP
@@ -16577,7 +16577,7 @@ stage_NN1
 you_PNP
 will_VM0
 probably_AV0
-feel_VVI
+feel_VVB
 guilty_AJ0
 about_PRP
 it_PNP
@@ -16777,7 +16777,7 @@ Although_CJS
 the_AT0
 patient_NN1
 may_VM0
-feel_VVI
+feel_VVB
 more_AV0
 comfortable_AJ0
 with_PRP
@@ -17050,7 +17050,7 @@ Centre_NN1
 run_VVI
 by_PRP
 the_AT0
-Local_NN1-AJ0
+Local_AJ0
 Authority_NN1
 In_PRP
 your_DPS
@@ -17100,9 +17100,9 @@ social_AJ0
 club_NN1
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 specially_AV0
-stressed_VVD
+stressed_VVN
 you_PNP
 could_VM0
 go_VVI
@@ -17254,7 +17254,7 @@ time_NN1
 in_PRP
 a_AT0
 private_AJ0
-nursing_AJ0-NN1
+nursing_NN1
 home_NN1
 possibly_AV0
 paid_VVN
@@ -17336,7 +17336,7 @@ so_AV0
 you_PNP
 should_VM0
 not_XX0
-feel_VVI
+feel_VVB
 guilty_AJ0
 about_PRP
 taking_VVG
@@ -17519,7 +17519,7 @@ energy_NN1
 Let_VVB
 the_AT0
 patient_NN1
-act_VVI
+act_NN1
 for_PRP
 himself_PNX
 when_CJS
@@ -17803,7 +17803,7 @@ care_NN1
 ask_VVI
 the_AT0
 relevant_AJ0
-specialist_NN1-AJ0
+specialist_NN1
 from_PRP
 your_DPS
 rehabilitation_NN1
@@ -17816,16 +17816,16 @@ THE_AT0
 REHABILITATION_NN1
 TEAM_NN1
 THE_AT0
-PELVIC_AJ0-NN1
+PELVIC_AJ0
 LIFT_NN1
 THE_AT0
 PATIENT_NN1
-HOLD_VVB-NN1
+HOLD_VVB
 THE_AT0
 CORRECT_AJ0
 POSITION_NN1
 DURING_PRP
-WASHING_NN1-VVG
+WASHING_VVG
 THE_AT0
 PATIENT_NN1
 WITH_PRP
@@ -17836,7 +17836,7 @@ NEED_VVB
 CONSTANT_AJ0
 GUIDANCE_NN1
 WHEN_CJS
-WASHING_NN1-VVG
+WASHING_VVG
 OR_CJC
 SHAVING_NP0
 TO_PRP
@@ -17849,14 +17849,14 @@ OF_PRF
 HIS_DPS
 FACE_NN1
 EXISTS_VVZ
-DRINKING_VVG-NN1
+DRINKING_NN1
 FROM_PRP
 A_AT0
 CUP_NN1
 THE_AT0
 PATIENT_NN1
 RESTING_NN1
-SITTING_VVG-AJ0
+SITTING_VVG
 IN_PRP
 A_AT0
 CHAIR_NN1
@@ -17880,7 +17880,7 @@ IT_NN1
 INTO_PRP
 THE_AT0
 CAR_NN1
-BOOT_NN1-VVB
+BOOT_NN1
 A_AT0
 MOTORISED_AJ0
 BUGGY_NN1
@@ -17893,7 +17893,7 @@ WORK_NN1
 HAIRDRESSING_NN1
 AFTER_PRP
 A_AT0
-STROKE_NN1-VVB
+STROKE_VVB
 STANDING_VVG
 ALL_DT0
 DAY_NN1
@@ -17931,13 +17931,13 @@ there_EX0
 is_VBZ
 no_AT0
 viable_AJ0
-substitute_NN1-AJ0
+substitute_NN1
 for_PRP
 it_PNP
 Everyone_PNI
-involved_AJ0
+involved_VVN
 in_PRP
-caring_VVG-NN1
+caring_NN1
 for_PRP
 the_AT0
 patient_NN1
@@ -17987,7 +17987,7 @@ good_AJ0
 co-operation_NN1
 from_PRP
 the_AT0
-nursing_AJ0-NN1
+nursing_NN1
 and_CJC
 medical_AJ0
 practitioners_NN2
@@ -18004,7 +18004,7 @@ fully_AV0
 qualified_AJ0
 physiotherapist_NN1
 with_PRP
-specialist_NN1-AJ0
+specialist_NN1
 training_NN1
 in_PRP
 the_AT0
@@ -18047,7 +18047,7 @@ to_TO0
 be_VBI
 able_AJ0
 to_TO0
-walk_VVI
+walk_NN1
 and_CJC
 function_NN1
 independently_AV0
@@ -18451,7 +18451,7 @@ undamaged_AJ0
 parts_NN2
 resulting_VVG
 in_PRP
-increased_AJ0
+increased_VVN
 spasticity_NN1
 Spasticity_NN1
 can_VM0
@@ -18565,7 +18565,7 @@ patient_NN1
 is_VBZ
 totally_AV0
 actively_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 it_PNP
 If_CJS
@@ -18646,7 +18646,7 @@ physiotherapist_NN1
 's_POS
 instructions_NN2
 and_CJC
-relaxing_VVG-AJ0
+relaxing_VVG
 into_PRP
 the_AT0
 required_VVN
@@ -18754,7 +18754,7 @@ is_VBZ
 motivator_NN1
 and_CJC
 facilitator_NN1
-inspiring_VVG-AJ0
+inspiring_AJ0
 and_CJC
 encouraging_AJ0
 the_AT0
@@ -19069,7 +19069,7 @@ to_TO0
 his_DPS
 helpers_NN2
 for_PRP
-dear_ITJ
+dear_NN1
 life_NN1
 He_PNP
 would_VM0
@@ -19090,7 +19090,7 @@ not_XX0
 yet_AV0
 expect_VVI
 to_TO0
-walk_VVI
+walk_NN1
 safely_AV0
 As_CJS
 a_AT0
@@ -19142,11 +19142,11 @@ given_VVN
 a_AT0
 tripod_NN1
 or_CJC
-quadrupod_NN1-VVB
+quadrupod_VVB
 and_CJC
 taught_VVN
 to_TO0
-walk_VVI
+walk_NN1
 by_PRP
 using_VVG
 his_DPS
@@ -19216,7 +19216,7 @@ that_CJT
 he_PNP
 can_VM0
 only_AV0
-walk_VVI
+walk_NN1
 slowly_AV0
 with_PRP
 constant_AJ0
@@ -19228,7 +19228,7 @@ much_DT0
 more_AV0
 likely_AJ0
 to_TO0
-fall_VVI
+fall_NN1
 over_PRP
 if_CJS
 he_PNP
@@ -19241,7 +19241,7 @@ if_CJS
 he_PNP
 is_VBZ
 distracted_VVN
-Planning_NN1-VVG
+Planning_NN1
 the_AT0
 treatment_NN1
 programme_NN1
@@ -19390,7 +19390,7 @@ sessions_NN2
 and_CJC
 in_PRP
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 programme_NN1
 The_AT0
 rehabilitation_NN1
@@ -19485,7 +19485,7 @@ able_AJ0
 to_TO0
 control_NN1
 and_CJC
-inhibit_VVI
+inhibit_VVB
 the_AT0
 abnormal_AJ0
 tonus_NN1
@@ -19613,7 +19613,7 @@ patient_NN1
 's_POS
 needs_VVZ
 both_AV0
-overall_AJ0-NN1
+overall_AJ0
 and_CJC
 from_PRP
 session_NN1
@@ -19682,7 +19682,7 @@ be_VBI
 working_VVG
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 the_AT0
 patient_NN1
 is_VBZ
@@ -19822,7 +19822,7 @@ to_TO0
 arrange_VVI
 for_PRP
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 physiotherapist_NN1
 to_TO0
 visit_NN1
@@ -19850,8 +19850,8 @@ be_VBI
 transferred_VVN
 to_TO0
 a_AT0
-specialist_NN1-AJ0
-Stroke_VVB-NN1
+specialist_NN1
+Stroke_NN1
 Unit_NN1
 or_CJC
 have_VHB
@@ -19860,7 +19860,7 @@ private_AJ0
 consultation_NN1
 with_PRP
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 physiotherapist_NN1
 If_CJS
 you_PNP
@@ -19890,7 +19890,7 @@ treatment_NN1
 programme_NN1
 with_PRP
 the_AT0
-specialist_NN1-AJ0
+specialist_NN1
 physiotherapist_NN1
 Otherwise_AV0
 your_DPS
@@ -19902,7 +19902,7 @@ willing_AJ0
 to_TO0
 see_VVI
 the_AT0
-specialist_NN1-AJ0
+specialist_NN1
 with_PRP
 you_PNP
 for_PRP
@@ -19933,7 +19933,7 @@ to_TO0
 involve_VVI
 a_AT0
 second_ORD
-specialist_NN1-AJ0
+specialist_NN1
 physiotherapist_NN1
 if_CJS
 the_AT0
@@ -19957,7 +19957,7 @@ maintained_VVN
 between_PRP
 the_AT0
 physiotherapists_NN2
-involved_AJ0
+involved_VVN
 and_CJC
 with_PRP
 the_AT0
@@ -19993,7 +19993,7 @@ benefit_NN1
 of_PRF
 seeing_VVG
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 will_VM0
 soon_AV0
 be_VBI
@@ -20012,7 +20012,7 @@ treatment_NN1
 sessions_NN2
 When_CJS
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 physiotherapist_NN1
 organizes_VVZ
 a_AT0
@@ -20210,7 +20210,7 @@ inches_NN2
 wide_AJ0
 In_PRP
 many_DT0
-specialist_NN1-AJ0
+specialist_NN1
 centres_NN2
 two_CRD
 plinths_NN2
@@ -20257,7 +20257,7 @@ physiotherapist_NN1
 may_VM0
 carry_VVI
 a_AT0
-folding_VVG
+folding_AJ0
 board_NN1
 to_TO0
 place_NN1
@@ -20360,7 +20360,7 @@ the_AT0
 top_NN1
 tapering_AJ0
 down_AVP
-lengthwise_AV0-AJ0
+lengthwise_AV0
 to_TO0
 form_NN1
 the_AT0
@@ -20446,7 +20446,7 @@ simultaneously_AV0
 to_TO0
 help_VVI
 his_DPS
-overall_AJ0-NN1
+overall_AJ0
 awareness_NN1
 The_AT0
 patient_NN1
@@ -21049,7 +21049,7 @@ in_PRP
 order_NN1
 not_XX0
 to_TO0
-jerk_VVI
+jerk_NN1
 upwards_AV0
 awkwardly_AV0
 or_CJC
@@ -21331,7 +21331,7 @@ hands_NN2
 flat_AJ0
 and_CJC
 fingers_NN2
-spread_NN1
+spread_VVN
 open_AJ0
 Holding_VVG
 the_AT0
@@ -21728,7 +21728,7 @@ If_CJS
 he_PNP
 were_VBD
 to_TO0
-lie_VVI
+lie_VVB
 flat_AJ0
 associated_VVN
 reactions_NN2
@@ -22200,7 +22200,7 @@ arms_NN2
 are_VBB
 straight_AV0
 and_CJC
-spread_NN1
+spread_VVN
 slightly_AV0
 apart_AV0
 The_AT0
@@ -22324,7 +22324,7 @@ with_PRP
 the_AT0
 patient_NN1
 well_AV0
-stabilized_VVD-VVN
+stabilized_VVN
 by_PRP
 the_AT0
 plinth_NN1
@@ -22424,7 +22424,7 @@ so_AV0
 that_CJT
 he_PNP
 can_VM0
-bend_VVI
+bend_NN1
 over_PRP
 it_PNP
 and_CJC
@@ -22625,7 +22625,7 @@ and_CJC
 prevent_VVI
 him_PNP
 from_PRP
-folding_VVG
+folding_AJ0
 in_PRP
 the_AT0
 middle_NN1
@@ -22747,7 +22747,7 @@ pelvis_NN1
 during_PRP
 the_AT0
 movement_NN1
-Walking_VVG-NN1
+Walking_VVG
 is_VBZ
 taught_VVN
 through_PRP
@@ -22759,7 +22759,7 @@ all_DT0
 the_AT0
 different_AJ0
 aspects_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 making_VVG
 single_AJ0
@@ -22800,7 +22800,7 @@ the_AT0
 patient_NN1
 learns_VVZ
 to_TO0
-walk_VVI
+walk_NN1
 without_PRP
 any_DT0
 support_NN1
@@ -22816,7 +22816,7 @@ a_AT0
 stick_NN1
 tripod_NN1
 or_CJC
-quadrupod_NN1-VVB
+quadrupod_VVB
 his_DPS
 body_NN1
 balance_NN1
@@ -22836,7 +22836,7 @@ necessary_AJ0
 body_NN1
 control_NN1
 to_TO0
-walk_VVI
+walk_NN1
 safely_AV0
 However_AV0
 if_CJS
@@ -23058,7 +23058,7 @@ the_AT0
 patient_NN1
 can_VM0
 practise_VVI
-synchronized_VVN-VVD
+synchronized_VVN
 arm_NN1
 movements_NN2
 Another_DT0
@@ -23234,7 +23234,7 @@ his_DPS
 heels_NN2
 and_CJC
 then_AV0
-shifting_AJ0-VVG
+shifting_AJ0
 his_DPS
 weight_NN1
 towards_PRP
@@ -23258,7 +23258,7 @@ of_PRF
 his_DPS
 bodyweight_NN1
 is_VBZ
-transmitted_AJ0-VVN
+transmitted_VVN
 from_PRP
 side_NN1
 to_TO0
@@ -23287,13 +23287,13 @@ this_DT0
 once_AV0
 they_PNP
 can_VM0
-walk_VVI
+walk_NN1
 in_PRP
 case_NN1
 they_PNP
 have_VHB
 a_AT0
-fall_VVI
+fall_NN1
 If_CJS
 the_AT0
 patient_NN1
@@ -23326,7 +23326,7 @@ a_AT0
 chair_NN1
 he_PNP
 will_VM0
-feel_VVI
+feel_VVB
 confident_AJ0
 that_CJT
 he_PNP
@@ -23375,7 +23375,7 @@ any_DT0
 associated_VVN
 reactions_NN2
 or_CJC
-increased_AJ0
+increased_VVN
 spasticity_NN1
 as_CJS
 he_PNP
@@ -23393,7 +23393,7 @@ would_VM0
 be_VBI
 able_AJ0
 to_TO0
-walk_VVI
+walk_NN1
 and_CJC
 any_DT0
 work_NN1
@@ -23414,7 +23414,7 @@ he_PNP
 had_VHD
 a_AT0
 slight_AJ0
-limp_VVI
+limp_NN1
 The_AT0
 prone_AJ0
 position_NN1
@@ -23436,7 +23436,7 @@ become_VVI
 severely_AV0
 disorientated_AJ0
 with_PRP
-increased_AJ0
+increased_VVN
 flexor_NN1
 spasticity_NN1
 To_TO0
@@ -23459,7 +23459,7 @@ going_VVG
 down_AVP
 gently_AV0
 to_TO0
-lie_VVI
+lie_VVB
 on_PRP
 his_DPS
 back_AVP
@@ -23496,7 +23496,7 @@ be_VBI
 guided_VVN
 downwards_AV0
 to_TO0
-lie_VVI
+lie_VVB
 on_PRP
 his_DPS
 stomach_NN1
@@ -23630,7 +23630,7 @@ so_AV0
 that_CJT
 he_PNP
 can_VM0
-walk_VVI
+walk_NN1
 on_PRP
 his_DPS
 knees_NN2
@@ -23677,18 +23677,18 @@ home_NN1
 until_CJS
 he_PNP
 can_VM0
-walk_VVI
+walk_NN1
 fairly_AV0
 normally_AV0
 and_CJC
 without_PRP
 any_DT0
-increased_AJ0
+increased_VVN
 spasticity_NN1
 in_PRP
 his_DPS
 arm_NN1
-Walking_VVG-NN1
+Walking_VVG
 without_PRP
 full_AJ0
 control_NN1
@@ -23764,7 +23764,7 @@ point_NN1
 where_AVQ
 he_PNP
 can_VM0
-walk_VVI
+walk_NN1
 correctly_AV0
 and_CJC
 safely_AV0
@@ -24232,19 +24232,19 @@ PATIENT_NN1
 AWAY_AV0
 FROM_PRP
 THE_AT0
-UPRIGHT_NN1-AJ0
+UPRIGHT_AJ0
 POSITION_NN1
 AND_CJC
 THE_AT0
 PATIENT_NN1
-RETURNS_NN2-VVZ
+RETURNS_VVZ
 TO_PRP
 THE_AT0
-UPRIGHT_NN1-AJ0
+UPRIGHT_AJ0
 USING_VVG
 TRUNK_NN1
 AND_CJC
-PELVIS_NP0-NN1
+PELVIS_NN1
 THE_AT0
 PATIENT_NN1
 IS_VBZ
@@ -24262,14 +24262,14 @@ PATIENT_NN1
 'S_POS
 HEAD_NN1
 AND_CJC
-PELVIS_NP0-NN1
+PELVIS_NN1
 THE_AT0
 PHYSIOTHERAPIST_NN1
 CONTROLS_VVZ
 THE_AT0
 PATIENT_NN1
 'S_POS
-PELVIS_NP0-NN1
+PELVIS_NN1
 DURING_PRP
 ROTATION_NN1
 MOVEMENTS_NN2
@@ -24280,7 +24280,7 @@ TRUNK_NN1
 AND_CJC
 SHOULDER_NN1
 GIRDLE_NN1
-GUIDING_VVG-AJ0
+GUIDING_AJ0
 MOVEMENT_NN1
 FOR_PRP
 THE_AT0
@@ -24312,12 +24312,12 @@ SUPPORTING_AJ0
 ACTION_NN1
 THE_AT0
 PHYSIOTHERAPIST_NN1
-CONCENTRATES_VVZ-NN2
+CONCENTRATES_VVZ
 ON_PRP
 LENGTHENING_VVG
 OF_PRF
 THE_AT0
-SOLE_NN1-AJ0
+SOLE_AJ0
 OF_PRF
 THE_AT0
 FOOT_NN1
@@ -24338,11 +24338,11 @@ SHOULDER_NN1
 AND_CJC
 ARM_NN1
 SELECTIVE_AJ0
-GRADE_VVB-NN1
+GRADE_VVB
 ACTIVITY_NN1
 FOR_PRP
 THE_AT0
-PELVIS_NP0-NN1
+PELVIS_NN1
 THE_AT0
 PHYSIOTHERAPIST_NN1
 HELPS_VVZ
@@ -24351,7 +24351,7 @@ PATIENT_NN1
 TO_PRP
 TILT_VVI
 THE_AT0
-PELVIS_NP0-NN1
+PELVIS_NN1
 WHILE_CJS
 THE_AT0
 PATIENT_NN1
@@ -24367,10 +24367,10 @@ HEMIPLEGIC_AJ0
 LEG_NN1
 AND_CJC
 THE_AT0
-PELVIS_NP0-NN1
+PELVIS_NN1
 CONTROLLING_VVG
 THE_AT0
-PELVIS_NP0-NN1
+PELVIS_NN1
 AND_CJC
 LEG_NN1
 WITH_PRP
@@ -24378,7 +24378,7 @@ THE_AT0
 PATIENT_NN1
 'S_POS
 TRUNK_NN1
-SUPPORTED_VVN-VVD
+SUPPORTED_VVN
 ON_PRP
 THE_AT0
 COUCH_NN1
@@ -24387,7 +24387,7 @@ ON_PRP
 THE_AT0
 HEMIPLEGIC_AJ0
 LEG_NN1
-PRACTISING_AJ0-VVG
+PRACTISING_AJ0
 WEIGHT_NN1
 TRANSFERENCE_NN1
 WORKING_AJ0
@@ -24400,11 +24400,11 @@ KNEE_NN1
 IN_PRP
 PREPARATION_NN1
 FOR_PRP
-WALKING_NN1-VVG
+WALKING_NN1
 ADVANCED_AJ0
 BALANCE_NN1
 WORK_NN1
-WEIGHT-BEARING_NN1-AJ0
+WEIGHT-BEARING_AJ0
 ON_PRP
 THE_AT0
 HEMIPLEGIC_AJ0
@@ -24446,10 +24446,10 @@ and_CJC
 whose_DTQ
 social_AJ0
 life_NN1
-centred_VVN-VVD
+centred_VVN
 on_PRP
 her_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 sports_NN2
 hockey_NN1
 and_CJC
@@ -24550,7 +24550,7 @@ Queen_NN1
 Award_NN1
 for_PRP
 their_DPS
-prompt_VVI
+prompt_AJ0
 action_NN1
 Dawn_NP0
 was_VBD
@@ -24564,7 +24564,7 @@ and_CJC
 put_VVI
 on_PRP
 a_AT0
-life-support_AJ0-NN1
+life-support_AJ0
 machine_NN1
 in_PRP
 the_AT0
@@ -24679,7 +24679,7 @@ transferred_VVN
 still_AV0
 on_PRP
 the_AT0
-life-support_AJ0-NN1
+life-support_AJ0
 machine_NN1
 to_TO0
 a_AT0
@@ -24690,7 +24690,7 @@ could_VM0
 perform_VVI
 a_AT0
 CAT_NN1
-scan_NN1-VVB
+scan_NN1
 Dawn_NP0
 's_POS
 parents_NN2
@@ -24713,7 +24713,7 @@ the_AT0
 situation_NN1
 The_AT0
 CAT_NN1
-scan_NN1-VVB
+scan_NN1
 apparently_AV0
 showed_VVD
 no_AT0
@@ -24834,7 +24834,7 @@ brought_VVN
 her_DPS
 to_TO0
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 treatment_NN1
 centre_NN1
 in_PRP
@@ -24887,7 +24887,7 @@ with_PRP
 the_AT0
 hand_NN1
 tightly_AV0
-closed_VVD
+closed_VVN
 in_PRP
 a_AT0
 fist_NN1
@@ -24927,7 +24927,7 @@ and_CJC
 give_VVI
 her_DPS
 total_AJ0
-nursing_AJ0-NN1
+nursing_NN1
 support_NN1
 Physiotherapy_NN1
 treatment_NN1
@@ -24982,7 +24982,7 @@ was_VBD
 then_AV0
 able_AJ0
 to_TO0
-walk_VVI
+walk_NN1
 with_PRP
 the_AT0
 help_VVI
@@ -24993,7 +24993,7 @@ walking_VVG
 stick_NN1
 and_CJC
 gradually_AV0
-improved_AJ0
+improved_VVN
 to_TO0
 the_AT0
 stage_NN1
@@ -25045,7 +25045,7 @@ occasion_NN1
 to_TO0
 observe_VVI
 the_AT0
-specialist_NN1-AJ0
+specialist_NN1
 care_NN1
 she_PNP
 received_VVD
@@ -25613,17 +25613,17 @@ independent_AJ0
 being_VBG
 able_AJ0
 to_TO0
-cook_VVI
-wash_VVI
+cook_NN1
+wash_NN1
 look_VVI
 after_PRP
 herself_PNX
 and_CJC
 her_DPS
 home_NN1
-drive_VVI
+drive_NN1
 and_CJC
-walk_VVI
+walk_NN1
 where_AVQ
 she_PNP
 needed_VVN
@@ -25993,7 +25993,7 @@ comprehension_NN1
 problems_NN2
 made_VVN
 his_DPS
-initial_AJ0-NN1
+initial_AJ0
 rehabilitation_NN1
 treatment_NN1
 difficult_AJ0
@@ -26025,7 +26025,7 @@ progress_NN1
 better_AJC
 in_PRP
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 unit_NN1
 so_AV0
 he_PNP
@@ -26036,7 +26036,7 @@ the_AT0
 care_NN1
 of_PRF
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 stroke_NN1
 treatment_NN1
 centre_NN1
@@ -26079,7 +26079,7 @@ short_AJ0
 sentences_NN2
 He_PNP
 could_VM0
-walk_VVI
+walk_NN1
 with_PRP
 the_AT0
 help_VVI
@@ -26176,9 +26176,9 @@ stroke_NN1
 he_PNP
 had_VHD
 to_TO0
-hire_VVI
+hire_NN1
 24-hour_AJ0
-nursing_AJ0-NN1
+nursing_NN1
 help_VVI
 and_CJC
 a_AT0
@@ -26234,7 +26234,7 @@ balance_NN1
 poor_AJ0
 again_AV0
 His_DPS
-nursing_AJ0-NN1
+nursing_NN1
 care_NN1
 was_VBD
 gradually_AV0
@@ -26262,7 +26262,7 @@ likely_AJ0
 to_TO0
 suffer_VVI
 the_AT0
-epileptic_NN1-AJ0
+epileptic_AJ0
 fits_VVZ
 As_CJS
 Stanley_NP0
@@ -26340,7 +26340,7 @@ showed_VVD
 all_DT0
 the_AT0
 nurses_NN2
-involved_AJ0
+involved_VVN
 the_AT0
 handling_NN1
 methods_NN2
@@ -26376,7 +26376,7 @@ and_CJC
 his_DPS
 independence_NN1
 gradually_AV0
-increased_AJ0
+increased_VVN
 To_TO0
 help_VVI
 him_PNP
@@ -26520,7 +26520,7 @@ a_AT0
 panier_NN1
 on_PRP
 his_DPS
-three-wheeled_AJ0-NN1
+three-wheeled_AJ0
 cycle_NN1
 His_DPS
 family_NN1
@@ -26637,7 +26637,7 @@ University_NN1
 where_AVQ
 the_AT0
 City_NN1
-Dysphasic_NN1-AJ0
+Dysphasic_AJ0
 Group_NN1
 organized_VVN
 special_AJ0
@@ -26707,7 +26707,7 @@ frustration_NN1
 was_VBD
 alleviated_VVN
 by_PRP
-listening_VVG-NN1
+listening_VVG
 he_PNP
 used_VVN
 the_AT0
@@ -26932,7 +26932,7 @@ husband_NN1
 Sid_NP0
 who_PNQ
 had_VHD
-retired_AJ0
+retired_VVD
 two_CRD
 years_NN2
 previously_AV0
@@ -27010,7 +27010,7 @@ champion_NN1
 at_PRP
 poker_NN1
 She_PNP
-retired_AJ0
+retired_VVD
 before_PRP
 her_DPS
 husband_NN1
@@ -27112,7 +27112,7 @@ Rose_NP0
 admitted_VVN
 to_TO0
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 hospital_NN1
 in_PRP
 London_NP0
@@ -27130,7 +27130,7 @@ She_PNP
 was_VBD
 kept_VVD
 on_PRP
-bed-rest_NN1-AJ0
+bed-rest_AJ0
 and_CJC
 an_AT0
 angiogram_NN1
@@ -27195,7 +27195,7 @@ was_VBD
 a_AT0
 matter_NN1
 of_PRF
-life-and-death_AJ0-NN1
+life-and-death_NN1
 so_AV0
 they_PNP
 gave_VVD
@@ -27215,7 +27215,7 @@ could_VM0
 result_NN1
 in_PRP
 further_AJC
-bleeding_VVG-AJ0
+bleeding_AJ0
 and_CJC
 disability_NN1
 Rose_NP0
@@ -27239,7 +27239,7 @@ suffer_VVI
 further_AJC
 distress_NN1
 and_CJC
-bleeding_VVG-AJ0
+bleeding_AJ0
 into_PRP
 the_AT0
 brain_NN1
@@ -27393,7 +27393,7 @@ side_NN1
 so_AV0
 Rose_NP0
 might_VM0
-feel_VVI
+feel_VVB
 very_AV0
 cold_AJ0
 in_PRP
@@ -27440,7 +27440,7 @@ terrified_AJ0
 that_CJT
 she_PNP
 might_VM0
-fall_VVI
+fall_NN1
 and_CJC
 so_AV0
 used_VVN
@@ -27537,7 +27537,7 @@ her_DPS
 pain_NN1
 and_CJC
 spasticity_NN1
-increased_AJ0
+increased_VVN
 because_CJS
 of_PRF
 the_AT0
@@ -27612,7 +27612,7 @@ was_VBD
 referred_VVN
 to_TO0
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 stroke_NN1
 treatment_NN1
 centre_NN1
@@ -27716,7 +27716,7 @@ got_VVN
 progressively_AV0
 worse_AJC
 A_AT0
-hydrocortisone_NN1-VVB
+hydrocortisone_VVB
 injection_NN1
 failed_VVN
 to_TO0
@@ -27778,7 +27778,7 @@ she_PNP
 was_VBD
 able_AJ0
 to_TO0
-walk_VVI
+walk_NN1
 short_AJ0
 distances_NN2
 even_AV0
@@ -27817,7 +27817,7 @@ necessary_AJ0
 She_PNP
 managed_VVD
 to_TO0
-cook_VVI
+cook_NN1
 again_AV0
 and_CJC
 her_DPS
@@ -27866,8 +27866,8 @@ she_PNP
 had_VHD
 a_AT0
 grand_AJ0
-mal_AJ0
-epileptic_NN1-AJ0
+mal_NP0
+epileptic_AJ0
 fit_VVI
 She_PNP
 had_VHD
@@ -27945,7 +27945,7 @@ wheelchair_NN1
 She_PNP
 had_VHD
 occasional_AJ0
-epileptic_NN1-AJ0
+epileptic_AJ0
 fits_VVZ
 after_PRP
 the_AT0
@@ -28031,7 +28031,7 @@ had_VHD
 performed_VVN
 the_AT0
 normal_AJ0
-nursing_AJ0-NN1
+nursing_NN1
 duties_NN2
 of_PRF
 bathing_VVG
@@ -28096,7 +28096,7 @@ all_DT0
 she_PNP
 developed_VVN
 a_AT0
-weeping_AJ0-NN1
+weeping_NN1
 wound_NN1
 in_PRP
 her_DPS
@@ -28188,7 +28188,7 @@ but_CJC
 she_PNP
 would_VM0
 only_AV0
-walk_VVI
+walk_NN1
 with_PRP
 her_DPS
 physiotherapist_NN1
@@ -28420,10 +28420,10 @@ major_AJ0
 hospital_NN1
 A_AT0
 brain_NN1
-scan_NN1-VVB
+scan_NN1
 showed_VVD
 extensive_AJ0
-bleeding_VVG-AJ0
+bleeding_AJ0
 around_PRP
 the_AT0
 brain_NN1
@@ -28438,7 +28438,7 @@ been_VBN
 suffering_VVG
 from_PRP
 internal_AJ0
-bleeding_VVG-AJ0
+bleeding_AJ0
 since_CJS
 his_DPS
 accident_NN1
@@ -28476,7 +28476,7 @@ to_TO0
 take_VVI
 down_AVP
 the_AT0
-bleeding_VVG-AJ0
+bleeding_AJ0
 and_CJC
 swelling_AJ0
 in_PRP
@@ -28519,7 +28519,7 @@ of_PRF
 the_AT0
 coma_NN1
 and_CJC
-regained_VVD
+regained_VVN
 consciousness_NN1
 After_PRP
 several_DT0
@@ -28655,7 +28655,7 @@ steps_NN2
 and_CJC
 his_DPS
 speech_NN1
-improved_AJ0
+improved_VVN
 day_NN1
 by_PRP
 day_NN1
@@ -28745,7 +28745,7 @@ where_AVQ
 Guy_NP0
 could_VM0
 receive_VVI
-specialist_NN1-AJ0
+specialist_NN1
 treatment_NN1
 The_AT0
 family_NN1
@@ -28784,7 +28784,7 @@ in_PRP
 exercise_NN1
 classes_NN2
 to_TO0
-stretch_VVI
+stretch_NN1
 and_CJC
 strengthen_VVI
 his_DPS
@@ -28879,7 +28879,7 @@ him_PNP
 transferred_VVN
 to_TO0
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 stroke_NN1
 rehabilitation_NN1
 centre_NN1
@@ -28914,7 +28914,7 @@ accident_NN1
 Guy_NP0
 attended_VVN
 the_AT0
-specialist_NN1-AJ0
+specialist_NN1
 treatment_NN1
 centre_NN1
 at_PRP
@@ -28958,7 +28958,7 @@ he_PNP
 had_VHD
 learned_VVN
 to_TO0
-walk_VVI
+walk_NN1
 using_VVG
 the_AT0
 abnormal_AJ0
@@ -29085,7 +29085,7 @@ left_VVN
 knee_NN1
 Guy_NP0
 gradually_AV0
-improved_AJ0
+improved_VVN
 until_CJS
 he_PNP
 had_VHD
@@ -29108,7 +29108,7 @@ normal_AJ0
 activities_NN2
 such_DT0
 as_CJS
-dressing_VVG
+dressing_NN1
 He_PNP
 still_AV0
 could_VM0
@@ -29165,7 +29165,7 @@ foot_NN1
 and_CJC
 leg_NN1
 movements_NN2
-improved_AJ0
+improved_VVN
 immeasurably_AV0
 and_CJC
 his_DPS
@@ -29293,7 +29293,7 @@ the_AT0
 right_NN1
 He_PNP
 played_VVD
-snooker_NN1-VVB
+snooker_NN1
 one-handed_AV0
 and_CJC
 swam_VVD
@@ -29326,7 +29326,7 @@ handlebar_NN1
 when_CJS
 riding_VVG
 a_AT0
-push-bike_NN1-AJ0
+push-bike_AJ0
 but_CJC
 he_PNP
 found_VVD
@@ -29340,9 +29340,9 @@ bicycle_NN1
 because_CJS
 the_AT0
 effort_NN1
-involved_AJ0
+involved_VVN
 automatically_AV0
-increased_AJ0
+increased_VVN
 his_DPS
 spasticity_NN1
 beyond_PRP
@@ -29489,13 +29489,13 @@ of_PRF
 life_NN1
 His_DPS
 only_AV0
-regret_VVI
+regret_NN1
 was_VBD
 that_CJT
 he_PNP
 could_VM0
 not_XX0
-drive_VVI
+drive_NN1
 because_CJS
 of_PRF
 his_DPS
@@ -29639,7 +29639,7 @@ to_TO0
 the_AT0
 hospital_NN1
 to_TO0
-feed_VVI
+feed_NN1
 the_AT0
 baby_NN1
 Feeling_VVG
@@ -29733,7 +29733,7 @@ that_CJT
 she_PNP
 could_VM0
 continue_VVI
-nursing_AJ0-NN1
+nursing_NN1
 the_AT0
 baby_NN1
 if_CJS
@@ -29765,7 +29765,7 @@ tests_NN2
 including_PRP
 a_AT0
 CAT_NN1
-scan_NN1-VVB
+scan_NN1
 and_CJC
 an_AT0
 angiogram_NN1
@@ -29910,7 +29910,7 @@ as_CJS
 she_PNP
 could_VM0
 not_XX0
-walk_VVI
+walk_NN1
 She_PNP
 was_VBD
 unable_AJ0
@@ -29936,7 +29936,7 @@ was_VBD
 referred_VVN
 to_TO0
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 rehabilitation_NN1
 centre_NN1
 for_PRP
@@ -29965,7 +29965,7 @@ could_VM0
 stand_VVI
 up_AVP
 and_CJC
-walk_VVI
+walk_NN1
 with_PRP
 some_DT0
 help_VVI
@@ -30227,7 +30227,7 @@ had_VHD
 the_AT0
 confidence_NN1
 to_TO0
-walk_VVI
+walk_NN1
 outside_PRP
 she_PNP
 would_VM0
@@ -30305,7 +30305,7 @@ to_TO0
 move_VVI
 She_PNP
 could_VM0
-walk_VVI
+walk_NN1
 but_CJC
 had_VHD
 to_TO0
@@ -30328,7 +30328,7 @@ leg_NN1
 and_CJC
 could_VM0
 only_AV0
-feel_VVI
+feel_VVB
 deep_AJ0
 sensations_NN2
 on_PRP
@@ -30476,7 +30476,7 @@ decided_VVD
 to_TO0
 have_VHB
 further_AJC
-specialist_NN1-AJ0
+specialist_NN1
 physiotherapy_NN1
 treatment_NN1
 privately_AV0
@@ -30600,7 +30600,7 @@ her_DPS
 left_VVN
 leg_NN1
 was_VBD
-increased_AJ0
+increased_VVN
 She_PNP
 had_VHD
 regular_AJ0
@@ -30671,7 +30671,7 @@ Esther_NP0
 fingernails_NN2
 She_PNP
 could_VM0
-walk_VVI
+walk_NN1
 more_AV0
 normally_AV0
 manage_VVI
@@ -30724,7 +30724,7 @@ crowds_NN2
 Esther_NP0
 's_POS
 biggest_AJS
-regret_VVI
+regret_NN1
 was_VBD
 the_AT0
 advice_NN1
@@ -30804,7 +30804,7 @@ outlook_NN1
 she_PNP
 wanted_VVD
 to_TO0
-walk_VVI
+walk_NN1
 normally_AV0
 as_CJS
 before_PRP
@@ -30850,7 +30850,7 @@ so_AV0
 that_CJT
 she_PNP
 could_VM0
-feel_VVI
+feel_VVB
 normal_AJ0
 again_AV0
 and_CJC

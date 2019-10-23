@@ -120,7 +120,7 @@ has_VHZ
 the_AT0
 ability_NN1
 to_TO0
-shut_VVB
+shut_VVN
 off_AVP
 its_DPS
 drainage_NN1
@@ -244,7 +244,7 @@ and_CJC
 runs_VVZ
 from_PRP
 the_AT0
-urinary_AJ0-NN1
+urinary_AJ0
 bladder_NN1
 through_PRP
 the_AT0
@@ -276,7 +276,7 @@ an_AT0
 opening_NN1
 called_VVN
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 meatus_NN1
 There_EX0
 are_VBB
@@ -304,7 +304,7 @@ inflammation_NN1
 in_PRP
 urethritis_NN1
 The_AT0
-urinary_AJ0-NN1
+urinary_AJ0
 bladder_NN1
 in_PRP
 both_AV0
@@ -579,7 +579,7 @@ bladder_NN1
 and_CJC
 can_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 in_PRP
 infection_NN1
 known_VVN
@@ -626,10 +626,10 @@ the_AT0
 prostate_NN1
 may_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 in_PRP
 infection_NN1
-Urethritis_NN1-NP0
+Urethritis_NN1
 from_PRP
 whatever_DTQ
 cause_NN1
@@ -645,7 +645,7 @@ these_DT0
 various_AJ0
 glands_NN2
 are_VBB
-involved_AJ0
+involved_VVN
 as_CJS
 well_AV0
 The_AT0
@@ -701,7 +701,7 @@ sex_NN1
 hormones_NN2
 which_DTQ
 are_VBB
-present_AJ0-NN1
+present_AJ0
 from_PRP
 a_AT0
 very_AV0
@@ -718,7 +718,7 @@ of_PRF
 the_AT0
 vulva_NN1
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 opening_NN1
 the_AT0
 vaginal_AJ0
@@ -740,7 +740,7 @@ it_PNP
 has_VHZ
 a_AT0
 glans_NN2
-clitoridis_NN2-VVZ
+clitoridis_VVZ
 which_DTQ
 corresponds_VVZ
 to_TO0
@@ -760,7 +760,7 @@ are_VBB
 two_CRD
 corpora_NN2
 cavernosa_NN1
-clitoridis_NN2-VVZ
+clitoridis_VVZ
 and_CJC
 the_AT0
 organ_NN1
@@ -837,7 +837,7 @@ are_VBB
 men_NN2
 Below_AV0
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 meatus_NN1
 is_VBZ
 the_AT0
@@ -860,7 +860,7 @@ labia_NN2
 minora_NN1
 The_AT0
 larger_AJC
-hair-covered_NN1-AJ0
+hair-covered_AJ0
 lips_NN2
 outside_PRP
 the_AT0
@@ -904,7 +904,7 @@ these_DT0
 glands_NN2
 is_VBZ
 called_VVN
-Bartholinitis_NP0-NN1
+Bartholinitis_NN1
 and_CJC
 can_VM0
 be_VBI
@@ -977,7 +977,7 @@ thin_AJ0
 end_NN1
 of_PRF
 the_AT0
-inverted-pear-shaped_AJ0-NN1
+inverted-pear-shaped_AJ0
 uterus_NN1
 in_PRP
 which_DTQ
@@ -1002,7 +1002,7 @@ each_DT0
 side_NN1
 come_VVI
 the_AT0
-fallopian_AJ0-NN1
+fallopian_AJ0
 tubes_NN2
 themselves_PNX
 about_PRP
@@ -1032,7 +1032,7 @@ far_AV0
 end_NN1
 of_PRF
 the_AT0
-fallopian_AJ0-NN1
+fallopian_AJ0
 tubes_NN2
 Infection_NN1
 of_PRF
@@ -1090,7 +1090,7 @@ for_PRP
 producing_VVG
 sex_NN1
 hormones_NN2
-Function_NN1-VVB
+Function_NN1
 The_AT0
 male_AJ0
 Erection_NN1
@@ -1130,7 +1130,7 @@ of_PRF
 the_AT0
 veins_NN2
 which_DTQ
-drain_VVI
+drain_NN1
 the_AT0
 organ_NN1
 so_AV0
@@ -1215,7 +1215,7 @@ them_PNP
 out_AVP
 through_PRP
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 meatus_NN1
 At_PRP
 the_AT0
@@ -1355,7 +1355,7 @@ person_NN1
 to_TO0
 person_NN1
 the_AT0
-average_AJ0-NN1
+average_AJ0
 length_NN1
 is_VBZ
 about_PRP
@@ -1389,7 +1389,7 @@ an_AT0
 egg_NN1
 into_PRP
 the_AT0
-fallopian_AJ0-NN1
+fallopian_AJ0
 tube_NN1
 would_VM0
 occur_VVI
@@ -1569,7 +1569,7 @@ direct_AJ0
 bearing_VVG
 on_PRP
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 and_CJC
 the_AT0
@@ -1628,7 +1628,7 @@ in_PRP
 should_VM0
 both_AV0
 partners_NN2
-feel_VVI
+feel_VVB
 like_PRP
 it_PNP
 Fellatio_NN1
@@ -1673,7 +1673,7 @@ that_CJT
 infection_NN1
 can_VM0
 be_VBI
-spread_NN1
+spread_VVN
 quite_AV0
 easily_AV0
 by_PRP
@@ -1690,7 +1690,7 @@ treatment_NN1
 is_VBZ
 concerned_AJ0
 Herpes_NN2
-simplex_VVB-NN1
+simplex_VVB
 virus_NN1
 infection_NN1
 cold_AJ0
@@ -1778,7 +1778,7 @@ immune_AJ0
 to_TO0
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 far_AV0
 from_PRP
@@ -1814,7 +1814,7 @@ clear_AJ0
 but_CJC
 at_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 time_NN1
 two_CRD
 diseases_NN2
@@ -1939,7 +1939,7 @@ intercourse_NN1
 is_VBZ
 legal_AJ0
 between_PRP
-consenting_VVG-AJ0
+consenting_AJ0
 male_AJ0
 adults_NN2
 over_PRP
@@ -1973,7 +1973,7 @@ no_AT0
 problem_NN1
 of_PRF
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 infection_NN1
 among_PRP
 lesbians_NN2
@@ -2047,7 +2047,7 @@ pallatyne_NN1
 of_PRF
 Lancaster_NP0
 Right_AV0
-worshipfulls_NN2-VVZ
+worshipfulls_VVZ
 This_DT0
 may_VM0
 be_VBI
@@ -2059,7 +2059,7 @@ their_DPS
 is_VBZ
 a_AT0
 pore_NN1
-yong_NN1-VVB
+yong_NN1
 women_NN2
 in_PRP
 oure_NN1
@@ -2073,7 +2073,7 @@ filthy_AJ0
 deceassed_AJ0
 called_VVN
 the_AT0
-French_AJ0-NN1
+French_AJ0
 poxe_NN1
 and_CJC
 shee_NN1
@@ -2106,9 +2106,9 @@ harbour_NN1
 and_CJC
 shee_NN1
 is_VBZ
-enforced_AJ0
+enforced_VVN
 to_TO0
-lye_VVB-NN1
+lye_NN1
 in_PRP
 the_AT0
 streetes_NN2
@@ -2146,7 +2146,7 @@ provyded_VVN
 for_PRP
 to_TO0
 prevent_VVI
-starveing_VVG-NN1
+starveing_VVG
 either_AV0
 upon_PRP
 the_AT0
@@ -2171,7 +2171,7 @@ yiur_NN1
 worshipps_NN2
 shall_VM0
 think_VVB
-fitt_VVB-NN1
+fitt_VVB
 The_AT0
 court_NN1
 was_VBD
@@ -2224,7 +2224,7 @@ the_AT0
 major_AJ0
 debates_NN2
 has_VHZ
-hinged_VVN-VVD
+hinged_VVD
 on_PRP
 the_AT0
 question_NN1
@@ -2314,7 +2314,7 @@ for_PRP
 bubas_NN2
 and_CJC
 the_AT0
-serpentine_AJ0-NN1
+serpentine_NN1
 disease_NN1
 In_PRP
 1494_CRD
@@ -2346,7 +2346,7 @@ mercenaries_NN2
 and_CJC
 the_AT0
 massive_AJ0
-spread_NN1
+spread_VVN
 of_PRF
 the_AT0
 disease_NN1
@@ -2368,7 +2368,7 @@ broke_VVD
 out_AVP
 among_PRP
 those_DT0
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 siege_NN1
@@ -2416,18 +2416,18 @@ the_AT0
 result_NN1
 that_CJT
 the_AT0
-English_AJ0-NN1
+English_AJ0
 called_VVN
 it_PNP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 disease_NN1
 the_AT0
-French_AJ0-NN1
+French_AJ0
 called_VVN
 it_PNP
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 disease_NN1
 the_AT0
 Italians_NN2
@@ -2441,7 +2441,7 @@ called_VVN
 it_PNP
 both_AV0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 disease_NN1
 and_CJC
 the_AT0
@@ -2464,7 +2464,7 @@ it_PNP
 actually_AV0
 was_VBD
 the_AT0
-French_AJ0-NN1
+French_AJ0
 aggressors_NN2
 perhaps_AV0
 appropriately_AV0
@@ -2529,7 +2529,7 @@ have_VHB
 been_VBN
 syphilis_NN1
 In_PRP
-Deuteronomy_NP0-NN1
+Deuteronomy_NP0
 Moses_NP0
 threatened_VVN
 those_DT0
@@ -2547,7 +2547,7 @@ apart_AV0
 from_PRP
 scabs_NN2
 and_CJC
-emerods_NN2-VVZ
+emerods_VVZ
 whatever_DTQ
 they_PNP
 might_VM0
@@ -2612,7 +2612,7 @@ be_VBI
 smitten_VVN
 with_PRP
 the_AT0
-Egyptian_AJ0-NN1
+Egyptian_AJ0
 dermatitis_NN1
 characterized_VVN
 by_PRP
@@ -2700,7 +2700,7 @@ camped_VVN
 in_PRP
 Moab_NP0
 near_PRP
-Jericho_NP0-NN1
+Jericho_NN1
 many_DT0
 of_PRF
 them_PNP
@@ -2738,7 +2738,7 @@ in_PRP
 origin_NN1
 After_PRP
 the_AT0
-Moabite_AJ0-NN1
+Moabite_NN1
 armies_NN2
 had_VHD
 been_VBN
@@ -2897,7 +2897,7 @@ the_AT0
 disease_NN1
 is_VBZ
 largely_AV0
-spread_NN1
+spread_VVN
 non-venereally_AV0
 in_PRP
 childhood_NN1
@@ -2908,13 +2908,13 @@ opportunity_NN1
 for_PRP
 syphilis_NN1
 to_TO0
-spread_NN1
+spread_VVN
 because_CJS
 of_PRF
 the_AT0
 degree_NN1
 of_PRF
-cross-immunity_NN1-AJ0
+cross-immunity_AJ0
 in_PRP
 the_AT0
 community_NN1
@@ -2981,7 +2981,7 @@ contained_VVD
 amongst_PRP
 other_AJ0
 things_NN2
-gum-resin_NN1-AJ0
+gum-resin_NN1
 yellow_AJ0
 lead_VVI
 oxide_NN1
@@ -3050,7 +3050,7 @@ a_AT0
 healing_NN1
 if_CJS
 not_XX0
-curative_AJ0-NN1
+curative_AJ0
 effect_NN1
 on_PRP
 the_AT0
@@ -3109,7 +3109,7 @@ caused_VVN
 the_AT0
 teeth_NN2
 to_TO0
-drop_VVI
+drop_NN1
 out_AVP
 While_CJS
 physicians_NN2
@@ -3157,7 +3157,7 @@ mercury_NN1
 was_VBD
 that_CJT
 the_AT0
-curative_AJ0-NN1
+curative_AJ0
 dose_NN1
 was_VBD
 much_DT0
@@ -3203,7 +3203,7 @@ a_AT0
 West_NP0
 Indian_AJ0
 tree_NN1
-Guaiacum_NP0-NN1
+Guaiacum_NP0
 In_PRP
 1519_CRD
 Von_NP0
@@ -3214,11 +3214,11 @@ published_VVN
 De_NP0
 Morbi_NP0
 Gallici_NP0
-Curatione_NP0-NN1
+Curatione_NP0
 per_UNC
 Administrationem_NP0
 Ligni_NP0
-Guaiaci_NP0-NN1
+Guaiaci_NP0
 in_PRP
 which_DTQ
 he_PNP
@@ -3236,7 +3236,7 @@ of_PRF
 this_DT0
 new_AJ0
 extract_NN1
-Fracastorius_NN1-NP0
+Fracastorius_NN1
 in_PRP
 whose_DTQ
 poem_NN1
@@ -3316,7 +3316,7 @@ root_NN1
 an_AT0
 extract_NN1
 of_PRF
-Smilax_NP0-NN1
+Smilax_NN1
 sinensis_NN1
 which_DTQ
 was_VBD
@@ -3326,7 +3326,7 @@ from_PRP
 Goa_NP0
 by_PRP
 the_AT0
-Portuguese_AJ0-NN1
+Portuguese_AJ0
 and_CJC
 sarsaparilla_NN1
 from_PRP
@@ -3347,13 +3347,13 @@ strong_AJ0
 decoction_NN1
 containing_VVG
 sarsaparilla_NN1
-calomel_VVB-NN1
+calomel_VVB
 cinnabar_NN1
-anise_VVB-NN1
+anise_NN1
 fennel_NN1
 senna_NN1
 and_CJC
-liquorice_NN1-VVB
+liquorice_NN1
 was_VBD
 warmed_VVN
 up_AVP
@@ -3400,7 +3400,7 @@ sent_VVN
 the_AT0
 king_NN1
 a_AT0
-present_AJ0-NN1
+present_AJ0
 of_PRF
 pills_NN2
 made_VVN
@@ -3408,8 +3408,8 @@ up_AVP
 from_PRP
 mercury_NN1
 rhubarb_NN1
-amber_NN1-AJ0
-musk_VVB-NN1
+amber_AJ0
+musk_NN1
 and_CJC
 flour_NN1
 After_PRP
@@ -3948,7 +3948,7 @@ new_AJ0
 treatments_NN2
 as_CJS
 the_AT0
-long-awaited_AJ0-NN1
+long-awaited_AJ0
 answer_NN1
 to_TO0
 the_AT0
@@ -3974,7 +3974,7 @@ introduction_NN1
 of_PRF
 arsphenamine_NN1
 or_CJC
-salvarsan_NN1-AJ0
+salvarsan_NN1
 in_PRP
 the_AT0
 early_AJ0
@@ -4013,7 +4013,7 @@ high_AJ0
 fever_NN1
 had_VHD
 certain_AJ0
-curative_AJ0-NN1
+curative_AJ0
 properties_NN2
 and_CJC
 some_DT0
@@ -4116,7 +4116,7 @@ death_NN1
 of_PRF
 the_AT0
 patient_NN1
-Bismuth_NN1-NP0
+Bismuth_NN1
 was_VBD
 introduced_VVN
 in_PRP
@@ -4132,7 +4132,7 @@ therapeutic_AJ0
 armamentarium_NN1
 because_CJS
 its_DPS
-curative_AJ0-NN1
+curative_AJ0
 action_NN1
 could_VM0
 be_VBI
@@ -4150,7 +4150,7 @@ approach_NN1
 the_AT0
 lethal_AJ0
 amount_NN1
-Bismuth_NN1-NP0
+Bismuth_NN1
 is_VBZ
 still_AV0
 used_VVN
@@ -4226,7 +4226,7 @@ the_AT0
 field_NN1
 of_PRF
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 this_DT0
 country_NN1
@@ -4368,7 +4368,7 @@ concerned_AJ0
 puts_VVZ
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 in_PRP
 a_AT0
@@ -4408,7 +4408,7 @@ legal_AJ0
 reason_NN1
 why_AVQ
 your_DPS
-next-door_AJ0-NN1
+next-door_AJ0
 neighbour_NN1
 should_VM0
 n't_XX0
@@ -4423,7 +4423,7 @@ should_VM0
 either_AV0
 of_PRF
 you_PNP
-feel_VVI
+feel_VVB
 so_AV0
 inclined_AJ0
 though_CJS
@@ -4561,7 +4561,7 @@ concentrated_VVN
 on_PRP
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 Apart_AV0
 from_PRP
@@ -4745,7 +4745,7 @@ complexes_NN2
 Apart_AV0
 from_PRP
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 service_NN1
 second_ORD
 to_TO0
@@ -4790,7 +4790,7 @@ of_PRF
 cases_NN2
 of_PRF
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 disease_NN1
 are_VBB
 seen_VVN
@@ -4856,7 +4856,7 @@ diagnoses_NN2
 and_CJC
 submit_VVI
 them_PNP
-quarterly_AJ0-NN1
+quarterly_AJ0
 to_TO0
 the_AT0
 Department_NN1
@@ -4944,12 +4944,12 @@ treatment_NN1
 of_PRF
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 in_PRP
 Great_AJ0
 Britain_NP0
-stems_VVZ-NN2
+stems_NN2
 largely_AV0
 from_PRP
 the_AT0
@@ -4973,7 +4973,7 @@ Regiment_NN1
 Hospital_NN1
 in_PRP
 Rochester_NP0
-Row_NN1-VVB
+Row_NN1
 London_NP0
 in_PRP
 1909_CRD
@@ -5036,7 +5036,7 @@ a_AT0
 blood_NN1
 test_NN1
 the_AT0
-Wasserman_NP0-NN1
+Wasserman_NN1
 Reaction_NN1
 WR_NP0
 which_DTQ
@@ -5060,7 +5060,7 @@ a_AT0
 new_AJ0
 syphilitic_AJ0
 treatment_NN1
-Salvarsan_NP0-NN1
+Salvarsan_NN1
 an_AT0
 arsenic_NN1
 compound_NN1
@@ -5146,13 +5146,13 @@ six-week_AJ0
 period_NN1
 Other_AJ0
 regimens_NN2
-involved_AJ0
+involved_VVN
 treatment_NN1
 with_PRP
 iodine_NN1
 compounds_NN2
 Although_CJS
-Salvarsan_NP0-NN1
+Salvarsan_NN1
 was_VBD
 a_AT0
 considerable_AJ0
@@ -5204,7 +5204,7 @@ not_XX0
 kill_VVI
 the_AT0
 patient_NN1
-Notwithstanding_PRP-CJS
+Notwithstanding_PRP
 the_AT0
 risks_NN2
 associated_VVN
@@ -5214,7 +5214,7 @@ treatment_NN1
 the_AT0
 discovery_NN1
 of_PRF
-Salvarsan_NP0-NN1
+Salvarsan_NN1
 was_VBD
 greeted_VVN
 throughout_PRP
@@ -5250,7 +5250,7 @@ being_VBG
 rendered_VVN
 into_PRP
 printable_AJ0
-English_AJ0-NN1
+English_AJ0
 Having_VHG
 exalted_AJ0
 over_PRP
@@ -5306,7 +5306,7 @@ his_DPS
 team_NN1
 at_PRP
 Rochester_NP0
-Row_NN1-VVB
+Row_NN1
 did_VDD
 much_DT0
 of_PRF
@@ -5314,7 +5314,7 @@ the_AT0
 pioneer_NN1
 work_NN1
 on_PRP
-Salvarsan_NP0-NN1
+Salvarsan_NN1
 and_CJC
 their_DPS
 discoveries_NN2
@@ -5370,7 +5370,7 @@ with_PRP
 the_AT0
 idea_NN1
 of_PRF
-irrigating_VVG-AJ0
+irrigating_VVG
 the_AT0
 urethra_NN1
 and_CJC
@@ -5394,7 +5394,7 @@ that_CJT
 the_AT0
 containers_NN2
 of_PRF
-irrigating_VVG-AJ0
+irrigating_VVG
 fluid_NN1
 should_VM0
 be_VBI
@@ -5485,7 +5485,7 @@ the_AT0
 problem_NN1
 of_PRF
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 the_AT0
 only_AV0
@@ -5568,7 +5568,7 @@ was_VBD
 recalled_VVD
 to_TO0
 Rochester_NP0
-Row_NN1-VVB
+Row_NN1
 and_CJC
 was_VBD
 appointed_VVN
@@ -5617,7 +5617,7 @@ be_VBI
 kept_VVD
 to_TO0
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 ii_CRD
 examination_NN1
 should_VM0
@@ -5669,7 +5669,7 @@ be_VBI
 kept_VVD
 to_TO0
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 This_DT0
 appointment_NN1
 as_CJS
@@ -5823,9 +5823,9 @@ their_DPS
 tests_NN2
 could_VM0
 be_VBI
-improved_AJ0
+improved_VVN
 Sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 world-wide_AJ0
 It_PNP
@@ -6052,7 +6052,7 @@ All_DT0
 five_CRD
 continents_NN2
 are_VBB
-involved_AJ0
+involved_VVN
 in_PRP
 an_AT0
 increase_NN1
@@ -6097,7 +6097,7 @@ exceeds_VVZ
 the_AT0
 notification_NN1
 rate_NN1
-Added_VVN-AJ0
+Added_AJ0
 to_TO0
 this_DT0
 there_EX0
@@ -6120,7 +6120,7 @@ extremely_AV0
 difficult_AJ0
 to_TO0
 treat_VVI
-Chancroid_NN1-NP0
+Chancroid_NP0
 is_VBZ
 generally_AV0
 less_AV0
@@ -6149,7 +6149,7 @@ and_CJC
 parts_NN2
 of_PRF
 Africa_NP0
-Lymphogranuloma_NN1-NP0
+Lymphogranuloma_NN1
 venereum_NN1
 once_AV0
 not_XX0
@@ -6178,7 +6178,7 @@ Caribbean_AJ0
 or_CJC
 South_NN1
 America_NP0
-Granuloma_NN1-NP0
+Granuloma_NN1
 inguinale_NN1
 is_VBZ
 evenly_AV0
@@ -6217,7 +6217,7 @@ countries_NN2
 the_AT0
 other_AJ0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 are_VBB
 not_XX0
@@ -6344,7 +6344,7 @@ incidence_NN1
 of_PRF
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 continues_VVZ
 to_TO0
@@ -6356,7 +6356,7 @@ that_CJT
 when_CJS
 two_CRD
 people_NN0
-hop_VVI
+hop_NN1
 into_PRP
 bed_NN1
 together_AV0
@@ -6369,7 +6369,7 @@ disco_NN1
 in_PRP
 the_AT0
 West_NP0
-End_NP0
+End_NN1
 of_PRF
 London_NP0
 in_PRP
@@ -6475,7 +6475,7 @@ health_NN1
 aspects_NN2
 of_PRF
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 disease_NN1
 1977_CRD
 that_CJT
@@ -6572,7 +6572,7 @@ complications_NN2
 from_PRP
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 might_VM0
 decline_NN1
@@ -6644,7 +6644,7 @@ disease_NN1
 prevalence_NN1
 they_PNP
 might_VM0
-feel_VVI
+feel_VVB
 that_CJT
 publication_NN1
 of_PRF
@@ -6689,7 +6689,7 @@ the_AT0
 rarest_AJS
 piece_NN1
 of_PRF
-dissembling_VVG-AJ0
+dissembling_VVG
 must_VM0
 go_VVI
 to_TO0
@@ -6868,7 +6868,7 @@ liberation_NN1
 can_VM0
 only_AV0
 help_VVI
-spread_NN1
+spread_VVN
 VD_NN1
 Among_PRP
 the_AT0
@@ -6900,7 +6900,7 @@ both_AV0
 morally_AV0
 and_CJC
 legally_AV0
-Illegitimacy_NN1-NP0
+Illegitimacy_NP0
 also_AV0
 is_VBZ
 illegal_AJ0
@@ -6996,7 +6996,7 @@ endemic_AJ0
 levels_NN2
 of_PRF
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 can_VM0
 be_VBI
@@ -7108,7 +7108,7 @@ of_PRF
 preventing_VVG
 their_DPS
 eventual_AJ0
-spread_NN1
+spread_VVN
 throughout_PRP
 the_AT0
 community_NN1
@@ -7152,7 +7152,7 @@ infection_NN1
 with_PRP
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 one_CRD
 of_PRF
@@ -7230,7 +7230,7 @@ responsible_AJ0
 for_PRP
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 and_CJC
 yet_AV0
@@ -7291,7 +7291,7 @@ the_AT0
 service_NN1
 for_PRP
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 in_PRP
 the_AT0
@@ -7314,7 +7314,7 @@ which_DTQ
 these_DT0
 could_VM0
 be_VBI
-improved_AJ0
+improved_VVN
 The_AT0
 impetus_NN1
 for_PRP
@@ -7383,7 +7383,7 @@ education_NN1
 about_PRP
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 was_VBD
 inadequate_AJ0
@@ -7396,7 +7396,7 @@ part_NN1
 of_PRF
 the_AT0
 standard_NN1
-medical-school_AJ0-NN1
+medical-school_NN1
 curriculum_NN1
 because_CJS
 the_AT0
@@ -7617,7 +7617,7 @@ since_CJS
 apart_AV0
 from_PRP
 an_AT0
-increased_AJ0
+increased_VVN
 awareness_NN1
 among_PRP
 the_AT0
@@ -7634,7 +7634,7 @@ subject_NN1
 of_PRF
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 should_VM0
 form_NN1
@@ -7677,7 +7677,7 @@ described_VVN
 as_CJS
 disastrous_AJ0
 Sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 are_VBB
 very_AV0
@@ -7709,7 +7709,7 @@ reaches_VVZ
 70_CRD
 per_UNC
 cent_UNC
-Self-medication_NN1-AJ0
+Self-medication_NN1
 without_PRP
 diagnosis_NN1
 is_VBZ
@@ -7795,7 +7795,7 @@ prevalent_AJ0
 To_TO0
 quote_VVI
 one_CRD
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 professor_NN1
 Everyone_PNI
 over_PRP
@@ -7816,7 +7816,7 @@ yearly_AJ0
 course_NN1
 in_PRP
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 in_PRP
 Santiago_NP0
@@ -7877,7 +7877,7 @@ of_PRF
 the_AT0
 specialists_NN2
 are_VBB
-Dermato_NN1-NP0
+Dermato_NN1
 -venereologists_NN2
 and_CJC
 usually_AV0
@@ -7896,7 +7896,7 @@ suffering_VVG
 from_PRP
 a_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 disease_NN1
 the_AT0
 remainder_NN1
@@ -7914,7 +7914,7 @@ for_PRP
 patients_NN2
 with_PRP
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 to_TO0
 attend_VVI
@@ -8076,7 +8076,7 @@ free_AJ0
 i.e._AV0
 gonorrhoea_NN1
 syphilis_NN1
-chancroid_NN1-AJ0
+chancroid_NN1
 and_CJC
 LGV_NP0
 It_PNP
@@ -8091,13 +8091,13 @@ of_PRF
 cases_NN2
 of_PRF
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 disease_NN1
 are_VBB
 seen_VVN
 in_PRP
 the_AT0
-specialist_NN1-AJ0
+specialist_NN1
 clinics_NN2
 The_AT0
 curriculum_NN1
@@ -8111,7 +8111,7 @@ make_VVI
 the_AT0
 study_NN1
 of_PRF
-dermato-venereology_NN1-AJ0
+dermato-venereology_AJ0
 compulsory_AJ0
 and_CJC
 it_PNP
@@ -8145,7 +8145,7 @@ cases_NN2
 of_PRF
 syphilis_NN1
 the_AT0
-French_AJ0-NN1
+French_AJ0
 like_PRP
 the_AT0
 Italians_NN2
@@ -8340,7 +8340,7 @@ for_PRP
 dealing_VVG
 with_PRP
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 is_VBZ
 one_CRD
@@ -8397,7 +8397,7 @@ inoculated_VVN
 They_PNP
 also_AV0
 enclose_VVB
-stamped_AJ0
+stamped_VVD
 addressed_VVN
 envelopes_NN2
 so_AV0
@@ -8466,7 +8466,7 @@ and_CJC
 they_PNP
 have_VHB
 a_AT0
-Wasserman_NP0-NN1
+Wasserman_NN1
 file_NN1
 reminiscent_AJ0
 of_PRF
@@ -8578,7 +8578,7 @@ country_NN1
 to_TO0
 register_VVI
 a_AT0
-fall_VVI
+fall_NN1
 in_PRP
 the_AT0
 reported_VVN
@@ -8664,7 +8664,7 @@ hour_NN1
 on_PRP
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 However_AV0
 although_CJS
@@ -8750,7 +8750,7 @@ elsewhere_AV0
 the_AT0
 minor_AJ0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 are_VBB
 not_XX0
@@ -8805,14 +8805,14 @@ one_CRD
 of_PRF
 the_AT0
 more_AV0
-go-ahead_NN1-AJ0
+go-ahead_NN1
 countries_NN2
 with_PRP
 regard_VVI
 to_TO0
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 but_CJC
 lacking_VVG
@@ -8887,7 +8887,7 @@ urethritis_NN1
 on_PRP
 their_DPS
 contact_NN1
-slips_NN2
+slips_VVZ
 along_AVP
 with_PRP
 the_AT0
@@ -8898,7 +8898,7 @@ interesting_AJ0
 insight_NN1
 into_PRP
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 financial_AJ0
 demerits_NN2
 of_PRF
@@ -8962,12 +8962,12 @@ gonorrhoea_NN1
 syphilis_NN1
 LGV_NP0
 and_CJC
-chancroid_NN1-AJ0
+chancroid_NN1
 but_CJC
 neither_AV0
 the_AT0
 hospital_NN1
-specialist_NN1-AJ0
+specialist_NN1
 nor_CJC
 the_AT0
 private_AJ0
@@ -8979,12 +8979,12 @@ that_CJT
 he_PNP
 sees_VVZ
 The_AT0
-specialist_NN1-AJ0
+specialist_NN1
 in_PRP
 Germany_NP0
 is_VBZ
 a_AT0
-dermato-venereo-andrologist_NN1-AJ0
+dermato-venereo-andrologist_AJ0
 andrology_NN1
 being_VBG
 the_AT0
@@ -9072,14 +9072,14 @@ are_VBB
 still_AV0
 in_PRP
 the_AT0
-Dark_AJ0-NN1
+Dark_AJ0
 Ages_NN2
 with_PRP
 regard_VVI
 to_TO0
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 For_PRP
 instance_NN1
@@ -9129,7 +9129,7 @@ family_NN1
 apart_AV0
 from_PRP
 N._NP0
-meningitidis_VVZ-NN2
+meningitidis_NN2
 many_DT0
 other_AJ0
 non-pathogenic_AJ0
@@ -9200,7 +9200,7 @@ usefulness_NN1
 of_PRF
 having_VHG
 the_AT0
-specialist_NN1-AJ0
+specialist_NN1
 readily_AV0
 available_AJ0
 on_PRP
@@ -9217,7 +9217,7 @@ decidedly_AV0
 odd_AJ0
 method_NN1
 by_PRP
-English_AJ0-NN1
+English_AJ0
 standards_NN2
 of_PRF
 training_NN1
@@ -9405,8 +9405,8 @@ recognized_VVN
 as_CJS
 a_AT0
 staunchly_AV0
-Roman_AJ0-NN1
-Catholic_AJ0-NN1
+Roman_AJ0
+Catholic_AJ0
 country_NN1
 The_AT0
 issue_NN1
@@ -9419,7 +9419,7 @@ has_VHZ
 brought_VVN
 down_AVP
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 government_NN1
 and_CJC
 yet_AV0
@@ -9453,7 +9453,7 @@ in_PRP
 Italy_NP0
 against_PRP
 doctors_NN2
-sleeping_VVG
+sleeping_NN1
 with_PRP
 their_DPS
 patients_NN2
@@ -9483,11 +9483,11 @@ rising_VVG
 incidence_NN1
 of_PRF
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 is_VBZ
 by_PRP
-improved_AJ0
+improved_VVN
 education_NN1
 rather_AV0
 than_CJS
@@ -9514,7 +9514,7 @@ survey_NN1
 hailed_VVN
 as_CJS
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 Kinsey_NP0
 report_NN1
 in_PRP
@@ -9526,7 +9526,7 @@ that_CJT
 per_UNC
 cent_UNC
 of_PRF
-Italian_AJ0-NN1
+Italian_AJ0
 women_NN2
 and_CJC
 25_CRD
@@ -9586,7 +9586,7 @@ this_DT0
 per_UNC
 cent_UNC
 of_PRF
-Italian_AJ0-NN1
+Italian_AJ0
 men_NN2
 believed_VVD
 their_DPS
@@ -9655,7 +9655,7 @@ reported_VVN
 figures_NN2
 for_PRP
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 are_VBB
 low_AJ0
@@ -9673,7 +9673,7 @@ and_CJC
 postgraduate_NN1
 training_NN1
 are_VBB
-improved_AJ0
+improved_VVN
 and_CJC
 more_AV0
 time_NN1
@@ -9702,14 +9702,14 @@ only_AV0
 with_PRP
 syphilis_NN1
 gonorrhoea_NN1
-chancroid_NN1-AJ0
+chancroid_NN1
 and_CJC
 LGV_NP0
 with_PRP
 an_AT0
 addendum_NN1
 on_PRP
-NSU_NP0-NN1
+NSU_NP0
 and_CJC
 confuses_VVZ
 the_AT0
@@ -9731,7 +9731,7 @@ Belgium_NP0
 are_VBB
 syphilis_NN1
 gonorrhoea_NN1
-chancroid_NN1-AJ0
+chancroid_NN1
 and_CJC
 LGV_NP0
 but_CJC
@@ -9855,7 +9855,7 @@ more_AV0
 than_CJS
 any_DT0
 other_AJ0
-specialist_NN1-AJ0
+specialist_NN1
 With_PRP
 this_DT0
 strict_AJ0
@@ -9892,7 +9892,7 @@ training_NN1
 in_PRP
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 and_CJC
 neither_AV0
@@ -9933,7 +9933,7 @@ but_CJC
 the_AT0
 government_NN1
 has_VHZ
-shut_VVB
+shut_VVN
 down_AVP
 the_AT0
 local_AJ0
@@ -10012,13 +10012,13 @@ annual_AJ0
 award_NN1
 of_PRF
 10000_CRD
-Belgian_AJ0-NN1
+Belgian_AJ0
 francs_NN2
 for_PRP
 research_NN1
 into_PRP
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 but_CJC
 even_AV0
@@ -10042,7 +10042,7 @@ recognize_VVI
 the_AT0
 specialty_NN1
 of_PRF
-dermato-venereology_NN1-AJ0
+dermato-venereology_AJ0
 in_PRP
 Luxembourg_NP0
 there_EX0
@@ -10054,7 +10054,7 @@ clinic_NN1
 in_PRP
 the_AT0
 Grand_AJ0
-Duchy_NN1-NP0
+Duchy_NN1
 Since_CJS
 they_PNP
 do_VDB
@@ -10210,7 +10210,7 @@ and_CJC
 elsewhere_AV0
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 are_VBB
 treated_VVN
@@ -10237,7 +10237,7 @@ single_AJ0
 case_NN1
 of_PRF
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 disease_NN1
 reported_VVN
 from_PRP
@@ -10289,7 +10289,7 @@ for_PRP
 diagnosis_NN1
 and_CJC
 treatment_NN1
-Specialist_NN1-AJ0
+Specialist_NN1
 training_NN1
 in_PRP
 the_AT0
@@ -10297,7 +10297,7 @@ Common_AJ0
 Market_NN1
 countries_NN2
 The_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 training_NN1
 period_NN1
 for_PRP
@@ -10340,7 +10340,7 @@ subject_NN1
 of_PRF
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 is_VBZ
 the_AT0
@@ -10425,7 +10425,7 @@ be_VBI
 taught_VVN
 by_PRP
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 venereologist_NN1
 or_CJC
 genito-urinary_AJ0
@@ -10511,8 +10511,8 @@ members_NN2
 of_PRF
 the_AT0
 community_NN1
-Gonorrhoea_NN1-NP0
-Gonorrhoea_NN1-NP0
+Gonorrhoea_NN1
+Gonorrhoea_NN1
 is_VBZ
 the_AT0
 commonest_AJS
@@ -10536,7 +10536,7 @@ the_AT0
 non-specific_AJ0
 genital_AJ0
 infections_NN2
-Gonorrhoea_NN1-NP0
+Gonorrhoea_NN1
 is_VBZ
 not_XX0
 a_AT0
@@ -10550,7 +10550,7 @@ that_CJT
 the_AT0
 reference_NN1
 in_PRP
-Leviticus_NP0-NN1
+Leviticus_NN1
 Chapter_NN1
 15_CRD
 to_TO0
@@ -10596,7 +10596,7 @@ BC_AV0
 who_PNQ
 regarded_VVN
 the_AT0
-penile_AJ0-NN1
+penile_AJ0
 discharge_NN1
 as_CJS
 a_AT0
@@ -10627,7 +10627,7 @@ and_CJC
 eventually_AV0
 drove_VVD
 pleasure-loving_AJ0
-Epicurus_NP0-NN1
+Epicurus_NP0
 who_PNQ
 was_VBD
 plagued_VVN
@@ -10638,7 +10638,7 @@ to_TO0
 suicide_NN1
 It_PNP
 was_VBD
-Galen_AJ0-NN1
+Galen_NN1
 in_PRP
 the_AT0
 second_ORD
@@ -10670,7 +10670,7 @@ of_PRF
 sperm_NN0
 Although_CJS
 Albert_NP0
-Neisser_NP0-NN1
+Neisser_NN1
 is_VBZ
 credited_VVN
 with_PRP
@@ -10729,14 +10729,14 @@ important_AJ0
 one_CRD
 is_VBZ
 Neisseria_NP0
-meningitidis_VVZ-NN2
+meningitidis_NN2
 the_AT0
 usual_AJ0
 cause_NN1
 of_PRF
 bacterial_AJ0
 meningitis_NN1
-Gonorrhoea_NN1-NP0
+Gonorrhoea_NN1
 is_VBZ
 an_AT0
 ubiquitous_AJ0
@@ -10816,7 +10816,7 @@ in_PRP
 any_DT0
 one_CRD
 given_VVN
-act_VVI
+act_NN1
 of_PRF
 sexual_AJ0
 intercourse_NN1
@@ -10843,7 +10843,7 @@ but_CJC
 the_AT0
 figure_NN1
 may_VM0
-lie_VVI
+lie_VVB
 somewhere_AV0
 between_PRP
 50_CRD
@@ -10892,7 +10892,7 @@ the_AT0
 condom_NN1
 are_VBB
 used_VVN
-Gonorrhoea_NN1-NP0
+Gonorrhoea_NN1
 is_VBZ
 almost_AV0
 exclusively_AV0
@@ -10943,7 +10943,7 @@ that_CJT
 like_PRP
 other_AJ0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 this_DT0
 is_VBZ
@@ -10998,7 +10998,7 @@ is_VBZ
 possible_AJ0
 for_PRP
 some_DT0
-urethral_AJ0-NN1
+urethral_AJ0
 discharge_NN1
 from_PRP
 the_AT0
@@ -11487,7 +11487,7 @@ suffering_VVG
 from_PRP
 a_AT0
 gonococcal_AJ0
-vulva-vaginitis_NN1-AJ0
+vulva-vaginitis_NN1
 They_PNP
 will_VM0
 either_AV0
@@ -11659,9 +11659,9 @@ the_AT0
 eye_NN1
 will_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 and_CJC
-scarring_VVG-NN1
+scarring_VVG
 may_VM0
 occur_VVI
 Damage_NN1
@@ -11716,7 +11716,7 @@ United_NP0
 Kingdom_NP0
 at_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 time_NN1
 although_CJS
 it_PNP
@@ -11774,10 +11774,10 @@ Whether_CJS
 or_CJC
 not_XX0
 normal_AJ0
-mouth-to-mouth_AJ0-NN1
+mouth-to-mouth_AJ0
 contact_NN1
 can_VM0
-spread_NN1
+spread_VVN
 gonorrhoea_NN1
 to_TO0
 an_AT0
@@ -11840,7 +11840,7 @@ gonococcus_NN1
 a_AT0
 chance_NN1
 to_TO0
-spread_NN1
+spread_VVN
 than_CJS
 the_AT0
 toothless_AJ0
@@ -11886,16 +11886,16 @@ develop_VVI
 gonorrhoea_NN1
 in_PRP
 the_AT0
-penile_AJ0-NN1
+penile_AJ0
 urethra_NN1
 will_VM0
-notice_VVI
+notice_NN1
 two_CRD
 main_AJ0
 symptoms_NN2
 These_DT0
 are_VBB
-urethral_AJ0-NN1
+urethral_AJ0
 discharge_NN1
 and_CJC
 discomfort_NN1
@@ -11935,7 +11935,7 @@ due_AJ0
 to_TO0
 a_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 disease_NN1
 That_DT0
 is_VBZ
@@ -11962,7 +11962,7 @@ which_DTQ
 is_VBZ
 usually_AV0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 makes_VVZ
 up_AVP
 the_AT0
@@ -12125,7 +12125,7 @@ the_AT0
 inflammation_NN1
 at_PRP
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 meatus_NN1
 The_AT0
 observers_NN2
@@ -12171,7 +12171,7 @@ suddenly_AV0
 as_CJS
 if_CJS
 a_AT0
-fly_VVI
+fly_NN1
 were_VBD
 settling_VVG
 down_AVP
@@ -12208,7 +12208,7 @@ in_PRP
 his_DPS
 pipe_NN1
 The_AT0
-French_AJ0-NN1
+French_AJ0
 had_VHD
 their_DPS
 own_DT0
@@ -12218,7 +12218,7 @@ it_PNP
 chaudepisse_NN1
 Nowadays_AV0
 the_AT0
-urinary_AJ0-NN1
+urinary_AJ0
 symptoms_NN2
 seem_VVI
 to_TO0
@@ -12250,7 +12250,7 @@ real_AJ0
 change_NN1
 in_PRP
 the_AT0
-symptom-producing_AJ0-NN1
+symptom-producing_NN1
 capabilities_NN2
 of_PRF
 the_AT0
@@ -12287,7 +12287,7 @@ reproductive_AJ0
 rate_NN1
 they_PNP
 may_VM0
-divide_VVI
+divide_NN1
 every_AT0
 five_CRD
 minutes_NN2
@@ -12420,7 +12420,7 @@ considerably_AV0
 less_AV0
 than_CJS
 their_DPS
-pre-antibiotic_AJ0-NN1
+pre-antibiotic_AJ0
 forebears_NN2
 In_PRP
 the_AT0
@@ -12460,7 +12460,7 @@ attend_VVI
 a_AT0
 clinic_NN1
 or_CJC
-specialist_NN1-AJ0
+specialist_NN1
 for_PRP
 the_AT0
 purposes_NN2
@@ -12618,7 +12618,7 @@ other_AJ0
 infections_NN2
 some_DT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 but_CJC
 many_DT0
 not_XX0
@@ -12744,7 +12744,7 @@ with_PRP
 uncomplicated_AJ0
 gonorrhoea_NN1
 will_VM0
-notice_VVI
+notice_NN1
 a_AT0
 degree_NN1
 of_PRF
@@ -12797,7 +12797,7 @@ urethra_NN1
 one_CRD
 might_VM0
 expect_VVI
-urethral_AJ0-NN1
+urethral_AJ0
 discharge_NN1
 to_TO0
 be_VBI
@@ -12823,7 +12823,7 @@ examination_NN1
 but_CJC
 since_CJS
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 opening_NN1
 in_PRP
 the_AT0
@@ -12893,7 +12893,7 @@ micturition_NN1
 If_CJS
 frequency_NN1
 is_VBZ
-present_AJ0-NN1
+present_AJ0
 it_PNP
 occurs_VVZ
 usually_AV0
@@ -12931,7 +12931,7 @@ as_CJS
 involvement_NN1
 of_PRF
 the_AT0
-fallopian_AJ0-NN1
+fallopian_AJ0
 tubes_NN2
 have_VHB
 set_VVN
@@ -13000,7 +13000,7 @@ to_TO0
 ten_CRD
 days_NN2
 on_PRP
-average_AJ0-NN1
+average_AJ0
 is_VBZ
 considerably_AV0
 longer_AV0
@@ -13249,7 +13249,7 @@ it_PNP
 comes_VVZ
 across_PRP
 any_DT0
-orifices_NN2-VVZ
+orifices_NN2
 holes_NN2
 crypts_NN2
 or_CJC
@@ -13412,7 +13412,7 @@ in_PRP
 the_AT0
 urethra_NN1
 are_VBB
-involved_AJ0
+involved_VVN
 and_CJC
 chronic_AJ0
 infection_NN1
@@ -13614,7 +13614,7 @@ exception_NN1
 these_DT0
 complications_NN2
 have_VHB
-nuisance-value_AJ0-NN1
+nuisance-value_AJ0
 only_AV0
 There_EX0
 may_VM0
@@ -13678,7 +13678,7 @@ the_AT0
 involvement_NN1
 of_PRF
 the_AT0
-fallopian_AJ0-NN1
+fallopian_AJ0
 tubes_NN2
 and_CJC
 ovaries_NN2
@@ -13689,7 +13689,7 @@ process_NN1
 If_CJS
 infection_NN1
 is_VBZ
-present_AJ0-NN1
+present_AJ0
 for_PRP
 long_AJ0
 in_PRP
@@ -13702,7 +13702,7 @@ be_VBI
 seriously_AV0
 compromised_VVN
 The_AT0
-fallopian_AJ0-NN1
+fallopian_AJ0
 tubes_NN2
 are_VBB
 exceedingly_AV0
@@ -13855,7 +13855,7 @@ products_NN2
 backwards_AV0
 up_AVP
 the_AT0
-fallopian_AJ0-NN1
+fallopian_AJ0
 tubes_NN2
 and_CJC
 even_AV0
@@ -13874,7 +13874,7 @@ probably_AV0
 responsible_AJ0
 for_PRP
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 infection_NN1
 internally_AV0
@@ -13922,7 +13922,7 @@ and_CJC
 fever_NN1
 She_PNP
 may_VM0
-notice_VVI
+notice_NN1
 that_CJT
 the_AT0
 menstrual_AJ0
@@ -13991,7 +13991,7 @@ peritonitis_NN1
 Infection_NN1
 of_PRF
 the_AT0
-fallopian_AJ0-NN1
+fallopian_AJ0
 tubes_NN2
 must_VM0
 remain_VVI
@@ -14057,7 +14057,7 @@ the_AT0
 infection_NN1
 has_VHZ
 been_VBN
-present_AJ0-NN1
+present_AJ0
 for_PRP
 some_DT0
 time_NN1
@@ -14105,7 +14105,7 @@ The_AT0
 heart_NN1
 may_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 in_PRP
 a_AT0
 gonococcal_AJ0
@@ -14118,7 +14118,7 @@ nervous_AJ0
 system_NN1
 may_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 and_CJC
 a_AT0
 meningitis_NN1
@@ -14330,7 +14330,7 @@ placed_VVN
 on_PRP
 a_AT0
 microscope_NN1
-slide_VVI
+slide_NN1
 and_CJC
 stained_AJ0
 with_PRP
@@ -14342,7 +14342,7 @@ up_AVP
 different_AJ0
 structures_NN2
 in_PRP
-varying_AJ0-VVG
+varying_AJ0
 colours_NN2
 and_CJC
 shades_NN2
@@ -14508,9 +14508,9 @@ stain_NN1
 and_CJC
 examine_VVI
 a_AT0
-slide_VVI
+slide_NN1
 of_PRF
-urethral_AJ0-NN1
+urethral_AJ0
 discharge_NN1
 from_PRP
 the_AT0
@@ -14567,7 +14567,7 @@ the_AT0
 gonococcus_NN1
 is_VBZ
 not_XX0
-present_AJ0-NN1
+present_AJ0
 at_PRP
 these_DT0
 different_AJ0
@@ -14686,7 +14686,7 @@ by_PRP
 other_AJ0
 bacteria_NN2
 or_CJC
-yeasts_NN2-VVZ
+yeasts_NN2
 making_VVG
 it_PNP
 difficult_AJ0
@@ -14714,7 +14714,7 @@ is_VBZ
 not_XX0
 sensitive_AJ0
 to_TO0
-inhibit_VVI
+inhibit_VVB
 the_AT0
 growth_NN1
 of_PRF
@@ -14749,7 +14749,7 @@ be_VBI
 the_AT0
 only_AV0
 site_NN1
-involved_AJ0
+involved_VVN
 This_DT0
 occurs_VVZ
 in_PRP
@@ -14789,7 +14789,7 @@ be_VBI
 the_AT0
 only_AV0
 site_NN1
-involved_AJ0
+involved_VVN
 but_CJC
 it_PNP
 is_VBZ
@@ -15037,7 +15037,7 @@ time_NN1
 Both_DT0
 the_AT0
 microscope_NN1
-slide_VVI
+slide_NN1
 and_CJC
 the_AT0
 culture_NN1
@@ -15096,13 +15096,13 @@ particularly_AV0
 in_PRP
 women_NN2
 are_VBB
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 the_AT0
 difficulties_NN2
 in_PRP
 the_AT0
-horticultural_AJ0-NN1
+horticultural_AJ0
 aspects_NN2
 of_PRF
 the_AT0
@@ -15188,7 +15188,7 @@ as_CJS
 penicillin_NN1
 for_PRP
 all_DT0
-urethral_AJ0-NN1
+urethral_AJ0
 discharges_NN2
 and_CJC
 an_AT0
@@ -15199,7 +15199,7 @@ resistance_NN1
 of_PRF
 the_AT0
 gonococci_NN2
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 an_AT0
 infuriating_AJ0
@@ -15447,7 +15447,7 @@ addition_NN1
 of_PRF
 another_DT0
 drug_NN1
-probenecid_NN1-AJ0
+probenecid_NN1
 which_DTQ
 helps_VVZ
 to_TO0
@@ -15779,7 +15779,7 @@ is_VBZ
 the_AT0
 commonest_AJS
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 disease_NN1
 the_AT0
 difference_NN1
@@ -15802,10 +15802,10 @@ several_DT0
 causes_NN2
 Non-specific_AJ0
 urethritis_NN1
-NSU_NP0-NN1
+NSU_NP0
 non-gonococcal_AJ0
 urethritis_NN1
-NGU_NN1-NP0
+NGU_NP0
 post-gonococcal_AJ0
 urethritis_NN1
 PGU_NP0
@@ -15813,7 +15813,7 @@ and_CJC
 non-specific_AJ0
 genital_AJ0
 infection_NN1
-NSGI_NP0-NN1
+NSGI_NP0
 all_DT0
 refer_VVI
 to_TO0
@@ -15827,7 +15827,7 @@ the_AT0
 characteristics_NN2
 of_PRF
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 and_CJC
 yet_AV0
@@ -15900,7 +15900,7 @@ that_CJT
 the_AT0
 disease_NN1
 is_VBZ
-present_AJ0-NN1
+present_AJ0
 in_PRP
 the_AT0
 first_ORD
@@ -15951,7 +15951,7 @@ barrenness_NN1
 of_PRF
 bacterial_AJ0
 feedback_NN1
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 many_DT0
 patients_NN2
@@ -16001,8 +16001,8 @@ agent_NN1
 can_VM0
 be_VBI
 found_VVD
-Urethritis_NN1-NP0
-Urethritis_NN1-NP0
+Urethritis_NN1
+Urethritis_NN1
 simply_AV0
 means_NN0
 inflammation_NN1
@@ -16117,7 +16117,7 @@ may_VM0
 be_VBI
 an_AT0
 equal_AJ0
-pus-cell_AJ0-NN1
+pus-cell_NN1
 response_NN1
 with_PRP
 the_AT0
@@ -16149,7 +16149,7 @@ with_PRP
 infection_NN1
 and_CJC
 the_AT0
-pus-cell_AJ0-NN1
+pus-cell_NN1
 is_VBZ
 treated_VVN
 vigorously_AV0
@@ -16263,7 +16263,7 @@ signs_NN2
 and_CJC
 symptoms_NN2
 of_PRF
-NGU_NN1-NP0
+NGU_NP0
 The_AT0
 bacteria_NN2
 which_DTQ
@@ -16345,7 +16345,7 @@ for_PRP
 some_DT0
 cases_NN2
 of_PRF
-NGU_NN1-NP0
+NGU_NP0
 The_AT0
 most_AV0
 recent_AJ0
@@ -16358,11 +16358,11 @@ mycoplasma_NN1
 are_VBB
 undoubtedly_AV0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 they_PNP
 are_VBB
 often_AV0
-present_AJ0-NN1
+present_AJ0
 in_PRP
 the_AT0
 genital_AJ0
@@ -16401,7 +16401,7 @@ other_AJ0
 evidence_NN1
 of_PRF
 urethritis_NN1
-Chlamydia_NN1-NP0
+Chlamydia_NP0
 trachomatis_NN1
 provides_VVZ
 the_AT0
@@ -16433,7 +16433,7 @@ to_TO0
 it_PNP
 later_AV0
 Fungi_NN2
-Candida_NN1-NP0
+Candida_NP0
 albicans_NN2
 and_CJC
 related_VVN
@@ -16492,7 +16492,7 @@ penis_NN1
 just_AV0
 inside_PRP
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 meatus_NN1
 In_PRP
 these_DT0
@@ -16512,7 +16512,7 @@ non-specific_AJ0
 urethritis_NN1
 Viruses_NN2
 Herpes_NN2
-simplex_VVB-NN1
+simplex_VVB
 the_AT0
 virus_NN1
 responsible_AJ0
@@ -16526,7 +16526,7 @@ and_CJC
 face_NN1
 is_VBZ
 also_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 genital_AJ0
 infection_NN1
@@ -16600,7 +16600,7 @@ into_PRP
 contact_NN1
 with_PRP
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 mucous_NN1
 membrane_NN1
 which_DTQ
@@ -16614,7 +16614,7 @@ an_AT0
 irritative_AJ0
 urethritis_NN1
 The_AT0
-pre-antibiotic_AJ0-NN1
+pre-antibiotic_AJ0
 irrigations_NN2
 used_VVN
 organic_AJ0
@@ -16710,7 +16710,7 @@ rare_AJ0
 cause_NN1
 of_PRF
 urethritis_NN1
-Protozoa_NN1-NP0
+Protozoa_NP0
 Trichomonas_NP0
 vaginalis_NN1
 is_VBZ
@@ -16758,7 +16758,7 @@ this_DT0
 proportion_NN1
 can_VM0
 be_VBI
-increased_AJ0
+increased_VVN
 if_CJS
 extra_AJ0
 care_NN1
@@ -16820,7 +16820,7 @@ those_DT0
 cases_NN2
 diagnosed_VVN
 as_CJS
-NGU_NN1-NP0
+NGU_NP0
 would_VM0
 turn_NN1
 out_AVP
@@ -16853,7 +16853,7 @@ or_CJC
 per_UNC
 cent_UNC
 or_CJC
-NGU_NN1-NP0
+NGU_NP0
 cases_NN2
 It_PNP
 is_VBZ
@@ -17003,7 +17003,7 @@ into_PRP
 different_AJ0
 holes_NN2
 and_CJC
-orifices_NN2-VVZ
+orifices_NN2
 Women_NN2
 may_VM0
 insert_VVI
@@ -17035,7 +17035,7 @@ not_XX0
 removed_VVN
 it_PNP
 can_VM0
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 focus_NN1
@@ -17060,7 +17060,7 @@ to_TO0
 treatment_NN1
 until_CJS
 the_AT0
-offending_AJ0-NN1
+offending_AJ0
 article_NN1
 has_VHZ
 been_VBN
@@ -17131,7 +17131,7 @@ discharge_NN1
 visible_AJ0
 at_PRP
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 meatus_NN1
 Further_AV0
 examination_NN1
@@ -17236,7 +17236,7 @@ cotton_NN1
 broke_VVD
 Instead_AV0
 of_PRF
-relaxing_VVG-AJ0
+relaxing_VVG
 and_CJC
 letting_VVG
 nature_NN1
@@ -17348,8 +17348,8 @@ of_PRF
 all_DT0
 cases_NN2
 of_PRF
-NSU_NP0-NN1
-Chlamydia_NN1-NP0
+NSU_NP0
+Chlamydia_NP0
 trachomatis_NN1
 The_AT0
 remaining_AJ0
@@ -17464,7 +17464,7 @@ host_NN1
 cells_NN2
 '_POS
 own_DT0
-energy-producing_AJ0-NN1
+energy-producing_AJ0
 system_NN1
 to_TO0
 provide_VVI
@@ -17586,7 +17586,7 @@ in_PRP
 women_NN2
 The_AT0
 genus_NN1
-Chlamydia_NN1-NP0
+Chlamydia_NP0
 is_VBZ
 divided_VVN
 into_PRP
@@ -17779,7 +17779,7 @@ is_VBZ
 general_AJ0
 agreement_NN1
 that_CJT
-Chlamydia_NN1-NP0
+Chlamydia_NP0
 trachomatis_NN1
 is_VBZ
 the_AT0
@@ -17792,7 +17792,7 @@ percentage_NN1
 of_PRF
 cases_NN2
 of_PRF
-NSU_NP0-NN1
+NSU_NP0
 but_CJC
 the_AT0
 best_AJS
@@ -17899,7 +17899,7 @@ so_AV0
 and_CJC
 the_AT0
 expense_NN1
-involved_AJ0
+involved_VVN
 there_EX0
 are_VBB
 very_AV0
@@ -17913,7 +17913,7 @@ routine_NN1
 chlamydia_NN1
 isolation_NN1
 At_PRP
-present_AJ0-NN1
+present_AJ0
 there_EX0
 are_VBB
 less_AV0
@@ -18040,7 +18040,7 @@ in_PRP
 the_AT0
 form_NN1
 of_PRF
-NSU_NP0-NN1
+NSU_NP0
 It_PNP
 can_VM0
 be_VBI
@@ -18116,7 +18116,7 @@ of_PRF
 these_DT0
 cases_NN2
 of_PRF
-NSU_NP0-NN1
+NSU_NP0
 or_CJC
 pus_NN1
 cells_NN2
@@ -18141,13 +18141,13 @@ treat_VVI
 all_DT0
 cases_NN2
 of_PRF
-NSU_NP0-NN1
+NSU_NP0
 so_AV0
 diagnosed_VVN
 when_CJS
 they_PNP
 initially_AV0
-present_AJ0-NN1
+present_AJ0
 to_TO0
 the_AT0
 clinic_NN1
@@ -18157,7 +18157,7 @@ they_PNP
 had_VHD
 a_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 disease_NN1
 and_CJC
 prescribe_VVI
@@ -18253,7 +18253,7 @@ suspect_VVB
 that_CJT
 many_DT0
 relapses_NN2
-fall_VVI
+fall_NN1
 into_PRP
 t_ZZ0
 his_DPS
@@ -18481,7 +18481,7 @@ brought_VVN
 the_AT0
 symptoms_NN2
 of_PRF
-NSU_NP0-NN1
+NSU_NP0
 much_DT0
 closer_AV0
 to_TO0
@@ -18490,7 +18490,7 @@ of_PRF
 gonorrhoea_NN1
 and_CJC
 thereby_AV0
-exaggerated_AJ0
+exaggerated_VVN
 their_DPS
 importance_NN1
 In_PRP
@@ -18510,7 +18510,7 @@ by_PRP
 an_AT0
 attack_NN1
 of_PRF
-epididymo-orchitis_NN1-AJ0
+epididymo-orchitis_NN1
 and_CJC
 after_PRP
 a_AT0
@@ -18518,7 +18518,7 @@ miserable_AJ0
 six_CRD
 weeks_NN2
 of_PRF
-self-imposed_AJ0-NN1
+self-imposed_AJ0
 confinement_NN1
 at_PRP
 home_NN1
@@ -18553,7 +18553,7 @@ have_VHB
 been_VBN
 diagnosed_VVN
 as_CJS
-NSU_NP0-NN1
+NSU_NP0
 today_AV0
 and_CJC
 treated_VVN
@@ -18583,7 +18583,7 @@ it_PNP
 The_AT0
 symptoms_NN2
 of_PRF
-NGU_NN1-NP0
+NGU_NP0
 in_PRP
 the_AT0
 man_NN1
@@ -18597,9 +18597,9 @@ urethritis_NN1
 but_CJC
 less_AV0
 severe_AJ0
-Dysuria_NN1-NP0
+Dysuria_NN1
 and_CJC
-urethral_AJ0-NN1
+urethral_AJ0
 discharge_NN1
 are_VBB
 the_AT0
@@ -18648,7 +18648,7 @@ rather_AV0
 than_CJS
 a_AT0
 full-blown_AJ0
-urethral_AJ0-NN1
+urethral_AJ0
 discharge_NN1
 Although_CJS
 it_PNP
@@ -18875,7 +18875,7 @@ partners_NN2
 of_PRF
 men_NN2
 with_PRP
-NSU_NP0-NN1
+NSU_NP0
 or_CJC
 hoping_VVG
 that_CJT
@@ -18921,7 +18921,7 @@ the_AT0
 first_ORD
 attack_NN1
 of_PRF
-NSU_NP0-NN1
+NSU_NP0
 but_CJC
 as_CJS
 with_PRP
@@ -18983,9 +18983,9 @@ the_AT0
 male_AJ0
 infection_NN1
 may_VM0
-spread_NN1
+spread_VVN
 to_TO0
-urethral_AJ0-NN1
+urethral_AJ0
 glands_NN2
 and_CJC
 the_AT0
@@ -19014,19 +19014,19 @@ the_AT0
 labia_NN2
 may_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 by_PRP
 infection_NN1
 and_CJC
 the_AT0
 process_NN1
 may_VM0
-spread_NN1
+spread_VVN
 upwards_AV0
 to_TO0
 involve_VVI
 the_AT0
-fallopian_AJ0-NN1
+fallopian_AJ0
 tubes_NN2
 with_PRP
 acute_AJ0
@@ -19070,7 +19070,7 @@ joints_NN2
 and_CJC
 skin_NN1
 are_VBB
-involved_AJ0
+involved_VVN
 That_DT0
 is_VBZ
 as_CJS
@@ -19101,7 +19101,7 @@ addition_NN1
 other_AJ0
 systems_NN2
 are_VBB
-involved_AJ0
+involved_VVN
 in_PRP
 Reiter_NP0
 's_POS
@@ -19225,7 +19225,7 @@ process_NN1
 a_AT0
 little_AJ0
 like_PRP
-blood-grouping_NN1-AJ0
+blood-grouping_NN1
 is_VBZ
 used_VVN
 to_TO0
@@ -19285,7 +19285,7 @@ psoriasis_NN1
 and_CJC
 those_DT0
 with_PRP
-ankylosing_VVG-AJ0
+ankylosing_VVG
 spondylitis_NN1
 It_PNP
 appears_VVZ
@@ -19309,9 +19309,9 @@ the_AT0
 organism_NN1
 responsible_AJ0
 for_PRP
-NGU_NN1-NP0
+NGU_NP0
 can_VM0
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 trigger_NN1
@@ -19327,7 +19327,7 @@ Reiter_NP0
 disease_NN1
 usually_AV0
 follows_VVZ
-NGU_NN1-NP0
+NGU_NP0
 in_PRP
 this_DT0
 country_NN1
@@ -19346,7 +19346,7 @@ following_AJ0
 certain_AJ0
 forms_NN2
 of_PRF
-dysentery_NN1-AJ0
+dysentery_AJ0
 In_PRP
 these_DT0
 cases_NN2
@@ -19386,7 +19386,7 @@ The_AT0
 most_AV0
 common_AJ0
 joints_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 Reiter_NP0
 's_POS
@@ -19417,11 +19417,11 @@ the_AT0
 heart_NN1
 can_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 It_PNP
 should_VM0
 be_VBI
-stressed_VVD
+stressed_VVN
 that_CJT
 this_DT0
 complication_NN1
@@ -19464,7 +19464,7 @@ is_VBZ
 more_AV0
 often_AV0
 iatrogenic_AJ0
-doctor-induced_NN1-AJ0
+doctor-induced_AJ0
 in_PRP
 origin_NN1
 Because_CJS
@@ -19537,7 +19537,7 @@ is_VBZ
 not_XX0
 surprising_AJ0
 that_CJT
-NSU_NP0-NN1
+NSU_NP0
 neurosis_NN1
 occurs_VVZ
 in_PRP
@@ -19554,7 +19554,7 @@ he_PNP
 has_VHZ
 still_AV0
 got_VVN
-NSU_NP0-NN1
+NSU_NP0
 it_PNP
 is_VBZ
 very_AV0
@@ -19766,7 +19766,7 @@ urine_NN1
 and_CJC
 could_VM0
 theoretically_AV0
-act_VVI
+act_NN1
 as_CJS
 an_AT0
 inflammatory_AJ0
@@ -19925,13 +19925,13 @@ to_TO0
 develop_VVI
 a_AT0
 mild_AJ0
-urethral_AJ0-NN1
+urethral_AJ0
 discharge_NN1
 five_CRD
 weeks_NN2
 after_PRP
 first_ORD
-sleeping_VVG
+sleeping_NN1
 with_PRP
 his_DPS
 new_AJ0
@@ -20085,7 +20085,7 @@ confirmed_VVN
 the_AT0
 diagnosis_NN1
 of_PRF
-NGU_NN1-NP0
+NGU_NP0
 he_PNP
 was_VBD
 started_VVD
@@ -20148,7 +20148,7 @@ course_NN1
 of_PRF
 antibiotics_NN2
 His_DPS
-urethral_AJ0-NN1
+urethral_AJ0
 discharge_NN1
 and_CJC
 her_DPS
@@ -20230,7 +20230,7 @@ he_PNP
 had_VHD
 noticed_VVD
 some_DT0
-urethral_AJ0-NN1
+urethral_AJ0
 discharge_NN1
 first_ORD
 thing_NN1
@@ -20264,7 +20264,7 @@ every_AT0
 morning_NN1
 and_CJC
 would_VM0
-squeeze_VVI
+squeeze_NN1
 and_CJC
 milk_NN1
 his_DPS
@@ -20315,7 +20315,7 @@ of_PRF
 mucus_NN1
 at_PRP
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 meatus_NN1
 in_PRP
 the_AT0
@@ -20328,7 +20328,7 @@ this_DT0
 case_NN1
 a_AT0
 budding_AJ0
-urethral_AJ0-NN1
+urethral_AJ0
 neurosis_NN1
 was_VBD
 nipped_VVD
@@ -20485,9 +20485,9 @@ milieu_NN1
 for_PRP
 the_AT0
 sex_NN1
-act_VVI
+act_NN1
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 channel_NN1
@@ -20669,7 +20669,7 @@ may_VM0
 not_XX0
 manifest_AJ0
 their_DPS
-disease-provoking_AJ0-NN1
+disease-provoking_NN1
 properties_NN2
 in_PRP
 certain_AJ0
@@ -20726,7 +20726,7 @@ organisms_NN2
 responsible_AJ0
 for_PRP
 the_AT0
-souring_AJ0-NN1
+souring_NN1
 of_PRF
 milk_NN1
 and_CJC
@@ -20793,7 +20793,7 @@ in_PRP
 vaginal_AJ0
 discharge_NN1
 Herpes_NN2
-simplex_VVB-NN1
+simplex_VVB
 infection_NN1
 when_CJS
 it_PNP
@@ -20867,7 +20867,7 @@ of_PRF
 the_AT0
 vagina_NN1
 is_VBZ
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 infective_AJ0
@@ -20915,7 +20915,7 @@ rather_AV0
 than_CJS
 vaginal_AJ0
 infection_NN1
-Candida_NN1-NP0
+Candida_NP0
 albicans_NN2
 In_PRP
 departments_NN2
@@ -20930,7 +20930,7 @@ from_PRP
 attending_VVG
 women_NN2
 is_VBZ
-Candida_NN1-NP0
+Candida_NP0
 albicans_NN2
 This_DT0
 yeast-like_AJ0
@@ -21236,7 +21236,7 @@ lactobacillus_NN1
 is_VBZ
 no_AT0
 longer_AV0
-present_AJ0-NN1
+present_AJ0
 in_PRP
 the_AT0
 vagina_NN1
@@ -21388,7 +21388,7 @@ the_AT0
 vagina_NN1
 and_CJC
 again_AV0
-Candida_NN1-NP0
+Candida_NP0
 albicans_NN2
 finds_VVZ
 conditions_NN2
@@ -21491,7 +21491,7 @@ of_PRF
 the_AT0
 features_NN2
 of_PRF
-Candida_NN1-NP0
+Candida_NP0
 albicans_NN2
 that_CJT
 makes_VVZ
@@ -21585,7 +21585,7 @@ the_AT0
 vagina_NN1
 is_VBZ
 heavily_AV0
-colonized_VVN
+colonized_AJ0
 by_PRP
 C._NP0
 albicans_NN2
@@ -21723,7 +21723,7 @@ the_AT0
 anus_NN1
 is_VBZ
 commonly_AV0
-involved_AJ0
+involved_VVN
 and_CJC
 the_AT0
 anus_NN1
@@ -21744,14 +21744,14 @@ Occasionally_AV0
 the_AT0
 infection_NN1
 may_VM0
-spread_NN1
+spread_VVN
 to_TO0
 involve_VVI
 the_AT0
 natal_AJ0
 cleft_NN1
 the_AT0
-fold_VVI
+fold_NN1
 between_PRP
 the_AT0
 buttocks_NN2
@@ -21771,7 +21771,7 @@ in_PRP
 someone_PNI
 who_PNQ
 is_VBZ
-sensitized_VVD-AJ0
+sensitized_AJ0
 to_TO0
 the_AT0
 fungus_NN1
@@ -21998,7 +21998,7 @@ male_AJ0
 homosexuals_NN2
 with_PRP
 similar_AJ0
-penile_AJ0-NN1
+penile_AJ0
 or_CJC
 anal_AJ0
 soreness_NN1
@@ -22019,7 +22019,7 @@ is_VBZ
 completely_AV0
 untreatable_AJ0
 This_DT0
-stems_VVZ-NN2
+stems_NN2
 from_PRP
 the_AT0
 fact_NN1
@@ -22232,7 +22232,7 @@ vaginal_AJ0
 candidiasis_NN1
 a_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 disease_NN1
 Probably_AV0
 rather_AV0
@@ -22254,7 +22254,7 @@ to_TO0
 a_AT0
 recent_AJ0
 sexual_AJ0
-act_VVI
+act_NN1
 it_PNP
 may_VM0
 be_VBI
@@ -22395,9 +22395,9 @@ broad_AJ0
 end_NN1
 of_PRF
 this_DT0
-pear-shaped_NN1-AJ0
+pear-shaped_AJ0
 organism_NN1
-Protozoa_NN1-NP0
+Protozoa_NP0
 are_VBB
 much_DT0
 larger_AJC
@@ -22429,7 +22429,7 @@ suffer_VVI
 from_PRP
 a_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 disease_NN1
 due_AJ0
 to_TO0
@@ -22469,7 +22469,7 @@ is_VBZ
 almost_AV0
 exclusively_AV0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 Those_DT0
 who_PNQ
 postulate_VVB
@@ -22582,7 +22582,7 @@ have_VHB
 also_AV0
 been_VBN
 well_AV0
-annotated_VVD-AJ0
+annotated_AJ0
 studies_NN2
 of_PRF
 the_AT0
@@ -22666,7 +22666,7 @@ irritant_NN1
 discharge_NN1
 with_PRP
 a_AT0
-characteristic_AJ0-NN1
+characteristic_NN1
 fishy_AJ0
 odour_NN1
 and_CJC
@@ -22708,10 +22708,10 @@ may_VM0
 also_AV0
 be_VBI
 some_DT0
-bleeding_VVG-AJ0
+bleeding_AJ0
 after_PRP
 intercourse_NN1
-Dysuria_NN1-NP0
+Dysuria_NN1
 may_VM0
 occur_VVI
 as_CJS
@@ -22785,7 +22785,7 @@ to_TO0
 exclude_VVI
 other_AJ0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 disease_NN1
 Between_PRP
 30_CRD
@@ -23024,7 +23024,7 @@ the_AT0
 organism_NN1
 when_CJS
 only_AV0
-urethral_AJ0-NN1
+urethral_AJ0
 tests_NN2
 are_VBB
 taken_VVN
@@ -23126,7 +23126,7 @@ specially_AV0
 stained_AJ0
 smear_NN1
 tests_NN2
-Papanicolaou_NP0-NN1
+Papanicolaou_NP0
 smear_NN1
 for_PRP
 cancer_NN1
@@ -23225,7 +23225,7 @@ the_AT0
 social_AJ0
 pattern_NN1
 of_PRF
-spread_NN1
+spread_VVN
 of_PRF
 the_AT0
 disease_NN1
@@ -23317,10 +23317,10 @@ reinfection_NN1
 has_VHZ
 taken_VVN
 place_NN1
-Haemophilus_NN1-NP0
+Haemophilus_NN1
 vaginalis_NN1
 This_DT0
-rod-shaped_AJ0-NN1
+rod-shaped_NN1
 bacterium_NN1
 is_VBZ
 a_AT0
@@ -23346,7 +23346,7 @@ which_DTQ
 it_PNP
 is_VBZ
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 but_CJC
 in_PRP
 some_DT0
@@ -23428,7 +23428,7 @@ There_EX0
 may_VM0
 be_VBI
 a_AT0
-vulva-vaginitis_NN1-AJ0
+vulva-vaginitis_NN1
 and_CJC
 the_AT0
 discharge_NN1
@@ -23486,7 +23486,7 @@ they_PNP
 are_VBB
 probably_AV0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 they_PNP
 do_VDB
 not_XX0
@@ -23748,7 +23748,7 @@ her_DPS
 parents_NN2
 about_PRP
 the_AT0
-missing_VVG-AJ0
+missing_VVG
 object_NN1
 and_CJC
 since_CJS
@@ -23886,13 +23886,13 @@ on_PRP
 her_DPS
 unsuspecting_AJ0
 fianc\xc3\xa9_NN1
-Honeymoon_VVB-NN1
+Honeymoon_VVB
 cystitis_NN1
 and_CJC
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 syndrome_NN1
-Honeymoon_VVB-NN1
+Honeymoon_VVB
 cystitis_NN1
 with_PRP
 its_DPS
@@ -24046,7 +24046,7 @@ not_XX0
 to_TO0
 a_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 disease_NN1
 to_TO0
 other_AJ0
@@ -24079,7 +24079,7 @@ simple_AJ0
 mechanical_AJ0
 trauma_NN1
 and_CJC
-allied_AJ0
+allied_VVN
 to_TO0
 this_DT0
 poor_AJ0
@@ -24143,7 +24143,7 @@ may_VM0
 well_AV0
 make_VVI
 the_AT0
-act_VVI
+act_NN1
 of_PRF
 intercourse_NN1
 uncomfortable_AJ0
@@ -24260,11 +24260,11 @@ improvement_NN1
 in_PRP
 the_AT0
 sex_NN1
-act_VVI
+act_NN1
 and_CJC
 the_AT0
 troublesome_AJ0
-urinary_AJ0-NN1
+urinary_AJ0
 symptoms_NN2
 will_VM0
 disappear_VVI
@@ -24303,7 +24303,7 @@ problem_NN1
 less_AV0
 likely_AJ0
 The_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 syndrome_NN1
 is_VBZ
 really_AV0
@@ -24319,7 +24319,7 @@ books_NN2
 themselves_PNX
 have_VHB
 been_VBN
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 it_PNP
 The_AT0
@@ -24337,7 +24337,7 @@ that_CJT
 is_VBZ
 to_TO0
 say_VVI
-urethral_AJ0-NN1
+urethral_AJ0
 symptoms_NN2
 related_VVN
 to_TO0
@@ -24360,7 +24360,7 @@ mistake_NN1
 to_TO0
 regard_VVI
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 syndrome_NN1
 as_CJS
 one_CRD
@@ -24454,7 +24454,7 @@ instance_NN1
 that_CJT
 a_AT0
 pouting_VVG
-urethral_AJ0-NN1
+urethral_AJ0
 meatus_NN1
 in_PRP
 women_NN2
@@ -24463,11 +24463,11 @@ give_VVI
 rise_NN1
 to_TO0
 recurrent_AJ0
-urethral_AJ0-NN1
+urethral_AJ0
 symptoms_NN2
 and_CJC
 a_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 caruncle_NN1
 a_AT0
 tiny_AJ0
@@ -24477,7 +24477,7 @@ sensitive_AJ0
 flesh_NN1
 at_PRP
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 opening_NN1
 can_VM0
 certainly_AV0
@@ -24493,7 +24493,7 @@ women_NN2
 for_PRP
 whom_PNQ
 no_AT0
-predisposing_AJ0-NN1
+predisposing_AJ0
 factor_NN1
 can_VM0
 be_VBI
@@ -24525,7 +24525,7 @@ by_PRP
 a_AT0
 combination_NN1
 of_PRF
-improved_AJ0
+improved_VVN
 lubrication_NN1
 and_CJC
 post-coital_AJ0
@@ -24554,7 +24554,7 @@ advantage_NN1
 of_PRF
 the_AT0
 sexual_AJ0
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 vehicle_NN1
@@ -24576,7 +24576,7 @@ for_PRP
 the_AT0
 tropical_AJ0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 have_VHB
 become_VVI
@@ -24590,7 +24590,7 @@ extremely_AV0
 rare_AJ0
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 virus_NN1
 infections_NN2
 with_PRP
@@ -24601,7 +24601,7 @@ genital_AJ0
 warts_NN2
 are_VBB
 frequently_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 in_PRP
 other_AJ0
 ways_NN2
@@ -24612,14 +24612,14 @@ many_DT0
 viruses_NN2
 can_VM0
 be_VBI
-transmitted_AJ0-VVN
+transmitted_VVN
 sexually_AV0
 there_EX0
 are_VBB
 five_CRD
 conditions_NN2
 whose_DTQ
-spread_NN1
+spread_VVN
 is_VBZ
 commonly_AV0
 by_PRP
@@ -24640,12 +24640,12 @@ and_CJC
 cytomegalovirus_NN1
 infection_NN1
 Herpes_NN2
-simplex_VVB-NN1
+simplex_VVB
 The_AT0
 virus_NN1
 of_PRF
 herpes_NN2
-simplex_VVB-NN1
+simplex_VVB
 is_VBZ
 probably_AV0
 the_AT0
@@ -24703,7 +24703,7 @@ distinct_AJ0
 types_NN2
 of_PRF
 herpes_NN2
-simplex_VVB-NN1
+simplex_VVB
 virus_NN1
 type_NN1
 I_PNP
@@ -24820,7 +24820,7 @@ four_CRD
 days_NN2
 These_DT0
 are_VBB
-itchy_AJ0-NN1
+itchy_AJ0
 and_CJC
 painful_AJ0
 and_CJC
@@ -25022,11 +25022,11 @@ one_CRD
 of_PRF
 the_AT0
 most_AV0
-harrowing_VVG-AJ0
+harrowing_AJ0
 of_PRF
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 Although_CJS
 infection_NN1
@@ -25435,7 +25435,7 @@ trauma_NN1
 of_PRF
 the_AT0
 sex_NN1
-act_VVI
+act_NN1
 rather_AV0
 than_CJS
 reinfection_NN1
@@ -25496,7 +25496,7 @@ entrance_NN1
 Sometimes_AV0
 they_PNP
 may_VM0
-spread_NN1
+spread_VVN
 to_TO0
 involve_VVI
 the_AT0
@@ -25676,7 +25676,7 @@ the_AT0
 discomfort_NN1
 is_VBZ
 actually_AV0
-urethral_AJ0-NN1
+urethral_AJ0
 There_EX0
 may_VM0
 be_VBI
@@ -25764,7 +25764,7 @@ Again_AV0
 there_EX0
 are_VBB
 several_DT0
-precipitating_VVG-AJ0
+precipitating_AJ0
 factors_NN2
 which_DTQ
 may_VM0
@@ -25837,7 +25837,7 @@ attack_NN1
 she_PNP
 had_VHD
 gradually_AV0
-improved_AJ0
+improved_VVN
 until_CJS
 she_PNP
 finally_AV0
@@ -26143,7 +26143,7 @@ satisfactory_AJ0
 treatment_NN1
 for_PRP
 herpes_NN2
-simplex_VVB-NN1
+simplex_VVB
 infections_NN2
 and_CJC
 the_AT0
@@ -26228,7 +26228,7 @@ any_DT0
 convincing_AJ0
 therapeutic_AJ0
 effect_NN1
-Idoxuridine_VVB-NN1
+Idoxuridine_NN1
 one_CRD
 such_DT0
 agent_NN1
@@ -26369,7 +26369,7 @@ could_VM0
 lead_VVI
 to_TO0
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 the_AT0
 infection_NN1
@@ -26423,9 +26423,9 @@ new_AJ0
 group_NN1
 of_PRF
 drugs_NN2
-cytosine_NN1-VVB
+cytosine_NN1
 and_CJC
-adenosine_VVB-NN1
+adenosine_NN1
 arabinoside_NN1
 have_VHB
 been_VBN
@@ -26679,7 +26679,7 @@ or_CJC
 two_CRD
 and_CJC
 may_VM0
-present_AJ0-NN1
+present_AJ0
 to_TO0
 the_AT0
 casualty_NN1
@@ -26761,10 +26761,10 @@ necessary_AJ0
 to_TO0
 pass_VVI
 a_AT0
-urinary_AJ0-NN1
+urinary_AJ0
 catheter_AJC
 to_TO0
-drain_VVI
+drain_NN1
 the_AT0
 bladder_NN1
 but_CJC
@@ -26819,7 +26819,7 @@ when_CJS
 the_AT0
 ulcers_NN2
 are_VBB
-present_AJ0-NN1
+present_AJ0
 and_CJC
 should_VM0
 refrain_VVI
@@ -26866,7 +26866,7 @@ newborn_AJ0
 infant_NN1
 contracts_NN2
 herpes_NN2
-simplex_VVB-NN1
+simplex_VVB
 and_CJC
 goes_VVZ
 on_PRP
@@ -27015,7 +27015,7 @@ common_AJ0
 with_PRP
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 The_AT0
 same_DT0
@@ -27203,7 +27203,7 @@ every_AT0
 two_CRD
 years_NN2
 instead_AV0
-Molluscum_NN1-NP0
+Molluscum_NP0
 contagiosum_NN1
 This_DT0
 skin_NN1
@@ -27228,7 +27228,7 @@ children_NN2
 living_VVG
 in_PRP
 crowded_AJ0
-closed_VVD
+closed_VVN
 communities_NN2
 and_CJC
 adults_NN2
@@ -27278,7 +27278,7 @@ presence_NN1
 of_PRF
 other_AJ0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 infection_NN1
 Over_PRP
 80_CRD
@@ -27299,7 +27299,7 @@ suffered_VVN
 from_PRP
 other_AJ0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 The_AT0
 lesions_NN2
@@ -27307,7 +27307,7 @@ consist_VVI
 of_PRF
 separate_AJ0
 raised_VVN
-umbilicated_VVD-AJ0
+umbilicated_VVD
 spots_NN2
 which_DTQ
 vary_VVB
@@ -27544,7 +27544,7 @@ was_VBD
 isolated_AJ0
 from_PRP
 an_AT0
-Aborigine_NP0-NN1
+Aborigine_NN1
 who_PNQ
 was_VBD
 suffering_VVG
@@ -27566,7 +27566,7 @@ after_PRP
 their_DPS
 progenitor_NN1
 the_AT0
-Aborigine_NP0-NN1
+Aborigine_NN1
 was_VBD
 anonymously_AV0
 honoured_AJ0
@@ -27638,7 +27638,7 @@ it_PNP
 on_PRP
 to_TO0
 others_NN2
-Armed_VVN-AJ0
+Armed_AJ0
 with_PRP
 this_DT0
 tool_NN1
@@ -27678,7 +27678,7 @@ incidence_NN1
 of_PRF
 past_NN1
 and_CJC
-present_AJ0-NN1
+present_AJ0
 infection_NN1
 was_VBD
 found_VVD
@@ -27737,7 +27737,7 @@ most_AV0
 important_AJ0
 method_NN1
 of_PRF
-spread_NN1
+spread_VVN
 of_PRF
 hepatitis-associated_AJ0
 antigen_NN1
@@ -27747,7 +27747,7 @@ communities_NN2
 The_AT0
 method_NN1
 of_PRF
-spread_NN1
+spread_VVN
 is_VBZ
 not_XX0
 clear_AJ0
@@ -27916,7 +27916,7 @@ evidence_NN1
 that_CJT
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 form_NN1
 of_PRF
 hepatitis_NN1
@@ -27950,7 +27950,7 @@ dealing_VVG
 with_PRP
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 to_TO0
 screen_NN1
@@ -27983,7 +27983,7 @@ are_VBB
 almost_AV0
 exclusively_AV0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 and_CJC
 are_VBB
 very_AV0
@@ -28094,7 +28094,7 @@ than_CJS
 in_PRP
 diameter_NN1
 and_CJC
-flattish_AJ0
+flattish_VVB
 while_CJS
 the_AT0
 genital_AJ0
@@ -28246,7 +28246,7 @@ foreskin_NN1
 Sometimes_AV0
 they_PNP
 may_VM0
-spread_NN1
+spread_VVN
 to_TO0
 involve_VVI
 the_AT0
@@ -28259,7 +28259,7 @@ be_VBI
 seen_VVN
 if_CJS
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 meatus_NN1
 is_VBZ
 parted_VVD
@@ -28332,7 +28332,7 @@ times_NN2
 more_AV0
 common_AJ0
 than_CJS
-penile_AJ0-NN1
+penile_AJ0
 warts_NN2
 among_PRP
 homosexuals_NN2
@@ -28425,7 +28425,7 @@ yet_AV0
 unexplained_AJ0
 genital_AJ0
 warts_NN2
-proliferate_VVI
+proliferate_VVB
 markedly_AV0
 during_PRP
 pregnancy_NN1
@@ -28499,7 +28499,7 @@ of_PRF
 the_AT0
 minor_AJ0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 they_PNP
 serve_VVI
@@ -28538,7 +28538,7 @@ if_CJS
 a_AT0
 prepuce_NN1
 is_VBZ
-present_AJ0-NN1
+present_AJ0
 circumcision_NN1
 is_VBZ
 carried_VVN
@@ -28720,11 +28720,11 @@ acid_NN1
 or_CJC
 phenol_NN1
 or_CJC
-anti-mitotic_AJ0-NN1
+anti-mitotic_NN1
 acting_VVG
 on_PRP
 the_AT0
-virus-infected_AJ0-NN1
+virus-infected_NN1
 cell_NN1
 to_TO0
 stop_VVI
@@ -28764,7 +28764,7 @@ or_CJC
 burnt_VVN
 off_AVP
 with_PRP
-electro-cautery_NN1-AJ0
+electro-cautery_AJ0
 All_DT0
 these_DT0
 treatments_NN2
@@ -28837,8 +28837,8 @@ cause_NN1
 of_PRF
 vaginal_AJ0
 discharge_NN1
-Cytomegalovirus_NP0-NN1
-Cytomegalovirus_NP0-NN1
+Cytomegalovirus_NP0
+Cytomegalovirus_NP0
 CMV_CRD
 is_VBZ
 a_AT0
@@ -29009,7 +29009,7 @@ infection_NN1
 can_VM0
 be_VBI
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 It_PNP
 should_VM0
 perhaps_AV0
@@ -29114,7 +29114,7 @@ pox_NN1
 is_VBZ
 used_VVN
 by_PRP
-scaremongering_VVG-AJ0
+scaremongering_VVG
 educators_NN2
 to_TO0
 put_VVI
@@ -29236,7 +29236,7 @@ Treponema_NP0
 pallidum_NN1
 a_AT0
 thin_AJ0
-spiral_AJ0-NN1
+spiral_NN1
 flexible_AJ0
 bacterium_NN1
 which_DTQ
@@ -29274,7 +29274,7 @@ the_AT0
 organism_NN1
 At_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 time_NN1
 it_PNP
 can_VM0
@@ -29301,7 +29301,7 @@ disease_NN1
 in_PRP
 the_AT0
 higher_AJC
-apes_NN2-VVZ
+apes_NN2
 Syphilis_NN1
 is_VBZ
 seen_VVN
@@ -29535,7 +29535,7 @@ lymph_NN1
 nodes_NN2
 are_VBB
 invariably_AV0
-involved_AJ0
+involved_VVN
 and_CJC
 treatment_NN1
 of_PRF
@@ -29657,7 +29657,7 @@ clitoris_NN1
 or_CJC
 around_PRP
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 meatus_NN1
 A_AT0
 chancre_NN1
@@ -29701,7 +29701,7 @@ hard_AJ0
 floor_NN1
 which_DTQ
 may_VM0
-feel_VVI
+feel_VVB
 like_PRP
 a_AT0
 small_AJ0
@@ -29711,7 +29711,7 @@ under_PRP
 the_AT0
 skin_NN1
 surface_NN1
-varying_AJ0-VVG
+varying_AJ0
 in_PRP
 size_NN1
 from_PRP
@@ -29817,7 +29817,7 @@ sore_AJ0
 may_VM0
 still_AV0
 be_VBI
-present_AJ0-NN1
+present_AJ0
 in_PRP
 about_PRP
 one_CRD
@@ -30122,7 +30122,7 @@ and_CJC
 may_VM0
 only_AV0
 be_VBI
-present_AJ0-NN1
+present_AJ0
 for_PRP
 a_AT0
 few_DT0
@@ -30182,7 +30182,7 @@ effect_NN1
 syphilis_NN1
 having_VHG
 the_AT0
-doctor-flattering_AJ0-NN1
+doctor-flattering_NN1
 attribute_VVI
 of_PRF
 getting_VVG
@@ -30194,7 +30194,7 @@ It_PNP
 was_VBD
 this_DT0
 particular_AJ0
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 syphilis_NN1
 that_CJT
@@ -30217,11 +30217,11 @@ that_CJT
 produced_VVN
 so_AV0
 many_DT0
-varied_AJ0
+varied_VVN
 cures_NN2
 in_PRP
 the_AT0
-pre-antibiotic_AJ0-NN1
+pre-antibiotic_AJ0
 era_NN1
 The_AT0
 best_AJS
@@ -30250,12 +30250,12 @@ a_AT0
 old_AJ0
 homosexual_AJ0
 music_NN1
-arranger_NN1-VVB
+arranger_VVB
 was_VBD
 seen_VVN
 at_PRP
 the_AT0
-ENT_AJ0-NN1
+ENT_AJ0
 department_NN1
 of_PRF
 a_AT0
@@ -30548,7 +30548,7 @@ the_AT0
 secondary_AJ0
 stage_NN1
 can_VM0
-present_AJ0-NN1
+present_AJ0
 in_PRP
 the_AT0
 most_AV0
@@ -30602,7 +30602,7 @@ the_AT0
 liver_NN1
 are_VBB
 sometimes_AV0
-involved_AJ0
+involved_VVN
 late_AJ0
 in_PRP
 the_AT0
@@ -30692,7 +30692,7 @@ there_EX0
 will_VM0
 be_VBI
 no_AT0
-present_AJ0-NN1
+present_AJ0
 in_PRP
 the_AT0
 tissues_NN2
@@ -31036,7 +31036,7 @@ membranes_NN2
 may_VM0
 also_AV0
 be_VBI
-involved_AJ0
+involved_VVN
 and_CJC
 painless_AJ0
 ulcers_NN2
@@ -31058,7 +31058,7 @@ of_PRF
 the_AT0
 nose_NN1
 are_VBB
-involved_AJ0
+involved_VVN
 the_AT0
 underlying_AJ0
 bone_NN1
@@ -31074,7 +31074,7 @@ tongue_NN1
 may_VM0
 be_VBI
 in_PRP
-filtrated_AJ0-VVD
+filtrated_AJ0
 by_PRP
 gummatous_AJ0
 change_NN1
@@ -31093,7 +31093,7 @@ cancer_NN1
 of_PRF
 the_AT0
 tongue_NN1
-Gummata_NN1-NP0
+Gummata_NN1
 are_VBB
 also_AV0
 found_VVD
@@ -31255,7 +31255,7 @@ but_CJC
 cases_NN2
 of_PRF
 syphilitic_AJ0
-aortic-valve_AJ0-NN1
+aortic-valve_AJ0
 disease_NN1
 still_AV0
 turn_NN1
@@ -31295,7 +31295,7 @@ heart_NN1
 muscle_NN1
 itself_PNX
 are_VBB
-involved_AJ0
+involved_VVN
 by_PRP
 the_AT0
 syphilitic_AJ0
@@ -31398,7 +31398,7 @@ the_AT0
 wall_NN1
 of_PRF
 a_AT0
-blood-vessel_NN1-AJ0
+blood-vessel_NN1
 Syphilitic_AJ0
 aneurysms_NN2
 most_AV0
@@ -31439,7 +31439,7 @@ structures_NN2
 in_PRP
 the_AT0
 chest_NN1
-Neurosyphilis_NN1-NP0
+Neurosyphilis_NN1
 It_PNP
 has_VHZ
 been_VBN
@@ -31496,7 +31496,7 @@ that_CJT
 the_AT0
 disease_NN1
 has_VHZ
-spread_NN1
+spread_VVN
 to_TO0
 the_AT0
 nervous_AJ0
@@ -31649,7 +31649,7 @@ paralysis_NN1
 of_PRF
 the_AT0
 insane_AJ0
-GPI_NP0-NN1
+GPI_NP0
 A_AT0
 gradual_AJ0
 diminution_NN1
@@ -31696,7 +31696,7 @@ claims_NN2
 of_PRF
 past_NN1
 and_CJC
-present_AJ0-NN1
+present_AJ0
 achievements_NN2
 More_AV0
 commonly_AV0
@@ -31736,7 +31736,7 @@ the_AT0
 spinal_AJ0
 cord_NN1
 is_VBZ
-involved_AJ0
+involved_VVN
 a_AT0
 condition_NN1
 known_VVN
@@ -31758,7 +31758,7 @@ when_CJS
 the_AT0
 eyes_NN2
 are_VBB
-shut_VVB
+shut_VVN
 numbness_NN1
 and_CJC
 tingling_VVG
@@ -31808,7 +31808,7 @@ supplying_VVG
 these_DT0
 functions_NN2
 The_AT0
-sacral_AJ0-NN1
+sacral_NN1
 nerves_NN2
 which_DTQ
 supply_NN1
@@ -31816,7 +31816,7 @@ the_AT0
 genitalia_NN1
 are_VBB
 often_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 disease_NN1
@@ -31849,12 +31849,12 @@ arthritis_NN1
 in_PRP
 the_AT0
 joints_NN2
-involved_AJ0
+involved_VVN
 called_VVN
 after_PRP
 the_AT0
 nineteenth-century_AJ0
-French_AJ0-NN1
+French_AJ0
 physician_NN1
 who_PNQ
 described_VVN
@@ -32268,7 +32268,7 @@ involve_VVI
 the_AT0
 nose_NN1
 and_CJC
-pharynx_NN1-VVB
+pharynx_VVB
 this_DT0
 leads_VVZ
 to_TO0
@@ -32431,7 +32431,7 @@ a_AT0
 progressive_AJ0
 deafness_NN1
 develops_VVZ
-Gummata_NN1-NP0
+Gummata_NN1
 may_VM0
 be_VBI
 found_VVD
@@ -32551,7 +32551,7 @@ the_AT0
 mouth_NN1
 known_VVN
 as_CJS
-rhagades_NN2-VVZ
+rhagades_NN2
 and_CJC
 there_EX0
 are_VBB
@@ -32632,7 +32632,7 @@ infections_NN2
 be_VBI
 they_PNP
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 or_CJC
 not_XX0
 provoke_VVI
@@ -32745,7 +32745,7 @@ tests_NN2
 for_PRP
 syphilis_NN1
 STS_NP0
-fall_VVI
+fall_NN1
 into_PRP
 two_CRD
 categories_NN2
@@ -32757,7 +32757,7 @@ tests_NN2
 exemplified_VVN
 by_PRP
 the_AT0
-Wasserman_NP0-NN1
+Wasserman_NN1
 reaction_NN1
 WR_NP0
 and_CJC
@@ -32775,7 +32775,7 @@ Treponema_NP0
 pallidum_NN1
 immobilization_NN1
 test_NN1
-TPI_NP0-NN1
+TPI_NP0
 the_AT0
 Treponema_NP0
 pallidum_NN1
@@ -33164,7 +33164,7 @@ manifestations_NN2
 can_VM0
 be_VBI
 markedly_AV0
-improved_AJ0
+improved_VVN
 or_CJC
 at_PRP
 least_AV0
@@ -33208,7 +33208,7 @@ Herxheimer_NP0
 reaction_NN1
 follows_VVZ
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 dose_NN1
 of_PRF
 treatment_NN1
@@ -33288,7 +33288,7 @@ or_CJC
 more_AV0
 patients_NN2
 will_VM0
-notice_VVI
+notice_NN1
 some_DT0
 upset_AJ0
 or_CJC
@@ -33331,7 +33331,7 @@ or_CJC
 nervous_AJ0
 systems_NN2
 are_VBB
-involved_AJ0
+involved_VVN
 If_CJS
 for_PRP
 instance_NN1
@@ -33342,7 +33342,7 @@ the_AT0
 coronary_AJ0
 arteries_NN2
 are_VBB
-involved_AJ0
+involved_VVN
 by_PRP
 the_AT0
 syphilitic_AJ0
@@ -33388,7 +33388,7 @@ reaction_NN1
 by_PRP
 giving_VVG
 anti-inflammatory_AJ0
-steroid_AJ0-NN1
+steroid_AJ0
 tablets_NN2
 before_PRP
 treatment_NN1
@@ -33556,7 +33556,7 @@ bites_NN2
 or_CJC
 because_CJS
 they_PNP
-act_VVI
+act_NN1
 as_CJS
 vectors_NN2
 of_PRF
@@ -33583,17 +33583,17 @@ with_PRP
 the_AT0
 screw_NN1
 worm_NN1
-fly_VVI
+fly_NN1
 was_VBD
 never_AV0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 like_PRP
 most_AV0
 of_PRF
 the_AT0
 other_AJ0
-arthropod-linked_AJ0-NN1
+arthropod-linked_AJ0
 disorders_NN2
 such_DT0
 an_AT0
@@ -33609,7 +33609,7 @@ infestations_NN2
 that_CJT
 are_VBB
 commonly_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 in_PRP
 this_DT0
 way_NN1
@@ -33628,12 +33628,12 @@ These_DT0
 are_VBB
 infestation_NN1
 with_PRP
-Phthirus_NP0-NN1
+Phthirus_NP0
 pubis_NN1
 and_CJC
 Sarcoptes_NP0
 scabiei_NN2
-Phthirus_NP0-NN1
+Phthirus_NP0
 pubis_NN1
 The_AT0
 pubic_AJ0
@@ -33653,7 +33653,7 @@ a_AT0
 sub-group_NN1
 of_PRF
 the_AT0
-Anoplura_NP0-NN1
+Anoplura_NP0
 or_CJC
 sucking_VVG
 lice_NN2
@@ -33664,14 +33664,14 @@ clinical_AJ0
 interest_NN1
 to_TO0
 men_NN2
-Pediculus_NN1-NP0
+Pediculus_NN1
 humanus_NN1
 corporis_NN1
 the_AT0
 body_NN1
 louse_NN1
 and_CJC
-Pediculus_NN1-NP0
+Pediculus_NN1
 humanus_NN1
 capitis_NN1
 the_AT0
@@ -33679,7 +33679,7 @@ head_NN1
 louse_NN1
 share_NN1
 with_PRP
-Phthirus_NP0-NN1
+Phthirus_NP0
 pubis_NN1
 three_CRD
 pairs_NN2
@@ -33692,7 +33692,7 @@ man_NN1
 or_CJC
 the_AT0
 higher_AJC
-apes_NN2-VVZ
+apes_NN2
 and_CJC
 a_AT0
 dependence_NN1
@@ -33811,7 +33811,7 @@ finds_VVZ
 itself_PNX
 giving_VVG
 the_AT0
-lie_VVI
+lie_VVB
 to_TO0
 that_CJT
 universally_AV0
@@ -34010,7 +34010,7 @@ with_PRP
 both_AV0
 pairs_NN2
 of_PRF
-rear_AJ0-NN1
+rear_NN1
 legs_NN2
 front_NN1
 to_TO0
@@ -34056,7 +34056,7 @@ more_AV0
 females_NN2
 than_CJS
 males_NN2
-present_AJ0-NN1
+present_AJ0
 on_PRP
 an_AT0
 infested_AJ0
@@ -34155,7 +34155,7 @@ authorities_NN2
 agree_VVI
 that_CJT
 the_AT0
-average_AJ0-NN1
+average_AJ0
 time_NN1
 between_PRP
 acquiring_VVG
@@ -34280,7 +34280,7 @@ beginning_NN1
 of_PRF
 the_AT0
 infestation_NN1
-Itching_VVG-NN1
+Itching_VVG
 can_VM0
 be_VBI
 intense_AJ0
@@ -34309,7 +34309,7 @@ site_NN1
 of_PRF
 a_AT0
 louse_NN1
-bite_VVI
+bite_NN1
 and_CJC
 persist_VVI
 for_PRP
@@ -34331,7 +34331,7 @@ It_PNP
 will_VM0
 tend_VVB
 to_TO0
-lie_VVI
+lie_VVB
 doggo_NN1
 in_PRP
 the_AT0
@@ -34669,7 +34669,7 @@ gamma-benzene_AJ0
 hexachloride_NN1
 or_CJC
 benzyl_NN1
-benzoate_NN1-VVB
+benzoate_VVB
 are_VBB
 preferable_AJ0
 and_CJC
@@ -34735,7 +34735,7 @@ As_CJS
 with_PRP
 other_AJ0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 infections_NN2
 it_PNP
 should_VM0
@@ -34777,7 +34777,7 @@ can_VM0
 be_VBI
 the_AT0
 cause_NN1
-Phthirus_NP0-NN1
+Phthirus_NP0
 pubis_NN1
 is_VBZ
 unable_AJ0
@@ -34810,7 +34810,7 @@ catch_VVI
 the_AT0
 infection_NN1
 from_PRP
-sleeping_VVG
+sleeping_NN1
 in_PRP
 a_AT0
 bed_NN1
@@ -34858,7 +34858,7 @@ other_AJ0
 form_NN1
 of_PRF
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 disease_NN1
 and_CJC
 both_AV0
@@ -34898,7 +34898,7 @@ member_NN1
 of_PRF
 the_AT0
 class_NN1
-Arachnida_NP0-NN1
+Arachnida_NN1
 which_DTQ
 includes_VVZ
 the_AT0
@@ -35095,7 +35095,7 @@ The_AT0
 two_CRD
 pairs_NN2
 of_PRF
-rear_AJ0-NN1
+rear_NN1
 legs_NN2
 end_NN1
 in_PRP
@@ -35330,7 +35330,7 @@ this_DT0
 would_VM0
 explain_VVI
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 paucity_NN1
 of_PRF
 males_NN2
@@ -35394,7 +35394,7 @@ around_PRP
 the_AT0
 nipples_NN2
 The_AT0
-average_AJ0-NN1
+average_AJ0
 number_NN1
 of_PRF
 mites_NN2
@@ -35731,7 +35731,7 @@ person_NN1
 who_PNQ
 has_VHZ
 become_VVI
-sensitized_VVD-AJ0
+sensitized_AJ0
 there_EX0
 may_VM0
 be_VBI
@@ -35746,7 +35746,7 @@ a_AT0
 clear_AJ0
 fluid_NN1
 when_CJS
-ruptured_VVD-AJ0
+ruptured_VVD
 after_PRP
 scratching_VVG
 If_CJS
@@ -35770,7 +35770,7 @@ may_VM0
 be_VBI
 very_AV0
 different_AJ0
-Itching_VVG-NN1
+Itching_VVG
 will_VM0
 begin_VVI
 within_PRP
@@ -35803,7 +35803,7 @@ parasites_NN2
 from_PRP
 an_AT0
 infected_AJ0
-sleeping_VVG
+sleeping_NN1
 partner_NN1
 say_VVI
 then_AV0
@@ -35838,7 +35838,7 @@ ways_NN2
 it_PNP
 is_VBZ
 not_XX0
-transmitted_AJ0-VVN
+transmitted_VVN
 Towels_NN2
 flannels_NN2
 lavatories_NN2
@@ -35860,7 +35860,7 @@ to_TO0
 catch_VVI
 scabies_NN2
 by_PRP
-sleeping_VVG
+sleeping_NN1
 in_PRP
 a_AT0
 bed_NN1
@@ -36058,7 +36058,7 @@ is_VBZ
 no_AT0
 need_VVB
 to_TO0
-launder_NN1-VVB
+launder_NN1
 bedding_NN1
 or_CJC
 sterilize_VVI
@@ -36079,8 +36079,8 @@ those_DT0
 that_CJT
 are_VBB
 sexually_AV0
-transmitted_AJ0-VVN
-chancroid_NN1-AJ0
+transmitted_VVN
+chancroid_NN1
 granuloma_NN1
 inguinale_NN1
 and_CJC
@@ -36110,11 +36110,11 @@ it_PNP
 These_DT0
 include_VVI
 yaws_NN2
-bejel_VVB-NN1
+bejel_NN1
 and_CJC
 pinta_NN1
-Chancroid_NN1-NP0
-Chancroid_NN1-NP0
+Chancroid_NP0
+Chancroid_NP0
 also_AV0
 called_VVN
 soft_AJ0
@@ -36231,7 +36231,7 @@ caused_VVN
 by_PRP
 a_AT0
 bacterium_NN1
-Haemophilus_NN1-NP0
+Haemophilus_NN1
 ducreyi_NN2
 which_DTQ
 is_VBZ
@@ -36253,7 +36253,7 @@ the_AT0
 lesions_NN2
 themselves_PNX
 This_DT0
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 its_DPS
 comparative_AJ0
@@ -36317,7 +36317,7 @@ tissue_NN1
 and_CJC
 follicular_AJ0
 to_TO0
-papular_AJ0-NN1
+papular_AJ0
 might_VM0
 be_VBI
 taken_VVN
@@ -36335,7 +36335,7 @@ that_CJT
 as_CJS
 it_PNP
 may_VM0
-chancroid_NN1-AJ0
+chancroid_NN1
 is_VBZ
 diagnosed_VVN
 and_CJC
@@ -36371,7 +36371,7 @@ is_VBZ
 unique_AJ0
 among_PRP
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 as_CJS
 a_AT0
@@ -36440,7 +36440,7 @@ painless_AJ0
 ulcer_NN1
 of_PRF
 syphilis_NN1
-Spread_NN1-VVB
+Spread_VVB
 of_PRF
 the_AT0
 ulcers_NN2
@@ -36451,7 +36451,7 @@ auto-inoculation_NN1
 and_CJC
 rarely_AV0
 the_AT0
-spread_NN1
+spread_VVN
 may_VM0
 be_VBI
 such_DT0
@@ -36536,7 +36536,7 @@ with_PRP
 all_DT0
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 the_AT0
 possibility_NN1
@@ -36549,7 +36549,7 @@ be_VBI
 considered_VVN
 and_CJC
 excluded_VVN
-Lymphogranuloma_NN1-NP0
+Lymphogranuloma_NN1
 venereum_NN1
 LGV_NP0
 At_PRP
@@ -36579,9 +36579,9 @@ identify_VVI
 as_CJS
 that_CJT
 of_PRF
-chancroid_NN1-AJ0
+chancroid_NN1
 Like_PRP
-chancroid_NN1-AJ0
+chancroid_NN1
 LGV_NP0
 is_VBZ
 common_AJ0
@@ -36767,7 +36767,7 @@ groin_NN1
 The_AT0
 glands_NN2
 become_VVI
-matted_VVN
+matted_VVD
 together_AV0
 and_CJC
 very_AV0
@@ -36786,7 +36786,7 @@ between_PRP
 upper_AJ0
 and_CJC
 lower_AJC
-sausage-shaped_NN1-AJ0
+sausage-shaped_NN1
 groups_NN2
 of_PRF
 glands_NN2
@@ -36887,7 +36887,7 @@ the_AT0
 examining_VVG
 doctor_NN1
 to_TO0
-notice_VVI
+notice_NN1
 a_AT0
 primary_AJ0
 lesion_NN1
@@ -36947,7 +36947,7 @@ lead_VVI
 to_TO0
 backache_NN1
 This_DT0
-relative_AJ0-NN1
+relative_AJ0
 lack_NN1
 of_PRF
 symptoms_NN2
@@ -37068,7 +37068,7 @@ give_VVI
 rise_NN1
 to_TO0
 the_AT0
-intriguingly-named_AJ0-NN1
+intriguingly-named_NN1
 saxophone_NN1
 penis_NN1
 Because_CJS
@@ -37163,7 +37163,7 @@ groove_NN1
 sign_NN1
 being_VBG
 very_AV0
-characteristic_AJ0-NN1
+characteristic_NN1
 in_PRP
 the_AT0
 early_AJ0
@@ -37211,7 +37211,7 @@ inguinal_AJ0
 bubo_NN1
 may_VM0
 be_VBI
-aspirated_AJ0-VVD
+aspirated_VVD
 or_CJC
 drained_VVN
 before_PRP
@@ -37241,10 +37241,10 @@ syndrome_NN1
 may_VM0
 require_VVB
 colostomy_NN1
-Granuloma_NN1-NP0
+Granuloma_NN1
 inguinale_NN1
 Like_PRP
-chancroid_NN1-AJ0
+chancroid_NN1
 and_CJC
 lymphogranuloma_NN1
 venereum_NN1
@@ -37275,7 +37275,7 @@ about_PRP
 the_AT0
 method_NN1
 of_PRF
-spread_NN1
+spread_VVN
 of_PRF
 this_DT0
 disease_NN1
@@ -37356,7 +37356,7 @@ than_CJS
 any_DT0
 racial_AJ0
 predilection_NN1
-Granuloma_NN1-NP0
+Granuloma_NN1
 inguinale_NN1
 is_VBZ
 endemic_AJ0
@@ -37445,7 +37445,7 @@ as_CJS
 two_CRD
 months_NN2
 The_AT0
-initial_AJ0-NN1
+initial_AJ0
 lesion_NN1
 starts_VVZ
 as_CJS
@@ -37517,8 +37517,8 @@ give_VVI
 rise_NN1
 to_TO0
 a_AT0
-pseudo-bubo_NN1-AJ0
-Spread_NN1-VVB
+pseudo-bubo_NN1
+Spread_VVB
 is_VBZ
 slow_AJ0
 and_CJC
@@ -37628,7 +37628,7 @@ yet_AV0
 which_DTQ
 are_VBB
 not_XX0
-transmitted_AJ0-VVN
+transmitted_VVN
 sexually_AV0
 and_CJC
 in_PRP
@@ -37707,7 +37707,7 @@ interest_NN1
 in_PRP
 these_DT0
 diseases_NN2
-stems_VVZ-NN2
+stems_NN2
 from_PRP
 the_AT0
 massive_AJ0
@@ -37726,7 +37726,7 @@ is_VBZ
 the_AT0
 only_AV0
 or_CJC
-principal_AJ0-NN1
+principal_AJ0
 treponemal_AJ0
 infection_NN1
 Since_CJS
@@ -37779,7 +37779,7 @@ in_PRP
 Europe_NP0
 with_PRP
 significant_AJ0
-immigrant_AJ0-NN1
+immigrant_AJ0
 populations_NN2
 from_PRP
 the_AT0
@@ -37814,7 +37814,7 @@ and_CJC
 type_NN1
 of_PRF
 infection_NN1
-involved_AJ0
+involved_VVN
 but_CJC
 in_PRP
 very_AV0
@@ -37865,7 +37865,7 @@ organism_NN1
 is_VBZ
 called_VVN
 Treponema_NP0
-pertenue_NN1-VVB
+pertenue_NN1
 and_CJC
 it_PNP
 is_VBZ
@@ -37893,7 +37893,7 @@ It_PNP
 is_VBZ
 not_XX0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 although_CJS
 like_PRP
 chicken_NN1
@@ -37929,7 +37929,7 @@ to_TO0
 as_CJS
 the_AT0
 mother_NN1
-yaw_NN1-VVB
+yaw_NN1
 is_VBZ
 on_PRP
 the_AT0
@@ -37970,7 +37970,7 @@ is_VBZ
 known_VVN
 as_CJS
 a_AT0
-crab-yaw_NN1-AJ0
+crab-yaw_AJ0
 because_CJS
 of_PRF
 the_AT0
@@ -37988,7 +37988,7 @@ the_AT0
 lymph_NN1
 glands_NN2
 which_DTQ
-drain_VVI
+drain_NN1
 the_AT0
 area_NN1
 of_PRF
@@ -38076,7 +38076,7 @@ and_CJC
 palate_NN1
 a_AT0
 destructive_AJ0
-mutilating_VVG-AJ0
+mutilating_VVG
 condition_NN1
 called_VVN
 gangosa_NN1
@@ -38088,7 +38088,7 @@ nervous_AJ0
 system_NN1
 may_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 It_PNP
 is_VBZ
 considered_VVN
@@ -38098,7 +38098,7 @@ the_AT0
 disease_NN1
 can_VM0
 be_VBI
-transmitted_AJ0-VVN
+transmitted_VVN
 to_TO0
 the_AT0
 foetus_NN1
@@ -38153,12 +38153,12 @@ of_PRF
 the_AT0
 positive_AJ0
 STS_NP0
-Bejel_VVB-NN1
-Bejel_VVB-NN1
+Bejel_VVB
+Bejel_VVB
 known_VVN
 locally_AV0
 as_CJS
-firzal_AJ0-NN1
+firzal_AJ0
 and_CJC
 loath_AJ0
 in_PRP
@@ -38275,7 +38275,7 @@ This_DT0
 is_VBZ
 the_AT0
 least_AV0
-damaging_VVG-AJ0
+damaging_AJ0
 of_PRF
 the_AT0
 endemic_AJ0
@@ -38303,7 +38303,7 @@ is_VBZ
 known_VVN
 as_CJS
 a_AT0
-pintid_NN1-AJ0
+pintid_AJ0
 and_CJC
 appears_VVZ
 after_PRP
@@ -38354,10 +38354,10 @@ seldom_AV0
 cause_NN1
 trouble_NN1
 Pinta_NN1
-mal_AJ0
+mal_NP0
 de_NP0
 pinto_NN1
-carate_NN1-AJ0
+carate_NN1
 is_VBZ
 caused_VVN
 by_PRP
@@ -38557,7 +38557,7 @@ of_PRF
 cases_NN2
 of_PRF
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 disease_NN1
 are_VBB
 seen_VVN
@@ -38753,7 +38753,7 @@ that_CJT
 patients_NN2
 with_PRP
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 are_VBB
 somehow_AV0
@@ -38790,7 +38790,7 @@ about_PRP
 acquisition_NN1
 of_PRF
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 is_VBZ
 a_AT0
@@ -38897,7 +38897,7 @@ that_CJT
 is_VBZ
 the_AT0
 crucial_AJ0
-risk-producing_AJ0-NN1
+risk-producing_NN1
 move_VVI
 The_AT0
 more_AV0
@@ -39017,7 +39017,7 @@ the_AT0
 dirty_AJ0
 thick_AJ0
 and_CJC
-ill-educated_NN1-AJ0
+ill-educated_NN1
 a_AT0
 representative_NN1
 cross-section_NN1
@@ -39077,7 +39077,7 @@ even_AV0
 other_AJ0
 minor_AJ0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 Figures_NN2
 from_PRP
@@ -39121,7 +39121,7 @@ that_CJT
 were_VBD
 definitely_AV0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 Over_PRP
 40_CRD
 per_UNC
@@ -39152,7 +39152,7 @@ patients_NN2
 with_PRP
 cystitis_NN1
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 syndrome_NN1
 vaginal_AJ0
 discharge_NN1
@@ -39299,7 +39299,7 @@ to_TO0
 suggest_VVI
 that_CJT
 where_AVQ
-ground-floor_AJ0-NN1
+ground-floor_AJ0
 accommodation_NN1
 is_VBZ
 unavailable_AJ0
@@ -39349,7 +39349,7 @@ for_PRP
 the_AT0
 construction_NN1
 of_PRF
-consulting_AJ0-VVG
+consulting_VVG
 rooms_NN2
 and_CJC
 examination_NN1
@@ -39485,7 +39485,7 @@ large_AJ0
 urban_AJ0
 areas_NN2
 where_AVQ
-shifting_AJ0-VVG
+shifting_AJ0
 populations_NN2
 seem_VVI
 to_TO0
@@ -39496,7 +39496,7 @@ the_AT0
 reasons_NN2
 for_PRP
 an_AT0
-increased_AJ0
+increased_VVN
 prevalence_NN1
 of_PRF
 the_AT0
@@ -39904,7 +39904,7 @@ that_CJT
 they_PNP
 can_VM0
 rest_NN1
-assured_VVD
+assured_VVN
 that_CJT
 this_DT0
 extends_VVZ
@@ -39974,7 +39974,7 @@ joint_AJ0
 consultation_NN1
 Most_DT0
 clinics_NN2
-divide_VVI
+divide_NN1
 either_AV0
 in_PRP
 space_NN1
@@ -40305,7 +40305,7 @@ there_EX0
 being_VBG
 a_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 disease_NN1
 Methods_NN2
 of_PRF
@@ -40401,21 +40401,21 @@ on_PRP
 intercourse_NN1
 decreased_VVN
 sex_NN1
-drive_VVI
+drive_NN1
 or_CJC
 diminished_VVN
 satisfaction_NN1
 with_PRP
 the_AT0
 sexual_AJ0
-act_VVI
+act_NN1
 itself_PNX
 Most_DT0
 people_NN0
 regard_VVI
 the_AT0
 sex_NN1
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 uniquely_AV0
@@ -40653,7 +40653,7 @@ be_VBI
 taken_VVN
 for_PRP
 Herpes_NN2
-simplex_VVB-NN1
+simplex_VVB
 virus_NN1
 or_CJC
 for_PRP
@@ -40867,7 +40867,7 @@ the_AT0
 time_NN1
 of_PRF
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 examination_NN1
 it_PNP
 is_VBZ
@@ -40889,7 +40889,7 @@ to_TO0
 be_VBI
 any_DT0
 infection_NN1
-present_AJ0-NN1
+present_AJ0
 or_CJC
 what_DTQ
 he_PNP
@@ -40963,7 +40963,7 @@ male_AJ0
 attendance_NN1
 After_PRP
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 booking-in_NN1
 the_AT0
 man_NN1
@@ -41054,7 +41054,7 @@ on_PRP
 homosexual_AJ0
 acts_NN2
 between_PRP
-consenting_VVG-AJ0
+consenting_AJ0
 adults_NN2
 there_EX0
 has_VHZ
@@ -41101,7 +41101,7 @@ certain_AJ0
 of_PRF
 the_AT0
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 conditions_NN2
 After_PRP
 the_AT0
@@ -41132,7 +41132,7 @@ sores_NN2
 Following_VVG
 this_DT0
 examination_NN1
-urethral_AJ0-NN1
+urethral_AJ0
 tests_NN2
 or_CJC
 proctoscopy_NN1
@@ -41157,7 +41157,7 @@ that_CJT
 of_PRF
 non-specific_AJ0
 urethritis_NN1
-NSU_NP0-NN1
+NSU_NP0
 and_CJC
 this_DT0
 can_VM0
@@ -41185,7 +41185,7 @@ of_PRF
 diagnosing_VVG
 gonorrhoea_NN1
 if_CJS
-present_AJ0-NN1
+present_AJ0
 on_PRP
 this_DT0
 first_ORD
@@ -41200,7 +41200,7 @@ syphilis_NN1
 is_VBZ
 suspected_VVN
 a_AT0
-dark-ground_NN1-AJ0
+dark-ground_AJ0
 or_CJC
 dark-field_AJ0
 examination_NN1
@@ -41220,7 +41220,7 @@ the_AT0
 sore_AJ0
 is_VBZ
 gently_AV0
-scraped_VVN
+scraped_VVD
 and_CJC
 any_DT0
 fluid_NN1
@@ -41245,7 +41245,7 @@ this_DT0
 procedure_NN1
 like_PRP
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 investigation_NN1
 need_VVB
 give_VVI
@@ -41330,7 +41330,7 @@ Because_CJS
 urinating_VVG
 tends_VVZ
 to_TO0
-wash_VVI
+wash_NN1
 out_AVP
 the_AT0
 urethra_NN1
@@ -41531,7 +41531,7 @@ which_DTQ
 the_AT0
 diseases_NN2
 are_VBB
-transmitted_AJ0-VVN
+transmitted_VVN
 and_CJC
 asking_VVG
 that_CJT
@@ -41586,7 +41586,7 @@ contact-tracer_NN1
 may_VM0
 then_AV0
 be_VBI
-involved_AJ0
+involved_VVN
 in_PRP
 trips_NN2
 often_AV0
@@ -41607,7 +41607,7 @@ to_TO0
 try_VVI
 to_TO0
 locate_VVI
-Suzie_NP0-NN1
+Suzie_NP0
 the_AT0
 one_CRD
 with_PRP
@@ -41646,7 +41646,7 @@ problems_NN2
 that_CJT
 often_AV0
 go_VVI
-hand-in-hand_AJ0-AV0
+hand-in-hand_AV0
 with_PRP
 any_DT0
 infections_NN2
@@ -41692,7 +41692,7 @@ her_DPS
 problems_NN2
 Special_AJ0
 procedures_NN2
-Blood-letting_NN1-AJ0
+Blood-letting_AJ0
 Having_VHG
 blood_NN1
 taken_VVN
@@ -41729,7 +41729,7 @@ which_DTQ
 may_VM0
 indicate_VVI
 either_AV0
-present_AJ0-NN1
+present_AJ0
 or_CJC
 past_NN1
 infection_NN1
@@ -41788,7 +41788,7 @@ patients_NN2
 do_VDB
 for_PRP
 their_DPS
-blood-group_NN1-AJ0
+blood-group_AJ0
 or_CJC
 their_DPS
 haemoglobin_NN1
@@ -41881,7 +41881,7 @@ end_NN1
 a_AT0
 tourniquet_NN1
 of_PRF
-rubber_AJ0-NN1
+rubber_AJ0
 tubing_NN1
 or_CJC
 other_AJ0
@@ -41925,7 +41925,7 @@ and_CJC
 form_NN1
 a_AT0
 bruise_NN1
-Urethral_AJ0-NN1
+Urethral_NN1
 tests_NN2
 In_PRP
 order_NN1
@@ -41946,7 +41946,7 @@ from_PRP
 just_AV0
 inside_PRP
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 meatus_NN1
 Simply_AV0
 examining_VVG
@@ -41981,7 +41981,7 @@ gently_AV0
 inserted_VVN
 into_PRP
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 meatus_NN1
 and_CJC
 samples_NN2
@@ -41989,7 +41989,7 @@ from_PRP
 the_AT0
 urethra_NN1
 are_VBB
-plated_AJ0-VVN
+plated_VVN
 out_AVP
 on_PRP
 the_AT0
@@ -42003,13 +42003,13 @@ smeared_VVN
 onto_PRP
 a_AT0
 microscope_NN1
-slide_VVI
+slide_NN1
 for_PRP
 staining_VVG
 and_CJC
 examination_NN1
 The_AT0
-two-glass_AJ0-NN1
+two-glass_AJ0
 test_NN1
 This_DT0
 is_VBZ
@@ -42066,7 +42066,7 @@ first_ORD
 sample_NN1
 can_VM0
 be_VBI
-spun_VVD
+spun_VVN
 down_AVP
 and_CJC
 the_AT0
@@ -42185,7 +42185,7 @@ by_PRP
 means_NN0
 of_PRF
 a_AT0
-light-source_NN1-AJ0
+light-source_AJ0
 at_PRP
 its_DPS
 tip_NN1
@@ -42204,7 +42204,7 @@ herpetic_AJ0
 ulcers_NN2
 or_CJC
 infected_AJ0
-urethral_AJ0-NN1
+urethral_AJ0
 glands_NN2
 It_PNP
 is_VBZ
@@ -42222,7 +42222,7 @@ by_PRP
 means_NN0
 of_PRF
 a_AT0
-balloon-valve_NN1-AJ0
+balloon-valve_NN1
 and_CJC
 in_PRP
 this_DT0
@@ -42486,7 +42486,7 @@ in_PRP
 the_AT0
 laboratory_NN1
 the_AT0
-Papanicolaou_NP0-NN1
+Papanicolaou_NP0
 smear_NN1
 and_CJC
 examined_VVN
@@ -42543,7 +42543,7 @@ The_AT0
 doctor_NN1
 will_VM0
 often_AV0
-feel_VVI
+feel_VVB
 it_PNP
 necessary_AJ0
 to_TO0
@@ -42732,11 +42732,11 @@ only_AV0
 site_NN1
 to_TO0
 be_VBI
-involved_AJ0
+involved_VVN
 by_PRP
 the_AT0
 infection_NN1
-Gonorrhoea_NN1-NP0
+Gonorrhoea_NN1
 can_VM0
 not_XX0
 be_VBI
@@ -42823,7 +42823,7 @@ prostate_NN1
 gland_NN1
 can_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 by_PRP
 infection_NN1
 both_AV0
@@ -42904,7 +42904,7 @@ can_VM0
 be_VBI
 expressed_VVN
 and_CJC
-milked_VVN-VVD
+milked_VVN
 along_AVP
 the_AT0
 urethra_NN1
@@ -42913,7 +42913,7 @@ it_PNP
 appears_VVZ
 at_PRP
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 meatus_NN1
 It_PNP
 can_VM0
@@ -42924,9 +42924,9 @@ and_CJC
 cultured_AJ0
 like_PRP
 ordinary_AJ0
-urethral_AJ0-NN1
+urethral_AJ0
 samples_NN2
-Lumbar_NN1-NP0
+Lumbar_NN1
 puncture_NN1
 There_EX0
 is_VBZ
@@ -43016,7 +43016,7 @@ central_AJ0
 nervous_AJ0
 system_NN1
 is_VBZ
-involved_AJ0
+involved_VVN
 by_PRP
 the_AT0
 syphilitic_AJ0
@@ -43054,7 +43054,7 @@ CSF_NP0
 when_CJS
 neurosyphilis_NN1
 is_VBZ
-present_AJ0-NN1
+present_AJ0
 and_CJC
 therefore_AV0
 a_AT0
@@ -43220,7 +43220,7 @@ when_CJS
 the_AT0
 patient_NN1
 will_VM0
-feel_VVI
+feel_VVB
 a_AT0
 prick_NN1
 in_PRP
@@ -43364,14 +43364,14 @@ is_VBZ
 to_TO0
 let_VVB
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 sample_NN1
 of_PRF
 urine_NN1
 that_CJT
 is_VBZ
 passed_VVN
-wash_VVI
+wash_NN1
 away_AV0
 any_DT0
 bacteria_NN2
@@ -43380,7 +43380,7 @@ are_VBB
 found_VVD
 around_PRP
 the_AT0
-urethral_AJ0-NN1
+urethral_AJ0
 meatus_NN1
 or_CJC
 in_PRP

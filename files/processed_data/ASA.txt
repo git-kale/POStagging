@@ -15,7 +15,7 @@ philosopher_NN1
 and_CJC
 friend_NN1
 HENRY_NP0
-LONGHURST_NP0-NN1
+LONGHURST_NP0
 The_AT0
 general_AJ0
 definition_NN1
@@ -122,7 +122,7 @@ by_PRP
 the_AT0
 Scots_NN2
 to_TO0
-cady_NN1-AJ0
+cady_NN1
 meaning_NN1
 an_AT0
 odd-job_AJ0
@@ -139,7 +139,7 @@ with_PRP
 using_VVG
 the_AT0
 first_ORD
-cady_NN1-AJ0
+cady_NN1
 on_PRP
 the_AT0
 golf_NN1
@@ -154,7 +154,7 @@ played_VVD
 on_PRP
 that_CJT
 delightful_AJ0
-east-coast_AJ0-NN1
+east-coast_AJ0
 course_NN1
 in_PRP
 the_AT0
@@ -379,7 +379,7 @@ of_PRF
 the_AT0
 caddies_NN2
 simply_AV0
-tucked_VVN-VVD
+tucked_VVD
 the_AT0
 clubs_NN2
 under_PRP
@@ -421,7 +421,7 @@ caddies_NN2
 who_PNQ
 often_AV0
 faced_VVN
-knee-buckling_AJ0-NN1
+knee-buckling_AJ0
 rounds_NN2
 hauling_VVG
 thirty_CRD
@@ -465,7 +465,7 @@ a_AT0
 caddie_NN1
 was_VBD
 seen_VVN
-burrowing_VVG-AJ0
+burrowing_VVG
 into_PRP
 his_DPS
 player_NN1
@@ -476,7 +476,7 @@ tee-off_AJ0
 to_TO0
 check_VVI
 the_AT0
-requisite_AJ0-NN1
+requisite_AJ0
 number_NN1
 of_PRF
 clubs_NN2
@@ -636,7 +636,7 @@ of_PRF
 steel-shafted_AJ0
 clubs_NN2
 and_CJC
-rubber_AJ0-NN1
+rubber_AJ0
 golf_NN1
 balls_NN2
 so_AV0
@@ -663,7 +663,7 @@ been_VBN
 Some_DT0
 of_PRF
 the_AT0
-pro_NN1-AJ0
+pro_NN1
 bags_NN2
 weighed_VVD
 nearly_AV0
@@ -678,7 +678,7 @@ caddie_NN1
 is_VBZ
 required_VVN
 to_TO0
-haul_VVI
+haul_NN1
 around_PRP
 even_AV0
 more_AV0
@@ -714,7 +714,7 @@ player_NN1
 's_POS
 bag_NN1
 can_VM0
-feel_VVI
+feel_VVB
 like_PRP
 a_AT0
 ton_NN1
@@ -743,10 +743,10 @@ size_NN1
 of_PRF
 little_AJ0
 Fanny_NP0
-Sunesson_NP0-NN1
+Sunesson_NN1
 manages_VVZ
 to_TO0
-haul_VVI
+haul_NN1
 Nick_NP0
 Faldo_NP0
 's_POS
@@ -775,7 +775,7 @@ had_VHD
 to_TO0
 carry_VVI
 a_AT0
-shooting-stick_NN1-AJ0
+shooting-stick_NN1
 for_PRP
 Greg_NP0
 Norman_NP0
@@ -797,7 +797,7 @@ saw_VVD
 on_PRP
 my_DPS
 Safari_NN1
-Tour_NN1-VVB
+Tour_NN1
 travels_VVZ
 carried_VVN
 an_AT0
@@ -852,7 +852,7 @@ a_AT0
 pro-am_AV0
 and_CJC
 surreptitiously_AV0
-tucked_VVN-VVD
+tucked_VVD
 away_AV0
 was_VBD
 a_AT0
@@ -872,10 +872,10 @@ he_PNP
 decided_VVD
 on_PRP
 a_AT0
-four-_AJ0-NN1
+four-_AJ0
 or_CJC
 a_AT0
-five-iron_NN1-AJ0
+five-iron_NN1
 Speaking_VVG
 of_PRF
 carrots_NN2
@@ -1010,7 +1010,7 @@ three-putted_AJ0
 or_CJC
 blazed_VVD
 a_AT0
-drive_VVI
+drive_NN1
 into_PRP
 the_AT0
 rough_AJ0
@@ -1120,7 +1120,7 @@ Ian_NP0
 Wright_NP0
 getting_VVG
 a_AT0
-lambasting_NN1-AJ0
+lambasting_AJ0
 from_PRP
 Seve_NP0
 Ballesteros_NP0
@@ -1214,7 +1214,7 @@ n't_XX0
 got_VVN
 off_AVP
 Scot_NN1
--free_AJ0-AV0
+-free_AV0
 Sometimes_AV0
 though_CJS
 the_AT0
@@ -1318,10 +1318,10 @@ replied_VVD
 It_PNP
 's_POS
 a_AT0
-2-iron_NN1-AJ0
+2-iron_NN1
 sir_NN1
 A_AT0
-2-iron_NN1-AJ0
+2-iron_NN1
 Do_VDB
 n't_XX0
 be_VBI
@@ -1334,7 +1334,7 @@ think_VVB
 it_PNP
 's_POS
 a_AT0
-2-iron_NN1-AJ0
+2-iron_NN1
 It_PNP
 's_POS
 only_AV0
@@ -1580,7 +1580,7 @@ the_AT0
 old-stagers_NN2
 by_PRP
 the_AT0
-eyeballing_VVG-AJ0
+eyeballing_AJ0
 method_NN1
 This_DT0
 entailed_VVD
@@ -1697,7 +1697,7 @@ player_NN1
 relies_VVZ
 on_PRP
 his_DPS
-feel_VVI
+feel_VVB
 for_PRP
 putting_VVG
 and_CJC
@@ -1870,8 +1870,8 @@ championship_NN1
 courses_NN2
 now_AV0
 have_VHB
-100-_AJ0-NN1
-150-_AJ0-NN1
+100-_AJ0
+150-_AJ0
 and_CJC
 200-yard_AJ0
 markers_NN2
@@ -2037,7 +2037,7 @@ not_XX0
 won_VVD
 by_PRP
 the_AT0
-bag-man_AJ0-NN1
+bag-man_NN1
 's_POS
 performance_NN1
 before_PRP
@@ -2114,7 +2114,7 @@ to_TO0
 Ernest_NP0
 Butler_NP0
 of_PRF
-Sandwich_NP0-NN1
+Sandwich_NN1
 a_AT0
 caddie_NN1
 who_PNQ
@@ -2250,7 +2250,7 @@ Butler_NP0
 was_VBD
 content_NN1
 to_TO0
-jog_VVI
+jog_NN1
 along_AVP
 all_DT0
 day_NN1
@@ -2288,7 +2288,7 @@ a_AT0
 good_AJ0
 caddie_NN1
 My_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 story_NN1
 about_PRP
 the_AT0
@@ -2309,8 +2309,8 @@ Gene_NP0
 Sarazen_NP0
 and_CJC
 his_DPS
-bag-man_AJ0-NN1
-Skip_NN1-NP0
+bag-man_NN1
+Skip_NP0
 Daniels_NP0
 who_PNQ
 he_PNP
@@ -2463,7 +2463,7 @@ at_PRP
 fault_NN1
 Sarazen_NP0
 was_VBD
-favourite_AJ0-NN1
+favourite_AJ0
 for_PRP
 the_AT0
 1932_CRD
@@ -2693,7 +2693,7 @@ Sarazen_NP0
 polo-coat_NN1
 in_PRP
 the_AT0
-Sandwich_NP0-NN1
+Sandwich_NN1
 pubs_NN2
 telling_VVG
 everyone_PNI
@@ -2715,7 +2715,7 @@ not_XX0
 have_VHB
 changed_VVN
 since_CJS
-Skip_NN1-NP0
+Skip_NP0
 Daniels_NP0
 and_CJC
 Gene_NP0
@@ -2844,7 +2844,7 @@ last_ORD
 I_PNP
 happened_VVD
 to_TO0
-notice_VVI
+notice_NN1
 the_AT0
 sign_NN1
 above_PRP
@@ -2908,7 +2908,7 @@ because_CJS
 I_PNP
 refuse_VVI
 to_TO0
-fly_VVI
+fly_NN1
 Some_DT0
 people_NN0
 say_VVI
@@ -2976,7 +2976,7 @@ doing_VDG
 his_DPS
 rare_AJ0
 caddying_VVG
-stints_NN2-VVZ
+stints_NN2
 Tip_NP0
 can_VM0
 be_VBI
@@ -2990,7 +2990,7 @@ occasional_AJ0
 rum-chaser_NN1
 at_PRP
 the_AT0
-Dunvegan_NP0-NN1
+Dunvegan_NP0
 Hotel_NN1
 overlooking_VVG
 those_DT0
@@ -3049,7 +3049,7 @@ he_PNP
 was_VBD
 a_AT0
 true_AJ0
-three-handicapper_NN1-AJ0
+three-handicapper_NN1
 because_CJS
 he_PNP
 earned_VVN
@@ -3083,7 +3083,7 @@ trophies_NN2
 including_PRP
 the_AT0
 Fife_NP0
-Amateur_AJ0-NN1
+Amateur_AJ0
 Championship_NN1
 and_CJC
 two_CRD
@@ -3132,7 +3132,7 @@ the_AT0
 back_AVP
 of_PRF
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 ice-cream_NN1
 shop_NN1
 in_PRP
@@ -3198,7 +3198,7 @@ the_AT0
 old_AJ0
 Tom_NP0
 Stewart_NP0
-clubmaking_VVG-NN1
+clubmaking_NN1
 works_NN0
 at_PRP
 St_NP0
@@ -3669,7 +3669,7 @@ told_VVD
 me_PNP
 how_AVQ
 to_TO0
-act_VVI
+act_NN1
 with_PRP
 the_AT0
 top_NN1
@@ -3948,7 +3948,7 @@ a_AT0
 shot_NN1
 by_PRP
 Kel_NP0
-Nagle_NP0-NN1
+Nagle_NP0
 Would_VM0
 n't_XX0
 that_CJT
@@ -4114,7 +4114,7 @@ it_PNP
 I_PNP
 say_VVI
 A_AT0
-6-iron_NN1-AJ0
+6-iron_AJ0
 and_CJC
 he_PNP
 takes_VVZ
@@ -4156,7 +4156,7 @@ Tip_NP0
 I_PNP
 say_VVI
 A_AT0
-6-iron_NN1-AJ0
+6-iron_AJ0
 He_PNP
 puts_VVZ
 it_PNP
@@ -4200,7 +4200,7 @@ club_NN1
 I_PNP
 say_VVI
 A_AT0
-6-iron_NN1-AJ0
+6-iron_AJ0
 Middle_AJ0
 of_PRF
 the_AT0
@@ -4253,7 +4253,7 @@ me_PNP
 it_PNP
 's_POS
 a_AT0
-6-iron_NN1-AJ0
+6-iron_AJ0
 I_PNP
 say_VVI
 Yes_ITJ
@@ -4267,7 +4267,7 @@ Well_AV0
 give_VVI
 me_PNP
 the_AT0
-5-iron_NN1-AJ0
+5-iron_NN1
 I_PNP
 say_VVI
 You_PNP
@@ -4580,7 +4580,7 @@ before_PRP
 though_CJS
 I_PNP
 was_VBD
-dying_VVG-AJ0
+dying_AJ0
 to_TO0
 get_VVI
 another_DT0
@@ -4713,7 +4713,7 @@ Well_AV0
 I_PNP
 'm_VBB
 really_AV0
-wanting_VVG-AJ0
+wanting_VVG
 to_TO0
 go_VVI
 to_TO0
@@ -4923,19 +4923,19 @@ your_DPS
 dog_NN1
 for_PRP
 a_AT0
-walk_VVI
+walk_NN1
 With_PRP
 Arnold_NP0
 I_PNP
 was_VBD
 really_AV0
-involved_AJ0
+involved_VVN
 At_PRP
 that_CJT
 time_NN1
 I_PNP
 was_VBD
-eyeballing_VVG-AJ0
+eyeballing_AJ0
 distances_NN2
 and_CJC
 clubbing_VVG
@@ -5014,14 +5014,14 @@ out_AVP
 it_PNP
 makes_VVZ
 you_PNP
-feel_VVI
+feel_VVB
 good_AJ0
 when_CJS
 it_PNP
 does_VDZ
 n't_XX0
 you_PNP
-feel_VVI
+feel_VVB
 as_CJS
 bad_AJ0
 as_CJS
@@ -5111,7 +5111,7 @@ he_PNP
 says_VVZ
 Do_VDB
 you_PNP
-feel_VVI
+feel_VVB
 better_AJC
 with_PRP
 Tip_NP0
@@ -5340,7 +5340,7 @@ Dai_NP0
 Rees_NP0
 and_CJC
 Kel_NP0
-Nagle_NP0-NN1
+Nagle_NP0
 who_PNQ
 we_PNP
 owed_VVD
@@ -5540,9 +5540,9 @@ for_PRP
 second_ORD
 with_PRP
 Kel_NP0
-Nagle_NP0-NN1
+Nagle_NP0
 After_PRP
-Nagle_NP0-NN1
+Nagle_NP0
 took_VVD
 a_AT0
 75_CRD
@@ -5709,7 +5709,7 @@ wedge_NN1
 maybe_AV0
 even_AV0
 a_AT0
-sand-iron_NN1-AJ0
+sand-iron_NN1
 and_CJC
 just_AV0
 knock_VVI
@@ -5756,7 +5756,7 @@ Then_AV0
 he_PNP
 took_VVD
 a_AT0
-6-iron_NN1-AJ0
+6-iron_AJ0
 out_AVP
 of_PRF
 the_AT0
@@ -5972,7 +5972,7 @@ was_VBD
 so_AV0
 hard_AJ0
 like_PRP
-concrete_AJ0-NN1
+concrete_AJ0
 but_CJC
 he_PNP
 played_VVD
@@ -5991,7 +5991,7 @@ six_CRD
 shots_NN2
 from_PRP
 Kel_NP0
-Nagle_NP0-NN1
+Nagle_NP0
 We_PNP
 got_VVN
 our_DPS
@@ -6057,7 +6057,7 @@ can_VM0
 forgive_VVI
 him_PNP
 for_PRP
-relaxing_VVG-AJ0
+relaxing_VVG
 to_TO0
 a_AT0
 69_CRD
@@ -6081,7 +6081,7 @@ holes_NN2
 despite_PRP
 the_AT0
 strange_AJ0
-bounces_NN2-VVZ
+bounces_NN2
 and_CJC
 the_AT0
 danger_NN1
@@ -6139,7 +6139,7 @@ back-to-back_AJ0
 wins_VVZ
 either_AV0
 I_PNP
-feel_VVI
+feel_VVB
 he_PNP
 really_AV0
 was_VBD
@@ -6171,7 +6171,7 @@ with_PRP
 Sam_NP0
 Snead_NP0
 Ken_NP0
-Venturi_NP0-NN1
+Venturi_NP0
 and_CJC
 Joe_NP0
 Carr_NP0
@@ -6221,7 +6221,7 @@ was_VBD
 n't_XX0
 the_AT0
 postage_NN1
-Stamp_NN1-VVB
+Stamp_NN1
 No_ITJ
 it_PNP
 was_VBD
@@ -6343,7 +6343,7 @@ he_PNP
 opted_VVN
 for_PRP
 a_AT0
-1-iron_NN1-AJ0
+1-iron_NN1
 He_PNP
 says_VVZ
 Tip_NP0
@@ -6526,7 +6526,7 @@ bunker_NN1
 at_PRP
 the_AT0
 postage_NN1
-Stamp_NN1-VVB
+Stamp_NN1
 like_PRP
 a_AT0
 lost_VVN
@@ -6560,7 +6560,7 @@ was_VBD
 playing_VVG
 with_PRP
 Kel_NP0
-Nagle_NP0-NN1
+Nagle_NP0
 and_CJC
 ever_AV0
 since_CJS
@@ -6756,7 +6756,7 @@ Mr_NP0
 Palmer_NP0
 did_VDD
 n't_XX0
-feel_VVI
+feel_VVB
 he_PNP
 was_VBD
 playing_VVG
@@ -6846,7 +6846,7 @@ my_DPS
 words_NN2
 must_VM0
 have_VHB
-stuck_AJ0
+stuck_VVN
 because_CJS
 it_PNP
 started_VVD
@@ -6929,7 +6929,7 @@ deteriorated_VVD
 and_CJC
 the_AT0
 wind_NN1
-increased_AJ0
+increased_VVN
 to_TO0
 around_PRP
 30_CRD
@@ -7126,7 +7126,7 @@ was_VBD
 sitting_VVG
 on_PRP
 a_AT0
-tee-box_NN1-AJ0
+tee-box_NN1
 waiting_VVG
 to_TO0
 start_NN1
@@ -7312,7 +7312,7 @@ me_PNP
 to_TO0
 keep_VVI
 an_AT0
-eagle-eye_NN1-AJ0
+eagle-eye_NN1
 on_PRP
 his_DPS
 clubs_NN2
@@ -7375,7 +7375,7 @@ say_VVI
 No_ITJ
 but_CJC
 I_PNP
-feel_VVI
+feel_VVB
 as_CJS
 though_CJS
 I_PNP
@@ -7470,7 +7470,7 @@ the_AT0
 fantastic_AJ0
 win_VVI
 at_PRP
-Sandwich_NP0-NN1
+Sandwich_NN1
 in_PRP
 1975_CRD
 in_PRP
@@ -7532,7 +7532,7 @@ he_PNP
 does_VDZ
 n't_XX0
 have_VHB
-Trevino_NP0-NN1
+Trevino_NP0
 's_POS
 constant_AJ0
 chatter_NN1
@@ -7660,7 +7660,7 @@ him_PNP
 is_VBZ
 when_CJS
 you_PNP
-walk_VVI
+walk_NN1
 into_PRP
 a_AT0
 room_NN1
@@ -7688,7 +7688,7 @@ Anderson_NP0
 It_PNP
 makes_VVZ
 me_PNP
-feel_VVI
+feel_VVB
 I_PNP
 'm_VBB
 somebody_PNI
@@ -7735,7 +7735,7 @@ think_VVB
 it_PNP
 's_POS
 a_AT0
-5-iron_NN1-AJ0
+5-iron_NN1
 I_PNP
 said_VVD
 I_PNP
@@ -7835,7 +7835,7 @@ are_VBB
 likely_AJ0
 to_TO0
 stand_VVI
-shoulder-to-shoulder_NN1-AJ0
+shoulder-to-shoulder_AJ0
 at_PRP
 the_AT0
 bar_NN1
@@ -7962,7 +7962,7 @@ to_TO0
 be_VBI
 able_AJ0
 to_TO0
-walk_VVI
+walk_NN1
 the_AT0
 mile_NN1
 or_CJC
@@ -8002,7 +8002,7 @@ a_AT0
 good_AJ0
 golfer_NN1
 a_AT0
-one-handicapper_NN1-AJ0
+one-handicapper_NN1
 at_PRP
 the_AT0
 municipal_AJ0
@@ -8062,7 +8062,7 @@ papers_NN2
 or_CJC
 milk_NN1
 for_PRP
-pocket-money_NN1-AJ0
+pocket-money_AJ0
 When_CJS
 I_PNP
 was_VBD
@@ -8083,7 +8083,7 @@ landed_VVD
 a_AT0
 job_NN1
 carrying_VVG
-Toney_NP0-NN1
+Toney_NP0
 Penna_NP0
 's_POS
 bag_NN1
@@ -8109,7 +8109,7 @@ a_AT0
 very_AV0
 young_AJ0
 age_NN1
-Toney_NP0-NN1
+Toney_NP0
 's_POS
 friend_NN1
 was_VBD
@@ -8133,7 +8133,7 @@ was_VBD
 a_AT0
 real_AJ0
 break_VVI
-Toney_NP0-NN1
+Toney_NP0
 made_VVN
 the_AT0
 last_ORD
@@ -8154,7 +8154,7 @@ worked_VVD
 on_PRP
 the_AT0
 course_NN1
-green-keeping_NN1-AJ0
+green-keeping_AJ0
 in_PRP
 the_AT0
 winter_NN1
@@ -8199,7 +8199,7 @@ do_VDB
 a_AT0
 bit_NN1
 of_PRF
-coal-bag_NN1-AJ0
+coal-bag_NN1
 carrying_VVG
 in_PRP
 my_DPS
@@ -8307,7 +8307,7 @@ session_NN1
 off_AVP
 the_AT0
 course_NN1
-drop_VVI
+drop_NN1
 the_AT0
 bag_NN1
 and_CJC
@@ -8315,7 +8315,7 @@ on_PRP
 to_TO0
 the_AT0
 fairground_NN1
-Caddying_NN1-VVG
+Caddying_VVG
 was_VBD
 n't_XX0
 the_AT0
@@ -8399,7 +8399,7 @@ when_CJS
 he_PNP
 was_VBD
 an_AT0
-amateur_AJ0-NN1
+amateur_AJ0
 so_AV0
 I_PNP
 felt_VVD
@@ -8562,9 +8562,9 @@ the_AT0
 hole_NN1
 and_CJC
 it_PNP
-involved_AJ0
+involved_VVN
 a_AT0
-4-iron_NN1-AJ0
+4-iron_NN1
 Thomson_NP0
 was_VBD
 going_VVG
@@ -8667,7 +8667,7 @@ I_PNP
 was_VBD
 a_AT0
 write-off_NN1
-exhausted_VVN-AJ0
+exhausted_VVN
 We_PNP
 actually_AV0
 played_VVD
@@ -8860,7 +8860,7 @@ of_PRF
 the_AT0
 field_NN1
 and_CJC
-Christy_NP0-NN1
+Christy_NP0
 O'Connor_NP0
 was_VBD
 nearest_AJS
@@ -8948,7 +8948,7 @@ even_AV0
 though_CJS
 the_AT0
 Argentinian_AJ0
-Ruiz_NP0-NN1
+Ruiz_NP0
 had_VHD
 shot_NN1
 a_AT0
@@ -8982,7 +8982,7 @@ to_TO0
 be_VBI
 between_PRP
 Peter_NP0
-Christy_NP0-NN1
+Christy_NP0
 and_CJC
 Dave_NP0
 I_PNP
@@ -9032,7 +9032,7 @@ think_VVB
 it_PNP
 's_POS
 a_AT0
-5-iron_NN1-AJ0
+5-iron_NN1
 I_PNP
 said_VVD
 I_PNP
@@ -9208,7 +9208,7 @@ it_PNP
 Eric_NP0
 Brown_NP0
 and_CJC
-Christy_NP0-NN1
+Christy_NP0
 O'Connor_NP0
 also_AV0
 needed_VVN
@@ -9230,13 +9230,13 @@ each_DT0
 other_AJ0
 Eric_NP0
 and_CJC
-Christy_NP0-NN1
+Christy_NP0
 and_CJC
 if_CJS
 I_PNP
 remember_VVI
 correctly_AV0
-Ruiz_NP0-NN1
+Ruiz_NP0
 took_VVD
 sixes_CRD
 on_PRP
@@ -9345,14 +9345,14 @@ proved_VVN
 costly_AJ0
 and_CJC
 how_AVQ
-exhausted_VVN-AJ0
+exhausted_VVN
 I_PNP
 was_VBD
 Two_CRD
 days_NN2
 on_PRP
 the_AT0
-trot_VVI
+trot_NN1
 carrying_VVG
 a_AT0
 big_AJ0
@@ -9478,7 +9478,7 @@ because_CJS
 he_PNP
 'll_VM0
 be_VBI
-retiring_VVG-AJ0
+retiring_VVG
 after_PRP
 this_DT0
 year_NN1
@@ -9505,7 +9505,7 @@ we_PNP
 played_VVD
 with_PRP
 Kel_NP0
-Nagle_NP0-NN1
+Nagle_NP0
 Peter_NP0
 's_POS
 best_AJS
@@ -9518,7 +9518,7 @@ the_AT0
 Canada_NP0
 Cup_NN1
 in_PRP
-Portmarnock_NP0-NN1
+Portmarnock_NN1
 had_VHD
 been_VBN
 a_AT0
@@ -9582,7 +9582,7 @@ to_TO0
 the_AT0
 locker-room_NN1
 of_PRF
-Portmarnock_NP0-NN1
+Portmarnock_NN1
 and_CJC
 Peter_NP0
 introduced_VVN
@@ -9595,7 +9595,7 @@ Palmer_NP0
 Peter_NP0
 said_VVD
 to_TO0
-Arnie_NP0-NN1
+Arnie_NP0
 I_PNP
 've_VHB
 got_VVN
@@ -9637,7 +9637,7 @@ with_PRP
 embarrassment_NN1
 but_CJC
 really_AV0
-chuffed_AJ0-VVN
+chuffed_AJ0
 that_CJT
 Peter_NP0
 had_VHD
@@ -9814,7 +9814,7 @@ him_PNP
 Tip_NP0
 was_VBD
 a_AT0
-three-handicapper_NN1-AJ0
+three-handicapper_NN1
 and_CJC
 of_PRF
 course_NN1
@@ -9946,7 +9946,7 @@ Peter_NP0
 big_AJ0
 friend_NN1
 Kel_NP0
-Nagle_NP0-NN1
+Nagle_NP0
 I_PNP
 was_VBD
 seventh_ORD
@@ -10377,7 +10377,7 @@ Peter_NP0
 was_VBD
 a_AT0
 very_AV0
-average_AJ0-NN1
+average_AJ0
 putter_NN1
 but_CJC
 he_PNP
@@ -10803,7 +10803,7 @@ took_VVD
 it_PNP
 all_DT0
 calmly_AV0
-quietening_AJ0
+quietening_VVG
 me_PNP
 down_AVP
 He_PNP
@@ -10822,7 +10822,7 @@ hole-in-one_CRD
 in_PRP
 the_AT0
 Agfa_NP0
-Gevaert_NP0-NN1
+Gevaert_NN1
 tournament_NN1
 at_PRP
 the_AT0
@@ -10970,8 +10970,8 @@ Peter_NP0
 big_AJ0
 friend_NN1
 Kel_NP0
-Nagle_NP0-NN1
-Christy_NP0-NN1
+Nagle_NP0
+Christy_NP0
 O'Connor_NP0
 was_VBD
 a_AT0
@@ -11116,7 +11116,7 @@ I_PNP
 think_VVB
 it_PNP
 was_VBD
-Christy_NP0-NN1
+Christy_NP0
 we_PNP
 were_VBD
 playing_VVG
@@ -11149,7 +11149,7 @@ It_PNP
 must_VM0
 have_VHB
 worn_VVN
-Christy_NP0-NN1
+Christy_NP0
 out_AVP
 For_PRP
 the_AT0
@@ -11175,7 +11175,7 @@ was_VBD
 between_PRP
 Brian_NP0
 and_CJC
-Christy_NP0-NN1
+Christy_NP0
 and_CJC
 the_AT0
 boss_NN1
@@ -11277,10 +11277,10 @@ it_PNP
 had_VHD
 been_VBN
 a_AT0
-3-_NN1-AJ0
+3-_AJ0
 or_CJC
 a_AT0
-4-iron_NN1-AJ0
+4-iron_NN1
 for_PRP
 the_AT0
 second_ORD
@@ -11306,7 +11306,7 @@ I_PNP
 agreed_VVD
 on_PRP
 the_AT0
-3-iron_NN1-AJ0
+3-iron_NN1
 He_PNP
 threaded_VVD
 it_PNP
@@ -11344,7 +11344,7 @@ by_PRP
 two_CRD
 strokes_NN2
 from_PRP
-Christy_NP0-NN1
+Christy_NP0
 and_CJC
 Brian_NP0
 Some_DT0
@@ -11472,7 +11472,7 @@ was_VBD
 another_DT0
 way_NN1
 of_PRF
-relaxing_VVG-AJ0
+relaxing_VVG
 It_PNP
 really_AV0
 fitted_VVN
@@ -11559,14 +11559,14 @@ Vicenzo_NP0
 Hoylake_NP0
 1967_CRD
 Lee_NP0
-Trevino_NP0-NN1
+Trevino_NP0
 Royal_AJ0
 Birkdale_NP0
 1971_CRD
 Muirfield_NP0
 1972_CRD
 Lee_NP0
-Trevino_NP0-NN1
+Trevino_NP0
 has_VHZ
 been_VBN
 blamed_VVN
@@ -11629,9 +11629,9 @@ it_PNP
 is_VBZ
 because_CJS
 six-time_AJ0
-major-winner_NN1-AJ0
+major-winner_AJ0
 Lee_NP0
-Trevino_NP0-NN1
+Trevino_NP0
 shares_NN2
 a_AT0
 background_NN1
@@ -11652,7 +11652,7 @@ relationship_NN1
 over_PRP
 the_AT0
 years_NN2
-Trevino_NP0-NN1
+Trevino_NP0
 raised_VVN
 in_PRP
 poverty_NN1
@@ -11670,7 +11670,7 @@ tough_AJ0
 years_NN2
 after_PRP
 turning_VVG
-pro_NN1-AJ0
+pro_NN1
 Willie_NP0
 grew_VVD
 up_AVP
@@ -11718,7 +11718,7 @@ when_CJS
 I_PNP
 was_VBD
 a_AT0
-wee_AJ0-NN1
+wee_AJ0
 boy_NN1
 and_CJC
 I_PNP
@@ -11737,8 +11737,8 @@ uncle_NN1
 caddied_VVD
 for_PRP
 James_NP0
-Braid_NN1-VVB
-Killermont_NN1-NP0
+Braid_NN1
+Killermont_NN1
 was_VBD
 where_AVQ
 it_PNP
@@ -11784,7 +11784,7 @@ St_NP0
 Andrews_NP0
 for_PRP
 the_AT0
-Amateur_AJ0-NN1
+Amateur_AJ0
 Championship_NN1
 I_PNP
 arrived_VVD
@@ -11834,7 +11834,7 @@ box_NN1
 and_CJC
 your_DPS
 tips_NN2
-depended_VVN-VVD
+depended_VVD
 on_PRP
 how_AVQ
 far_AV0
@@ -11864,7 +11864,7 @@ to_TO0
 do_VDB
 my_DPS
 next_ORD
-Amateur_AJ0-NN1
+Amateur_AJ0
 this_DT0
 time_NN1
 at_PRP
@@ -11972,7 +11972,7 @@ carry_VVI
 on_PRP
 learning_NN1
 The_AT0
-amateur_AJ0-NN1
+amateur_AJ0
 scene_NN1
 was_VBD
 successful_AJ0
@@ -11983,7 +11983,7 @@ though_CJS
 He_PNP
 carried_VVN
 Michael_NP0
-Bonallack_NP0-NN1
+Bonallack_NP0
 's_POS
 bag_NN1
 for_PRP
@@ -12000,7 +12000,7 @@ the_AT0
 most_AV0
 successful_AJ0
 British_AJ0
-amateur_AJ0-NN1
+amateur_AJ0
 who_PNQ
 won_VVD
 five_CRD
@@ -12020,7 +12020,7 @@ relied_VVN
 on_PRP
 the_AT0
 old_AJ0
-eyeballing_VVG-AJ0
+eyeballing_AJ0
 method_NN1
 of_PRF
 judging_VVG
@@ -12033,7 +12033,7 @@ came_VVD
 later_AV0
 with_PRP
 Lee_NP0
-Trevino_NP0-NN1
+Trevino_NP0
 Your_DPS
 man_NN1
 would_VM0
@@ -12072,7 +12072,7 @@ was_VBD
 nominated_VVN
 by_PRP
 Michael_NP0
-Bonallack_NP0-NN1
+Bonallack_NP0
 and_CJC
 Joe_NP0
 Carr_NP0
@@ -12101,7 +12101,7 @@ was_VBD
 n't_XX0
 afraid_AJ0
 to_TO0
-walk_VVI
+walk_NN1
 on_PRP
 the_AT0
 tee_NN1
@@ -12147,7 +12147,7 @@ recommended_VVN
 Willie_NP0
 to_TO0
 Lee_NP0
-Trevino_NP0-NN1
+Trevino_NP0
 and_CJC
 thus_AV0
 began_VVD
@@ -12155,8 +12155,8 @@ Willie_NP0
 's_POS
 relationship_NN1
 with_PRP
-Supermex_NP0-NN1
-Trevino_NP0-NN1
+Supermex_NP0
+Trevino_NP0
 taught_VVN
 Willie_NP0
 course_NN1
@@ -12201,7 +12201,7 @@ from_PRP
 around_PRP
 the_AT0
 green_AJ0
-snuffed_VVD
+snuffed_VVN
 out_AVP
 the_AT0
 British_AJ0
@@ -12258,7 +12258,7 @@ early_AJ0
 1980s_CRD
 he_PNP
 and_CJC
-Trevino_NP0-NN1
+Trevino_NP0
 put_VVI
 themselves_PNX
 in_PRP
@@ -12276,7 +12276,7 @@ in_PRP
 his_DPS
 eyes_NN2
 at_PRP
-Trevino_NP0-NN1
+Trevino_NP0
 's_POS
 performances_NN2
 just_AV0
@@ -12306,7 +12306,7 @@ the_AT0
 1970s_CRD
 And_CJC
 when_CJS
-Trevino_NP0-NN1
+Trevino_NP0
 added_VVN
 the_AT0
 only_AV0
@@ -12350,7 +12350,7 @@ a_AT0
 ton_NN1
 your_DPS
 legs_NN2
-feel_VVI
+feel_VVB
 like_PRP
 lead_VVI
 But_CJC
@@ -12398,10 +12398,10 @@ chance_NN1
 of_PRF
 working_VVG
 for_PRP
-Trevino_NP0-NN1
+Trevino_NP0
 at_PRP
 El_NP0
-Paso_NN1-NP0
+Paso_NP0
 and_CJC
 taking_VVG
 his_DPS
@@ -12409,7 +12409,7 @@ bag_NN1
 on_PRP
 the_AT0
 US_NP0
-Tour_NN1-VVB
+Tour_NN1
 It_PNP
 could_VM0
 have_VHB
@@ -12420,7 +12420,7 @@ but_CJC
 I_PNP
 do_VDB
 n't_XX0
-regret_VVI
+regret_NN1
 it_PNP
 I_PNP
 've_VHB
@@ -12472,7 +12472,7 @@ in_PRP
 1967_CRD
 and_CJC
 Lee_NP0
-Trevino_NP0-NN1
+Trevino_NP0
 in_PRP
 1971_CRD
 and_CJC
@@ -12520,7 +12520,7 @@ result_NN1
 the_AT0
 public_AJ0
 wanted_VVD
-Trevino_NP0-NN1
+Trevino_NP0
 's_POS
 1971_CRD
 win_VVI
@@ -12541,7 +12541,7 @@ the_AT0
 centenary_NN1
 event_NN1
 And_CJC
-Trevino_NP0-NN1
+Trevino_NP0
 made_VVN
 it_PNP
 a_AT0
@@ -12570,7 +12570,7 @@ few_DT0
 days_NN2
 before_PRP
 Then_AV0
-Trevino_NP0-NN1
+Trevino_NP0
 's_POS
 1972_CRD
 success_NN1
@@ -12591,7 +12591,7 @@ confrontation_NN1
 between_PRP
 two_CRD
 men_NN2
-Trevino_NP0-NN1
+Trevino_NP0
 and_CJC
 Tony_NP0
 Jacklin_NP0
@@ -12636,7 +12636,7 @@ the_AT0
 Walker_NP0
 Cup_NN1
 Michael_NP0
-Bonallack_NP0-NN1
+Bonallack_NP0
 and_CJC
 Joe_NP0
 Carr_NP0
@@ -12670,7 +12670,7 @@ Ralph_NP0
 Moffatt_NP0
 on_PRP
 the_AT0
-pro_NN1-AJ0
+pro_NN1
 circuit_NN1
 and_CJC
 got_VVN
@@ -12679,7 +12679,7 @@ through_PRP
 the_AT0
 pre-qualifier_NN1
 at_PRP
-Fairhaven_NP0-NN1
+Fairhaven_NP0
 so_AV0
 I_PNP
 told_VVD
@@ -12818,7 +12818,7 @@ in_PRP
 Scotland_NP0
 golfed_VVD
 the_AT0
-heed_VVI
+heed_NN1
 off_AVP
 him_PNP
 Roberto_NP0
@@ -13032,7 +13032,7 @@ we_PNP
 still_AV0
 held_VVN
 our_DPS
-two-stroke_AJ0-NN1
+two-stroke_NN1
 lead_VVI
 and_CJC
 slowly_AV0
@@ -13138,7 +13138,7 @@ The_AT0
 crowd_NN1
 had_VHD
 now_AV0
-swelled_VVN-VVD
+swelled_VVD
 to_TO0
 huge_AJ0
 numbers_NN2
@@ -13150,7 +13150,7 @@ the_AT0
 16th_ORD
 tee_NN1
 The_AT0
-drive_VVI
+drive_NN1
 is_VBZ
 a_AT0
 dog-leg_NN1
@@ -13164,7 +13164,7 @@ range_NN1
 You_PNP
 had_VHD
 to_TO0
-drive_VVI
+drive_NN1
 leftish_AJ0
 to_TO0
 position_NN1
@@ -13274,7 +13274,7 @@ happen_VVI
 next_ORD
 I_PNP
 was_VBD
-eyeballing_VVG-AJ0
+eyeballing_AJ0
 distances_NN2
 at_PRP
 that_CJT
@@ -13294,7 +13294,7 @@ the_AT0
 out-of-bounds_NN2
 and_CJC
 a_AT0
-wee_AJ0-NN1
+wee_AJ0
 bank_NN1
 that_CJT
 ran_VVD
@@ -13361,7 +13361,7 @@ I_PNP
 handed_VVD
 him_PNP
 the_AT0
-3-wood_NN1-AJ0
+3-wood_NN1
 You_PNP
 just_AV0
 know_VVI
@@ -13403,7 +13403,7 @@ hole_NN1
 and_CJC
 held_VVN
 our_DPS
-two-shot_AJ0-NN1
+two-shot_NN1
 lead_VVI
 On_PRP
 the_AT0
@@ -13413,7 +13413,7 @@ we_PNP
 hit_VVD
 the_AT0
 same_DT0
-3-wood_NN1-AJ0
+3-wood_NN1
 and_CJC
 as_CJS
 we_PNP
@@ -13482,7 +13482,7 @@ anyway_AV0
 He_PNP
 hit_VVD
 an_AT0
-8-iron_NN1-AJ0
+8-iron_NN1
 to_TO0
 12_CRD
 feet_NN2
@@ -13598,8 +13598,8 @@ early_AJ0
 1970s_CRD
 saw_VVD
 Lee_NP0
-Trevino_NP0-NN1
-ruling_AJ0-NN1
+Trevino_NP0
+ruling_NN1
 the_AT0
 roost_NN1
 on_PRP
@@ -13610,7 +13610,7 @@ the_AT0
 Pond_NN1
 Well_AV0
 almost_AV0
-ruling_AJ0-NN1
+ruling_NN1
 it_PNP
 one_CRD
 player_NN1
@@ -13640,10 +13640,10 @@ But_CJC
 before_PRP
 Willie_NP0
 was_VBD
-involved_AJ0
+involved_VVN
 in_PRP
 these_DT0
-epic_AJ0-NN1
+epic_NN1
 encounters_NN2
 the_AT0
 no-nonsense_AJ0
@@ -13655,7 +13655,7 @@ battle_NN1
 to_TO0
 fight_VVI
 for_PRP
-Trevino_NP0-NN1
+Trevino_NP0
 's_POS
 bag_NN1
 At_PRP
@@ -13685,7 +13685,7 @@ he_PNP
 spoke_VVD
 to_TO0
 Lee_NP0
-Trevino_NP0-NN1
+Trevino_NP0
 I_PNP
 got_VVN
 a_AT0
@@ -13702,7 +13702,7 @@ bag_NN1
 for_PRP
 the_AT0
 1968_CRD
-Alcan_AJ0-NN1
+Alcan_AJ0
 at_PRP
 Birkdale_NP0
 and_CJC
@@ -13945,7 +13945,7 @@ chance_NN1
 to_TO0
 play_VVI
 with_PRP
-Trevino_NP0-NN1
+Trevino_NP0
 just_AV0
 stand_VVI
 on_PRP
@@ -13996,7 +13996,7 @@ he_PNP
 'd_VM0
 hit_VVD
 his_DPS
-drive_VVI
+drive_NN1
 Then_AV0
 he_PNP
 said_VVD
@@ -14017,7 +14017,7 @@ so_AV0
 I_PNP
 said_VVD
 A_AT0
-7-iron_NN1-AJ0
+7-iron_NN1
 but_CJC
 what_DTQ
 he_PNP
@@ -14048,7 +14048,7 @@ that_CJT
 it_PNP
 's_POS
 a_AT0
-7-iron_NN1-AJ0
+7-iron_NN1
 to_TO0
 the_AT0
 middle_NN1
@@ -14197,7 +14197,7 @@ I_PNP
 finished_VVN
 pulling_VVG
 up_AVP
-Trevino_NP0-NN1
+Trevino_NP0
 on_PRP
 a_AT0
 couple_NN1
@@ -14348,7 +14348,7 @@ think_VVB
 anybody_PNI
 could_VM0
 beat_VVI
-Trevino_NP0-NN1
+Trevino_NP0
 He_PNP
 'd_VM0
 been_VBN
@@ -14562,11 +14562,11 @@ to_TO0
 fire_NN1
 up_AVP
 Lee_NP0
-Trevino_NP0-NN1
+Trevino_NP0
 The_AT0
 vendetta_NN1
 between_PRP
-Trevino_NP0-NN1
+Trevino_NP0
 and_CJC
 Jacklin_NP0
 and_CJC
@@ -14579,7 +14579,7 @@ in_PRP
 the_AT0
 end_NN1
 A_AT0
-smiling_VVG-AJ0
+smiling_VVG
 Formosan_NN1
 by_PRP
 the_AT0
@@ -14726,14 +14726,14 @@ one_CRD
 time_NN1
 threatened_VVN
 to_TO0
-walk_VVI
+walk_NN1
 off_AVP
 the_AT0
 course_NN1
 It_PNP
 made_VVN
 him_PNP
-feel_VVI
+feel_VVB
 he_PNP
 wanted_VVD
 to_TO0
@@ -14848,13 +14848,13 @@ We_PNP
 discussed_VVN
 taking_VVG
 a_AT0
-1-iron_NN1-AJ0
+1-iron_NN1
 but_CJC
 he_PNP
 insisted_VVD
 on_PRP
 a_AT0
-3-wood_NN1-AJ0
+3-wood_NN1
 and_CJC
 although_CJS
 he_PNP
@@ -15064,7 +15064,7 @@ I_PNP
 became_VVD
 very_AV0
 emotionally_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 last_ORD
@@ -15344,7 +15344,7 @@ last_ORD
 He_PNP
 hit_VVD
 his_DPS
-drive_VVI
+drive_NN1
 down_AVP
 the_AT0
 left_VVN
@@ -15430,7 +15430,7 @@ says_VVZ
 It_PNP
 's_POS
 a_AT0
-7-iron_NN1-AJ0
+7-iron_NN1
 thinking_VVG
 This_DT0
 is_VBZ
@@ -15615,7 +15615,7 @@ was_VBD
 down_AVP
 to_TO0
 Lee_NP0
-Trevino_NP0-NN1
+Trevino_NP0
 So_AV0
 many_DT0
 things_NN2
@@ -15639,7 +15639,7 @@ just_AV0
 know_VVI
 it_PNP
 was_VBD
-Trevino_NP0-NN1
+Trevino_NP0
 versus_PRP
 Jacklin_NP0
 again_AV0
@@ -15739,14 +15739,14 @@ got_VVN
 it_PNP
 wrong_AJ0
 Now_AV0
-Trevino_NP0-NN1
+Trevino_NP0
 's_POS
 eyesight_NN1
 is_VBZ
 great_AJ0
 but_CJC
 his_DPS
-eyeballing_VVG-AJ0
+eyeballing_AJ0
 is_VBZ
 n't_XX0
 as_CJS
@@ -15770,7 +15770,7 @@ and_CJC
 pulled_VVD
 out_AVP
 an_AT0
-8-iron_NN1-AJ0
+8-iron_NN1
 The_AT0
 ball_NN1
 finished_VVN
@@ -15814,7 +15814,7 @@ Lee_NP0
 was_VBD
 on_PRP
 a_AT0
-downslope_NN1-VVB
+downslope_NN1
 and_CJC
 it_PNP
 seemed_VVD
@@ -16022,7 +16022,7 @@ had_VHD
 been_VBN
 using_VVG
 the_AT0
-1-iron_NN1-AJ0
+1-iron_NN1
 even_AV0
 though_CJS
 it_PNP
@@ -16100,12 +16100,12 @@ was_VBD
 n't_XX0
 a_AT0
 bad_AJ0
-lie_VVI
+lie_VVB
 so_AV0
 instead_AV0
 of_PRF
-1-iron_NN1-AJ0
-2-iron_NN1-AJ0
+1-iron_NN1
+2-iron_NN1
 to_TO0
 the_AT0
 green_AJ0
@@ -16114,7 +16114,7 @@ he_PNP
 now_AV0
 playing_VVG
 driver_NN1
-5-iron_NN1-AJ0
+5-iron_NN1
 He_PNP
 made_VVN
 the_AT0
@@ -16182,9 +16182,9 @@ round_AVP
 It_PNP
 was_VBD
 a_AT0
-15-_NN1-AJ0
+15-_NN1
 to_TO0
-20-footer_NN1-AJ0
+20-footer_NN1
 and_CJC
 luckily_AV0
 for_PRP
@@ -16218,7 +16218,7 @@ golfer_NN1
 should_VM0
 putt_NN1
 by_PRP
-feel_VVI
+feel_VVB
 He_PNP
 does_VDZ
 n't_XX0
@@ -16243,7 +16243,7 @@ so_AV0
 if_CJS
 Jacklin_NP0
 an_AT0
-Trevino_NP0-NN1
+Trevino_NP0
 parred_VVD
 the_AT0
 last_ORD
@@ -16273,7 +16273,7 @@ know_VVI
 what_DTQ
 happened_VVD
 next_ORD
-Trevino_NP0-NN1
+Trevino_NP0
 is_VBZ
 all_DT0
 teed-up_NN1
@@ -16318,7 +16318,7 @@ from_PRP
 his_DPS
 ball_NN1
 and_CJC
-regroups_NN2-VVZ
+regroups_VVZ
 He_PNP
 takes_VVZ
 a_AT0
@@ -16420,7 +16420,7 @@ him_PNP
 to_TO0
 chip-up_NN1
 and_CJC
-two-putt_NN1-AJ0
+two-putt_NN1
 for_PRP
 a_AT0
 five_CRD
@@ -16479,7 +16479,7 @@ out_AVP
 beyond_PRP
 Jacklin_NP0
 's_POS
-drive_VVI
+drive_NN1
 so_AV0
 he_PNP
 's_POS
@@ -16544,7 +16544,7 @@ five_CRD
 Even_AV0
 if_CJS
 we_PNP
-drop_VVI
+drop_NN1
 a_AT0
 shot_NN1
 because_CJS
@@ -16611,7 +16611,7 @@ been_VBN
 in_PRP
 for_PRP
 us_PNP
-Trevino_NP0-NN1
+Trevino_NP0
 put_VVI
 his_DPS
 fourth_ORD
@@ -16632,7 +16632,7 @@ convinced_AJ0
 the_AT0
 green_AJ0
 was_VBD
-fast_AV0-AJ0
+fast_AJ0
 but_CJC
 maybe_AV0
 he_PNP
@@ -16667,7 +16667,7 @@ ball_NN1
 I_PNP
 saw_VVD
 the_AT0
-lie_VVI
+lie_VVB
 and_CJC
 line_NN1
 and_CJC
@@ -16822,7 +16822,7 @@ you_PNP
 could_VM0
 accuse_VVI
 Lee_NP0
-Trevino_NP0-NN1
+Trevino_NP0
 of_PRF
 He_PNP
 pulled_VVD
@@ -16867,7 +16867,7 @@ with_PRP
 a_AT0
 driver_NN1
 and_CJC
-drop_VVI
+drop_NN1
 away_AV0
 quickly_AV0
 because_CJS
@@ -16878,7 +16878,7 @@ to_TO0
 hit_VVD
 it_PNP
 so_AV0
-fast_AV0-AJ0
+fast_AJ0
 he_PNP
 wo_VM0
 n't_XX0
@@ -16978,7 +16978,7 @@ did_VDD
 n't_XX0
 have_VHB
 any_DT0
-mixed_AJ0
+mixed_VVN
 feelings_NN2
 about_PRP
 Tony_NP0
@@ -16994,7 +16994,7 @@ a_AT0
 job_NN1
 for_PRP
 Lee_NP0
-Trevino_NP0-NN1
+Trevino_NP0
 I_PNP
 'm_VBB
 a_AT0
@@ -17015,7 +17015,7 @@ If_CJS
 you_PNP
 start_NN1
 to_TO0
-feel_VVI
+feel_VVB
 sorry_AJ0
 enough_AV0
 to_TO0
@@ -17028,7 +17028,7 @@ lose_VVI
 your_DPS
 honesty_NN1
 The_AT0
-Trevino_NP0-NN1
+Trevino_NP0
 era_NN1
 has_VHZ
 been_VBN
@@ -17043,7 +17043,7 @@ he_PNP
 's_POS
 made_VVN
 me_PNP
-feel_VVI
+feel_VVB
 special_AJ0
 Lee_NP0
 's_POS
@@ -17083,7 +17083,7 @@ it_PNP
 Albert_NP0
 Fyles_NP0
 Tom_NP0
-Weiskopf_NP0-NN1
+Weiskopf_NP0
 Royal_AJ0
 Troon_NP0
 1973_CRD
@@ -17102,7 +17102,7 @@ to_TO0
 me_PNP
 Albert_NP0
 when_CJS
-Weiskopf_NP0-NN1
+Weiskopf_NP0
 knows_VVZ
 how_AVQ
 good_AJ0
@@ -17141,7 +17141,7 @@ Ballesteros_NP0
 could_VM0
 n't_XX0
 lace_NN1
-Weiskopf_NP0-NN1
+Weiskopf_NP0
 's_POS
 boots_NN2
 when_CJS
@@ -17186,7 +17186,7 @@ Albert_NP0
 has_VHZ
 scorned_VVD
 a_AT0
-stammer_VVI
+stammer_NN1
 that_CJT
 he_PNP
 will_VM0
@@ -17231,7 +17231,7 @@ reputed_VVN
 to_TO0
 throw_VVI
 a_AT0
-5-iron_NN1-AJ0
+5-iron_NN1
 almost_AV0
 as_CJS
 long_AJ0
@@ -17253,7 +17253,7 @@ a_AT0
 week_NN1
 to_TO0
 the_AT0
-prized_VVN-AJ0
+prized_AJ0
 claret_NN1
 jug_NN1
 The_AT0
@@ -17276,7 +17276,7 @@ me_PNP
 there_EX0
 He_PNP
 'd_VM0
-retired_AJ0
+retired_VVD
 from_PRP
 caddying_VVG
 at_PRP
@@ -17336,7 +17336,7 @@ terrified_AJ0
 of_PRF
 frogs_NN2
 and_CJC
-newts_NN2-VVZ
+newts_NN2
 I_PNP
 'd_VM0
 stamp_NN1
@@ -17621,7 +17621,7 @@ been_VBN
 to_TO0
 be_VBI
 a_AT0
-pro_NN1-AJ0
+pro_NN1
 and_CJC
 I_PNP
 got_VVN
@@ -17645,7 +17645,7 @@ me_PNP
 to_TO0
 be_VBI
 a_AT0
-pro_NN1-AJ0
+pro_NN1
 they_PNP
 did_VDD
 n't_XX0
@@ -17698,7 +17698,7 @@ leading_AJ0
 up_AVP
 to_TO0
 Tom_NP0
-Weiskopf_NP0-NN1
+Weiskopf_NP0
 because_CJS
 there_EX0
 were_VBD
@@ -17893,7 +17893,7 @@ knew_VVD
 it_PNP
 was_VBD
 a_AT0
-3-iron_NN1-AJ0
+3-iron_NN1
 but_CJC
 could_VM0
 I_PNP
@@ -17906,12 +17906,12 @@ said_VVD
 It_PNP
 's_POS
 a_AT0
-th-th-th-_NN1-AJ0
+th-th-th-_AJ0
 and_CJC
 I_PNP
-whipped_VVN
+whipped_VVD
 the_AT0
-3-iron_NN1-AJ0
+3-iron_NN1
 out_AVP
 of_PRF
 the_AT0
@@ -17945,7 +17945,7 @@ I_PNP
 was_VBD
 just_AV0
 a_AT0
-quivering_AJ0-VVG
+quivering_VVG
 stuttering_VVG
 heap_NN1
 and_CJC
@@ -17955,7 +17955,7 @@ to_TO0
 say_VVI
 I_PNP
 've_VHB
-g-g-g-g-got_AJ0-NN1
+g-g-g-g-got_AJ0
 a_AT0
 sp-sp-sp-speech_AJ0
 impediment_NN1
@@ -18156,7 +18156,7 @@ drops_VVZ
 his_DPS
 book_NN1
 and_CJC
-stomps_VVZ-NN2
+stomps_VVZ
 off_AVP
 the_AT0
 tee_NN1
@@ -18182,7 +18182,7 @@ I_PNP
 'm_VBB
 glad_AJ0
 Tom_NP0
-Weiskopf_NP0-NN1
+Weiskopf_NP0
 soon_AV0
 understood_VVN
 that_CJT
@@ -18225,7 +18225,7 @@ caddie_NN1
 had_VHD
 taken_VVN
 Tom_NP0
-Weiskopf_NP0-NN1
+Weiskopf_NP0
 's_POS
 bag_NN1
 but_CJC
@@ -18247,7 +18247,7 @@ take_VVI
 over_PRP
 the_AT0
 bag_NN1
-Weiskopf_NP0-NN1
+Weiskopf_NP0
 played_VVD
 a_AT0
 regular_AJ0
@@ -18329,7 +18329,7 @@ it_PNP
 all_DT0
 out_AVP
 Tom_NP0
-thunders_NN2-VVZ
+thunders_VVZ
 Who_PNQ
 the_AT0
 hell_NN1
@@ -18499,13 +18499,13 @@ I_PNP
 was_VBD
 good_AJ0
 at_PRP
-eyeballing_VVG-AJ0
+eyeballing_AJ0
 and_CJC
 so_AV0
 I_PNP
 said_VVD
 A_AT0
-5-iron_NN1-AJ0
+5-iron_NN1
 and_CJC
 he_PNP
 hit_VVD
@@ -18579,7 +18579,7 @@ found_VVD
 a_AT0
 different_AJ0
 Tom_NP0
-Weiskopf_NP0-NN1
+Weiskopf_NP0
 I_PNP
 was_VBD
 under_PRP
@@ -18644,7 +18644,7 @@ worry_VVI
 Albert_NP0
 Take_VVB
 no_AT0
-notice_VVI
+notice_NN1
 of_PRF
 him_PNP
 He_PNP
@@ -18664,7 +18664,7 @@ the_AT0
 States_NP0
 Thanks_NN2
 Mrs_NP0
-Weiskopf_NP0-NN1
+Weiskopf_NP0
 I_PNP
 said_VVD
 wondering_VVG
@@ -18791,7 +18791,7 @@ had_VHD
 been_VBN
 in_PRP
 a_AT0
-burn_VVI
+burn_NN1
 He_PNP
 put_VVI
 his_DPS
@@ -18834,7 +18834,7 @@ had_VHD
 to_TO0
 take_VVI
 his_DPS
-sand-iron_NN1-AJ0
+sand-iron_NN1
 off_AVP
 him_PNP
 because_CJS
@@ -18911,14 +18911,14 @@ reduced_VVN
 it_PNP
 to_TO0
 a_AT0
-drive_VVI
+drive_NN1
 and_CJC
 a_AT0
-sand-iron_NN1-AJ0
+sand-iron_NN1
 You_PNP
 could_VM0
 smell_NN1
-rubber_AJ0-NN1
+rubber_AJ0
 burning_AJ0
 To_TO0
 give_VVI
@@ -18929,7 +18929,7 @@ just_AV0
 how_AVQ
 long_AJ0
 Tom_NP0
-Weiskopf_NP0-NN1
+Weiskopf_NP0
 could_VM0
 hit_VVD
 a_AT0
@@ -18954,7 +18954,7 @@ needed_VVN
 a_AT0
 driver_NN1
 and_CJC
-4-iron_NN1-AJ0
+4-iron_NN1
 at_PRP
 the_AT0
 17th_ORD
@@ -18968,7 +18968,7 @@ it_PNP
 was_VBD
 the_AT0
 longest_AJS
-drive_VVI
+drive_NN1
 he_PNP
 'd_VM0
 seen_VVN
@@ -19130,7 +19130,7 @@ have_VHB
 won_VVD
 and_CJC
 Lee_NP0
-Trevino_NP0-NN1
+Trevino_NP0
 did_VDD
 But_CJC
 at_PRP
@@ -19194,7 +19194,7 @@ standard_NN1
 He_PNP
 beat_VVI
 Lee_NP0
-Trevino_NP0-NN1
+Trevino_NP0
 in_PRP
 the_AT0
 final_AJ0
@@ -19204,7 +19204,7 @@ two_CRD
 Bearing_VVG
 in_PRP
 mind_NN1
-Trevino_NP0-NN1
+Trevino_NP0
 had_VHD
 beaten_VVN
 Tony_NP0
@@ -19305,7 +19305,7 @@ the_AT0
 regular_AJ0
 four-ball_NN1
 of_PRF
-Weiskopf_NP0-NN1
+Weiskopf_NP0
 Nicklaus_NP0
 Jacklin_NP0
 and_CJC
@@ -19374,7 +19374,7 @@ days_NN2
 and_CJC
 my_DPS
 legs_NN2
-swelled_VVN-VVD
+swelled_VVD
 up_AVP
 I_PNP
 was_VBD
@@ -19538,13 +19538,13 @@ big_AJ0
 four_CRD
 though_CJS
 The_AT0
-Tarbuck_NP0-NN1
+Tarbuck_NN1
 ice-cream_NN1
 incident_NN1
 for_PRP
 instance_NN1
 Jimmy_NP0
-Tarbuck_NP0-NN1
+Tarbuck_NN1
 and_CJC
 his_DPS
 mate_NN1
@@ -19571,7 +19571,7 @@ a_AT0
 sunny_AJ0
 day_NN1
 So_AV0
-Tarbuck_NP0-NN1
+Tarbuck_NN1
 asked_VVD
 us_PNP
 all_DT0
@@ -19863,7 +19863,7 @@ the_AT0
 8th_ORD
 the_AT0
 Postage_NN1
-Stamp_NN1-VVB
+Stamp_NN1
 Tom_NP0
 birdied_VVD
 it_PNP
@@ -19888,7 +19888,7 @@ round_AVP
 at_PRP
 the_AT0
 postage_NN1
-Stamp_NN1-VVB
+Stamp_NN1
 though_CJS
 Gene_NP0
 was_VBD
@@ -19964,7 +19964,7 @@ only_AV0
 missed_VVN
 the_AT0
 Postage_NN1
-Stamp_NN1-VVB
+Stamp_NN1
 green_AJ0
 once_AV0
 during_PRP
@@ -20246,7 +20246,7 @@ He_PNP
 got_VVN
 out_AVP
 the_AT0
-1-iron_NN1-AJ0
+1-iron_NN1
 and_CJC
 drilled_VVN
 the_AT0
@@ -20259,7 +20259,7 @@ round_AVP
 He_PNP
 made_VVN
 that_CJT
-1-iron_NN1-AJ0
+1-iron_NN1
 talk_VVI
 hitting_VVG
 it_PNP
@@ -20284,7 +20284,7 @@ as_CJS
 far_AV0
 as_CJS
 a_AT0
-3-wood_NN1-AJ0
+3-wood_NN1
 and_CJC
 it_PNP
 won_VVD
@@ -20415,7 +20415,7 @@ he_PNP
 turned_VVD
 over_PRP
 Lee_NP0
-Trevino_NP0-NN1
+Trevino_NP0
 in_PRP
 the_AT0
 World_NN1
@@ -20523,10 +20523,10 @@ start_NN1
 to_TO0
 finish_VVI
 and_CJC
-equalled_VVD
+equalled_VVN
 the_AT0
 Championship_NN1
-four-round_NN1-AJ0
+four-round_NN1
 score_NN1
 In_PRP
 appalling_AJ0
@@ -20607,7 +20607,7 @@ course_NN1
 in_PRP
 contention_NN1
 Jack_NP0
-faded_AJ0
+faded_VVN
 out_AVP
 of_PRF
 it_PNP
@@ -20783,7 +20783,7 @@ back_AVP
 but_CJC
 the_AT0
 old_AJ0
-1-iron_NN1-AJ0
+1-iron_NN1
 killed_VVN
 him_PNP
 off_AVP
@@ -20797,13 +20797,13 @@ the_AT0
 by_PRP
 using_VVG
 the_AT0
-1-iron_NN1-AJ0
+1-iron_NN1
 when_CJS
 Johnny_NP0
 went_VVD
 for_PRP
 the_AT0
-3-wood_NN1-AJ0
+3-wood_NN1
 got_VVN
 on_PRP
 but_CJC
@@ -20891,12 +20891,12 @@ opted_VVN
 for_PRP
 the_AT0
 trusty_AJ0
-1-iron_NN1-AJ0
+1-iron_NN1
 again_AV0
 Johnny_NP0
 hit_VVD
 a_AT0
-3-wood_NN1-AJ0
+3-wood_NN1
 well_AV0
 right_NN1
 He_PNP
@@ -20997,7 +20997,7 @@ We_PNP
 took_VVD
 out_AVP
 the_AT0
-1-iron_NN1-AJ0
+1-iron_NN1
 on_PRP
 the_AT0
 tee_NN1
@@ -21024,7 +21024,7 @@ no_AT0
 more_AV0
 than_CJS
 a_AT0
-7-iron_NN1-AJ0
+7-iron_NN1
 into_PRP
 the_AT0
 green_AJ0
@@ -21184,7 +21184,7 @@ I_PNP
 decided_VVD
 on_PRP
 the_AT0
-7-iron_NN1-AJ0
+7-iron_NN1
 I_PNP
 said_VVD
 to_TO0
@@ -21330,7 +21330,7 @@ a_AT0
 British_AJ0
 Open_AJ0
 Tom_NP0
-equalled_VVD
+equalled_VVN
 the_AT0
 championship_NN1
 record_NN1
@@ -21591,7 +21591,7 @@ been_VBN
 struck_VVN
 with_PRP
 a_AT0
-sand-iron_NN1-AJ0
+sand-iron_NN1
 or_CJC
 a_AT0
 driver_NN1
@@ -21606,7 +21606,7 @@ of_PRF
 a_AT0
 major_AJ0
 league_NN1
-outfielder_NN1-VVB
+outfielder_NN1
 and_CJC
 that_CJT
 is_VBZ
@@ -21658,7 +21658,7 @@ he_PNP
 is_VBZ
 no_AT0
 circus_NN1
-act_VVI
+act_NN1
 as_CJS
 well_AV0
 as_CJS
@@ -21890,8 +21890,8 @@ his_DPS
 US_NP0
 operation_NN1
 the_AT0
-baseball-glove_AJ0-NN1
-specialist_NN1-AJ0
+baseball-glove_AJ0
+specialist_NN1
 looked_VVD
 for_PRP
 pastures_NN2
@@ -22111,7 +22111,7 @@ second_ORD
 shot_NN1
 into_PRP
 the_AT0
-Swilcan_AJ0-NN1
+Swilcan_NN1
 Burn_NN1
 Tom_NP0
 Watson_NP0
@@ -22160,7 +22160,7 @@ an_AT0
 aspiration_NN1
 had_VHD
 been_VBN
-snuffed_VVD
+snuffed_VVN
 out_AVP
 in_PRP
 the_AT0
@@ -22235,7 +22235,7 @@ so_AV0
 well_AV0
 at_PRP
 The_AT0
-Belfry_NN1-NP0
+Belfry_NN1
 Lawrence_NP0
 Batley_NP0
 International_AJ0
@@ -22282,7 +22282,7 @@ very_AV0
 well_AV0
 at_PRP
 The_AT0
-Belfry_NN1-NP0
+Belfry_NN1
 you_PNP
 could_VM0
 see_VVI
@@ -22339,7 +22339,7 @@ We_PNP
 were_VBD
 at_PRP
 The_AT0
-Belfry_NN1-NP0
+Belfry_NN1
 the_AT0
 week_NN1
 before_PRP
@@ -22348,7 +22348,7 @@ I_PNP
 was_VBD
 due_AJ0
 to_TO0
-fly_VVI
+fly_NN1
 from_PRP
 there_EX0
 up_AVP
@@ -22482,7 +22482,7 @@ and_CJC
 had_VHD
 time_NN1
 to_TO0
-walk_VVI
+walk_NN1
 round_AVP
 the_AT0
 course_NN1
@@ -22502,7 +22502,7 @@ needed_VVN
 to_TO0
 get_VVI
 the_AT0
-feel_VVI
+feel_VVB
 and_CJC
 my_DPS
 bearings_NN2
@@ -22584,7 +22584,7 @@ He_PNP
 shot_NN1
 a_AT0
 69_CRD
-three-under-par_NN1-AJ0
+three-under-par_NN1
 and_CJC
 although_CJS
 it_PNP
@@ -22607,7 +22607,7 @@ there_EX0
 at_PRP
 the_AT0
 finish_VVI
-Leading_VVG-AJ0
+Leading_VVG
 after_PRP
 day_NN1
 one_CRD
@@ -22652,7 +22652,7 @@ of_PRF
 Nick_NP0
 Faldo_NP0
 Lee_NP0
-Trevino_NP0-NN1
+Trevino_NP0
 and_CJC
 Ballesteros_NP0
 Tom_NP0
@@ -22719,7 +22719,7 @@ would_VM0
 be_VBI
 the_AT0
 last_ORD
-pairing_VVG-NN1
+pairing_NN1
 out_AVP
 following_AJ0
 Langer_NP0
@@ -22769,7 +22769,7 @@ second_ORD
 shot_NN1
 over_PRP
 the_AT0
-Swilcan_AJ0-NN1
+Swilcan_NN1
 Burn_NN1
 at_PRP
 the_AT0
@@ -22814,7 +22814,7 @@ was_VBD
 thinking_VVG
 it_PNP
 was_VBD
-one-up_PNI-CRD
+one-up_PNI
 to_TO0
 them_PNP
 I_PNP
@@ -22873,7 +22873,7 @@ seem_VVI
 to_TO0
 want_VVB
 to_TO0
-drop_VVI
+drop_NN1
 though_CJS
 We_PNP
 did_VDD
@@ -22919,7 +22919,7 @@ spinning_VVG
 back_AVP
 into_PRP
 the_AT0
-burn_VVI
+burn_NN1
 at_PRP
 the_AT0
 1st_ORD
@@ -22951,7 +22951,7 @@ putt_NN1
 would_VM0
 have_VHB
 to_TO0
-drop_VVI
+drop_NN1
 before_PRP
 long_AJ0
 and_CJC
@@ -23022,7 +23022,7 @@ length_NN1
 to_TO0
 putt_NN1
 to_TO0
-fall_VVI
+fall_NN1
 and_CJC
 I_PNP
 felt_VVD
@@ -23095,7 +23095,7 @@ We_PNP
 both_AV0
 thought_VVD
 an_AT0
-8-iron_NN1-AJ0
+8-iron_NN1
 would_VM0
 be_VBI
 enough_AV0
@@ -23156,7 +23156,7 @@ big_AJ0
 trouble_NN1
 with_PRP
 his_DPS
-drive_VVI
+drive_NN1
 at_PRP
 the_AT0
 12th_ORD
@@ -23533,7 +23533,7 @@ Seve_NP0
 hit_VVD
 a_AT0
 perfect_AJ0
-drive_VVI
+drive_NN1
 at_PRP
 the_AT0
 last_ORD
@@ -23546,7 +23546,7 @@ then_AV0
 only_AV0
 needed_VVN
 a_AT0
-pitching-wedge_AJ0-NN1
+pitching-wedge_NN1
 and_CJC
 he_PNP
 hit_VVD
@@ -23760,7 +23760,7 @@ Royal_AJ0
 St_NP0
 Georges_NP0
 1985_CRD
-Sandwich_NP0-NN1
+Sandwich_NN1
 The_AT0
 difference_NN1
 between_PRP
@@ -23854,7 +23854,7 @@ affable_AJ0
 philosopher_NN1
 who_PNQ
 will_VM0
-trot_VVI
+trot_NN1
 out_AVP
 an_AT0
 occasional_AJ0
@@ -23879,7 +23879,7 @@ Rudyard_NP0
 Kipling_NP0
 Dave_NP0
 's_POS
-favourite_AJ0-NN1
+favourite_AJ0
 analogy_NN1
 for_PRP
 carrying_VVG
@@ -24011,7 +24011,7 @@ is_VBZ
 carrying_VVG
 the_AT0
 bag_NN1
-Top-line_AJ0-NN1
+Top-line_AJ0
 caddying_VVG
 was_VBD
 at_PRP
@@ -24160,7 +24160,7 @@ in_PRP
 when_CJS
 the_AT0
 Argentinian_AJ0
-clinched_VVN-VVD
+clinched_VVN
 the_AT0
 Benson_NP0
 and_CJC
@@ -24201,7 +24201,7 @@ for_PRP
 Fernandez_NP0
 at_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Open_AJ0
 but_CJC
 Vicente_NP0
@@ -24334,7 +24334,7 @@ There_EX0
 Johnny_NP0
 Miller_NP0
 Tom_NP0
-Weiskopf_NP0-NN1
+Weiskopf_NP0
 and_CJC
 Seve_NP0
 All_DT0
@@ -24466,11 +24466,11 @@ Lytham_NP0
 he_PNP
 won_VVD
 the_AT0
-English_AJ0-NN1
+English_AJ0
 Classic_AJ0
 at_PRP
 The_AT0
-Belfry_NN1-NP0
+Belfry_NN1
 the_AT0
 first_ORD
 time_NN1
@@ -24484,12 +24484,12 @@ came_VVD
 second_ORD
 in_PRP
 the_AT0
-Scandinavian_AJ0-NN1
+Scandinavian_NN1
 Open_AJ0
 in_PRP
 Sweden_NP0
 The_AT0
-Belfry_NN1-NP0
+Belfry_NN1
 was_VBD
 cold_AJ0
 and_CJC
@@ -24524,7 +24524,7 @@ Ryder_NP0
 Cup_NN1
 and_CJC
 The_AT0
-Belfry_NN1-NP0
+Belfry_NN1
 if_CJS
 it_PNP
 was_VBD
@@ -24540,7 +24540,7 @@ it_PNP
 would_VM0
 be_VBI
 as_CJS
-average_AJ0-NN1
+average_AJ0
 as_CJS
 it_PNP
 looks_VVZ
@@ -24619,7 +24619,7 @@ Sweden_NP0
 to_TO0
 play_VVI
 the_AT0
-Scandinavian_AJ0-NN1
+Scandinavian_NN1
 Enterprise_NN1
 Open_AJ0
 and_CJC
@@ -24667,7 +24667,7 @@ Seve_NP0
 was_VBD
 playing_VVG
 and_CJC
-competing_VVG-AJ0
+competing_AJ0
 well_AV0
 He_PNP
 should_VM0
@@ -24858,7 +24858,7 @@ beaten_VVN
 If_CJS
 you_PNP
 can_VM0
-walk_VVI
+walk_NN1
 with_PRP
 kings_NN2
 and_CJC
@@ -25121,7 +25121,7 @@ Ken_NP0
 Brown_NP0
 and_CJC
 Lee_NP0
-Trevino_NP0-NN1
+Trevino_NP0
 It_PNP
 was_VBD
 the_AT0
@@ -25131,7 +25131,7 @@ imaginable_AJ0
 for_PRP
 so-called_AJ0
 summer_NN1
-Trevino_NP0-NN1
+Trevino_NP0
 still_AV0
 had_VHD
 his_DPS
@@ -25358,7 +25358,7 @@ said_VVD
 that_CJT
 about_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 the_AT0
 Italians_NN2
 the_AT0
@@ -25422,7 +25422,7 @@ are_VBB
 you_PNP
 Everybody_PNI
 was_VBD
-wrapped_VVN-VVD
+wrapped_VVN
 up_AVP
 like_PRP
 it_PNP
@@ -25432,7 +25432,7 @@ Arctic_AJ0
 You_PNP
 could_VM0
 n't_XX0
-feel_VVI
+feel_VVB
 your_DPS
 hands_NN2
 And_CJC
@@ -25594,12 +25594,12 @@ Then_AV0
 they_PNP
 all_DT0
 started_VVD
-challenging_VVG-AJ0
+challenging_VVG
 Isao_NP0
 Aoki_NP0
 Rodger_NP0
 Davis_NP0
-Crenshaw_NP0-NN1
+Crenshaw_NP0
 and_CJC
 Nicklaus_NP0
 It_PNP
@@ -25711,7 +25711,7 @@ Aoki_NP0
 came_VVD
 and_CJC
 went_VVD
-Crenshaw_NP0-NN1
+Crenshaw_NP0
 came_VVD
 up_AVP
 Davis_NP0
@@ -26019,7 +26019,7 @@ board_NN1
 told_VVD
 me_PNP
 that_CJT
-Crenshaw_NP0-NN1
+Crenshaw_NP0
 who_PNQ
 was_VBD
 nearest_AJS
@@ -26110,7 +26110,7 @@ I_PNP
 said_VVD
 to_TO0
 Seve_NP0
-Crenshaw_NP0-NN1
+Crenshaw_NP0
 's_POS
 just_AV0
 double-bogeyed_AJ0
@@ -26166,7 +26166,7 @@ the_AT0
 there_EX0
 's_POS
 a_AT0
-tractor-path_NN1-AJ0
+tractor-path_NN1
 between_PRP
 two_CRD
 fairways_NN2
@@ -26177,7 +26177,7 @@ the_AT0
 cars_NN2
 Seve_NP0
 's_POS
-drive_VVI
+drive_NN1
 was_VBD
 50_CRD
 yards_NN2
@@ -26298,7 +26298,7 @@ land_NN1
 the_AT0
 ball_NN1
 He_PNP
-paced_VVD
+paced_VVN
 it_PNP
 back_AVP
 and_CJC
@@ -26323,7 +26323,7 @@ out_AVP
 where_AVQ
 he_PNP
 could_VM0
-drop_VVI
+drop_NN1
 on_PRP
 the_AT0
 tractor_NN1
@@ -26615,7 +26615,7 @@ bushes_NN2
 Seve_NP0
 hit_VVD
 a_AT0
-3-wood_NN1-AJ0
+3-wood_NN1
 and_CJC
 hooked_VVN
 it_PNP
@@ -26653,13 +26653,13 @@ I_PNP
 'm_VBB
 like_PRP
 the_AT0
-ice-man_NN1-AJ0
+ice-man_NN1
 and_CJC
 he_PNP
 's_POS
 still_AV0
 at_PRP
-boiling-point_NN1-AJ0
+boiling-point_AJ0
 He_PNP
 hacks_VVZ
 forward_AV0
@@ -26670,7 +26670,7 @@ if_CJS
 it_PNP
 was_VBD
 a_AT0
-5-iron_NN1-AJ0
+5-iron_NN1
 I_PNP
 'd_VM0
 agreed_VVD
@@ -26757,7 +26757,7 @@ it_PNP
 I_PNP
 won_VVD
 Harry_NP0
-Carpenter_NP0-NN1
+Carpenter_NP0
 came_VVD
 up_AVP
 to_TO0
@@ -26825,7 +26825,7 @@ Michael_NP0
 King_NP0
 and_CJC
 Manuel_NP0
-Calero_NP0-NN1
+Calero_NP0
 then_AV0
 he_PNP
 made_VVN
@@ -26902,7 +26902,7 @@ him_PNP
 The_AT0
 following_AJ0
 year_NN1
-Calero_NP0-NN1
+Calero_NP0
 looked_VVD
 like_PRP
 getting_VVG
@@ -26939,9 +26939,9 @@ talking_VVG
 to_TO0
 him_PNP
 again_AV0
-Calero_NP0-NN1
+Calero_NP0
 was_VBD
-struggling_VVG-AJ0
+struggling_VVG
 and_CJC
 I_PNP
 said_VVD
@@ -27041,7 +27041,7 @@ in_PRP
 1982_CRD
 full_AJ0
 time_NN1
-Caddying_NN1-VVG
+Caddying_VVG
 for_PRP
 Sandy_NP0
 is_VBZ
@@ -27100,11 +27100,11 @@ week_NN1
 I_PNP
 did_VDD
 n't_XX0
-feel_VVI
+feel_VVB
 like_PRP
 that_CJT
 after_PRP
-Sandwich_NP0-NN1
+Sandwich_NN1
 You_PNP
 can_VM0
 talk_VVI
@@ -27414,7 +27414,7 @@ going_VVG
 to_TO0
 come_VVI
 up_AVP
-trumps_VVZ-NN2
+trumps_VVZ
 straight_AV0
 away_AV0
 in_PRP
@@ -27494,7 +27494,7 @@ Then_AV0
 there_EX0
 was_VBD
 Nick_NP0
-Price_NP0-NN1
+Price_NP0
 of_PRF
 course_NN1
 There_EX0
@@ -27611,10 +27611,10 @@ home_NN1
 play_VVI
 in_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Open_AJ0
 The_AT0
-Belfry_NN1-NP0
+Belfry_NN1
 and_CJC
 then_AV0
 the_AT0
@@ -27679,7 +27679,7 @@ St_NP0
 Germain_NP0
 for_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Open_AJ0
 Seve_NP0
 won_VVD
@@ -27706,7 +27706,7 @@ I_PNP
 got_VVN
 second_ORD
 place_NN1
-wrapped_VVN-VVD
+wrapped_VVN
 up_AVP
 for_PRP
 the_AT0
@@ -27730,7 +27730,7 @@ St_NP0
 Germain_NP0
 At_PRP
 The_AT0
-Belfry_NN1-NP0
+Belfry_NN1
 Sandy_NP0
 had_VHD
 three_CRD
@@ -28048,7 +28048,7 @@ club_NN1
 acquired_VVN
 from_PRP
 Eamonn_NP0
-Darcy_NP0-NN1
+Darcy_NP0
 only_AV0
 a_AT0
 month_NN1
@@ -28285,7 +28285,7 @@ and_CJC
 then_AV0
 Sandy_NP0
 and_CJC
-Christy_NP0-NN1
+Christy_NP0
 on_PRP
 212_CRD
 as_CJS
@@ -28311,7 +28311,7 @@ to_TO0
 be_VBI
 playing_VVG
 with_PRP
-Christy_NP0-NN1
+Christy_NP0
 tomorrow_AV0
 It_PNP
 's_POS
@@ -28382,7 +28382,7 @@ felt_VVD
 At_PRP
 that_CJT
 10th_ORD
-Christy_NP0-NN1
+Christy_NP0
 says_VVZ
 to_TO0
 Sandy_NP0
@@ -28412,7 +28412,7 @@ we_PNP
 can_VM0
 do_VDB
 it_PNP
-Christy_NP0-NN1
+Christy_NP0
 was_VBD
 playing_VVG
 unbelievable_AJ0
@@ -28420,7 +28420,7 @@ golf_NN1
 but_CJC
 nothing_PNI
 would_VM0
-drop_VVI
+drop_NN1
 for_PRP
 him_PNP
 I_PNP
@@ -28443,7 +28443,7 @@ n't_XX0
 hole_NN1
 a_AT0
 putt_NN1
-Christy_NP0-NN1
+Christy_NP0
 's_POS
 words_NN2
 came_VVD
@@ -28474,7 +28474,7 @@ left-hand_AJ0
 rough_AJ0
 It_PNP
 's_POS
-knee-deep_AV0-AJ0
+knee-deep_AV0
 and_CJC
 reedy_AJ0
 Horrible_AJ0
@@ -28507,7 +28507,7 @@ decides_VVZ
 it_PNP
 's_POS
 a_AT0
-2-iron_NN1-AJ0
+2-iron_NN1
 to_TO0
 get_VVI
 to_TO0
@@ -28557,9 +28557,9 @@ Sandy_NP0
 hit_VVD
 a_AT0
 fantastic_AJ0
-drive_VVI
+drive_NN1
 outdriving_VVG
-Christy_NP0-NN1
+Christy_NP0
 by_PRP
 50_CRD
 or_CJC
@@ -28567,7 +28567,7 @@ or_CJC
 yards_NN2
 In_PRP
 fact_NN1
-Christy_NP0-NN1
+Christy_NP0
 's_POS
 hitting_VVG
 a_AT0
@@ -28597,7 +28597,7 @@ the_AT0
 left_VVN
 no_AT0
 chance_NN1
-Christy_NP0-NN1
+Christy_NP0
 's_POS
 caddie_NN1
 's_POS
@@ -28605,7 +28605,7 @@ desperately_AV0
 shouting_VVG
 fore_NN1
 but_CJC
-Christy_NP0-NN1
+Christy_NP0
 tells_VVZ
 him_PNP
 to_TO0
@@ -28621,7 +28621,7 @@ Sandy_NP0
 then_AV0
 hits_VVZ
 a_AT0
-6-iron_NN1-AJ0
+6-iron_AJ0
 for_PRP
 his_DPS
 second_ORD
@@ -28631,7 +28631,7 @@ you_PNP
 how_AVQ
 long_AJ0
 his_DPS
-drive_VVI
+drive_NN1
 was_VBD
 He_PNP
 had_VHD
@@ -28747,7 +28747,7 @@ all_DT0
 that_CJT
 hard_AJ0
 a_AT0
-5-iron_NN1-AJ0
+5-iron_NN1
 so_AV0
 he_PNP
 came_VVD
@@ -29062,7 +29062,7 @@ It_PNP
 meant_VVD
 the_AT0
 US_NP0
-Tour_NN1-VVB
+Tour_NN1
 and_CJC
 that_CJT
 meant_VVD
@@ -29258,7 +29258,7 @@ about_PRP
 six_CRD
 spectators_NN2
 After_PRP
-Sandwich_NP0-NN1
+Sandwich_NN1
 it_PNP
 was_VBD
 just_AV0
@@ -29761,7 +29761,7 @@ big_AJ0
 Australian_AJ0
 this_DT0
 major_AJ0
-Experience_NN1-VVB
+Experience_NN1
 was_VBD
 something_PNI
 of_PRF
@@ -29805,7 +29805,7 @@ was_VBD
 18_CRD
 years_NN2
 old_AJ0
-Raised_AJ0-VVN
+Raised_VVN
 in_PRP
 Santa_NP0
 Cruz_NP0
@@ -29890,7 +29890,7 @@ to_TO0
 work_NN1
 for_PRP
 a_AT0
-pro_NN1-AJ0
+pro_NN1
 in_PRP
 the_AT0
 tournament_NN1
@@ -29905,7 +29905,7 @@ Crosby_NP0
 I_PNP
 carried_VVN
 Frank_NP0
-Beard_NN1-NP0
+Beard_NN1
 's_POS
 bag_NN1
 We_PNP
@@ -29927,7 +29927,7 @@ following_AJ0
 week_NN1
 the_AT0
 US_NP0
-Tour_NN1-VVB
+Tour_NN1
 moved_VVD
 to_TO0
 Los_NP0
@@ -30227,7 +30227,7 @@ for_PRP
 him_PNP
 at_PRP
 Muirfield_NP0
-Village_NN1-NP0
+Village_NN1
 Even_AV0
 though_CJS
 this_DT0
@@ -30248,7 +30248,7 @@ event_NN1
 of_PRF
 1983_CRD
 the_AT0
-Chrysler_NP0-NN1
+Chrysler_NP0
 Invitation_NN1
 and_CJC
 start_NN1
@@ -30280,7 +30280,7 @@ the_AT0
 cut_VVN
 at_PRP
 Muirfield_NP0
-Village_NN1-NP0
+Village_NN1
 Afterwards_AV0
 we_PNP
 flew_VVD
@@ -30594,10 +30594,10 @@ guy_NN1
 on_PRP
 the_AT0
 US_NP0
-Tour_NN1-VVB
+Tour_NN1
 who_PNQ
 can_VM0
-drive_VVI
+drive_NN1
 as_CJS
 far_AV0
 as_CJS
@@ -30807,7 +30807,7 @@ did_VDD
 n't_XX0
 draw_VVI
 the_AT0
-short-straw_NN1-AJ0
+short-straw_NN1
 but_CJC
 the_AT0
 weather_NN1
@@ -30854,7 +30854,7 @@ to_TO0
 take_VVI
 a_AT0
 74_CRD
-four-over-par_NN1-AJ0
+four-over-par_AJ0
 That_DT0
 put_VVI
 us_PNP
@@ -30867,7 +30867,7 @@ handy_AJ0
 In_PRP
 fact_NN1
 the_AT0
-two-over-par_AJ0-NN1
+two-over-par_NN1
 score_NN1
 proved_VVN
 to_TO0
@@ -30915,11 +30915,11 @@ and_CJC
 deep_AJ0
 dune_NN1
 grass_NN1
-fringing_AJ0
+fringing_VVG
 them_PNP
 and_CJC
 Craig_NP0
-Stadler_NP0-NN1
+Stadler_NP0
 who_PNQ
 shot_NN1
 an_AT0
@@ -30935,7 +30935,7 @@ with_PRP
 a_AT0
 sprained_AJ0
 wrist_NN1
-Stadler_NP0-NN1
+Stadler_NP0
 blamed_VVN
 the_AT0
 clinging_VVG
@@ -30946,7 +30946,7 @@ injury_NN1
 Another_DT0
 one_CRD
 to_TO0
-fall_VVI
+fall_NN1
 by_PRP
 the_AT0
 wayside_NN1
@@ -31024,7 +31024,7 @@ on_PRP
 to_TO0
 inflict_VVI
 a_AT0
-body-blow_NN1-AJ0
+body-blow_AJ0
 on_PRP
 the_AT0
 course_NN1
@@ -31044,7 +31044,7 @@ the_AT0
 form_NN1
 of_PRF
 a_AT0
-7-under-par_NN1-AJ0
+7-under-par_NN1
 63_CRD
 for_PRP
 the_AT0
@@ -31253,7 +31253,7 @@ Greg_NP0
 hit_VVD
 a_AT0
 good_AJ0
-drive_VVI
+drive_NN1
 at_PRP
 the_AT0
 18th_ORD
@@ -31261,7 +31261,7 @@ and_CJC
 then_AV0
 put_VVI
 a_AT0
-3-iron_NN1-AJ0
+3-iron_NN1
 on_PRP
 the_AT0
 green_AJ0
@@ -31690,7 +31690,7 @@ start_NN1
 we_PNP
 hit_VVD
 a_AT0
-1-iron_NN1-AJ0
+1-iron_NN1
 off_AVP
 the_AT0
 tee_NN1
@@ -31731,7 +31731,7 @@ feet_NN2
 and_CJC
 made_VVN
 a_AT0
-double-bogey_NN1-AJ0
+double-bogey_NN1
 at_PRP
 the_AT0
 very_AV0
@@ -31746,7 +31746,7 @@ It_PNP
 opened_VVD
 up_AVP
 a_AT0
-three-shot_AJ0-NN1
+three-shot_NN1
 lead_VVI
 going_VVG
 into_PRP
@@ -31864,7 +31864,7 @@ This_DT0
 opened_VVD
 up_AVP
 a_AT0
-four-shot_AJ0-NN1
+four-shot_AJ0
 lead_VVI
 but_CJC
 at_PRP
@@ -31920,7 +31920,7 @@ hit_VVD
 a_AT0
 low_AJ0
 snap_VVI
-duck-hook_NN1-AJ0
+duck-hook_AJ0
 off_AVP
 the_AT0
 tee_NN1
@@ -32033,13 +32033,13 @@ we_PNP
 caught_VVN
 a_AT0
 good_AJ0
-lie_VVI
+lie_VVB
 so_AV0
 he_PNP
 can_VM0
 hit_VVD
 a_AT0
-pitching-wedge_AJ0-NN1
+pitching-wedge_NN1
 back_AVP
 on_PRP
 to_TO0
@@ -32097,7 +32097,7 @@ You_PNP
 're_VBB
 playing_VVG
 too_AV0
-fast_AV0-AJ0
+fast_AJ0
 right_NN1
 now_AV0
 You_PNP
@@ -32169,7 +32169,7 @@ still_AV0
 walking_VVG
 kind_NN1
 of_PRF
-fast_AV0-AJ0
+fast_AJ0
 so_AV0
 I_PNP
 grabbed_VVD
@@ -32192,7 +32192,7 @@ Whoa_ITJ
 Slow_AJ0
 up_AVP
 and_CJC
-walk_VVI
+walk_NN1
 my_DPS
 pace_NN1
 Let's_VM0
@@ -32217,7 +32217,7 @@ joke_NN1
 He_PNP
 started_VVD
 to_TO0
-laugh_VVI
+laugh_NN1
 and_CJC
 joked_VVD
 back_AVP
@@ -32273,7 +32273,7 @@ par-4_CRD
 he_PNP
 hit_VVD
 a_AT0
-4-iron_NN1-AJ0
+4-iron_NN1
 second_ORD
 shot_NN1
 about_PRP
@@ -32294,7 +32294,7 @@ to_TO0
 open_AJ0
 up_AVP
 a_AT0
-four-shot_AJ0-NN1
+four-shot_AJ0
 lead_VVI
 I_PNP
 looked_VVD
@@ -32355,7 +32355,7 @@ the_AT0
 one_CRD
 which_DTQ
 finally_AV0
-sealed_AJ0
+sealed_VVN
 Greg_NP0
 's_POS
 win_VVI
@@ -32373,7 +32373,7 @@ he_PNP
 caught_VVN
 a_AT0
 good_AJ0
-lie_VVI
+lie_VVB
 I_PNP
 think_VVB
 I_PNP
@@ -32381,7 +32381,7 @@ said_VVD
 it_PNP
 was_VBD
 a_AT0
-6-iron_NN1-AJ0
+6-iron_AJ0
 or_CJC
 maybe_AV0
 a_AT0
@@ -32409,7 +32409,7 @@ bounce_NN1
 it_PNP
 hit_VVD
 the_AT0
-flag-stick_NN1-AJ0
+flag-stick_NN1
 and_CJC
 dropped_VVN
 about_PRP
@@ -32542,7 +32542,7 @@ he_PNP
 was_VBD
 taking_VVG
 a_AT0
-drop_VVI
+drop_NN1
 We_PNP
 sat_VVD
 down_AVP
@@ -32781,7 +32781,7 @@ hit_VVD
 driver_NN1
 Hit_NN1
 a_AT0
-1-iron_NN1-AJ0
+1-iron_NN1
 short_AJ0
 of_PRF
 the_AT0
@@ -32792,7 +32792,7 @@ can_VM0
 probably_AV0
 hit_VVD
 a_AT0
-4-iron_NN1-AJ0
+4-iron_NN1
 in_PRP
 Let's_VM0
 not_XX0
@@ -32809,7 +32809,7 @@ says_VVZ
 Okay_AV0
 takes_VVZ
 a_AT0
-1-iron_NN1-AJ0
+1-iron_NN1
 and_CJC
 leaves_VVZ
 it_PNP
@@ -32839,7 +32839,7 @@ some_DT0
 time_NN1
 The_AT0
 crowd_NN1
-closed_VVD
+closed_VVN
 in_PRP
 on_PRP
 us_PNP
@@ -33043,7 +33043,7 @@ in_PRP
 my_DPS
 house_NN1
 Andy_NP0
-Prodger_NP0-NN1
+Prodger_NP0
 Nick_NP0
 Faldo_NP0
 Muirfield_NP0
@@ -33061,7 +33061,7 @@ to_TO0
 me_PNP
 and_CJC
 said_VVD
-Stick_VVB-NN1
+Stick_VVB
 with_PRP
 me_PNP
 Andy_NP0
@@ -33074,7 +33074,7 @@ a_AT0
 millionaire_NN1
 I_PNP
 said_VVD
-Stick_VVB-NN1
+Stick_VVB
 with_PRP
 me_PNP
 Nick_NP0
@@ -33090,7 +33090,7 @@ success_NN1
 for_PRP
 caddie_NN1
 Andy_NP0
-Prodger_NP0-NN1
+Prodger_NP0
 and_CJC
 Open_AJ0
 champion_NN1
@@ -33144,7 +33144,7 @@ of_PRF
 the_AT0
 Prodger-Faldo_NP0
 relationship_NN1
-yielded_VVD-VVN
+yielded_VVD
 the_AT0
 fruits_NN2
 of_PRF
@@ -33234,7 +33234,7 @@ title_NN1
 in_PRP
 1989_CRD
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Opens_NN2
 of_PRF
 1988_CRD
@@ -33257,7 +33257,7 @@ Nick_NP0
 bag_NN1
 in_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 Dunhill_NP0
 Cup_NN1
 win_VVI
@@ -33278,7 +33278,7 @@ US_NP0
 in_PRP
 the_AT0
 Muirfield_NP0
-Village_NN1-NP0
+Village_NN1
 Ryder_NP0
 Cup_NN1
 and_CJC
@@ -33291,7 +33291,7 @@ countries_NN2
 tied_VVN
 at_PRP
 The_AT0
-Belfry_NN1-NP0
+Belfry_NN1
 They_PNP
 were_VBD
 also_AV0
@@ -33326,11 +33326,11 @@ he_PNP
 won_VVD
 the_AT0
 1984_CRD
-Phoenix_NP0-NN1
+Phoenix_NP0
 Open_AJ0
 with_PRP
 Craig_NP0
-Stadler_NP0-NN1
+Stadler_NP0
 from_PRP
 the_AT0
 US_NP0
@@ -33378,7 +33378,7 @@ in_PRP
 1987_CRD
 For_PRP
 the_AT0
-diminutive_AJ0-NN1
+diminutive_AJ0
 Andy_NP0
 people_NN0
 often_AV0
@@ -33388,7 +33388,7 @@ he_PNP
 hauls_VVZ
 around_PRP
 the_AT0
-pro_NN1-AJ0
+pro_NN1
 bags_NN2
 that_CJT
 stand_VVI
@@ -33440,7 +33440,7 @@ the_AT0
 grade_NN1
 as_CJS
 a_AT0
-pro_NN1-AJ0
+pro_NN1
 and_CJC
 so_AV0
 took_VVD
@@ -33589,7 +33589,7 @@ by_PRP
 then_AV0
 an_AT0
 assistant_NN1
-pro_NN1-AJ0
+pro_NN1
 in_PRP
 its_DPS
 fullest_AJS
@@ -33808,7 +33808,7 @@ life_NN1
 I_PNP
 even_AV0
 tried_VVD
-window-cleaning_NN1-AJ0
+window-cleaning_AJ0
 but_CJC
 that_CJT
 did_VDD
@@ -33888,7 +33888,7 @@ to_TO0
 caddie_NN1
 for_PRP
 Craig_NP0
-Defoy_NP0-NN1
+Defoy_NP0
 It_PNP
 took_VVD
 two_CRD
@@ -33929,7 +33929,7 @@ I_PNP
 caddied_VVD
 for_PRP
 Roger_NP0
-Fidler_NP0-NN1
+Fidler_NN1
 in_PRP
 the_AT0
 1977_CRD
@@ -34107,7 +34107,7 @@ I_PNP
 'll_VM0
 pay_VVI
 your_DPS
-air-fare_NN1-AJ0
+air-fare_NN1
 and_CJC
 you_PNP
 wo_VM0
@@ -34192,7 +34192,7 @@ an_AT0
 interview_NN1
 that_CJT
 Andy_NP0
-Prodger_NP0-NN1
+Prodger_NP0
 has_VHZ
 been_VBN
 great_AJ0
@@ -34315,7 +34315,7 @@ to_TO0
 get_VVI
 his_DPS
 US_NP0
-Tour_NN1-VVB
+Tour_NN1
 card_NN1
 that_CJT
 year_NN1
@@ -34507,7 +34507,7 @@ to_TO0
 win_VVI
 the_AT0
 1984_CRD
-Phoenix_NP0-NN1
+Phoenix_NP0
 Open_AJ0
 in_PRP
 his_DPS
@@ -34780,7 +34780,7 @@ was_VBD
 after_PRP
 all_DT0
 a_AT0
-second-rate_NN1-AJ0
+second-rate_AJ0
 event_NN1
 while_CJS
 the_AT0
@@ -34886,7 +34886,7 @@ to_TO0
 me_PNP
 I_PNP
 just_AV0
-feel_VVI
+feel_VVB
 it_PNP
 's_POS
 all_DT0
@@ -34927,7 +34927,7 @@ the_AT0
 first_ORD
 rounds_NN2
 Nick_NP0
-Price_NP0-NN1
+Price_NP0
 and_CJC
 Ray_NP0
 Floyd_NP0
@@ -35035,7 +35035,7 @@ trying_VVG
 to_TO0
 get_VVI
 a_AT0
-feel_VVI
+feel_VVB
 for_PRP
 the_AT0
 course_NN1
@@ -35514,7 +35514,7 @@ hit_VVD
 more_AV0
 than_CJS
 a_AT0
-1-iron_NN1-AJ0
+1-iron_NN1
 off_AVP
 the_AT0
 tee_NN1
@@ -35721,7 +35721,7 @@ were_VBD
 paired_VVN
 with_PRP
 Craig_NP0
-Stadler_NP0-NN1
+Stadler_NP0
 It_PNP
 was_VBD
 n't_XX0
@@ -35737,7 +35737,7 @@ was_VBD
 a_AT0
 good_AJ0
 old_AJ0
-Scotch_NN1-AJ0
+Scotch_NN1
 mist_NN1
 and_CJC
 it_PNP
@@ -35997,7 +35997,7 @@ wanted_VVD
 to_TO0
 hit_VVD
 a_AT0
-4-iron_NN1-AJ0
+4-iron_NN1
 but_CJC
 I_PNP
 thought_VVD
@@ -36033,7 +36033,7 @@ I_PNP
 said_VVD
 Hit_NN1
 a_AT0
-3-iron_NN1-AJ0
+3-iron_NN1
 If_CJS
 you_PNP
 get_VVI
@@ -36077,7 +36077,7 @@ of_PRF
 these_DT0
 on_PRP
 its_DPS
-down-slope_NN1-AJ0
+down-slope_NN1
 His_DPS
 ball_NN1
 bounced_VVD
@@ -36222,7 +36222,7 @@ six_CRD
 feet_NN2
 You_PNP
 could_VM0
-feel_VVI
+feel_VVB
 the_AT0
 crowd_NN1
 willing_AJ0
@@ -36239,7 +36239,7 @@ I_PNP
 was_VBD
 beginning_NN1
 to_TO0
-feel_VVI
+feel_VVB
 it_PNP
 was_VBD
 slipping_VVG
@@ -36460,7 +36460,7 @@ I_PNP
 believe_VVB
 was_VBD
 a_AT0
-4-iron_NN1-AJ0
+4-iron_NN1
 and_CJC
 pulled_VVD
 his_DPS
@@ -36549,7 +36549,7 @@ we_PNP
 'd_VM0
 won_VVD
 He_PNP
-darned_AJ0
+darned_VVD
 nearly_AV0
 did_VDD
 it_PNP
@@ -36610,7 +36610,7 @@ believe_VVB
 he_PNP
 had_VHD
 a_AT0
-cry_VVI
+cry_NN1
 in_PRP
 there_EX0
 when_CJS
@@ -36706,7 +36706,7 @@ the_AT0
 presentation_NN1
 about_PRP
 the_AT0
-unsporting_AJ0-NN1
+unsporting_AJ0
 behaviour_NN1
 of_PRF
 some_DT0
@@ -36735,7 +36735,7 @@ disappointment_NN1
 for_PRP
 me_PNP
 was_VBD
-missing_VVG-AJ0
+missing_VVG
 the_AT0
 traditional_AJ0
 breaking_VVG
@@ -36797,8 +36797,8 @@ the_AT0
 same_DT0
 You_PNP
 do_VDB
-regret_VVI
-missing_VVG-AJ0
+regret_NN1
+missing_VVG
 the_AT0
 buzz_UNC
 Well_AV0
@@ -36820,7 +36820,7 @@ this_DT0
 mean_VVI
 to_TO0
 Andy_NP0
-Prodger_NP0-NN1
+Prodger_NP0
 It_PNP
 meant_VVD
 I_PNP

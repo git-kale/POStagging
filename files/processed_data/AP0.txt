@@ -130,7 +130,7 @@ moments_NN2
 when_CJS
 he_PNP
 can_VM0
-scare_VVI
+scare_NN1
 the_AT0
 living_VVG
 daylights_NN2
@@ -157,7 +157,7 @@ a_AT0
 relaxed_AJ0
 drawl_NN1
 eyebrows_NN2
-half-cocked_NN1-AJ0
+half-cocked_NN1
 this_DT0
 time_NN1
 and_CJC
@@ -301,14 +301,14 @@ That_DT0
 's_POS
 the_AT0
 image_NN1
-Womanizer_NN1-NP0
+Womanizer_NP0
 Is_VBZ
 it_PNP
 true_AJ0
 Of_PRF
 course_NN1
 but_CJC
-exaggerated_AJ0
+exaggerated_VVN
 Does_VDZ
 he_PNP
 encourage_VVI
@@ -541,7 +541,7 @@ hair_NN1
 showed_VVD
 signs_NN2
 of_PRF
-receding_VVG-AJ0
+receding_VVG
 and_CJC
 because_CJS
 it_PNP
@@ -606,7 +606,7 @@ signs_NN2
 of_PRF
 a_AT0
 middle-aged_AJ0
-spread_NN1
+spread_VVN
 not_XX0
 being_VBG
 tall_AJ0
@@ -758,7 +758,7 @@ She_PNP
 met_VVD
 you_PNP
 in_PRP
-Aspen_NP0-NN1
+Aspen_NN1
 and_CJC
 you_PNP
 told_VVD
@@ -788,7 +788,7 @@ lot_NN1
 of_PRF
 girls_NN2
 in_PRP
-Aspen_NP0-NN1
+Aspen_NN1
 Take_VVB
 her_DPS
 name_NN1
@@ -860,7 +860,7 @@ The_AT0
 mood_NN1
 is_VBZ
 relaxed_AJ0
-Coltrane_NN1-NP0
+Coltrane_NP0
 is_VBZ
 blowing_VVG
 softly_AV0
@@ -872,7 +872,7 @@ secretary_NN1
 interrupts_VVZ
 and_CJC
 says_VVZ
-Telephone_VVB-NN1
+Telephone_NN1
 Jack_NP0
 will_VM0
 you_PNP
@@ -1022,7 +1022,7 @@ him_PNP
 to_TO0
 play_VVI
 The_AT0
-Joker_NP0-NN1
+Joker_NP0
 in_PRP
 Batman_NP0
 I_PNP
@@ -1069,7 +1069,7 @@ is_VBZ
 the_AT0
 most_AV0
 highly_AV0
-sexed_VVD-AJ0
+sexed_VVD
 individual_AJ0
 I_PNP
 ever_AV0
@@ -1101,7 +1101,7 @@ extreme_AJ0
 male_AJ0
 chauvinism_NN1
 and_CJC
-damaging_VVG-AJ0
+damaging_AJ0
 their_DPS
 dignity_NN1
 His_DPS
@@ -1193,7 +1193,7 @@ sold_VVN
 her_DPS
 story_NN1
 to_TO0
-Playboy_NP0-NN1
+Playboy_NN1
 magazine_NN1
 in_PRP
 America_NP0
@@ -1214,14 +1214,14 @@ him_PNP
 Her_DPS
 story_NN1
 was_VBD
-plastered_VVD
+plastered_VVN
 all_DT0
 over_PRP
 the_AT0
 December_NP0
 issue_NN1
 of_PRF
-Playboy_NP0-NN1
+Playboy_NN1
 and_CJC
 every_AT0
 time_NN1
@@ -1274,7 +1274,7 @@ weeks_NN2
 earlier_AJC
 they_PNP
 had_VHD
-devoted_AJ0-VVN
+devoted_AJ0
 a_AT0
 page_NN1
 to_TO0
@@ -1306,8 +1306,8 @@ playing_VVG
 daddy_NN1
 but_CJC
 the_AT0
-bed-jumping_AJ0-NN1
-Joker_NP0-NN1
+bed-jumping_NN1
+Joker_NP0
 has_VHZ
 flatly_AV0
 told_VVD
@@ -1352,7 +1352,7 @@ that_CJT
 she_PNP
 had_VHD
 been_VBN
-humiliated_AJ0-VVN
+humiliated_VVN
 for_PRP
 the_AT0
 very_AV0
@@ -1465,7 +1465,7 @@ Hugh_NP0
 Hefner_NP0
 owner_NN1
 of_PRF
-Playboy_NP0-NN1
+Playboy_NN1
 Then_AV0
 there_EX0
 was_VBD
@@ -1544,7 +1544,7 @@ overcoat_NN1
 of_PRF
 gloss_NN1
 and_CJC
-glitz_NN1-VVB
+glitz_NN1
 that_CJT
 hides_VVZ
 the_AT0
@@ -1658,7 +1658,7 @@ asserts_VVZ
 an_AT0
 actor_NN1
 has_VHZ
-inscribed_AJ0
+inscribed_VVN
 upon_PRP
 popular_AJ0
 history_NN1
@@ -1822,7 +1822,7 @@ many_DT0
 more_AV0
 adventurous_AJ0
 and_CJC
-challenging_VVG-AJ0
+challenging_VVG
 boundaries_NN2
 from_PRP
 the_AT0
@@ -1838,7 +1838,7 @@ famous_AJ0
 portrayal_NN1
 of_PRF
 The_AT0
-Joker_NP0-NN1
+Joker_NP0
 in_PRP
 Batman_NP0
 and_CJC
@@ -1927,7 +1927,7 @@ fame_NN1
 the_AT0
 drug_NN1
 infested_AJ0
-anti-establishment_AJ0-NN1
+anti-establishment_NN1
 set_VVN
 of_PRF
 the_AT0
@@ -1956,7 +1956,7 @@ in_PRP
 a_AT0
 cloud_NN1
 of_PRF
-head-spinning_AJ0-NN1
+head-spinning_AJ0
 smoke_NN1
 at_PRP
 a_AT0
@@ -1984,7 +1984,7 @@ the_AT0
 American_AJ0
 anti-hero_NN1
 the_AT0
-spit-in-your-eye_AJ0-NN1
+spit-in-your-eye_AJ0
 champion_NN1
 of_PRF
 counter-culture_NN1
@@ -2010,7 +2010,7 @@ since_CJS
 Montgomery_NP0
 Clift_NP0
 Marlon_NP0
-Brando_NP0-NN1
+Brando_NP0
 and_CJC
 James_NP0
 Dean_NP0
@@ -2176,7 +2176,7 @@ signs_NN2
 will_VM0
 verify_VVI
 the_AT0
-cuspate_AJ0-NN1
+cuspate_AJ0
 divisions_NN2
 help_VVI
 explain_VVI
@@ -2524,7 +2524,7 @@ him_PNP
 a_AT0
 real_AJ0
 deep_AJ0
-hurt_VVI
+hurt_VVN
 inside_PRP
 there_EX0
 's_POS
@@ -2556,7 +2556,7 @@ then_AV0
 discarded_VVN
 to_TO0
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 of_PRF
 his_DPS
 mind_NN1
@@ -2718,7 +2718,7 @@ the_AT0
 sort_NN1
 recommended_VVN
 by_PRP
-vegetarian_AJ0-NN1
+vegetarian_AJ0
 cranks_NN2
 in_PRP
 sandals_NN2
@@ -2916,7 +2916,7 @@ strong_AJ0
 and_CJC
 wealthy_AJ0
 Dutch_AJ0
-Protestant_AJ0-NN1
+Protestant_AJ0
 stock_NN1
 a_AT0
 religious_AJ0
@@ -2939,8 +2939,8 @@ and_CJC
 married_AJ0
 a_AT0
 handsome_AJ0
-Roman_AJ0-NN1
-Catholic_AJ0-NN1
+Roman_AJ0
+Catholic_AJ0
 a_AT0
 rakish_AJ0
 sign_NN1
@@ -3160,17 +3160,17 @@ of_PRF
 her_DPS
 father_NN1
 's_POS
-wanderlust_VVB-NN1
+wanderlust_NN1
 and_CJC
 had_VHD
 a_AT0
-yearning_VVG
+yearning_NN1
 for_PRP
 show_VVI
 business_NN1
 A_AT0
 one-time_AJ0
-Italian_AJ0-NN1
+Italian_AJ0
 band_NN1
 singer_NN1
 Donald_NP0
@@ -3386,7 +3386,7 @@ of_PRF
 June_NP0
 went_VVD
 to_TO0
-Bellevue_NP0-NN1
+Bellevue_NN1
 in_PRP
 Manhattan_NP0
 to_TO0
@@ -3433,7 +3433,7 @@ longer_AV0
 around_PRP
 to_TO0
 become_VVI
-involved_AJ0
+involved_VVN
 in_PRP
 his_DPS
 son_NN1
@@ -3456,7 +3456,7 @@ become_VVI
 an_AT0
 Earl_NN1
 Carroll_NP0
-showgirl_NN1-VVB
+showgirl_NN1
 in_PRP
 Miami_NP0
 Lorraine_NP0
@@ -3475,7 +3475,7 @@ to_TO0
 whom_PNQ
 she_PNP
 remained_VVD
-devoted_AJ0-VVN
+devoted_AJ0
 for_PRP
 the_AT0
 rest_NN1
@@ -3563,7 +3563,7 @@ his_DPS
 life_NN1
 was_VBD
 nicknamed_VVN
-Shorty_NN1-NP0
+Shorty_NN1
 This_DT0
 continued_VVD
 into_PRP
@@ -3726,7 +3726,7 @@ poor_AJ0
 old_AJ0
 guy_NN1
 I_PNP
-feel_VVI
+feel_VVB
 sorry_AJ0
 for_PRP
 him_PNP
@@ -3767,7 +3767,7 @@ in_PRP
 California_NP0
 did_VDD
 not_XX0
-fly_VVI
+fly_NN1
 east_NN1
 for_PRP
 the_AT0
@@ -4131,7 +4131,7 @@ Stubbornness_NN1
 was_VBD
 an_AT0
 early_AJ0
-characteristic_AJ0-NN1
+characteristic_NN1
 as_CJS
 was_VBD
 the_AT0
@@ -4224,7 +4224,7 @@ himself_PNX
 come_VVI
 what_DTQ
 may_VM0
-Shorty_NN1-NP0
+Shorty_NN1
 was_VBD
 also_AV0
 a_AT0
@@ -4479,7 +4479,7 @@ without_PRP
 apparently_AV0
 doing_VDG
 a_AT0
-lick_NN1-VVB
+lick_NN1
 of_PRF
 work_NN1
 She_PNP
@@ -4555,7 +4555,7 @@ he_PNP
 was_VBD
 a_AT0
 clown_NN1
-beaming_VVG-AJ0
+beaming_VVG
 a_AT0
 smile_NN1
 at_PRP
@@ -4563,7 +4563,7 @@ the_AT0
 class_NN1
 like_PRP
 The_AT0
-Joker_NP0-NN1
+Joker_NP0
 in_PRP
 Batman_NP0
 Jack_NP0
@@ -4613,7 +4613,7 @@ do_VDB
 n't_XX0
 give_VVI
 a_AT0
-fuck_VVB-NN1
+fuck_VVB
 that_CJT
 's_POS
 bad_AJ0
@@ -4622,7 +4622,7 @@ Harry_NP0
 Morris_NP0
 Jack_NP0
 's_POS
-principal_AJ0-NN1
+principal_AJ0
 tutor_NN1
 in_PRP
 his_DPS
@@ -4666,7 +4666,7 @@ a_AT0
 good_AJ0
 dancer_NN1
 always_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 after-school_AJ0
 events_NN2
@@ -4690,7 +4690,7 @@ did_VDD
 n't_XX0
 especially_AV0
 like_PRP
-dancing_VVG
+dancing_NN1
 in_PRP
 his_DPS
 mid-teens_NN2
@@ -4753,7 +4753,7 @@ at_PRP
 the_AT0
 beach_NN1
 Mr_NP0
-Cool_VVB
+Cool_AJ0
 with_PRP
 mirrored_VVN
 sunglasses_NN2
@@ -4762,7 +4762,7 @@ oxide_NN1
 on_PRP
 the_AT0
 nose_NN1
-Cool_VVB
+Cool_AJ0
 was_VBD
 the_AT0
 thing_NN1
@@ -4833,7 +4833,7 @@ beginning_NN1
 That_DT0
 was_VBD
 the_AT0
-home-town_AJ0-NN1
+home-town_AJ0
 boy_NN1
 He_PNP
 arrived_VVD
@@ -4870,7 +4870,7 @@ became_VVD
 a_AT0
 local_AJ0
 police_NN2
-chief_AJ0-NN1
+chief_NN1
 said_VVD
 no_AT0
 one_CRD
@@ -4895,8 +4895,8 @@ He_PNP
 was_VBD
 offered_VVN
 a_AT0
-Dupont_NP0-NN1
-chemical_AJ0-NN1
+Dupont_NP0
+chemical_AJ0
 engineering_NN1
 scholarship_NN1
 and_CJC
@@ -4965,7 +4965,7 @@ I_PNP
 tell_VVI
 you_PNP
 said_VVD
-Shorty_NN1-NP0
+Shorty_NN1
 to_TO0
 the_AT0
 umpteenth_ORD
@@ -5000,10 +5000,10 @@ just_AV0
 a_AT0
 fine_AJ0
 kid_NN1
-Loved_VVD-VVN
+Loved_VVD
 his_DPS
 mother_NN1
-Loved_VVD-VVN
+Loved_VVD
 peanut_NN1
 butter_NN1
 and_CJC
@@ -5297,7 +5297,7 @@ fashion_NN1
 buyer_NN1
 at_PRP
 J.C_NP0
-Penney_NP0-NN1
+Penney_NP0
 's_POS
 To_TO0
 complete_AJ0
@@ -5531,7 +5531,7 @@ anyone_PNI
 He_PNP
 appeared_VVD
 to_TO0
-shrug_VVI
+shrug_NN1
 off_AVP
 the_AT0
 news_NN1
@@ -5647,7 +5647,7 @@ coincidentally_AV0
 other_AJ0
 rebels_NN2
 were_VBD
-gathering_NN1
+gathering_VVG
 in_PRP
 that_CJT
 same_DT0
@@ -5690,7 +5690,7 @@ the_AT0
 famed_AJ0
 director_NN1
 Elia_NP0
-Kazan_NP0-NN1
+Kazan_NP0
 to_TO0
 star_NN1
 in_PRP
@@ -5729,7 +5729,7 @@ Natalie_NP0
 Wood_NP0
 and_CJC
 Dennis_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 The_AT0
 Strip_NN1
 at_PRP
@@ -5826,7 +5826,7 @@ also_AV0
 the_AT0
 year_NN1
 Marlon_NP0
-Brando_NP0-NN1
+Brando_NP0
 made_VVN
 it_PNP
 very_AV0
@@ -5834,7 +5834,7 @@ big_AJ0
 indeed_AV0
 in_PRP
 another_DT0
-Kazan_NP0-NN1
+Kazan_NP0
 film_NN1
 On_PRP
 the_AT0
@@ -5939,7 +5939,7 @@ halls_NN2
 where_AVQ
 he_PNP
 would_VM0
-hustle_VVI
+hustle_VVB
 for_PRP
 a_AT0
 few_DT0
@@ -6043,7 +6043,7 @@ that_CJT
 summer_NN1
 to_TO0
 quit_VVI
-Emerging_VVG-AJ0
+Emerging_AJ0
 in_PRP
 his_DPS
 mind_NN1
@@ -6193,7 +6193,7 @@ Lana_NP0
 Turner_NP0
 's_POS
 legs_NN2
-Starting_VVG-NN1
+Starting_VVG
 Out_AVP
 At_PRP
 MGM_NP0
@@ -6273,7 +6273,7 @@ Garland_NP0
 Gardner_NP0
 Garson_NP0
 and_CJC
-Gable_NP0-NN1
+Gable_NN1
 were_VBD
 there_EX0
 and_CJC
@@ -6391,7 +6391,7 @@ of_PRF
 tomorrow_AV0
 and_CJC
 the_AT0
-mink-lined_AJ0-NN1
+mink-lined_AJ0
 coffins_NN2
 that_CJT
 were_VBD
@@ -6614,7 +6614,7 @@ forced_VVN
 as_CJS
 the_AT0
 accountants_NN2
-hacked_VVN-VVD
+hacked_VVN
 away_AV0
 at_PRP
 costs_NN2
@@ -6631,7 +6631,7 @@ doors_NN2
 were_VBD
 already_AV0
 slamming_VVG
-shut_VVB
+shut_VVN
 to_TO0
 the_AT0
 hundreds_CRD
@@ -6688,7 +6688,7 @@ packets_NN2
 which_DTQ
 they_PNP
 apparently_AV0
-feel_VVI
+feel_VVB
 disinclined_AJ0
 to_TO0
 share_NN1
@@ -6825,7 +6825,7 @@ contract_NN1
 The_AT0
 first_ORD
 was_VBD
-Brando_NP0-NN1
+Brando_NP0
 Now_AV0
 I_PNP
 did_VDD
@@ -6839,7 +6839,7 @@ the_AT0
 greatest_AJS
 thing_NN1
 since_CJS
-sliced_AJ0
+sliced_VVN
 bread_NN1
 Hal_NP0
 B._NP0
@@ -7016,7 +7016,7 @@ every_AT0
 studio_NN1
 had_VHD
 a_AT0
-cast_VVN
+cast_NN1
 list_NN1
 of_PRF
 thirty_CRD
@@ -7114,7 +7114,7 @@ their_DPS
 teeth_NN2
 on_PRP
 the_AT0
-second-string_AJ0-NN1
+second-string_NN1
 movies_NN2
 churned_VVN
 out_AVP
@@ -7399,7 +7399,7 @@ Rebel_NN1
 Without_PRP
 a_AT0
 Cause_NN1
-Brando_NP0-NN1
+Brando_NP0
 was_VBD
 stunning_AJ0
 everyone_PNI
@@ -7410,7 +7410,7 @@ in_PRP
 On_PRP
 the_AT0
 Waterfront_NP0
-Talk_VVB-NN1
+Talk_NN1
 was_VBD
 intense_AJ0
 among_PRP
@@ -7450,7 +7450,7 @@ search_NN1
 of_PRF
 idols_NN2
 Clift_NP0
-Brando_NP0-NN1
+Brando_NP0
 and_CJC
 Dean_NP0
 were_VBD
@@ -7602,7 +7602,7 @@ the_AT0
 headlines_NN2
 as_CJS
 Robert_NP0
-Mitchum_NP0-NN1
+Mitchum_NP0
 discovered_VVN
 Down_NP0
 on_PRP
@@ -7704,7 +7704,7 @@ when_CJS
 asked_VVD
 by_PRP
 Hedda_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 if_CJS
 he_PNP
 was_VBD
@@ -7865,7 +7865,7 @@ known_VVN
 It_PNP
 is_VBZ
 a_AT0
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 Nicholson_NP0
 that_CJT
@@ -7924,7 +7924,7 @@ other_AJ0
 aspirants_NN2
 included_VVD
 James_NP0
-Coburn_NP0-NN1
+Coburn_NN1
 Corey_NP0
 was_VBD
 not_XX0
@@ -7955,7 +7955,7 @@ showing_VVG
 him_PNP
 They_PNP
 were_VBD
-gathering_NN1
+gathering_VVG
 on_PRP
 the_AT0
 Strip_NN1
@@ -8064,7 +8064,7 @@ to_TO0
 watch_VVI
 it_PNP
 Dennis_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 then_AV0
 a_AT0
 mere_AJ0
@@ -8107,7 +8107,7 @@ the_AT0
 writers_NN2
 and_CJC
 Monte_NP0
-Hellman_NP0-NN1
+Hellman_NP0
 the_AT0
 director_NN1
 got_VVN
@@ -8415,7 +8415,7 @@ for_PRP
 which_DTQ
 producer_NN1
 Roger_NP0
-Corman_NP0-NN1
+Corman_NP0
 was_VBD
 to_TO0
 earn_VVI
@@ -8437,7 +8437,7 @@ of_PRF
 the_AT0
 Bs_NP0
 also_AV0
-stuck_AJ0
+stuck_VVN
 It_PNP
 was_VBD
 a_AT0
@@ -8449,7 +8449,7 @@ one_CRD
 A_AT0
 word_NN1
 about_PRP
-Corman_NP0-NN1
+Corman_NP0
 is_VBZ
 necessary_AJ0
 here_AV0
@@ -8469,7 +8469,7 @@ just_AV0
 Nicholson_NP0
 's_POS
 either_AV0
-Corman_NP0-NN1
+Corman_NP0
 a_AT0
 young_AJ0
 independent_AJ0
@@ -8479,7 +8479,7 @@ of_PRF
 the_AT0
 post-Superior_AJ0
 Court_NN1
-ruling_AJ0-NN1
+ruling_NN1
 when_CJS
 studios_NN2
 were_VBD
@@ -8488,7 +8488,7 @@ back_AVP
 on_PRP
 their_DPS
 own_DT0
-B-movie_AJ0-NN1
+B-movie_AJ0
 productions_NN2
 did_VDD
 not_XX0
@@ -8561,7 +8561,7 @@ were_VBD
 among_PRP
 a_AT0
 long_AJ0
-cast_VVN
+cast_NN1
 list_NN1
 of_PRF
 now_AV0
@@ -8605,7 +8605,7 @@ as_CJS
 the_AT0
 maker_NN1
 of_PRF
-low-budget_AJ0-NN1
+low-budget_AJ0
 movies_NN2
 which_DTQ
 exploited_VVN
@@ -8655,7 +8655,7 @@ designed_VVN
 basically_AV0
 for_PRP
 the_AT0
-drive-in_NN1-AJ0
+drive-in_AJ0
 movie_NN1
 to_TO0
 be_VBI
@@ -8723,7 +8723,7 @@ as_CJS
 Nicholson_NP0
 while_CJS
 rejecting_VVG
-Corman_NP0-NN1
+Corman_NP0
 as_CJS
 his_DPS
 mentor_NN1
@@ -8740,7 +8740,7 @@ work_NN1
 he_PNP
 gave_VVD
 him_PNP
-Corman_NP0-NN1
+Corman_NP0
 was_VBD
 not_XX0
 consciously_AV0
@@ -8833,7 +8833,7 @@ along_AVP
 in_PRP
 the_AT0
 slipstream_NN1
-Corman_NP0-NN1
+Corman_NP0
 admitted_VVN
 I_PNP
 did_VDD
@@ -8870,7 +8870,7 @@ would_VM0
 never_AV0
 work_NN1
 that_CJT
-fast_AV0-AJ0
+fast_AJ0
 again_AV0
 The_AT0
 film_NN1
@@ -8889,7 +8889,7 @@ the_AT0
 late-Fifties_CRD
 genre_NN1
 called_VVN
-Cry_NN1-VVB
+Cry_NN1
 Baby_NN1
 Killer_NN1
 one_CRD
@@ -8955,10 +8955,10 @@ depicted_VVN
 more_AV0
 responsibly_AV0
 in_PRP
-Blackboard_NP0-NN1
+Blackboard_NN1
 Jungle_NN1
 the_AT0
-Corman_NP0-NN1
+Corman_NP0
 film_NN1
 went_VVD
 straight_AV0
@@ -9064,7 +9064,7 @@ to_TO0
 come_VVI
 when_CJS
 Roger_NP0
-Corman_NP0-NN1
+Corman_NP0
 got_VVN
 into_PRP
 his_DPS
@@ -9089,12 +9089,12 @@ weeks_NN2
 or_CJC
 less_AV0
 with_PRP
-self-imposed_AJ0-NN1
+self-imposed_AJ0
 budgets_NN2
 of_PRF
 under_PRP
 $30,000_NN0
-Cry_NN1-VVB
+Cry_NN1
 Baby_NN1
 Killer_NN1
 did_VDD
@@ -9167,7 +9167,7 @@ to_TO0
 acting_VVG
 devised_VVN
 by_PRP
-Stanislavski_NP0-NN1
+Stanislavski_NN1
 and_CJC
 modified_VVN
 for_PRP
@@ -9178,7 +9178,7 @@ by_PRP
 Lee_NP0
 Strasberg_NP0
 With_PRP
-Brando_NP0-NN1
+Brando_NP0
 and_CJC
 Dean_NP0
 mumbling_VVG
@@ -9570,7 +9570,7 @@ attached_VVN
 to_TO0
 an_AT0
 air-crash_AJ0
-fire-fighting_AJ0-NN1
+fire-fighting_AJ0
 crew_NN1
 which_DTQ
 some_DT0
@@ -9581,7 +9581,7 @@ suggest_VVI
 was_VBD
 a_AT0
 draft_NN1
-dodge_VVB-NN1
+dodge_VVB
 on_PRP
 his_DPS
 part_NN1
@@ -9667,7 +9667,7 @@ Fuller_NP0
 was_VBD
 selected_VVN
 for_PRP
-Laramie_NP0-NN1
+Laramie_NP0
 Gradually_AV0
 most_AV0
 of_PRF
@@ -9691,7 +9691,7 @@ a_AT0
 time_NN1
 of_PRF
 preparation_NN1
-Emerging_VVG-AJ0
+Emerging_AJ0
 with_PRP
 Horror_NN1
 People_NN0
@@ -9769,7 +9769,7 @@ pictures_NN2
 mostly_AV0
 with_PRP
 Roger_NP0
-Corman_NP0-NN1
+Corman_NP0
 They_PNP
 gave_VVD
 Jack_NP0
@@ -9804,7 +9804,7 @@ most_AV0
 With_PRP
 the_AT0
 old_AJ0
-B-movie_AJ0-NN1
+B-movie_AJ0
 system_NN1
 virtually_AV0
 gone_VVN
@@ -9850,7 +9850,7 @@ as_CJS
 a_AT0
 result_NN1
 Dennis_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 who_PNQ
 was_VBD
 to_TO0
@@ -9935,7 +9935,7 @@ No_ITJ
 cancel_VVI
 that_CJT
 said_VVD
-Hopper_NP0-NN1
+Hopper_NP0
 Jimmy_NP0
 would_VM0
 n't_XX0
@@ -10000,7 +10000,7 @@ That_DT0
 was_VBD
 a_AT0
 story_NN1
-Hopper_NP0-NN1
+Hopper_NP0
 liked_VVD
 to_TO0
 tell_VVI
@@ -10040,7 +10040,7 @@ on_PRP
 all_DT0
 of_PRF
 them_PNP
-Hopper_NP0-NN1
+Hopper_NP0
 thought_VVD
 he_PNP
 was_VBD
@@ -10079,7 +10079,7 @@ I_PNP
 ever_AV0
 saw_VVD
 said_VVD
-Hopper_NP0-NN1
+Hopper_NP0
 He_PNP
 was_VBD
 a_AT0
@@ -10122,7 +10122,7 @@ up_AVP
 against_PRP
 director_NN1
 Henry_NP0
-Hathaway_NP0-NN1
+Hathaway_NP0
 who_PNQ
 was_VBD
 known_VVN
@@ -10136,7 +10136,7 @@ in_PRP
 the_AT0
 business_NN1
 and_CJC
-Hopper_NP0-NN1
+Hopper_NP0
 had_VHD
 a_AT0
 minor_AJ0
@@ -10146,14 +10146,14 @@ From_PRP
 Hell_NN1
 to_TO0
 Texas_NP0
-Hathaway_NP0-NN1
+Hathaway_NP0
 wanted_VVD
 the_AT0
 scene_NN1
 played_VVD
 one_CRD
 way_NN1
-Hopper_NP0-NN1
+Hopper_NP0
 wanted_VVD
 to_TO0
 do_VDB
@@ -10168,7 +10168,7 @@ and_CJC
 eighty-six_CRD
 takes_VVZ
 before_PRP
-Hopper_NP0-NN1
+Hopper_NP0
 finally_AV0
 bowed_VVD
 to_TO0
@@ -10199,7 +10199,7 @@ the_AT0
 set_VVN
 and_CJC
 barred_VVN
-Hopper_NP0-NN1
+Hopper_NP0
 from_PRP
 ever_AV0
 working_VVG
@@ -10262,7 +10262,7 @@ in_PRP
 1959_CRD
 in_PRP
 Elia_NP0
-Kazan_NP0-NN1
+Kazan_NP0
 's_POS
 Splendor_NN1
 in_PRP
@@ -10285,7 +10285,7 @@ the_AT0
 superstar_NN1
 bracket_NN1
 As_CJS
-Hopper_NP0-NN1
+Hopper_NP0
 a_AT0
 nice_AJ0
 guy_NN1
@@ -10369,7 +10369,7 @@ names_NN2
 like_PRP
 that_CJT
 in_PRP
-Corman_NP0-NN1
+Corman_NP0
 films_NN2
 who_PNQ
 is_VBZ
@@ -10384,7 +10384,7 @@ This_DT0
 is_VBZ
 going_VVG
 to_TO0
-hurt_VVI
+hurt_VVN
 you_PNP
 more_AV0
 than_CJS
@@ -10392,7 +10392,7 @@ it_PNP
 's_POS
 going_VVG
 to_TO0
-hurt_VVI
+hurt_VVN
 me_PNP
 says_VVZ
 the_AT0
@@ -10404,7 +10404,7 @@ dialogue_NN1
 Wilbur_NP0
 replies_NN2
 No_ITJ
-Novocaine_NP0-NN1
+Novocaine_NN1
 it_PNP
 dulls_VVZ
 the_AT0
@@ -10455,7 +10455,7 @@ enjoyed_VVD
 myself_PNX
 so_AV0
 much_DT0
-Corman_NP0-NN1
+Corman_NP0
 's_POS
 Little_AJ0
 Shop_NN1
@@ -10501,7 +10501,7 @@ all_DT0
 too_AV0
 seriously_AV0
 said_VVD
-Corman_NP0-NN1
+Corman_NP0
 's_POS
 movie_NN1
 and_CJC
@@ -10519,7 +10519,7 @@ bad_AJ0
 taste_NN1
 and_CJC
 quite_AV0
-undeserving_NN1-VVG
+undeserving_VVG
 of_PRF
 consideration_NN1
 But_CJC
@@ -10547,7 +10547,7 @@ and_CJC
 they_PNP
 decided_VVD
 that_CJT
-Corman_NP0-NN1
+Corman_NP0
 was_VBD
 telling_VVG
 them_PNP
@@ -10597,7 +10597,7 @@ as_CJS
 a_AT0
 subtle_AJ0
 joke_NN1
-Corman_NP0-NN1
+Corman_NP0
 naturally_AV0
 agreed_VVD
 with_PRP
@@ -10628,7 +10628,7 @@ few_DT0
 years_NN2
 and_CJC
 many_DT0
-fast_AV0-AJ0
+fast_AJ0
 and_CJC
 furious_AJ0
 films_NN2
@@ -10675,7 +10675,7 @@ hand_NN1
 for_PRP
 adventurous_AJ0
 collaboration_NN1
-Corman_NP0-NN1
+Corman_NP0
 did_VDD
 attack_NN1
 social_AJ0
@@ -10755,7 +10755,7 @@ for_PRP
 Love_NN1
 was_VBD
 like_PRP
-Cry_NN1-VVB
+Cry_NN1
 Baby_NN1
 Killer_NN1
 straightforward_AJ0
@@ -10789,7 +10789,7 @@ in_PRP
 a_AT0
 gang_NN1
 of_PRF
-second-rate_NN1-AJ0
+second-rate_AJ0
 cut-price_AJ0
 actors_NN2
 who_PNQ
@@ -10852,7 +10852,7 @@ Artists_NN2
 production_NN1
 of_PRF
 Studs_NN2
-Lonigan_NP0-NN1
+Lonigan_NP0
 one_CRD
 more_AV0
 Dean-like_AJ0
@@ -10907,7 +10907,7 @@ not_XX0
 a_AT0
 success_NN1
 Studs_NN2
-Lonigan_NP0-NN1
+Lonigan_NP0
 dropped_VVN
 through_PRP
 the_AT0
@@ -11000,7 +11000,7 @@ big_AJ0
 screen_NN1
 The_AT0
 recent_AJ0
-box-office_AJ0-NN1
+box-office_NN1
 calamity_NN1
 of_PRF
 Marjorie_NP0
@@ -11051,7 +11051,7 @@ Nicholson_NP0
 returned_VVD
 to_TO0
 the_AT0
-Corman_NP0-NN1
+Corman_NP0
 factory_NN1
 for_PRP
 another_DT0
@@ -11065,7 +11065,7 @@ Wild_AJ0
 Ride_NN1
 with_PRP
 a_AT0
-cast_VVN
+cast_NN1
 of_PRF
 three_CRD
 and_CJC
@@ -11101,7 +11101,7 @@ full_AJ0
 working_VVG
 week_NN1
 which_DTQ
-assured_VVD
+assured_VVN
 him_PNP
 a_AT0
 place_NN1
@@ -11139,7 +11139,7 @@ writer-to-be_NP0
 Don_NP0
 Devlin_NP0
 and_CJC
-producer-in-waiting_AJ0-NN1
+producer-in-waiting_NN1
 Harry_NP0
 Gittes_NP0
 on_PRP
@@ -11200,7 +11200,7 @@ Nicholson_NP0
 crowd_NN1
 in_PRP
 the_AT0
-B-movie_AJ0-NN1
+B-movie_AJ0
 circle_NN1
 and_CJC
 was_VBD
@@ -11251,7 +11251,7 @@ the_AT0
 group_NN1
 's_POS
 endless_AJ0
-meaning-of-life_AJ0-NN1
+meaning-of-life_NN1
 conversations_NN2
 Slightly_AV0
 dominant_AJ0
@@ -11260,7 +11260,7 @@ slotted_VVN
 admirably_AV0
 into_PRP
 the_AT0
-mother-substitute_AJ0-NN1
+mother-substitute_AJ0
 figure_NN1
 that_CJT
 Nicholson_NP0
@@ -11322,7 +11322,7 @@ It_PNP
 was_VBD
 a_AT0
 no-big-deal_AJ0
-act_VVI
+act_NN1
 for_PRP
 me_PNP
 I_PNP
@@ -11377,7 +11377,7 @@ Devlin_NP0
 Gittes_NP0
 and_CJC
 fellow_NN1
-nightowl_NN1-VVB
+nightowl_VVB
 Harry_NP0
 Dean_NP0
 Stanton_NP0
@@ -11455,7 +11455,7 @@ roles_NN2
 in_PRP
 series_NN0
 like_PRP
-Divorce_VVB-NN1
+Divorce_NN1
 Court_NN1
 Jack_NP0
 took_VVD
@@ -11558,7 +11558,7 @@ Some_DT0
 blamed_VVN
 Jack_NP0
 for_PRP
-wanting_VVG-AJ0
+wanting_VVG
 to_TO0
 continue_VVI
 the_AT0
@@ -11761,7 +11761,7 @@ accepted_VVN
 a_AT0
 job_NN1
 to_TO0
-act_VVI
+act_NN1
 in_PRP
 a_AT0
 movie_NN1
@@ -11939,7 +11939,7 @@ and_CJC
 he_PNP
 did_VDD
 the_AT0
-loving-father_AJ0-NN1
+loving-father_NN1
 duties_NN2
 which_DTQ
 he_PNP
@@ -11947,7 +11947,7 @@ treated_VVN
 seriously_AV0
 and_CJC
 never_AV0
-shirked_VVN
+shirked_VVD
 his_DPS
 responsibilities_NN2
 A_AT0
@@ -12082,7 +12082,7 @@ restricted_VVN
 to_TO0
 the_AT0
 cheap_AJ0
-red-wine_AJ0-NN1
+red-wine_NN1
 class_NN1
 Nothing_PNI
 so_AV0
@@ -12158,7 +12158,7 @@ around_PRP
 this_DT0
 village_NN1
 community_NN1
-overlapping_VVG-AJ0
+overlapping_VVG
 and_CJC
 intertwining_AJ0
 in_PRP
@@ -12178,7 +12178,7 @@ to_TO0
 stardom_NN1
 by_PRP
 Elia_NP0
-Kazan_NP0-NN1
+Kazan_NP0
 the_AT0
 director_NN1
 who_PNQ
@@ -12294,7 +12294,7 @@ getting_VVG
 it_PNP
 Jack_NP0
 's_POS
-average_AJ0-NN1
+average_AJ0
 fee_NN1
 at_PRP
 the_AT0
@@ -12407,7 +12407,7 @@ prowess_NN1
 and_CJC
 insatiable_AJ0
 three-_NN1
-four-_AJ0-NN1
+four-_AJ0
 or_CJC
 five-times-a-day_AJ0
 appetite_NN1
@@ -12437,7 +12437,7 @@ was_VBD
 n't_XX0
 looking_VVG
 said_VVD
-Kazan_NP0-NN1
+Kazan_NP0
 Natalie_NP0
 's_POS
 distraught_AJ0
@@ -12567,7 +12567,7 @@ Hoffman_NP0
 Robert_NP0
 Redford_NP0
 Gene_NP0
-Hackman_NP0-NN1
+Hackman_NN1
 and_CJC
 Robert_NP0
 De_NP0
@@ -12584,7 +12584,7 @@ their_DPS
 first_ORD
 films_NN2
 Dennis_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 came_VVD
 back_AVP
 to_TO0
@@ -12642,7 +12642,7 @@ year_NN1
 the_AT0
 Hoppers_NP0
 '_POS
-Bel_NP0-NN1
+Bel_NP0
 Air_NN1
 mansion_NN1
 was_VBD
@@ -12717,10 +12717,10 @@ a_AT0
 western_AJ0
 The_AT0
 Broken_AJ0
-Land_NP0-NN1
+Land_NN1
 for_PRP
 Roger_NP0
-Corman_NP0-NN1
+Corman_NP0
 again_AV0
 It_PNP
 did_VDD
@@ -12743,7 +12743,7 @@ was_VBD
 not_XX0
 ungrateful_AJ0
 to_TO0
-Corman_NP0-NN1
+Corman_NP0
 He_PNP
 was_VBD
 giving_VVG
@@ -12771,7 +12771,7 @@ eternally_AV0
 grateful_AJ0
 He_PNP
 also_AV0
-underpaid_VVN-VVD
+underpaid_VVD
 us_PNP
 and_CJC
 for_PRP
@@ -12781,7 +12781,7 @@ will_VM0
 be_VBI
 eternally_AV0
 grateful_AJ0
-Corman_NP0-NN1
+Corman_NP0
 returned_VVD
 to_TO0
 horror_NN1
@@ -12793,7 +12793,7 @@ him_PNP
 Some_DT0
 years_NN2
 earlier_AJC
-Corman_NP0-NN1
+Corman_NP0
 had_VHD
 inspired_VVN
 the_AT0
@@ -12843,7 +12843,7 @@ on_PRP
 Poe_NP0
 poem_NN1
 The_AT0
-Raven_NN1-NP0
+Raven_NN1
 but_CJC
 the_AT0
 connection_NN1
@@ -12887,13 +12887,13 @@ players_NN2
 which_DTQ
 included_VVD
 Vincent_NP0
-Price_NP0-NN1
+Price_NP0
 Boris_NP0
-Karloff_NP0-NN1
+Karloff_NP0
 and_CJC
 Peter_NP0
-Lorre_NP0-NN1
-Corman_NP0-NN1
+Lorre_NN1
+Corman_NP0
 added_VVN
 Nicholson_NP0
 in_PRP
@@ -12911,7 +12911,7 @@ the_AT0
 result_NN1
 was_VBD
 another_DT0
-Corman_NP0-NN1
+Corman_NP0
 classic_AJ0
 a_AT0
 comic-strip_AJ0
@@ -12954,7 +12954,7 @@ small_AJ0
 stab_NN1
 at_PRP
 directing_VVG
-Corman_NP0-NN1
+Corman_NP0
 called_VVN
 It_PNP
 's_POS
@@ -12985,7 +12985,7 @@ had_VHD
 rented_VVN
 for_PRP
 The_AT0
-Raven_NN1-NP0
+Raven_NN1
 That_DT0
 left_VVN
 two_CRD
@@ -13019,7 +13019,7 @@ the_AT0
 weekend_NN1
 He_PNP
 asked_VVD
-Karloff_NP0-NN1
+Karloff_NP0
 who_PNQ
 was_VBD
 on_PRP
@@ -13036,7 +13036,7 @@ do_VDB
 it_PNP
 Yes_ITJ
 He_PNP
-cast_VVN
+cast_NN1
 Nicholson_NP0
 in_PRP
 the_AT0
@@ -13073,7 +13073,7 @@ would_VM0
 appear_VVI
 in_PRP
 a_AT0
-Corman_NP0-NN1
+Corman_NP0
 film_NN1
 that_CJT
 weekend_NN1
@@ -13103,7 +13103,7 @@ even_AV0
 a_AT0
 title_NN1
 Overnight_AV0
-Corman_NP0-NN1
+Corman_NP0
 wrote_VVD
 the_AT0
 start_NN1
@@ -13121,7 +13121,7 @@ Terror_NN1
 and_CJC
 hurriedly_AV0
 the_AT0
-cast_VVN
+cast_NN1
 went_VVD
 to_TO0
 work_NN1
@@ -13152,17 +13152,17 @@ mostly_AV0
 the_AT0
 scenes_NN2
 involving_VVG
-Karloff_NP0-NN1
+Karloff_NP0
 because_CJS
 his_DPS
 were_VBD
 the_AT0
 only_AV0
 words_NN2
-Corman_NP0-NN1
+Corman_NP0
 had_VHD
 written_VVN
-Karloff_NP0-NN1
+Karloff_NP0
 recalled_VVD
 the_AT0
 chaos_NN1
@@ -13191,7 +13191,7 @@ were_VBD
 knocking_VVG
 them_PNP
 down_AVP
-Corman_NP0-NN1
+Corman_NP0
 was_VBD
 following_AJ0
 me_PNP
@@ -13212,7 +13212,7 @@ the_AT0
 film_NN1
 got_VVN
 made_VVN
-Corman_NP0-NN1
+Corman_NP0
 directed_VVN
 most_AV0
 of_PRF
@@ -13247,7 +13247,7 @@ continue_VVI
 with_PRP
 a_AT0
 fully_AV0
-fledged_AJ0-VVD
+fledged_AJ0
 production_NN1
 team_NN1
 He_PNP
@@ -13280,14 +13280,14 @@ Ford_NP0
 Coppola_NP0
 then_AV0
 an_AT0
-AIP_NP0-NN1
+AIP_NN1
 assistant_NN1
 producer_NN1
 directed_VVN
 some_DT0
 and_CJC
 Monte_NP0
-Hellman_NP0-NN1
+Hellman_NP0
 did_VDD
 some_DT0
 more_AV0
@@ -13339,7 +13339,7 @@ but_CJC
 Jack_NP0
 Coppola_NP0
 and_CJC
-Hellman_NP0-NN1
+Hellman_NP0
 all_DT0
 had_VHD
 their_DPS
@@ -13370,7 +13370,7 @@ and_CJC
 part-time_AJ0
 scriptwriter_NN1
 for_PRP
-Corman_NP0-NN1
+Corman_NP0
 was_VBD
 given_VVN
 his_DPS
@@ -13384,14 +13384,14 @@ Targets_NN2
 in_PRP
 which_DTQ
 Boris_NP0
-Karloff_NP0-NN1
+Karloff_NP0
 was_VBD
-cast_VVN
+cast_NN1
 because_CJS
 he_PNP
 still_AV0
 owed_VVD
-Corman_NP0-NN1
+Corman_NP0
 two_CRD
 days_NN2
 '_POS
@@ -13444,7 +13444,7 @@ of_PRF
 $125,000_NN0
 of_PRF
 which_DTQ
-Karloff_NP0-NN1
+Karloff_NP0
 was_VBD
 paid_VVN
 $22,000_NN0
@@ -13490,7 +13490,7 @@ was_VBD
 chaotic_AJ0
 true_AJ0
 but_CJC
-Corman_NP0-NN1
+Corman_NP0
 's_POS
 pictures_NN2
 always_AV0
@@ -13549,9 +13549,9 @@ to_TO0
 appear_VVI
 in_PRP
 Ensign_NP0
-Pulver_NP0-NN1
+Pulver_NP0
 the_AT0
-much-discussed_AJ0-NN1
+much-discussed_NN1
 sequel_NN1
 to_TO0
 Mister_NP0
@@ -13566,7 +13566,7 @@ James_NP0
 Cagney_NP0
 and_CJC
 Jack_NP0
-Lemmon_NP0-NN1
+Lemmon_NP0
 based_VVN
 on_PRP
 Thomas_NP0
@@ -13580,7 +13580,7 @@ name_NN1
 was_VBD
 applauded_VVD
 worldwide_AV0
-Lemmon_NP0-NN1
+Lemmon_NP0
 won_VVD
 an_AT0
 Oscar_NP0
@@ -13612,12 +13612,12 @@ the_AT0
 sequel_NN1
 entitled_VVN
 Ensign_NP0
-Pulver_NP0-NN1
+Pulver_NP0
 released_VVN
 in_PRP
 1964_CRD
 Jack_NP0
-Lemmon_NP0-NN1
+Lemmon_NP0
 was_VBD
 asked_VVD
 to_TO0
@@ -13631,7 +13631,7 @@ The_AT0
 rest_NN1
 of_PRF
 the_AT0
-cast_VVN
+cast_NN1
 looked_VVD
 strong_AJ0
 with_PRP
@@ -13692,7 +13692,7 @@ Warners_NP0
 Nicholson_NP0
 was_VBD
 left_VVN
-smarting_VVG-AJ0
+smarting_VVG
 and_CJC
 wondering_VVG
 why_AVQ
@@ -13712,7 +13712,7 @@ the_AT0
 safe_AJ0
 haven_NN1
 of_PRF
-Corman_NP0-NN1
+Corman_NP0
 's_POS
 mini-budgets_NN2
 and_CJC
@@ -13724,7 +13724,7 @@ Nicholson_NP0
 part_NN1
 in_PRP
 Ensign_NP0
-Pulver_NP0-NN1
+Pulver_NP0
 was_VBD
 small_AJ0
 being_VBG
@@ -13749,7 +13749,7 @@ was_VBD
 while_CJS
 filming_VVG
 Ensign_NP0
-Pulver_NP0-NN1
+Pulver_NP0
 that_CJT
 he_PNP
 received_VVD
@@ -13831,13 +13831,13 @@ and_CJC
 demeanour_NN1
 were_VBD
 fairly_AV0
-average_AJ0-NN1
+average_AJ0
 and_CJC
 he_PNP
 was_VBD
 not_XX0
 a_AT0
-head-turner_NN1-AJ0
+head-turner_AJ0
 for_PRP
 female_AJ0
 fans_NN2
@@ -13916,7 +13916,7 @@ himself_PNX
 and_CJC
 others_NN2
 Roger_NP0
-Corman_NP0-NN1
+Corman_NP0
 had_VHD
 become_VVI
 in_PRP
@@ -13947,7 +13947,7 @@ was_VBD
 re-awakened_VVN
 by_PRP
 his_DPS
-scriptwriting_AJ0-NN1
+scriptwriting_NN1
 assistance_NN1
 on_PRP
 The_AT0
@@ -13966,7 +13966,7 @@ was_VBD
 encouraged_VVN
 by_PRP
 Roger_NP0
-Corman_NP0-NN1
+Corman_NP0
 who_PNQ
 thought_VVD
 it_PNP
@@ -14001,7 +14001,7 @@ his_DPS
 friend_NN1
 and_CJC
 former_DT0
-flatmate_NN1-AJ0
+flatmate_NN1
 Don_NP0
 Devlin_NP0
 to_TO0
@@ -14083,10 +14083,10 @@ both_AV0
 directed_VVN
 by_PRP
 Monte_NP0
-Hellman_NP0-NN1
+Hellman_NP0
 They_PNP
 provided_VVN
-interim_AJ0-NN1
+interim_AJ0
 employment_NN1
 and_CJC
 on_PRP
@@ -14117,7 +14117,7 @@ collaboration_NN1
 between_PRP
 Nicholson_NP0
 and_CJC
-Hellman_NP0-NN1
+Hellman_NP0
 was_VBD
 to_TO0
 continue_VVI
@@ -14125,7 +14125,7 @@ for_PRP
 two_CRD
 more_AV0
 pictures_NN2
-Hellman_NP0-NN1
+Hellman_NP0
 recalls_VVZ
 that_CJT
 they_PNP
@@ -14141,7 +14141,7 @@ western_AJ0
 and_CJC
 talked_VVD
 to_TO0
-Corman_NP0-NN1
+Corman_NP0
 about_PRP
 the_AT0
 finance_NN1
@@ -14172,7 +14172,7 @@ an_AT0
 advance_NN1
 cheque_NN1
 from_PRP
-Corman_NP0-NN1
+Corman_NP0
 's_POS
 company_NN1
 deposited_VVN
@@ -14237,7 +14237,7 @@ in_PRP
 tune_NN1
 with_PRP
 what_DTQ
-Corman_NP0-NN1
+Corman_NP0
 had_VHD
 suggested_VVN
 as_CJS
@@ -14270,7 +14270,7 @@ series_NN0
 such_DT0
 as_CJS
 Bonanza_NN1
-Rawhide_NP0-NN1
+Rawhide_NP0
 and_CJC
 Bronco_NP0
 Nicholson_NP0
@@ -14305,7 +14305,7 @@ in_PRP
 his_DPS
 assumption_NN1
 that_CJT
-Corman_NP0-NN1
+Corman_NP0
 might_VM0
 not_XX0
 see_VVI
@@ -14325,7 +14325,7 @@ essay_NN1
 The_AT0
 Myth_NN1
 of_PRF
-Sisyphus_NP0-NN1
+Sisyphus_NP0
 which_DTQ
 demonstrates_VVZ
 man_NN1
@@ -14387,7 +14387,7 @@ complicated_AJ0
 plot_NN1
 with_PRP
 similar_AJ0
-undertones_NN2-VVZ
+undertones_NN2
 of_PRF
 mythical_AJ0
 melancholia_NN1
@@ -14455,7 +14455,7 @@ in_PRP
 the_AT0
 can_VM0
 and_CJC
-Hillman_NP0-NN1
+Hillman_NN1
 began_VVD
 the_AT0
 cut_VVN
@@ -14474,10 +14474,10 @@ by_PRP
 the_AT0
 backer_NN1
 Roger_NP0
-Corman_NP0-NN1
+Corman_NP0
 Interesting_AJ0
 said_VVD
-Corman_NP0-NN1
+Corman_NP0
 as_CJS
 he_PNP
 sat_VVD
@@ -14552,7 +14552,7 @@ Where_AVQ
 are_VBB
 the_AT0
 Indians_NN2
-Hellman_NP0-NN1
+Hellman_NP0
 cautiously_AV0
 observed_VVN
 Does_VDZ
@@ -14575,7 +14575,7 @@ for_PRP
 being_VBG
 different_AJ0
 said_VVD
-Corman_NP0-NN1
+Corman_NP0
 But_CJC
 who_PNQ
 is_VBZ
@@ -14622,7 +14622,7 @@ at_PRP
 least_AV0
 Nicholson_NP0
 and_CJC
-Hellman_NP0-NN1
+Hellman_NP0
 had_VHD
 tampered_VVN
 with_PRP
@@ -14718,7 +14718,7 @@ Cannes_NP0
 Almost_AV0
 immediately_AV0
 a_AT0
-French_AJ0-NN1
+French_AJ0
 company_NN1
 made_VVN
 an_AT0
@@ -14745,7 +14745,7 @@ in_PRP
 his_DPS
 wake_NN1
 the_AT0
-French_AJ0-NN1
+French_AJ0
 company_NN1
 went_VVD
 bankrupt_AJ0
@@ -14860,7 +14860,7 @@ that_CJT
 he_PNP
 was_VBD
 running_VVG
-favourite_AJ0-NN1
+favourite_AJ0
 despite_PRP
 his_DPS
 lack_NN1
@@ -14954,7 +14954,7 @@ entirely_AV0
 tied_VVN
 to_TO0
 Roger_NP0
-Corman_NP0-NN1
+Corman_NP0
 's_POS
 own_DT0
 eccentric_AJ0
@@ -14969,7 +14969,7 @@ proud_AJ0
 of_PRF
 in_PRP
 a_AT0
-mixed_AJ0
+mixed_VVN
 bunch_NN1
 of_PRF
 movies_NN2
@@ -14983,10 +14983,10 @@ trends_NN2
 regardless_AV0
 of_PRF
 how_AVQ
-Corman_NP0-NN1
+Corman_NP0
 tried_VVD
 to_TO0
-disguise_VVI
+disguise_NN1
 them_PNP
 with_PRP
 socio-explanations_NN2
@@ -15013,7 +15013,7 @@ large_AJ0
 Harley_NP0
 Davidson_NP0
 motorcycle_NN1
-roaring_VVG
+roaring_AJ0
 towards_PRP
 the_AT0
 cinema_NN1
@@ -15040,7 +15040,7 @@ fads_NN2
 of_PRF
 the_AT0
 emergent_NN1
-decadent_NN1-AJ0
+decadent_AJ0
 age_NN1
 The_AT0
 underground_AJ0
@@ -15369,7 +15369,7 @@ by_PRP
 the_AT0
 likes_VVZ
 of_PRF
-Brando_NP0-NN1
+Brando_NP0
 and_CJC
 Dean_NP0
 on_PRP
@@ -15393,7 +15393,7 @@ in_PRP
 The_AT0
 Wild_AJ0
 One_CRD
-Blackboard_NP0-NN1
+Blackboard_NN1
 Jungle_NN1
 and_CJC
 Rebel_NN1
@@ -15612,7 +15612,7 @@ n_XX0
 roll_NN1
 years_NN2
 The_AT0
-coffee-bar_AJ0-NN1
+coffee-bar_NN1
 era_NN1
 twee_AJ0
 and_CJC
@@ -15715,7 +15715,7 @@ the_AT0
 road_NN1
 hitchhiking_VVG
 or_CJC
-biking_VVG-NN1
+biking_VVG
 far_AV0
 away_AV0
 from_PRP
@@ -15724,7 +15724,7 @@ and_CJC
 the_AT0
 landscape_NN1
 became_VVD
-dotted_VVN-VVD
+dotted_VVN
 with_PRP
 the_AT0
 beat_VVI
@@ -15742,7 +15742,7 @@ beginnings_NN2
 of_PRF
 a_AT0
 mass_NN1
-shift_NN1-VVB
+shift_NN1
 and_CJC
 movement_NN1
 in_PRP
@@ -15792,13 +15792,13 @@ the_AT0
 words_NN2
 of_PRF
 his_DPS
-anti-establishment_AJ0-NN1
+anti-establishment_NN1
 anthems_NN2
 The_AT0
 Times_NN2
 They_PNP
 Are_VBB
-A-Changin_NP0-NN1
+A-Changin_NN1
 and_CJC
 his_DPS
 Mr_NP0
@@ -15808,7 +15808,7 @@ which_DTQ
 was_VBD
 a_AT0
 taunting_VVG
-haunting_AJ0-NN1
+haunting_AJ0
 song_NN1
 with_PRP
 a_AT0
@@ -15855,7 +15855,7 @@ because_CJS
 everyone_PNI
 was_VBD
 so_AV0
-stoned_VVN-AJ0
+stoned_VVN
 they_PNP
 could_VM0
 n't_XX0
@@ -16028,7 +16028,7 @@ Pink_AJ0
 Floyd_NP0
 and_CJC
 Soft_AJ0
-Machine_VVB-NN1
+Machine_NN1
 Underground_NN1
 Marijuana_NN1
 liberalism_NN1
@@ -16131,7 +16131,7 @@ various_AJ0
 natural_AJ0
 and_CJC
 manufactured_VVN
-mind-expanding_AJ0-NN1
+mind-expanding_NN1
 substances_NN2
 youth_NN1
 took_VVD
@@ -16212,7 +16212,7 @@ there_EX0
 were_VBD
 the_AT0
 milder_AJC
-peace-loving_AJ0-NN1
+peace-loving_AJ0
 Smile_NN1
 on_PRP
 your_DPS
@@ -16245,7 +16245,7 @@ hard_AJ0
 rock_NN1
 and_CJC
 the_AT0
-free-as-the-wind_AJ0-NN1
+free-as-the-wind_NN1
 Hell_NN1
 's_POS
 Angels_NN2
@@ -16275,7 +16275,7 @@ Without_PRP
 a_AT0
 Cause_NN1
 and_CJC
-Brando_NP0-NN1
+Brando_NP0
 's_POS
 The_AT0
 Wild_AJ0
@@ -16285,7 +16285,7 @@ like_PRP
 a_AT0
 Sunday_NP0
 school_NN1
-gathering_NN1
+gathering_VVG
 In_PRP
 the_AT0
 middle_NN1
@@ -16521,7 +16521,7 @@ lawn_NN1
 like_PRP
 a_AT0
 massive_AJ0
-brake-job_NN1-AJ0
+brake-job_AJ0
 to_TO0
 save_VVI
 fifty_CRD
@@ -16533,7 +16533,7 @@ him_PNP
 temporary_AJ0
 solvency_NN1
 and_CJC
-cast_VVN
+cast_NN1
 him_PNP
 straight_AV0
 into_PRP
@@ -16569,7 +16569,7 @@ bike_NN1
 movies_NN2
 after_PRP
 Roger_NP0
-Corman_NP0-NN1
+Corman_NP0
 's_POS
 runaway_NN1
 success_NN1
@@ -16583,14 +16583,14 @@ Fonda_NP0
 Nancy_NP0
 Sinatra_NP0
 Bruce_NP0
-Dern_NP0-NN1
+Dern_NP0
 and_CJC
 Diane_NP0
 Ladd_NP0
 released_VVN
 in_PRP
 1966_CRD
-Corman_NP0-NN1
+Corman_NP0
 brushed_VVD
 off_AVP
 accusations_NN2
@@ -16674,7 +16674,7 @@ despatched_VVN
 it_PNP
 to_TO0
 the_AT0
-second-string_AJ0-NN1
+second-string_NN1
 scrapheap_NN1
 but_CJC
 young_AJ0
@@ -16736,11 +16736,11 @@ his_DPS
 bike_NN1
 were_VBD
 quickly_AV0
-outselling_VVG-AJ0
+outselling_VVG
 star_NN1
 portraits_NN2
 of_PRF
-Brando_NP0-NN1
+Brando_NP0
 Newman_NP0
 and_CJC
 McQueen_NP0
@@ -16766,7 +16766,7 @@ York_NP0
 Times_NN2
 '_POS
 critic_NN1
-Bosley_NN1-NP0
+Bosley_NP0
 Crowther_NP0
 summed_VVN
 up_AVP
@@ -16795,8 +16795,8 @@ account_NN1
 of_PRF
 boozing_VVG
 fighting_VVG
-pot-smoking_NN1-AJ0
-vandalizing_VVG
+pot-smoking_AJ0
+vandalizing_NN1
 and_CJC
 raping_VVG
 done_VDN
@@ -16813,7 +16813,7 @@ drawn_VVN
 to_TO0
 represent_VVI
 the_AT0
-swastika-wearing_AJ0-NN1
+swastika-wearing_AJ0
 Hell_NN1
 's_POS
 Angels_NN2
@@ -16827,7 +16827,7 @@ the_AT0
 west_NN1
 coast_NN1
 Mr_NP0
-Corman_NP0-NN1
+Corman_NP0
 has_VHZ
 shot_NN1
 the_AT0
@@ -16861,7 +16861,7 @@ a_AT0
 production_NN1
 assistant_NN1
 by_PRP
-Corman_NP0-NN1
+Corman_NP0
 but_CJC
 it_PNP
 is_VBZ
@@ -16876,7 +16876,7 @@ moment_NN1
 in_PRP
 Hollywood_NP0
 history_NN1
-inspiring_VVG-AJ0
+inspiring_AJ0
 as_CJS
 it_PNP
 did_VDD
@@ -16930,7 +16930,7 @@ two_CRD
 decades_NN2
 Unfortunately_AV0
 his_DPS
-initial_AJ0-NN1
+initial_AJ0
 contributions_NN2
 to_TO0
 the_AT0
@@ -16949,7 +16949,7 @@ on_PRP
 Wheels_NN2
 and_CJC
 Rebel_NN1
-Rouser_NP0-NN1
+Rouser_NN1
 were_VBD
 supposed_AJ0
 to_TO0
@@ -16970,13 +16970,13 @@ including_PRP
 some_DT0
 of_PRF
 the_AT0
-cast_VVN
+cast_NN1
 of_PRF
 that_CJT
 film_NN1
 like_PRP
 Bruce_NP0
-Dern_NP0-NN1
+Dern_NP0
 and_CJC
 Diane_NP0
 Ladd_NP0
@@ -17063,10 +17063,10 @@ and_CJC
 Clyde_NP0
 with_PRP
 Gene_NP0
-Hackman_NP0-NN1
+Hackman_NN1
 and_CJC
 Faye_NP0
-Dunaway_NP0-NN1
+Dunaway_NP0
 which_DTQ
 turned_VVD
 Beatty_NP0
@@ -17104,7 +17104,7 @@ about_PRP
 to_TO0
 start_NN1
 Butch_NP0
-Cassidy_NP0-NN1
+Cassidy_NP0
 and_CJC
 the_AT0
 Sundance_NP0
@@ -17143,14 +17143,14 @@ to_TO0
 join_VVI
 an_AT0
 all-star_AJ0
-cast_VVN
+cast_NN1
 for_PRP
 The_AT0
 St_NP0
 Valentine_NP0
 's_POS
 Day_NN1
-Massacre_NN1-VVB
+Massacre_VVB
 to_TO0
 be_VBI
 released_VVN
@@ -17174,7 +17174,7 @@ words_NN2
 courtesy_NN1
 of_PRF
 Roger_NP0
-Corman_NP0-NN1
+Corman_NP0
 who_PNQ
 for_PRP
 once_AV0
@@ -17202,9 +17202,9 @@ to_TO0
 spend_VVI
 it_PNP
 Bruce_NP0
-Dern_NP0-NN1
+Dern_NP0
 said_VVD
-Corman_NP0-NN1
+Corman_NP0
 did_VDD
 him_PNP
 and_CJC
@@ -17225,7 +17225,7 @@ money_NN1
 at_PRP
 the_AT0
 time_NN1
-Corman_NP0-NN1
+Corman_NP0
 arranged_VVN
 it_PNP
 so_AV0
@@ -17348,7 +17348,7 @@ St_NP0
 Valentine_NP0
 's_POS
 Day_NN1
-Massacre_NN1-VVB
+Massacre_VVB
 undemanding_AJ0
 as_CJS
 they_PNP
@@ -17361,7 +17361,7 @@ another_DT0
 film_NN1
 script_NN1
 for_PRP
-Corman_NP0-NN1
+Corman_NP0
 who_PNQ
 was_VBD
 once_AV0
@@ -17478,7 +17478,7 @@ Leary_NP0
 after_PRP
 his_DPS
 highly_AV0
-publicized_VVN-VVD
+publicized_VVN
 experimentation_NN1
 with_PRP
 the_AT0
@@ -17533,7 +17533,7 @@ real_AJ0
 concern_NN1
 among_PRP
 the_AT0
-ruling_AJ0-NN1
+ruling_NN1
 classes_NN2
 that_CJT
 the_AT0
@@ -17562,7 +17562,7 @@ joined_VVD
 the_AT0
 bandwagon_NN1
 and_CJC
-lumped_VVD-AJ0
+lumped_VVD
 hippies_NN2
 Hell_NN1
 's_POS
@@ -17611,7 +17611,7 @@ police_NN2
 had_VHD
 to_TO0
 evict_VVI
-anti-war_AJ0-NN1
+anti-war_AJ0
 demonstrators_NN2
 from_PRP
 the_AT0
@@ -17632,7 +17632,7 @@ singing_VVG
 the_AT0
 old_AJ0
 student_NN1
-favourite_AJ0-NN1
+favourite_AJ0
 Solidarity_NN1
 Forever_AV0
 Few_DT0
@@ -17658,7 +17658,7 @@ hippie_NN1
 activists_NN2
 and_CJC
 a_AT0
-mock-up_NN1-AJ0
+mock-up_NN1
 submarine_NN1
 was_VBD
 built_VVN
@@ -17818,7 +17818,7 @@ raptures_NN2
 about_PRP
 So_AV0
 Roger_NP0
-Corman_NP0-NN1
+Corman_NP0
 said_VVD
 to_TO0
 Jack_NP0
@@ -17875,7 +17875,7 @@ in_PRP
 May_NP0
 1990_CRD
 Roger_NP0
-Corman_NP0-NN1
+Corman_NP0
 named_VVN
 it_PNP
 as_CJS
@@ -17899,7 +17899,7 @@ Peter_NP0
 Fonda_NP0
 and_CJC
 Dennis_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 were_VBD
 to_TO0
 co-star_NN1
@@ -17913,19 +17913,19 @@ it_PNP
 for_PRP
 himself_PNX
 but_CJC
-Corman_NP0-NN1
+Corman_NP0
 refused_VVD
 to_TO0
-cast_VVN
+cast_NN1
 him_PNP
 and_CJC
 Bruce_NP0
-Dern_NP0-NN1
+Dern_NP0
 played_VVD
 the_AT0
 role_NN1
 instead_AV0
-Dern_NP0-NN1
+Dern_NP0
 said_VVD
 Jack_NP0
 was_VBD
@@ -18030,7 +18030,7 @@ too_AV0
 for_PRP
 Fonda_NP0
 and_CJC
-Hopper_NP0-NN1
+Hopper_NP0
 who_PNQ
 were_VBD
 already_AV0
@@ -18039,7 +18039,7 @@ friends_NN2
 They_PNP
 came_VVD
 to_TO0
-Corman_NP0-NN1
+Corman_NP0
 's_POS
 office_NN1
 to_TO0
@@ -18100,7 +18100,7 @@ turned_VVD
 on_PRP
 by_PRP
 Jim_NP0
-Mitchum_NP0-NN1
+Mitchum_NP0
 at_PRP
 the_AT0
 Carlton_NP0
@@ -18150,14 +18150,14 @@ halt_NN1
 of_PRF
 a_AT0
 downhill_AV0
-slide_VVI
+slide_NN1
 into_PRP
 alcoholism_NN1
 acquisitive_AJ0
 habitual_AJ0
 spending_VVG
 on_PRP
-fast_AV0-AJ0
+fast_AJ0
 cars_NN2
 Cessna_NP0
 airplanes_NN2
@@ -18222,7 +18222,7 @@ of_PRF
 seeing_VVG
 huge_AJ0
 worms_NN2
-crawl_VVI
+crawl_VVB
 out_AVP
 of_PRF
 biscuits_NN2
@@ -18245,11 +18245,11 @@ kind_NN1
 of_PRF
 hallucinatory_AJ0
 experience_NN1
-Hopper_NP0-NN1
+Hopper_NP0
 crazy_AJ0
-mixed_AJ0
+mixed_VVN
 up_AVP
-Dean-possessed_AJ0-NN1
+Dean-possessed_AJ0
 Dennis_NP0
 had_VHD
 already_AV0
@@ -18787,7 +18787,7 @@ was_VBD
 joined_VVD
 by_PRP
 Dennis_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 who_PNQ
 was_VBD
 equally_AV0
@@ -18795,7 +18795,7 @@ ecstatic_AJ0
 So_AV0
 was_VBD
 Bruce_NP0
-Dern_NP0-NN1
+Dern_NP0
 The_AT0
 original_AJ0
 script_NN1
@@ -18803,7 +18803,7 @@ was_VBD
 just_AV0
 sensational_AJ0
 said_VVD
-Dern_NP0-NN1
+Dern_NP0
 He_PNP
 injected_VVN
 into_PRP
@@ -18864,7 +18864,7 @@ ever_AV0
 read_VVI
 I_PNP
 think_VVB
-Fellini_NP0-NN1
+Fellini_NP0
 wrote_VVD
 it_PNP
 Are_VBB
@@ -18889,7 +18889,7 @@ right_NN1
 on_PRP
 the_AT0
 nose_NN1
-Corman_NP0-NN1
+Corman_NP0
 who_PNQ
 was_VBD
 both_AV0
@@ -18909,7 +18909,7 @@ He_PNP
 wanted_VVD
 certain_AJ0
 scenes_NN2
-spelled_VVD-VVN
+spelled_VVD
 out_AVP
 he_PNP
 could_VM0
@@ -18920,7 +18920,7 @@ of_PRF
 the_AT0
 subtleties_NN2
 Fonda_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 and_CJC
 Nicholson_NP0
 all_DT0
@@ -18944,7 +18944,7 @@ know_VVI
 what_DTQ
 they_PNP
 meant_VVD
-Corman_NP0-NN1
+Corman_NP0
 remained_VVD
 unconvinced_AJ0
 especially_AV0
@@ -18985,7 +18985,7 @@ ending_NN1
 's_POS
 a_AT0
 cop-out_NN1
-Corman_NP0-NN1
+Corman_NP0
 was_VBD
 n't_XX0
 arguing_VVG
@@ -19058,7 +19058,7 @@ the_AT0
 psychological_AJ0
 moral_AJ0
 pressures_NN2
-vexing_VVG-NN1
+vexing_VVG
 society_NN1
 It_PNP
 was_VBD
@@ -19094,7 +19094,7 @@ when_CJS
 used_VVN
 with_PRP
 caution_NN1
-Corman_NP0-NN1
+Corman_NP0
 however_AV0
 never_AV0
 permitted_VVN
@@ -19119,7 +19119,7 @@ Fonda_NP0
 character_NN1
 Reviews_NN2
 were_VBD
-mixed_AJ0
+mixed_VVN
 but_CJC
 largely_AV0
 went_VVD
@@ -19137,7 +19137,7 @@ commercial_AJ0
 for_PRP
 LSD_NN1
 Even_AV0
-Corman_NP0-NN1
+Corman_NP0
 publicity_NN1
 later_AV0
 admitted_VVN
@@ -19168,7 +19168,7 @@ into_PRP
 the_AT0
 thinking_VVG
 of_PRF
-Corman_NP0-NN1
+Corman_NP0
 and_CJC
 Nicholson_NP0
 It_PNP
@@ -19192,7 +19192,7 @@ little_AJ0
 for_PRP
 Fonda_NP0
 and_CJC
-Hopper_NP0-NN1
+Hopper_NP0
 to_TO0
 do_VDB
 but_CJC
@@ -19244,7 +19244,7 @@ he_PNP
 cleared_VVN
 off_AVP
 to_TO0
-lick_NN1-VVB
+lick_NN1
 his_DPS
 wounds_NN2
 in_PRP
@@ -19256,8 +19256,8 @@ his_DPS
 displeasure_NN1
 by_PRP
 trusting_AJ0
-AIP_NP0-NN1
-Corman_NP0-NN1
+AIP_NN1
+Corman_NP0
 's_POS
 parent_NN1
 company_NN1
@@ -19337,7 +19337,7 @@ telephone_NN1
 and_CJC
 rang_VVD
 Dennis_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 in_PRP
 Los_NP0
 Angeles_NP0
@@ -19349,7 +19349,7 @@ you_PNP
 called_VVN
 man_NN1
 said_VVD
-Hopper_NP0-NN1
+Hopper_NP0
 who_PNQ
 thought_VVD
 his_DPS
@@ -19369,7 +19369,7 @@ Fonda_NP0
 left_VVN
 for_PRP
 Canada_NP0
-Fuck_VVB-NN1
+Fuck_VVB
 that_CJT
 said_VVD
 Fonda_NP0
@@ -19460,7 +19460,7 @@ you_PNP
 do_VDB
 it_PNP
 Gee_ITJ
-whiz_VVB-NN1
+whiz_VVB
 man_NN1
 Are_VBB
 you_PNP
@@ -19595,7 +19595,7 @@ was_VBD
 that_CJT
 he_PNP
 could_VM0
-walk_VVI
+walk_NN1
 into_PRP
 any_DT0
 bar_NN1
@@ -19643,8 +19643,8 @@ friend_NN1
 the_AT0
 Polish_AJ0
 director_NN1
-Roman_AJ0-NN1
-Polanski_NP0-NN1
+Roman_AJ0
+Polanski_NP0
 to_TO0
 about_PRP
 fifty_CRD
@@ -19659,7 +19659,7 @@ working_VVG
 life_NN1
 had_VHD
 been_VBN
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 making_VVG
 it_PNP
@@ -19729,7 +19729,7 @@ driven_VVN
 by_PRP
 the_AT0
 same_DT0
-devoutly_AJ0-AV0
+devoutly_AV0
 mercenary_AJ0
 ambitions_NN2
 of_PRF
@@ -19803,7 +19803,7 @@ discovery_NN1
 of_PRF
 another_DT0
 little_AJ0
-nugget_NN1-VVB
+nugget_VVB
 was_VBD
 spurred_VVD
 on_PRP
@@ -19865,7 +19865,7 @@ months_NN2
 Nicholson_NP0
 had_VHD
 been_VBN
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 writing_NN1
@@ -19909,7 +19909,7 @@ this_DT0
 prevailing_AJ0
 situation_NN1
 provided_VVN
-AIP_NP0-NN1
+AIP_NN1
 with_PRP
 the_AT0
 backdrop_NN1
@@ -19939,7 +19939,7 @@ Trip_NN1
 Susan_NP0
 Strasberg_NP0
 Bruce_NP0
-Dern_NP0-NN1
+Dern_NP0
 and_CJC
 this_DT0
 time_NN1
@@ -20055,7 +20055,7 @@ film_NN1
 that_CJT
 either_AV0
 Nicholson_NP0
-Dern_NP0-NN1
+Dern_NP0
 or_CJC
 Strasberg_NP0
 would_VM0
@@ -20086,7 +20086,7 @@ stunningly_AV0
 attractive_AJ0
 former_DT0
 model_NN1
-Mimi_NP0-NN1
+Mimi_NP0
 Machu_NP0
 who_PNQ
 appeared_VVD
@@ -20215,7 +20215,7 @@ fair_AJ0
 head_NN1
 of_PRF
 steam_NN1
-Mimi_NP0-NN1
+Mimi_NP0
 's_POS
 sexuality_NN1
 captivated_VVN
@@ -20237,7 +20237,7 @@ it_PNP
 was_VBD
 apparent_AJ0
 that_CJT
-Mimi_NP0-NN1
+Mimi_NP0
 had_VHD
 the_AT0
 upper_AJ0
@@ -20479,7 +20479,7 @@ Indians_NN2
 to_TO0
 real-life_AJ0
 Vietnam_NP0
-clips_NN2-VVZ
+clips_NN2
 and_CJC
 even_AV0
 an_AT0
@@ -20784,7 +20784,7 @@ the_AT0
 movie_NN1
 at_PRP
 all_DT0
-Renata_NP0-NN1
+Renata_NP0
 Adler_NP0
 sat_VVD
 down_AVP
@@ -20875,7 +20875,7 @@ goodbye_NN1
 to_TO0
 the_AT0
 Roger_NP0
-Corman_NP0-NN1
+Corman_NP0
 school_NN1
 of_PRF
 movie-making_NN1
@@ -20933,14 +20933,14 @@ through_PRP
 the_AT0
 young_AJ0
 director_NN1
-Roman_AJ0-NN1
-Polanski_NP0-NN1
+Roman_AJ0
+Polanski_NP0
 who_PNQ
 had_VHD
 just_AV0
 entered_VVD
 the_AT0
-fast_AV0-AJ0
+fast_AJ0
 new_AJ0
 Hollywood_NP0
 crowd_NN1
@@ -20973,7 +20973,7 @@ all_DT0
 new_AJ0
 production_NN1
 projects_NN2
-Polanski_NP0-NN1
+Polanski_NP0
 arrived_VVD
 in_PRP
 Hollywood_NP0
@@ -20984,7 +20984,7 @@ the_AT0
 back_AVP
 of_PRF
 a_AT0
-spoof_NN1-VVB
+spoof_NN1
 horror_NN1
 film_NN1
 called_VVN
@@ -21017,7 +21017,7 @@ starred_VVD
 Sharon_NP0
 Tate_NP0
 whom_PNQ
-Polanski_NP0-NN1
+Polanski_NP0
 thought_VVD
 was_VBD
 only_AV0
@@ -21063,7 +21063,7 @@ and_CJC
 Sharon_NP0
 moved_VVD
 into_PRP
-Polanski_NP0-NN1
+Polanski_NP0
 's_POS
 mews_NN2
 house_NN1
@@ -21072,7 +21072,7 @@ off_AVP
 Eaton_NP0
 Place_NP0
 London_NP0
-Polanski_NP0-NN1
+Polanski_NP0
 was_VBD
 also_AV0
 known_VVN
@@ -21098,7 +21098,7 @@ who_PNQ
 populated_VVN
 Gstaad_NP0
 and_CJC
-Aspen_NP0-NN1
+Aspen_NN1
 notably_AV0
 his_DPS
 friendship_NN1
@@ -21112,7 +21112,7 @@ the_AT0
 hub_NN1
 of_PRF
 the_AT0
-English_AJ0-NN1
+English_AJ0
 scene_NN1
 Victor_NP0
 Lownes_NP0
@@ -21130,7 +21130,7 @@ appointed_VVN
 vice_UNC
 president_NN1
 of_PRF
-Playboy_NP0-NN1
+Playboy_NN1
 International_AJ0
 and_CJC
 despatched_VVN
@@ -21145,7 +21145,7 @@ Club_NN1
 in_PRP
 Park_NN1
 Lane_NP0
-Polanski_NP0-NN1
+Polanski_NP0
 used_VVN
 the_AT0
 club_NN1
@@ -21159,7 +21159,7 @@ access_NN1
 point_NN1
 to_TO0
 its_DPS
-abounding_AJ0-NN1
+abounding_NN1
 supply_NN1
 of_PRF
 beautiful_AJ0
@@ -21168,7 +21168,7 @@ just_AV0
 as_CJS
 Hefner_NP0
 's_POS
-Playboy_NP0-NN1
+Playboy_NN1
 mansion_NN1
 in_PRP
 Los_NP0
@@ -21213,11 +21213,11 @@ himself_PNX
 Robert_NP0
 Evans_NP0
 contacted_VVN
-Polanski_NP0-NN1
+Polanski_NP0
 in_PRP
 the_AT0
 London_NP0
-Playboy_NP0-NN1
+Playboy_NN1
 Club_NN1
 one_CRD
 afternoon_NN1
@@ -21236,7 +21236,7 @@ come_VVI
 to_TO0
 Hollywood_NP0
 immediately_AV0
-Polanski_NP0-NN1
+Polanski_NP0
 replied_VVD
 that_CJT
 he_PNP
@@ -21277,7 +21277,7 @@ as_CJS
 the_AT0
 lead_VVI
 and_CJC
-Polanski_NP0-NN1
+Polanski_NP0
 asked_VVD
 Warren_NP0
 Beatty_NP0
@@ -21307,7 +21307,7 @@ enough_AV0
 role_NN1
 and_CJC
 so_AV0
-Polanski_NP0-NN1
+Polanski_NP0
 went_VVD
 for_PRP
 Robert_NP0
@@ -21364,7 +21364,7 @@ in_PRP
 for_PRP
 a_AT0
 try-out_NN1
-Polanski_NP0-NN1
+Polanski_NP0
 's_POS
 assessment_NN1
 was_VBD
@@ -21452,7 +21452,7 @@ acting_VVG
 His_DPS
 friendship_NN1
 with_PRP
-Polanski_NP0-NN1
+Polanski_NP0
 developed_VVN
 and_CJC
 he_PNP
@@ -21486,7 +21486,7 @@ Rider_NN1
 Who_PNQ
 had_VHD
 n't_XX0
-Hopper_NP0-NN1
+Hopper_NP0
 and_CJC
 Fonda_NP0
 were_VBD
@@ -21513,9 +21513,9 @@ had_VHD
 been_VBN
 toting_VVG
 around_PRP
-Corman_NP0-NN1
+Corman_NP0
 's_POS
-ALP_NN1-NP0
+ALP_NN1
 had_VHD
 already_AV0
 turned_VVD
@@ -21534,7 +21534,7 @@ film_NN1
 the_AT0
 prospect_NN1
 of_PRF
-Hopper_NP0-NN1
+Hopper_NP0
 bearing_VVG
 in_PRP
 mind_NN1
@@ -21589,20 +21589,20 @@ to_TO0
 be_VBI
 played_VVD
 by_PRP
-Hopper_NP0-NN1
+Hopper_NP0
 Fonda_NP0
 and_CJC
 Rip_NP0
-Torn_VVN-AJ0
+Torn_AJ0
 in_PRP
 between_PRP
-Hopper_NP0-NN1
+Hopper_NP0
 's_POS
 directing_VVG
 and_CJC
-Hopper_NP0-NN1
+Hopper_NP0
 's_POS
-scriptwriting_AJ0-NN1
+scriptwriting_NN1
 and_CJC
 Fonda_NP0
 's_POS
@@ -21610,7 +21610,7 @@ production_NN1
 and_CJC
 Fonda_NP0
 's_POS
-co-scriptwriting_AJ0-NN1
+co-scriptwriting_AJ0
 work_NN1
 Apart_AV0
 from_PRP
@@ -21637,7 +21637,7 @@ Spirits_NN2
 dashed_VVN
 Fonda_NP0
 and_CJC
-Hopper_NP0-NN1
+Hopper_NP0
 came_VVD
 up_AVP
 with_PRP
@@ -21698,14 +21698,14 @@ Steve_NP0
 to_TO0
 produce_VVI
 intelligent_AJ0
-low-budget_AJ0-NN1
+low-budget_AJ0
 pictures_NN2
 the_AT0
 thinking_VVG
 man_NN1
 's_POS
 Roger_NP0
-Corman_NP0-NN1
+Corman_NP0
 movies_NN2
 someone_PNI
 said_VVD
@@ -21847,7 +21847,7 @@ us_PNP
 said_VVD
 Schneider_NP0
 Dennis_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 was_VBD
 even_AV0
 more_AV0
@@ -21887,7 +21887,7 @@ and_CJC
 understandingly_AV0
 friends_NN2
 of_PRF
-Hopper_NP0-NN1
+Hopper_NP0
 's_POS
 Fonda_NP0
 and_CJC
@@ -21930,7 +21930,7 @@ during_PRP
 long_AJ0
 bouts_NN2
 of_PRF
-Hopper_NP0-NN1
+Hopper_NP0
 's_POS
 depression_NN1
 rages_NN2
@@ -21990,7 +21990,7 @@ chances_NN2
 by_PRP
 his_DPS
 complete_AJ0
-anti-establishment_AJ0-NN1
+anti-establishment_NN1
 stance_NN1
 He_PNP
 would_VM0
@@ -22073,7 +22073,7 @@ from_PRP
 financing_VVG
 a_AT0
 screenplay_NN1
-Hopper_NP0-NN1
+Hopper_NP0
 had_VHD
 written_VVN
 called_VVN
@@ -22114,7 +22114,7 @@ accounts_NN2
 it_PNP
 was_VBD
 rejection_NN1
-hurt_VVI
+hurt_VVN
 It_PNP
 destroyed_VVN
 him_PNP
@@ -22162,7 +22162,7 @@ resuscitation_NN1
 on_PRP
 his_DPS
 ego_NN1
-Added_VVN-AJ0
+Added_AJ0
 to_TO0
 the_AT0
 volatile_AJ0
@@ -22170,7 +22170,7 @@ almost_AV0
 certifiable_AJ0
 personality_NN1
 of_PRF
-Hopper_NP0-NN1
+Hopper_NP0
 was_VBD
 the_AT0
 ambition_NN1
@@ -22184,7 +22184,7 @@ admit_VVI
 it_PNP
 but_CJC
 was_VBD
-wanting_VVG-AJ0
+wanting_VVG
 at_PRP
 that_CJT
 point_NN1
@@ -22209,7 +22209,7 @@ critics_NN2
 that_CJT
 he_PNP
 could_VM0
-act_VVI
+act_NN1
 a_AT0
 considerable_AJ0
 undertaking_VVG
@@ -22237,7 +22237,7 @@ do_VDB
 something_PNI
 worthwhile_AJ0
 Alongside_PRP
-Hopper_NP0-NN1
+Hopper_NP0
 Fonda_NP0
 was_VBD
 a_AT0
@@ -22252,7 +22252,7 @@ wanted_VVD
 for_PRP
 little_AJ0
 except_CJS
-self-fulfilment_NN1-AJ0
+self-fulfilment_NN1
 which_DTQ
 gnawed_VVD
 away_AV0
@@ -22390,7 +22390,7 @@ chance_NN1
 that_CJT
 Nicholson_NP0
 was_VBD
-cast_VVN
+cast_NN1
 for_PRP
 the_AT0
 film_NN1
@@ -22412,7 +22412,7 @@ in_PRP
 New_AJ0
 Orleans_NP0
 Rip_NP0
-Torn_VVN-AJ0
+Torn_AJ0
 who_PNQ
 was_VBD
 first_ORD
@@ -22432,7 +22432,7 @@ pleadings_NN2
 of_PRF
 Fonda_NP0
 and_CJC
-Hopper_NP0-NN1
+Hopper_NP0
 and_CJC
 pulled_VVD
 out_AVP
@@ -22497,7 +22497,7 @@ BBS_NP0
 seriously_AV0
 considered_VVN
 firing_VVG
-Hopper_NP0-NN1
+Hopper_NP0
 the_AT0
 pressure_NN1
 of_PRF
@@ -22548,7 +22548,7 @@ heavy_AJ0
 burden_NN1
 for_PRP
 all_DT0
-Hopper_NP0-NN1
+Hopper_NP0
 will_VM0
 probably_AV0
 agree_VVI
@@ -22588,7 +22588,7 @@ part_NN1
 reserved_VVN
 for_PRP
 Rip_NP0
-Torn_VVN-AJ0
+Torn_AJ0
 Nicholson_NP0
 brought_VVN
 instant_AJ0
@@ -22608,7 +22608,7 @@ had_VHD
 learned_VVN
 from_PRP
 the_AT0
-Corman_NP0-NN1
+Corman_NP0
 modus_UNC
 operandi_UNC
 He_PNP
@@ -22663,7 +22663,7 @@ Byrds_NP0
 the_AT0
 Jimi_NP0
 Hendrix_NP0
-Experience_NN1-VVB
+Experience_NN1
 the_AT0
 Electric_AJ0
 Prunes_NN2
@@ -22717,7 +22717,7 @@ society_NN1
 as_CJS
 perceived_VVN
 by_PRP
-Hopper_NP0-NN1
+Hopper_NP0
 in_PRP
 1968_CRD
 with_PRP
@@ -22728,7 +22728,7 @@ about_PRP
 drug_NN1
 use_NN1
 and_CJC
-undertones_NN2-VVZ
+undertones_NN2
 about_PRP
 the_AT0
 consequences_NN2
@@ -22749,7 +22749,7 @@ Otherwise_AV0
 any_DT0
 tendency_NN1
 towards_PRP
-moralizing_VVG-NN1
+moralizing_VVG
 was_VBD
 overshadowed_VVN
 by_PRP
@@ -22767,7 +22767,7 @@ central_AJ0
 characters_NN2
 played_VVD
 by_PRP
-Hopper_NP0-NN1
+Hopper_NP0
 and_CJC
 Fonda_NP0
 are_VBB
@@ -22819,7 +22819,7 @@ It_PNP
 was_VBD
 the_AT0
 ultimate_AJ0
-biker-drug-sex_AJ0-NN1
+biker-drug-sex_AJ0
 film_NN1
 which_DTQ
 also_AV0
@@ -22850,7 +22850,7 @@ to_TO0
 that_CJT
 great_AJ0
 hippie_NN1
-gathering_NN1
+gathering_VVG
 in_PRP
 the_AT0
 sky_NN1
@@ -22895,7 +22895,7 @@ on_PRP
 the_AT0
 other_AJ0
 As_CJS
-Hopper_NP0-NN1
+Hopper_NP0
 said_VVD
 Do_VDB
 n't_XX0
@@ -22940,7 +22940,7 @@ first_ORD
 even_AV0
 before_PRP
 Fonda_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 and_CJC
 screenwriter_NN1
 Terry_NP0
@@ -22982,7 +22982,7 @@ again_AV0
 Nicholson_NP0
 Fonda_NP0
 and_CJC
-Hopper_NP0-NN1
+Hopper_NP0
 had_VHD
 become_VVI
 the_AT0
@@ -22992,7 +22992,7 @@ friends_NN2
 As_CJS
 he_PNP
 watched_VVD
-Hopper_NP0-NN1
+Hopper_NP0
 work_NN1
 Nicholson_NP0
 came_VVD
@@ -23019,7 +23019,7 @@ still_AV0
 is_VBZ
 quite_AV0
 awesome_AJ0
-Hopper_NP0-NN1
+Hopper_NP0
 's_POS
 direction_NN1
 of_PRF
@@ -23063,7 +23063,7 @@ translate_VVI
 the_AT0
 confusion_NN1
 of_PRF
-Hopper_NP0-NN1
+Hopper_NP0
 and_CJC
 Fonda_NP0
 's_POS
@@ -23102,7 +23102,7 @@ a_AT0
 Dylan_NP0
 Thomas_NP0
 in_PRP
-Hopper_NP0-NN1
+Hopper_NP0
 not_XX0
 just_AV0
 in_PRP
@@ -23170,7 +23170,7 @@ he_PNP
 cleaned_VVN
 up_AVP
 his_DPS
-act_VVI
+act_NN1
 but_CJC
 by_PRP
 then_AV0
@@ -23193,7 +23193,7 @@ Easy_AJ0
 Rider_NN1
 that_CJT
 typified_VVN
-Hopper_NP0-NN1
+Hopper_NP0
 's_POS
 abilities_NN2
 It_PNP
@@ -23277,11 +23277,11 @@ for_PRP
 the_AT0
 film_NN1
 When_CJS
-Hopper_NP0-NN1
+Hopper_NP0
 and_CJC
 Fonda_NP0
 arrived_VVD
-Hopper_NP0-NN1
+Hopper_NP0
 looking_VVG
 rough_AJ0
 and_CJC
@@ -23340,7 +23340,7 @@ as_CJS
 long_AJ0
 as_CJS
 that_CJT
-Hopper_NP0-NN1
+Hopper_NP0
 insisted_VVD
 that_CJT
 he_PNP
@@ -23361,7 +23361,7 @@ selected_VVN
 He_PNP
 and_CJC
 Fonda_NP0
-retired_AJ0
+retired_VVD
 to_TO0
 their_DPS
 trailer_NN1
@@ -23419,7 +23419,7 @@ began_VVD
 growling_VVG
 man_NN1
 said_VVD
-Hopper_NP0-NN1
+Hopper_NP0
 Straightaway_AV0
 they_PNP
 got_VVN
@@ -23707,7 +23707,7 @@ It_PNP
 started_VVD
 well_AV0
 but_CJC
-Hopper_NP0-NN1
+Hopper_NP0
 who_PNQ
 was_VBD
 acting_VVG
@@ -23819,7 +23819,7 @@ point_NN1
 where_AVQ
 he_PNP
 is_VBZ
-stoned_VVN-AJ0
+stoned_VVN
 and_CJC
 slurred_VVD
 through_PRP
@@ -23849,7 +23849,7 @@ by_PRP
 then_AV0
 he_PNP
 was_VBD
-stoned_VVN-AJ0
+stoned_VVN
 before_PRP
 the_AT0
 scene_NN1
@@ -23862,17 +23862,17 @@ to_TO0
 play_VVI
 normal_AJ0
 and_CJC
-act_VVI
-stoned_VVN-AJ0
+act_NN1
+stoned_VVN
 he_PNP
 was_VBD
 having_VHG
 to_TO0
-act_VVI
+act_NN1
 normal_AJ0
 and_CJC
 play_VVI
-stoned_VVN-AJ0
+stoned_VVN
 There_EX0
 was_VBD
 an_AT0
@@ -23893,7 +23893,7 @@ verging_VVG
 on_PRP
 hysterics_NN2
 with_PRP
-Hopper_NP0-NN1
+Hopper_NP0
 somewhere_AV0
 off_AVP
 camera_NN1
@@ -23907,7 +23907,7 @@ according_VVG
 to_TO0
 Nicholson_NP0
 totally_AV0
-freaked_VVN-VVD
+freaked_VVD
 out_AVP
 while_CJS
 Jack_NP0
@@ -23950,7 +23950,7 @@ Fonda_NP0
 a_AT0
 committed_VVN
 monogamist_NN1
-Hopper_NP0-NN1
+Hopper_NP0
 and_CJC
 Nicholson_NP0
 often_AV0
@@ -24119,7 +24119,7 @@ as_CJS
 dusk_NN1
 began_VVD
 to_TO0
-fall_VVI
+fall_NN1
 they_PNP
 got_VVN
 sentimental_AJ0
@@ -24129,7 +24129,7 @@ other_AJ0
 and_CJC
 began_VVD
 to_TO0
-cry_VVI
+cry_NN1
 Jack_NP0
 said_VVD
 We_PNP
@@ -24246,7 +24246,7 @@ the_AT0
 top_NN1
 of_PRF
 a_AT0
-forty-foot_AJ0-NN1
+forty-foot_AJ0
 tree_NN1
 he_PNP
 had_VHD
@@ -24262,7 +24262,7 @@ on_PRP
 a_AT0
 vast_AJ0
 meadow_NN1
-flecked_VVN-VVD
+flecked_VVN
 with_PRP
 patterns_NN2
 of_PRF
@@ -24430,7 +24430,7 @@ that_CJT
 in_PRP
 the_AT0
 film_NN1
-Hopper_NP0-NN1
+Hopper_NP0
 wrote_VVD
 the_AT0
 line_NN1
@@ -24450,9 +24450,9 @@ they_PNP
 were_VBD
 criminals_NN2
 said_VVD
-Hopper_NP0-NN1
+Hopper_NP0
 They_PNP
-smuggled_VVN
+smuggled_VVD
 drugs_NN2
 and_CJC
 used_VVN
@@ -24472,7 +24472,7 @@ Fonda_NP0
 began_VVD
 to_TO0
 get_VVI
-Hopper_NP0-NN1
+Hopper_NP0
 's_POS
 point_NN1
 So_AV0
@@ -24486,7 +24486,7 @@ illicit_AJ0
 source_NN1
 Correct_AJ0
 said_VVD
-Hopper_NP0-NN1
+Hopper_NP0
 That_DT0
 's_POS
 why_AVQ
@@ -24694,7 +24694,7 @@ the_AT0
 road_NN1
 they_PNP
 become_VVI
-involved_AJ0
+involved_VVN
 in_PRP
 an_AT0
 argument_NN1
@@ -24739,7 +24739,7 @@ around_PRP
 that_CJT
 Fonda_NP0
 and_CJC
-Hopper_NP0-NN1
+Hopper_NP0
 had_VHD
 produced_VVN
 a_AT0
@@ -24751,7 +24751,7 @@ establishment_NN1
 magazines_NN2
 began_VVD
 by_PRP
-deprecating_AJ0-NN1
+deprecating_AJ0
 the_AT0
 film_NN1
 's_POS
@@ -24799,7 +24799,7 @@ the_AT0
 script_NN1
 and_CJC
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 concept_NN1
 In_PRP
 fact_NN1
@@ -24843,7 +24843,7 @@ Fonda_NP0
 reckoned_VVD
 that_CJT
 Dennis_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 's_POS
 performance_NN1
 had_VHD
@@ -24969,9 +24969,9 @@ anything_PNI
 at_PRP
 all_DT0
 was_VBD
-self-delusion_NN1-AJ0
+self-delusion_AJ0
 and_CJC
-deceit_NN1-VVB
+deceit_NN1
 The_AT0
 truth_NN1
 was_VBD
@@ -25022,7 +25022,7 @@ there_EX0
 are_VBB
 few_DT0
 comparable_AJ0
-profit-to-cost_AJ0-NN1
+profit-to-cost_AJ0
 examples_NN2
 in_PRP
 the_AT0
@@ -25032,7 +25032,7 @@ Hollywood_NP0
 For_PRP
 once_AV0
 when_CJS
-Hopper_NP0-NN1
+Hopper_NP0
 said_VVD
 Wow_ITJ
 it_PNP
@@ -25063,7 +25063,7 @@ he_PNP
 was_VBD
 able_AJ0
 to_TO0
-present_AJ0-NN1
+present_AJ0
 himself_PNX
 in_PRP
 the_AT0
@@ -25074,13 +25074,13 @@ that_CJT
 of_PRF
 self-satisfaction_NN1
 because_CJS
-Hopper_NP0-NN1
+Hopper_NP0
 gave_VVD
 him_PNP
 carte_UNC
 blanche_UNC
 to_TO0
-edit_VVI
+edit_NN1
 his_DPS
 own_DT0
 part_NN1
@@ -25159,7 +25159,7 @@ that_CJT
 he_PNP
 was_VBD
 a_AT0
-veteran_AJ0-NN1
+veteran_NN1
 of_PRF
 a_AT0
 string_NN1
@@ -25212,7 +25212,7 @@ who_PNQ
 go_VVI
 and_CJC
 watch_VVI
-drive-in_NN1-AJ0
+drive-in_AJ0
 movies_NN2
 Easy_AJ0
 Rider_NN1
@@ -25235,7 +25235,7 @@ examples_NN2
 of_PRF
 performances_NN2
 which_DTQ
-fall_VVI
+fall_NN1
 into_PRP
 this_DT0
 category_NN1
@@ -25282,7 +25282,7 @@ the_AT0
 shape_NN1
 of_PRF
 John_NP0
-Voight_NP0-NN1
+Voight_NP0
 and_CJC
 his_DPS
 smelly_AJ0
@@ -25295,7 +25295,7 @@ the_AT0
 Oscar-winning_AJ0
 film_NN1
 Midnight_NN1
-Cowboy_NN1-NP0
+Cowboy_NN1
 While_CJS
 that_CJT
 was_VBD
@@ -25346,7 +25346,7 @@ in_PRP
 Easy_AJ0
 Rider_NN1
 Fonda_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 and_CJC
 especially_AV0
 Nicholson_NP0
@@ -25378,7 +25378,7 @@ an_AT0
 Oscar_NP0
 as_CJS
 Best_AJS
-Supporting_AJ0-VVG
+Supporting_VVG
 Actor_NN1
 spoke_VVD
 for_PRP
@@ -25441,7 +25441,7 @@ referred_VVN
 to_TO0
 even_AV0
 poetically_AV0
-eulogized_VVD-VVN
+eulogized_VVD
 in_PRP
 song_NN1
 but_CJC
@@ -25525,7 +25525,7 @@ hold_VVI
 forth_AV0
 at_PRP
 the_AT0
-drop_VVI
+drop_NN1
 of_PRF
 a_AT0
 hat_NN1
@@ -25567,7 +25567,7 @@ underlying_AJ0
 presence_NN1
 that_CJT
 Fonda_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 and_CJC
 Nicholson_NP0
 caught_VVN
@@ -25609,7 +25609,7 @@ Kennedy_NP0
 and_CJC
 Dr_NP0
 Martin_NP0
-Luther_NP0-NN1
+Luther_NP0
 King_NP0
 the_AT0
 previous_AJ0
@@ -25633,7 +25633,7 @@ its_DPS
 American_AJ0
 victim_NN1
 fever-pitch_AJ0
-anti-war_AJ0-NN1
+anti-war_AJ0
 demonstrations_NN2
 and_CJC
 the_AT0
@@ -25660,7 +25660,7 @@ and_CJC
 two_CRD
 million_CRD
 acres_NN2
-defoliated_AJ0-VVN
+defoliated_AJ0
 in_PRP
 South_NN1
 Vietnam_NP0
@@ -25677,7 +25677,7 @@ Paris_NP0
 student_NN1
 riots_NN2
 the_AT0
-Biafran_NN1-AJ0
+Biafran_AJ0
 conflict_NN1
 and_CJC
 scenes_NN2
@@ -25739,7 +25739,7 @@ and_CJC
 unbelievable_AJ0
 scenes_NN2
 of_PRF
-street-fighting_NN1-AJ0
+street-fighting_AJ0
 Jan_NP0
 Palach_NP0
 a_AT0
@@ -25796,11 +25796,11 @@ before_PRP
 used_VVN
 bayonets_NN2
 and_CJC
-tear_NN1-VVB
+tear_NN1
 gas_NN1
 to_TO0
 disperse_VVI
-anti-war_AJ0-NN1
+anti-war_AJ0
 demonstrators_NN2
 at_PRP
 Kent_NP0
@@ -25866,7 +25866,7 @@ of_PRF
 this_DT0
 blood_NN1
 and_CJC
-gore_NN1-VVB
+gore_NN1
 all_DT0
 of_PRF
 this_DT0
@@ -25939,7 +25939,7 @@ Rider_NN1
 and_CJC
 Nicholson_NP0
 's_POS
-coming-out_NN1-AJ0
+coming-out_AJ0
 party_NN1
 provided_VVN
 contrasting_AJ0
@@ -26145,7 +26145,7 @@ screams_NN2
 of_PRF
 an_AT0
 acid_NN1
-drop_VVI
+drop_NN1
 gone_VVN
 wrong_AJ0
 For_PRP
@@ -26290,7 +26290,7 @@ of_PRF
 the_AT0
 impending_AJ0
 apocalypse_NN1
-heightened_AJ0
+heightened_VVN
 Is_VBZ
 this_DT0
 all_DT0
@@ -26371,7 +26371,7 @@ and_CJC
 brought_VVN
 Nicholson_NP0
 and_CJC
-Hopper_NP0-NN1
+Hopper_NP0
 to_TO0
 the_AT0
 heart_NN1
@@ -26383,7 +26383,7 @@ great_AJ0
 tragedies_NN2
 of_PRF
 this_DT0
-drug-infested_AJ0-NN1
+drug-infested_NN1
 era_NN1
 Brave_AJ0
 New_AJ0
@@ -26438,8 +26438,8 @@ living-room_NN1
 walls_NN2
 of_PRF
 director_NN1
-Roman_AJ0-NN1
-Polanski_NP0-NN1
+Roman_AJ0
+Polanski_NP0
 's_POS
 home_NN1
 after_PRP
@@ -26461,7 +26461,7 @@ is_VBZ
 still_AV0
 serving_VVG
 life_NN1
-Polanski_NP0-NN1
+Polanski_NP0
 on_PRP
 the_AT0
 other_AJ0
@@ -26495,7 +26495,7 @@ I_PNP
 always_AV0
 felt_VVD
 that_CJT
-Roman_AJ0-NN1
+Roman_AJ0
 was_VBD
 exiled_VVN
 because_CJS
@@ -26546,7 +26546,7 @@ the_AT0
 Tate_NP0
 murders_NN2
 at_PRP
-Polanski_NP0-NN1
+Polanski_NP0
 's_POS
 rented_VVN
 home_NN1
@@ -26582,7 +26582,7 @@ being_VBG
 a_AT0
 friend_NN1
 of_PRF
-Polanski_NP0-NN1
+Polanski_NP0
 he_PNP
 gleaned_VVN
 first-hand_AJ0
@@ -26652,7 +26652,7 @@ odd_AJ0
 way_NN1
 was_VBD
 the_AT0
-convulsing_AJ0-NN1
+convulsing_AJ0
 extremism_NN1
 at_PRP
 both_AV0
@@ -26691,7 +26691,7 @@ death_NN1
 Sharon_NP0
 Tate_NP0
 was_VBD
-listed_AJ0
+listed_VVN
 among_PRP
 the_AT0
 enemies_NN2
@@ -26739,7 +26739,7 @@ riots_NN2
 The_AT0
 killing_VVG
 of_PRF
-Polanski_NP0-NN1
+Polanski_NP0
 's_POS
 wife_NN1
 who_PNQ
@@ -26783,7 +26783,7 @@ the_AT0
 grounds_NN2
 naturally_AV0
 caused_VVN
-Polanski_NP0-NN1
+Polanski_NP0
 extreme_AJ0
 mental_AJ0
 torture_NN1
@@ -26823,7 +26823,7 @@ led_VVD
 finally_AV0
 to_TO0
 his_DPS
-fast_AV0-AJ0
+fast_AJ0
 exit_NN1
 from_PRP
 America_NP0
@@ -26861,7 +26861,7 @@ few_DT0
 years_NN2
 later_AV0
 when_CJS
-Polanski_NP0-NN1
+Polanski_NP0
 was_VBD
 accused_VVN
 of_PRF
@@ -26898,7 +26898,7 @@ Nicholson_NP0
 has_VHZ
 remained_VVD
 a_AT0
-devoted_AJ0-VVN
+devoted_AJ0
 defender_NN1
 of_PRF
 his_DPS
@@ -26924,7 +26924,7 @@ to_TO0
 achieve_VVI
 In_PRP
 1969_CRD
-Polanski_NP0-NN1
+Polanski_NP0
 and_CJC
 Nicholson_NP0
 were_VBD
@@ -26939,7 +26939,7 @@ common_AJ0
 interests_NN2
 it_PNP
 was_VBD
-Polanski_NP0-NN1
+Polanski_NP0
 who_PNQ
 claims_NN2
 to_TO0
@@ -27086,7 +27086,7 @@ that_CJT
 year_NN1
 Jack_NP0
 and_CJC
-Roman_AJ0-NN1
+Roman_AJ0
 had_VHD
 a_AT0
 common_AJ0
@@ -27099,7 +27099,7 @@ Hollywood_NP0
 which_DTQ
 was_VBD
 as_CJS
-Polanski_NP0-NN1
+Polanski_NP0
 recalled_VVD
 in_PRP
 his_DPS
@@ -27113,7 +27113,7 @@ sex_NN1
 culture_NN1
 a_AT0
 topic_NN1
-fanned_VVN-VVD
+fanned_VVD
 through_PRP
 their_DPS
 own_DT0
@@ -27129,7 +27129,7 @@ tragic_AJ0
 events_NN2
 in_PRP
 the_AT0
-Polanski_NP0-NN1
+Polanski_NP0
 house_NN1
 The_AT0
 topic_NN1
@@ -27162,12 +27162,12 @@ substantially_AV0
 reduced_VVN
 penalties_NN2
 for_PRP
-pot-smoking_NN1-AJ0
+pot-smoking_AJ0
 In_PRP
 Los_NP0
 Angeles_NP0
 discussions_NN2
-centred_VVN-VVD
+centred_VVN
 not_XX0
 merely_AV0
 on_PRP
@@ -27186,7 +27186,7 @@ on_PRP
 the_AT0
 widespread_AJ0
 and_CJC
-varied_AJ0
+varied_VVN
 substances_NN2
 which_DTQ
 were_VBD
@@ -27211,7 +27211,7 @@ protest_NN1
 movement_NN1
 Very_AV0
 quickly_AV0
-Polanski_NP0-NN1
+Polanski_NP0
 and_CJC
 Nicholson_NP0
 became_VVD
@@ -27271,10 +27271,10 @@ trendy_AJ0
 The_AT0
 likes_VVZ
 of_PRF
-Polanski_NP0-NN1
+Polanski_NP0
 Nicholson_NP0
 and_CJC
-Hopper_NP0-NN1
+Hopper_NP0
 all_DT0
 talked_VVD
 freedom_NN1
@@ -27297,7 +27297,7 @@ those_DT0
 who_PNQ
 followed_VVN
 the_AT0
-anti-war_AJ0-NN1
+anti-war_AJ0
 hippie-inspired_AJ0
 trend_NN1
 of_PRF
@@ -27499,7 +27499,7 @@ were_VBD
 electing_VVG
 him_PNP
 and_CJC
-Hopper_NP0-NN1
+Hopper_NP0
 and_CJC
 to_TO0
 a_AT0
@@ -27546,7 +27546,7 @@ Tate_NP0
 murders_NN2
 by_PRP
 Stephen_NP0
-Farber_NP0-NN1
+Farber_NN1
 for_PRP
 the_AT0
 winter_NN1
@@ -27556,7 +27556,7 @@ the_AT0
 respected_VVN
 journal_NN1
 Film_NN1
-Quarterly_NN1-AJ0
+Quarterly_NN1
 in_PRP
 which_DTQ
 he_PNP
@@ -27642,7 +27642,7 @@ innocents_NN2
 slaughtered_VVN
 by_PRP
 barbarians_NN2
-Polanski_NP0-NN1
+Polanski_NP0
 had_VHD
 received_VVD
 notices_NN2
@@ -27664,7 +27664,7 @@ critically_AV0
 but_CJC
 the_AT0
 American_AJ0
-Catholic_AJ0-NN1
+Catholic_AJ0
 Office_NN1
 for_PRP
 Motion_NN1
@@ -27673,7 +27673,7 @@ the_AT0
 former_DT0
 Legion_NN1
 of_PRF
-Decency_NP0-NN1
+Decency_NN1
 gave_VVD
 it_PNP
 a_AT0
@@ -27746,14 +27746,14 @@ of_PRF
 Jacqueline_NP0
 Susann_NP0
 's_POS
-true-life_AJ0-NN1
+true-life_AJ0
 novel_NN1
-Valley_NN1-NP0
+Valley_NN1
 of_PRF
 the_AT0
 Dolls_NN2
 about_PRP
-pill-popping_NN1-AJ0
+pill-popping_NN1
 sex-crazed_AJ0
 Los_NP0
 Angeles_NP0
@@ -27775,7 +27775,7 @@ was_VBD
 done_VDN
 she_PNP
 and_CJC
-Polanski_NP0-NN1
+Polanski_NP0
 flew_VVD
 to_TO0
 London_NP0
@@ -27788,7 +27788,7 @@ profile_NN1
 with_PRP
 the_AT0
 London_NP0
-Playboy_NP0-NN1
+Playboy_NN1
 boss_NN1
 Victor_NP0
 Lownes_NP0
@@ -27853,7 +27853,7 @@ distinct_AJ0
 inferences_NN2
 first_ORD
 that_CJT
-Polanski_NP0-NN1
+Polanski_NP0
 through_PRP
 his_DPS
 and_CJC
@@ -27968,7 +27968,7 @@ as_CJS
 anything_PNI
 depicted_VVN
 in_PRP
-Polanski_NP0-NN1
+Polanski_NP0
 's_POS
 film_NN1
 explorations_NN2
@@ -28011,7 +28011,7 @@ the_AT0
 glimpse_NN1
 the_AT0
 murders_NN2
-yielded_VVD-VVN
+yielded_VVD
 into_PRP
 the_AT0
 surprising_AJ0
@@ -28020,7 +28020,7 @@ sub-culture_NN1
 in_PRP
 which_DTQ
 the_AT0
-cast_VVN
+cast_NN1
 of_PRF
 characters_NN2
 played_VVD
@@ -28083,7 +28083,7 @@ kinky_AJ0
 sex_NN1
 videos_NN2
 starring_VVG
-Polanski_NP0-NN1
+Polanski_NP0
 and_CJC
 his_DPS
 wife_NN1
@@ -28108,7 +28108,7 @@ the_AT0
 fiction_NN1
 of_PRF
 Hollywood_NP0
-merged_VVN-VVD
+merged_VVN
 with_PRP
 fact_NN1
 scenes_NN2
@@ -28290,7 +28290,7 @@ myself_PNX
 said_VVD
 Nicholson_NP0
 Dennis_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 went_VVD
 to_TO0
 the_AT0
@@ -28319,7 +28319,7 @@ the_AT0
 Hall_NN1
 of_PRF
 Justice_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 listened_VVD
 and_CJC
 was_VBD
@@ -28394,7 +28394,7 @@ and_CJC
 recorded_VVN
 it_PNP
 on_PRP
-video-tape_NN1-AJ0
+video-tape_NN1
 The_AT0
 LA_NP0
 police_NN2
@@ -28490,7 +28490,7 @@ the_AT0
 Los_NP0
 Angeles_NP0
 Free_AJ0
-Press_NN1-VVB
+Press_NN1
 allowed_VVN
 Manson_NP0
 to_TO0
@@ -28513,7 +28513,7 @@ depicted_VVN
 him_PNP
 on_PRP
 a_AT0
-cross_VVI
+cross_NN1
 Life_NN1
 magazine_NN1
 put_VVI
@@ -28639,7 +28639,7 @@ narcoticizers_NN2
 to_TO0
 deplore_VVI
 the_AT0
-damaging_VVG-AJ0
+damaging_AJ0
 possibilities_NN2
 of_PRF
 drugs_NN2
@@ -28692,7 +28692,7 @@ when_CJS
 he_PNP
 did_VDD
 the_AT0
-Playboy_NP0-NN1
+Playboy_NN1
 interview_NN1
 he_PNP
 fuelled_VVN
@@ -28813,7 +28813,7 @@ he_PNP
 had_VHD
 not_XX0
 become_VVI
-involved_AJ0
+involved_VVN
 with_PRP
 smoking_VVG
 marijuana_NN1
@@ -28996,7 +28996,7 @@ his_DPS
 dick_NN1
 as_CJS
 an_AT0
-aphrodisiac_NN1-AJ0
+aphrodisiac_NN1
 But_CJC
 his_DPS
 conclusion_NN1
@@ -29010,7 +29010,7 @@ a_AT0
 thing_NN1
 as_CJS
 an_AT0
-aphrodisiac_NN1-AJ0
+aphrodisiac_NN1
 I_PNP
 sort_NN1
 of_PRF
@@ -29141,7 +29141,7 @@ perplexed_VVN
 the_AT0
 establishment_NN1
 and_CJC
-anti-drug_AJ0-NN1
+anti-drug_AJ0
 abuse_NN1
 authorities_NN2
 at_PRP
@@ -29168,7 +29168,7 @@ Brian_NP0
 Jones_NP0
 Jimi_NP0
 Hendrix_NP0
-Janis_NP0-NN1
+Janis_NP0
 Joplin_NP0
 and_CJC
 Jim_NP0
@@ -29209,7 +29209,7 @@ the_AT0
 periphery_NN1
 of_PRF
 the_AT0
-Polanski_NP0-NN1
+Polanski_NP0
 affair_NN1
 he_PNP
 was_VBD
@@ -29406,7 +29406,7 @@ millions_CRD
 rather_AV0
 than_CJS
 thousands_CRD
-Hopper_NP0-NN1
+Hopper_NP0
 arranged_VVN
 for_PRP
 Jack_NP0
@@ -29552,7 +29552,7 @@ other_AJ0
 motive_NN1
 Nicholson_NP0
 and_CJC
-Hopper_NP0-NN1
+Hopper_NP0
 suddenly_AV0
 became_VVD
 the_AT0
@@ -29589,7 +29589,7 @@ were_VBD
 all_DT0
 trying_VVG
 Dennis_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 meanwhile_AV0
 was_VBD
 resurrecting_VVG
@@ -29616,7 +29616,7 @@ American_AJ0
 Dream_NN1
 As_CJS
 the_AT0
-box-office_AJ0-NN1
+box-office_NN1
 grosses_CRD
 mounted_VVD
 establishment_NN1
@@ -29649,7 +29649,7 @@ finally_AV0
 going_VVG
 into_PRP
 production_NN1
-Hopper_NP0-NN1
+Hopper_NP0
 was_VBD
 showing_VVG
 all_DT0
@@ -29692,7 +29692,7 @@ do_VDB
 Easy_AJ0
 Rider_NN1
 Gee_ITJ
-whiz_VVB-NN1
+whiz_VVB
 man_NN1
 You_PNP
 know_VVI
@@ -29731,7 +29731,7 @@ now_AV0
 they_PNP
 'll_VM0
 all_DT0
-laugh_VVI
+laugh_NN1
 and_CJC
 say_VVI
 Easy_AJ0
@@ -29791,7 +29791,7 @@ lead_VVI
 yourself_PNX
 True_AJ0
 said_VVD
-Hopper_NP0-NN1
+Hopper_NP0
 but_CJC
 I_PNP
 thought_VVD
@@ -29814,7 +29814,7 @@ other_AJ0
 foul_AJ0
 names_NN2
 and_CJC
-Hopper_NP0-NN1
+Hopper_NP0
 cleared_VVN
 off_AVP
 to_TO0
@@ -29836,7 +29836,7 @@ included_VVD
 Peter_NP0
 Fonda_NP0
 Jim_NP0
-Mitchum_NP0-NN1
+Mitchum_NP0
 and_CJC
 Michelle_NP0
 Phillips_NP0
@@ -29854,7 +29854,7 @@ John_NP0
 Phillips_NP0
 had_VHD
 been_VBN
-involved_AJ0
+involved_VVN
 in_PRP
 some_DT0
 bitter_AJ0
@@ -29872,7 +29872,7 @@ out_AVP
 this_DT0
 rejection_NN1
 of_PRF
-Hopper_NP0-NN1
+Hopper_NP0
 's_POS
 advances_NN2
 was_VBD
@@ -29889,7 +29889,7 @@ from_PRP
 the_AT0
 fact_NN1
 that_CJT
-Hopper_NP0-NN1
+Hopper_NP0
 's_POS
 movie_NN1
 was_VBD
@@ -29956,7 +29956,7 @@ York_NP0
 with_PRP
 his_DPS
 girlfriend_NN1
-Mimi_NP0-NN1
+Mimi_NP0
 Machu_NP0
 for_PRP
 company_NN1
@@ -29971,7 +29971,7 @@ Award_NN1
 The_AT0
 relationship_NN1
 with_PRP
-Mimi_NP0-NN1
+Mimi_NP0
 had_VHD
 survived_VVD
 its_DPS
@@ -30036,7 +30036,7 @@ had_VHD
 never_AV0
 happened_VVD
 before_PRP
-Mimi_NP0-NN1
+Mimi_NP0
 did_VDD
 not_XX0
 appreciate_VVI
@@ -30098,7 +30098,7 @@ and_CJC
 eventually_AV0
 he_PNP
 asked_VVD
-Mimi_NP0-NN1
+Mimi_NP0
 Do_VDB
 they_PNP
 let_VVB
@@ -30109,7 +30109,7 @@ Sardi_NP0
 without_PRP
 a_AT0
 tie_NN1
-Mimi_NP0-NN1
+Mimi_NP0
 did_VDD
 n't_XX0
 know_VVI
@@ -30163,8 +30163,8 @@ Easy_AJ0
 Rider_NN1
 is_VBZ
 my_DPS
-favourite_AJ0-NN1
-characteristic_AJ0-NN1
+favourite_AJ0
+characteristic_NN1
 in_PRP
 art_NN1
 It_PNP
@@ -30195,7 +30195,7 @@ his_DPS
 films_NN2
 states_NN2
 that_CJT
-clawing_VVG-AJ0
+clawing_VVG
 your_DPS
 way_NN1
 to_TO0
@@ -30306,8 +30306,8 @@ roles_NN2
 and_CJC
 moderate_AJ0
 fame_NN1
-Vincente_NP0-NN1
-Minnelli_NP0-NN1
+Vincente_NP0
+Minnelli_NP0
 a_AT0
 director_NN1
 of_PRF
@@ -30351,7 +30351,7 @@ film_NN1
 called_VVN
 On_PRP
 a_AT0
-Clear_VVB
+Clear_AJ0
 Day_NN1
 You_PNP
 Can_VM0
@@ -30377,7 +30377,7 @@ musical_AJ0
 by_PRP
 Alan_NP0
 J._NP0
-Lerner_NP0-NN1
+Lerner_NN1
 and_CJC
 Burton_NP0
 Lane_NP0
@@ -30386,17 +30386,17 @@ Rider_NN1
 had_VHD
 not_XX0
 yet_AV0
-burgeoned_VVD-VVN
+burgeoned_VVN
 when_CJS
 he_PNP
-cast_VVN
+cast_NN1
 Nicholson_NP0
 to_TO0
 co-star_NN1
 alongside_PRP
 Barbra_NP0
 Streisand_NP0
-Minnelli_NP0-NN1
+Minnelli_NP0
 had_VHD
 seen_VVN
 Jack_NP0
@@ -30457,7 +30457,7 @@ caught_VVN
 Jack_NP0
 on_PRP
 the_AT0
-hop_VVI
+hop_NN1
 It_PNP
 came_VVD
 out_AVP
@@ -30531,7 +30531,7 @@ that_CJT
 of_PRF
 a_AT0
 sitar-playing_AJ0
-hippie-type_AJ0-NN1
+hippie-type_AJ0
 character_NN1
 He_PNP
 also_AV0
@@ -30603,7 +30603,7 @@ and_CJC
 he_PNP
 had_VHD
 not_XX0
-improved_AJ0
+improved_VVN
 with_PRP
 age_NN1
 So_AV0
@@ -30629,7 +30629,7 @@ was_VBD
 in_PRP
 awe_NN1
 of_PRF
-Minnelli_NP0-NN1
+Minnelli_NP0
 this_DT0
 was_VBD
 after_PRP
@@ -30642,7 +30642,7 @@ a_AT0
 mainstream_AJ0
 director_NN1
 of_PRF
-Minnelli_NP0-NN1
+Minnelli_NP0
 's_POS
 vintage_NN1
 and_CJC
@@ -30677,7 +30677,7 @@ nervousness_NN1
 about_PRP
 working_VVG
 with_PRP
-Minnelli_NP0-NN1
+Minnelli_NP0
 was_VBD
 also_AV0
 tinged_VVN
@@ -30695,7 +30695,7 @@ he_PNP
 was_VBD
 going_VVG
 to_TO0
-cross_VVI
+cross_NN1
 the_AT0
 bridge_NN1
 into_PRP
@@ -30721,7 +30721,7 @@ finished_VVN
 making_VVG
 On_PRP
 A_AT0
-Clear_VVB
+Clear_AJ0
 Day_NN1
 and_CJC
 thought_VVD
@@ -30737,7 +30737,7 @@ cleaning_NN1
 up_AVP
 his_DPS
 image_NN1
-shaving_VVG-AJ0
+shaving_VVG
 his_DPS
 stubble_NN1
 and_CJC
@@ -30933,7 +30933,7 @@ big_AJ0
 money_NN1
 fame_NN1
 glamour_NN1
-fast_AV0-AJ0
+fast_AJ0
 cars_NN2
 and_CJC
 all_DT0
@@ -31000,7 +31000,7 @@ after_PRP
 seeing_VVG
 On_PRP
 a_AT0
-Clear_VVB
+Clear_AJ0
 Day_NN1
 He_PNP
 seemed_VVD
@@ -31075,7 +31075,7 @@ including_PRP
 The_AT0
 Godfather_NN1
 The_AT0
-Sting_NP0-NN1
+Sting_NP0
 and_CJC
 The_AT0
 Great_AJ0
@@ -31142,8 +31142,8 @@ mistake_NN1
 already_AV0
 by_PRP
 accepting_VVG
-Vincente_NP0-NN1
-Minnelli_NP0-NN1
+Vincente_NP0
+Minnelli_NP0
 's_POS
 offer_VVI
 and_CJC
@@ -31263,7 +31263,7 @@ not_XX0
 anti-anything_PNI
 it_PNP
 's_POS
-pro_NN1-AJ0
+pro_NN1
 it_PNP
 's_POS
 positive_AJ0
@@ -31293,7 +31293,7 @@ the_AT0
 Sixties_CRD
 began_VVD
 to_TO0
-fall_VVI
+fall_NN1
 away_AV0
 with_PRP
 remarkable_AJ0
@@ -31379,7 +31379,7 @@ property_NN1
 like_PRP
 Nicholson_NP0
 to_TO0
-walk_VVI
+walk_NN1
 in_PRP
 and_CJC
 begin_VVI
@@ -31611,7 +31611,7 @@ blow-ups_NN2
 of_PRF
 the_AT0
 1968_CRD
-French_AJ0-NN1
+French_AJ0
 student_NN1
 riots_NN2
 It_PNP
@@ -31709,7 +31709,7 @@ of_PRF
 Easy_AJ0
 Rider_NN1
 Also_AV0
-challenging_VVG-AJ0
+challenging_VVG
 American_AJ0
 values_NN2
 as_CJS
@@ -31849,7 +31849,7 @@ those_DT0
 who_PNQ
 did_VDD
 not_XX0
-notice_VVI
+notice_NN1
 them_PNP
 Nicholson_NP0
 made_VVN
@@ -31907,7 +31907,7 @@ career_NN1
 to_TO0
 become_VVI
 an_AT0
-oil-rigger_NN1-AJ0
+oil-rigger_AJ0
 a_AT0
 rebel_NN1
 who_PNQ
@@ -32049,7 +32049,7 @@ the_AT0
 role_NN1
 of_PRF
 a_AT0
-caring_VVG-NN1
+caring_NN1
 son_NN1
 Dupea_NP0
 did_VDD
@@ -32106,7 +32106,7 @@ help_VVI
 feeling_NN1
 he_PNP
 actually_AV0
-yearned_VVD-VVN
+yearned_VVD
 for_PRP
 the_AT0
 stability_NN1
@@ -32302,7 +32302,7 @@ a_AT0
 row_NN1
 for_PRP
 a_AT0
-relative_AJ0-NN1
+relative_AJ0
 unknown_AJ0
 a_AT0
 situation_NN1
@@ -32375,7 +32375,7 @@ to_TO0
 be_VBI
 a_AT0
 handy_AJ0
-substitute_NN1-AJ0
+substitute_NN1
 for_PRP
 acting_VVG
 His_DPS
@@ -32442,7 +32442,7 @@ romantic_AJ0
 anti-heroes_NN2
 of_PRF
 Butch_NP0
-Cassidy_NP0-NN1
+Cassidy_NP0
 and_CJC
 The_AT0
 Sundance_NP0
@@ -32463,7 +32463,7 @@ as_CJS
 a_AT0
 bona_UNC
 fide_UNC
-box-office_AJ0-NN1
+box-office_NN1
 star_NN1
 Karen_NP0
 Black_AJ0
@@ -32567,7 +32567,7 @@ men_NN2
 simply_AV0
 because_CJS
 they_PNP
-mock-up_NN1-AJ0
+mock-up_NN1
 that_CJT
 guy_NN1
 as_CJS
@@ -32631,7 +32631,7 @@ put_VVI
 it_PNP
 was_VBD
 still_AV0
-Mimi_NP0-NN1
+Mimi_NP0
 a_AT0
 relationship_NN1
 which_DTQ
@@ -32665,7 +32665,7 @@ of_PRF
 his_DPS
 co-stars_NN2
 Susan_NP0
-Anspach_NP0-NN1
+Anspach_NP0
 She_PNP
 fell_VVD
 momentarily_AV0
@@ -32788,7 +32788,7 @@ he_PNP
 explained_VVD
 because_CJS
 of_PRF
-Anspach_NP0-NN1
+Anspach_NP0
 's_POS
 attitude_NN1
 He_PNP
@@ -32921,7 +32921,7 @@ deeply_AV0
 in_PRP
 love_NN1
 said_VVD
-Anspach_NP0-NN1
+Anspach_NP0
 But_CJC
 they_PNP
 were_VBD
@@ -32967,7 +32967,7 @@ and_CJC
 his_DPS
 affair_NN1
 with_PRP
-Anspach_NP0-NN1
+Anspach_NP0
 his_DPS
 own_DT0
 personal_AJ0
@@ -32975,7 +32975,7 @@ life_NN1
 fell_VVD
 into_PRP
 disarray_NN1
-Mimi_NP0-NN1
+Mimi_NP0
 found_VVD
 out_AVP
 of_PRF
@@ -33013,7 +33013,7 @@ when_CJS
 time_NN1
 allowed_VVN
 So_AV0
-Mimi_NP0-NN1
+Mimi_NP0
 walked_VVD
 out_AVP
 and_CJC
@@ -33037,8 +33037,8 @@ his_DPS
 turn_NN1
 to_TO0
 be_VBI
-hurt_VVI
-Mimi_NP0-NN1
+hurt_VVN
+Mimi_NP0
 Machu_NP0
 who_PNQ
 had_VHD
@@ -33254,7 +33254,7 @@ violent_AJ0
 passions_NN2
 it_PNP
 was_VBD
-arousing_VVG-AJ0
+arousing_AJ0
 in_PRP
 the_AT0
 late_AJ0
@@ -33266,9 +33266,9 @@ a_AT0
 novel_NN1
 by_PRP
 Jeremy_NP0
-Larner_NP0-NN1
+Larner_NP0
 called_VVN
-Drive_NN1-VVB
+Drive_NN1
 and_CJC
 there_EX0
 was_VBD
@@ -33298,7 +33298,7 @@ until_CJS
 by_PRP
 which_DTQ
 time_NN1
-Larner_NP0-NN1
+Larner_NP0
 had_VHD
 achieved_VVN
 additional_AJ0
@@ -33307,7 +33307,7 @@ as_CJS
 speech-writer_NN1
 for_PRP
 the_AT0
-anti-war_AJ0-NN1
+anti-war_AJ0
 Democrat_NN1
 Senator_NP0
 Eugene_NP0
@@ -33333,8 +33333,8 @@ followed_VVN
 in_PRP
 its_DPS
 wake_NN1
-Larner_NP0-NN1
-targeted_AJ0
+Larner_NP0
+targeted_VVD
 McCarthy_NP0
 's_POS
 speeches_NN2
@@ -33371,7 +33371,7 @@ anti-Americanism_NN1
 of_PRF
 the_AT0
 New_AJ0
-Left_AJ0-NN1
+Left_AJ0
 whom_PNQ
 they_PNP
 far_AV0
@@ -33413,10 +33413,10 @@ sing_VVI
 This_DT0
 is_VBZ
 Your_DPS
-Land_NP0-NN1
+Land_NN1
 at_PRP
 McCarthy_NP0
-rallies_VVZ-NN2
+rallies_VVZ
 The_AT0
 speed_NN1
 at_PRP
@@ -33463,7 +33463,7 @@ he_PNP
 was_VBD
 like_PRP
 McCarthy_NP0
-anti-war_AJ0-NN1
+anti-war_AJ0
 he_PNP
 believed_VVD
 Johnson_NP0
@@ -33492,7 +33492,7 @@ muscling_VVG
 in_PRP
 on_PRP
 their_DPS
-act_VVI
+act_NN1
 The_AT0
 months_NN2
 that_CJT
@@ -33554,7 +33554,7 @@ after_PRP
 a_AT0
 lot_NN1
 of_PRF
-heart-searching_NN1-AJ0
+heart-searching_AJ0
 agreed_VVD
 he_PNP
 was_VBD
@@ -33565,13 +33565,13 @@ a_AT0
 movie_NN1
 out_AVP
 of_PRF
-Larner_NP0-NN1
+Larner_NP0
 's_POS
 book_NN1
 for_PRP
 BBS_NP0
 with_PRP
-Larner_NP0-NN1
+Larner_NP0
 himself_PNX
 as_CJS
 joint_AJ0
@@ -33636,13 +33636,13 @@ Robert_NP0
 Towne_NP0
 and_CJC
 Bruce_NP0
-Dern_NP0-NN1
+Dern_NP0
 It_PNP
 was_VBD
 to_TO0
 be_VBI
 entitled_VVN
-Drive_NN1-VVB
+Drive_NN1
 He_PNP
 Said_VVD
 which_DTQ
@@ -33653,7 +33653,7 @@ the_AT0
 Robert_NP0
 Creely_NP0
 poem_NN1
-Drive_NN1-VVB
+Drive_NN1
 he_PNP
 sd_NN0
 for_PRP
@@ -33690,13 +33690,13 @@ and_CJC
 Gabriel_NP0
 a_AT0
 radical_AJ0
-anti-war_AJ0-NN1
+anti-war_AJ0
 activist_NN1
 Underneath_PRP
 some_DT0
 fairly_AV0
 violent_AJ0
-anti-war_AJ0-NN1
+anti-war_AJ0
 protest_NN1
 the_AT0
 interaction_NN1
@@ -33796,7 +33796,7 @@ the_AT0
 political_AJ0
 overtones_NN2
 and_CJC
-undertones_NN2-VVZ
+undertones_NN2
 Nicholson_NP0
 knew_VVD
 he_PNP
@@ -33823,7 +33823,7 @@ filming_VVG
 of_PRF
 the_AT0
 sex_NN1
-act_VVI
+act_NN1
 itself_PNX
 still_AV0
 unheard_AJ0
@@ -33902,7 +33902,7 @@ duly_AV0
 invited_VVN
 to_TO0
 exhibit_VVB
-Drive_NN1-VVB
+Drive_NN1
 He_PNP
 Said_VVD
 at_PRP
@@ -34001,7 +34001,7 @@ there_EX0
 was_VBD
 cheering_VVG
 then_AV0
-jeering_VVG-AJ0
+jeering_AJ0
 Blows_NN2
 were_VBD
 exchanged_VVN
@@ -34028,7 +34028,7 @@ not_XX0
 wishing_VVG
 to_TO0
 get_VVI
-involved_AJ0
+involved_VVN
 in_PRP
 a_AT0
 fight_VVI
@@ -34098,7 +34098,7 @@ realized_VVD
 the_AT0
 riot_NN1
 would_VM0
-hurt_VVI
+hurt_VVN
 the_AT0
 picture_NN1
 He_PNP
@@ -34195,7 +34195,7 @@ discovered_VVN
 that_CJT
 the_AT0
 Motion_NN1
-Picture_NN1-VVB
+Picture_NN1
 Association_NN1
 of_PRF
 America_NP0
@@ -34472,7 +34472,7 @@ the_AT0
 reaction_NN1
 had_VHD
 been_VBN
-mixed_AJ0
+mixed_VVN
 Even_AV0
 the_AT0
 highly_AV0
@@ -34500,7 +34500,7 @@ reaction_NN1
 was_VBD
 from_PRP
 May_NP0
-Okon_NP0-NN1
+Okon_NN1
 of_PRF
 the_AT0
 New_AJ0
@@ -34512,7 +34512,7 @@ wrote_VVD
 Jack_NP0
 Nicholson_NP0
 's_POS
-Drive_NN1-VVB
+Drive_NN1
 He_PNP
 Said_VVD
 is_VBZ
@@ -34534,7 +34534,7 @@ was_VBD
 predominantly_AV0
 under_PRP
 thirty_CRD
-dungareed_NN1-VVB
+dungareed_VVB
 and_CJC
 apparently_AV0
 predisposed_VVN
@@ -34617,7 +34617,7 @@ The_AT0
 extremes_NN2
 of_PRF
 the_AT0
-anti-war_AJ0-NN1
+anti-war_AJ0
 protest_NN1
 movement_NN1
 which_DTQ
@@ -34717,7 +34717,7 @@ the_AT0
 preserve_VVI
 of_PRF
 counter-culture_NN1
-spread_NN1
+spread_VVN
 into_PRP
 the_AT0
 young_AJ0
@@ -34742,7 +34742,7 @@ appeal_NN1
 of_PRF
 films_NN2
 like_PRP
-Drive_NN1-VVB
+Drive_NN1
 He_PNP
 Said_VVD
 Quite_AV0
@@ -34755,7 +34755,7 @@ overtaken_VVN
 by_PRP
 events_NN2
 Dennis_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 fared_VVN
 no_AT0
 better_AJC
@@ -34780,7 +34780,7 @@ interesting_AJ0
 developments_NN2
 for_PRP
 Nicholson_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 's_POS
 film_NN1
 which_DTQ
@@ -34842,7 +34842,7 @@ who_PNQ
 is_VBZ
 a_AT0
 Hollywood_NP0
-stunt_NN1-VVB
+stunt_NN1
 man_NN1
 devoured_VVD
 by_PRP
@@ -34863,7 +34863,7 @@ in_PRP
 Peru_NP0
 where_AVQ
 the_AT0
-stunt_NN1-VVB
+stunt_NN1
 man_NN1
 has_VHZ
 been_VBN
@@ -34910,7 +34910,7 @@ this_DT0
 somewhat_AV0
 bizarre_AJ0
 plot_NN1
-Hopper_NP0-NN1
+Hopper_NP0
 built_VVN
 in_PRP
 his_DPS
@@ -34940,11 +34940,11 @@ time_NN1
 I_PNP
 got_VVN
 them_PNP
-involved_AJ0
+involved_VVN
 with_PRP
 the_AT0
 story_NN1
-Hopper_NP0-NN1
+Hopper_NP0
 explained_VVD
 I_PNP
 'd_VM0
@@ -34967,7 +34967,7 @@ kind_NN1
 of_PRF
 mayhem_NN1
 followed_VVN
-Hopper_NP0-NN1
+Hopper_NP0
 as_CJS
 was_VBD
 expected_VVN
@@ -34977,7 +34977,7 @@ who_PNQ
 noted_VVN
 that_CJT
 his_DPS
-cast_VVN
+cast_NN1
 included_VVD
 some_DT0
 of_PRF
@@ -35039,7 +35039,7 @@ coat_NN1
 and_CJC
 carrying_VVG
 an_AT0
-ivory-handled_NN1-AJ0
+ivory-handled_NN1
 .44\xe2\x80\x9340_CRD
 which_DTQ
 had_VHD
@@ -35047,7 +35047,7 @@ once_AV0
 belonged_VVD
 to_TO0
 Tom_NP0
-Mix_VVB-NN1
+Mix_VVB
 Sylvia_NP0
 Miles_NP0
 fresh_AJ0
@@ -35060,7 +35060,7 @@ bleach-blonde_AJ0
 prostitute_NN1
 in_PRP
 Midnight_NN1
-Cowboy_NN1-NP0
+Cowboy_NN1
 flashed_VVD
 in_PRP
 wearing_VVG
@@ -35113,7 +35113,7 @@ female_AJ0
 member_NN1
 of_PRF
 the_AT0
-cast_VVN
+cast_NN1
 Writer_NN1
 Brad_NP0
 Darrach_NP0
@@ -35125,7 +35125,7 @@ for_PRP
 an_AT0
 interview_NN1
 with_PRP
-Hopper_NP0-NN1
+Hopper_NP0
 described_VVN
 the_AT0
 scene_NN1
@@ -35194,7 +35194,7 @@ midnight_NN1
 much_DT0
 of_PRF
 the_AT0
-cast_VVN
+cast_NN1
 had_VHD
 drifted_VVD
 off_AVP
@@ -35228,7 +35228,7 @@ three_CRD
 a.m_AV0
 I_PNP
 heard_VVN
-rapping_VVG
+rapping_NN1
 at_PRP
 the_AT0
 window_NN1
@@ -35258,7 +35258,7 @@ was_VBD
 raining_VVG
 and_CJC
 her_DPS
-nightgown_NN1-VVB
+nightgown_NN1
 was_VBD
 drenched_AJ0
 Do_VDB
@@ -35317,7 +35317,7 @@ crew_NN1
 pulled_VVD
 out_AVP
 a_AT0
-Colt_NN1-NP0
+Colt_NP0
 .45_CRD
 and_CJC
 shot_NN1
@@ -35356,7 +35356,7 @@ meat_NN1
 Two_CRD
 of_PRF
 the_AT0
-cast_VVN
+cast_NN1
 fainted_VVD
 and_CJC
 most_AV0
@@ -35368,7 +35368,7 @@ to_TO0
 the_AT0
 nearest_AJS
 bar_NN1
-Hopper_NP0-NN1
+Hopper_NP0
 pressed_VVD
 on_PRP
 Having_VHG
@@ -35380,7 +35380,7 @@ removed_VVN
 he_PNP
 called_VVN
 the_AT0
-cast_VVN
+cast_NN1
 to_TO0
 order_NN1
 and_CJC
@@ -35406,7 +35406,7 @@ a_AT0
 baby_NN1
 To_TO0
 the_AT0
-cast_VVN
+cast_NN1
 he_PNP
 gave_VVD
 no_AT0
@@ -35455,14 +35455,14 @@ spite_NN1
 of_PRF
 the_AT0
 traumas_NN2
-Hopper_NP0-NN1
+Hopper_NP0
 the_AT0
 actor_NN1
 was_VBD
 a_AT0
 star_NN1
 and_CJC
-Hopper_NP0-NN1
+Hopper_NP0
 the_AT0
 director_NN1
 had_VHD
@@ -35596,7 +35596,7 @@ came_VVD
 back_AVP
 to_TO0
 Hollywood_NP0
-glowing_AJ0-VVG
+glowing_AJ0
 and_CJC
 totally_AV0
 unprepared_AJ0
@@ -35617,7 +35617,7 @@ ending_NN1
 of_PRF
 course_NN1
 said_VVD
-Hopper_NP0-NN1
+Hopper_NP0
 They_PNP
 wanted_VVD
 a_AT0
@@ -35669,7 +35669,7 @@ it_PNP
 a_AT0
 limited_AJ0
 showing_VVG
-Hopper_NP0-NN1
+Hopper_NP0
 went_VVD
 on_PRP
 television_NN1
@@ -35695,7 +35695,7 @@ time_NN1
 He_PNP
 upset_AJ0
 Lew_NP0
-Wasserman_NP0-NN1
+Wasserman_NN1
 head_NN1
 of_PRF
 Universal_AJ0
@@ -35734,13 +35734,13 @@ he_PNP
 said_VVD
 and_CJC
 then_AV0
-walk_VVI
+walk_NN1
 across_PRP
 the_AT0
 street_NN1
 and_CJC
 say_VVI
-Fuck_VVB-NN1
+Fuck_VVB
 you_PNP
 There_EX0
 has_VHZ
@@ -35759,7 +35759,7 @@ think_VVB
 they_PNP
 are_VBB
 buying_VVG
-Hopper_NP0-NN1
+Hopper_NP0
 was_VBD
 in_PRP
 deep_AJ0
@@ -35782,7 +35782,7 @@ of_PRF
 Nicholson_NP0
 In_PRP
 October_NP0
-Hopper_NP0-NN1
+Hopper_NP0
 married_AJ0
 Michelle_NP0
 Phillips_NP0
@@ -35797,7 +35797,7 @@ some_DT0
 months_NN2
 She_PNP
 and_CJC
-Hopper_NP0-NN1
+Hopper_NP0
 were_VBD
 convinced_AJ0
 they_PNP
@@ -35973,7 +35973,7 @@ whose_DTQ
 home_NN1
 in_PRP
 Greenwich_NP0
-Village_NN1-NP0
+Village_NN1
 had_VHD
 been_VBN
 the_AT0
@@ -35986,7 +35986,7 @@ America_NP0
 's_POS
 most_AV0
 famous_AJ0
-pre-World_AJ0-NN1
+pre-World_NN1
 War_NN1
 I_PNP
 radical_AJ0
@@ -36006,7 +36006,7 @@ desolate_AJ0
 position_NN1
 in_PRP
 which_DTQ
-Hopper_NP0-NN1
+Hopper_NP0
 found_VVD
 himself_PNX
 I_PNP
@@ -36029,7 +36029,7 @@ swings_VVZ
 of_PRF
 temperament_NN1
 and_CJC
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 her_DPS
 own_DT0
@@ -36059,7 +36059,7 @@ for_PRP
 the_AT0
 moment_NN1
 was_VBD
-Hopper_NP0-NN1
+Hopper_NP0
 's_POS
 career_NN1
 He_PNP
@@ -36139,7 +36139,7 @@ day_NN1
 not_XX0
 long_AJ0
 afterwards_AV0
-Hopper_NP0-NN1
+Hopper_NP0
 got_VVN
 a_AT0
 call_VVI
@@ -36187,7 +36187,7 @@ proceeds_VVZ
 of_PRF
 Easy_AJ0
 Rider_NN1
-Hopper_NP0-NN1
+Hopper_NP0
 was_VBD
 still_AV0
 brooding_AJ0
@@ -36210,7 +36210,7 @@ was_VBD
 like_PRP
 Sandra_NP0
 and_CJC
-Mimi_NP0-NN1
+Mimi_NP0
 in_PRP
 terms_NN2
 of_PRF
@@ -36252,7 +36252,7 @@ Papas_NN2
 split_VVN
 up_AVP
 Mama_NN1
-Cass_NN1-NP0
+Cass_NP0
 had_VHD
 done_VDN
 better_AJC
@@ -36262,7 +36262,7 @@ of_PRF
 them_PNP
 with_PRP
 her_DPS
-solo_NN1-AJ0
+solo_NN1
 career_NN1
 but_CJC
 then_AV0
@@ -36310,7 +36310,7 @@ a_AT0
 remake_VVI
 of_PRF
 The_AT0
-Postman_NN1-NP0
+Postman_NN1
 Always_AV0
 Rings_NN2
 Twice_AV0
@@ -36381,7 +36381,7 @@ Nicholson_NP0
 close_AJ0
 friend_NN1
 Bruce_NP0
-Dern_NP0-NN1
+Dern_NP0
 saw_VVD
 this_DT0
 as_CJS
@@ -36417,7 +36417,7 @@ case_NN1
 with_PRP
 Sandra_NP0
 and_CJC
-Mimi_NP0-NN1
+Mimi_NP0
 the_AT0
 pressures_NN2
 on_PRP
@@ -36440,7 +36440,7 @@ the_AT0
 other_AJ0
 was_VBD
 still_AV0
-struggling_VVG-AJ0
+struggling_VVG
 It_PNP
 was_VBD
 a_AT0
@@ -36477,8 +36477,8 @@ located_VVN
 on_PRP
 the_AT0
 twisting_AJ0
-Mulholland_NN1-NP0
-Drive_NN1-VVB
+Mulholland_NP0
+Drive_NN1
 on_PRP
 top_NN1
 of_PRF
@@ -36502,7 +36502,7 @@ by_PRP
 his_DPS
 idol_NN1
 Marlon_NP0
-Brando_NP0-NN1
+Brando_NP0
 with_PRP
 whom_PNQ
 he_PNP
@@ -36527,13 +36527,13 @@ near_PRP
 neighbour_NN1
 The_AT0
 stunning_AJ0
-two-storey_AJ0-NN1
+two-storey_AJ0
 villa_NN1
 of_PRF
 stucco_NN1
 construction_NN1
 was_VBD
-carved_AJ0
+carved_VVN
 into_PRP
 a_AT0
 cliff_NN1
@@ -36640,7 +36640,7 @@ Complete_AJ0
 Works_NN0
 of_PRF
 Marcel_NP0
-Duchamp_NP0-NN1
+Duchamp_NN1
 Shakespeare_NP0
 Jules_NP0
 Feiffer_NP0
@@ -36673,7 +36673,7 @@ album_NN1
 collection_NN1
 contained_VVD
 a_AT0
-varied_AJ0
+varied_VVN
 selection_NN1
 including_PRP
 the_AT0
@@ -36690,18 +36690,18 @@ Things_NN2
 Must_VM0
 Pass_NN1
 Strauss_NP0
-waltzes_NN2-VVZ
+waltzes_NN2
 recorded_VVN
 by_PRP
 Fritz_NP0
-Reiner_NP0-NN1
+Reiner_NP0
 and_CJC
 Rimsky-Korsakov_NP0
 's_POS
 Greatest_AJS
 Hits_NN2
 He_PNP
-parked_VVN
+parked_VVD
 a_AT0
 Mercedes_NP0
 600_CRD
@@ -36736,7 +36736,7 @@ in_PRP
 according_VVG
 to_TO0
 Bruce_NP0
-Dern_NP0-NN1
+Dern_NP0
 Jack_NP0
 seemed_VVD
 to_TO0

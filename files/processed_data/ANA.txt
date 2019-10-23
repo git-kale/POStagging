@@ -1,4 +1,4 @@
-UNDERSTANDING_VVG-AJ0
+UNDERSTANDING_VVG
 MENTAL_AJ0
 HANDICAP_NN1
 Mentally_AV0
@@ -24,7 +24,7 @@ possess_VVI
 a_AT0
 lower_AJC
 than_CJS
-average_AJ0-NN1
+average_AJ0
 level_NN1
 of_PRF
 intelligence_NN1
@@ -249,7 +249,7 @@ less_AV0
 than_CJS
 the_AT0
 national_AJ0
-average_AJ0-NN1
+average_AJ0
 and_CJC
 they_PNP
 may_VM0
@@ -376,7 +376,7 @@ parents_NN2
 more_AV0
 than_CJS
 the_AT0
-average_AJ0-NN1
+average_AJ0
 child_NN1
 It_PNP
 may_VM0
@@ -588,7 +588,7 @@ as_CJS
 educational_AJ0
 standards_NN2
 have_VHB
-improved_AJ0
+improved_VVN
 there_EX0
 has_VHZ
 been_VBN
@@ -601,7 +601,7 @@ handicap_NN1
 in_PRP
 children_NN2
 and_CJC
-improved_AJ0
+improved_VVN
 medical_AJ0
 skills_NN2
 have_VHB
@@ -624,7 +624,7 @@ have_VHB
 been_VBN
 born_VVN
 with_PRP
-average_AJ0-NN1
+average_AJ0
 mental_AJ0
 abilities_NN2
 in_PRP
@@ -866,7 +866,7 @@ these_DT0
 factors_NN2
 just_AV0
 as_CJS
-increased_AJ0
+increased_VVN
 road_NN1
 safety_NN1
 should_VM0
@@ -883,7 +883,7 @@ clearly_AV0
 welcomed_VVN
 by_PRP
 all_DT0
-involved_AJ0
+involved_VVN
 with_PRP
 mentally_AV0
 handicapped_AJ0
@@ -1025,7 +1025,7 @@ How_AVQ
 is_VBZ
 Mental_AJ0
 Handicap_NN1
-Defined_VVN-VVD
+Defined_VVN
 The_AT0
 current_AJ0
 basis_NN1
@@ -1179,7 +1179,7 @@ her_DPS
 chronological_AJ0
 age_NN1
 The_AT0
-average_AJ0-NN1
+average_AJ0
 rating_NN1
 is_VBZ
 thus_AV0
@@ -1435,9 +1435,9 @@ an_AT0
 IQ_NN1
 basis_NN1
 into_PRP
-ESN(Mild)_NP0-NN1
+ESN(Mild)_NP0
 and_CJC
-ESN(Severe)_NP0-NN1
+ESN(Severe)_NP0
 Many_DT0
 terms_NN2
 used_VVN
@@ -1679,7 +1679,7 @@ at_PRP
 the_AT0
 following_AJ0
 calculation_NN1
-Prevalence_NN1-NP0
+Prevalence_NN1
 rates_NN2
 for_PRP
 severe_AJ0
@@ -1813,7 +1813,7 @@ mentally_AV0
 handicapped_AJ0
 babies_NN2
 are_VBB
-miscarried_VVN-AJ0
+miscarried_VVN
 or_CJC
 stillborn_AJ0
 2,500\xe2\x80\x933000_CRD
@@ -1849,7 +1849,7 @@ per_UNC
 1000_CRD
 70\xe2\x80\x9380%_UNC
 are_VBB
-miscarried_VVN-AJ0
+miscarried_VVN
 so_AV0
 the_AT0
 incidence_NN1
@@ -1873,7 +1873,7 @@ child_NN1
 may_VM0
 be_VBI
 considerably_AV0
-heightened_AJ0
+heightened_VVN
 however_AV0
 under_PRP
 certain_AJ0
@@ -1921,7 +1921,7 @@ child_NN1
 to_TO0
 an_AT0
 absolute_AJ0
-minimum_AJ0-NN1
+minimum_AJ0
 by_PRP
 checking_VVG
 out_AVP
@@ -2020,7 +2020,7 @@ medical_AJ0
 facilities_NN2
 They_PNP
 will_VM0
-heed_VVI
+heed_NN1
 advice_NN1
 about_PRP
 how_AVQ
@@ -2207,7 +2207,7 @@ means_NN0
 a_AT0
 comprehensive_AJ0
 listing_NN1
-Foetus_NP0-NN1
+Foetus_NP0
 Chromosomal_AJ0
 Abnormalities_NN2
 Mental_AJ0
@@ -2382,7 +2382,7 @@ some_DT0
 cause_NN1
 mental_AJ0
 handicap_NN1
-Foetus_NP0-NN1
+Foetus_NP0
 Other_AJ0
 abnormalities_NN2
 Other_AJ0
@@ -2509,7 +2509,7 @@ avoid_VVI
 severe_AJ0
 mental_AJ0
 handicap_NN1
-Foetus_NP0-NN1
+Foetus_NP0
 Metabolic_AJ0
 disorders_NN2
 A_AT0
@@ -2600,7 +2600,7 @@ by_PRP
 defects_NN2
 of_PRF
 the_AT0
-thyroid_AJ0-NN1
+thyroid_AJ0
 gland_NN1
 also_AV0
 caused_VVN
@@ -2611,7 +2611,7 @@ of_PRF
 the_AT0
 correct_AJ0
 enzymes_NN2
-Foetus_NP0-NN1
+Foetus_NP0
 Disease_NN1
 and_CJC
 infection_NN1
@@ -2992,21 +2992,21 @@ spasticity_NN1
 and_CJC
 brain_NN1
 damage_NN1
-Anoxia_NN1-NP0
+Anoxia_NP0
 may_VM0
 occur_VVI
 because_CJS
 the_AT0
 mother_NN1
 is_VBZ
-over-anaesthetised_VVN-AJ0
+over-anaesthetised_AJ0
 or_CJC
 because_CJS
 the_AT0
 umbilical_AJ0
 cord_NN1
 is_VBZ
-wrapped_VVN-VVD
+wrapped_VVN
 round_AVP
 the_AT0
 windpipe_NN1
@@ -3042,9 +3042,9 @@ infections_NN2
 are_VBB
 meningitis_NN1
 and_CJC
-gastro-enteritis_NN1-AJ0
+gastro-enteritis_AJ0
 Child_NN1
-Adult_NN1-AJ0
+Adult_NN1
 Accidents_NN2
 Apart_AV0
 from_PRP
@@ -3065,7 +3065,7 @@ may_VM0
 cause_NN1
 mental_AJ0
 handicap_NN1
-Anoxia_NN1-NP0
+Anoxia_NP0
 can_VM0
 occur_VVI
 during_PRP
@@ -3092,7 +3092,7 @@ serious_AJ0
 car_NN1
 accident_NN1
 Child_NN1
-Adult_NN1-AJ0
+Adult_NN1
 Social_AJ0
 &_CJC
 environmental_AJ0
@@ -3265,7 +3265,7 @@ clearly_AV0
 extremely_AV0
 perhaps_AV0
 unceasingly_AV0
-varied_AJ0
+varied_VVN
 covering_VVG
 genetic_AJ0
 problems_NN2
@@ -3521,7 +3521,7 @@ over_PRP
 years_NN2
 old_AJ0
 The_AT0
-overall_AJ0-NN1
+overall_AJ0
 rate_NN1
 of_PRF
 incidence_NN1
@@ -3567,7 +3567,7 @@ Down_NP0
 's_POS
 babies_NN2
 are_VBB
-miscarried_VVN-AJ0
+miscarried_VVN
 stillborn_AJ0
 or_CJC
 live_VVI
@@ -3710,7 +3710,7 @@ affectionate_AJ0
 and_CJC
 kind_NN1
 people_NN0
-present_AJ0-NN1
+present_AJ0
 in_PRP
 our_DPS
 society_NN1
@@ -3751,7 +3751,7 @@ highest_AJS
 grades_NN2
 reaching_VVG
 almost_AV0
-average_AJ0-NN1
+average_AJ0
 mental_AJ0
 ability_NN1
 In_PRP
@@ -3806,7 +3806,7 @@ have_VHB
 a_AT0
 greater_AJC
 than_CJS
-average_AJ0-NN1
+average_AJ0
 susceptibility_NN1
 to_TO0
 infection_NN1
@@ -3827,12 +3827,12 @@ will_VM0
 have_VHB
 lower_AJC
 than_CJS
-average_AJ0-NN1
+average_AJ0
 life_NN1
 expectancy_NN1
 although_CJS
 with_PRP
-improved_AJ0
+improved_VVN
 standards_NN2
 of_PRF
 medical_AJ0
@@ -3951,7 +3951,7 @@ Down_NP0
 Syndrome_NN1
 to_TO0
 be_VBI
-shut_VVB
+shut_VVN
 away_AV0
 by_PRP
 their_DPS
@@ -4096,7 +4096,7 @@ care_NN1
 and_CJC
 toilet_NN1
 training_NN1
-dressing_VVG
+dressing_NN1
 and_CJC
 general_AJ0
 behaviour_NN1
@@ -4105,7 +4105,7 @@ habits_NN2
 do_VDB
 not_XX0
 usually_AV0
-present_AJ0-NN1
+present_AJ0
 great_AJ0
 difficulties_NN2
 they_PNP
@@ -4165,7 +4165,7 @@ may_VM0
 lead_VVI
 to_TO0
 a_AT0
-heightened_AJ0
+heightened_VVN
 sense_NN1
 of_PRF
 mischievousness_NN1
@@ -4209,7 +4209,7 @@ will_VM0
 tend_VVB
 to_TO0
 be_VBI
-ESN(S)_NN2-VVZ
+ESN(S)_NN2
 schools_NN2
 but_CJC
 if_CJS
@@ -4246,7 +4246,7 @@ not_XX0
 so_AV0
 much_DT0
 their_DPS
-intellectual_AJ0-NN1
+intellectual_AJ0
 capability_NN1
 but_CJC
 the_AT0
@@ -4453,7 +4453,7 @@ environment_NN1
 were_VBD
 created_VVN
 At_PRP
-present_AJ0-NN1
+present_AJ0
 many_DT0
 continue_VVI
 to_TO0
@@ -4532,7 +4532,7 @@ possible_AJ0
 change_NN1
 in_PRP
 their_DPS
-intellectual_AJ0-NN1
+intellectual_AJ0
 abilities_NN2
 will_VM0
 be_VBI
@@ -4555,7 +4555,7 @@ as_CJS
 with_PRP
 children_NN2
 of_PRF
-average_AJ0-NN1
+average_AJ0
 intelligence_NN1
 and_CJC
 they_PNP
@@ -4645,7 +4645,7 @@ child_NN1
 which_DTQ
 are_VBB
 not_XX0
-present_AJ0-NN1
+present_AJ0
 at_PRP
 least_AV0
 to_TO0
@@ -4674,7 +4674,7 @@ be_VBI
 wary_AJ0
 of_PRF
 or_CJC
-feel_VVI
+feel_VVB
 sorry_AJ0
 for_PRP
 Down_NP0
@@ -4859,7 +4859,7 @@ ESN(M)_NP0
 and_CJC
 the_AT0
 remainder_NN1
-ESN(S)_NN2-VVZ
+ESN(S)_NN2
 It_PNP
 is_VBZ
 customary_AJ0
@@ -4888,7 +4888,7 @@ the_AT0
 by_PRP
 Dr_NP0
 Leo_NP0
-Kanner_NP0-NN1
+Kanner_NN1
 who_PNQ
 said_VVD
 The_AT0
@@ -5096,7 +5096,7 @@ movements_NN2
 such_DT0
 as_CJS
 jumping_VVG
-arm-flapping_NN1-AJ0
+arm-flapping_NN1
 facial_AJ0
 grimaces_NN2
 odd_AJ0
@@ -5558,7 +5558,7 @@ children_NN2
 with_PRP
 comparatively_AV0
 moderate_AJ0
-intellectual_AJ0-NN1
+intellectual_AJ0
 abilities_NN2
 can_VM0
 learn_VVI
@@ -5569,7 +5569,7 @@ and_CJC
 independent_AJ0
 lives_NN2
 At_PRP
-present_AJ0-NN1
+present_AJ0
 however_AV0
 there_EX0
 are_VBB
@@ -5599,7 +5599,7 @@ be_VBI
 placed_VVN
 in_PRP
 general_AJ0
-ESN(S)_NN2-VVZ
+ESN(S)_NN2
 schools_NN2
 they_PNP
 may_VM0
@@ -5628,7 +5628,7 @@ will_VM0
 require_VVB
 the_AT0
 same_DT0
-heightened_AJ0
+heightened_VVN
 degree_NN1
 of_PRF
 patience_NN1
@@ -5656,7 +5656,7 @@ of_PRF
 correct_AJ0
 eating_VVG
 habits_NN2
-dressing_VVG
+dressing_NN1
 and_CJC
 personal_AJ0
 hygiene_NN1
@@ -5886,7 +5886,7 @@ no_AT0
 identifiable_AJ0
 physical_AJ0
 handicap_NN1
-present_AJ0-NN1
+present_AJ0
 and_CJC
 its_DPS
 causes_NN2
@@ -5895,7 +5895,7 @@ obscure_AJ0
 there_EX0
 is_VBZ
 at_PRP
-present_AJ0-NN1
+present_AJ0
 no_AT0
 method_NN1
 of_PRF
@@ -6037,7 +6037,7 @@ but_CJC
 capable_AJ0
 of_PRF
 development_NN1
-Firmness_NN1-NP0
+Firmness_NP0
 will_VM0
 again_AV0
 be_VBI
@@ -6274,7 +6274,7 @@ a_AT0
 tendency_NN1
 for_PRP
 the_AT0
-intellectual_AJ0-NN1
+intellectual_AJ0
 abilities_NN2
 of_PRF
 people_NN0
@@ -6315,12 +6315,12 @@ an_AT0
 independent_AJ0
 life_NN1
 IV_CRD
-Hydrocephalus_NN1-NP0
-Anencephalus_NN1-NP0
+Hydrocephalus_NN1
+Anencephalus_NP0
 &_CJC
 Spina_UNC
 Bifida_UNC
-Hydrocephalus_NN1-NP0
+Hydrocephalus_NN1
 is_VBZ
 one_CRD
 of_PRF
@@ -6401,7 +6401,7 @@ anencephalus_NN1
 children_NN2
 are_VBB
 either_AV0
-miscarried_VVN-AJ0
+miscarried_VVN
 die_VVI
 stillborn_AJ0
 or_CJC
@@ -6435,7 +6435,7 @@ life-expectancy_NN1
 they_PNP
 are_VBB
 not_XX0
-present_AJ0-NN1
+present_AJ0
 in_PRP
 the_AT0
 community_NN1
@@ -6469,7 +6469,7 @@ insertion_NN1
 of_PRF
 valves_NN2
 which_DTQ
-drain_VVI
+drain_NN1
 off_AVP
 fluid_NN1
 to_TO0
@@ -6519,7 +6519,7 @@ of_PRF
 cerebrospinal_AJ0
 fluid_NN1
 is_VBZ
-present_AJ0-NN1
+present_AJ0
 and_CJC
 the_AT0
 head_NN1
@@ -6539,12 +6539,12 @@ to_TO0
 compared_VVN
 with_PRP
 the_AT0
-average_AJ0-NN1
+average_AJ0
 adult_NN1
 circumference_NN1
 of_PRF
 22\xe2\x80\xb3_NN2
-Hydrocephalus_NN1-NP0
+Hydrocephalus_NN1
 can_VM0
 now_AV0
 be_VBI
@@ -6609,7 +6609,7 @@ with_PRP
 the_AT0
 enlarged_VVN
 skull_NN1
-Hydrocephalus_NN1-NP0
+Hydrocephalus_NN1
 and_CJC
 spina_UNC
 bifida_UNC
@@ -6852,7 +6852,7 @@ a_AT0
 defect_NN1
 of_PRF
 the_AT0
-thyroid_AJ0-NN1
+thyroid_AJ0
 gland_NN1
 and_CJC
 various_AJ0
@@ -6884,7 +6884,7 @@ care_NN1
 THE_AT0
 EVOLUTION_NN1
 OF_PRF
-CARE_NN1-VVB
+CARE_NN1
 There_EX0
 have_VHB
 been_VBN
@@ -6913,7 +6913,7 @@ awareness_NN1
 was_VBD
 low_AJ0
 The_AT0
-drive_VVI
+drive_NN1
 to_TO0
 an_AT0
 industrialised_AJ0
@@ -6957,7 +6957,7 @@ There_EX0
 was_VBD
 also_AV0
 an_AT0
-increased_AJ0
+increased_VVN
 emphasis_NN1
 on_PRP
 productivity_NN1
@@ -7001,7 +7001,7 @@ the_AT0
 mentally_AV0
 handicapped_AJ0
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 response_NN1
 was_VBD
 to_TO0
@@ -7502,7 +7502,7 @@ of_PRF
 the_AT0
 mentally_AV0
 handicapped_AJ0
-stems_VVZ-NN2
+stems_NN2
 from_PRP
 successive_AJ0
 policies_NN2
@@ -7871,7 +7871,7 @@ in_PRP
 hospitals_NN2
 78%_NN0
 could_VM0
-walk_VVI
+walk_NN1
 70%_NN0
 were_VBD
 continent_NN1
@@ -7880,8 +7880,8 @@ needed_VVN
 no_AT0
 assistance_NN1
 to_TO0
-feed_VVI
-wash_VVI
+feed_NN1
+wash_NN1
 or_CJC
 dress_NN1
 68%_NN0
@@ -8004,7 +8004,7 @@ mental_AJ0
 handicap_NN1
 hospitals_NN2
 have_VHB
-improved_AJ0
+improved_VVN
 substantially_AV0
 along_AVP
 with_PRP
@@ -8094,7 +8094,7 @@ have_VHB
 lived_VVD
 in_PRP
 a_AT0
-closed_VVD
+closed_VVN
 world_NN1
 all_DT0
 their_DPS
@@ -8239,7 +8239,7 @@ result_NN1
 been_VBN
 a_AT0
 sharp_AJ0
-fall_VVI
+fall_NN1
 in_PRP
 the_AT0
 numbers_NN2
@@ -8345,7 +8345,7 @@ of_PRF
 supports_VVZ
 begin_VVI
 to_TO0
-fall_VVI
+fall_NN1
 away_AV0
 Training_NN1
 centres_NN2
@@ -8457,7 +8457,7 @@ disagreements_NN2
 about_PRP
 how_AVQ
 the_AT0
-phasing_VVG-NN1
+phasing_NN1
 out_AVP
 of_PRF
 mental_AJ0
@@ -8581,7 +8581,7 @@ with_PRP
 59,000_CRD
 beds_NN2
 an_AT0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 250_CRD
 beds_NN2
@@ -8607,7 +8607,7 @@ fallen_VVN
 to_TO0
 53,000_CRD
 an_AT0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 under_PRP
 200_CRD
@@ -8735,7 +8735,7 @@ sad_AJ0
 lives_NN2
 filled_VVN
 with_PRP
-harrowing_VVG-AJ0
+harrowing_AJ0
 moments_NN2
 of_PRF
 violence_NN1
@@ -8932,7 +8932,7 @@ so_AV0
 considerable_AJ0
 fears_NN2
 have_VHB
-spread_NN1
+spread_VVN
 through_PRP
 society_NN1
 about_PRP
@@ -9352,7 +9352,7 @@ so_AV0
 difficult_AJ0
 that_CJT
 they_PNP
-feel_VVI
+feel_VVB
 unable_AJ0
 to_TO0
 cope_VVI
@@ -10084,7 +10084,7 @@ of_PRF
 residential_AJ0
 care_NN1
 Both_DT0
-fall_VVI
+fall_NN1
 well_AV0
 short_AJ0
 of_PRF
@@ -10229,7 +10229,7 @@ are_VBB
 inadequate_AJ0
 at_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 time_NN1
 If_CJS
 local_AJ0
@@ -10303,7 +10303,7 @@ Better_AV0
 chances_NN2
 of_PRF
 adoption_NN1
-lie_VVI
+lie_VVB
 with_PRP
 larger_AJC
 family_NN1
@@ -10417,7 +10417,7 @@ in_PRP
 size_NN1
 and_CJC
 fully_AV0
-integrated_AJ0
+integrated_VVN
 into_PRP
 the_AT0
 community_NN1
@@ -10438,7 +10438,7 @@ children_NN2
 or_CJC
 adults_NN2
 At_PRP
-present_AJ0-NN1
+present_AJ0
 many_DT0
 residential_AJ0
 homes_NN2
@@ -10475,7 +10475,7 @@ much_DT0
 better_AJC
 if_CJS
 the_AT0
-average_AJ0-NN1
+average_AJ0
 size_NN1
 was_VBD
 much_DT0
@@ -10696,7 +10696,7 @@ would_VM0
 simply_AV0
 be_VBI
 a_AT0
-shift_NN1-VVB
+shift_NN1
 in_PRP
 staffing_NN1
 to_TO0
@@ -10805,7 +10805,7 @@ resources_NN2
 is_VBZ
 not_XX0
 helping_VVG
-Local_NN1-AJ0
+Local_AJ0
 authorities_NN2
 have_VHB
 nowhere_AV0
@@ -10898,7 +10898,7 @@ year_NN1
 the_AT0
 Education_NN1
 Act_NN1
-piloted_VVN
+piloted_VVD
 by_PRP
 the_AT0
 then_AV0
@@ -11067,7 +11067,7 @@ presence_NN1
 within_PRP
 them_PNP
 would_VM0
-present_AJ0-NN1
+present_AJ0
 the_AT0
 teachers_NN2
 with_PRP
@@ -11076,7 +11076,7 @@ disruptively_AV0
 broad_AJ0
 range_NN1
 of_PRF
-intellectual_AJ0-NN1
+intellectual_AJ0
 ability_NN1
 Special_AJ0
 schools_NN2
@@ -11175,7 +11175,7 @@ The_AT0
 terms_NN2
 used_VVN
 were_VBD
-ESN(S)_NN2-VVZ
+ESN(S)_NN2
 or_CJC
 severely_AV0
 educationally_AV0
@@ -11218,7 +11218,7 @@ The_AT0
 idea_NN1
 is_VBZ
 to_TO0
-drop_VVI
+drop_NN1
 the_AT0
 notion_NN1
 that_CJT
@@ -11349,7 +11349,7 @@ numbers_NN2
 of_PRF
 pupils_NN2
 attending_VVG
-ESN(S)_NN2-VVZ
+ESN(S)_NN2
 schools_NN2
 have_VHB
 also_AV0
@@ -11913,7 +11913,7 @@ educational_AJ0
 process_NN1
 beyond_PRP
 normal_AJ0
-school-leaving_AJ0-NN1
+school-leaving_AJ0
 age_NN1
 Mentally_AV0
 handicapped_AJ0
@@ -11927,7 +11927,7 @@ their_DPS
 education_NN1
 beyond_PRP
 the_AT0
-school-leaving_AJ0-NN1
+school-leaving_AJ0
 age_NN1
 to_TO0
 nineteen_CRD
@@ -12078,7 +12078,7 @@ they_PNP
 reach_VVI
 the_AT0
 later_AV0
-school-leaving_AJ0-NN1
+school-leaving_AJ0
 age_NN1
 of_PRF
 nineteen_CRD
@@ -12241,7 +12241,7 @@ handicapped_AJ0
 people_NN0
 face_NN1
 two_CRD
-principal_AJ0-NN1
+principal_AJ0
 options_NN2
 in_PRP
 terms_NN2
@@ -12258,7 +12258,7 @@ full_AJ0
 or_CJC
 part-time_AJ0
 employment_NN1
-Adult_NN1-AJ0
+Adult_NN1
 training_NN1
 centres_NN2
 are_VBB
@@ -12304,7 +12304,7 @@ which_DTQ
 is_VBZ
 menial_AJ0
 and_CJC
-unfulfilling_VVG-NN1
+unfulfilling_VVG
 and_CJC
 from_PRP
 which_DTQ
@@ -12431,7 +12431,7 @@ of_PRF
 adult_NN1
 training_NN1
 facilities_NN2
-Official_AJ0-NN1
+Official_AJ0
 figures_NN2
 now_AV0
 show_VVI
@@ -12684,7 +12684,7 @@ experience_NN1
 work_NN1
 situations_NN2
 At_PRP
-present_AJ0-NN1
+present_AJ0
 few_DT0
 schools_NN2
 have_VHB
@@ -12930,7 +12930,7 @@ are_VBB
 known_VVN
 to_TO0
 be_VBI
-present_AJ0-NN1
+present_AJ0
 or_CJC
 because_CJS
 of_PRF
@@ -13035,7 +13035,7 @@ anyway_AV0
 of_PRF
 the_AT0
 risks_NN2
-present_AJ0-NN1
+present_AJ0
 because_CJS
 certain_AJ0
 infections_NN2
@@ -13061,7 +13061,7 @@ of_PRF
 mental_AJ0
 handicap_NN1
 are_VBB
-present_AJ0-NN1
+present_AJ0
 This_DT0
 screening_NN1
 for_PRP
@@ -13134,7 +13134,7 @@ that_CJT
 a_AT0
 greater_AJC
 than_CJS
-average_AJ0-NN1
+average_AJ0
 proportion_NN1
 of_PRF
 the_AT0
@@ -13142,7 +13142,7 @@ affected_VVN
 children_NN2
 will_VM0
 be_VBI
-miscarried_VVN-AJ0
+miscarried_VVN
 or_CJC
 stillborn_AJ0
 Obviously_AV0
@@ -13259,7 +13259,7 @@ to_TO0
 ensure_VVI
 that_CJT
 the_AT0
-newly-born_AJ0-NN1
+newly-born_NN1
 child_NN1
 is_VBZ
 not_XX0
@@ -13317,7 +13317,7 @@ just_AV0
 from_PRP
 being_VBG
 born_VVN
-Screening_NN1-VVG
+Screening_NN1
 tests_NN2
 which_DTQ
 identify_VVI
@@ -13340,7 +13340,7 @@ the_AT0
 handicap_NN1
 is_VBZ
 already_AV0
-present_AJ0-NN1
+present_AJ0
 the_AT0
 only_AV0
 forms_NN2
@@ -13454,7 +13454,7 @@ is_VBZ
 little_AJ0
 scope_NN1
 at_PRP
-present_AJ0-NN1
+present_AJ0
 for_PRP
 identifying_VVG
 the_AT0
@@ -13539,7 +13539,7 @@ which_DTQ
 genetic_AJ0
 disorders_NN2
 are_VBB
-involved_AJ0
+involved_VVN
 It_PNP
 must_VM0
 be_VBI
@@ -13708,7 +13708,7 @@ for_PRP
 prevention_NN1
 The_AT0
 counselling_NN1
-involved_AJ0
+involved_VVN
 would_VM0
 seem_VVI
 to_TO0
@@ -13722,7 +13722,7 @@ that_CJT
 there_EX0
 is_VBZ
 an_AT0
-increased_AJ0
+increased_VVN
 risk_NN1
 of_PRF
 giving_VVG
@@ -13940,7 +13940,7 @@ children_NN2
 born_VVN
 with_PRP
 a_AT0
-neural_AJ0-NN1
+neural_AJ0
 tube_NN1
 malformation_NN1
 including_PRP
@@ -14040,7 +14040,7 @@ more_AV0
 chance_NN1
 than_CJS
 the_AT0
-average_AJ0-NN1
+average_AJ0
 that_CJT
 it_PNP
 will_VM0
@@ -14462,7 +14462,7 @@ heavy_AJ0
 smokers_NN2
 are_VBB
 on_PRP
-average_AJ0-NN1
+average_AJ0
 200_CRD
 grams_NN2
 lighter_AJC
@@ -14493,7 +14493,7 @@ to_TO0
 be_VBI
 slower_AJC
 than_CJS
-average_AJ0-NN1
+average_AJ0
 for_PRP
 some_DT0
 years_NN2
@@ -14524,7 +14524,7 @@ underweight_AJ0
 babies_NN2
 than_CJS
 the_AT0
-average_AJ0-NN1
+average_AJ0
 Heavy_AJ0
 drinking_VVG
 during_PRP
@@ -14543,7 +14543,7 @@ partly_AV0
 by_PRP
 decreasing_VVG
 the_AT0
-average_AJ0-NN1
+average_AJ0
 birthweight_NN1
 Around_PRP
 1_CRD
@@ -14776,7 +14776,7 @@ be_VBI
 advised_VVN
 of_PRF
 the_AT0
-increased_AJ0
+increased_VVN
 risks_NN2
 of_PRF
 bearing_VVG
@@ -14921,13 +14921,13 @@ no_AT0
 immunisation_NN1
 available_AJ0
 at_PRP
-present_AJ0-NN1
+present_AJ0
 for_PRP
 CMV_CRD
 There_EX0
 are_VBB
 risks_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 vaccinations_NN2
 and_CJC
@@ -15125,7 +15125,7 @@ than_CJS
 by_PRP
 counselling_NN1
 The_AT0
-overall_AJ0-NN1
+overall_AJ0
 change_NN1
 in_PRP
 the_AT0
@@ -15151,7 +15151,7 @@ and_CJC
 acted_VVD
 upon_PRP
 III_CRD
-Screening_NN1-VVG
+Screening_NN1
 for_PRP
 mental_AJ0
 Handicap_NN1
@@ -15303,7 +15303,7 @@ types_NN2
 of_PRF
 handicap_NN1
 at_PRP
-present_AJ0-NN1
+present_AJ0
 mainly_AV0
 chromosomal_AJ0
 disorders_NN2
@@ -15384,12 +15384,12 @@ currently_AV0
 available_AJ0
 are_VBB
 Fetoscopy_NN1
-Ultrasound_VVB-NN1
-Scan_NN1-VVB
-Alphafetoprotein_NP0-NN1
+Ultrasound_NP0
+Scan_VVB
+Alphafetoprotein_NP0
 AFP_NP0
 and_CJC
-Amniocentesis_NN1-NP0
+Amniocentesis_NN1
 Fetoscopy_NN1
 Fetoscopy_NN1
 is_VBZ
@@ -15437,11 +15437,11 @@ have_VHB
 a_AT0
 normal_AJ0
 pregnancy_NN1
-Ultrasound_VVB-NN1
-Scan_NN1-VVB
+Ultrasound_NP0
+Scan_VVB
 An_AT0
 ultrasound_NN1
-scan_NN1-VVB
+scan_NN1
 basically_AV0
 takes_VVZ
 an_AT0
@@ -15461,7 +15461,7 @@ with_PRP
 the_AT0
 body_NN1
 The_AT0
-scan_NN1-VVB
+scan_NN1
 will_VM0
 show_VVI
 the_AT0
@@ -15483,7 +15483,7 @@ more_AV0
 than_CJS
 one_CRD
 child_NN1
-present_AJ0-NN1
+present_AJ0
 It_PNP
 is_VBZ
 a_AT0
@@ -15494,7 +15494,7 @@ administered_VVN
 test_NN1
 An_AT0
 ultrasound_NN1
-scan_NN1-VVB
+scan_NN1
 by_PRP
 presenting_VVG
 an_AT0
@@ -15591,7 +15591,7 @@ machines_NN2
 are_VBB
 sufficiently_AV0
 trained_VVN
-Alphafetoprotein_NP0-NN1
+Alphafetoprotein_NP0
 AFP_NP0
 This_DT0
 is_VBZ
@@ -15645,7 +15645,7 @@ her_DPS
 last_ORD
 menstrual_AJ0
 period_NN1
-Amniocentesis_NN1-NP0
+Amniocentesis_NN1
 This_DT0
 is_VBZ
 the_AT0
@@ -15685,7 +15685,7 @@ preceded_VVD
 by_PRP
 an_AT0
 ultrasound_NN1
-scan_NN1-VVB
+scan_NN1
 in_PRP
 order_NN1
 to_TO0
@@ -15775,7 +15775,7 @@ Down_NP0
 Syndrome_NN1
 or_CJC
 a_AT0
-neural_AJ0-NN1
+neural_AJ0
 tube_NN1
 defect_NN1
 such_DT0
@@ -15838,7 +15838,7 @@ at_PRP
 1.5%_UNC
 or_CJC
 an_AT0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 one_CRD
 in_PRP
@@ -15864,14 +15864,14 @@ one_CRD
 in_PRP
 200_CRD
 On_PRP
-average_AJ0-NN1
+average_AJ0
 around_PRP
 16%_NN0
 of_PRF
 all_DT0
 conceptions_NN2
 are_VBB
-miscarried_VVN-AJ0
+miscarried_VVN
 Secondly_AV0
 the_AT0
 tests_NN2
@@ -15952,7 +15952,7 @@ been_VBN
 shown_VVN
 to_TO0
 be_VBI
-present_AJ0-NN1
+present_AJ0
 in_PRP
 the_AT0
 foetus_NN1
@@ -16073,7 +16073,7 @@ at_PRP
 any_DT0
 length_NN1
 At_PRP
-present_AJ0-NN1
+present_AJ0
 the_AT0
 latest_AJS
 permissible_AJ0
@@ -16392,7 +16392,7 @@ base_NN1
 The_AT0
 Availability_NN1
 of_PRF
-Screening_NN1-VVG
+Screening_NN1
 A_AT0
 recent_AJ0
 survey_NN1
@@ -16452,7 +16452,7 @@ a_AT0
 family_NN1
 history_NN1
 of_PRF
-neural_AJ0-NN1
+neural_AJ0
 tube_NN1
 defects_NN2
 the_AT0
@@ -16466,7 +16466,7 @@ considered_VVN
 unreliable_AJ0
 the_AT0
 costs_NN2
-involved_AJ0
+involved_VVN
 were_VBD
 prohibitive_AJ0
 In_PRP
@@ -16731,7 +16731,7 @@ life_NN1
 New_AJ0
 Developments_NN2
 in_PRP
-Screening_NN1-VVG
+Screening_NN1
 Scientific_AJ0
 developments_NN2
 continue_VVI
@@ -16848,7 +16848,7 @@ in_PRP
 research_NN1
 centres_NN2
 At_PRP
-present_AJ0-NN1
+present_AJ0
 the_AT0
 concern_NN1
 is_VBZ
@@ -16892,7 +16892,7 @@ closer_AV0
 examination_NN1
 of_PRF
 early_AJ0
-foetuses_NN2-VVZ
+foetuses_NN2
 with_PRP
 a_AT0
 view_NN1
@@ -17270,7 +17270,7 @@ therefore_AV0
 no_AT0
 legal_AJ0
 difficulty_NN1
-involved_AJ0
+involved_VVN
 in_PRP
 aborting_VVG
 a_AT0
@@ -17529,7 +17529,7 @@ no_AT0
 life_NN1
 expectancy_NN1
 whatsoever_DTQ
-Anencephalus_NN1-NP0
+Anencephalus_NP0
 for_PRP
 example_NN1
 has_VHZ
@@ -17943,7 +17943,7 @@ moral_AJ0
 issue_NN1
 of_PRF
 life_NN1
-itself'_NN1-VVB
+itself'_NN1
 Mary_NP0
 Bodlovic_NN1
 a_AT0
@@ -17960,7 +17960,7 @@ THE_AT0
 RIGHT_AV0
 TO_PRP
 LIVE_VVI
-ISSUE_NN1-VVB
+ISSUE_NN1
 LEONARD_NP0
 ARTHUR_NP0
 AND_CJC
@@ -18194,11 +18194,11 @@ ethical_AJ0
 standards_NN2
 of_PRF
 the_AT0
-nursing_AJ0-NN1
+nursing_NN1
 profession_NN1
 letter_NN1
 in_PRP
-Nursing_AJ0-VVG
+Nursing_AJ0
 Times_NN2
 May_NP0
 1982_CRD
@@ -18227,7 +18227,7 @@ judge_VVI
 was_VBD
 Mr_NP0
 Justice_NP0
-Farquharson_NP0-NN1
+Farquharson_NP0
 The_AT0
 case_NN1
 for_PRP
@@ -18241,7 +18241,7 @@ prescribed_VVN
 a_AT0
 course_NN1
 of_PRF
-non-treatment_NN1-AJ0
+non-treatment_AJ0
 by_PRP
 the_AT0
 administration_NN1
@@ -18268,7 +18268,7 @@ drug_NN1
 although_CJS
 the_AT0
 quantities_NN2
-involved_AJ0
+involved_VVN
 were_VBD
 not_XX0
 above_PRP
@@ -18304,7 +18304,7 @@ poisoning_NN1
 by_PRP
 a_AT0
 respiratory_AJ0
-depressant_AJ0-NN1
+depressant_AJ0
 drug_NN1
 The_AT0
 case_NN1
@@ -18379,7 +18379,7 @@ medical_AJ0
 opinion_NN1
 The_AT0
 case_NN1
-hinged_VVN-VVD
+hinged_VVD
 however_AV0
 on_PRP
 whether_CJS
@@ -18424,7 +18424,7 @@ Arthur_NP0
 his_DPS
 reprieve_NN1
 The_AT0
-initial_AJ0-NN1
+initial_AJ0
 examination_NN1
 of_PRF
 the_AT0
@@ -18509,7 +18509,7 @@ to_TO0
 admit_VVI
 that_CJT
 his_DPS
-initial_AJ0-NN1
+initial_AJ0
 examination_NN1
 was_VBD
 inconclusive_AJ0
@@ -18696,7 +18696,7 @@ abnormalities_NN2
 at_PRP
 birth_NN1
 were_VBD
-present_AJ0-NN1
+present_AJ0
 and_CJC
 much_DT0
 was_VBD
@@ -18733,7 +18733,7 @@ been_VBN
 obtained_VVN
 from_PRP
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 paediatric_AJ0
 pathologist_NN1
 This_DT0
@@ -18807,7 +18807,7 @@ or_CJC
 antibiotics_NN2
 and_CJC
 given_VVN
-dihydrocodeine_NN1-VVB
+dihydrocodeine_NN1
 in_PRP
 doses_NN2
 slightly_AV0
@@ -18815,7 +18815,7 @@ more_AV0
 than_CJS
 twice_AV0
 the_AT0
-average_AJ0-NN1
+average_AJ0
 fatal_AJ0
 level_NN1
 for_PRP
@@ -19028,7 +19028,7 @@ nor_CJC
 was_VBD
 unable_AJ0
 to_TO0
-feed_VVI
+feed_NN1
 Rather_AV0
 one_CRD
 of_PRF
@@ -19077,7 +19077,7 @@ a_AT0
 sick_AJ0
 and_CJC
 elderly_AJ0
-relative_AJ0-NN1
+relative_AJ0
 suffering_VVG
 from_PRP
 an_AT0
@@ -19464,7 +19464,7 @@ parents_NN2
 or_CJC
 guardians_NN2
 are_VBB
-deprived_AJ0
+deprived_VVN
 of_PRF
 this_DT0
 opportunity_NN1
@@ -19627,7 +19627,7 @@ freely_AV0
 admit_VVI
 that_CJT
 their_DPS
-initial_AJ0-NN1
+initial_AJ0
 reaction_NN1
 is_VBZ
 to_TO0
@@ -19652,7 +19652,7 @@ in_PRP
 April_NP0
 1982_CRD
 here_AV0
-abridged_VVN-AJ0
+abridged_VVN
 I_PNP
 am_VBB
 the_AT0
@@ -19827,7 +19827,7 @@ and_CJC
 certainly_AV0
 they_PNP
 will_VM0
-feel_VVI
+feel_VVB
 this_DT0
 when_CJS
 they_PNP
@@ -19968,7 +19968,7 @@ a_AT0
 life-saving_AJ0
 operation_NN1
 is_VBZ
-involved_AJ0
+involved_VVN
 If_CJS
 the_AT0
 moral_AJ0
@@ -20083,7 +20083,7 @@ to_TO0
 avoid_VVI
 performing_VVG
 life_NN1
-saving_NN1
+saving_VVG
 operations_NN2
 unless_CJS
 their_DPS
@@ -20215,7 +20215,7 @@ right_NN1
 can_VM0
 not_XX0
 be_VBI
-abrogated_VVN
+abrogated_VVD
 by_PRP
 the_AT0
 decision_NN1
@@ -20244,7 +20244,7 @@ be_VBI
 withheld_VVN
 Dr_NP0
 Ian_NP0
-Jessiman_NP0-NN1
+Jessiman_NP0
 No_ITJ
 longer_AV0
 do_VDB
@@ -20408,7 +20408,7 @@ some_DT0
 of_PRF
 the_AT0
 issues_NN2
-involved_AJ0
+involved_VVN
 Certainly_AV0
 it_PNP
 provoked_VVD
@@ -20655,7 +20655,7 @@ whether_CJS
 human_AJ0
 life_NN1
 is_VBZ
-present_AJ0-NN1
+present_AJ0
 in_PRP
 any_DT0
 reasonable_AJ0
@@ -20897,7 +20897,7 @@ Leonard_NP0
 Arthur_NP0
 trial_NN1
 It_PNP
-involved_AJ0
+involved_VVN
 another_DT0
 Down_NP0
 's_POS
@@ -20986,7 +20986,7 @@ this_DT0
 case_NN1
 the_AT0
 doctor_NN1
-involved_AJ0
+involved_VVN
 Dr_NP0
 Robert_NP0
 Dinwiddie_NP0
@@ -21068,7 +21068,7 @@ given_VVN
 consent_NN1
 Following_VVG
 further_AJC
-parries_NN2-VVZ
+parries_NN2
 the_AT0
 operation_NN1
 was_VBD
@@ -21120,7 +21120,7 @@ making_VVG
 their_DPS
 decision_NN1
 which_DTQ
-involved_AJ0
+involved_VVN
 refusing_VVG
 consent_NN1
 for_PRP
@@ -21156,7 +21156,7 @@ the_AT0
 child_NN1
 from_PRP
 an_AT0
-average_AJ0-NN1
+average_AJ0
 life_NN1
 Dr_NP0
 Alexandra_NP0
@@ -21170,7 +21170,7 @@ Association_NN1
 's_POS
 ethics_NN0
 committee_NN1
-stressed_VVD
+stressed_VVN
 the_AT0
 difficulties_NN2
 for_PRP
@@ -21275,7 +21275,7 @@ fact_NN1
 which_DTQ
 the_AT0
 doctor_NN1
-involved_AJ0
+involved_VVN
 in_PRP
 this_DT0
 case_NN1
@@ -21355,7 +21355,7 @@ and_CJC
 the_AT0
 other_AJ0
 by_PRP
-challenging_VVG-AJ0
+challenging_VVG
 the_AT0
 attitude_NN1
 of_PRF
@@ -21939,10 +21939,10 @@ can_VM0
 consider_VVI
 normal_AJ0
 with_PRP
-average_AJ0-NN1
+average_AJ0
 or_CJC
 above_PRP
-average_AJ0-NN1
+average_AJ0
 intelligence_NN1
 and_CJC
 no_AT0
@@ -21998,7 +21998,7 @@ fullness_NN1
 of_PRF
 time_NN1
 Some_DT0
-feel_VVI
+feel_VVB
 they_PNP
 are_VBB
 unable_AJ0
@@ -22106,7 +22106,7 @@ acute_AJ0
 and_CJC
 the_AT0
 parents_NN2
-feel_VVI
+feel_VVB
 they_PNP
 are_VBB
 unable_AJ0
@@ -22160,7 +22160,7 @@ least_AV0
 the_AT0
 parents_NN2
 can_VM0
-feel_VVI
+feel_VVB
 that_CJT
 they_PNP
 did_VDD
@@ -22246,7 +22246,7 @@ left_VVN
 alone_AJ0
 and_CJC
 the_AT0
-act_VVI
+act_NN1
 of_PRF
 standing_VVG
 by_PRP
@@ -22379,7 +22379,7 @@ consideration_NN1
 of_PRF
 the_AT0
 issues_NN2
-involved_AJ0
+involved_VVN
 Dr_NP0
 Leonard_NP0
 Arthur_NP0
@@ -22750,7 +22750,7 @@ with_PRP
 the_AT0
 sadness_NN1
 and_CJC
-harrowing_VVG-AJ0
+harrowing_AJ0
 nature_NN1
 of_PRF
 the_AT0
@@ -22934,7 +22934,7 @@ girl_NN1
 snatched_VVD
 by_PRP
 an_AT0
-opportunist_AJ0
+opportunist_NN1
 art_NN1
 student_NN1
 for_PRP
@@ -23019,7 +23019,7 @@ called_VVN
 Horace_NP0
 met_VVD
 with_PRP
-mixed_AJ0
+mixed_VVN
 reactions_NN2
 mainly_AV0
 because_CJS
@@ -23035,7 +23035,7 @@ not_XX0
 something_PNI
 one_CRD
 should_VM0
-laugh_VVI
+laugh_NN1
 about_PRP
 or_CJC
 at_PRP
@@ -23054,7 +23054,7 @@ mentally_AV0
 handicapped_AJ0
 people_NN0
 both_AV0
-laugh_VVI
+laugh_NN1
 at_PRP
 and_CJC
 with_PRP
@@ -23275,7 +23275,7 @@ by_PRP
 his_DPS
 superiors_NN2
 and_CJC
-ridiculed_VVD
+ridiculed_VVN
 by_PRP
 his_DPS
 fellow_NN1
@@ -23330,7 +23330,7 @@ the_AT0
 now_AV0
 released_VVN
 pigeons_NN2
-fly_VVI
+fly_NN1
 around_PRP
 depositing_VVG
 their_DPS
@@ -23410,7 +23410,7 @@ hygiene_NN1
 and_CJC
 overcrowding_NN1
 essentially_AV0
-harrowing_VVG-AJ0
+harrowing_AJ0
 and_CJC
 horrific_AJ0
 The_AT0
@@ -23492,7 +23492,7 @@ mentally_AV0
 handicapped_AJ0
 might_VM0
 be_VBI
-improved_AJ0
+improved_VVN
 In_PRP
 the_AT0
 portrayal_NN1
@@ -23517,7 +23517,7 @@ indication_NN1
 whether_CJS
 this_DT0
 was_VBD
-present_AJ0-NN1
+present_AJ0
 or_CJC
 bygone_AJ0
 circumstances_NN2
@@ -23694,7 +23694,7 @@ would_VM0
 be_VBI
 suppressive_AJ0
 and_CJC
-unfulfilling_VVG-NN1
+unfulfilling_VVG
 for_PRP
 a_AT0
 real_AJ0
@@ -23709,7 +23709,7 @@ is_VBZ
 thrown_VVN
 into_PRP
 a_AT0
-harrowing_VVG-AJ0
+harrowing_AJ0
 situation_NN1
 because_CJS
 his_DPS
@@ -23893,7 +23893,7 @@ such_DT0
 a_AT0
 nightmarish_AJ0
 and_CJC
-harrowing_VVG-AJ0
+harrowing_AJ0
 depiction_NN1
 of_PRF
 mental_AJ0
@@ -24014,7 +24014,7 @@ two_CRD
 days_NN2
 after_PRP
 the_AT0
-eagerly-awaited_AJ0-NN1
+eagerly-awaited_NN1
 birth_NN1
 of_PRF
 their_DPS
@@ -24064,7 +24064,7 @@ David_NP0
 Paula_NP0
 Milne_NP0
 's_POS
-thought-provoking_NN1-AJ0
+thought-provoking_AJ0
 Play_NN1
 for_PRP
 Today_AV0
@@ -24107,7 +24107,7 @@ from_PRP
 their_DPS
 families_NN2
 and_CJC
-harrowing_VVG-AJ0
+harrowing_AJ0
 interviews_NN2
 with_PRP
 different_AJ0
@@ -24273,7 +24273,7 @@ BBC_NP0
 play_VVI
 A_AT0
 Sudden_AJ0
-Wrench_NN1-NP0
+Wrench_NN1
 gained_VVN
 critical_AJ0
 success_NN1
@@ -24281,7 +24281,7 @@ John_NP0
 David_NP0
 stars_NN2
 Dearbhla_NP0
-Molloy_NN1-NP0
+Molloy_NN1
 as_CJS
 Judith_NP0
 James_NP0
@@ -24354,7 +24354,7 @@ wishes_NN2
 of_PRF
 her_DPS
 parents_NN2
-Writing_VVG-NN1
+Writing_NN1
 in_PRP
 The_AT0
 Evening_NN1
@@ -24847,7 +24847,7 @@ other_AJ0
 television_NN1
 programmes_NN2
 notably_AV0
-fly_VVI
+fly_NN1
 on_PRP
 the_AT0
 wall_NN1
@@ -25000,7 +25000,7 @@ we_PNP
 can_VM0
 all_DT0
 be_VBI
-involved_AJ0
+involved_VVN
 There_EX0
 have_VHB
 of_PRF
@@ -25059,7 +25059,7 @@ with_PRP
 the_AT0
 mentally_AV0
 handicapped_AJ0
-broadcast_VVN
+broadcast_NN1
 in_PRP
 early_AJ0
 1982_CRD
@@ -25405,7 +25405,7 @@ specifically_AV0
 the_AT0
 Editor_NN1
 David_NP0
-English_AJ0-NN1
+English_AJ0
 was_VBD
 taken_VVN
 to_TO0
@@ -25495,7 +25495,7 @@ not_XX0
 the_AT0
 mentally_AV0
 handicapped_AJ0
-present_AJ0-NN1
+present_AJ0
 in_PRP
 our_DPS
 society_NN1
@@ -25536,7 +25536,7 @@ the_AT0
 Mail_NN1
 this_DT0
 policy_NN1
-stems_VVZ-NN2
+stems_NN2
 from_PRP
 their_DPS
 strong_AJ0
@@ -25563,7 +25563,7 @@ they_PNP
 see_VVI
 as_CJS
 a_AT0
-crusading_AJ0-NN1
+crusading_AJ0
 role_NN1
 towards_PRP
 the_AT0
@@ -25631,7 +25631,7 @@ Theatre_NN1
 production_NN1
 of_PRF
 Nicholas_NP0
-Nickleby_NP0-NN1
+Nickleby_NN1
 featuring_VVG
 the_AT0
 character_NN1
@@ -25659,10 +25659,10 @@ Egg_NN1
 based_VVN
 on_PRP
 the_AT0
-true-life_AJ0-NN1
+true-life_AJ0
 story_NN1
 of_PRF
-Abigail_NP0-NN1
+Abigail_NN1
 born_VVN
 to_TO0
 the_AT0
@@ -25707,7 +25707,7 @@ by_PRP
 the_AT0
 frank_AJ0
 dialogue_NN1
-Abigail_NP0-NN1
+Abigail_NN1
 was_VBD
 placed_VVN
 in_PRP
@@ -25730,7 +25730,7 @@ her_DPS
 death_NN1
 in_PRP
 1971_CRD
-Writing_VVG-NN1
+Writing_NN1
 of_PRF
 her_DPS
 death_NN1
@@ -25745,7 +25745,7 @@ afternoon_NN1
 the_AT0
 matron_NN1
 of_PRF
-Abigail_NP0-NN1
+Abigail_NN1
 's_POS
 hospital_NN1
 rang_VVD
@@ -25959,13 +25959,13 @@ at_PRP
 Longbridge_NP0
 Cheryl_NP0
 at_PRP
-Dolcis_NN1-NP0
+Dolcis_NN1
 Together_AV0
 they_PNP
 have_VHB
 a_AT0
 Ford_NP0
-Escort_NN1-VVB
+Escort_NN1
 a_AT0
 colour_NN1
 television_NN1
@@ -26125,7 +26125,7 @@ mentally_AV0
 handicapped_AJ0
 people_NN0
 who_PNQ
-fall_VVI
+fall_NN1
 in_PRP
 love_NN1
 and_CJC
@@ -26161,7 +26161,7 @@ the_AT0
 public_AJ0
 eye_NN1
 The_AT0
-overall_AJ0-NN1
+overall_AJ0
 conclusion_NN1
 is_VBZ
 that_CJT
@@ -26376,7 +26376,7 @@ a_AT0
 writer_NN1
 may_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 the_AT0
 depiction_NN1
 of_PRF
@@ -26459,7 +26459,7 @@ mental_AJ0
 handicap_NN1
 and_CJC
 this_DT0
-increased_AJ0
+increased_VVN
 awareness_NN1
 could_VM0
 have_VHB
@@ -26490,7 +26490,7 @@ go_VVI
 TOWARDS_PRP
 A_AT0
 BETTER_AV0
-UNDERSTANDING_VVG-AJ0
+UNDERSTANDING_VVG
 This_DT0
 book_NN1
 has_VHZ
@@ -26693,7 +26693,7 @@ to_TO0
 abortion_NN1
 in_PRP
 principle_NN1
-feel_VVI
+feel_VVB
 that_CJT
 it_PNP
 is_VBZ
@@ -26714,7 +26714,7 @@ mentally_AV0
 handicapped_AJ0
 certainly_AV0
 at_PRP
-present_AJ0-NN1
+present_AJ0
 there_EX0
 are_VBB
 few_DT0
@@ -26729,7 +26729,7 @@ well_AV0
 as_CJS
 moral_AJ0
 problems_NN2
-involved_AJ0
+involved_VVN
 As_CJS
 work_NN1
 continues_VVZ
@@ -27010,7 +27010,7 @@ educational_AJ0
 terms_NN2
 in_PRP
 the_AT0
-Warnock_NN1-NP0
+Warnock_NN1
 Report_NN1
 the_AT0
 findings_NN2
@@ -27263,7 +27263,7 @@ handicapped_AJ0
 community_NN1
 be_VBI
 fully_AV0
-integrated_AJ0
+integrated_VVN
 into_PRP
 our_DPS
 society_NN1
@@ -27289,7 +27289,7 @@ understanding_NN1
 of_PRF
 the_AT0
 issues_NN2
-involved_AJ0
+involved_VVN
 One_CRD
 of_PRF
 the_AT0
@@ -27340,7 +27340,7 @@ patience_NN1
 and_CJC
 understanding_NN1
 or_CJC
-suffused_VVN-VVD
+suffused_VVD
 with_PRP
 some_DT0
 form_NN1
@@ -27377,7 +27377,7 @@ often_AV0
 accidental_AJ0
 have_VHB
 become_VVI
-involved_AJ0
+involved_VVN
 with_PRP
 the_AT0
 mentally_AV0
@@ -27457,7 +27457,7 @@ it_PNP
 depressing_AJ0
 difficult_AJ0
 and_CJC
-unfulfilling_VVG-NN1
+unfulfilling_VVG
 In_PRP
 that_CJT
 sense_NN1
@@ -27599,7 +27599,7 @@ mentally_AV0
 handicapped_AJ0
 as_CJS
 being_VBG
-harrowing_VVG-AJ0
+harrowing_AJ0
 and_CJC
 filled_VVN
 with_PRP
@@ -27699,7 +27699,7 @@ may_VM0
 be_VBI
 handicapped_AJ0
 Under_PRP
-present_AJ0-NN1
+present_AJ0
 conditions_NN2
 time_NN1
 will_VM0
@@ -27722,7 +27722,7 @@ but_CJC
 it_PNP
 will_VM0
 be_VBI
-stressed_VVD
+stressed_VVN
 that_CJT
 they_PNP
 must_VM0
@@ -27793,7 +27793,7 @@ play_VVI
 on_PRP
 the_AT0
 more_AV0
-harrowing_VVG-AJ0
+harrowing_AJ0
 aspects_NN2
 of_PRF
 the_AT0
@@ -27903,7 +27903,7 @@ latter_DT0
 how_AVQ
 will_VM0
 they_PNP
-present_AJ0-NN1
+present_AJ0
 the_AT0
 facts_NN2
 that_CJT
@@ -27943,7 +27943,7 @@ parents_NN2
 be_VBI
 able_AJ0
 to_TO0
-shrug_VVI
+shrug_NN1
 off_AVP
 attitudes_NN2
 which_DTQ
@@ -28030,7 +28030,7 @@ handicapped_AJ0
 they_PNP
 may_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 in_PRP
 a_AT0
 discussion_NN1
@@ -28327,7 +28327,7 @@ a_AT0
 survey_NN1
 conducted_VVN
 for_PRP
-MENCAP_NN1-NP0
+MENCAP_NP0
 in_PRP
 March_NP0
 1982_CRD
@@ -28408,7 +28408,7 @@ responses_NN2
 are_VBB
 generally_AV0
 to_TO0
-feel_VVI
+feel_VVB
 sorry_AJ0
 for_PRP
 them_PNP
@@ -28681,7 +28681,7 @@ almost_AV0
 of_PRF
 the_AT0
 public_AJ0
-feel_VVI
+feel_VVB
 that_CJT
 mentally_AV0
 handicapped_AJ0
@@ -28718,7 +28718,7 @@ child_NN1
 and_CJC
 around_PRP
 70%_NN0
-feel_VVI
+feel_VVB
 that_CJT
 mentally_AV0
 handicapped_AJ0
@@ -28938,7 +28938,7 @@ homogenous_AJ0
 group_NN1
 to_TO0
 be_VBI
-sectioned_VVN
+sectioned_AJ0
 off_AVP
 and_CJC
 segregated_AJ0
@@ -28997,7 +28997,7 @@ family_NN1
 life_NN1
 and_CJC
 people_NN0
-feel_VVI
+feel_VVB
 they_PNP
 would_VM0
 be_VBI
@@ -29304,7 +29304,7 @@ children_NN2
 Within_PRP
 this_DT0
 social_AJ0
-spiral_AJ0-NN1
+spiral_NN1
 and_CJC
 in_PRP
 a_AT0
@@ -29334,7 +29334,7 @@ charities_NN2
 and_CJC
 benevolence_NN1
 People_NN0
-feel_VVI
+feel_VVB
 that_CJT
 they_PNP
 do_VDB
@@ -29351,7 +29351,7 @@ terms_NN2
 their_DPS
 lives_NN2
 seem_VVI
-unfulfilling_VVG-NN1
+unfulfilling_VVG
 and_CJC
 pointless_AJ0
 But_CJC
@@ -29409,7 +29409,7 @@ to_TO0
 approach_NN1
 the_AT0
 issues_NN2
-involved_AJ0
+involved_VVN
 with_PRP
 a_AT0
 true_AJ0
@@ -29682,7 +29682,7 @@ the_AT0
 mentally_AV0
 handicapped_AJ0
 who_PNQ
-fall_VVI
+fall_NN1
 lower_AJC
 in_PRP
 public_AJ0
@@ -29955,7 +29955,7 @@ society_NN1
 because_CJS
 the_AT0
 people_NN0
-involved_AJ0
+involved_VVN
 do_VDB
 not_XX0
 conform_VVI
@@ -30022,14 +30022,14 @@ tend_VVB
 to_TO0
 be_VBI
 firmly_AV0
-entrenched_AJ0
+entrenched_VVN
 and_CJC
 because_CJS
 many_DT0
 of_PRF
 the_AT0
 issues_NN2
-involved_AJ0
+involved_VVN
 are_VBB
 emotive_AJ0
 these_DT0
@@ -30133,7 +30133,7 @@ children_NN2
 should_VM0
 be_VBI
 increasingly_AV0
-integrated_AJ0
+integrated_VVN
 into_PRP
 normal_AJ0
 schools_NN2
@@ -30331,7 +30331,7 @@ viewers_NN2
 Due_AJ0
 to_TO0
 their_DPS
-crusading_AJ0-NN1
+crusading_AJ0
 streak_NN1
 newspapers_NN2
 have_VHB
@@ -30797,7 +30797,7 @@ the_AT0
 mass_NN1
 media_NN0
 will_VM0
-switch_VVI
+switch_NN1
 away_AV0
 from_PRP
 the_AT0
@@ -30813,7 +30813,7 @@ past_NN1
 to_TO0
 the_AT0
 more_AV0
-challenging_VVG-AJ0
+challenging_VVG
 and_CJC
 difficult_AJ0
 one_CRD

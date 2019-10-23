@@ -23,7 +23,7 @@ per_UNC
 cent_UNC
 have_VHB
 a_AT0
-mini-survey_NN1-AJ0
+mini-survey_NN1
 carried_VVN
 out_AVP
 according_VVG
@@ -130,7 +130,7 @@ ancient_AJ0
 castle_NN1
 to_TO0
 modern_AJ0
-semi_NN1-AJ0
+semi_NN1
 and_CJC
 having_VHG
 supervised_VVN
@@ -298,7 +298,7 @@ for_PRP
 a_AT0
 house_NN1
 of_PRF
-average_AJ0-NN1
+average_AJ0
 size_NN1
 and_CJC
 complexity_NN1
@@ -416,7 +416,7 @@ as_CJS
 structural_AJ0
 engineers_NN2
 or_CJC
-woodworm/damp_VVB-NN1
+woodworm/damp_VVB
 specialists_NN2
 Now_AV0
 for_PRP
@@ -441,7 +441,7 @@ who_PNQ
 rely_VVI
 on_PRP
 a_AT0
-mini-survey_NN1-AJ0
+mini-survey_NN1
 that_CJT
 's_POS
 fine_AJ0
@@ -488,7 +488,7 @@ surveys_NN2
 first_ORD
 and_CJC
 could_VM0
-present_AJ0-NN1
+present_AJ0
 their_DPS
 results_NN2
 to_TO0
@@ -581,7 +581,7 @@ deals_VVZ
 first_ORD
 with_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 system_NN1
 shows_VVZ
 its_DPS
@@ -718,7 +718,7 @@ best_AJS
 suited_VVN
 to_TO0
 the_AT0
-non-professional_AJ0-NN1
+non-professional_AJ0
 enthusiastic_AJ0
 house-owner_NN1
 And_CJC
@@ -739,7 +739,7 @@ by_PRP
 the_AT0
 sight_NN1
 of_PRF
-rotting_AJ0-VVG
+rotting_AJ0
 wood_NN1
 then_AV0
 perhaps_AV0
@@ -837,7 +837,7 @@ c_ZZ0
 There_EX0
 are_VBB
 no_AT0
-cast-iron_AJ0-NN1
+cast-iron_AJ0
 guarantees_NN2
 or_CJC
 insurances_NN2
@@ -1155,7 +1155,7 @@ central_AJ0
 heating_NN1
 system_NN1
 An_AT0
-RICS_NN1-NP0
+RICS_NN1
 Royal_AJ0
 Institution_NN1
 of_PRF
@@ -1485,7 +1485,7 @@ in_PRP
 conjunction_NN1
 with_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 schemes_NN2
 as_CJS
 a_AT0
@@ -1524,7 +1524,7 @@ and_CJC
 great_AJ0
 was_VBD
 the_AT0
-fall_VVI
+fall_NN1
 of_PRF
 it_PNP
 The_AT0
@@ -1562,13 +1562,13 @@ If_CJS
 you_PNP
 do_VDB
 not_XX0
-heed_VVI
+heed_NN1
 the_AT0
 spiritual_AJ0
 warning_NN1
 at_PRP
 least_AV0
-heed_VVI
+heed_NN1
 the_AT0
 physical_AJ0
 one_CRD
@@ -1672,7 +1672,7 @@ rot_NN1
 and_CJC
 dry_AJ0
 rot_NN1
-Woodworm_NN1-VVB
+Woodworm_VVB
 will_VM0
 flourish_VVI
 in_PRP
@@ -1758,7 +1758,7 @@ is_VBZ
 placed_VVN
 under_PRP
 a_AT0
-concrete_AJ0-NN1
+concrete_AJ0
 floor_NN1
 or_CJC
 the_AT0
@@ -1768,14 +1768,14 @@ will_VM0
 cause_NN1
 these_DT0
 to_TO0
-heave_VVI
+heave_NN1
 like_PRP
 a_AT0
 sponge_NN1
 pudding_NN1
 and_CJC
 a_AT0
-missing_VVG-AJ0
+missing_VVG
 or_CJC
 defective_AJ0
 damp-proof_AJ0
@@ -1915,7 +1915,7 @@ of_PRF
 collapse_NN1
 or_CJC
 major_AJ0
-disrepair_NN1-VVB
+disrepair_NN1
 In_PRP
 actual_AJ0
 fact_NN1
@@ -2042,7 +2042,7 @@ the_AT0
 House_NN1
 of_PRF
 Lords_NP0
-ruling_AJ0-NN1
+ruling_NN1
 on_PRP
 20th_ORD
 April_NP0
@@ -2417,14 +2417,14 @@ Home-buyers_NN2
 This_DT0
 or_CJC
 a_AT0
-mini-survey_NN1-AJ0
+mini-survey_NN1
 a_AT0
 modified_VVN
 scheme_NN1
 suggested_VVN
 by_PRP
 the_AT0
-RICS_NN1-NP0
+RICS_NN1
 Royal_AJ0
 Institution_NN1
 of_PRF
@@ -2520,7 +2520,7 @@ building_NN1
 examined_VVN
 will_VM0
 be_VBI
-listed_AJ0
+listed_VVN
 with_PRP
 any_DT0
 recommendations_NN2
@@ -2591,7 +2591,7 @@ lifting_VVG
 of_PRF
 carpets_NN2
 no_AT0
-shifting_AJ0-VVG
+shifting_AJ0
 of_PRF
 furniture_NN1
 no_AT0
@@ -2919,7 +2919,7 @@ before_PRP
 ten_CRD
 years_NN2
 The_AT0
-Independent_AJ0
+Independent_NN1
 Professional_AJ0
 Survey_NN1
 If_CJS
@@ -3012,7 +3012,7 @@ Moreover_AV0
 the_AT0
 surveyor_NN1
 will_VM0
-feel_VVI
+feel_VVB
 you_PNP
 do_VDB
 n't_XX0
@@ -3107,7 +3107,7 @@ Choose_VVB
 the_AT0
 one_CRD
 you_PNP
-feel_VVI
+feel_VVB
 is_VBZ
 attuned_VVN
 to_TO0
@@ -3181,7 +3181,7 @@ which_DTQ
 come_VVI
 to_TO0
 your_DPS
-notice_VVI
+notice_NN1
 Write_VVB
 down_AVP
 anything_PNI
@@ -3291,7 +3291,7 @@ reports_NN2
 to_TO0
 appear_VVI
 so_AV0
-emasculated_VVN-AJ0
+emasculated_VVN
 The_AT0
 surveyor_NN1
 should_VM0
@@ -3460,10 +3460,10 @@ in_PRP
 simple_AJ0
 direct_AJ0
 grammatical_AJ0
-English_AJ0-NN1
+English_AJ0
 free_AJ0
 of_PRF
-specialist_NN1-AJ0
+specialist_NN1
 technical_AJ0
 expressions_NN2
 unless_CJS
@@ -3613,7 +3613,7 @@ his_DPS
 inspection_NN1
 and_CJC
 to_TO0
-present_AJ0-NN1
+present_AJ0
 his_DPS
 report_NN1
 within_PRP
@@ -4094,7 +4094,7 @@ is_VBZ
 doing_VDG
 a_AT0
 ventriloquist_NN1
-act_VVI
+act_NN1
 with_PRP
 his_DPS
 insurers_NN2
@@ -4110,7 +4110,7 @@ to_TO0
 pay_VVI
 for_PRP
 his_DPS
-increased_AJ0
+increased_VVN
 insurance_NN1
 premiums_NN2
 The_AT0
@@ -4189,7 +4189,7 @@ has_VHZ
 moved_VVD
 in_PRP
 At_PRP
-present_AJ0-NN1
+present_AJ0
 the_AT0
 scheme_NN1
 only_AV0
@@ -4292,7 +4292,7 @@ avoided_VVN
 liability_NN1
 by_PRP
 having_VHG
-blackened_VVN
+blackened_AJ0
 the_AT0
 property_NN1
 If_CJS
@@ -4407,7 +4407,7 @@ unusual_AJ0
 due_AJ0
 to_TO0
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 heights_NN2
 of_PRF
 the_AT0
@@ -4603,9 +4603,9 @@ to_TO0
 be_VBI
 able_AJ0
 to_TO0
-bend_VVI
+bend_NN1
 and_CJC
-crawl_VVI
+crawl_VVB
 on_PRP
 your_DPS
 hands_NN2
@@ -4878,7 +4878,7 @@ appear_VVI
 as_CJS
 cracks_NN2
 and_CJC
-bulges_NN2-VVZ
+bulges_NN2
 in_PRP
 the_AT0
 walls_NN2
@@ -4941,7 +4941,7 @@ be_VBI
 detected_VVN
 by_PRP
 observation_NN1
-feel_VVI
+feel_VVB
 and_CJC
 smell_NN1
 Surveyors_NN2
@@ -4968,7 +4968,7 @@ to_TO0
 buy_VVI
 borrow_VVI
 or_CJC
-hire_VVI
+hire_NN1
 one_CRD
 If_CJS
 you_PNP
@@ -5221,7 +5221,7 @@ have_VHB
 to_TO0
 pay_VVI
 for_PRP
-specialist_NN1-AJ0
+specialist_NN1
 advice_NN1
 you_PNP
 will_VM0
@@ -5316,7 +5316,7 @@ needs_VVZ
 Take_VVB
 things_NN2
 logically_AV0
-Start_VVB-NN1
+Start_NN1
 at_PRP
 the_AT0
 beginning_NN1
@@ -5364,7 +5364,7 @@ been_VBN
 examined_VVN
 thoroughly_AV0
 Choosing_VVG
-Viewing_VVG-NN1
+Viewing_NN1
 Buying_VVG
 A_AT0
 home_NN1
@@ -5374,7 +5374,7 @@ you_PNP
 and_CJC
 your_DPS
 family_NN1
-feel_VVI
+feel_VVB
 secure_VVI
 and_CJC
 happy_AJ0
@@ -5477,11 +5477,11 @@ too_AV0
 late_AJ0
 in_PRP
 the_AT0
-house-buying_AJ0-NN1
+house-buying_NN1
 process_NN1
 and_CJC
 are_VBB
-divorced_AJ0
+divorced_VVN
 from_PRP
 the_AT0
 circumstances_NN2
@@ -5586,7 +5586,7 @@ look_VVI
 into_PRP
 the_AT0
 past_NN1
-present_AJ0-NN1
+present_AJ0
 and_CJC
 future_NN1
 think_VVB
@@ -5653,7 +5653,7 @@ abroad_AV0
 or_CJC
 worse_AJC
 still_AV0
-fall_VVI
+fall_NN1
 out_AVP
 with_PRP
 their_DPS
@@ -5700,7 +5700,7 @@ the_AT0
 unknowns_NN2
 to_TO0
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 You_PNP
 can_VM0
 not_XX0
@@ -5758,7 +5758,7 @@ snags_NN2
 This_DT0
 is_VBZ
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 step_NN1
 in_PRP
 making_VVG
@@ -5824,7 +5824,7 @@ walking_VVG
 golf_NN1
 tennis_NN1
 swimming_NN1
-cycling_VVG-NN1
+cycling_VVG
 Less_AV0
 travelling_VVG
 to_TO0
@@ -5874,14 +5874,14 @@ and_CJC
 you_PNP
 will_VM0
 certainly_AV0
-feel_VVI
+feel_VVB
 different_AJ0
 about_PRP
 some_DT0
 aspects_NN2
 of_PRF
 life_NN1
-Budgeting_NN1-VVG
+Budgeting_NN1
 Check_VVB
 your_DPS
 spending_VVG
@@ -5992,7 +5992,7 @@ to_TO0
 cope_VVI
 with_PRP
 the_AT0
-increased_AJ0
+increased_VVN
 mortgage_NN1
 Is_VBZ
 your_DPS
@@ -6083,7 +6083,7 @@ are_VBB
 some_DT0
 to_TO0
 consider_VVI
-Access_NN1-VVB
+Access_NN1
 to_TO0
 place_NN1
 of_PRF
@@ -6093,9 +6093,9 @@ schools_NN2
 People_NN0
 of_PRF
 neighbourhood_NN1
-Public_AJ0-NN1
+Public_AJ0
 transport_NN1
-Access_NN1-VVB
+Access_NN1
 to_TO0
 family_NN1
 friends_NN2
@@ -6107,7 +6107,7 @@ for_PRP
 walking_VVG
 and_CJC
 exercise_NN1
-Access_NN1-VVB
+Access_NN1
 to_TO0
 shops_NN2
 and_CJC
@@ -6156,8 +6156,8 @@ way_NN1
 Four_CRD
 bedrooms_NN2
 Modern_AJ0
-Detached_AJ0-VVN
-semi_NN1-AJ0
+Detached_AJ0
+semi_NN1
 flat_AJ0
 or_CJC
 maisonette_NN1
@@ -6184,7 +6184,7 @@ Somewhere_AV0
 to_TO0
 put_VVI
 the_AT0
-Steinway_NN1-NP0
+Steinway_NP0
 grand_AJ0
 TV_NN1
 and_CJC
@@ -6194,7 +6194,7 @@ So_AV0
 having_VHG
 assessed_VVN
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 importance_NN1
 of_PRF
 the_AT0
@@ -6263,7 +6263,7 @@ the_AT0
 points_NN2
 raised_VVN
 THE_AT0
-CARDINAL_AJ0-NN1
+CARDINAL_NN1
 RULE_NN1
 If_CJS
 you_PNP
@@ -6414,18 +6414,18 @@ connection_NN1
 with_PRP
 selling_VVG
 your_DPS
-present_AJ0-NN1
+present_AJ0
 house_NN1
 about_PRP
 1%_NN0
-Land_NP0-NN1
+Land_NN1
 Registry_NN1
 fee_NN1
 about_PRP
 \xc2\xbc%);_UNC
 n_XX0
 with_PRP
-Stamp_NN1-VVB
+Stamp_NN1
 Duty_NN1
 if_CJS
 over_PRP
@@ -6453,7 +6453,7 @@ Carpets_NN2
 and_CJC
 curtains_NN2
 etc_AV0
-Cost_VVB-NN1
+Cost_NN1
 of_PRF
 removal_NN1
 Agent_NN1
@@ -6550,7 +6550,7 @@ you_PNP
 have_VHB
 one_CRD
 and_CJC
-walk_VVI
+walk_NN1
 the_AT0
 neighbourhood_NN1
 Look_VVB
@@ -6687,7 +6687,7 @@ and_CJC
 caravans_NN2
 may_VM0
 be_VBI
-missing_VVG-AJ0
+missing_VVG
 It_PNP
 should_VM0
 now_AV0
@@ -7083,7 +7083,7 @@ seems_VVZ
 suitable_AJ0
 and_CJC
 you_PNP
-feel_VVI
+feel_VVB
 in_PRP
 your_DPS
 bones_NN2
@@ -7328,7 +7328,7 @@ moving_VVG
 and_CJC
 so_AV0
 on_PRP
-Press_NN1-VVB
+Press_NN1
 them_PNP
 carefully_AV0
 on_PRP
@@ -7544,7 +7544,7 @@ the_AT0
 house_NN1
 is_VBZ
 somewhat_AV0
-overpriced_AJ0-VVN
+overpriced_AJ0
 try_VVI
 an_AT0
 offer_VVI
@@ -7834,7 +7834,7 @@ and_CJC
 so_AV0
 on_PRP
 Then_AV0
-redecorate_VVI
+redecorate_VVB
 where_AVQ
 necessary_AJ0
 paying_VVG
@@ -7911,12 +7911,12 @@ the_AT0
 manhole_NN1
 covers_VVZ
 then_AV0
-wash_VVI
+wash_NN1
 the_AT0
 brickwork_NN1
 and_CJC
 the_AT0
-benching_VVG-NN1
+benching_NN1
 with_PRP
 warm_AJ0
 water_NN1
@@ -7973,7 +7973,7 @@ edges_NN2
 should_VM0
 be_VBI
 trimmed_VVN
-flowerbeds_NN2-VVZ
+flowerbeds_NN2
 and_CJC
 vegetable_NN1
 beds_NN2
@@ -8336,7 +8336,7 @@ bulb_NN1
 covered_VVN
 with_PRP
 a_AT0
-scorched_AJ0
+scorched_VVN
 paper_NN1
 shade_NN1
 CHOOSING_VVG
@@ -8697,7 +8697,7 @@ to_TO0
 see_VVI
 it_PNP
 portrayed_VVN
-Measure_NN1-VVB
+Measure_NN1
 the_AT0
 rooms_NN2
 carefully_AV0
@@ -8727,7 +8727,7 @@ you_PNP
 think_VVB
 is_VBZ
 important_AJ0
-List_VVB-NN1
+List_NN1
 the_AT0
 fittings_NN2
 which_DTQ
@@ -8848,7 +8848,7 @@ If_CJS
 it_PNP
 is_VBZ
 dark_AJ0
-switch_VVI
+switch_NN1
 on_PRP
 subdued_AJ0
 lighting_NN1
@@ -8857,7 +8857,7 @@ each_DT0
 room_NN1
 and_CJC
 your_DPS
-red-glow_AJ0-NN1
+red-glow_NN1
 fire_NN1
 in_PRP
 the_AT0
@@ -8958,7 +8958,7 @@ leave_VVI
 it_PNP
 at_PRP
 that_CJT
-SOLD_VVN-AJ0
+SOLD_VVN
 Leave_VVB
 the_AT0
 haggling_VVG
@@ -9001,7 +9001,7 @@ matter_NN1
 without_PRP
 at_PRP
 least_AV0
-sleeping_VVG
+sleeping_NN1
 on_PRP
 it_PNP
 and_CJC
@@ -9055,7 +9055,7 @@ put_VVI
 up_AVP
 his_DPS
 Sold_AJ0
-Subject_AJ0
+Subject_NN1
 to_TO0
 Contract_NN1
 sign_NN1
@@ -9094,7 +9094,7 @@ report_NN1
 Quality_NN1
 in_PRP
 Traditional_AJ0
-Housing_NN1-VVG
+Housing_NN1
 indicated_VVN
 that_CJT
 half_DT0
@@ -9171,9 +9171,9 @@ condition_NN1
 of_PRF
 our_DPS
 houses_NN2
-Leaking_VVG-AJ0
+Leaking_VVG
 roofs_NN2
-rotting_AJ0-VVG
+rotting_AJ0
 window_NN1
 frames_NN2
 condensation_NN1
@@ -9217,7 +9217,7 @@ form_NN1
 of_PRF
 the_AT0
 faults_NN2
-listed_AJ0
+listed_VVN
 in_PRP
 the_AT0
 report_NN1
@@ -9225,13 +9225,13 @@ is_VBZ
 set_VVN
 out_AVP
 overleaf_AV0
-Synopsis_NN1-NP0
+Synopsis_NN1
 in_PRP
 Table_NN1
-Form_NN1-VVB
+Form_NN1
 The_AT0
 faults_NN2
-listed_AJ0
+listed_VVN
 and_CJC
 categorised_VVN
 in_PRP
@@ -9256,7 +9256,7 @@ bricks_NN2
 blocks_NN2
 and_CJC
 mortar_NN1
-Drains_NN2-VVZ
+Drains_NN2
 underneath_PRP
 foundations_NN2
 subject_NN1
@@ -9272,7 +9272,7 @@ not_XX0
 continuous_AJ0
 and_CJC
 sometimes_AV0
-missing_VVG-AJ0
+missing_VVG
 Mature_AJ0
 trees_NN2
 too_AV0
@@ -9380,7 +9380,7 @@ glass_NN1
 in_PRP
 high-risk_AJ0
 areas_NN2
-Painted_AJ0-VVN
+Painted_AJ0
 finishes_VVZ
 to_TO0
 windows_NN2
@@ -9397,7 +9397,7 @@ Walls_NP0
 to_TO0
 porches_NN2
 not_XX0
-weatherproofed_VVN-AJ0
+weatherproofed_AJ0
 Inadequate_AJ0
 support_NN1
 to_TO0
@@ -9407,7 +9407,7 @@ Rainwater_NN1
 pipes_NN2
 and_CJC
 gutters_NN2
-missing_VVG-AJ0
+missing_VVG
 or_CJC
 inadequately_AV0
 jointed_VVN
@@ -9639,7 +9639,7 @@ of_PRF
 timbers_NN2
 and_CJC
 the_AT0
-disinfecting_VVG-AJ0
+disinfecting_VVG
 of_PRF
 all_DT0
 other_AJ0
@@ -9749,7 +9749,7 @@ furniture_NN1
 beetle_NN1
 the_AT0
 House_NN1
-Longhorn_NN1-NP0
+Longhorn_NP0
 thrives_VVZ
 in_PRP
 dry_AJ0
@@ -9851,7 +9851,7 @@ that_CJT
 treatment_NN1
 by_PRP
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 firm_NN1
 will_VM0
 be_VBI
@@ -9908,7 +9908,7 @@ of_PRF
 joists_NN2
 beams_NN2
 and_CJC
-trusses_NN2-VVZ
+trusses_VVZ
 with_PRP
 a_AT0
 screwdriver_NN1
@@ -9927,7 +9927,7 @@ fusty_AJ0
 and_CJC
 has_VHZ
 white_AJ0
-cobweb-pattern_AJ0-NN1
+cobweb-pattern_AJ0
 marks_NN2
 If_CJS
 tested_VVN
@@ -10096,7 +10096,7 @@ HP17_UNC
 called_VVN
 Recognising_VVG
 Wood_NP0
-Rot_NN1-VVB
+Rot_VVB
 and_CJC
 Insect_NN1
 Damage_NN1
@@ -10148,7 +10148,7 @@ leaking_VVG
 water_NN1
 pipe_NN1
 gutters_NN2
-downpipes_NN2-VVZ
+downpipes_NN2
 lead_VVI
 flashings_NN2
 blocked_VVN
@@ -10386,7 +10386,7 @@ detection_NN1
 all_DT0
 the_AT0
 easier_AJC
-Rising_VVG-AJ0
+Rising_VVG
 damp_AJ0
 is_VBZ
 only_AV0
@@ -10507,7 +10507,7 @@ chimney_NN1
 should_VM0
 always_AV0
 be_VBI
-ventilated_VVN-AJ0
+ventilated_VVN
 by_PRP
 an_AT0
 air_NN1
@@ -10558,7 +10558,7 @@ or_CJC
 kept_VVD
 to_TO0
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 It_PNP
 occurs_VVZ
 in_PRP
@@ -10610,7 +10610,7 @@ will_VM0
 provide_VVI
 conclusive_AJ0
 proof_NN1
-Rising_VVG-AJ0
+Rising_VVG
 damp_AJ0
 may_VM0
 be_VBI
@@ -10644,7 +10644,7 @@ then_AV0
 warmth_NN1
 and_CJC
 ventilation_NN1
-increased_AJ0
+increased_VVN
 Some_DT0
 cold_AJ0
 walls_NN2
@@ -10739,7 +10739,7 @@ carried_VVN
 out_AVP
 by_PRP
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 firm_NN1
 and_CJC
 carrying_VVG
@@ -10873,7 +10873,7 @@ usually_AV0
 free_AJ0
 by_PRP
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 contractor_NN1
 who_PNQ
 should_VM0
@@ -10979,10 +10979,10 @@ the_AT0
 elements_NN2
 battens_NN2
 rafters_NN2
-trusses_NN2-VVZ
+trusses_VVZ
 purlins_NN2
 and_CJC
-wallplates_NN2-VVZ
+wallplates_VVZ
 must_VM0
 be_VBI
 securely_AV0
@@ -11020,7 +11020,7 @@ Most_DT0
 roofs_NN2
 exceed_VVI
 these_DT0
-minimum_AJ0-NN1
+minimum_AJ0
 requirements_NN2
 but_CJC
 if_CJS
@@ -11080,12 +11080,12 @@ Coverings_NN2
 Roof_NN1
 coverings_NN2
 on_PRP
-pitched_AJ0
+pitched_VVD
 roofs_NN2
 are_VBB
 usually_AV0
 of_PRF
-concrete_AJ0-NN1
+concrete_AJ0
 or_CJC
 clay_NN1
 tiles_NN2
@@ -11200,7 +11200,7 @@ gutters_NN2
 valleys_NN2
 and_CJC
 junctions_NN2
-Mortar_VVB-NN1
+Mortar_NN1
 fillets_NN2
 and_CJC
 flashings_NN2
@@ -11217,7 +11217,7 @@ common_AJ0
 source_NN1
 of_PRF
 trouble_NN1
-Slipping_VVG-AJ0
+Slipping_AJ0
 tiles_NN2
 or_CJC
 slates_NN2
@@ -11354,7 +11354,7 @@ there_EX0
 is_VBZ
 a_AT0
 continuous_AJ0
-fall_VVI
+fall_NN1
 towards_PRP
 the_AT0
 eaves_NN2
@@ -11425,7 +11425,7 @@ it_PNP
 will_VM0
 be_VBI
 better_AJC
-ventilated_VVN-AJ0
+ventilated_VVN
 and_CJC
 you_PNP
 can_VM0
@@ -11494,13 +11494,13 @@ clean_AJ0
 and_CJC
 sloping_AJ0
 to_TO0
-downpipes_NN2-VVZ
+downpipes_NN2
 and_CJC
 should_VM0
 not_XX0
 have_VHB
-dips_VVZ-NN2
-Downpipes_NP0
+dips_VVZ
+Downpipes_NN2
 should_VM0
 be_VBI
 clean_AJ0
@@ -11601,7 +11601,7 @@ a_AT0
 freeze-up_NN1
 Humid_AJ0
 air_NN1
-permeating_VVG-AJ0
+permeating_VVG
 from_PRP
 below_AV0
 can_VM0
@@ -11636,7 +11636,7 @@ by_PRP
 ensuring_VVG
 plenty_PNI
 of_PRF
-cross_VVI
+cross_NN1
 ventilation_NN1
 in_PRP
 the_AT0
@@ -11841,7 +11841,7 @@ materials_NN2
 may_VM0
 well_AV0
 have_VHB
-improved_AJ0
+improved_VVN
 but_CJC
 only_AV0
 time_NN1
@@ -11901,7 +11901,7 @@ unless_CJS
 the_AT0
 space_NN1
 is_VBZ
-ventilated_VVN-AJ0
+ventilated_VVN
 which_DTQ
 it_PNP
 hardly_AV0
@@ -12150,7 +12150,7 @@ or_CJC
 structure_NN1
 from_PRP
 the_AT0
-ground-floor_AJ0-NN1
+ground-floor_AJ0
 level_NN1
 down_AVP
 wards_NN2
@@ -12200,11 +12200,11 @@ implies_VVZ
 consists_VVZ
 of_PRF
 a_AT0
-concrete_AJ0-NN1
+concrete_AJ0
 strip_NN1
 under_PRP
 the_AT0
-load-bearing_AJ0-NN1
+load-bearing_AJ0
 walls_NN2
 whereas_CJS
 the_AT0
@@ -12214,7 +12214,7 @@ consists_VVZ
 of_PRF
 a_AT0
 reinforced_VVN
-concrete_AJ0-NN1
+concrete_AJ0
 slab_NN1
 under_PRP
 the_AT0
@@ -12227,7 +12227,7 @@ is_VBZ
 used_VVN
 where_AVQ
 the_AT0
-ground-bearing_AJ0-NN1
+ground-bearing_NN1
 properties_NN2
 ie_AV0
 the_AT0
@@ -12324,7 +12324,7 @@ it_PNP
 is_VBZ
 known_VVN
 as_CJS
-heave_VVI
+heave_NN1
 In_PRP
 sandy_AJ0
 soils_NN2
@@ -12352,7 +12352,7 @@ to_TO0
 expand_VVI
 or_CJC
 contract_NN1
-Heave_NN1-VVB
+Heave_NN1
 can_VM0
 be_VBI
 caused_VVN
@@ -12365,7 +12365,7 @@ into_PRP
 clay_NN1
 and_CJC
 by_PRP
-chemical_AJ0-NN1
+chemical_AJ0
 action_NN1
 in_PRP
 certain_AJ0
@@ -12412,7 +12412,7 @@ foundations_NN2
 is_VBZ
 very_AV0
 important_AJ0
-Cracking_AJ0-VVG
+Cracking_AJ0
 Patterns_NN2
 in_PRP
 Walls_NP0
@@ -12587,7 +12587,7 @@ new_AJ0
 foundations_NN2
 or_CJC
 short_AJ0
-concrete_AJ0-NN1
+concrete_AJ0
 piles_NN2
 without_PRP
 demolishing_VVG
@@ -12826,7 +12826,7 @@ mild_AJ0
 steel_NN1
 galvanised_AJ0
 steel_NN1
-cast_VVN
+cast_NN1
 iron_NN1
 copper_NN1
 aluminium_NN1
@@ -12886,7 +12886,7 @@ zinc_NN1
 coating_NN1
 is_VBZ
 defective_AJ0
-Corrosion_NN1-NP0
+Corrosion_NP0
 is_VBZ
 severest_AJS
 closer_AV0
@@ -12914,7 +12914,7 @@ in_PRP
 extreme_AJ0
 cases_NN2
 causing_VVG
-bulging_VVG-AJ0
+bulging_VVG
 and_CJC
 cracking_AJ0
 of_PRF
@@ -12961,7 +12961,7 @@ a_AT0
 structural_AJ0
 engineer_NN1
 or_CJC
-specialist_NN1-AJ0
+specialist_NN1
 contractor_NN1
 should_VM0
 be_VBI
@@ -12970,7 +12970,7 @@ to_TO0
 report_NN1
 He_PNP
 will_VM0
-drill_VVI
+drill_NN1
 small_AJ0
 holes_NN2
 and_CJC
@@ -13017,7 +13017,7 @@ for_PRP
 the_AT0
 purpose_NN1
 The_AT0
-specialist_NN1-AJ0
+specialist_NN1
 contractor_NN1
 offers_VVZ
 a_AT0
@@ -13053,7 +13053,7 @@ of_PRF
 bricks_NN2
 blocks_NN2
 stone_NN1
-concrete_AJ0-NN1
+concrete_AJ0
 or_CJC
 timber_NN1
 In_PRP
@@ -13117,7 +13117,7 @@ engineer_NN1
 as_CJS
 should_VM0
 prefabricated_AJ0
-concrete_AJ0-NN1
+concrete_AJ0
 houses_NN2
 and_CJC
 those_DT0
@@ -13276,7 +13276,7 @@ signs_NN2
 of_PRF
 damp_AJ0
 penetration_NN1
-Urea_NN1-NP0
+Urea_NN1
 formaldehyde_NN1
 foam_NN1
 used_VVN
@@ -13378,7 +13378,7 @@ can_VM0
 occur_VVI
 Therefore_AV0
 check_VVI
-cavity-filled_AJ0-NN1
+cavity-filled_NN1
 walls_NN2
 carefully_AV0
 for_PRP
@@ -13391,7 +13391,7 @@ that_CJT
 they_PNP
 have_VHB
 been_VBN
-sealed_AJ0
+sealed_VVN
 effectively_AV0
 at_PRP
 the_AT0
@@ -13581,7 +13581,7 @@ has_VHZ
 a_AT0
 99-year_AJ0
 lease_NN1
-Flat-ownership_NN1-AJ0
+Flat-ownership_AJ0
 in_PRP
 Scotland_NP0
 means_NN0
@@ -13653,7 +13653,7 @@ the_AT0
 owners_NN2
 of_PRF
 a_AT0
-semi_NN1-AJ0
+semi_NN1
 but_CJC
 in_PRP
 blocks_NN2
@@ -13825,7 +13825,7 @@ a_AT0
 terraced_AJ0
 house_NN1
 or_CJC
-semi_NN1-AJ0
+semi_NN1
 inspection_NN1
 so_AV0
 far_AV0
@@ -14082,7 +14082,7 @@ property_NN1
 alight_AJ0
 with_PRP
 a_AT0
-blow-torch_NN1-AJ0
+blow-torch_NN1
 The_AT0
 programme_NN1
 highlighted_VVN
@@ -14250,7 +14250,7 @@ out_AVP
 of_PRF
 the_AT0
 timber-frame_AJ0
-house-building_AJ0-NN1
+house-building_AJ0
 market_NN1
 and_CJC
 the_AT0
@@ -14303,7 +14303,7 @@ suit_NN1
 What_DTQ
 of_PRF
 those_DT0
-stuck_AJ0
+stuck_VVN
 with_PRP
 a_AT0
 10-year_AJ0
@@ -14317,7 +14317,7 @@ fact_NN1
 is_VBZ
 that_CJT
 the_AT0
-rotting_AJ0-VVG
+rotting_AJ0
 process_NN1
 in_PRP
 timber_NN1
@@ -14372,7 +14372,7 @@ endoscope_NN1
 which_DTQ
 has_VHZ
 a_AT0
-zoom_NN1-VVB
+zoom_NN1
 eye-piece_NN1
 and_CJC
 a_AT0
@@ -14417,7 +14417,7 @@ an_AT0
 early_AJ0
 stage_NN1
 if_CJS
-rotting_AJ0-VVG
+rotting_AJ0
 is_VBZ
 detected_VVN
 USING_VVG
@@ -14430,7 +14430,7 @@ frame_NN1
 in_PRP
 house_NN1
 building_NN1
-quadrupled_VVN-VVD
+quadrupled_VVN
 in_PRP
 the_AT0
 1970s_CRD
@@ -14479,7 +14479,7 @@ timber_NN1
 frame_NN1
 enables_VVZ
 the_AT0
-factory-built_AJ0-NN1
+factory-built_NN1
 superstructure_NN1
 of_PRF
 a_AT0
@@ -14489,7 +14489,7 @@ be_VBI
 erected_VVN
 quickly_AV0
 the_AT0
-average_AJ0-NN1
+average_AJ0
 structure_NN1
 takes_VVZ
 only_AV0
@@ -14578,13 +14578,13 @@ traditional_AJ0
 structure_NN1
 where_AVQ
 the_AT0
-load-bearing_AJ0-NN1
+load-bearing_AJ0
 walls_NN2
 are_VBB
 solid_AJ0
 brick_NN1
 or_CJC
-concrete_AJ0-NN1
+concrete_AJ0
 blocks_NN2
 In_PRP
 both_AV0
@@ -14804,7 +14804,7 @@ of_PRF
 damage_NN1
 to_TO0
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 Urgent_AJ0
 research_NN1
 is_VBZ
@@ -14882,7 +14882,7 @@ still_AV0
 be_VBI
 effective_AJ0
 and_CJC
-preservative_AJ0-NN1
+preservative_AJ0
 treatment_NN1
 to_TO0
 timber_NN1
@@ -14986,7 +14986,7 @@ nor_CJC
 the_AT0
 NHBC_NP0
 specifically_AV0
-legislated_VVD-VVN
+legislated_VVD
 for_PRP
 this_DT0
 type_NN1
@@ -15088,9 +15088,9 @@ concern_NN1
 on_PRP
 this_DT0
 score_NN1
-OFFICIAL_AJ0-NN1
+OFFICIAL_NN1
 REPORTS_NN2
-Local_NN1-AJ0
+Local_AJ0
 Authorities_NN2
 Report_NN1
 The_AT0
@@ -15111,7 +15111,7 @@ Association_NN1
 of_PRF
 Metropolitan_AJ0
 Authorities_NN2
-AMA_NP0-NN1
+AMA_NP0
 spoke_VVD
 of_PRF
 serious_AJ0
@@ -15185,7 +15185,7 @@ by_PRP
 this_DT0
 method_NN1
 The_AT0
-AMA_NP0-NN1
+AMA_NP0
 did_VDD
 recognise_VVI
 the_AT0
@@ -15238,8 +15238,8 @@ its_DPS
 increasing_AJ0
 use_NN1
 was_VBD
-damaging_VVG-AJ0
-home-based_AJ0-NN1
+damaging_AJ0
+home-based_NN1
 brick_NN1
 and_CJC
 block_NN1
@@ -15256,7 +15256,7 @@ discussed_VVN
 at_PRP
 length_NN1
 The_AT0
-AMA_NP0-NN1
+AMA_NP0
 also_AV0
 reported_VVN
 that_CJT
@@ -15582,7 +15582,7 @@ that_CJT
 the_AT0
 trend_NN1
 towards_PRP
-increased_AJ0
+increased_VVN
 thermal_AJ0
 insulation_NN1
 and_CJC
@@ -15703,7 +15703,7 @@ barriers_NN2
 to_TO0
 limit_NN1
 fire_NN1
-spread_NN1
+spread_VVN
 and_CJC
 a_AT0
 completely_AV0
@@ -15889,7 +15889,7 @@ structural_AJ0
 engineers_NN2
 are_VBB
 not_XX0
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 inspection_NN1
@@ -16047,7 +16047,7 @@ ground_NN1
 level_NN1
 The_AT0
 term_NN1
-drain'_NN1-VVG
+drain'_VVG
 refers_VVZ
 to_TO0
 a_AT0
@@ -16137,7 +16137,7 @@ will_VM0
 confirm_VVI
 the_AT0
 position_NN1
-Cess_VVB-NN1
+Cess_NN1
 Pools_NN2
 and_CJC
 Septic_AJ0
@@ -16161,14 +16161,14 @@ into_PRP
 enclosed_AJ0
 tanks_NN2
 called_VVN
-cess_NN1-VVB
+cess_VVB
 pools_NN2
 or_CJC
 into_PRP
 septic_AJ0
 tanks_NN2
 A_AT0
-cess_NN1-VVB
+cess_VVB
 pool_NN1
 has_VHZ
 to_TO0
@@ -16244,7 +16244,7 @@ should_VM0
 not_XX0
 enter_VVI
 either_AV0
-cess_NN1-VVB
+cess_VVB
 pools_NN2
 or_CJC
 septic_AJ0
@@ -16259,7 +16259,7 @@ collecting_VVG
 tanks_NN2
 or_CJC
 soakaways_NN2
-Drains_NN2-VVZ
+Drains_NN2
 There_EX0
 are_VBB
 two_CRD
@@ -16352,7 +16352,7 @@ too_AV0
 slowly_AV0
 or_CJC
 too_AV0
-fast_AV0-AJ0
+fast_AJ0
 deposits_NN2
 can_VM0
 be_VBI
@@ -16375,7 +16375,7 @@ and_CJC
 be_VBI
 made_VVN
 of_PRF
-non-absorbent_NN1-AJ0
+non-absorbent_AJ0
 non-corrodible_AJ0
 material_NN1
 be_VBI
@@ -16397,7 +16397,7 @@ changes_NN2
 in_PRP
 direction_NN1
 No_ITJ
-drain_VVI
+drain_NN1
 should_VM0
 pass_VVI
 under_PRP
@@ -16416,7 +16416,7 @@ protected_VVN
 by_PRP
 encasing_VVG
 in_PRP
-concrete_AJ0-NN1
+concrete_AJ0
 and_CJC
 supported_VVN
 against_PRP
@@ -16429,7 +16429,7 @@ a_AT0
 wall_NN1
 or_CJC
 foundation_NN1
-Drains_NN2-VVZ
+Drains_NN2
 should_VM0
 be_VBI
 kept_VVD
@@ -16483,8 +16483,8 @@ in_PRP
 fine_AJ0
 mortar_NN1
 or_CJC
-concrete_AJ0-NN1
-benching_VVG-NN1
+concrete_AJ0
+benching_NN1
 with_PRP
 steep_AJ0
 falls_VVZ
@@ -16495,7 +16495,7 @@ All_DT0
 drains_NN2
 should_VM0
 be_VBI
-ventilated_VVN-AJ0
+ventilated_VVN
 to_TO0
 avoid_VVI
 the_AT0
@@ -16512,7 +16512,7 @@ extending_VVG
 the_AT0
 main_AJ0
 house_NN1
-downpipe_NN1-VVB
+downpipe_NN1
 above_PRP
 the_AT0
 roof_NN1
@@ -16560,7 +16560,7 @@ be_VBI
 firmly_AV0
 bedded_VVN
 in_PRP
-concrete_AJ0-NN1
+concrete_AJ0
 and_CJC
 kept_VVD
 clean_AJ0
@@ -16574,7 +16574,7 @@ a_AT0
 year_NN1
 Gutters_NN2
 and_CJC
-Downpipes_NP0
+Downpipes_NN2
 So_AV0
 far_AV0
 as_CJS
@@ -16632,7 +16632,7 @@ lowered_VVD
 to_TO0
 determine_VVI
 its_DPS
-fall_VVI
+fall_NN1
 and_CJC
 gutters_NN2
 must_VM0
@@ -16640,7 +16640,7 @@ run_VVI
 to_TO0
 a_AT0
 good_AJ0
-fall_VVI
+fall_NN1
 and_CJC
 should_VM0
 be_VBI
@@ -16664,7 +16664,7 @@ brackets_NN2
 They_PNP
 discharge_NN1
 into_PRP
-downpipes_NN2-VVZ
+downpipes_NN2
 and_CJC
 thence_AV0
 into_PRP
@@ -16674,11 +16674,11 @@ and_CJC
 drains_NN2
 Gutters_NN2
 and_CJC
-downpipes_NN2-VVZ
+downpipes_NN2
 once_AV0
 made_VVN
 of_PRF
-cast_VVN
+cast_NN1
 iron_NN1
 are_VBB
 now_AV0
@@ -16759,7 +16759,7 @@ and_CJC
 consist_VVI
 of_PRF
 an_AT0
-excavated_AJ0
+excavated_VVN
 pit_NN1
 not_XX0
 less_AV0
@@ -16844,7 +16844,7 @@ is_VBZ
 based_VVN
 on_PRP
 the_AT0
-fire-fighting_AJ0-NN1
+fire-fighting_AJ0
 requirements_NN2
 of_PRF
 a_AT0
@@ -16879,7 +16879,7 @@ so_AV0
 they_PNP
 do_VDB
 not_XX0
-freeze_VVI
+freeze_NN1
 up_AVP
 and_CJC
 outside_PRP
@@ -16948,7 +16948,7 @@ then_AV0
 becomes_VVZ
 the_AT0
 rising_VVG
-main'_VVG-NN1
+main'_VVG
 to_TO0
 a_AT0
 storage_NN1
@@ -17205,11 +17205,11 @@ Staffordshire_NP0
 areas_NN2
 from_PRP
 nitrates_NN2
-Tap_VVB-NN1
+Tap_VVB
 water_NN1
 also_AV0
 contains_VVZ
-varying_AJ0-VVG
+varying_AJ0
 amounts_NN2
 of_PRF
 rust_NN1
@@ -17252,7 +17252,7 @@ in_PRP
 accordance_NN1
 with_PRP
 the_AT0
-Public_AJ0-NN1
+Public_AJ0
 Health_NN1
 Act_NN1
 1936_CRD
@@ -17385,7 +17385,7 @@ the_AT0
 tank_NN1
 to_TO0
 a_AT0
-ball-valve_NN1-AJ0
+ball-valve_NN1
 The_AT0
 outlet_NN1
 should_VM0
@@ -17422,12 +17422,12 @@ by_PRP
 gravity_NN1
 with_PRP
 a_AT0
-fall_VVI
+fall_NN1
 of_PRF
 1_CRD
 in_PRP
 10_CRD
-minimum_AJ0-NN1
+minimum_AJ0
 to_TO0
 150mm_NN0
 6in_NN0
@@ -17462,7 +17462,7 @@ water_NN1
 level_NN1
 For_PRP
 the_AT0
-average_AJ0-NN1
+average_AJ0
 property_NN1
 the_AT0
 cistern_NN1
@@ -17567,7 +17567,7 @@ a_AT0
 diameter_NN1
 steel_NN1
 pipe_NN1
-wrapped_VVN-VVD
+wrapped_VVN
 with_PRP
 special_AJ0
 tape_NN1
@@ -17589,10 +17589,10 @@ be_VBI
 laid_VVN
 to_TO0
 a_AT0
-fall_VVI
+fall_NN1
 with_PRP
 a_AT0
-drain_VVI
+drain_NN1
 cock_NN1
 to_TO0
 release_NN1
@@ -17722,7 +17722,7 @@ Gas_NN1
 Board_NN1
 or_CJC
 a_AT0
-CORGI_NN1-AJ0
+CORGI_AJ0
 Confederation_NN1
 for_PRP
 the_AT0
@@ -18048,7 +18048,7 @@ about_PRP
 150mm_NN0
 6in_NN0
 diameter_NN1
-Boiler_NN1-NP0
+Boiler_NN1
 size_NN1
 depends_VVZ
 upon_PRP
@@ -18129,7 +18129,7 @@ by_PRP
 the_AT0
 Gas_NN1
 Board_NN1
-CORGI_NN1-AJ0
+CORGI_AJ0
 registered_VVN
 contractor_NN1
 or_CJC
@@ -18195,7 +18195,7 @@ another_DT0
 there_EX0
 is_VBZ
 no_AT0
-substitute_NN1-AJ0
+substitute_NN1
 for_PRP
 instant_AJ0
 heat_NN1
@@ -18610,7 +18610,7 @@ scaling_VVG
 occurs_VVZ
 after_PRP
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 heating_NN1
 of_PRF
 the_AT0
@@ -18988,7 +18988,7 @@ and_CJC
 a_AT0
 valve_NN1
 for_PRP
-bleeding_VVG-AJ0
+bleeding_AJ0
 These_DT0
 should_VM0
 be_VBI
@@ -19041,7 +19041,7 @@ tank_NN1
 or_CJC
 cold_AJ0
 water_NN1
-feed_VVI
+feed_NN1
 tank_NN1
 in_PRP
 the_AT0
@@ -19154,7 +19154,7 @@ outside_PRP
 air_NN1
 ELECTRICAL_AJ0
 SERVICES_NN2
-Official_AJ0-NN1
+Official_AJ0
 figures_NN2
 show_VVI
 that_CJT
@@ -19219,7 +19219,7 @@ neutral_AJ0
 The_AT0
 connections_NN2
 are_VBB
-sealed_AJ0
+sealed_VVN
 joints_NN2
 and_CJC
 only_AV0
@@ -19244,7 +19244,7 @@ they_PNP
 terminate_VVI
 in_PRP
 a_AT0
-sealed_AJ0
+sealed_VVN
 fused_VVN
 container_NN1
 These_DT0
@@ -19299,7 +19299,7 @@ heavy_AJ0
 user_NN1
 From_PRP
 the_AT0
-sealed_AJ0
+sealed_VVN
 fused_VVN
 container_NN1
 located_VVN
@@ -19313,7 +19313,7 @@ to_TO0
 the_AT0
 consumer_NN1
 control_NN1
-switch_VVI
+switch_NN1
 past_NN1
 a_AT0
 main_AJ0
@@ -19423,14 +19423,14 @@ Board_NN1
 or_CJC
 by_PRP
 an_AT0
-NICEIC_NN1-AJ0
+NICEIC_AJ0
 National_AJ0
 Inspection_NN1
 Council_NN1
 for_PRP
 Electrical_AJ0
 Installation_NN1
-Contracting_VVG-AJ0
+Contracting_AJ0
 registered_VVN
 contractor_NN1
 And_CJC
@@ -19689,7 +19689,7 @@ in_PRP
 your_DPS
 costs_NN2
 Burglar_NN1
-Alarm_NN1-VVB
+Alarm_NN1
 Systems_NN2
 If_CJS
 you_PNP
@@ -19812,7 +19812,7 @@ Electricity_NN1
 Board_NN1
 or_CJC
 an_AT0
-NICEIC_NN1-AJ0
+NICEIC_AJ0
 contractor_NN1
 will_VM0
 fit_VVI
@@ -19877,7 +19877,7 @@ it_PNP
 covers_VVZ
 and_CJC
 what_DTQ
-notice_VVI
+notice_NN1
 is_VBZ
 required_VVN
 if_CJS
@@ -20017,7 +20017,7 @@ Camera_NN1
 with_PRP
 flash_NN1
 attachment_NN1
-Clipboard_NN1-NP0
+Clipboard_NP0
 and_CJC
 pencil_NN1
 The_AT0
@@ -20033,7 +20033,7 @@ possible_AJ0
 buy_VVI
 borrow_VVI
 or_CJC
-hire_VVI
+hire_NN1
 a_AT0
 moisture_NN1
 meter_NN1
@@ -20086,7 +20086,7 @@ solicitor_NN1
 copies_NN2
 of_PRF
 the_AT0
-Land_NP0-NN1
+Land_NN1
 Registry_NN1
 plan_NN1
 and_CJC
@@ -20246,7 +20246,7 @@ or_CJC
 boat_NN1
 in_PRP
 the_AT0
-drive_VVI
+drive_NN1
 and_CJC
 so_AV0
 on_PRP
@@ -20289,7 +20289,7 @@ drains_NN2
 and_CJC
 mains_NN1
 services_NN2
-cross_VVI
+cross_NN1
 anyone_PNI
 else_AV0
 's_POS
@@ -20317,7 +20317,7 @@ such_DT0
 as_CJS
 those_DT0
 for_PRP
-damp-proofing_NN1-AJ0
+damp-proofing_AJ0
 wood_NN1
 treatment_NN1
 new_AJ0
@@ -20522,7 +20522,7 @@ might_VM0
 be_VBI
 made_VVN
 available_AJ0
-Request_NN1-VVB
+Request_NN1
 also_AV0
 that_CJT
 the_AT0
@@ -20645,7 +20645,7 @@ Detailed_AJ0
 external_AJ0
 inspection_NN1
 7_CRD
-Detached_AJ0-VVN
+Detached_AJ0
 garages_NN2
 sheds_NN2
 greenhouses_NN2
@@ -20704,7 +20704,7 @@ for_PRP
 cracks_NN2
 in_PRP
 walls_NN2
-bulging_VVG-AJ0
+bulging_VVG
 or_CJC
 leaning_VVG
 walls_NN2
@@ -20713,7 +20713,7 @@ chimney_NN1
 breasts_NN2
 damp_AJ0
 and_CJC
-rotting_AJ0-VVG
+rotting_AJ0
 or_CJC
 infested_AJ0
 wood_NN1
@@ -20722,7 +20722,7 @@ of_PRF
 movement_NN1
 or_CJC
 subsidence_NN1
-bulging_VVG-AJ0
+bulging_VVG
 or_CJC
 sagging_VVG
 floors_NN2
@@ -20762,8 +20762,8 @@ any_DT0
 steel_NN1
 plates_NN2
 circular_AJ0
-S-shaped_NN1-AJ0
-X-shaped_AJ0-NN1
+S-shaped_NN1
+X-shaped_AJ0
 or_CJC
 rectangular_AJ0
 which_DTQ
@@ -20887,7 +20887,7 @@ external_AJ0
 Inspection_NN1
 As_CJS
 you_PNP
-walk_VVI
+walk_NN1
 around_PRP
 the_AT0
 outside_PRP
@@ -20921,7 +20921,7 @@ any_DT0
 large_AJ0
 cracks_NN2
 or_CJC
-bulges_NN2-VVZ
+bulges_NN2
 especially_AV0
 at_PRP
 eaves_NN2
@@ -20941,7 +20941,7 @@ at_PRP
 the_AT0
 gutters_NN2
 and_CJC
-downpipes_NN2-VVZ
+downpipes_NN2
 for_PRP
 damp_AJ0
 patches_NN2
@@ -20977,7 +20977,7 @@ will_VM0
 indicate_VVI
 that_CJT
 a_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 dpc_NN0
 has_VHZ
 been_VBN
@@ -21026,7 +21026,7 @@ inside_PRP
 and_CJC
 later_AV0
 outside_PRP
-Photograph_NN1-VVB
+Photograph_NN1
 any_DT0
 peculiarities_NN2
 For_PRP
@@ -21048,7 +21048,7 @@ climb_VVI
 a_AT0
 ladder_NN1
 or_CJC
-stepladder_VVB-NN1
+stepladder_NN1
 until_CJS
 you_PNP
 are_VBB
@@ -21152,7 +21152,7 @@ joists_NN2
 rafters_NN2
 purlins_NN2
 and_CJC
-trusses_NN2-VVZ
+trusses_VVZ
 and_CJC
 you_PNP
 must_VM0
@@ -21198,7 +21198,7 @@ not_XX0
 on_PRP
 any_DT0
 account_NN1
-tread_VVI
+tread_VVB
 on_PRP
 the_AT0
 plasterboard_NN1
@@ -21255,7 +21255,7 @@ rafters_NN2
 purlins_NN2
 beams_NN2
 wall-plates_NN2
-trusses_NN2-VVZ
+trusses_VVZ
 joints_NN2
 Check_VVB
 that_CJT
@@ -21285,7 +21285,7 @@ a_AT0
 series_NN0
 of_PRF
 roof_NN1
-trusses_NN2-VVZ
+trusses_VVZ
 these_DT0
 should_VM0
 all_DT0
@@ -21421,7 +21421,7 @@ room_NN1
 at_PRP
 any_DT0
 level_NN1
-Sketch_VVB-NN1
+Sketch_NN1
 make_VVI
 notes_NN2
 and_CJC
@@ -21592,7 +21592,7 @@ damp_AJ0
 Is_VBZ
 it_PNP
 well_AV0
-ventilated_VVN-AJ0
+ventilated_VVN
 Has_VHZ
 it_PNP
 been_VBN
@@ -21640,7 +21640,7 @@ You_PNP
 probably_AV0
 need_VVB
 to_TO0
-wash_VVI
+wash_NN1
 your_DPS
 hands_NN2
 so_AV0
@@ -21656,7 +21656,7 @@ the_AT0
 bathroom_NN1
 as_CJS
 you_PNP
-wash_VVI
+wash_NN1
 check_VVI
 the_AT0
 water_NN1
@@ -21696,9 +21696,9 @@ able_AJ0
 see_VVI
 Chapter_NN1
 6_CRD
-Tap_VVB-NN1
+Tap_VVB
 the_AT0
-tiling_NN1-VVG
+tiling_VVG
 at_PRP
 intervals_NN2
 to_TO0
@@ -21746,7 +21746,7 @@ in_PRP
 one_CRD
 direction_NN1
 say_VVI
-clockwise_AV0-AJ0
+clockwise_AJ0
 inspecting_VVG
 each_DT0
 room_NN1
@@ -21919,7 +21919,7 @@ than_CJS
 a_AT0
 structural_AJ0
 engineer_NN1
-Poke_NN1-VVB
+Poke_VVB
 around_PRP
 any_DT0
 plumbing_NN1
@@ -22014,7 +22014,7 @@ run_VVI
 directly_AV0
 into_PRP
 a_AT0
-switch_VVI
+switch_NN1
 and_CJC
 fuse_NN1
 no_AT0
@@ -22056,7 +22056,7 @@ over_PRP
 all_DT0
 Remember_VVB
 your_DPS
-load-bearing_AJ0-NN1
+load-bearing_AJ0
 walls_NN2
 and_CJC
 chimneys_NN2
@@ -22099,7 +22099,7 @@ advise_VVI
 Note_VVB
 that_CJT
 a_AT0
-load-bearing_AJ0-NN1
+load-bearing_AJ0
 wall_NN1
 might_VM0
 be_VBI
@@ -22365,7 +22365,7 @@ in_PRP
 good_AJ0
 sound_NN1
 condition_NN1
-Bounce_VVB-NN1
+Bounce_VVB
 your_DPS
 heels_NN2
 on_PRP
@@ -22507,7 +22507,7 @@ otherwise_AV0
 tap_NN1
 the_AT0
 plaster_NN1
-feel_VVI
+feel_VVB
 with_PRP
 a_AT0
 dry_AJ0
@@ -22570,7 +22570,7 @@ smell_NN1
 and_CJC
 prod_VVB
 the_AT0
-concrete_AJ0-NN1
+concrete_AJ0
 screed_NN1
 Any_DT0
 damp_AJ0
@@ -22583,8 +22583,8 @@ fully_AV0
 tested_VVN
 by_PRP
 a_AT0
-damp-proofing_NN1-AJ0
-specialist_NN1-AJ0
+damp-proofing_AJ0
+specialist_NN1
 but_CJC
 try_VVI
 to_TO0
@@ -22721,7 +22721,7 @@ for_PRP
 signs_NN2
 of_PRF
 damp_AJ0
-Sketch_VVB-NN1
+Sketch_NN1
 and_CJC
 list_NN1
 the_AT0
@@ -22844,7 +22844,7 @@ MUST_VM0
 be_VBI
 treated_VVN
 with_PRP
-preservative_AJ0-NN1
+preservative_AJ0
 Damp_AJ0
 is_VBZ
 acceptable_AJ0
@@ -22884,7 +22884,7 @@ in_PRP
 a_AT0
 wood_NN1
 treatment_NN1
-specialist_NN1-AJ0
+specialist_NN1
 for_PRP
 a_AT0
 report_NN1
@@ -23008,7 +23008,7 @@ elevation_NN1
 for_PRP
 cracks_NN2
 damp_AJ0
-bulges_NN2-VVZ
+bulges_NN2
 or_CJC
 any_DT0
 kind_NN1
@@ -23040,7 +23040,7 @@ obvious_AJ0
 and_CJC
 easily_AV0
 remedied_VVN
-Tap_VVB-NN1
+Tap_VVB
 all_DT0
 woodwork_NN1
 on_PRP
@@ -23049,7 +23049,7 @@ etc_AV0
 and_CJC
 external_AJ0
 rendering_VVG
-Dig_NN1-VVB
+Dig_VVB
 in_PRP
 here_AV0
 and_CJC
@@ -23225,9 +23225,9 @@ nearest_AJS
 upper_AJ0
 window_NN1
 and_CJC
-drop_VVI
+drop_NN1
 a_AT0
-plumb_VVI
+plumb_NN1
 line_NN1
 down_AVP
 Again_AV0
@@ -23385,7 +23385,7 @@ foundations_NN2
 Open_AJ0
 up_AVP
 the_AT0
-drain_VVI
+drain_NN1
 manhole_NN1
 covers_VVZ
 with_PRP
@@ -23405,7 +23405,7 @@ condition_NN1
 of_PRF
 the_AT0
 cement_NN1
-benching_VVG-NN1
+benching_NN1
 Any_DT0
 backing-up_NN1
 of_PRF
@@ -23425,8 +23425,8 @@ or_CJC
 lack_NN1
 of_PRF
 gravity_NN1
-fall_VVI
-Turn_VVB-NN1
+fall_NN1
+Turn_VVB
 on_PRP
 the_AT0
 kitchen_NN1
@@ -23589,7 +23589,7 @@ before_PRP
 moving_VVG
 on_PRP
 FENCES_NN2
-DRIVES_NN2-VVZ
+DRIVES_VVZ
 AND_CJC
 VEGETATION_NN1
 Determine_VVB
@@ -23624,7 +23624,7 @@ height_NN1
 and_CJC
 type_NN1
 are_VBB
-covenanted_VVN-AJ0
+covenanted_VVN
 for_PRP
 in_PRP
 the_AT0
@@ -23688,7 +23688,7 @@ resolving_VVG
 Trees_NN2
 and_CJC
 Shrubs_NN2
-Photograph_NN1-VVB
+Photograph_NN1
 what_DTQ
 is_VBZ
 there_EX0
@@ -23731,7 +23731,7 @@ soil_NN1
 sandy_AJ0
 or_CJC
 clay_NN1
-Dig_NN1-VVB
+Dig_VVB
 up_AVP
 a_AT0
 spadeful_AJ0
@@ -23783,13 +23783,13 @@ they_PNP
 are_VBB
 all_DT0
 included_VVD
-Walk_NN1-VVB
+Walk_VVB
 over_PRP
 the_AT0
-drive_VVI
+drive_NN1
 and_CJC
 all_DT0
-paved_AJ0
+paved_VVN
 areas_NN2
 Are_VBB
 they_PNP
@@ -23830,7 +23830,7 @@ on_PRP
 them_PNP
 If_CJS
 the_AT0
-drive_VVI
+drive_NN1
 is_VBZ
 shared_VVN
 with_PRP
@@ -23928,7 +23928,7 @@ an_AT0
 idea_NN1
 of_PRF
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 size_NN1
 which_DTQ
 you_PNP
@@ -24071,7 +24071,7 @@ do_VDB
 n't_XX0
 carp_NN0
 but_CJC
-act_VVI
+act_NN1
 like_PRP
 a_AT0
 corkscrew_NN1
@@ -24107,7 +24107,7 @@ Take_VVB
 it_PNP
 with_PRP
 a_AT0
-pinch_VVI
+pinch_NN1
 of_PRF
 salt_NN1
 Back_AVP
@@ -24160,7 +24160,7 @@ cost_NN1
 that_CJT
 might_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 Make_VVB
 two_CRD
 or_CJC
@@ -24330,7 +24330,7 @@ to_TO0
 your_DPS
 solicitor_NN1
 and_CJC
-present_AJ0-NN1
+present_AJ0
 him_PNP
 with_PRP
 the_AT0
@@ -24365,7 +24365,7 @@ engineer_NN1
 builder_NN1
 damp/wood_NN1
 treatment_NN1
-specialist_NN1-AJ0
+specialist_NN1
 Gas/_NN1
 Electricity/Water_NN1
 Board_NN1
@@ -24430,7 +24430,7 @@ property_NN1
 has_VHZ
 been_VBN
 seriously_AV0
-overpriced_AJ0-VVN
+overpriced_AJ0
 you_PNP
 should_VM0
 instruct_VVI
@@ -24586,7 +24586,7 @@ a_AT0
 survey_NN1
 on_PRP
 the_AT0
-average_AJ0-NN1
+average_AJ0
 house_NN1
 The_AT0
 lesson_NN1
@@ -24653,7 +24653,7 @@ out_AVP
 a_AT0
 BEC_NN1
 Insurance_NN1
-Guarantee_NN1-VVB
+Guarantee_NN1
 for_PRP
 the_AT0
 building_NN1
@@ -24840,7 +24840,7 @@ the_AT0
 expert_NN1
 fails_VVZ
 to_TO0
-notice_VVI
+notice_NN1
 the_AT0
 house_NN1
 is_VBZ
@@ -24911,7 +24911,7 @@ should_VM0
 not_XX0
 be_VBI
 a_AT0
-closed_VVD
+closed_VVN
 book_NN1
 and_CJC
 the_AT0
@@ -24997,7 +24997,7 @@ let_VVB
 alone_AJ0
 building_NN1
 defects_NN2
-Answer_VVB-NN1
+Answer_VVB
 by_PRP
 sending_VVG
 printed_VVN
@@ -25014,7 +25014,7 @@ the_AT0
 local_AJ0
 council_NN1
 which_DTQ
-yield_VVI
+yield_NN1
 no_AT0
 useful_AJ0
 information_NN1
@@ -25025,7 +25025,7 @@ nothing_PNI
 more_AV0
 than_CJS
 a_AT0
-time-wasting_NN1-AJ0
+time-wasting_AJ0
 ritual_NN1
 It_PNP
 would_VM0

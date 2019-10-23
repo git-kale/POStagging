@@ -282,7 +282,7 @@ growth_NN1
 of_PRF
 population_NN1
 the_AT0
-astounding_AJ0-VVG
+astounding_AJ0
 cheapness_NN1
 of_PRF
 most_AV0
@@ -374,7 +374,7 @@ heterogeneous_AJ0
 diversity_NN1
 this_DT0
 peculiar_AJ0
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 the_AT0
 time_NN1
@@ -501,7 +501,7 @@ we_PNP
 watch_VVI
 a_AT0
 salutary_AJ0
-stir_VVI
+stir_VVB
 in_PRP
 the_AT0
 ebb_NN1
@@ -540,7 +540,7 @@ day_NN1
 after_PRP
 day_NN1
 the_AT0
-befriending_VVG
+befriending_NN1
 express_VVI
 moves_VVZ
 in_PRP
@@ -665,7 +665,7 @@ hackney-coach_NN1
 and_CJC
 cabstands_NN2
 railway_NN1
-omnibuses_NN2-VVZ
+omnibuses_NN2
 railway_NN1
 streets_NN2
 and_CJC
@@ -728,7 +728,7 @@ where_AVQ
 people_NN0
 met_VVD
 and_CJC
-mingled_VVN-VVD
+mingled_VVD
 where_AVQ
 books_NN2
 and_CJC
@@ -810,7 +810,7 @@ glass_NN1
 and_CJC
 iron_NN1
 colonnaded_AJ0
-canopied_AJ0-VVD
+canopied_AJ0
 buttressed_VVN
 and_CJC
 turreted_AJ0
@@ -822,8 +822,8 @@ worship_NN1
 of_PRF
 King_NP0
 Steam_NN1
-Th\xc3\xa9ophile_NP0-NN1
-Gautier_NN1-NP0
+Th\xc3\xa9ophile_NP0
+Gautier_NP0
 said_VVD
 of_PRF
 them_PNP
@@ -853,7 +853,7 @@ stars_NN2
 whose_DTQ
 iron_NN1
 rays_NN2
-stretch_VVI
+stretch_NN1
 out_AVP
 to_TO0
 the_AT0
@@ -883,7 +883,7 @@ and_CJC
 executed_VVN
 by_PRP
 Jean_NP0
-Dethier_NP0-NN1
+Dethier_NN1
 at_PRP
 the_AT0
 Pompidou_NP0
@@ -1070,7 +1070,7 @@ breath-taking_AJ0
 brilliance_NN1
 and_CJC
 boldly_AV0
-utilized_VVD
+utilized_VVN
 the_AT0
 new_AJ0
 materials_NN2
@@ -1242,7 +1242,7 @@ Stamford_NP0
 East_NN1
 the_AT0
 elegant_AJ0
-French_AJ0-NN1
+French_AJ0
 Renaissance_NN1
 ch\xc3\xa2teau_NN1
 of_PRF
@@ -1262,7 +1262,7 @@ Edwardian_AJ0
 summer-house_NN1
 that_CJT
 was_VBD
-Wemyss_NP0-NN1
+Wemyss_NP0
 Bay_NN1
 Their_DPS
 very_AV0
@@ -1274,12 +1274,12 @@ allusive_AJ0
 Carlisle_NP0
 Citadel_NN1
 Hull_NP0
-Paragon_NN1-NP0
+Paragon_NP0
 Bristol_NP0
 Templemeads_NP0
 Lancaster_NP0
 Green_AJ0
-Ayre_NP0-NN1
+Ayre_NN1
 Cheltenham_NP0
 Lansdowne_NP0
 Abroad_AV0
@@ -1316,7 +1316,7 @@ flights_NN2
 of_PRF
 fancy_AJ0
 of_PRF
-Piranesi_NN1-NP0
+Piranesi_NP0
 In_PRP
 Paris_NP0
 first_ORD
@@ -1350,7 +1350,7 @@ forms_NN2
 and_CJC
 styles_NN2
 held_VVN
-sway_VVI
+sway_NN1
 until_CJS
 the_AT0
 1920s_CRD
@@ -1396,7 +1396,7 @@ the_AT0
 era_NN1
 of_PRF
 plastic_NN1
-concrete_AJ0-NN1
+concrete_AJ0
 and_CJC
 neon_NN1
 flat_AJ0
@@ -1450,7 +1450,7 @@ the_AT0
 new_AJ0
 Euston_NP0
 an_AT0
-all-purpose_AJ0-NN1
+all-purpose_AJ0
 combination_NN1
 of_PRF
 airport_NN1
@@ -1467,7 +1467,7 @@ good_AJ0
 deal_NN1
 about_PRP
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 values_NN2
 of_PRF
 the_AT0
@@ -1571,7 +1571,7 @@ the_AT0
 Euston_NP0
 Arch_NN1
 an_AT0
-act_VVI
+act_NN1
 somewhat_AV0
 akin_AJ0
 to_TO0
@@ -1617,7 +1617,7 @@ that_CJT
 wartime_NN1
 bombing_NN1
 had_VHD
-flattened_AJ0
+flattened_VVN
 the_AT0
 great_AJ0
 stations_NN2
@@ -1642,7 +1642,7 @@ and_CJC
 lay_VVD
 for_PRP
 years_NN2
-rotting_AJ0-VVG
+rotting_AJ0
 like_PRP
 gigantic_AJ0
 beached_AJ0
@@ -1668,7 +1668,7 @@ suburban_AJ0
 stations_NN2
 have_VHB
 been_VBN
-closed_VVD
+closed_VVN
 wholesale_AJ0
 and_CJC
 even_AV0
@@ -1682,7 +1682,7 @@ in_PRP
 graffiti_NN0
 wrecked_AJ0
 and_CJC
-vandalized_VVN
+vandalized_VVD
 beyond_PRP
 recognition_NN1
 There_EX0
@@ -1739,7 +1739,7 @@ an_AT0
 endangered_AJ0
 species_NN0
 and_CJC
-conservation_AJ0-NN1
+conservation_NN1
 is_VBZ
 of_PRF
 the_AT0
@@ -1804,7 +1804,7 @@ All_DT0
 chintz_NN1
 curtains_NN2
 and_CJC
-birdcages_VVZ-NN2
+birdcages_NN2
 in_PRP
 the_AT0
 windows_NN2
@@ -1827,7 +1827,7 @@ of_PRF
 Gresley_NP0
 Pacifics_NP0
 and_CJC
-Stanier_NN1-NP0
+Stanier_NP0
 Jubilees_NN2
 And_CJC
 yet_AV0
@@ -1841,7 +1841,7 @@ and_CJC
 worthy_AJ0
 work_NN1
 of_PRF
-conservation_AJ0-NN1
+conservation_NN1
 the_AT0
 life_NN1
 has_VHZ
@@ -1892,7 +1892,7 @@ Now_AV0
 they_PNP
 are_VBB
 being_VBG
-embalmed_VVD-AJ0
+embalmed_AJ0
 dutifully_AV0
 and_CJC
 reverentially_AV0
@@ -1980,11 +1980,11 @@ reported_VVN
 his_DPS
 feelings_NN2
 on_PRP
-listening_VVG-NN1
+listening_VVG
 to_TO0
 a_AT0
 radio_NN1
-broadcast_VVN
+broadcast_NN1
 of_PRF
 the_AT0
 arrival_NN1
@@ -2011,7 +2011,7 @@ of_PRF
 it_PNP
 during_PRP
 the_AT0
-broadcast_VVN
+broadcast_NN1
 How_AVQ
 haunted_VVN
 with_PRP
@@ -2033,7 +2033,7 @@ signal-box_NN1
 from_PRP
 which_DTQ
 the_AT0
-broadcast_VVN
+broadcast_NN1
 was_VBD
 given_VVN
 and_CJC
@@ -2080,7 +2080,7 @@ all_DT0
 was_VBD
 clear_AJ0
 A_AT0
-banquet-hall_AJ0-NN1
+banquet-hall_NN1
 deserted_AJ0
 Broadstone_NP0
 Station_NN1
@@ -2254,7 +2254,7 @@ the_AT0
 removal_NN1
 of_PRF
 a_AT0
-long-tolerated_NN1-AJ0
+long-tolerated_NN1
 equally_AV0
 with_PRP
 a_AT0
@@ -2395,7 +2395,7 @@ their_DPS
 lives_NN2
 have_VHB
 been_VBN
-bulldozed_VVN-VVD
+bulldozed_VVN
 leaving_VVG
 them_PNP
 bewildered_AJ0
@@ -2587,7 +2587,7 @@ stations_NN2
 What_DTQ
 is_VBZ
 more_AV0
-English_AJ0-NN1
+English_AJ0
 than_CJS
 the_AT0
 country_NN1
@@ -2602,7 +2602,7 @@ to_TO0
 produce_VVI
 anything_PNI
 more_AV0
-English_AJ0-NN1
+English_AJ0
 more_AV0
 full_AJ0
 of_PRF
@@ -2658,7 +2658,7 @@ is_VBZ
 a_AT0
 theme_NN1
 for_PRP
-English_AJ0-NN1
+English_AJ0
 idylls_NN2
 The_AT0
 one-eyed_AJ0
@@ -2692,7 +2692,7 @@ literary_AJ0
 man_NN1
 the_AT0
 little_AJ0
-chaise_NN1-VVB
+chaise_VVB
 in_PRP
 which_DTQ
 the_AT0
@@ -2701,7 +2701,7 @@ old_AJ0
 ladies_NN2
 from_PRP
 Barlton_NP0
-drive_VVI
+drive_NN1
 up_AVP
 to_TO0
 get_VVI
@@ -3118,7 +3118,7 @@ injunctions_NN2
 in_PRP
 order_NN1
 to_TO0
-shut_VVB
+shut_VVN
 out_AVP
 their_DPS
 anxieties_NN2
@@ -3306,7 +3306,7 @@ Are_VBB
 we_PNP
 fleeing_VVG
 from_PRP
-Nineveh_NP0-NN1
+Nineveh_NP0
 and_CJC
 duty_NN1
 or_CJC
@@ -3465,13 +3465,13 @@ their_DPS
 last_ORD
 few_DT0
 moments_NN2
-clasped_VVN-VVD
+clasped_VVD
 in_PRP
 each_DT0
 other_AJ0
 's_POS
 arms_NN2
-matching_VVG
+matching_AJ0
 a_AT0
 succession_NN1
 of_PRF
@@ -3691,7 +3691,7 @@ recognize_VVI
 that_CJT
 if_CJS
 the_AT0
-English_AJ0-NN1
+English_AJ0
 are_VBB
 immensely_AV0
 distinct_AJ0
@@ -3714,7 +3714,7 @@ train_NN1
 of_PRF
 moral_AJ0
 and_CJC
-intellectual_AJ0-NN1
+intellectual_AJ0
 consequences_NN2
 extremely_AV0
 distinct_AJ0
@@ -3756,7 +3756,7 @@ at_PRP
 Paddington_NP0
 is_VBZ
 most_AV0
-varied_AJ0
+varied_VVN
 and_CJC
 one_CRD
 can_VM0
@@ -3797,7 +3797,7 @@ loyal_AJ0
 subjects_NN2
 mostly_AV0
 ladies_NN2
-besiege_VVI
+besiege_VVB
 the_AT0
 barriers_NN2
 which_DTQ
@@ -3856,7 +3856,7 @@ a_AT0
 foreigner_NN1
 to_TO0
 see_VVI
-English_AJ0-NN1
+English_AJ0
 youth_NN1
 and_CJC
 beauty_NN1
@@ -3873,7 +3873,7 @@ point_NN1
 of_PRF
 view_NN1
 is_VBZ
-Ascot_NP0-NN1
+Ascot_NP0
 week_NN1
 Again_AV0
 the_AT0
@@ -3975,7 +3975,7 @@ complete_AJ0
 gravely_AV0
 trying_VVG
 to_TO0
-fold_VVI
+fold_NN1
 his_DPS
 arms_NN2
 on_PRP
@@ -4066,7 +4066,7 @@ and_CJC
 the_AT0
 strains_NN2
 of_PRF
-Auld_NN1-NP0
+Auld_NP0
 Lang_NP0
 Syne_NP0
 Every_AT0
@@ -4405,14 +4405,14 @@ long-distance_AJ0
 flights_NN2
 with_PRP
 their_DPS
-second-rate_NN1-AJ0
+second-rate_AJ0
 movies_NN2
 plastic_NN1
 food_NN1
 and_CJC
 attendant_NN1
 jet_NN1
-lag_NN1-VVB
+lag_NN1
 replaced_VVN
 for_PRP
 ever_AV0
@@ -4530,7 +4530,7 @@ turned_VVD
 Atlantic_NP0
 crossings_NN2
 and_CJC
-transworld_VVB-NN1
+transworld_VVB
 flights_NN2
 into_PRP
 the_AT0
@@ -4561,7 +4561,7 @@ than_CJS
 merely_AV0
 physical_AJ0
 It_PNP
-involved_AJ0
+involved_VVN
 a_AT0
 metaphysical_AJ0
 change_NN1
@@ -4608,7 +4608,7 @@ into_PRP
 relief_NN1
 To_TO0
 the_AT0
-sleeping_VVG
+sleeping_NN1
 rhythm_NN1
 of_PRF
 a_AT0
@@ -4650,7 +4650,7 @@ While_CJS
 the_AT0
 narrowing_VVG
 rails_NN2
-slide_VVI
+slide_NN1
 together_AV0
 behind_PRP
 you_PNP
@@ -4698,11 +4698,11 @@ Russian_AJ0
 country_NN1
 station_NN1
 of_PRF
-Astapovo_NN1-NP0
+Astapovo_NN1
 Emile_NP0
 Verhaeren_NP0
 the_AT0
-Belgian_AJ0-NN1
+Belgian_AJ0
 poet_NN1
 who_PNQ
 had_VHD
@@ -4734,14 +4734,14 @@ Railway_NN1
 Bishop_NN1
 died_VVD
 while_CJS
-photographing_VVG-AJ0
+photographing_VVG
 trains_NN2
 at_PRP
 Appleby_NP0
 Station_NN1
 on_PRP
 the_AT0
-Settle\xe2\x80\x93Carlisle_NP0-NN1
+Settle\xe2\x80\x93Carlisle_NN1
 line_NN1
 in_PRP
 1978_CRD
@@ -4767,7 +4767,7 @@ down_AVP
 and_CJC
 killed_VVN
 at_PRP
-Parkside_NP0-NN1
+Parkside_NN1
 on_PRP
 the_AT0
 inaugural_AJ0
@@ -4868,7 +4868,7 @@ Occasioned_VVD
 his_DPS
 Death_NN1
 which_DTQ
-deprived_AJ0
+deprived_VVN
 England_NP0
 of_PRF
 an_AT0
@@ -5243,7 +5243,7 @@ of_PRF
 sheer_AJ0
 culture_NN1
 I_PNP
-feel_VVI
+feel_VVB
 this_DT0
 profoundly_AV0
 as_CJS
@@ -5327,7 +5327,7 @@ ecclesiastical_AJ0
 peace_NN1
 was_VBD
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 quality_NN1
 that_CJT
 Karel_NP0
@@ -5378,7 +5378,7 @@ the_AT0
 silent_AJ0
 ceremony_NN1
 of_PRF
-Waiting_AJ0-NN1
+Waiting_NN1
 They_PNP
 are_VBB
 led_VVD
@@ -5457,7 +5457,7 @@ way_NN1
 Mummy_NN1
 says_VVZ
 the_AT0
-piping_VVG-NN1
+piping_NN1
 voice_NN1
 of_PRF
 a_AT0
@@ -5673,7 +5673,7 @@ were_VBD
 often_AV0
 placed_VVN
 in_PRP
-railway-station_AJ0-NN1
+railway-station_AJ0
 waiting-rooms_NN2
 and_CJC
 in_PRP
@@ -5805,7 +5805,7 @@ Awdrey_NP0
 author_NN1
 of_PRF
 the_AT0
-much-loved_NN1-AJ0
+much-loved_AJ0
 children_NN2
 's_POS
 books_NN2
@@ -5888,7 +5888,7 @@ age_NN1
 of_PRF
 steam_NN1
 The_AT0
-Titfield_NP0-NN1
+Titfield_NN1
 Thunderbolt_NN1
 should_VM0
 be_VBI
@@ -5939,7 +5939,7 @@ Orwell_NP0
 observation_NN1
 that_CJT
 the_AT0
-English_AJ0-NN1
+English_AJ0
 are_VBB
 a_AT0
 nation_NN1
@@ -5962,7 +5962,7 @@ ages_NN2
 come_VVI
 rain_NN1
 come_VVI
-shine_VVI
+shine_NN1
 oblivious_AJ0
 of_PRF
 the_AT0
@@ -5984,14 +5984,14 @@ of_PRF
 coffee_NN1
 spam_NN1
 sandwiches_NN2
-bulging_VVG-AJ0
+bulging_VVG
 notebooks_NN2
 and_CJC
 a_AT0
 well-thumbed_AJ0
 Ian_NP0
 Allan_NP0
-Guide_NN1-VVB
+Guide_NN1
 the_AT0
 Bible_NN1
 of_PRF
@@ -6034,15 +6034,15 @@ trains_NN2
 bore_VVD
 names_NN2
 like_PRP
-Bihar_NP0-NN1
+Bihar_NP0
 and_CJC
 Orissa_NP0
 Baroda_NP0
-Indore_NN1-NP0
+Indore_NP0
 Drake_NN1
-Camperdown_NP0-NN1
+Camperdown_NN1
 and_CJC
-Barfleur_NP0-NN1
+Barfleur_NN1
 names_NN2
 redolent_AJ0
 of_PRF
@@ -6121,7 +6121,7 @@ the_AT0
 child_NN1
 as_CJS
 a_AT0
-substitute_NN1-AJ0
+substitute_NN1
 for_PRP
 sex_NN1
 and_CJC
@@ -6321,7 +6321,7 @@ into_PRP
 which_DTQ
 the_AT0
 unwary_AJ0
-amateur_AJ0-NN1
+amateur_AJ0
 ventures_NN2
 at_PRP
 his_DPS
@@ -6433,7 +6433,7 @@ of_PRF
 the_AT0
 spirit_NN1
 of_PRF
-Norse_NN1-NP0
+Norse_NN1
 saga_NN1
 On_PRP
 another_DT0
@@ -6460,7 +6460,7 @@ discipline_NN1
 and_CJC
 order_NN1
 The_AT0
-often-heard_AJ0-NN1
+often-heard_AJ0
 statement_NN1
 that_CJT
 Hitler_NP0
@@ -6491,7 +6491,7 @@ originally_AV0
 meant_VVD
 simply_AV0
 a_AT0
-stopping-place_NN1-AJ0
+stopping-place_NN1
 has_VHZ
 acquired_VVN
 over_PRP
@@ -6578,7 +6578,7 @@ election_NN1
 platforms_NN2
 on_PRP
 the_AT0
-whistle-stop_AJ0-NN1
+whistle-stop_AJ0
 tours_NN2
 of_PRF
 American_AJ0
@@ -6717,7 +6717,7 @@ Norwich_NP0
 Swansea_NP0
 and_CJC
 Bombay_NP0
-Nationalist_NN1-AJ0
+Nationalist_NN1
 aspirations_NN2
 can_VM0
 be_VBI
@@ -6785,7 +6785,7 @@ Raj_NP0
 At_PRP
 Metz_NP0
 in_PRP
-German-occupied_AJ0-NN1
+German-occupied_NN1
 Alsace-Lorraine_NP0
 a_AT0
 station_NN1
@@ -6837,7 +6837,7 @@ and_CJC
 grandiose_AJ0
 aspirations_NN2
 of_PRF
-Italian_AJ0-NN1
+Italian_AJ0
 Fascism_NN1
 Emile_NP0
 Zola_NP0
@@ -6926,7 +6926,7 @@ distorted_AJ0
 heat-haze_NN1
 imagery_NN1
 of_PRF
-Dali_NP0-NN1
+Dali_NP0
 's_POS
 Perpignan_NP0
 Station_NN1
@@ -6936,7 +6936,7 @@ lonely_AJ0
 austere_AJ0
 beauty_NN1
 of_PRF
-Vlaminck_NP0-NN1
+Vlaminck_NP0
 's_POS
 station_NN1
 in_PRP
@@ -6954,7 +6954,7 @@ London_NP0
 Liverpool_NP0
 Street_NP0
 to_TO0
-Adlestrop_NP0-NN1
+Adlestrop_NN1
 In_PRP
 fiction_NN1
 the_AT0
@@ -7086,13 +7086,13 @@ powerful_AJ0
 locomotives_NN2
 billowing_VVG
 smoke_NN1
-clattering_VVG
+clattering_NN1
 rails_NN2
 and_CJC
 melancholy_AJ0
 train_NN1
 whistles_NN2
-allied_AJ0
+allied_VVN
 to_TO0
 the_AT0
 ideal_AJ0
@@ -7100,7 +7100,7 @@ dramatic_AJ0
 potential_NN1
 of_PRF
 a_AT0
-mixed_AJ0
+mixed_VVN
 group_NN1
 of_PRF
 passengers_NN2
@@ -7159,7 +7159,7 @@ in_PRP
 Lancashire_NP0
 amid_PRP
 the_AT0
-bustle_NN1-VVB
+bustle_NN1
 of_PRF
 comings_NN2
 and_CJC
@@ -7174,12 +7174,12 @@ the_AT0
 buffet_NN1
 that_CJT
 the_AT0
-entwined_AJ0
+entwined_VVN
 lives_NN2
 of_PRF
 that_CJT
 most_AV0
-English_AJ0-NN1
+English_AJ0
 and_CJC
 most_AV0
 gentle_AJ0
@@ -7228,7 +7228,7 @@ The_AT0
 Seven_CRD
 Pillars_NN2
 of_PRF
-Wisdom_NP0-NN1
+Wisdom_NP0
 It_PNP
 was_VBD
 while_CJS
@@ -7248,7 +7248,7 @@ poster_NN1
 for_PRP
 the_AT0
 Tower_NN1
-Furnishing_NN1-VVG
+Furnishing_VVG
 Company_NN1
 inspired_VVN
 W._NP0
@@ -7287,7 +7287,7 @@ after_PRP
 a_AT0
 particularly_AV0
 bad_AJ0
-blitz_NN1-VVB
+blitz_NN1
 and_CJC
 seeing_VVG
 Londoners_NN2
@@ -7318,7 +7318,7 @@ villains_NN2
 from_PRP
 the_AT0
 stations_NN2
-listed_AJ0
+listed_VVN
 in_PRP
 Bradshaw_NP0
 thus_AV0
@@ -7375,7 +7375,7 @@ seeing_VVG
 them_PNP
 off_AVP
 not_XX0
-present_AJ0-NN1
+present_AJ0
 when_CJS
 we_PNP
 are_VBB
@@ -7510,7 +7510,7 @@ buried_VVN
 under_PRP
 layers_NN2
 of_PRF
-concrete_AJ0-NN1
+concrete_AJ0
 to_TO0
 facilitate_VVI
 its_DPS
@@ -7659,7 +7659,7 @@ the_AT0
 hallmarks_NN2
 of_PRF
 the_AT0
-car-dominated_AJ0-NN1
+car-dominated_AJ0
 society_NN1
 as_CJS
 classically_AV0
@@ -7789,7 +7789,7 @@ In_PRP
 this_DT0
 respect_NN1
 the_AT0
-oft-quoted_AJ0-NN1
+oft-quoted_AJ0
 cathedral_NN1
 metaphor_NN1
 is_VBZ
@@ -7867,7 +7867,7 @@ handmaid_NN1
 Steam_NN1
 They_PNP
 make_VVI
-Utopia_NP0-NN1
+Utopia_NP0
 only_AV0
 half_DT0
 a_AT0
@@ -8130,8 +8130,8 @@ in_PRP
 1830_CRD
 were_VBD
 essentially_AV0
-two-storey_AJ0-NN1
-classical-style_AJ0-NN1
+two-storey_AJ0
+classical-style_AJ0
 town_NN1
 houses_NN2
 probably_AV0
@@ -8150,7 +8150,7 @@ followed_VVN
 a_AT0
 linear_AJ0
 plan_NN1
-oriented_VVN
+oriented_VVD
 to_TO0
 the_AT0
 departure_NN1
@@ -8381,7 +8381,7 @@ flock_NN1
 to_TO0
 it_PNP
 in_PRP
-omnibuses_NN2-VVZ
+omnibuses_NN2
 and_CJC
 examine_VVI
 it_PNP
@@ -8426,7 +8426,7 @@ not_XX0
 just_AV0
 in_PRP
 the_AT0
-concrete_AJ0-NN1
+concrete_AJ0
 narrowly_AV0
 political_AJ0
 sense_NN1
@@ -8442,7 +8442,7 @@ industry_NN1
 in_PRP
 religious_AJ0
 and_CJC
-intellectual_AJ0-NN1
+intellectual_AJ0
 life_NN1
 and_CJC
 in_PRP
@@ -8490,7 +8490,7 @@ was_VBD
 Europe_NP0
 's_POS
 oyster_NN1
-Public_AJ0-NN1
+Public_AJ0
 buildings_NN2
 came_VVD
 increasingly_AV0
@@ -8759,7 +8759,7 @@ departure_NN1
 was_VBD
 through_PRP
 a_AT0
-head-building_NN1-AJ0
+head-building_AJ0
 at_PRP
 the_AT0
 end_NN1
@@ -8778,7 +8778,7 @@ of_PRF
 the_AT0
 century_NN1
 The_AT0
-French_AJ0-NN1
+French_AJ0
 designed_VVN
 the_AT0
 model_NN1
@@ -8799,7 +8799,7 @@ in_PRP
 the_AT0
 world_NN1
 The_AT0
-two-sided_AJ0-NN1
+two-sided_AJ0
 station_NN1
 continued_VVD
 to_TO0
@@ -8878,7 +8878,7 @@ sometimes_AV0
 undisciplined_AJ0
 adventurism_NN1
 the_AT0
-French_AJ0-NN1
+French_AJ0
 were_VBD
 as_CJS
 ever_AV0
@@ -8891,7 +8891,7 @@ definitions_NN2
 and_CJC
 philosophies_NN2
 of_PRF
-station-building_NN1-AJ0
+station-building_NN1
 It_PNP
 was_VBD
 academic_AJ0
@@ -8905,8 +8905,8 @@ two_CRD
 great_AJ0
 periods_NN2
 of_PRF
-French_AJ0-NN1
-station-building_NN1-AJ0
+French_AJ0
+station-building_NN1
 which_DTQ
 produced_VVN
 in_PRP
@@ -8928,13 +8928,13 @@ as_CJS
 definitive_AJ0
 types_NN2
 Auguste_NP0
-Perdonnet_NP0-NN1
+Perdonnet_NN1
 published_VVN
 in_PRP
 1856_CRD
 an_AT0
 influential_AJ0
-four-volume_AJ0-NN1
+four-volume_NN1
 analysis_NN1
 of_PRF
 station_NN1
@@ -8948,7 +8948,7 @@ a_AT0
 number_NN1
 of_PRF
 significant_AJ0
-French_AJ0-NN1
+French_AJ0
 studies_NN2
 The_AT0
 great_AJ0
@@ -8999,7 +8999,7 @@ a_AT0
 skin-covering_NN1
 of_PRF
 glass_NN1
-admitting_VVG-AJ0
+admitting_VVG
 light_NN1
 but_CJC
 excluding_VVG
@@ -9385,7 +9385,7 @@ imagination_NN1
 exalted_AJ0
 the_AT0
 emotions_NN2
-gloried_VVN-VVD
+gloried_VVN
 in_PRP
 mystery_NN1
 and_CJC
@@ -9581,7 +9581,7 @@ station_NN1
 as_CJS
 Greek_AJ0
 or_CJC
-Roman_AJ0-NN1
+Roman_AJ0
 temple_NN1
 with_PRP
 Amsterdam_NP0
@@ -9620,7 +9620,7 @@ Hardwick_NP0
 1850_CRD
 As_CJS
 Christian_AJ0
-Barman_NN1-NP0
+Barman_NP0
 wrote_VVD
 in_PRP
 1950_CRD
@@ -9721,7 +9721,7 @@ genuine_AJ0
 military_AJ0
 arc_NN1
 de_NP0
-triomphe_NN1-VVB
+triomphe_VVB
 Its_DPS
 demolition_NN1
 in_PRP
@@ -9730,7 +9730,7 @@ still_AV0
 the_AT0
 most_AV0
 wanton_AJ0
-act_VVI
+act_NN1
 of_PRF
 vandalic_AJ0
 savagery_NN1
@@ -9956,7 +9956,7 @@ of_PRF
 the_AT0
 line_NN1
 the_AT0
-fare-paying_AJ0-NN1
+fare-paying_NN1
 public_AJ0
 would_VM0
 be_VBI
@@ -9979,7 +9979,7 @@ impecunious_AJ0
 West_NP0
 Lancashire_NP0
 Railway_NN1
-contrived_VVD
+contrived_VVN
 to_TO0
 build_VVI
 handsome_AJ0
@@ -10015,7 +10015,7 @@ the_AT0
 comment_NN1
 of_PRF
 Dionysius_NP0
-Lardner_NP0-NN1
+Lardner_NN1
 in_PRP
 Railway_NN1
 Economy_NN1
@@ -10034,7 +10034,7 @@ dependencies_NN2
 which_DTQ
 constitute_VVB
 a_AT0
-chief_AJ0-NN1
+chief_NN1
 terminal_AJ0
 station_NN1
 of_PRF
@@ -10090,14 +10090,14 @@ The_AT0
 classical_AJ0
 phase_NN1
 of_PRF
-station-building_NN1-AJ0
+station-building_NN1
 was_VBD
 overtaken_VVN
 in_PRP
 Britain_NP0
 by_PRP
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 villa_NN1
 style_NN1
 which_DTQ
@@ -10122,7 +10122,7 @@ style_NN1
 has_VHZ
 been_VBN
 called_VVN
-Italian_AJ0-NN1
+Italian_AJ0
 it_PNP
 might_VM0
 be_VBI
@@ -10130,7 +10130,7 @@ designated_VVN
 more_AV0
 properly_AV0
 an_AT0
-English_AJ0-NN1
+English_AJ0
 railway_NN1
 style_NN1
 At_PRP
@@ -10139,7 +10139,7 @@ grandest_AJS
 it_PNP
 produced_VVN
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 palazzo_NN1
 Chester_NP0
 General_AJ0
@@ -10240,7 +10240,7 @@ trainshed_VVD
 a_AT0
 heavily_AV0
 corniced_VVD
-three-storey_AJ0-NN1
+three-storey_AJ0
 frontage_NN1
 block_NN1
 was_VBD
@@ -10472,7 +10472,7 @@ Great_AJ0
 Western_AJ0
 Hotel_NN1
 Paddington_NP0
-Monotony_NN1-NP0
+Monotony_NP0
 was_VBD
 a_AT0
 cardinal_AJ0
@@ -10487,7 +10487,7 @@ is_VBZ
 the_AT0
 predominant_AJ0
 defining_VVG
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 modern_AJ0
 architecture_NN1
@@ -10512,7 +10512,7 @@ eclectic_AJ0
 aesthetic_AJ0
 in_PRP
 complex_AJ0
-massing_NN1-VVG
+massing_NN1
 bolder_AJC
 asymmetry_NN1
 pointed_VVD
@@ -10822,7 +10822,7 @@ with_PRP
 finial_NN1
 its_DPS
 myriad_NN1
-pointed-arch_NN1-AJ0
+pointed-arch_NN1
 windows_NN2
 below_AV0
 the_AT0
@@ -10888,7 +10888,7 @@ in_PRP
 a_AT0
 270_CRD
 foot_NN1
-spire-capped_NN1-AJ0
+spire-capped_NN1
 clock_NN1
 tower_NN1
 which_DTQ
@@ -10903,7 +10903,7 @@ Barry_NP0
 and_CJC
 Pugin_NP0
 at_PRP
-Westminister_NN1-NP0
+Westminister_NN1
 Over_PRP
 the_AT0
 elevations_NN2
@@ -10913,7 +10913,7 @@ Gripper_NP0
 patent_NN1
 bricks_NN2
 were_VBD
-varied_AJ0
+varied_VVN
 with_PRP
 dressings_NN2
 in_PRP
@@ -11066,7 +11066,7 @@ an_AT0
 unremarkable_AJ0
 set_VVN
 of_PRF
-Regency_NN1-NP0
+Regency_NP0
 terrace_NN1
 houses_NN2
 it_PNP
@@ -11126,10 +11126,10 @@ too_AV0
 In_PRP
 1843_CRD
 the_AT0
-Corsican_AJ0-NN1
+Corsican_AJ0
 hotelier_NN1
-Zenon_NP0-NN1
-Vantini_NP0-NN1
+Zenon_NN1
+Vantini_NN1
 leased_VVN
 them_PNP
 achieving_VVG
@@ -11261,7 +11261,7 @@ in_PRP
 the_AT0
 forecourt_NN1
 The_AT0
-initial_AJ0-NN1
+initial_AJ0
 necessity_NN1
 for_PRP
 building_NN1
@@ -11278,7 +11278,7 @@ companies_NN2
 to_TO0
 adopt_VVI
 the_AT0
-country-house_AJ0-NN1
+country-house_AJ0
 model_NN1
 with_PRP
 the_AT0
@@ -11396,7 +11396,7 @@ Cross_NP0
 was_VBD
 a_AT0
 modest_AJ0
-Regency_NN1-NP0
+Regency_NP0
 crescent_NN1
 But_CJC
 P._NP0
@@ -11431,7 +11431,7 @@ Britain_NP0
 to_TO0
 show_VVI
 marked_VVN
-French_AJ0-NN1
+French_AJ0
 Renaissance_NN1
 influence_NN1
 Its_DPS
@@ -11469,7 +11469,7 @@ observe_VVI
 how_AVQ
 frequently_AV0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 style_NN1
 prevails_VVZ
 not_XX0
@@ -11554,7 +11554,7 @@ M._NN1
 Barry_NP0
 and_CJC
 Alfred_NP0
-Waterhouse_NP0-NN1
+Waterhouse_NP0
 's_POS
 magnificent_AJ0
 Lime_NP0
@@ -11601,7 +11601,7 @@ The_AT0
 passing_VVG
 of_PRF
 the_AT0
-Limited_AJ0-VVN
+Limited_AJ0
 Liability_NN1
 Act_NN1
 in_PRP
@@ -11623,7 +11623,7 @@ considerable_AJ0
 amount_NN1
 of_PRF
 resort_NN1
-station-hotel_NN1-AJ0
+station-hotel_NN1
 building_NN1
 Notable_AJ0
 examples_NN2
@@ -11750,7 +11750,7 @@ a_AT0
 series_NN0
 of_PRF
 sedate_AJ0
-two-storey_AJ0-NN1
+two-storey_AJ0
 Italianate_AJ0
 villas_NN2
 along_AVP
@@ -11765,7 +11765,7 @@ built_VVN
 a_AT0
 series_NN0
 of_PRF
-French_AJ0-NN1
+French_AJ0
 Renaissance_NN1
 style_NN1
 miniature_AJ0
@@ -11827,7 +11827,7 @@ was_VBD
 used_VVN
 by_PRP
 the_AT0
-Highland_NN1-NP0
+Highland_NN1
 Railway_NN1
 in_PRP
 Scotland_NP0
@@ -11860,17 +11860,17 @@ Station_NN1
 west_NN1
 of_PRF
 Basingstoke_NP0
-knapped_AJ0-VVD
+knapped_VVD
 flint_NN1
 at_PRP
-Trowse_NP0-NN1
+Trowse_NN1
 by_PRP
 Norwich_NP0
 Midland_NP0
 brick_NN1
 on_PRP
 the_AT0
-Syston_NP0-NN1
+Syston_NP0
 and_CJC
 Peterborough_NP0
 line_NN1
@@ -11879,7 +11879,7 @@ Brooksby_NP0
 Oakham_NP0
 Manton_NP0
 pretty_AV0
-Broseley_AJ0-NN1
+Broseley_NN1
 tiles_NN2
 to_TO0
 enliven_VVI
@@ -11906,7 +11906,7 @@ the_AT0
 North_NN1
 Staffordshire_NP0
 's_POS
-Elizabethan_AJ0-NN1
+Elizabethan_AJ0
 stations_NN2
 fierce_AJ0
 and_CJC
@@ -11929,7 +11929,7 @@ in_PRP
 Britain_NP0
 were_VBD
 adopting_VVG
-French_AJ0-NN1
+French_AJ0
 Renaissance_NN1
 or_CJC
 Gothic_AJ0
@@ -11948,7 +11948,7 @@ ground_NN1
 plan_NN1
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 station_NN1
 with_PRP
 the_AT0
@@ -12053,7 +12053,7 @@ in_PRP
 producing_VVG
 at_PRP
 Turin_NP0
-Trieste_NP0-NN1
+Trieste_NP0
 Naples_NP0
 Milan_NP0
 and_CJC
@@ -12080,7 +12080,7 @@ and_CJC
 passengers_NN2
 and_CJC
 tracks_NN2
-increased_AJ0
+increased_VVN
 in_PRP
 number_NN1
 The_AT0
@@ -12128,7 +12128,7 @@ the_AT0
 Gare_NP0
 d'Austerlitz_NP0
 It_PNP
-utilized_VVD
+utilized_VVN
 electric_AJ0
 trains_NN2
 and_CJC
@@ -12169,7 +12169,7 @@ the_AT0
 total_AJ0
 bulk_NN1
 was_VBD
-increased_AJ0
+increased_VVN
 by_PRP
 a_AT0
 hotel_NN1
@@ -12261,7 +12261,7 @@ change_NN1
 about_PRP
 to_TO0
 overtake_VVI
-station-building_NN1-AJ0
+station-building_NN1
 The_AT0
 era_NN1
 of_PRF
@@ -12405,7 +12405,7 @@ the_AT0
 first_ORD
 at_PRP
 the_AT0
-Hoboken_NP0-NN1
+Hoboken_NN1
 station_NN1
 of_PRF
 the_AT0
@@ -12424,7 +12424,7 @@ single_AJ0
 spans_VVZ
 of_PRF
 reinforced_VVN
-concrete_AJ0-NN1
+concrete_AJ0
 covering_VVG
 two_CRD
 lines_NN2
@@ -12508,7 +12508,7 @@ iron_NN1
 horses_NN2
 As_CJS
 earthbound_AJ0
-concrete_AJ0-NN1
+concrete_AJ0
 replaced_VVN
 shimmering_AJ0
 glass_NN1
@@ -12534,7 +12534,7 @@ of_PRF
 aspiration_NN1
 the_AT0
 same_DT0
-deadening_VVG
+deadening_AJ0
 of_PRF
 the_AT0
 imagination_NN1
@@ -12610,7 +12610,7 @@ veritable_AJ0
 Mata_NP0
 Haris_NP0
 and_CJC
-Lola_NP0-NN1
+Lola_NP0
 Monteses_NN2
 among_PRP
 terminals_NN2
@@ -12621,14 +12621,14 @@ of_PRF
 Zola_NP0
 's_POS
 Nana_NN1
-Manet_NP0-NN1
+Manet_NP0
 's_POS
-Olympe_NP0-NN1
+Olympe_NN1
 and_CJC
 Dumas_NP0
 fils_NN2
 's_POS
-Camille_NP0-NN1
+Camille_NP0
 complete_AJ0
 with_PRP
 fans_NN2
@@ -12716,7 +12716,7 @@ into_PRP
 the_AT0
 aristocracy_NN1
 The_AT0
-curving_VVG
+curving_AJ0
 shapes_NN2
 are_VBB
 there_EX0
@@ -12778,7 +12778,7 @@ and_CJC
 minareted_VVD
 North_NN1
 African_AJ0
-Bey_NP0-NN1
+Bey_NN1
 's_POS
 palace_NN1
 Surmounted_VVN
@@ -12789,7 +12789,7 @@ clock-tower_NN1
 which_DTQ
 summoned_VVN
 the_AT0
-Belgian_AJ0-NN1
+Belgian_AJ0
 bourgeoisie_NN1
 to_TO0
 rendezvous_NN0
@@ -12910,7 +12910,7 @@ stridency_NN1
 This_DT0
 bugles-and-banners_NN2
 stridency_NN1
-drowning_NN1-VVG
+drowning_VVG
 out_AVP
 the_AT0
 elegant_AJ0
@@ -12986,7 +12986,7 @@ Nibelungenlied_AJ0
 one_CRD
 of_PRF
 the_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 films_NN2
 of_PRF
 the_AT0
@@ -13005,7 +13005,7 @@ primitive_AJ0
 Teutonic_AJ0
 spirit_NN1
 But_CJC
-nationalist_AJ0-NN1
+nationalist_AJ0
 styles_NN2
 were_VBD
 springing_VVG
@@ -13037,7 +13037,7 @@ Scotland_NP0
 turbulent_AJ0
 history_NN1
 the_AT0
-Norse_NN1-NP0
+Norse_NN1
 barn_NN1
 style_NN1
 was_VBD
@@ -13064,7 +13064,7 @@ a_AT0
 series_NN0
 of_PRF
 handsome_AJ0
-two-storey_AJ0-NN1
+two-storey_AJ0
 palacio_NN1
 stations_NN2
 topped_VVN
@@ -13111,14 +13111,14 @@ fa\xc3\xa7ade_NN1
 of_PRF
 Lisbon_NP0
 's_POS
-Rossio_NP0-NN1
+Rossio_NP0
 Station_NN1
 Copenhagen_NP0
 Central_AJ0
 1911_CRD
 was_VBD
 strongly_AV0
-nationalist_AJ0-NN1
+nationalist_AJ0
 A_AT0
 long_AJ0
 low_AJ0
@@ -13152,7 +13152,7 @@ rugged_AJ0
 grandeur_NN1
 of_PRF
 the_AT0
-sea-girt_AJ0-NN1
+sea-girt_NN1
 castle_NN1
 of_PRF
 a_AT0
@@ -13205,7 +13205,7 @@ architects_NN2
 designs_NN2
 had_VHD
 got_VVN
-mixed_AJ0
+mixed_VVN
 up_AVP
 on_PRP
 the_AT0
@@ -13241,7 +13241,7 @@ Hague_NP0
 1893_CRD
 Groningen_NP0
 and_CJC
-Nijmegen_NP0-NN1
+Nijmegen_NN1
 1894_CRD
 and_CJC
 the_AT0
@@ -13249,7 +13249,7 @@ magnificent_AJ0
 castle-station_NN1
 at_PRP
 's_POS
-Hertogenbosch_NN1-NP0
+Hertogenbosch_NN1
 1896_CRD
 In_PRP
 Tsarist_AJ0
@@ -13303,7 +13303,7 @@ Moscow_NP0
 's_POS
 Riga_NP0
 and_CJC
-Yaroslavl_VVB-NN1
+Yaroslavl_VVB
 Stations_NN2
 Russia_NP0
 looked_VVD
@@ -13355,7 +13355,7 @@ best_AJS
 known_VVN
 of_PRF
 this_DT0
-nationalist_AJ0-NN1
+nationalist_AJ0
 group_NN1
 finished_VVN
 in_PRP
@@ -13398,8 +13398,8 @@ gave_VVD
 them_PNP
 a_AT0
 distinct_AJ0
-Scandinavian_AJ0-NN1
-feel_VVI
+Scandinavian_NN1
+feel_VVB
 and_CJC
 line_NN1
 the_AT0
@@ -13517,13 +13517,13 @@ Baveno_NN1
 granite_NN1
 and_CJC
 polished_AJ0
-Travertina_NP0-NN1
+Travertina_NN1
 The_AT0
 whole_AJ0
 thing_NN1
 had_VHD
 the_AT0
-feel_VVI
+feel_VVB
 of_PRF
 a_AT0
 palace_NN1
@@ -13586,7 +13586,7 @@ all_DT0
 been_VBN
 built_VVN
 What_DTQ
-station-building_NN1-AJ0
+station-building_NN1
 remained_VVD
 was_VBD
 increasingly_AV0
@@ -13604,7 +13604,7 @@ and_CJC
 glorying_VVG
 in_PRP
 reinforced_VVN
-concrete_AJ0-NN1
+concrete_AJ0
 There_EX0
 was_VBD
 more_AV0
@@ -13666,7 +13666,7 @@ and_CJC
 the_AT0
 Elphbergs_NP0
 had_VHD
-crumbled_VVD-VVN
+crumbled_VVN
 In_PRP
 England_NP0
 revolution_NN1
@@ -13684,11 +13684,11 @@ to_TO0
 admit_VVI
 the_AT0
 bourgeoisie_NN1
-Public_AJ0-NN1
+Public_AJ0
 schools_NN2
 created_VVN
 a_AT0
-ruling_AJ0-NN1
+ruling_NN1
 \xc3\xa9lite_NN1
 brewers_NN2
 entered_VVD
@@ -13765,7 +13765,7 @@ in_PRP
 the_AT0
 new_AJ0
 materials_NN2
-concrete_AJ0-NN1
+concrete_AJ0
 plastic_NN1
 and_CJC
 steel_NN1
@@ -13821,7 +13821,7 @@ to_TO0
 give_VVI
 way_NN1
 after_PRP
-tunenlightenedhe_NN1-VVB
+tunenlightenedhe_VVB
 Second_ORD
 World_NN1
 War_NN1
@@ -13835,7 +13835,7 @@ the_AT0
 airport_NN1
 and_CJC
 the_AT0
-office-block_AJ0-NN1
+office-block_AJ0
 the_AT0
 ultimate_AJ0
 in_PRP
@@ -13864,7 +13864,7 @@ modernism_NN1
 in_PRP
 these_DT0
 years_NN2
-Streamlining_VVG-AJ0
+Streamlining_AJ0
 implied_VVN
 speed_NN1
 and_CJC
@@ -13885,7 +13885,7 @@ speed_NN1
 needed_VVN
 to_TO0
 be_VBI
-stressed_VVD
+stressed_VVN
 constantly_AV0
 The_AT0
 use_NN1
@@ -14001,7 +14001,7 @@ the_AT0
 fact_NN1
 that_CJT
 the_AT0
-average_AJ0-NN1
+average_AJ0
 man_NN1
 has_VHZ
 two_CRD
@@ -14066,13 +14066,13 @@ emotional_AJ0
 life_NN1
 has_VHZ
 been_VBN
-drugged_AJ0-VVN
+drugged_VVN
 by_PRP
 the_AT0
 sugared_AJ0
 poison_NN1
 of_PRF
-pseudo-art_NN1-AJ0
+pseudo-art_AJ0
 Next_ORD
 the_AT0
 things_NN2
@@ -14109,7 +14109,7 @@ kind_NN1
 merely_AV0
 reflect_VVI
 the_AT0
-average_AJ0-NN1
+average_AJ0
 citizen_NN1
 's_POS
 soul_NN1
@@ -14185,7 +14185,7 @@ be_VBI
 resented_VVN
 by_PRP
 the_AT0
-average_AJ0-NN1
+average_AJ0
 man_NN1
 who_PNQ
 regards_VVZ
@@ -14231,9 +14231,9 @@ bare_AJ0
 and_CJC
 uncomfortable_AJ0
 Poor_AJ0
-average_AJ0-NN1
+average_AJ0
 man_NN1
-cast_VVN
+cast_NN1
 into_PRP
 outer_AJ0
 darkness_NN1
@@ -14251,7 +14251,7 @@ to_TO0
 prefer_VVB
 a_AT0
 little_AJ0
-diverting_VVG-AJ0
+diverting_VVG
 decoration_NN1
 to_TO0
 soulless_AJ0
@@ -14285,7 +14285,7 @@ evil_AJ0
 tendencies_NN2
 of_PRF
 the_AT0
-present_AJ0-NN1
+present_AJ0
 day_NN1
 is_VBZ
 to_TO0
@@ -14308,7 +14308,7 @@ in_PRP
 which_DTQ
 people_NN0
 are_VBB
-deprived_AJ0
+deprived_VVN
 of_PRF
 that_CJT
 portion_NN1
@@ -14541,7 +14541,7 @@ was_VBD
 more_AV0
 flagrant_AJ0
 nor_CJC
-impertinent_AJ0-NN1
+impertinent_AJ0
 folly_NN1
 than_CJS
 the_AT0
@@ -14632,7 +14632,7 @@ unimaginable_AJ0
 revenge_NN1
 on_PRP
 the_AT0
-average_AJ0-NN1
+average_AJ0
 man_NN1
 for_PRP
 his_DPS
@@ -14736,7 +14736,7 @@ environment_NN1
 and_CJC
 the_AT0
 spirit_NN1
-identikit_VVB-NN1
+identikit_NN1
 Gulag_NN1
 estates_NN2
 ravaged_VVN
@@ -14744,9 +14744,9 @@ and_CJC
 abandoned_VVN
 inner_AJ0
 cities_NN2
-stifling_VVG-AJ0
+stifling_VVG
 individuality_NN1
-deadening_VVG
+deadening_AJ0
 the_AT0
 imagination_NN1
 and_CJC
@@ -14787,7 +14787,7 @@ stations_NN2
 a_AT0
 group_NN1
 like_PRP
-Noyon_NP0-NN1
+Noyon_NP0
 1929_CRD
 and_CJC
 Deauville_NP0
@@ -14799,12 +14799,12 @@ Norman_NP0
 provincial_AJ0
 style_NN1
 with_PRP
-half-timbering_AJ0-NN1
+half-timbering_NN1
 heavy_AJ0
 roof-beams_NN2
 a_AT0
 steep_AJ0
-ridge-and-furrow_AJ0-NN1
+ridge-and-furrow_NN1
 roof_NN1
 and_CJC
 dormer_NN1
@@ -14893,7 +14893,7 @@ lay_VVD
 with_PRP
 Amstel_NP0
 and_CJC
-Muiderpoort_VVB-NN1
+Muiderpoort_NN1
 in_PRP
 Holland_NP0
 1939_CRD
@@ -14903,7 +14903,7 @@ which_DTQ
 created_VVN
 a_AT0
 great_AJ0
-stir_VVI
+stir_VVB
 for_PRP
 their_DPS
 up-to-date_AJ0
@@ -14929,7 +14929,7 @@ hailed_VVN
 landmarks_NN2
 of_PRF
 twentieth-century_AJ0
-station-building_NN1-AJ0
+station-building_NN1
 Florence_NP0
 1936_CRD
 Finland_NP0
@@ -14938,8 +14938,8 @@ Tampere_NP0
 and_CJC
 pre-eminently_AV0
 the_AT0
-Stazioni_AJ0-NN1
-Termini_NN1-NP0
+Stazioni_NN1
+Termini_NN1
 in_PRP
 Rome_NP0
 completed_VVN
@@ -14957,7 +14957,7 @@ to_TO0
 date_NN1
 and_CJC
 by_PRP
-Pevsner_NP0-NN1
+Pevsner_NP0
 the_AT0
 best_AJS
 European_AJ0
@@ -15125,7 +15125,7 @@ of_PRF
 Newmarket_NP0
 the_AT0
 airy_AJ0
-French_AJ0-NN1
+French_AJ0
 pavilion_NN1
 of_PRF
 Slough_NP0
@@ -15366,7 +15366,7 @@ biggest_AJS
 corporate_AJ0
 vandal_NN1
 and_CJC
-iconoclast_NN1-VVB
+iconoclast_VVB
 Britain_NP0
 has_VHZ
 seen_VVN
@@ -15388,7 +15388,7 @@ in_PRP
 the_AT0
 wind_NN1
 Christian_AJ0
-Barman_NN1-NP0
+Barman_NP0
 who_PNQ
 had_VHD
 written_VVN
@@ -15540,7 +15540,7 @@ have_VHB
 been_VBN
 some_DT0
 notable_AJ0
-conservation_AJ0-NN1
+conservation_NN1
 conversions_NN2
 with_PRP
 the_AT0
@@ -15577,7 +15577,7 @@ amenities_NN2
 published_VVN
 in_PRP
 1944_CRD
-listed_AJ0
+listed_VVN
 the_AT0
 requirements_NN2
 of_PRF
@@ -15727,7 +15727,7 @@ of_PRF
 American_AJ0
 railway_NN1
 stations_NN2
-Starting_VVG-NN1
+Starting_VVG
 from_PRP
 the_AT0
 simplest_AJS
@@ -15775,7 +15775,7 @@ diverse_AJ0
 origins_NN2
 of_PRF
 its_DPS
-immigrant_AJ0-NN1
+immigrant_AJ0
 population_NN1
 Attempts_NN2
 to_TO0
@@ -15799,7 +15799,7 @@ the_AT0
 sheer_AJ0
 scope_NN1
 of_PRF
-station-building_NN1-AJ0
+station-building_NN1
 continent-wide_AJ0
 and_CJC
 the_AT0
@@ -15817,7 +15817,7 @@ of_PRF
 railway_NN1
 companies_NN2
 whose_DTQ
-exaggerated_AJ0
+exaggerated_VVN
 energy_NN1
 and_CJC
 corporate_AJ0
@@ -15901,7 +15901,7 @@ shortly_AV0
 to_TO0
 meet_VVI
 its_DPS
-fall_VVI
+fall_NN1
 in_PRP
 the_AT0
 face_NN1
@@ -16067,7 +16067,7 @@ to_TO0
 lead_VVI
 some_DT0
 to_TO0
-cry_VVI
+cry_NN1
 monopoly_NN1
 by_PRP
 the_AT0
@@ -16509,7 +16509,7 @@ was_VBD
 to_TO0
 be_VBI
 quintessentially_AV0
-capitalist_AJ0-NN1
+capitalist_AJ0
 By_PRP
 the_AT0
 end_NN1
@@ -16617,7 +16617,7 @@ houses_NN2
 were_VBD
 converted_VVN
 simple_AJ0
-single-room_AJ0-NN1
+single-room_AJ0
 frame_NN1
 shacks_NN2
 were_VBD
@@ -16667,7 +16667,7 @@ early_AJ0
 stations_NN2
 as_CJS
 at_PRP
-Lariat_NP0-NN1
+Lariat_NP0
 Colorado_NP0
 were_VBD
 sometimes_AV0
@@ -16731,7 +16731,7 @@ was_VBD
 a_AT0
 small_AJ0
 octagonal_AJ0
-street-corner_AJ0-NN1
+street-corner_AJ0
 building_NN1
 not_XX0
 unlike_PRP
@@ -16825,7 +16825,7 @@ style_NN1
 reminiscent_AJ0
 of_PRF
 the_AT0
-Nonconformist_AJ0-NN1
+Nonconformist_AJ0
 chapel_NN1
 in_PRP
 England_NP0
@@ -16870,7 +16870,7 @@ open-sided_AJ0
 temple_NN1
 barns_NN2
 at_PRP
-Relay_NN1-VVB
+Relay_NN1
 Maryland_NP0
 1850s_CRD
 and_CJC
@@ -17124,7 +17124,7 @@ was_VBD
 remarkable_AJ0
 It_PNP
 combined_VVN
-Italian_AJ0-NN1
+Italian_AJ0
 Moorish_AJ0
 and_CJC
 in_PRP
@@ -17176,7 +17176,7 @@ be_VBI
 more_AV0
 European_AJ0
 than_CJS
-English_AJ0-NN1
+English_AJ0
 or_CJC
 colonial_AJ0
 A_AT0
@@ -17377,7 +17377,7 @@ eclecticism_NN1
 but_CJC
 to_TO0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Renaissance_NN1
 style_NN1
 of_PRF
@@ -17398,17 +17398,17 @@ the_AT0
 first_ORD
 truly_AV0
 great_AJ0
-single-span_AJ0-NN1
+single-span_NN1
 train-shed_NN1
 built_VVN
 in_PRP
 the_AT0
 United_NP0
 States_NP0
-French_AJ0-NN1
+French_AJ0
 Renaissance_NN1
 and_CJC
-Italian_AJ0-NN1
+Italian_AJ0
 Renaissance_NN1
 styles_NN2
 were_VBD
@@ -17553,7 +17553,7 @@ nineteenth_ORD
 century_NN1
 when_CJS
 American_AJ0
-railway-station_AJ0-NN1
+railway-station_AJ0
 building_NN1
 reached_VVD
 its_DPS
@@ -17574,7 +17574,7 @@ interrelations_NN2
 of_PRF
 roof_NN1
 lines_NN2
-varied_AJ0
+varied_VVN
 and_CJC
 dramatic_AJ0
 handling_NN1
@@ -17595,7 +17595,7 @@ Station_NN1
 Washington_NP0
 Baltimore_NP0
 and_CJC
-Potomac_NN1-NP0
+Potomac_NP0
 1873\xe2\x80\x937_CRD
 and_CJC
 Worcester_NP0
@@ -17659,7 +17659,7 @@ picturesque_AJ0
 buildings_NN2
 with_PRP
 steep_AJ0
-pitched_AJ0
+pitched_VVD
 roofs_NN2
 and_CJC
 Norman_NP0
@@ -17709,7 +17709,7 @@ finest_AJS
 expressions_NN2
 of_PRF
 American_AJ0
-station-building_NN1-AJ0
+station-building_NN1
 But_CJC
 Americans_NN2
 had_VHD
@@ -17741,7 +17741,7 @@ the_AT0
 crucial_AJ0
 factor_NN1
 in_PRP
-station-building_NN1-AJ0
+station-building_NN1
 With_PRP
 these_DT0
 stations_NN2
@@ -17790,7 +17790,7 @@ Gothic_AJ0
 detail_NN1
 while_CJS
 the_AT0
-ten-storey_AJ0-NN1
+ten-storey_AJ0
 Philadelphia_NP0
 Reading_NP0
 of_PRF
@@ -17812,7 +17812,7 @@ of_PRF
 1898\xe2\x80\x9390_CRD
 a_AT0
 striking_AJ0
-office-block_AJ0-NN1
+office-block_AJ0
 exterior_NN1
 was_VBD
 attached_VVN
@@ -17837,7 +17837,7 @@ Beaux-Arts_NN2
 work_NN1
 designed_VVN
 an_AT0
-office-block_AJ0-NN1
+office-block_AJ0
 station_NN1
 which_DTQ
 was_VBD
@@ -17864,7 +17864,7 @@ in_PRP
 1903_CRD
 a_AT0
 great_AJ0
-single-span_AJ0-NN1
+single-span_NN1
 train-shed_NN1
 the_AT0
 last_ORD
@@ -17964,7 +17964,7 @@ or_CJC
 forums_NN2
 an_AT0
 impression_NN1
-heightened_AJ0
+heightened_VVN
 by_PRP
 the_AT0
 fact_NN1
@@ -18030,7 +18030,7 @@ European_AJ0
 rivals_NN2
 In_PRP
 the_AT0
-head-building_NN1-AJ0
+head-building_AJ0
 vast_AJ0
 chambers_NN2
 were_VBD
@@ -18098,7 +18098,7 @@ of_PRF
 contained_VVD
 a_AT0
 vast_AJ0
-barrel-vaulted_AJ0-NN1
+barrel-vaulted_AJ0
 concourse_NN1
 with_PRP
 galleries_NN2
@@ -18109,10 +18109,10 @@ each_DT0
 end_NN1
 and_CJC
 elaborate_AJ0
-tile-work_NN1-AJ0
+tile-work_NN1
 Vaulted_AJ0
 concourses_NN2
-matching_VVG
+matching_AJ0
 the_AT0
 form_NN1
 of_PRF
@@ -18161,7 +18161,7 @@ was_VBD
 pierced_VVN
 by_PRP
 low_AJ0
-round-arched_AJ0-NN1
+round-arched_AJ0
 portals_NN2
 leading_AJ0
 to_TO0
@@ -18206,7 +18206,7 @@ At_PRP
 St_NP0
 Louis_NP0
 every_AT0
-round-arched_AJ0-NN1
+round-arched_AJ0
 opening_NN1
 was_VBD
 made_VVN
@@ -18224,7 +18224,7 @@ into_PRP
 a_AT0
 great_AJ0
 fan_NN1
-Female_AJ0-NN1
+Female_AJ0
 figures_NN2
 with_PRP
 arms_NN2
@@ -18333,7 +18333,7 @@ the_AT0
 power_NN1
 of_PRF
 the_AT0
-office-block_AJ0-NN1
+office-block_AJ0
 station_NN1
 marked_VVN
 the_AT0
@@ -18354,7 +18354,7 @@ as_CJS
 a_AT0
 rise_NN1
 and_CJC
-fall_VVI
+fall_NN1
 from_PRP
 mobile_AJ0
 eclecticism_NN1
@@ -18363,7 +18363,7 @@ the_AT0
 1870s_CRD
 to_TO0
 static_AJ0
-massy_AJ0-NN1
+massy_AJ0
 Romanesque_AJ0
 from_PRP
 squat_AJ0
@@ -18439,7 +18439,7 @@ through_PRP
 several_DT0
 decades_NN2
 of_PRF
-station-building_NN1-AJ0
+station-building_NN1
 It_PNP
 reached_VVD
 staggering_AJ0
@@ -18711,7 +18711,7 @@ the_AT0
 style_NN1
 for_PRP
 state_NN1
-capitols_VVZ-NN2
+capitols_NN2
 in_PRP
 the_AT0
 United_NP0
@@ -18751,10 +18751,10 @@ that_CJT
 it_PNP
 was_VBD
 to_TO0
-feed_VVI
+feed_NN1
 into_PRP
 Fascist_AJ0
-Italian_AJ0-NN1
+Italian_AJ0
 and_CJC
 German_AJ0
 canons_NN2
@@ -18786,7 +18786,7 @@ a_AT0
 new_AJ0
 means_NN0
 to_TO0
-self-assertion_NN1-AJ0
+self-assertion_NN1
 through_PRP
 the_AT0
 railway_NN1
@@ -18815,7 +18815,7 @@ that_CJT
 role_NN1
 and_CJC
 the_AT0
-office-block_AJ0-NN1
+office-block_AJ0
 stations_NN2
 had_VHD
 made_VVN
@@ -19020,7 +19020,7 @@ which_DTQ
 was_VBD
 to_TO0
 influence_NN1
-station-building_NN1-AJ0
+station-building_NN1
 in_PRP
 Australia_NP0
 notably_AV0
@@ -19099,7 +19099,7 @@ one_CRD
 great_AJ0
 Union_NN1
 station_NN1
-Building-land_NN1-AJ0
+Building-land_NN1
 in_PRP
 cities_NN2
 was_VBD
@@ -19162,7 +19162,7 @@ and_CJC
 Co._NN1
 became_VVD
 closely_AV0
-involved_AJ0
+involved_VVN
 with_PRP
 the_AT0
 combination_NN1
@@ -19278,7 +19278,7 @@ been_VBN
 controlled_VVN
 at_PRP
 the_AT0
-Colosseum_NN1-NP0
+Colosseum_NN1
 with_PRP
 its_DPS
 multiple_AJ0
@@ -19294,7 +19294,7 @@ the_AT0
 greatest_AJS
 of_PRF
 the_AT0
-Roman_AJ0-NN1
+Roman_AJ0
 baths_NN2
 like_PRP
 those_DT0
@@ -19382,7 +19382,7 @@ of_PRF
 the_AT0
 most_AV0
 powerful_AJ0
-overpowering_AJ0-VVG
+overpowering_VVG
 indeed_AV0
 spaces_NN2
 of_PRF
@@ -19409,7 +19409,7 @@ prepared_AJ0
 the_AT0
 traveller_NN1
 or_CJC
-sightseer_VVB-NN1
+sightseer_NN1
 for_PRP
 the_AT0
 vast_AJ0
@@ -19434,7 +19434,7 @@ statues_NN2
 stood_VVD
 in_PRP
 the_AT0
-round-arched_AJ0-NN1
+round-arched_AJ0
 window_NN1
 spaces_NN2
 All_DT0
@@ -19535,7 +19535,7 @@ pleasingly_AV0
 revivalist_AJ0
 Baltimore_NP0
 and_CJC
-Potomac_NN1-NP0
+Potomac_NP0
 of_PRF
 1873\xe2\x80\x937_CRD
 The_AT0
@@ -19671,7 +19671,7 @@ had_VHD
 even_AV0
 outrun_VVB
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Empire_NN1
 style_NN1
 of_PRF
@@ -19769,7 +19769,7 @@ palace_NN1
 was_VBD
 created_VVN
 lying_VVG
-athwart_NN1-VVB
+athwart_VVB
 Park_NN1
 and_CJC
 Fourth_ORD
@@ -19950,7 +19950,7 @@ vital_AJ0
 technological_AJ0
 development_NN1
 the_AT0
-shift_NN1-VVB
+shift_NN1
 from_PRP
 steam_NN1
 to_TO0
@@ -19980,7 +19980,7 @@ a_AT0
 station_NN1
 called_VVN
 Manhattan_NP0
-Transfer_VVB-NN1
+Transfer_NN1
 and_CJC
 the_AT0
 vast_AJ0
@@ -20005,7 +20005,7 @@ writer_NN1
 in_PRP
 the_AT0
 Town_NN1
-Planning_NN1-VVG
+Planning_NN1
 Review_NN1
 trumpeted_VVD
 that_CJT
@@ -20137,7 +20137,7 @@ a_AT0
 problem_NN1
 to_TO0
 the_AT0
-average_AJ0-NN1
+average_AJ0
 person_NN1
 that_CJT
 these_DT0
@@ -20269,7 +20269,7 @@ into_PRP
 a_AT0
 furtive_AJ0
 subterranean_AJ0
-act_VVI
+act_NN1
 appropriate_AJ0
 perhaps_AV0
 to_TO0
@@ -20300,7 +20300,7 @@ even_AV0
 its_DPS
 excesses_NN2
 could_VM0
-drive_VVI
+drive_NN1
 other_AJ0
 styles_NN2
 out_AVP
@@ -20311,7 +20311,7 @@ Detroit_NP0
 1913_CRD
 took_VVD
 the_AT0
-office-block_AJ0-NN1
+office-block_AJ0
 idea_NN1
 a_AT0
 stage_NN1
@@ -20486,7 +20486,7 @@ architecture_NN1
 In_PRP
 1893_CRD
 the_AT0
-Atchison_NP0-NN1
+Atchison_NP0
 Topeka_NP0
 and_CJC
 Santa_NP0
@@ -20494,7 +20494,7 @@ Fe_NP0
 opened_VVD
 an_AT0
 extraordinary_AJ0
-Byzantine/Moorish_AJ0-NN1
+Byzantine/Moorish_AJ0
 station_NN1
 in_PRP
 Los_NP0
@@ -20505,7 +20505,7 @@ Grande_NP0
 The_AT0
 effect_NN1
 was_VBD
-heightened_AJ0
+heightened_VVN
 by_PRP
 the_AT0
 pavilions_NN2
@@ -20542,12 +20542,12 @@ at_PRP
 San_NP0
 Angelo_NP0
 Texas_NP0
-Riverside_NP0-NN1
+Riverside_NP0
 Santa_NP0
 Barbara_NP0
-Capistrano_NP0-NN1
+Capistrano_NN1
 and_CJC
-Burlingame_NP0-NN1
+Burlingame_NP0
 California_NP0
 At_PRP
 many_DT0
@@ -20775,7 +20775,7 @@ interior_NN1
 was_VBD
 lightened_VVN
 by_PRP
-tile-work_NN1-AJ0
+tile-work_NN1
 to_TO0
 a_AT0
 height_NN1
@@ -20788,13 +20788,13 @@ The_AT0
 church_NN1
 effect_NN1
 was_VBD
-heightened_AJ0
+heightened_VVN
 by_PRP
 the_AT0
 Santa_NP0
 Fe_NP0
 's_POS
-cross_VVI
+cross_NN1
 symbol_NN1
 and_CJC
 by_PRP
@@ -20936,7 +20936,7 @@ the_AT0
 station_NN1
 was_VBD
 perfectly_AV0
-proportioned_VVN-AJ0
+proportioned_VVN
 and_CJC
 almost_AV0
 impossible_AJ0
@@ -21040,7 +21040,7 @@ architects_NN2
 and_CJC
 designers_NN2
 were_VBD
-involved_AJ0
+involved_VVN
 but_CJC
 none_PNI
 the_AT0
@@ -21091,7 +21091,7 @@ remarkable_AJ0
 mosaics_NN2
 by_PRP
 Winold_NP0
-Reiss_NP0-NN1
+Reiss_NP0
 illustrative_AJ0
 of_PRF
 the_AT0
@@ -21303,10 +21303,10 @@ mosaic_NN1
 murals_NN2
 by_PRP
 the_AT0
-German-born_AJ0-NN1
+German-born_AJ0
 artist_NN1
 Winold_NP0
-Reiss_NP0-NN1
+Reiss_NP0
 and_CJC
 executed_VVN
 by_PRP
@@ -21321,11 +21321,11 @@ the_AT0
 train_NN1
 concourse_NN1
 were_VBD
-devoted_AJ0-VVN
+devoted_AJ0
 almost_AV0
 entirely_AV0
 to_TO0
-Reiss_NP0-NN1
+Reiss_NP0
 's_POS
 murals_NN2
 and_CJC
@@ -21544,7 +21544,7 @@ But_CJC
 it_PNP
 was_VBD
 a_AT0
-swan-song_NN1-AJ0
+swan-song_AJ0
 The_AT0
 station_NN1
 opened_VVD
@@ -21581,7 +21581,7 @@ Union_NN1
 perfectly_AV0
 represented_VVN
 the_AT0
-exaggerated_AJ0
+exaggerated_VVN
 hope_VVB
 of_PRF
 the_AT0
@@ -21648,7 +21648,7 @@ railway_NN1
 station_NN1
 has_VHZ
 been_VBN
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 the_AT0
 large_AJ0
@@ -21699,7 +21699,7 @@ They_PNP
 too_AV0
 were_VBD
 invariably_AV0
-overbuilt_VVB-NN1
+overbuilt_NN1
 offering_VVG
 by_PRP
 the_AT0
@@ -21911,7 +21911,7 @@ formed_VVN
 a_AT0
 rather_AV0
 grander_AJC
-two-storey_AJ0-NN1
+two-storey_AJ0
 building_NN1
 In_PRP
 some_DT0
@@ -21933,7 +21933,7 @@ the_AT0
 products_NN2
 of_PRF
 early_AJ0
-pre-fabrication_AJ0-NN1
+pre-fabrication_NN1
 techniques_NN2
 as_CJS
 at_PRP
@@ -22037,7 +22037,7 @@ their_DPS
 skills_NN2
 in_PRP
 beautifully_AV0
-carved_AJ0
+carved_VVN
 barge_NN1
 boarding_NN1
 and_CJC
@@ -22153,7 +22153,7 @@ Easton_NP0
 1886_CRD
 These_DT0
 heavy_AJ0
-round-arched_AJ0-NN1
+round-arched_AJ0
 stations_NN2
 were_VBD
 to_TO0
@@ -22177,11 +22177,11 @@ proved_VVN
 amenable_AJ0
 to_TO0
 both_AV0
-small-_AJ0-NN1
+small-_AJ0
 and_CJC
 large-scale_AJ0
 treatment_NN1
-Cool_VVB
+Cool_AJ0
 classical_AJ0
 porticoes_NN2
 appeared_VVD
@@ -22204,7 +22204,7 @@ used_VVN
 at_PRP
 Worcester_NP0
 Massachusetts_NP0
-Tacoma_NP0-NN1
+Tacoma_NP0
 Washington_NP0
 1910_CRD
 Montclair_NP0
@@ -22262,7 +22262,7 @@ its_DPS
 affluent_AJ0
 commuters_NN2
 while_CJS
-Tuxedo_NP0-NN1
+Tuxedo_NP0
 Park_NN1
 a_AT0
 wealthy_AJ0
@@ -22282,7 +22282,7 @@ and_CJC
 much_DT0
 fine_AJ0
 woodwork_NN1
-Pelham_NN1-NP0
+Pelham_NN1
 Manor_NN1
 New_AJ0
 York_NP0
@@ -22340,7 +22340,7 @@ at_PRP
 Cumberland_NP0
 1871\xe2\x80\x932_CRD
 and_CJC
-Relay_NN1-VVB
+Relay_NN1
 Maryland_NP0
 1870s_CRD
 and_CJC
@@ -22434,7 +22434,7 @@ created_VVN
 a_AT0
 delightful_AJ0
 half-timbered_AJ0
-chalet-style_AJ0-NN1
+chalet-style_AJ0
 building_NN1
 with_PRP
 a_AT0
@@ -22491,7 +22491,7 @@ May_NP0
 New_AJ0
 Jersey_NP0
 while_CJS
-half-timbering_AJ0-NN1
+half-timbering_NN1
 so_AV0
 often_AV0
 associated_VVN
@@ -22523,7 +22523,7 @@ was_VBD
 connected_VVN
 to_TO0
 a_AT0
-matching_VVG
+matching_AJ0
 hotel_NN1
 by_PRP
 a_AT0
@@ -22574,7 +22574,7 @@ pagoda-like_AJ0
 confection_NN1
 sporting_VVG
 elaborately_AV0
-carved_AJ0
+carved_VVN
 verandas_NN2
 valances_NN2
 and_CJC
@@ -22652,12 +22652,12 @@ flights_NN2
 of_PRF
 steps_NN2
 at_PRP
-Haverstraw_NP0-NN1
+Haverstraw_NN1
 New_AJ0
 York_NP0
 and_CJC
 Bryn_NP0
-Mawr_NP0-NN1
+Mawr_NP0
 Pennsylvania_NP0
 from_PRP
 the_AT0
@@ -22841,7 +22841,7 @@ the_AT0
 motor_NN1
 car_NN1
 the_AT0
-Greyhound_NN1-NP0
+Greyhound_NP0
 bus_NN1
 and_CJC
 the_AT0
@@ -22851,7 +22851,7 @@ thrusting_AJ0
 diversity_NN1
 of_PRF
 American_AJ0
-capitalist_AJ0-NN1
+capitalist_AJ0
 railway_NN1
 operations_NN2
 which_DTQ
@@ -22883,7 +22883,7 @@ that_CJT
 decline_NN1
 Canada_NP0
 Canadian_AJ0
-station-building_NN1-AJ0
+station-building_NN1
 styles_NN2
 can_VM0
 be_VBI
@@ -22992,7 +22992,7 @@ that_CJT
 they_PNP
 turned_VVD
 to_TO0
-French_AJ0-NN1
+French_AJ0
 models_NN2
 although_CJS
 the_AT0
@@ -23024,14 +23024,14 @@ American_AJ0
 influences_NN2
 in_PRP
 their_DPS
-station-building_NN1-AJ0
+station-building_NN1
 This_DT0
 ensured_VVD
 that_CJT
 Canadian_AJ0
 stations_NN2
 always_AV0
-differed_VVN-VVD
+differed_VVN
 in_PRP
 appearance_NN1
 from_PRP
@@ -23048,7 +23048,7 @@ even_AV0
 South_NN1
 Africa_NP0
 The_AT0
-French_AJ0-NN1
+French_AJ0
 Second_ORD
 Empire_NN1
 style_NN1
@@ -23068,7 +23068,7 @@ Canadian_AJ0
 Pacific_NP0
 developed_VVN
 a_AT0
-French_AJ0-NN1
+French_AJ0
 Renaissance_NN1
 ch\xc3\xa2teau_NN1
 style_NN1
@@ -23142,7 +23142,7 @@ the_AT0
 boom_NN1
 years_NN2
 in_PRP
-station-building_NN1-AJ0
+station-building_NN1
 though_CJS
 not_XX0
 in_PRP
@@ -23260,7 +23260,7 @@ furthest_AJS
 reaches_VVZ
 of_PRF
 the_AT0
-grain-growing_AJ0-NN1
+grain-growing_AJ0
 areas_NN2
 On_PRP
 the_AT0
@@ -23414,7 +23414,7 @@ as_CJS
 one_CRD
 of_PRF
 calamitous_AJ0
-overbuilding_NN1-VVG
+overbuilding_NN1
 in_PRP
 Canadian_AJ0
 railways_NN2
@@ -23464,7 +23464,7 @@ Bruce_NP0
 and_CJC
 the_AT0
 Credit_NN1
-Valley_NN1-NP0
+Valley_NN1
 penetrated_VVN
 the_AT0
 furthest_AJS
@@ -23481,13 +23481,13 @@ flag-stop_AJ0
 stations_NN2
 as_CJS
 at_PRP
-Dagmar_NP0-NN1
+Dagmar_NP0
 Forks_NN2
 of_PRF
 the_AT0
 Credit_NN1
 Gilford_NP0
-Crombies_NP0
+Crombies_NN2
 and_CJC
 Hillsburg_NP0
 just_AV0
@@ -23554,7 +23554,7 @@ among_PRP
 many_DT0
 others_NN2
 Smaller_AJC
-one-storey_AJ0-NN1
+one-storey_AJ0
 buildings_NN2
 often_AV0
 containing_VVG
@@ -23616,7 +23616,7 @@ Brantford_NP0
 1895_CRD
 Kitchener_NP0
 1897_CRD
-Galt_NP0-NN1
+Galt_NP0
 and_CJC
 Brampton_NP0
 Some_DT0
@@ -23674,7 +23674,7 @@ central_AJ0
 square_NN1
 one_CRD
 At_PRP
-Guelph_NN1-NP0
+Guelph_NN1
 as_CJS
 late_AJ0
 as_CJS
@@ -24059,7 +24059,7 @@ Windsor_NP0
 1888_CRD
 and_CJC
 Place_NP0
-Viger_NP0-NN1
+Viger_NP0
 were_VBD
 designed_VVN
 by_PRP
@@ -24067,7 +24067,7 @@ the_AT0
 same_DT0
 architect_NN1
 Bruce_NP0
-Price_NP0-NN1
+Price_NP0
 in_PRP
 the_AT0
 heavy_AJ0
@@ -24256,14 +24256,14 @@ The_AT0
 Grand_AJ0
 Trunk_NN1
 's_POS
-Bonaventure_NN1-NP0
+Bonaventure_NN1
 Station_NN1
 in_PRP
 Montreal_NP0
 was_VBD
 built_VVN
 in_PRP
-French_AJ0-NN1
+French_AJ0
 Second_ORD
 Empire_NN1
 style_NN1
@@ -24282,7 +24282,7 @@ station_NN1
 was_VBD
 a_AT0
 simple_AJ0
-two-storey_AJ0-NN1
+two-storey_AJ0
 affair_NN1
 with_PRP
 crow-stepped_AJ0
@@ -24300,7 +24300,7 @@ station_NN1
 architecture_NN1
 with_PRP
 its_DPS
-French_AJ0-NN1
+French_AJ0
 ch\xc3\xa2teau_NN1
 style_NN1
 used_VVN
@@ -24401,7 +24401,7 @@ was_VBD
 consciously_AV0
 designed_VVN
 to_TO0
-present_AJ0-NN1
+present_AJ0
 the_AT0
 city_NN1
 both_AV0
@@ -24440,7 +24440,7 @@ its_DPS
 distinctive_AJ0
 combination_NN1
 of_PRF
-French_AJ0-NN1
+French_AJ0
 and_CJC
 Scottish_AJ0
 elements_NN2
@@ -24478,7 +24478,7 @@ Superior_NP0
 the_AT0
 great_AJ0
 grain_NN1
-trans-shipment_NN1-AJ0
+trans-shipment_AJ0
 centre_NN1
 from_PRP
 the_AT0
@@ -24501,7 +24501,7 @@ with_PRP
 pyramidal_AJ0
 roofs_NN2
 and_CJC
-battlemented_VVD-AJ0
+battlemented_VVD
 turrets_NN2
 adorned_VVN
 with_PRP
@@ -24751,7 +24751,7 @@ from_PRP
 to_TO0
 1930_CRD
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 Renaissance_NN1
 building_NN1
 was_VBD
@@ -24877,7 +24877,7 @@ concourse_NN1
 with_PRP
 a_AT0
 slightly_AV0
-curving_VVG
+curving_AJ0
 coffered_AJ0
 ceiling_NN1
 As_CJS
@@ -24957,7 +24957,7 @@ up_AVP
 the_AT0
 last_ORD
 great_AJ0
-station-building_NN1-AJ0
+station-building_NN1
 project_NN1
 in_PRP
 Canada_NP0
@@ -24975,7 +24975,7 @@ to_TO0
 replace_VVI
 the_AT0
 old_AJ0
-Bonaventure_NN1-NP0
+Bonaventure_NN1
 It_PNP
 was_VBD
 to_TO0
@@ -24985,7 +24985,7 @@ a_AT0
 new_AJ0
 site_NN1
 and_CJC
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 combined_VVN
@@ -25279,7 +25279,7 @@ Saskatoon_NP0
 's_POS
 station_NN1
 was_VBD
-closed_VVD
+closed_VVN
 in_PRP
 1969_CRD
 and_CJC
@@ -25287,8 +25287,8 @@ replaced_VVN
 by_PRP
 a_AT0
 new_AJ0
-one-storeyed_AJ0-NN1
-flat-roofed_AJ0-NN1
+one-storeyed_AJ0
+flat-roofed_NN1
 functional_AJ0
 station_NN1
 at_PRP
@@ -25304,7 +25304,7 @@ a_AT0
 government_NN1
 report_NN1
 the_AT0
-Gr\xc3\xa9ber_NN1-NP0
+Gr\xc3\xa9ber_NP0
 Commission_NN1
 which_DTQ
 concluded_VVD
@@ -25406,7 +25406,7 @@ that_CJT
 Canadians_NN2
 were_VBD
 allowing_VVG
-Mammon_NN1-NP0
+Mammon_NN1
 and_CJC
 the_AT0
 attendant_NN1
@@ -25499,7 +25499,7 @@ Latin_AJ0
 America_NP0
 Spanish_AJ0
 and_CJC
-Portuguese_AJ0-NN1
+Portuguese_AJ0
 rule_NN1
 had_VHD
 been_VBN
@@ -25779,12 +25779,12 @@ no_AT0
 other_AJ0
 branch_NN1
 of_PRF
-Argentine_AJ0-NN1
+Argentine_AJ0
 industry_NN1
 is_VBZ
 the_AT0
 British_AJ0
-capitalist_AJ0-NN1
+capitalist_AJ0
 so_AV0
 deeply_AV0
 interested_AJ0
@@ -25809,7 +25809,7 @@ fewer_DT0
 than_CJS
 a_AT0
 dozen_CRD
-Argentine_AJ0-NN1
+Argentine_AJ0
 railway_NN1
 companies_NN2
 were_VBD
@@ -25819,11 +25819,11 @@ were_VBD
 in_PRP
 addition_NN1
 three_CRD
-French_AJ0-NN1
+French_AJ0
 companies_NN2
 and_CJC
 the_AT0
-Argentine_AJ0-NN1
+Argentine_AJ0
 State_NN1
 railways_NN2
 which_DTQ
@@ -25855,7 +25855,7 @@ an_AT0
 extraordinary_AJ0
 Englishness_NN1
 about_PRP
-Argentine_AJ0-NN1
+Argentine_AJ0
 railways_NN2
 Station_NN1
 platforms_NN2
@@ -25869,7 +25869,7 @@ on_PRP
 British_AJ0
 lines_NN2
 or_CJC
-British-made_NN1-AJ0
+British-made_NN1
 and_CJC
 some_DT0
 country_NN1
@@ -25944,7 +25944,7 @@ Railway_NN1
 and_CJC
 the_AT0
 Central_AJ0
-Argentine_AJ0-NN1
+Argentine_AJ0
 Railway_NN1
 The_AT0
 station_NN1
@@ -26023,7 +26023,7 @@ and_CJC
 82_CRD
 ft._NN0
 wide_AJ0
-challenging_VVG-AJ0
+challenging_VVG
 comparison_NN1
 with_PRP
 the_AT0
@@ -26118,7 +26118,7 @@ power_NN1
 and_CJC
 splendour_NN1
 of_PRF
-Argentine_AJ0-NN1
+Argentine_AJ0
 railways_NN2
 Retiro_NP0
 Station_NN1
@@ -26129,7 +26129,7 @@ a_AT0
 comfortable_AJ0
 sense_NN1
 of_PRF
-home-coming_NN1-AJ0
+home-coming_NN1
 after_PRP
 a_AT0
 long_AJ0
@@ -26140,7 +26140,7 @@ the_AT0
 continent_NN1
 It_PNP
 was_VBD
-English-made_AJ0-NN1
+English-made_NN1
 with_PRP
 a_AT0
 high_AJ0
@@ -26160,7 +26160,7 @@ pillars_NN2
 and_CJC
 floors_NN2
 ornately_AV0
-carved_AJ0
+carved_VVN
 canopies_NN2
 shafts_NN2
 of_PRF
@@ -26289,7 +26289,7 @@ imposing_AJ0
 structure_NN1
 in_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Second_ORD
 Empire_NN1
 manner_NN1
@@ -26308,7 +26308,7 @@ stood_VVD
 on_PRP
 the_AT0
 Plaza_NN1
-Constituci\xc3\xb3n_NN1-NP0
+Constituci\xc3\xb3n_NN1
 Powerful_AJ0
 cornices_NN2
 emphasized_VVN
@@ -26371,7 +26371,7 @@ impressive_AJ0
 about_PRP
 the_AT0
 Plaza_NN1
-Constituci\xc3\xb3n_NN1-NP0
+Constituci\xc3\xb3n_NN1
 the_AT0
 terminus_NN1
 of_PRF
@@ -26415,7 +26415,7 @@ and_CJC
 a_AT0
 strictly_AV0
 ordered_VVD
-bustle_NN1-VVB
+bustle_NN1
 that_CJT
 bespeaks_VVZ
 the_AT0
@@ -26492,7 +26492,7 @@ already_AV0
 vast_AJ0
 station_NN1
 was_VBD
-remodelled_AJ0-VVN
+remodelled_AJ0
 and_CJC
 enlarged_VVN
 in_PRP
@@ -26566,7 +26566,7 @@ was_VBD
 well_AV0
 illustrated_VVN
 by_PRP
-station-building_NN1-AJ0
+station-building_NN1
 and_CJC
 civic_AJ0
 pride_NN1
@@ -26612,7 +26612,7 @@ of_PRF
 striking_AJ0
 originality_NN1
 an_AT0
-overall_AJ0-NN1
+overall_AJ0
 shed_NN1
 flanked_VVN
 by_PRP
@@ -26634,7 +26634,7 @@ doorway_NN1
 bore_VVD
 La_NP0
 Plata_NP0
-carved_AJ0
+carved_VVN
 above_PRP
 it_PNP
 and_CJC
@@ -26652,9 +26652,9 @@ Plata_NP0
 station_NN1
 quite_AV0
 different_AJ0
-four-square_AJ0-NN1
+four-square_AJ0
 and_CJC
-concrete_AJ0-NN1
+concrete_AJ0
 belonged_VVD
 to_TO0
 the_AT0
@@ -26698,7 +26698,7 @@ of_PRF
 the_AT0
 city_NN1
 At_PRP
-Concordia_NP0-NN1
+Concordia_NP0
 a_AT0
 fine_AJ0
 classical_AJ0
@@ -26711,7 +26711,7 @@ the_AT0
 headquarters_NN0
 of_PRF
 the_AT0
-Argentine_AJ0-NN1
+Argentine_AJ0
 Northern_NP0
 Railway_NN1
 in_PRP
@@ -26743,7 +26743,7 @@ the_AT0
 station_NN1
 offices_NN2
 at_PRP
-Tucum\xc3\xa1n_NP0-NN1
+Tucum\xc3\xa1n_NN1
 from_PRP
 the_AT0
 neat_AJ0
@@ -26847,7 +26847,7 @@ Empire_NN1
 The_AT0
 complex_AJ0
 variegated_AJ0
-arcading_NN1-VVG
+arcading_NN1
 of_PRF
 its_DPS
 fa\xc3\xa7ade_NN1
@@ -26882,7 +26882,7 @@ Behind_PRP
 was_VBD
 a_AT0
 magnificent_AJ0
-overall_AJ0-NN1
+overall_AJ0
 train-shed_NN1
 Throughout_PRP
 Uruguay_NP0
@@ -26936,7 +26936,7 @@ shack_NN1
 at_PRP
 Pan_NP0
 de_NP0
-Az\xc3\xbacar_NP0-NN1
+Az\xc3\xbacar_NP0
 to_TO0
 the_AT0
 heavy_AJ0
@@ -26944,7 +26944,7 @@ unrelieved_AJ0
 square_NN1
 strength_NN1
 of_PRF
-Paysand\xc3\xba_NP0-NN1
+Paysand\xc3\xba_NN1
 from_PRP
 the_AT0
 elegant_AJ0
@@ -26953,18 +26953,18 @@ Salto_NN1
 to_TO0
 the_AT0
 delightful_AJ0
-single-platform_AJ0-NN1
+single-platform_AJ0
 country_NN1
 station_NN1
 at_PRP
-Paso_NN1-NP0
+Paso_NP0
 de_NP0
 los_UNC
 Toros_NP0
 The_AT0
 station_NN1
 at_PRP
-Asunci\xc3\xb3n_NP0-NN1
+Asunci\xc3\xb3n_NN1
 in_PRP
 Paraguay_NP0
 was_VBD
@@ -27041,7 +27041,7 @@ become_VVI
 passengers_NN2
 Although_CJS
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 effect_NN1
 was_VBD
 classical_AJ0
@@ -27250,7 +27250,7 @@ was_VBD
 more_AV0
 like_PRP
 an_AT0
-English_AJ0-NN1
+English_AJ0
 country_NN1
 station_NN1
 all_DT0
@@ -27294,7 +27294,7 @@ enough_AV0
 for_PRP
 any_DT0
 capital_NN1
-Twin_NN1-AJ0
+Twin_NN1
 towers_NN2
 each_DT0
 capped_VVN
@@ -27341,7 +27341,7 @@ a_AT0
 bandstand_NN1
 Only_AV0
 the_AT0
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 Via\xc3\xa7\xc3\xa3o_NP0
 Ferrea_NP0
 do_VDB
@@ -27359,7 +27359,7 @@ much_DT0
 more_AV0
 Lusitanian_AJ0
 in_PRP
-feel_VVI
+feel_VVB
 in_PRP
 white_AJ0
 stucco_NN1
@@ -27448,7 +27448,7 @@ This_DT0
 was_VBD
 Latin_AJ0
 American_AJ0
-nationalist_AJ0-NN1
+nationalist_AJ0
 classical_AJ0
 at_PRP
 its_DPS
@@ -27508,7 +27508,7 @@ of_PRF
 foreign_AJ0
 capital_NN1
 and_CJC
-nationalist_AJ0-NN1
+nationalist_AJ0
 pride_NN1
 In_PRP
 Chile_NP0
@@ -27524,7 +27524,7 @@ station_NN1
 while_CJS
 Santiago_NP0
 's_POS
-Alameida_NP0-NN1
+Alameida_NN1
 Station_NN1
 was_VBD
 built_VVN
@@ -27547,11 +27547,11 @@ common_AJ0
 throughout_PRP
 Latin_AJ0
 America_NP0
-Chilean_AJ0-NN1
+Chilean_AJ0
 stations_NN2
 usually_AV0
 had_VHD
-overall_AJ0-NN1
+overall_AJ0
 roofs_NN2
 in_PRP
 the_AT0
@@ -27609,7 +27609,7 @@ Palma_NP0
 Los_NP0
 Desamperados_NP0
 and_CJC
-Viterbo_NP0-NN1
+Viterbo_NP0
 Monservate_NP0
 was_VBD
 demolished_VVN
@@ -27697,7 +27697,7 @@ cities_NN2
 derive_VVB
 a_AT0
 certain_AJ0
-faded_AJ0
+faded_VVN
 grandeur_NN1
 from_PRP
 the_AT0
@@ -27732,16 +27732,16 @@ to_TO0
 reach_VVI
 the_AT0
 great_AJ0
-Incan_AJ0-NN1
+Incan_AJ0
 site_NN1
 of_PRF
 Machu_NP0
-Picchu_NP0-NN1
+Picchu_NP0
 was_VBD
 a_AT0
 modest_AJ0
-two-storey_AJ0-NN1
-tin-roofed_AJ0-NN1
+two-storey_AJ0
+tin-roofed_NN1
 structure_NN1
 with_PRP
 one_CRD
@@ -27759,7 +27759,7 @@ in_PRP
 recent_AJ0
 years_NN2
 Other_AJ0
-principal_AJ0-NN1
+principal_AJ0
 stations_NN2
 in_PRP
 the_AT0
@@ -27768,14 +27768,14 @@ Andes_NP0
 like_PRP
 Oroya_NP0
 and_CJC
-Huancayo_NP0-NN1
+Huancayo_NN1
 are_VBB
 equally_AV0
 modest_AJ0
 although_CJS
 Fawcett_NP0
 described_VVN
-Huancayo_NP0-NN1
+Huancayo_NN1
 as_CJS
 the_AT0
 prettiest_AJS
@@ -27808,7 +27808,7 @@ to_TO0
 that_CJT
 of_PRF
 the_AT0
-Chilean_AJ0-NN1
+Chilean_AJ0
 systems_NN2
 Nowhere_AV0
 on_PRP
@@ -27832,7 +27832,7 @@ the_AT0
 Andean_AJ0
 skies_NN2
 sometimes_AV0
-divorced_AJ0
+divorced_VVN
 from_PRP
 any_DT0
 visible_AJ0
@@ -27973,7 +27973,7 @@ a_AT0
 modern_AJ0
 almost_AV0
 Bauhaus_NP0
-feel_VVI
+feel_VVB
 Yet_AV0
 the_AT0
 central_AJ0
@@ -28025,7 +28025,7 @@ green_AJ0
 and_CJC
 pink_AJ0
 of_PRF
-Zipaquiva_NP0-NN1
+Zipaquiva_NP0
 A_AT0
 multiplicity_NN1
 of_PRF
@@ -28139,7 +28139,7 @@ The_AT0
 Central_AJ0
 Railway_NN1
 's_POS
-Buenavista_NP0-NN1
+Buenavista_NN1
 terminus_NN1
 in_PRP
 Mexico_NP0
@@ -28159,12 +28159,12 @@ only_AV0
 of_PRF
 a_AT0
 simple_AJ0
-two-storey_AJ0-NN1
+two-storey_AJ0
 stone_NN1
 block_NN1
 with_PRP
 an_AT0
-overall_AJ0-NN1
+overall_AJ0
 shed_NN1
 behind_PRP
 covering_VVG
@@ -28204,7 +28204,7 @@ to_TO0
 the_AT0
 period_NN1
 of_PRF
-nationalist_AJ0-NN1
+nationalist_AJ0
 fervour_NN1
 they_PNP
 took_VVD
@@ -28287,15 +28287,15 @@ two_CRD
 locomotives_NN2
 made_VVN
 of_PRF
-rubber_AJ0-NN1
-Pandemonium_NP0-NN1
+rubber_AJ0
+Pandemonium_NN1
 under_PRP
 a_AT0
 thundery_AJ0
 sky_NN1
 muskets_NN2
 arrows_NN2
-pickaxes_NN2-VVZ
+pickaxes_NN2
 and_CJC
 symbolic_AJ0
 lightning_NN1
@@ -28403,7 +28403,7 @@ and_CJC
 bar_NN1
 finished_VVN
 in_PRP
-Italian_AJ0-NN1
+Italian_AJ0
 marble_NN1
 and_CJC
 Spanish_AJ0
@@ -28417,7 +28417,7 @@ on_PRP
 a_AT0
 grand_AJ0
 scale_NN1
-Twin_NN1-AJ0
+Twin_NN1
 towers_NN2
 bore_VVD
 the_AT0
@@ -28520,12 +28520,12 @@ and_CJC
 central_AJ0
 towers_NN2
 At_PRP
-Montego_NP0-NN1
+Montego_NP0
 Bay_NN1
 there_EX0
 was_VBD
 an_AT0
-overall_AJ0-NN1
+overall_AJ0
 shed_NN1
 backed_VVN
 by_PRP
@@ -28561,7 +28561,7 @@ But_CJC
 the_AT0
 most_AV0
 beautiful_AJ0
-Jamaican_AJ0-NN1
+Jamaican_AJ0
 station_NN1
 was_VBD
 at_PRP
@@ -28651,10 +28651,10 @@ a_AT0
 long_AJ0
 plain_AJ0
 classical_AJ0
-two-storey_AJ0-NN1
+two-storey_AJ0
 building_NN1
 three_CRD
-canopied_AJ0-VVD
+canopied_AJ0
 platforms_NN2
 and_CJC
 an_AT0
@@ -28696,7 +28696,7 @@ West_NP0
 Indian_AJ0
 islands_NN2
 were_VBD
-shut_VVB
+shut_VVN
 down_AVP
 The_AT0
 stations_NN2
@@ -28713,7 +28713,7 @@ products_NN2
 of_PRF
 the_AT0
 great_AJ0
-building-boom_AJ0-NN1
+building-boom_NN1
 era_NN1
 between_PRP
 1890_CRD
@@ -28731,7 +28731,7 @@ of_PRF
 political_AJ0
 turmoil_NN1
 growing_AJ0
-republican_AJ0-NN1
+republican_AJ0
 nationalism_NN1
 and_CJC
 American_AJ0
@@ -28835,7 +28835,7 @@ railway_NN1
 station_NN1
 in_PRP
 the_AT0
-non-European_AJ0-NN1
+non-European_AJ0
 world_NN1
 which_DTQ
 staked_VVD
@@ -28896,7 +28896,7 @@ The_AT0
 great_AJ0
 era_NN1
 of_PRF
-station-building_NN1-AJ0
+station-building_NN1
 in_PRP
 Asia_NP0
 Australasia_NP0
@@ -28985,7 +28985,7 @@ the_AT0
 insatiable_AJ0
 demands_NN2
 of_PRF
-tea-planting_NN1-AJ0
+tea-planting_AJ0
 from_PRP
 the_AT0
 1880s_CRD
@@ -28994,7 +28994,7 @@ Central_AJ0
 Asia_NP0
 was_VBD
 to_TO0
-fall_VVI
+fall_NN1
 to_TO0
 Russian_AJ0
 arms_NN2
@@ -29137,7 +29137,7 @@ In_PRP
 the_AT0
 1870s_CRD
 the_AT0
-French_AJ0-NN1
+French_AJ0
 conceived_VVN
 extravagant_AJ0
 plans_NN2
@@ -29191,7 +29191,7 @@ Rhodesia_NP0
 Zambia_NP0
 and_CJC
 the_AT0
-Belgian_AJ0-NN1
+Belgian_AJ0
 Congo_NP0
 Zaire_NP0
 lured_VVN
@@ -29199,7 +29199,7 @@ it_PNP
 north_NN1
 from_PRP
 the_AT0
-Zambezi_NN1-NP0
+Zambezi_NN1
 in_PRP
 the_AT0
 early_AJ0
@@ -29238,7 +29238,7 @@ and_CJC
 the_AT0
 British_AJ0
 and_CJC
-French_AJ0-NN1
+French_AJ0
 in_PRP
 Africa_NP0
 were_VBD
@@ -29294,7 +29294,7 @@ for_PRP
 the_AT0
 stations_NN2
 The_AT0
-French_AJ0-NN1
+French_AJ0
 built_VVN
 surprisingly_AV0
 modest_AJ0
@@ -29612,7 +29612,7 @@ symbolized_VVN
 by_PRP
 Calcutta_NP0
 's_POS
-Howrah_NP0-NN1
+Howrah_NP0
 but_CJC
 when_CJS
 the_AT0
@@ -29620,7 +29620,7 @@ rest_NN1
 of_PRF
 the_AT0
 world_NN1
-reverted_VVN-VVD
+reverted_VVD
 to_TO0
 the_AT0
 classical_AJ0
@@ -29633,7 +29633,7 @@ set_VVN
 about_PRP
 rediscovering_VVG
 and_CJC
-reinterpreting_VVG-AJ0
+reinterpreting_VVG
 Indian_AJ0
 architectural_AJ0
 styles_NN2
@@ -29685,7 +29685,7 @@ primarily_AV0
 by_PRP
 Europeans_NN2
 Bori_NP0
-Bunder_NP0-NN1
+Bunder_NP0
 by_PRP
 Indians_NN2
 and_CJC
@@ -29826,7 +29826,7 @@ codification_NN1
 and_CJC
 Macaulay_NP0
 's_POS
-English_AJ0-NN1
+English_AJ0
 education_NN1
 for_PRP
 Indians_NN2
@@ -29986,7 +29986,7 @@ the_AT0
 tracks_NN2
 could_VM0
 be_VBI
-closed_VVD
+closed_VVN
 off_AVP
 by_PRP
 gates_NN2
@@ -30027,7 +30027,7 @@ and_CJC
 pennants_NN2
 and_CJC
 flags_NN2
-fly_VVI
+fly_NN1
 from_PRP
 the_AT0
 entrance_NN1
@@ -30174,7 +30174,7 @@ the_AT0
 complex_AJ0
 railway_NN1
 networks_NN2
-fanned_VVN-VVD
+fanned_VVD
 out_AVP
 from_PRP
 these_DT0
@@ -30319,7 +30319,7 @@ keep_VVI
 ornamentation_NN1
 to_TO0
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 but_CJC
 the_AT0
 Victorian_AJ0
@@ -30337,8 +30337,8 @@ any_DT0
 other_AJ0
 age_NN1
 The_AT0
-round-arched_AJ0-NN1
-arcading_NN1-VVG
+round-arched_AJ0
+arcading_NN1
 and_CJC
 windows_NN2
 were_VBD
@@ -30444,7 +30444,7 @@ name_NN1
 to_TO0
 Bombay_NP0
 The_AT0
-Portuguese_AJ0-NN1
+Portuguese_AJ0
 had_VHD
 built_VVN
 a_AT0
@@ -30537,7 +30537,7 @@ a_AT0
 modern_AJ0
 city_NN1
 of_PRF
-concrete_AJ0-NN1
+concrete_AJ0
 skyscrapers_NN2
 and_CJC
 oppressive_AJ0
@@ -30597,7 +30597,7 @@ and_CJC
 Ceylon_NP0
 with_PRP
 typical_AJ0
-travel-guide_AJ0-NN1
+travel-guide_AJ0
 hyperbole_NN1
 described_VVN
 it_PNP
@@ -30623,7 +30623,7 @@ spires_NN2
 fretted_VVD
 and_CJC
 decorated_VVN
-round-headed_AJ0-NN1
+round-headed_NN1
 arches_NN2
 with_PRP
 lancet_NN1
@@ -30637,20 +30637,20 @@ warm_AJ0
 red_AJ0
 colour_NN1
 Middle_AJ0
-English_AJ0-NN1
+English_AJ0
 Venetian_AJ0
 Romanesque_AJ0
 and_CJC
 Orientalist_AJ0
 features_NN2
-jostle_VVI
+jostle_NN1
 with_PRP
 each_DT0
 other_AJ0
 in_PRP
 an_AT0
 architectural_AJ0
-epic_AJ0-NN1
+epic_NN1
 of_PRF
 commercial_AJ0
 and_CJC
@@ -30829,11 +30829,11 @@ a_AT0
 whole_AJ0
 succession_NN1
 of_PRF
-low-roofed_NN1-AJ0
+low-roofed_NN1
 dormer-windowed_AJ0
 gabled_AJ0
 buildings_NN2
-Colaba_NN1-NP0
+Colaba_NN1
 built_VVN
 in_PRP
 1893_CRD
@@ -30844,7 +30844,7 @@ than_CJS
 a_AT0
 pleasant_AJ0
 small_AJ0
-English_AJ0-NN1
+English_AJ0
 country_NN1
 town_NN1
 station_NN1
@@ -30909,7 +30909,7 @@ in_PRP
 form_NN1
 The_AT0
 first_ORD
-Sealdah_NN1-NP0
+Sealdah_NP0
 station_NN1
 of_PRF
 1862_CRD
@@ -31020,7 +31020,7 @@ United_NP0
 States_NP0
 and_CJC
 of_PRF
-English_AJ0-NN1
+English_AJ0
 country_NN1
 houses_NN2
 It_PNP
@@ -31041,7 +31041,7 @@ on_PRP
 the_AT0
 Palace_NN1
 of_PRF
-Nineveh_NP0-NN1
+Nineveh_NP0
 Its_DPS
 200-foot-long_AJ0
 waiting-room_NN1
@@ -31060,7 +31060,7 @@ Across_PRP
 the_AT0
 Hooghly_NP0
 at_PRP
-Howrah_NP0-NN1
+Howrah_NP0
 the_AT0
 East_NN1
 India_NP0
@@ -31069,7 +31069,7 @@ often_AV0
 described_VVN
 as_CJS
 the_AT0
-premier_AJ0-NN1
+premier_NN1
 railway_NN1
 company_NN1
 of_PRF
@@ -31093,7 +31093,7 @@ line_NN1
 was_VBD
 opened_VVD
 from_PRP
-Howrah_NP0-NN1
+Howrah_NP0
 there_EX0
 had_VHD
 only_AV0
@@ -31117,7 +31117,7 @@ designed_VVN
 a_AT0
 station_NN1
 in_PRP
-redbrick_NN1-VVB
+redbrick_NN1
 gigantism_NN1
 providing_VVG
 a_AT0
@@ -31143,7 +31143,7 @@ of_PRF
 Tibetan_AJ0
 monastic_AJ0
 and_CJC
-English_AJ0-NN1
+English_AJ0
 penal_AJ0
 with_PRP
 both_AV0
@@ -31208,7 +31208,7 @@ domes_NN2
 Open_AJ0
 balustraded_VVD
 verandas_NN2
-intruded_VVD
+intruded_VVN
 at_PRP
 every_AT0
 level_NN1
@@ -31355,7 +31355,7 @@ powerful_AJ0
 crenellated_AJ0
 towers_NN2
 at_PRP
-Mooltan_NP0-NN1
+Mooltan_NP0
 where_AVQ
 a_AT0
 lighter_AJC
@@ -31364,9 +31364,9 @@ was_VBD
 produced_VVN
 by_PRP
 beautiful_AJ0
-arcading_NN1-VVG
+arcading_NN1
 stone_NN1
-lattice-work_AJ0-NN1
+lattice-work_NN1
 long_AJ0
 balustrades_NN2
 on_PRP
@@ -31378,7 +31378,7 @@ by_PRP
 chatrio_NN1
 and_CJC
 at_PRP
-Khargpur_NP0-NN1
+Khargpur_NN1
 where_AVQ
 the_AT0
 central_AJ0
@@ -31389,7 +31389,7 @@ by_PRP
 a_AT0
 tower_NN1
 At_PRP
-Ahmednagar_NP0-NN1
+Ahmednagar_NP0
 the_AT0
 massive_AJ0
 effect_NN1
@@ -31469,7 +31469,7 @@ or_CJC
 shed_NN1
 with_PRP
 a_AT0
-stand-pipe_NN1-AJ0
+stand-pipe_NN1
 outside_PRP
 were_VBD
 all_DT0
@@ -31498,7 +31498,7 @@ stations_NN2
 a_AT0
 sort_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 country_NN1
 style_NN1
 was_VBD
@@ -31523,8 +31523,8 @@ case_NN1
 at_PRP
 Simla_NP0
 Darjeeling_NP0
-Solan_NP0-NN1
-Coonoor_NP0-NN1
+Solan_NP0
+Coonoor_NN1
 and_CJC
 Ootacamund_NP0
 They_PNP
@@ -31649,14 +31649,14 @@ local_AJ0
 styles_NN2
 Many_DT0
 in_PRP
-Rajputana_NP0-NN1
+Rajputana_NP0
 at_PRP
-Jaipur_NP0-NN1
+Jaipur_NP0
 Jodhpur_NP0
-Ajmer_NP0-NN1
+Ajmer_NP0
 Udaipur_NP0
 incorporated_VVN
-Rajput_NN1-NP0
+Rajput_NN1
 motifs_NN2
 or_CJC
 were_VBD
@@ -31672,7 +31672,7 @@ Deccan_NN1
 developed_VVN
 a_AT0
 distinctively_AV0
-four-square_AJ0-NN1
+four-square_AJ0
 stone-built_AJ0
 style_NN1
 Both_DT0
@@ -31732,11 +31732,11 @@ miniature_AJ0
 stone-built_AJ0
 with_PRP
 strongly_AV0
-accented_VVD-AJ0
+accented_AJ0
 quoins_NN2
 and_CJC
 heavy_AJ0
-arcading_NN1-VVG
+arcading_NN1
 often_AV0
 relieved_AJ0
 by_PRP
@@ -31753,16 +31753,16 @@ brackets_NN2
 and_CJC
 lamps_NN2
 At_PRP
-Junagadh_NP0-NN1
+Junagadh_NN1
 in_PRP
-Gujarat_NP0-NN1
+Gujarat_NP0
 a_AT0
 beautiful_AJ0
-country-style_AJ0-NN1
+country-style_AJ0
 station_NN1
 with_PRP
 deep_AJ0
-pitched_AJ0
+pitched_VVD
 roofs_NN2
 and_CJC
 elaborate_AJ0
@@ -31820,8 +31820,8 @@ So_AV0
 fascinated_VVN
 was_VBD
 the_AT0
-Maharaja_NP0-NN1
-Scindia_NP0-NN1
+Maharaja_NP0
+Scindia_NN1
 of_PRF
 Gwalior_NP0
 with_PRP
@@ -31882,7 +31882,7 @@ built_VVN
 in_PRP
 the_AT0
 Lucknow_NP0
-Agra_NP0-NN1
+Agra_NP0
 area_NN1
 often_AV0
 as_CJS
@@ -31893,7 +31893,7 @@ platform_NN1
 stations_NN2
 with_PRP
 an_AT0
-overall_AJ0-NN1
+overall_AJ0
 roof_NN1
 framed_VVN
 by_PRP
@@ -32012,7 +32012,7 @@ Lucknow_NP0
 in_PRP
 1926_CRD
 and_CJC
-Kanpur_NP0-NN1
+Kanpur_NN1
 Cawnpore_NP0
 in_PRP
 1928_CRD
@@ -32021,7 +32021,7 @@ long_AJ0
 fa\xc3\xa7ades_NN2
 of_PRF
 these_DT0
-redbrick_NN1-VVB
+redbrick_NN1
 buildings_NN2
 were_VBD
 adorned_VVN
@@ -32049,13 +32049,13 @@ open_AJ0
 towers_NN2
 adorned_VVN
 with_PRP
-lattice-work_AJ0-NN1
+lattice-work_NN1
 and_CJC
 capped_VVN
 by_PRP
 domes_NN2
 of_PRF
-varying_AJ0-VVG
+varying_AJ0
 sizes_NN2
 This_DT0
 was_VBD
@@ -32077,7 +32077,7 @@ India_NP0
 what_DTQ
 the_AT0
 Spanish_AJ0
-mission-station_AJ0-NN1
+mission-station_NN1
 style_NN1
 was_VBD
 to_TO0
@@ -32100,7 +32100,7 @@ were_VBD
 built_VVN
 in_PRP
 international_AJ0
-concrete_AJ0-NN1
+concrete_AJ0
 style_NN1
 In_PRP
 1928_CRD
@@ -32128,10 +32128,10 @@ by_PRP
 shop-fronts_NN2
 The_AT0
 old_AJ0
-Colaba_NN1-NP0
+Colaba_NN1
 station_NN1
 was_VBD
-closed_VVD
+closed_VVN
 in_PRP
 1930_CRD
 when_CJS
@@ -32149,7 +32149,7 @@ by_PRP
 a_AT0
 65_CRD
 ft._NN0
-concrete_AJ0-NN1
+concrete_AJ0
 arch_NN1
 with_PRP
 a_AT0
@@ -32160,7 +32160,7 @@ flanked_VVN
 by_PRP
 offices_NN2
 and_CJC
-retiring_VVG-AJ0
+retiring_VVG
 rooms_NN2
 Its_DPS
 functionalism_NN1
@@ -32194,7 +32194,7 @@ behind_PRP
 to_TO0
 cope_VVI
 with_PRP
-increased_AJ0
+increased_VVN
 long-distance_AJ0
 traffic_NN1
 In_PRP
@@ -32223,7 +32223,7 @@ Lutyens_NP0
 Their_DPS
 original_AJ0
 conception_NN1
-involved_AJ0
+involved_VVN
 a_AT0
 great_AJ0
 railway_NN1
@@ -32263,7 +32263,7 @@ at_PRP
 its_DPS
 head_NN1
 dominating_VVG
-Connaught_NN1-NP0
+Connaught_NN1
 Circus_NN1
 and_CJC
 second_ORD
@@ -32277,8 +32277,8 @@ Viceroy_NN1
 palace_NN1
 on_PRP
 the_AT0
-Raisina_NP0-NN1
-Acropolis_NN1-NP0
+Raisina_NN1
+Acropolis_NP0
 at_PRP
 the_AT0
 head_NN1
@@ -32306,7 +32306,7 @@ a_AT0
 functional_AJ0
 monstrosity_NN1
 in_PRP
-concrete_AJ0-NN1
+concrete_AJ0
 and_CJC
 steel_NN1
 Delhi_NP0
@@ -32339,11 +32339,11 @@ Junction_NN1
 had_VHD
 a_AT0
 long_AJ0
-curving_VVG
+curving_AJ0
 double-arcaded_AJ0
 front_NN1
 in_PRP
-redbrick_NN1-VVB
+redbrick_NN1
 Eurasian_AJ0
 Gothic_AJ0
 with_PRP
@@ -32416,7 +32416,7 @@ low_AJ0
 colonial_AJ0
 station_NN1
 at_PRP
-Surat_NP0-NN1
+Surat_NP0
 was_VBD
 demolished_VVN
 in_PRP
@@ -32424,7 +32424,7 @@ favour_NN1
 of_PRF
 a_AT0
 modern_AJ0
-office-block_AJ0-NN1
+office-block_AJ0
 style_NN1
 station_NN1
 New_AJ0
@@ -32436,7 +32436,7 @@ since_CJS
 independence_NN1
 at_PRP
 Jodhpur_NP0
-Siliguri_NP0-NN1
+Siliguri_NP0
 and_CJC
 Baroda_NP0
 among_PRP
@@ -32458,7 +32458,7 @@ Corbusier_NN1
 for_PRP
 the_AT0
 New_AJ0
-Punjabi_NN1-AJ0
+Punjabi_AJ0
 capital_NN1
 at_PRP
 Chandigarh_NP0
@@ -32491,14 +32491,14 @@ stations_NN2
 conveyed_VVN
 the_AT0
 confident_AJ0
-self-assurance_NN1-AJ0
+self-assurance_NN1
 or_CJC
 whimsy_NN1
 of_PRF
 their_DPS
 distinguished_AJ0
 predecessors_NN2
-Independent_AJ0
+Independent_NN1
 India_NP0
 has_VHZ
 been_VBN
@@ -32665,7 +32665,7 @@ built_VVN
 as_CJS
 far_AV0
 as_CJS
-Ramaswaram_NP0-NN1
+Ramaswaram_NN1
 and_CJC
 then_AV0
 connected_VVN
@@ -32742,7 +32742,7 @@ There_EX0
 was_VBD
 usually_AV0
 a_AT0
-two-storey_AJ0-NN1
+two-storey_AJ0
 building_NN1
 with_PRP
 a_AT0
@@ -32762,11 +32762,11 @@ open_AJ0
 staircase_NN1
 Fine_AJ0
 lamps_NN2
-English_AJ0-NN1
-rural-style_AJ0-NN1
+English_AJ0
+rural-style_AJ0
 fencing_NN1
 and_CJC
-lattice-work_AJ0-NN1
+lattice-work_NN1
 round_AVP
 the_AT0
 veranda_NN1
@@ -32775,7 +32775,7 @@ stairs_NN2
 created_VVN
 a_AT0
 pleasingly_AV0
-English_AJ0-NN1
+English_AJ0
 colonial_AJ0
 form_NN1
 Flowers_NN2
@@ -32802,7 +32802,7 @@ Doric_AJ0
 columns_NN2
 as_CJS
 at_PRP
-Negombo_NP0-NN1
+Negombo_NN1
 A_AT0
 few_DT0
 were_VBD
@@ -32815,9 +32815,9 @@ or_CJC
 tile_NN1
 roofs_NN2
 Henry_NP0
-Cave_NP0-NN1
+Cave_NP0
 's_POS
-Guide_NN1-VVB
+Guide_NN1
 to_TO0
 the_AT0
 island_NN1
@@ -32849,7 +32849,7 @@ distinct_AJ0
 efforts_NN2
 to_TO0
 reproduce_VVI
-English_AJ0-NN1
+English_AJ0
 country_NN1
 stations_NN2
 They_PNP
@@ -32963,7 +32963,7 @@ by_PRP
 beautiful_AJ0
 ironwork_NN1
 but_CJC
-overall_AJ0-NN1
+overall_AJ0
 the_AT0
 station_NN1
 fitted_VVN
@@ -32981,7 +32981,7 @@ for_PRP
 many_DT0
 years_NN2
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 mode_NN1
 of_PRF
 transport_NN1
@@ -32999,7 +32999,7 @@ was_VBD
 developed_VVN
 as_CJS
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 Colombo_NP0
 station_NN1
 The_AT0
@@ -33123,7 +33123,7 @@ at_PRP
 Woodlands_NP0
 Station_NN1
 an_AT0
-English_AJ0-NN1
+English_AJ0
 country_NN1
 station_NN1
 to_TO0
@@ -33135,7 +33135,7 @@ low_AJ0
 with_PRP
 overhanging_AJ0
 eaves_NN2
-barge-boarding_NN1-AJ0
+barge-boarding_NN1
 and_CJC
 fine_AJ0
 lamps_NN2
@@ -33148,7 +33148,7 @@ to_TO0
 the_AT0
 state_NN1
 of_PRF
-Johore_NN1-NP0
+Johore_NN1
 in_PRP
 Malaya_NP0
 by_PRP
@@ -33227,7 +33227,7 @@ roof_NN1
 and_CJC
 decorated_VVN
 with_PRP
-Italian_AJ0-NN1
+Italian_AJ0
 mosaics_NN2
 depicting_VVG
 aspects_NN2
@@ -33271,7 +33271,7 @@ was_VBD
 completed_VVN
 connecting_VVG
 the_AT0
-rubber_AJ0-NN1
+rubber_AJ0
 plantations_NN2
 to_TO0
 the_AT0
@@ -33280,7 +33280,7 @@ Kuala_NP0
 Lumpur_NP0
 north_NN1
 to_TO0
-Ipoh_NP0-NN1
+Ipoh_NP0
 and_CJC
 Penang_NP0
 and_CJC
@@ -33308,7 +33308,7 @@ at_PRP
 Batu_NP0
 Gajah_NP0
 or_CJC
-Tampin_NN1-NP0
+Tampin_NP0
 to_TO0
 the_AT0
 large_AJ0
@@ -33331,7 +33331,7 @@ in_PRP
 by_PRP
 the_AT0
 alien_AJ0
-rubber_AJ0-NN1
+rubber_AJ0
 which_DTQ
 overran_VVD
 the_AT0
@@ -33372,7 +33372,7 @@ what_DTQ
 seemed_VVD
 like_PRP
 a_AT0
-cross_VVI
+cross_NN1
 between_PRP
 an_AT0
 extravagant_AJ0
@@ -33409,7 +33409,7 @@ local_AJ0
 architectural_AJ0
 forms_NN2
 At_PRP
-Ipoh_NP0-NN1
+Ipoh_NP0
 the_AT0
 capital_NN1
 of_PRF
@@ -33470,7 +33470,7 @@ the_AT0
 trains_NN2
 left_VVN
 from_PRP
-Prai_NP0-NN1
+Prai_NP0
 on_PRP
 the_AT0
 mainland_NN1
@@ -33512,7 +33512,7 @@ Hin_NP0
 adopted_VVN
 a_AT0
 local_AJ0
-multi-roofed_AJ0-NN1
+multi-roofed_NN1
 pagoda_NN1
 style_NN1
 If_CJS
@@ -33649,7 +33649,7 @@ replaced_VVN
 by_PRP
 a_AT0
 soulless_AJ0
-concrete_AJ0-NN1
+concrete_AJ0
 and_CJC
 glass_NN1
 structure_NN1
@@ -33672,7 +33672,7 @@ pedestrians_NN2
 being_VBG
 a_AT0
 considerable_AJ0
-walk_VVI
+walk_NN1
 from_PRP
 the_AT0
 ferries_NN2
@@ -33791,10 +33791,10 @@ convict_NN1
 and_CJC
 forced_VVN
 labour_NN1
-Revolt_NN1-VVB
+Revolt_NN1
 between_PRP
 the_AT0
-Aral_NN1-AJ0
+Aral_AJ0
 and_CJC
 Caspian_NP0
 seas_NN2
@@ -33834,7 +33834,7 @@ up_AVP
 to_TO0
 a_AT0
 Euphrates_NP0
-Valley_NN1-NP0
+Valley_NN1
 railway_NN1
 which_DTQ
 would_VM0
@@ -33856,7 +33856,7 @@ Russians_NN2
 could_VM0
 reach_VVI
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 and_CJC
 at_PRP
 one_CRD
@@ -33889,9 +33889,9 @@ Central_AJ0
 Asian_AJ0
 line_NN1
 to_TO0
-Herat_NP0-NN1
+Herat_NP0
 and_CJC
-Kandahar_NP0-NN1
+Kandahar_NN1
 and_CJC
 on_PRP
 to_TO0
@@ -34030,7 +34030,7 @@ or_CJC
 miles_NN2
 for_PRP
 the_AT0
-never-completed_AJ0-NN1
+never-completed_AJ0
 Cape_NP0
 to_TO0
 Cairo_NP0
@@ -34129,7 +34129,7 @@ the_AT0
 Urals_NP0
 by_PRP
 1874_CRD
-Perm_VVB-NN1
+Perm_VVB
 to_TO0
 Ekaterinburg_NP0
 was_VBD
@@ -34261,7 +34261,7 @@ United_NP0
 States_NP0
 or_CJC
 Canada_NP0
-Khabarovsk_NN1-NP0
+Khabarovsk_NN1
 was_VBD
 reached_VVD
 from_PRP
@@ -34314,7 +34314,7 @@ the_AT0
 Trans-Baikal_NP0
 railway_NN1
 to_TO0
-Sretensk_NP0-NN1
+Sretensk_NN1
 was_VBD
 completed_VVN
 The_AT0
@@ -34486,7 +34486,7 @@ In_PRP
 1888_CRD
 Curzon_NP0
 found_VVD
-station-building_NN1-AJ0
+station-building_NN1
 activity_NN1
 going_VVG
 on_PRP
@@ -34509,7 +34509,7 @@ styles_NN2
 used_VVN
 and_CJC
 their_DPS
-relative_AJ0-NN1
+relative_AJ0
 paucity_NN1
 over_PRP
 vast_AJ0
@@ -34583,7 +34583,7 @@ shanties_NN2
 a_AT0
 few_DT0
 planks_NN2
-half-buried_NN1-AJ0
+half-buried_NN1
 in_PRP
 the_AT0
 sands_NN2
@@ -34666,7 +34666,7 @@ graced_VVN
 with_PRP
 powerfully_AV0
 squat_AJ0
-four-square_AJ0-NN1
+four-square_AJ0
 stone-built_AJ0
 stations_NN2
 perfectly_AV0
@@ -34825,7 +34825,7 @@ arches_NN2
 were_VBD
 built_VVN
 at_PRP
-Petropavlosk_NP0-NN1
+Petropavlosk_NP0
 Zlatoust_NP0
 and_CJC
 Kurgan_NP0
@@ -34837,7 +34837,7 @@ at_PRP
 Omsk_NP0
 II_CRD
 At_PRP
-Tayga_NN1-NP0
+Tayga_NP0
 III_CRD
 the_AT0
 junction_NN1
@@ -34880,7 +34880,7 @@ dormer_NN1
 windows_NN2
 and_CJC
 a_AT0
-flag-pole_NN1-AJ0
+flag-pole_NN1
 on_PRP
 its_DPS
 front_NN1
@@ -35012,7 +35012,7 @@ towers_NN2
 domes_NN2
 and_CJC
 crosses_VVZ
-Tayga_NN1-NP0
+Tayga_NP0
 Tatarskaya_NP0
 Isil-Kul_NP0
 and_CJC
@@ -35046,7 +35046,7 @@ its_DPS
 own_DT0
 elaboration_NN1
 At_PRP
-Oyash_NP0-NN1
+Oyash_NP0
 50_CRD
 miles_NN2
 north-east_NN1
@@ -35060,10 +35060,10 @@ with_PRP
 a_AT0
 distinctly_AV0
 Orientalist_AJ0
-feel_VVI
+feel_VVB
 to_TO0
 its_DPS
-carved_AJ0
+carved_VVN
 wooden_AJ0
 decoration_NN1
 was_VBD
@@ -35122,7 +35122,7 @@ blocks_NN2
 with_PRP
 connecting_VVG
 wings_NN2
-Tayga_NN1-NP0
+Tayga_NP0
 's_POS
 wooden_AJ0
 station_NN1
@@ -35139,14 +35139,14 @@ elaborate_AJ0
 lamps_NN2
 The_AT0
 American_AJ0
-Harmon_NP0-NN1
-Tupper_NP0-NN1
+Harmon_NN1
+Tupper_NN1
 found_VVD
 two_CRD
 stations_NN2
 coexisting_VVG
 at_PRP
-Mariinsk_NP0-NN1
+Mariinsk_NN1
 in_PRP
 the_AT0
 1960s_CRD
@@ -35206,7 +35206,7 @@ stations_NN2
 still_AV0
 surviving_AJ0
 Near_PRP
-Sverdlovsk_NP0-NN1
+Sverdlovsk_NP0
 formerly_AV0
 Ekaterinburg_NP0
 he_PNP
@@ -35440,7 +35440,7 @@ keep_VVI
 railway-building_NN1
 after_PRP
 an_AT0
-initial_AJ0-NN1
+initial_AJ0
 concessionary_AJ0
 period_NN1
 firmly_AV0
@@ -35465,7 +35465,7 @@ occurred_VVD
 in_PRP
 the_AT0
 Boxer_NN1
-Rising_VVG-AJ0
+Rising_VVG
 of_PRF
 1900_CRD
 Japanese_AJ0
@@ -35600,7 +35600,7 @@ of_PRF
 Tokyo_NP0
 became_VVD
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 railway_NN1
 centre_NN1
 from_PRP
@@ -35802,7 +35802,7 @@ it_PNP
 is_VBZ
 of_PRF
 the_AT0
-nerve-wasting_AJ0-NN1
+nerve-wasting_NN1
 haste_NN1
 with_PRP
 which_DTQ
@@ -35993,16 +35993,16 @@ as_CJS
 to_TO0
 vie_VVI
 with_PRP
-Howrah_NP0-NN1
+Howrah_NP0
 in_PRP
 Calcutta_NP0
 though_CJS
 other_AJ0
 mainline_NN1
 termini_NN2
-Ueno_NP0-NN1
+Ueno_NP0
 and_CJC
-Shinjuku_NP0-NN1
+Shinjuku_NN1
 survived_VVD
 Tokyo_NP0
 Central_AJ0
@@ -36022,7 +36022,7 @@ was_VBD
 built_VVN
 in_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 style_NN1
 in_PRP
 brick_NN1
@@ -36070,7 +36070,7 @@ train_NN1
 travelled_VVD
 at_PRP
 an_AT0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 12_CRD
 m.p.h._NN0
@@ -36104,7 +36104,7 @@ the_AT0
 Japanese_AJ0
 are_VBB
 at_PRP
-present_AJ0-NN1
+present_AJ0
 constituted_VVD
 accidents_NN2
 to_TO0
@@ -36205,11 +36205,11 @@ survive_VVI
 Their_DPS
 architecture_NN1
 has_VHZ
-faded_AJ0
+faded_VVN
 into_PRP
 unremarkable_AJ0
 modernism_NN1
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 speed_NN1
 rush_NN1
@@ -36575,7 +36575,7 @@ until_CJS
 that_CJT
 the_AT0
 transcontinental_AJ0
-standard-gauge_AJ0-NN1
+standard-gauge_NN1
 line_NN1
 was_VBD
 completed_VVN
@@ -36629,7 +36629,7 @@ the_AT0
 extension_NN1
 of_PRF
 the_AT0
-standard-gauge_AJ0-NN1
+standard-gauge_NN1
 lines_NN2
 and_CJC
 the_AT0
@@ -36744,7 +36744,7 @@ terminus_NN1
 was_VBD
 a_AT0
 fine_AJ0
-one-storey_AJ0-NN1
+one-storey_AJ0
 classical_AJ0
 building_NN1
 with_PRP
@@ -36764,7 +36764,7 @@ and_CJC
 Picton_NP0
 had_VHD
 a_AT0
-four-square_AJ0-NN1
+four-square_AJ0
 strength_NN1
 which_DTQ
 was_VBD
@@ -36772,9 +36772,9 @@ to_TO0
 characterize_VVB
 all_DT0
 Australian_AJ0
-station-building_NN1-AJ0
+station-building_NN1
 At_PRP
-Goulbourn_NP0-NN1
+Goulbourn_NN1
 a_AT0
 large_AJ0
 brick_NN1
@@ -36800,11 +36800,11 @@ and_CJC
 structure_NN1
 with_PRP
 powerful_AJ0
-round-headed_AJ0-NN1
+round-headed_NN1
 arches_NN2
 and_CJC
 long_AJ0
-arcading_NN1-VVG
+arcading_NN1
 on_PRP
 two_CRD
 storeys_NN2
@@ -36931,7 +36931,7 @@ American_AJ0
 stations_NN2
 or_CJC
 of_PRF
-Howrah_NP0-NN1
+Howrah_NP0
 and_CJC
 Tokyo_NP0
 they_PNP
@@ -36980,7 +36980,7 @@ next_ORD
 departures_NN2
 to_TO0
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 destinations_NN2
 At_PRP
 the_AT0
@@ -37089,7 +37089,7 @@ classical_AJ0
 station_NN1
 a_AT0
 massive_AJ0
-four-square_AJ0-NN1
+four-square_AJ0
 structure_NN1
 with_PRP
 Ionic_AJ0
@@ -37109,7 +37109,7 @@ above_PRP
 It_PNP
 was_VBD
 a_AT0
-head-building_NN1-AJ0
+head-building_AJ0
 which_DTQ
 replaced_VVN
 the_AT0
@@ -37168,7 +37168,7 @@ after_PRP
 a_AT0
 competition_NN1
 by_PRP
-Garlick_NP0-NN1
+Garlick_NP0
 and_CJC
 Jackman_NN1
 of_PRF
@@ -37179,7 +37179,7 @@ an_AT0
 interesting_AJ0
 case_NN1
 of_PRF
-station-building_NN1-AJ0
+station-building_NN1
 There_EX0
 was_VBD
 a_AT0
@@ -37274,7 +37274,7 @@ by_PRP
 the_AT0
 time_NN1
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 Australian_AJ0
 stations_NN2
 were_VBD
@@ -37297,7 +37297,7 @@ the_AT0
 design_NN1
 of_PRF
 state_NN1
-capitols_VVZ-NN2
+capitols_NN2
 and_CJC
 ultimately_AV0
 fed_VVN
@@ -37349,7 +37349,7 @@ humble_AJ0
 beginnings_NN2
 in_PRP
 tiny_AJ0
-weather-board_AJ0-NN1
+weather-board_NN1
 stations_NN2
 to_TO0
 the_AT0
@@ -37495,7 +37495,7 @@ station_NN1
 was_VBD
 to_TO0
 imitate_VVI
-English_AJ0-NN1
+English_AJ0
 country_NN1
 practice_NN1
 At_PRP
@@ -37504,7 +37504,7 @@ a_AT0
 station_NN1
 with_PRP
 an_AT0
-overall_AJ0-NN1
+overall_AJ0
 roof_NN1
 and_CJC
 side_NN1
@@ -37675,7 +37675,7 @@ This_DT0
 was_VBD
 George_NP0
 Alexander_NP0
-Troup_NP0-NN1
+Troup_NP0
 later_AV0
 knighted_VVN
 He_PNP
@@ -37745,7 +37745,7 @@ he_PNP
 designed_VVN
 a_AT0
 charming_AJ0
-two-storey_AJ0-NN1
+two-storey_AJ0
 half-timbered_AJ0
 building_NN1
 with_PRP
@@ -37762,7 +37762,7 @@ Marseilles_NP0
 tile_NN1
 roofing_NN1
 and_CJC
-ridging_VVG-NN1
+ridging_NN1
 These_DT0
 stations_NN2
 in_PRP
@@ -37796,7 +37796,7 @@ Zealand_NP0
 at_PRP
 that_CJT
 time_NN1
-Troup_NP0-NN1
+Troup_NP0
 produced_VVN
 his_DPS
 masterpiece_NN1
@@ -37826,7 +37826,7 @@ station_NN1
 which_DTQ
 was_VBD
 the_AT0
-chief_AJ0-NN1
+chief_NN1
 pride_NN1
 of_PRF
 New_AJ0
@@ -38004,7 +38004,7 @@ in_PRP
 1885_CRD
 by_PRP
 a_AT0
-two-storey_AJ0-NN1
+two-storey_AJ0
 classical_AJ0
 building_NN1
 with_PRP
@@ -38213,7 +38213,7 @@ a_AT0
 new_AJ0
 wave_NN1
 of_PRF
-station-building_NN1-AJ0
+station-building_NN1
 At_PRP
 a_AT0
 time_NN1
@@ -38421,7 +38421,7 @@ line_NN1
 was_VBD
 across_PRP
 the_AT0
-Zambezi_NN1-NP0
+Zambezi_NN1
 and_CJC
 crossing_VVG
 Northern_NP0
@@ -38438,7 +38438,7 @@ By_PRP
 that_CJT
 time_NN1
 the_AT0
-French_AJ0-NN1
+French_AJ0
 had_VHD
 already_AV0
 built_VVN
@@ -38486,7 +38486,7 @@ of_PRF
 the_AT0
 upper_AJ0
 Nile_NP0
-French_AJ0-NN1
+French_AJ0
 grandiose_AJ0
 schemes_NN2
 for_PRP
@@ -38517,7 +38517,7 @@ the_AT0
 British_AJ0
 and_CJC
 the_AT0
-French_AJ0-NN1
+French_AJ0
 These_DT0
 were_VBD
 completed_VVN
@@ -38529,7 +38529,7 @@ by_PRP
 which_DTQ
 time_NN1
 the_AT0
-Lobito_NN1-NP0
+Lobito_NN1
 Bay_NN1
 railway_NN1
 in_PRP
@@ -38571,7 +38571,7 @@ new_AJ0
 command_NN1
 in_PRP
 the_AT0
-anti-slavery_AJ0-NN1
+anti-slavery_AJ0
 squadron_NN1
 in_PRP
 1868_CRD
@@ -38659,7 +38659,7 @@ of_PRF
 a_AT0
 European_AJ0
 or_CJC
-Anglican_AJ0-NN1
+Anglican_AJ0
 character_NN1
 than_CJS
 most_AV0
@@ -38687,13 +38687,13 @@ with_PRP
 trains_NN2
 entering_VVG
 an_AT0
-overall_AJ0-NN1
+overall_AJ0
 shed_NN1
-ventilated_VVN-AJ0
+ventilated_VVN
 by_PRP
 open_AJ0
 side_NN1
-arcading_NN1-VVG
+arcading_NN1
 At_PRP
 Cairo_NP0
 Central_AJ0
@@ -38720,7 +38720,7 @@ again_AV0
 covered_VVN
 by_PRP
 an_AT0
-overall_AJ0-NN1
+overall_AJ0
 shed_NN1
 in_PRP
 the_AT0
@@ -38740,7 +38740,7 @@ were_VBD
 self-consciously_AV0
 intrusive_AJ0
 The_AT0
-four-volume_AJ0-NN1
+four-volume_NN1
 work_NN1
 on_PRP
 the_AT0
@@ -38797,11 +38797,11 @@ the_AT0
 look_VVI
 of_PRF
 an_AT0
-English_AJ0-NN1
+English_AJ0
 country_NN1
 or_CJC
 Scottish_AJ0
-Highland_NN1-NP0
+Highland_NN1
 station_NN1
 with_PRP
 the_AT0
@@ -38826,7 +38826,7 @@ two_CRD
 platforms_NN2
 in_PRP
 an_AT0
-overall_AJ0-NN1
+overall_AJ0
 shed_NN1
 affording_VVG
 some_DT0
@@ -38974,7 +38974,7 @@ manner_NN1
 with_PRP
 a_AT0
 fine_AJ0
-overall_AJ0-NN1
+overall_AJ0
 train-shed_NN1
 behind_PRP
 Pretoria_NP0
@@ -39049,7 +39049,7 @@ elegant_AJ0
 buildings_NN2
 sporting_VVG
 beautifully_AV0
-carved_AJ0
+carved_VVN
 woodwork_NN1
 This_DT0
 station_NN1
@@ -39102,7 +39102,7 @@ by_PRP
 then_AV0
 classic_AJ0
 steel_NN1
-concrete_AJ0-NN1
+concrete_AJ0
 and_CJC
 glass_NN1
 concourse_NN1
@@ -39162,7 +39162,7 @@ were_VBD
 developed_VVN
 by_PRP
 the_AT0
-Nationalist_NN1-AJ0
+Nationalist_NN1
 government_NN1
 in_PRP
 the_AT0
@@ -39222,7 +39222,7 @@ long_AJ0
 buildings_NN2
 backed_VVN
 by_PRP
-canopied_AJ0-VVD
+canopied_AJ0
 platforms_NN2
 At_PRP
 many_DT0
@@ -39287,7 +39287,7 @@ was_VBD
 very_AV0
 few_DT0
 single_AJ0
-tracking_VVG
+tracking_AJ0
 was_VBD
 the_AT0
 rule_NN1
@@ -39383,7 +39383,7 @@ The_AT0
 Bulawayo_NP0
 station_NN1
 was_VBD
-remodelled_AJ0-VVN
+remodelled_AJ0
 in_PRP
 1913_CRD
 and_CJC
@@ -39391,7 +39391,7 @@ the_AT0
 building_NN1
 a_AT0
 long_AJ0
-two-storey_AJ0-NN1
+two-storey_AJ0
 range_NN1
 had_VHD
 outer_AJ0
@@ -39444,7 +39444,7 @@ platform_NN1
 and_CJC
 trains_NN2
 from_PRP
-Umtali_NP0-NN1
+Umtali_NN1
 the_AT0
 other_AJ0
 The_AT0
@@ -39542,7 +39542,7 @@ clock-tower_NN1
 was_VBD
 opened_VVD
 at_PRP
-Nakuru_NP0-NN1
+Nakuru_NP0
 an_AT0
 important_AJ0
 junction_NN1
@@ -39584,7 +39584,7 @@ Agents_NN2
 who_PNQ
 were_VBD
 closely_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 their_DPS
 building_NN1
@@ -39634,7 +39634,7 @@ had_VHD
 a_AT0
 hand_NN1
 in_PRP
-station-building_NN1-AJ0
+station-building_NN1
 At_PRP
 Iddo_NP0
 Island_NP0
@@ -39668,7 +39668,7 @@ stone_NN1
 structures_NN2
 with_PRP
 a_AT0
-round-arched_AJ0-NN1
+round-arched_AJ0
 loggia_NN1
 on_PRP
 all_DT0
@@ -39917,7 +39917,7 @@ Both_DT0
 there_EX0
 and_CJC
 at_PRP
-Keetmanshoep_NP0-NN1
+Keetmanshoep_NN1
 the_AT0
 Germans_NN2
 built_VVN
@@ -39936,7 +39936,7 @@ time_NN1
 of_PRF
 war_NN1
 The_AT0
-French_AJ0-NN1
+French_AJ0
 by_PRP
 contrast_NN1
 seldom_AV0
@@ -39964,7 +39964,7 @@ North_NN1
 African_AJ0
 railways_NN2
 by_PRP
-French_AJ0-NN1
+French_AJ0
 companies_NN2
 like_PRP
 the_AT0
@@ -39980,7 +39980,7 @@ local_AJ0
 architectural_AJ0
 styles_NN2
 At_PRP
-Oran_NP0-NN1
+Oran_NP0
 in_PRP
 Algeria_NP0
 the_AT0
@@ -39997,7 +39997,7 @@ for_PRP
 a_AT0
 clock-tower_NN1
 In_PRP
-French_AJ0-NN1
+French_AJ0
 West_NP0
 Africa_NP0
 a_AT0
@@ -40022,7 +40022,7 @@ The_AT0
 railway_NN1
 lines_NN2
 in_PRP
-Portuguese_AJ0-NN1
+Portuguese_AJ0
 territory_NN1
 were_VBD
 built_VVN
@@ -40098,7 +40098,7 @@ Africa_NP0
 and_CJC
 Beira_NP0
 and_CJC
-Lobito_NN1-NP0
+Lobito_NN1
 Bay_NN1
 were_VBD
 the_AT0
@@ -40122,7 +40122,7 @@ settlers_NN2
 and_CJC
 tourists_NN2
 The_AT0
-Portuguese_AJ0-NN1
+Portuguese_AJ0
 Empire_NN1
 which_DTQ
 was_VBD
@@ -40131,7 +40131,7 @@ under_PRP
 threat_NN1
 had_VHD
 to_TO0
-present_AJ0-NN1
+present_AJ0
 a_AT0
 self-confident_AJ0
 face_NN1

@@ -1,6 +1,6 @@
 Approaches_NN2
 to_TO0
-Learning_VVG-NN1
+Learning_NN1
 As_CJS
 you_PNP
 will_VM0
@@ -130,7 +130,7 @@ sequences_NN2
 of_PRF
 the_AT0
 manoeuvres_NN2
-involved_AJ0
+involved_VVN
 What_DTQ
 they_PNP
 do_VDB
@@ -287,7 +287,7 @@ to_TO0
 new_AJ0
 situations_NN2
 if_CJS
-trusted_VVD
+trusted_AJ0
 to_TO0
 learn_VVI
 how_AVQ
@@ -387,7 +387,7 @@ of_PRF
 us_PNP
 is_VBZ
 the_AT0
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 Self_NN1
 2_CRD
@@ -519,12 +519,12 @@ ask_VVI
 them_PNP
 to_TO0
 shout_VVI
-Bounce_VVB-NN1
+Bounce_VVB
 each_DT0
 time_NN1
 the_AT0
 ball_NN1
-bounces_NN2-VVZ
+bounces_NN2
 and_CJC
 Hit_NN1
 each_DT0
@@ -743,7 +743,7 @@ complex_AJ0
 set_VVN
 of_PRF
 movements_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 say_VVI
 gybing_VVG
@@ -799,7 +799,7 @@ and_CJC
 what_DTQ
 factors_NN2
 are_VBB
-involved_AJ0
+involved_VVN
 but_CJC
 the_AT0
 timing_NN1
@@ -857,8 +857,8 @@ teaching_NN1
 yourself_PNX
 Obstacles_NN2
 to_TO0
-Learning_VVG-NN1
-Fear_NN1-VVB
+Learning_NN1
+Fear_NN1
 anxiety_NN1
 tension_NN1
 whatever_DTQ
@@ -966,7 +966,7 @@ forgiving_AJ0
 of_PRF
 mediums_NN2
 to_TO0
-fall_VVI
+fall_NN1
 into_PRP
 Environment_NN1
 The_AT0
@@ -1145,7 +1145,7 @@ the_AT0
 sea_NN1
 you_PNP
 inevitably_AV0
-feel_VVI
+feel_VVB
 more_AV0
 unsafe_AJ0
 than_CJS
@@ -1331,7 +1331,7 @@ slow_AJ0
 and_CJC
 frustrating_AJ0
 In_PRP
-Sail_NN1-VVB
+Sail_VVB
 Race_NN1
 and_CJC
 Win_VVB
@@ -1378,7 +1378,7 @@ spent_VVN
 achieving_VVG
 a_AT0
 mediocre_AJ0
-amateur_AJ0-NN1
+amateur_AJ0
 level_NN1
 The_AT0
 greatest_AJS
@@ -1468,7 +1468,7 @@ separate_AJ0
 hands_NN2
 and_CJC
 at_PRP
-varied_AJ0
+varied_VVN
 rhythms_NN2
 Individual_AJ0
 difficulties_NN2
@@ -1659,7 +1659,7 @@ fruitful_AJ0
 Throughout_PRP
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 a_AT0
 high_AJ0
 speed_NN1
@@ -1732,14 +1732,14 @@ such_DT0
 as_CJS
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 On_PRP
 many_DT0
 occasions_NN2
 I_PNP
 have_VHB
 been_VBN
-exasperated_AJ0
+exasperated_VVN
 by_PRP
 people_NN0
 attempting_VVG
@@ -1764,7 +1764,7 @@ stance_NN1
 harness_NN1
 use_NN1
 and_CJC
-upwind_NN1-VVB
+upwind_NN1
 ability_NN1
 you_PNP
 will_VM0
@@ -1813,7 +1813,7 @@ own_DT0
 level_NN1
 The_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 appears_VVZ
 as_CJS
 one_CRD
@@ -1828,7 +1828,7 @@ before_PRP
 attempting_VVG
 to_TO0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 you_PNP
 should_VM0
 be_VBI
@@ -1861,10 +1861,10 @@ run_VVI
 before_PRP
 you_PNP
 can_VM0
-walk_VVI
+walk_NN1
 The_AT0
 Reaching_VVG
-Trap_NN1-VVB
+Trap_VVB
 For_PRP
 many_DT0
 beginners_NN2
@@ -1980,7 +1980,7 @@ a_AT0
 few_DT0
 hundred_CRD
 metres_NN2
-upwind_NN1-VVB
+upwind_NN1
 as_CJS
 a_AT0
 target_NN1
@@ -2008,7 +2008,7 @@ learn_VVI
 how_AVQ
 to_TO0
 sail_NN1
-upwind_NN1-VVB
+upwind_NN1
 do_VDB
 n't_XX0
 have_VHB
@@ -2063,7 +2063,7 @@ to_TO0
 see_VVI
 how_AVQ
 far_AV0
-upwind_NN1-VVB
+upwind_NN1
 you_PNP
 can_VM0
 sail_NN1
@@ -2127,7 +2127,7 @@ are_VBB
 so_AV0
 many_DT0
 variables_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 sailing_VVG
 a_AT0
@@ -2188,7 +2188,7 @@ to_TO0
 learn_VVI
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 I_PNP
 can_VM0
 vividly_AV0
@@ -2307,7 +2307,7 @@ n't_XX0
 change_NN1
 the_AT0
 rig_NN1
-fast_AV0-AJ0
+fast_AJ0
 enough_AV0
 so_AV0
 then_AV0
@@ -2406,7 +2406,7 @@ windsurfing_NN1
 theory_NN1
 In_PRP
 my_DPS
-gybe_NN1-VVB
+gybe_NN1
 it_PNP
 seemed_VVD
 that_CJT
@@ -2475,7 +2475,7 @@ digging_VVG
 in_PRP
 too_AV0
 much_DT0
-Copying_VVG-NN1
+Copying_VVG
 Observation_NN1
 By_PRP
 watching_VVG
@@ -2527,7 +2527,7 @@ something_PNI
 like_PRP
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 Perhaps_AV0
 the_AT0
 greatest_AJS
@@ -2554,7 +2554,7 @@ examined_VVN
 On_PRP
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 you_PNP
 can_VM0
 note_NN1
@@ -2569,7 +2569,7 @@ extent_NN1
 of_PRF
 the_AT0
 knee_NN1
-bend_VVI
+bend_NN1
 and_CJC
 the_AT0
 rig_NN1
@@ -2593,7 +2593,7 @@ manoeuvre_NN1
 In_PRP
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 this_DT0
 is_VBZ
 a_AT0
@@ -2727,12 +2727,12 @@ people_NN0
 in_PRP
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 rather_AV0
 than_CJS
 simply_AV0
 say_VVI
-Bend_NN1-VVB
+Bend_NN1
 zee_NN1
 knees_NN2
 which_DTQ
@@ -2818,7 +2818,7 @@ anything_PNI
 about_PRP
 why_AVQ
 we_PNP
-fall_VVI
+fall_NN1
 There_EX0
 is_VBZ
 a_AT0
@@ -2901,7 +2901,7 @@ All_DT0
 in_PRP
 the_AT0
 Mind_VVB
-Learning_VVG-NN1
+Learning_NN1
 a_AT0
 skill_NN1
 is_VBZ
@@ -2909,7 +2909,7 @@ in_PRP
 fact_NN1
 a_AT0
 fairly_AV0
-subconscious_AJ0-NN1
+subconscious_NN1
 process_NN1
 By_PRP
 practising_VVG
@@ -2918,10 +2918,10 @@ skill_NN1
 we_PNP
 show_VVI
 the_AT0
-subconscious_AJ0-NN1
+subconscious_NN1
 what_DTQ
 is_VBZ
-involved_AJ0
+involved_VVN
 and_CJC
 allow_VVI
 it_PNP
@@ -3001,13 +3001,13 @@ difficult_AJ0
 to_TO0
 lose_VVI
 later_AV0
-Day-dreaming_VVG-NN1
+Day-dreaming_NN1
 It_PNP
 might_VM0
 seem_VVI
 surprising_AJ0
 but_CJC
-day-dreaming_VVG-AJ0
+day-dreaming_VVG
 can_VM0
 actually_AV0
 be_VBI
@@ -3025,7 +3025,7 @@ that_CJT
 perfect_AJ0
 smooth_AJ0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 you_PNP
 made_VVN
 you_PNP
@@ -3050,7 +3050,7 @@ and_CJC
 what_DTQ
 movements_NN2
 were_VBD
-involved_AJ0
+involved_VVN
 the_AT0
 better_AJC
 Mental_AJ0
@@ -3083,7 +3083,7 @@ competitive_AJ0
 sphere_NN1
 as_CJS
 David_NP0
-Hemery_NP0-NN1
+Hemery_NN1
 reports_NN2
 in_PRP
 The_AT0
@@ -3168,7 +3168,7 @@ prepare_VVI
 for_PRP
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 think_VVB
 your_DPS
 way_NN1
@@ -3364,7 +3364,7 @@ of_PRF
 boards_NN2
 produced_VVN
 today_AV0
-fall_VVI
+fall_NN1
 under_PRP
 the_AT0
 blanket_NN1
@@ -3412,7 +3412,7 @@ types_NN2
 of_PRF
 funboard_NN1
 More_AV0
-specialist_NN1-AJ0
+specialist_NN1
 types_NN2
 of_PRF
 board_NN1
@@ -3472,11 +3472,11 @@ are_VBB
 made_VVN
 by_PRP
 Bic_NP0
-Fanatic_AJ0-NN1
+Fanatic_NN1
 and_CJC
 Alpha_NN1
 All-round_AJ0
-Funboard_NN1-NP0
+Funboard_NN1
 This_DT0
 category_NN1
 has_VHZ
@@ -3489,7 +3489,7 @@ in_PRP
 it_PNP
 with_PRP
 boards_NN2
-varying_AJ0-VVG
+varying_AJ0
 in_PRP
 length_NN1
 from_PRP
@@ -3593,7 +3593,7 @@ is_VBZ
 still_AV0
 possible_AJ0
 The_AT0
-Slalom_VVB-NN1
+Slalom_NN1
 or_CJC
 290_CRD
 As_CJS
@@ -3646,7 +3646,7 @@ board_NN1
 since_CJS
 it_PNP
 is_VBZ
-fast_AV0-AJ0
+fast_AJ0
 and_CJC
 its_DPS
 size_NN1
@@ -3690,10 +3690,10 @@ foam_NN1
 blocks_NN2
 covered_VVN
 in_PRP
-glassfibre_NN1-AJ0
+glassfibre_NN1
 Types_NN2
 of_PRF
-Sail_NN1-VVB
+Sail_VVB
 There_EX0
 has_VHZ
 also_AV0
@@ -3767,7 +3767,7 @@ available_AJ0
 today_AV0
 Beginner_NN1
 's_POS
-Sail_NN1-VVB
+Sail_VVB
 Fig_NN1
 3_CRD
 This_DT0
@@ -3830,7 +3830,7 @@ if_CJS
 any_DT0
 battens_NN2
 Recreational_AJ0
-Sail_NN1-VVB
+Sail_VVB
 Fig_NN1
 4_CRD
 This_DT0
@@ -3842,7 +3842,7 @@ compromise_NN1
 between_PRP
 the_AT0
 two_CRD
-specialist_NN1-AJ0
+specialist_NN1
 sails_NN2
 mentioned_VVN
 below_AV0
@@ -3894,7 +3894,7 @@ giving_VVG
 it_PNP
 a_AT0
 softer_AJC
-feel_VVI
+feel_VVB
 when_CJS
 sailing_VVG
 This_DT0
@@ -3910,7 +3910,7 @@ and_CJC
 strong_AJ0
 winds_NN2
 Race_NN1
-Sail_NN1-VVB
+Sail_VVB
 Fig_NN1
 5_CRD
 Obviously_AV0
@@ -3924,7 +3924,7 @@ sail_NN1
 is_VBZ
 to_TO0
 be_VBI
-fast_AV0-AJ0
+fast_AJ0
 This_DT0
 is_VBZ
 achieved_VVN
@@ -4019,8 +4019,8 @@ to_TO0
 7.5_CRD
 sq_NN0
 m_ZZ0
-Wave_NN1-VVB
-Sail_NN1-VVB
+Wave_NN1
+Sail_VVB
 Fig_NN1
 6_CRD
 This_DT0
@@ -4109,7 +4109,7 @@ set_VVN
 soft_AJ0
 if_CJS
 desired_AJ0
-Wave_NN1-VVB
+Wave_NN1
 sails_NN2
 range_NN1
 from_PRP
@@ -4121,13 +4121,13 @@ m_ZZ0
 A_AT0
 NEWCOMER_NN1
 'S_POS
-GUIDE_NN1-VVB
+GUIDE_NN1
 TO_PRP
 BUYING_VVG
 EQUIPMENT_NN1
 When_CJS
 you_PNP
-walk_VVI
+walk_NN1
 into_PRP
 a_AT0
 windsurfing_NN1
@@ -4185,7 +4185,7 @@ The_AT0
 best_AJS
 measure_NN1
 of_PRF
-overall_AJ0-NN1
+overall_AJ0
 size_NN1
 is_VBZ
 the_AT0
@@ -4303,7 +4303,7 @@ on_PRP
 Large_AJ0
 Fully_AV0
 Retracting_VVG
-Daggerboard_NN1-NP0
+Daggerboard_NN1
 Make_VVB
 sure_AJ0
 that_CJT
@@ -4623,7 +4623,7 @@ used_VVN
 once_AV0
 you_PNP
 have_VHB
-improved_AJ0
+improved_VVN
 considerably_AV0
 for_PRP
 example_NN1
@@ -4810,7 +4810,7 @@ movement_NN1
 The_AT0
 recently_AV0
 developed_VVN
-one-piece_AJ0-NN1
+one-piece_AJ0
 steamers_NN2
 are_VBB
 much_DT0
@@ -4851,7 +4851,7 @@ or_CJC
 shoes_NN2
 have_VHB
 soft_AJ0
-rubber_AJ0-NN1
+rubber_AJ0
 soles_NN2
 so_AV0
 your_DPS
@@ -4927,7 +4927,7 @@ than_CJS
 relying_VVG
 on_PRP
 your_DPS
-knot-tying_AJ0-NN1
+knot-tying_AJ0
 ability_NN1
 you_PNP
 can_VM0
@@ -5025,7 +5025,7 @@ than_CJS
 \xc2\xa310_NN0
 There_EX0
 are_VBB
-specialist_NN1-AJ0
+specialist_NN1
 brokers_NN2
 who_PNQ
 deal_NN1
@@ -5313,7 +5313,7 @@ signs_NN2
 of_PRF
 wear_VVI
 and_CJC
-tear_NN1-VVB
+tear_NN1
 WHERE_AVQ
 TO_PRP
 LEARN_VVI
@@ -5418,7 +5418,7 @@ friend_NN1
 teaching_NN1
 you_PNP
 to_TO0
-drive_VVI
+drive_NN1
 the_AT0
 finer_AJC
 points_NN2
@@ -5496,7 +5496,7 @@ and_CJC
 get_VVI
 home_NN1
 again_AV0
-Learning_VVG-NN1
+Learning_NN1
 Abroad_AV0
 A_AT0
 large_AJ0
@@ -5546,7 +5546,7 @@ crowded_AJ0
 beaches_NN2
 with_PRP
 qualified_AJ0
-English_AJ0-NN1
+English_AJ0
 speaking_VVG
 instructors_NN2
 The_AT0
@@ -5728,7 +5728,7 @@ is_VBZ
 tied_VVN
 and_CJC
 lightly_AV0
-tensioned_VVD-VVN
+tensioned_VVN
 to_TO0
 the_AT0
 bottom_NN1
@@ -5755,7 +5755,7 @@ where_AVQ
 it_PNP
 is_VBZ
 not_XX0
-present_AJ0-NN1
+present_AJ0
 you_PNP
 will_VM0
 have_VHB
@@ -5902,7 +5902,7 @@ the_AT0
 webbing_NN1
 strap_NN1
 and_CJC
-buckle_VVI
+buckle_VVB
 With_PRP
 shorter_AJC
 battens_NN2
@@ -5926,7 +5926,7 @@ before_PRP
 the_AT0
 outhaul_NN1
 is_VBZ
-tensioned_VVD-VVN
+tensioned_VVN
 6_CRD
 Having_VHG
 done_VDN
@@ -6148,7 +6148,7 @@ whereas_CJS
 the_AT0
 rig_NN1
 only_AV0
-drifts_NN2-VVZ
+drifts_NN2
 very_AV0
 slowly_AV0
 Finally_AV0
@@ -6216,7 +6216,7 @@ do_VDB
 gallons_NN2
 of_PRF
 water_NN1
-lie_VVI
+lie_VVB
 on_PRP
 the_AT0
 sail_NN1
@@ -6338,7 +6338,7 @@ round_AVP
 and_CJC
 come_VVI
 back_AVP
-Learning_VVG-NN1
+Learning_NN1
 how_AVQ
 to_TO0
 turn_NN1
@@ -6528,7 +6528,7 @@ of_PRF
 the_AT0
 board_NN1
 a_AT0
-tack_VVI
+tack_NN1
 since_CJS
 this_DT0
 will_VM0
@@ -6559,7 +6559,7 @@ of_PRF
 the_AT0
 board_NN1
 a_AT0
-gybe_NN1-VVB
+gybe_NN1
 is_VBZ
 easier_AJC
 it_PNP
@@ -6652,7 +6652,7 @@ in_PRP
 the_AT0
 secure_VVI
 position_NN1
-Grip_VVB-NN1
+Grip_VVB
 on_PRP
 the_AT0
 Boom_NN1
@@ -6735,7 +6735,7 @@ the_AT0
 front_NN1
 foot_NN1
 Rig_NN1
-Position_NN1-VVB
+Position_NN1
 The_AT0
 next_ORD
 step_NN1
@@ -6793,7 +6793,7 @@ through_PRP
 the_AT0
 sail_NN1
 window_NN1
-Sheeting_NN1-VVG
+Sheeting_NN1
 In_PRP
 Applying_VVG
 the_AT0
@@ -6846,7 +6846,7 @@ the_AT0
 imaginary_AJ0
 door_NN1
 is_VBZ
-closed_VVD
+closed_VVN
 the_AT0
 power_NN1
 comes_VVZ
@@ -6935,7 +6935,7 @@ leads_VVZ
 to_TO0
 rapid_AJ0
 progress_NN1
-Balancing_VVG-NN1
+Balancing_NN1
 Keeping_VVG
 your_DPS
 weight_NN1
@@ -6954,7 +6954,7 @@ also_AV0
 stay_VVI
 upright_AV0
 by_PRP
-varying_AJ0-VVG
+varying_AJ0
 the_AT0
 power_NN1
 in_PRP
@@ -7000,7 +7000,7 @@ hand_NN1
 until_CJS
 you_PNP
 have_VHB
-regained_VVD
+regained_VVN
 your_DPS
 composure_NN1
 The_AT0
@@ -7008,7 +7008,7 @@ opposite_AJ0
 applies_VVZ
 if_CJS
 you_PNP
-feel_VVI
+feel_VVB
 yourself_PNX
 falling_VVG
 in_PRP
@@ -7023,7 +7023,7 @@ give_VVI
 yourself_PNX
 more_AV0
 power_NN1
-Steering_AJ0-VVG
+Steering_VVG
 This_DT0
 is_VBZ
 done_VDN
@@ -7069,7 +7069,7 @@ pulled_VVD
 over_PRP
 Therefore_AV0
 a_AT0
-crouched_AJ0
+crouched_VVD
 position_NN1
 should_VM0
 be_VBI
@@ -7125,7 +7125,7 @@ is_VBZ
 far_AV0
 better_AJC
 to_TO0
-fall_VVI
+fall_NN1
 in_PRP
 bringing_VVG
 the_AT0
@@ -7278,7 +7278,7 @@ beginner_NN1
 's_POS
 level_NN1
 The_AT0
-Sail_NN1-VVB
+Sail_VVB
 Figs_NN2
 17_CRD
 &_CJC
@@ -7353,7 +7353,7 @@ enough_AV0
 force_NN1
 on_PRP
 the_AT0
-rubber_AJ0-NN1
+rubber_AJ0
 to_TO0
 support_NN1
 a_AT0
@@ -7451,7 +7451,7 @@ daggerboard_NN1
 can_VM0
 easily_AV0
 resist_VVI
-Sailing_VVG-NN1
+Sailing_VVG
 close_AJ0
 to_TO0
 the_AT0
@@ -7481,7 +7481,7 @@ the_AT0
 board_NN1
 slipping_VVG
 sideways_AV0
-Sailing_VVG-NN1
+Sailing_VVG
 with_PRP
 the_AT0
 wind_NN1
@@ -7515,7 +7515,7 @@ giving_VVG
 the_AT0
 board_NN1
 stability_NN1
-Steering_AJ0-VVG
+Steering_VVG
 By_PRP
 Moving_VVG
 the_AT0
@@ -7536,7 +7536,7 @@ imaginary_AJ0
 centre_NN1
 of_PRF
 effort_NN1
-CE_NN1-NP0
+CE_NP0
 on_PRP
 the_AT0
 sail_NN1
@@ -7576,7 +7576,7 @@ we_PNP
 are_VBB
 moving_VVG
 the_AT0
-CE_NN1-NP0
+CE_NP0
 either_AV0
 side_NN1
 of_PRF
@@ -7598,7 +7598,7 @@ a_AT0
 straight_AV0
 line_NN1
 the_AT0
-CE_NN1-NP0
+CE_NP0
 will_VM0
 be_VBI
 almost_AV0
@@ -7663,7 +7663,7 @@ feet_NN2
 farther_AV0
 back_AVP
 The_AT0
-CE_NN1-NP0
+CE_NP0
 has_VHZ
 moved_VVD
 behind_PRP
@@ -7729,7 +7729,7 @@ usually_AV0
 fail_VVI
 as_CJS
 the_AT0
-CE_NN1-NP0
+CE_NP0
 is_VBZ
 so_AV0
 far_AV0
@@ -7771,7 +7771,7 @@ your_DPS
 technique_NN1
 improves_VVZ
 sufficiently_AV0
-Steering_AJ0-VVG
+Steering_VVG
 Difficulties_NN2
 It_PNP
 should_VM0
@@ -7802,7 +7802,7 @@ which_DTQ
 the_AT0
 board_NN1
 turns_VVZ
-Steering_AJ0-VVG
+Steering_VVG
 difficulties_NN2
 often_AV0
 arise_VVI
@@ -7840,7 +7840,7 @@ enough_AV0
 to_TO0
 get_VVI
 the_AT0
-CE_NN1-NP0
+CE_NP0
 sufficiently_AV0
 behind_PRP
 the_AT0
@@ -7878,7 +7878,7 @@ No-Go_AJ0
 Zone_NN1
 Fig_NN1
 22_CRD
-Sailing_VVG-NN1
+Sailing_VVG
 craft_NN1
 can_VM0
 not_XX0
@@ -7925,7 +7925,7 @@ even_AV0
 blow_NN1
 backwards_AV0
 Progress_NN1
-upwind_NN1-VVB
+upwind_NN1
 can_VM0
 only_AV0
 be_VBI
@@ -8014,7 +8014,7 @@ be_VBI
 large_AJ0
 Fig_NN1
 6_CRD
-Wave_NN1-VVB
+Wave_NN1
 sail_NN1
 commonly_AV0
 used_VVN
@@ -8255,7 +8255,7 @@ is_VBZ
 pulling_VVG
 the_AT0
 door_NN1
-closed_VVD
+closed_VVN
 using_VVG
 the_AT0
 hand_NN1
@@ -8308,13 +8308,13 @@ the_AT0
 board_NN1
 you_PNP
 can_VM0
-lie_VVI
+lie_VVB
 down_AVP
 on_PRP
 the_AT0
 front_NN1
 and_CJC
-paddle_VVI
+paddle_VVB
 back_AVP
 Fig16_UNC
 Another_DT0
@@ -8346,10 +8346,10 @@ board_NN1
 again_AV0
 you_PNP
 can_VM0
-lie_VVI
+lie_VVB
 down_AVP
 and_CJC
-paddle_VVI
+paddle_VVB
 home_NN1
 Both_DT0
 these_DT0
@@ -8366,7 +8366,7 @@ driving_VVG
 force_NN1
 Leeward_AV0
 side_NN1
-fast_AV0-AJ0
+fast_AJ0
 moving_VVG
 air_NN1
 Windward_NP0
@@ -8424,7 +8424,7 @@ D_ZZ0
 acts_NN2
 forwards_AV0
 Fig19_UNC
-Steering_AJ0-VVG
+Steering_VVG
 by_PRP
 inclining_VVG
 the_AT0
@@ -8433,14 +8433,14 @@ forwards_AV0
 or_CJC
 backwards_AV0
 Fig20_UNC
-Steering_AJ0-VVG
+Steering_VVG
 without_PRP
 moving_VVG
 the_AT0
 rig_NN1
 Fig_NN1
 21_CRD
-Steering_AJ0-VVG
+Steering_VVG
 on_PRP
 a_AT0
 run_VVI
@@ -8457,7 +8457,7 @@ of_PRF
 the_AT0
 board_NN1
 the_AT0
-CE_NN1-NP0
+CE_NP0
 is_VBZ
 also_AV0
 moved_VVD
@@ -8497,12 +8497,12 @@ no-go_AJ0
 zone_NN1
 Downwind_AJ0
 sailing_VVG
-Running_NN1-AJ0
+Running_NN1
 Broad_NP0
 reaching_VVG
 Reaching_VVG
-Beating_VVG-NN1
-Upwind_VVB-NN1
+Beating_VVG
+Upwind_NN1
 sailing_VVG
 Improving_VVG
 Techniques_NN2
@@ -8763,7 +8763,7 @@ they_PNP
 should_VM0
 look_VVI
 and_CJC
-feel_VVI
+feel_VVB
 So_AV0
 in_PRP
 the_AT0
@@ -8793,7 +8793,7 @@ his_DPS
 own_DT0
 way_NN1
 Every_AT0
-drill_VVI
+drill_NN1
 or_CJC
 game_NN1
 has_VHZ
@@ -9089,7 +9089,7 @@ like_PRP
 a_AT0
 sore_AJ0
 thumb_NN1
-Sailing_VVG-NN1
+Sailing_VVG
 Stiffly_NP0
 As_CJS
 you_PNP
@@ -9144,7 +9144,7 @@ hands_NN2
 wide_AJ0
 apart_AV0
 and_CJC
-crouched_AJ0
+crouched_VVD
 a_AT0
 bit_NN1
 like_PRP
@@ -9169,7 +9169,7 @@ your_DPS
 own_DT0
 stance_NN1
 and_CJC
-feel_VVI
+feel_VVB
 the_AT0
 benefit_NN1
 of_PRF
@@ -9208,7 +9208,7 @@ positions_NN2
 feels_VVZ
 most_AV0
 comfortable_AJ0
-Balance_NN1-VVB
+Balance_NN1
 Deep_AJ0
 inside_PRP
 our_DPS
@@ -9258,7 +9258,7 @@ overcome_VVI
 before_PRP
 balance_NN1
 is_VBZ
-regained_VVD
+regained_VVN
 Try_VVB
 This_DT0
 Stand_VVB
@@ -9284,7 +9284,7 @@ head_NN1
 slightly_AV0
 Do_VDB
 you_PNP
-notice_VVI
+notice_NN1
 a_AT0
 compensating_AJ0
 reaction_NN1
@@ -9327,7 +9327,7 @@ a_AT0
 rule_NN1
 which_DTQ
 will_VM0
-inhibit_VVI
+inhibit_VVB
 your_DPS
 sailing_VVG
 merely_AV0
@@ -9391,7 +9391,7 @@ is_VBZ
 done_VDN
 completely_AV0
 by_PRP
-feel_VVI
+feel_VVB
 It_PNP
 is_VBZ
 a_AT0
@@ -9443,7 +9443,7 @@ and_CJC
 down_AVP
 the_AT0
 boom_NN1
-Experiment_NN1-VVB
+Experiment_NN1
 with_PRP
 moving_VVG
 the_AT0
@@ -9501,7 +9501,7 @@ Similarly_AV0
 to_TO0
 the_AT0
 hands_NN2
-feel_VVI
+feel_VVB
 the_AT0
 way_NN1
 the_AT0
@@ -9643,7 +9643,7 @@ one_CRD
 hand_NN1
 together_AV0
 Control_NN1
-Freestyle_NN1-NP0
+Freestyle_NP0
 is_VBZ
 an_AT0
 excellent_AJ0
@@ -9713,7 +9713,7 @@ of_PRF
 making_VVG
 someone_PNI
 else_AV0
-fall_VVI
+fall_NN1
 in_PRP
 without_PRP
 even_AV0
@@ -9724,7 +9724,7 @@ if_CJS
 you_PNP
 sail_NN1
 directly_AV0
-upwind_NN1-VVB
+upwind_NN1
 of_PRF
 someone_PNI
 and_CJC
@@ -9748,7 +9748,7 @@ difficult_AJ0
 to_TO0
 sail_NN1
 in_PRP
-Sailing_VVG-NN1
+Sailing_VVG
 inside_PRP
 the_AT0
 Boom_NN1
@@ -9828,7 +9828,7 @@ lower_AJC
 Some_DT0
 people_NN0
 even_AV0
-lie_VVI
+lie_VVB
 on_PRP
 the_AT0
 board_NN1
@@ -9862,18 +9862,18 @@ can_VM0
 sail_NN1
 like_PRP
 this_DT0
-Sailing_VVG-NN1
+Sailing_VVG
 on_PRP
 the_AT0
 Wrong_AJ0
 Side_NN1
 Do_VDB
 a_AT0
-tack_VVI
+tack_NN1
 but_CJC
 do_VDB
 n't_XX0
-walk_VVI
+walk_NN1
 around_PRP
 the_AT0
 front_NN1
@@ -9930,7 +9930,7 @@ sail_NN1
 and_CJC
 pushing_VVG
 Tail_NN1
-Sink_VVB-NN1
+Sink_NN1
 Fig_NN1
 25_CRD
 As_CJS
@@ -9938,7 +9938,7 @@ the_AT0
 name_NN1
 implies_VVZ
 you_PNP
-walk_VVI
+walk_NN1
 towards_PRP
 the_AT0
 back_AVP
@@ -9992,7 +9992,7 @@ board_NN1
 downwind_AV0
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 adventurous_AJ0
 try_VVI
 sailing_VVG
@@ -10005,7 +10005,7 @@ nose_NN1
 sink_NN1
 Pairs_NN2
 Following_VVG
-Sailing_VVG-NN1
+Sailing_VVG
 closely_AV0
 with_PRP
 someone_PNI
@@ -10033,7 +10033,7 @@ need_VVB
 very_AV0
 good_AJ0
 control_NN1
-Tag_VVB-NN1
+Tag_VVB
 This_DT0
 close_AJ0
 following_AJ0
@@ -10096,10 +10096,10 @@ another_DT0
 by_PRP
 doing_VDG
 a_AT0
-tack_VVI
+tack_NN1
 or_CJC
 a_AT0
-gybe_NN1-VVB
+gybe_NN1
 around_PRP
 them_PNP
 it_PNP
@@ -10176,7 +10176,7 @@ behind_PRP
 someone_PNI
 you_PNP
 can_VM0
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 human_AJ0
@@ -10280,8 +10280,8 @@ throughout_PRP
 the_AT0
 manoeuvres_NN2
 The_AT0
-Quick_AJ0-AV0
-Tack_NN1-VVB
+Quick_AJ0
+Tack_VVB
 Figs_NN2
 26_CRD
 to_TO0
@@ -10324,7 +10324,7 @@ maximum_AJ0
 effect_NN1
 from_PRP
 the_AT0
-CE_NN1-NP0
+CE_NP0
 the_AT0
 rig_NN1
 has_VHZ
@@ -10368,7 +10368,7 @@ end_NN1
 of_PRF
 the_AT0
 boom_NN1
-skim_NN1-VVB
+skim_VVB
 the_AT0
 water_NN1
 In_PRP
@@ -10388,7 +10388,7 @@ deliberately_AV0
 sheeting_NN1
 out_AVP
 Body_NN1
-Position_NN1-VVB
+Position_NN1
 The_AT0
 most_AV0
 important_AJ0
@@ -10409,7 +10409,7 @@ as_CJS
 you_PNP
 turn_NN1
 The_AT0
-weighted_AJ0
+weighted_VVN
 back_AVP
 foot_NN1
 should_VM0
@@ -10443,9 +10443,9 @@ round_AVP
 to_TO0
 the_AT0
 new_AJ0
-tack_VVI
+tack_NN1
 The_AT0
-Transfer_VVB-NN1
+Transfer_NN1
 Timing_NN1
 is_VBZ
 critical_AJ0
@@ -10529,11 +10529,11 @@ on_PRP
 to_TO0
 the_AT0
 new_AJ0
-tack_VVI
-Exercise_VVB-NN1
-Experiment_NN1-VVB
+tack_NN1
+Exercise_VVB
+Experiment_NN1
 with_PRP
-varying_AJ0-VVG
+varying_AJ0
 positions_NN2
 and_CJC
 different_AJ0
@@ -10551,8 +10551,8 @@ into_PRP
 the_AT0
 wind_NN1
 The_AT0
-Flare_NN1-VVB
-Gybe_NP0-NN1
+Flare_NN1
+Gybe_NP0
 Figs_NN2
 29_CRD
 to_TO0
@@ -10584,7 +10584,7 @@ rig_NN1
 change_NN1
 The_AT0
 flare_NN1
-gybe_NN1-VVB
+gybe_NN1
 is_VBZ
 the_AT0
 name_NN1
@@ -10596,7 +10596,7 @@ version_NN1
 of_PRF
 the_AT0
 basic_AJ0
-gybe_NN1-VVB
+gybe_NN1
 It_PNP
 is_VBZ
 performed_VVN
@@ -10621,7 +10621,7 @@ confused_AJ0
 with_PRP
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 which_DTQ
 is_VBZ
 used_VVN
@@ -10633,7 +10633,7 @@ the_AT0
 centreboard_NN1
 Initiating_VVG
 the_AT0
-Turn_VVB-NN1
+Turn_VVB
 You_PNP
 should_VM0
 not_XX0
@@ -10685,9 +10685,9 @@ windward_AJ0
 edge_NN1
 and_CJC
 well_AV0
-weighted_AJ0
+weighted_VVN
 The_AT0
-Turn_VVB-NN1
+Turn_VVB
 The_AT0
 rig_NN1
 is_VBZ
@@ -10759,7 +10759,7 @@ it_PNP
 goes_VVZ
 too_AV0
 far_AV0
-Flipping_AJ0
+Flipping_VVG
 the_AT0
 Rig_NN1
 From_PRP
@@ -10823,7 +10823,7 @@ low_AJ0
 when_CJS
 sheeting_NN1
 in_PRP
-Exercise_VVB-NN1
+Exercise_VVB
 A_AT0
 useful_AJ0
 exercise_NN1
@@ -10867,12 +10867,12 @@ back_AVP
 you_PNP
 step_NN1
 THE_AT0
-DAGGERBOARD_NN1-NP0
+DAGGERBOARD_NN1
 AND_CJC
 WEIGHT_NN1
 DISTRIBUTION_NN1
 The_AT0
-Daggerboard_NN1-NP0
+Daggerboard_NN1
 Fig_NN1
 34_CRD
 A_AT0
@@ -10951,7 +10951,7 @@ lead_VVI
 to_TO0
 a_AT0
 capsize_AJ0
-fall_VVI
+fall_NN1
 As_CJS
 the_AT0
 name_NN1
@@ -10971,13 +10971,13 @@ tumble_NN1
 off_AVP
 when_CJS
 sailing_VVG
-fast_AV0-AJ0
+fast_AJ0
 on_PRP
 a_AT0
 reach_VVI
 A_AT0
 capsize_AJ0
-fall_VVI
+fall_NN1
 is_VBZ
 caused_VVN
 by_PRP
@@ -11044,7 +11044,7 @@ on_PRP
 the_AT0
 boom_NN1
 is_VBZ
-transmitted_AJ0-VVN
+transmitted_VVN
 through_PRP
 the_AT0
 mastfoot_NN1
@@ -11064,7 +11064,7 @@ solutions_NN2
 Firstly_AV0
 the_AT0
 weight_NN1
-transmitted_AJ0-VVN
+transmitted_VVN
 through_PRP
 the_AT0
 sailor_NN1
@@ -11132,7 +11132,7 @@ the_AT0
 skeg_NN1
 and_CJC
 rails_NN2
-Upwind_VVB-NN1
+Upwind_NN1
 however_AV0
 the_AT0
 daggerboard_NN1
@@ -11167,7 +11167,7 @@ it_PNP
 also_AV0
 moves_VVZ
 the_AT0
-CE_NN1-NP0
+CE_NP0
 back_AVP
 thus_AV0
 making_VVG
@@ -11193,7 +11193,7 @@ when_CJS
 discussing_VVG
 the_AT0
 flare_NN1
-gybe_NN1-VVB
+gybe_NN1
 By_PRP
 placing_VVG
 your_DPS
@@ -11242,7 +11242,7 @@ is_VBZ
 why_AVQ
 when_CJS
 you_PNP
-tack_VVI
+tack_NN1
 it_PNP
 is_VBZ
 important_AJ0
@@ -11362,7 +11362,7 @@ you_PNP
 can_VM0
 produce_VVI
 by_PRP
-varying_AJ0-VVG
+varying_AJ0
 your_DPS
 position_NN1
 on_PRP
@@ -11409,7 +11409,7 @@ whether_CJS
 it_PNP
 is_VBZ
 a_AT0
-relative_AJ0-NN1
+relative_AJ0
 newcomer_NN1
 's_POS
 first_ORD
@@ -11654,7 +11654,7 @@ to_TO0
 have_VHB
 the_AT0
 ideal_AJ0
-cross-shore_AJ0-NN1
+cross-shore_AJ0
 winds_NN2
 which_DTQ
 enable_VVI
@@ -11752,7 +11752,7 @@ back_AVP
 to_TO0
 the_AT0
 beach_NN1
-drop_VVI
+drop_NN1
 your_DPS
 sail_NN1
 and_CJC
@@ -12073,7 +12073,7 @@ this_DT0
 is_VBZ
 that_CJT
 the_AT0
-outflowing_AJ0-NN1
+outflowing_AJ0
 rivers_NN2
 provide_VVI
 the_AT0
@@ -12224,7 +12224,7 @@ also_AV0
 be_VBI
 useful_AJ0
 Setting_VVG
-Sail_NN1-VVB
+Sail_VVB
 Having_VHG
 arrived_VVD
 there_EX0
@@ -12312,7 +12312,7 @@ to_TO0
 the_AT0
 water_NN1
 1_CRD
-Sail_NN1-VVB
+Sail_VVB
 selection_NN1
 What_DTQ
 size_NN1
@@ -12661,7 +12661,7 @@ you_PNP
 expect_VVI
 to_TO0
 return_NN1
-Sail_NN1-VVB
+Sail_VVB
 with_PRP
 someone_PNI
 else_AV0
@@ -12819,8 +12819,8 @@ the_AT0
 boom_NN1
 Fig_NN1
 26_CRD
-Quick_AJ0-AV0
-tack_VVI
+Quick_AJ0
+tack_NN1
 Head_NN1
 up_AVP
 into_PRP
@@ -12839,7 +12839,7 @@ foot_NN1
 and_CJC
 a_AT0
 low_AJ0
-crouched_AJ0
+crouched_VVD
 position_NN1
 The_AT0
 rig_NN1
@@ -12947,7 +12947,7 @@ way_NN1
 Maintain_VVB
 a_AT0
 low_AJ0
-crouched_AJ0
+crouched_VVD
 position_NN1
 Fig_NN1
 28_CRD
@@ -12957,7 +12957,7 @@ on_PRP
 to_TO0
 the_AT0
 new_AJ0
-tack_VVI
+tack_NN1
 the_AT0
 board_NN1
 is_VBZ
@@ -13004,8 +13004,8 @@ the_AT0
 boom_NN1
 Fig_NN1
 29_CRD
-Flare_NN1-VVB
-Gybe_NP0-NN1
+Flare_NN1
+Gybe_NP0
 The_AT0
 board_NN1
 is_VBZ
@@ -13250,10 +13250,10 @@ Fig_NN1
 34_CRD
 The_AT0
 capsize_AJ0
-fall_VVI
+fall_NN1
 Fig_NN1
 35_CRD
-Steering_AJ0-VVG
+Steering_VVG
 using_VVG
 weight_NN1
 Fig_NN1
@@ -13275,7 +13275,7 @@ to_TO0
 counter_NN1
 the_AT0
 capsize_AJ0
-fall_VVI
+fall_NN1
 Fig_NN1
 37_CRD
 Low_AJ0
@@ -13305,7 +13305,7 @@ positively_AV0
 dangerous_AJ0
 with_PRP
 vicious_AJ0
-dumping_NN1
+dumping_VVG
 waves_NN2
 breaking_VVG
 on_PRP
@@ -13406,7 +13406,7 @@ that_CJT
 the_AT0
 answer_NN1
 must_VM0
-lie_VVI
+lie_VVB
 in_PRP
 a_AT0
 good_AJ0
@@ -13562,7 +13562,7 @@ particular_AJ0
 should_VM0
 be_VBI
 straight_AV0
-Bent_AJ0-VVN
+Bent_AJ0
 arms_NN2
 become_VVI
 tired_AJ0
@@ -13584,13 +13584,13 @@ They_PNP
 should_VM0
 be_VBI
 about_PRP
-shoulder-width_NN1-AJ0
+shoulder-width_NN1
 apart_AV0
 placed_VVN
-equidistant_NN1-AJ0
+equidistant_NN1
 from_PRP
 the_AT0
-CE_NN1-NP0
+CE_NP0
 so_AV0
 that_CJT
 there_EX0
@@ -13623,7 +13623,7 @@ so_AV0
 close_AJ0
 to_TO0
 the_AT0
-CE_NN1-NP0
+CE_NP0
 can_VM0
 not_XX0
 take_VVI
@@ -13659,7 +13659,7 @@ ready_AJ0
 to_TO0
 straighten_VVI
 or_CJC
-bend_VVI
+bend_NN1
 to_TO0
 absorb_VVI
 rough_AJ0
@@ -13695,7 +13695,7 @@ placed_VVN
 wide_AJ0
 apart_AV0
 may_VM0
-feel_VVI
+feel_VVB
 more_AV0
 stable_AJ0
 but_CJC
@@ -13709,7 +13709,7 @@ than_CJS
 leaning_VVG
 OTHER_AJ0
 CONSIDERATIONS_NN2
-Starting_VVG-NN1
+Starting_VVG
 A_AT0
 common_AJ0
 problem_NN1
@@ -13817,7 +13817,7 @@ the_AT0
 apparent_AJ0
 wind_NN1
 you_PNP
-feel_VVI
+feel_VVB
 blows_NN2
 in_PRP
 your_DPS
@@ -13854,7 +13854,7 @@ in_PRP
 a_AT0
 10_CRD
 knot_NN1
-cross-wind_NN1-AJ0
+cross-wind_NN1
 will_VM0
 be_VBI
 a_AT0
@@ -13937,7 +13937,7 @@ Fig_NN1
 42_CRD
 This_DT0
 spectacular_AJ0
-fall_VVI
+fall_NN1
 happens_VVZ
 when_CJS
 a_AT0
@@ -13989,7 +13989,7 @@ on_PRP
 the_AT0
 back_AVP
 foot_NN1
-Land_NP0-NN1
+Land_NN1
 Practice_NN1
 A_AT0
 great_AJ0
@@ -14014,7 +14014,7 @@ position_NN1
 with_PRP
 clear_AJ0
 wind_NN1
-Experiment_NN1-VVB
+Experiment_NN1
 with_PRP
 different_AJ0
 hand_NN1
@@ -14134,14 +14134,14 @@ foot_NN1
 and_CJC
 ankle_NN1
 could_VM0
-slide_VVI
+slide_NN1
 all_DT0
 the_AT0
 way_NN1
 through_PRP
 after_PRP
 a_AT0
-fall_VVI
+fall_NN1
 possible_AJ0
 resulting_VVG
 in_PRP
@@ -14218,7 +14218,7 @@ Strap_NN1
 Positions_NN2
 Fig_NN1
 43_CRD
-Beating_VVG-NN1
+Beating_VVG
 straps_NN2
 are_VBB
 only_AV0
@@ -14330,7 +14330,7 @@ used_VVN
 during_PRP
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 and_CJC
 at_PRP
 the_AT0
@@ -14379,7 +14379,7 @@ the_AT0
 board_NN1
 moving_VVG
 as_CJS
-fast_AV0-AJ0
+fast_AJ0
 as_CJS
 possible_AJ0
 The_AT0
@@ -14408,7 +14408,7 @@ people_NN0
 in_PRP
 order_NN1
 to_TO0
-feel_VVI
+feel_VVB
 more_AV0
 secure_VVI
 make_VVI
@@ -14489,7 +14489,7 @@ the_AT0
 board_NN1
 moving_VVG
 as_CJS
-fast_AV0-AJ0
+fast_AJ0
 as_CJS
 possible_AJ0
 with_PRP
@@ -14686,7 +14686,7 @@ all_DT0
 the_AT0
 weight_NN1
 to_TO0
-fall_VVI
+fall_NN1
 on_PRP
 the_AT0
 windward_AJ0
@@ -14709,7 +14709,7 @@ the_AT0
 board_NN1
 is_VBZ
 planing_VVG
-fast_AV0-AJ0
+fast_AJ0
 With_PRP
 the_AT0
 daggerboard_NN1
@@ -14728,7 +14728,7 @@ behaves_VVZ
 like_PRP
 a_AT0
 surfboard_NN1
-water-ski_NN1-AJ0
+water-ski_NN1
 or_CJC
 skateboard_NN1
 in_PRP
@@ -14806,7 +14806,7 @@ try_VVI
 steering_NN1
 a_AT0
 controlled_VVN
-wiggly_AJ0-AV0
+wiggly_AJ0
 course_NN1
 using_VVG
 your_DPS
@@ -14866,7 +14866,7 @@ you_PNP
 are_VBB
 not_XX0
 travelling_VVG
-fast_AV0-AJ0
+fast_AJ0
 enough_AV0
 or_CJC
 your_DPS
@@ -15051,7 +15051,7 @@ part_NN1
 of_PRF
 it_PNP
 is_VBZ
-strapped_VVN-VVD
+strapped_VVN
 around_PRP
 your_DPS
 backside_NN1
@@ -15162,7 +15162,7 @@ by_PRP
 referring_VVG
 to_TO0
 the_AT0
-CE_NN1-NP0
+CE_NP0
 or_CJC
 balance_NN1
 point_NN1
@@ -15181,7 +15181,7 @@ about_PRP
 to_TO0
 22_CRD
 inches_NN2
-46\xe2\x80\x9356cm_NN1-VVB
+46\xe2\x80\x9356cm_NN1
 from_PRP
 the_AT0
 front_NN1
@@ -15333,7 +15333,7 @@ will_VM0
 encourage_VVI
 a_AT0
 catapult_NN1
-fall_VVI
+fall_NN1
 You_PNP
 can_VM0
 unhook_VVI
@@ -15354,7 +15354,7 @@ allowing_VVG
 the_AT0
 rope_NN1
 to_TO0
-fall_VVI
+fall_NN1
 out_AVP
 of_PRF
 the_AT0
@@ -15387,7 +15387,7 @@ the_AT0
 lines_NN2
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 excess_NN1
 pressure_NN1
 on_PRP
@@ -15554,7 +15554,7 @@ hand_NN1
 on_PRP
 the_AT0
 mast_NN1
-Positioning_NN1-VVG
+Positioning_NN1
 A_AT0
 lot_NN1
 of_PRF
@@ -15727,7 +15727,7 @@ tail_NN1
 causing_VVG
 lots_PNI
 of_PRF
-drag_VVI
+drag_NN1
 Once_AV0
 there_EX0
 is_VBZ
@@ -15830,7 +15830,7 @@ Fig_NN1
 38_CRD
 Here_AV0
 the_AT0
-CE_NN1-NP0
+CE_NP0
 is_VBZ
 marked_VVN
 and_CJC
@@ -15895,7 +15895,7 @@ wind_NN1
 stance_NN1
 hand_NN1
 positions_NN2
-Bent_AJ0-VVN
+Bent_AJ0
 arms_NN2
 with_PRP
 back_AVP
@@ -15906,7 +15906,7 @@ the_AT0
 strain_NN1
 near_PRP
 the_AT0
-CE_NN1-NP0
+CE_NP0
 Straight_AV0
 arms_NN2
 with_PRP
@@ -15917,7 +15917,7 @@ spaced_VVN
 equally_AV0
 about_PRP
 the_AT0
-CE_NN1-NP0
+CE_NP0
 Leaning_VVG
 rather_AV0
 than_CJS
@@ -15984,7 +15984,7 @@ to_TO0
 let_VVB
 your_DPS
 backside_NN1
-drop_VVI
+drop_NN1
 into_PRP
 a_AT0
 sitting_VVG
@@ -16037,7 +16037,7 @@ moving_VVG
 at_PRP
 10_CRD
 knots_NN2
-cross-wind_NN1-AJ0
+cross-wind_NN1
 The_AT0
 resulting_VVG
 apparent_AJ0
@@ -16249,7 +16249,7 @@ harness_NN1
 very_AV0
 difficult_AJ0
 4_CRD
-FUNBOARD_NP0-NN1
+FUNBOARD_NN1
 TECHNIQUE_NN1
 The_AT0
 funboard_NN1
@@ -16304,7 +16304,7 @@ only_AV0
 learn_VVI
 funboard_NN1
 techniques_NN2
-Funboard_NN1-NP0
+Funboard_NN1
 Requirements_NN2
 The_AT0
 following_AJ0
@@ -16407,7 +16407,7 @@ in_PRP
 your_DPS
 mind_NN1
 Mobility_NN1
-Funboard_NN1-NP0
+Funboard_NN1
 sailing_VVG
 by_PRP
 its_DPS
@@ -16454,7 +16454,7 @@ know_VVI
 exactly_AV0
 when_CJS
 to_TO0
-gybe_NN1-VVB
+gybe_NN1
 in_PRP
 choppy_AJ0
 water_NN1
@@ -16512,7 +16512,7 @@ it_PNP
 gives_VVZ
 more_AV0
 forward_AV0
-drive_VVI
+drive_NN1
 whilst_CJS
 sailing_VVG
 and_CJC
@@ -16610,7 +16610,7 @@ the_AT0
 boom_NN1
 which_DTQ
 causes_NN2
-luffing_VVG-AJ0
+luffing_VVG
 problems_NN2
 in_PRP
 the_AT0
@@ -16627,7 +16627,7 @@ speed_NN1
 in_PRP
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 The_AT0
 strong_AJ0
 wind_NN1
@@ -16669,7 +16669,7 @@ other_AJ0
 over_PRP
 with_PRP
 hands_NN2
-clasped_VVN-VVD
+clasped_VVD
 and_CJC
 toes_NN2
 touching_VVG
@@ -16680,7 +16680,7 @@ thing_NN1
 you_PNP
 do_VDB
 is_VBZ
-drop_VVI
+drop_NN1
 your_DPS
 bottom_NN1
 and_CJC
@@ -16854,14 +16854,14 @@ efficient_AJ0
 position_NN1
 THE_AT0
 BEACH_NN1
-START_VVI
+START_NN1
 Figs_NN2
 49_CRD
 to_TO0
 52_CRD
 Key_AJ0
 points_NN2
-Mastfoot_NN1-NP0
+Mastfoot_NP0
 pressure_NN1
 back_AVP
 foot_NN1
@@ -16886,7 +16886,7 @@ board_NN1
 without_PRP
 having_VHG
 to_TO0
-haul_VVI
+haul_NN1
 the_AT0
 sail_NN1
 out_AVP
@@ -16940,7 +16940,7 @@ waterstart_VVI
 Tips_NN2
 Manoeuvring_VVG
 into_PRP
-Position_NN1-VVB
+Position_NN1
 This_DT0
 is_VBZ
 done_VDN
@@ -17108,7 +17108,7 @@ the_AT0
 weight_NN1
 forwards_AV0
 quickly_AV0
-Fault_NN1-VVB
+Fault_NN1
 Finding_VVG
 The_AT0
 board_NN1
@@ -17147,7 +17147,7 @@ on_PRP
 the_AT0
 centreline_NN1
 3_CRD
-Sheeting_NN1-VVG
+Sheeting_NN1
 out_AVP
 as_CJS
 you_PNP
@@ -17192,7 +17192,7 @@ rather_AV0
 than_CJS
 from_PRP
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 quarter_NN1
 2_CRD
 Not_XX0
@@ -17212,7 +17212,7 @@ spilling_VVG
 wind_NN1
 THE_AT0
 WATER_NN1
-START_VVI
+START_NN1
 Of_PRF
 all_DT0
 the_AT0
@@ -17225,7 +17225,7 @@ is_VBZ
 the_AT0
 most_AV0
 highly_AV0
-prized_VVN-AJ0
+prized_AJ0
 as_CJS
 it_PNP
 opens_VVZ
@@ -17307,7 +17307,7 @@ strong_AJ0
 winds_NN2
 after_PRP
 a_AT0
-fall_VVI
+fall_NN1
 since_CJS
 it_PNP
 is_VBZ
@@ -17389,7 +17389,7 @@ Rig_NN1
 Recovery_NN1
 Key_AJ0
 Points_NN2
-Position_NN1-VVB
+Position_NN1
 mast_NN1
 at_PRP
 90_CRD
@@ -17466,7 +17466,7 @@ does_VDZ
 not_XX0
 always_AV0
 conveniently_AV0
-lie_VVI
+lie_VVB
 in_PRP
 this_DT0
 position_NN1
@@ -17625,7 +17625,7 @@ sheeting_NN1
 in_PRP
 and_CJC
 out_AVP
-Fault_NN1-VVB
+Fault_NN1
 Finding_VVG
 The_AT0
 back_AVP
@@ -17678,7 +17678,7 @@ into_PRP
 the_AT0
 wind_NN1
 The_AT0
-Start_VVB-NN1
+Start_NN1
 Figs_NN2
 58_CRD
 to_TO0
@@ -17903,7 +17903,7 @@ on_PRP
 the_AT0
 mast_NN1
 foot_NN1
-Fault_NN1-VVB
+Fault_NN1
 Finding_VVG
 I_PNP
 keep_VVI
@@ -17997,7 +17997,7 @@ its_DPS
 effective_AJ0
 area_NN1
 and_CJC
-slide_VVI
+slide_NN1
 one_CRD
 or_CJC
 both_AV0
@@ -18010,7 +18010,7 @@ lying_VVG
 in_PRP
 the_AT0
 water_NN1
-Exercise_VVB-NN1
+Exercise_VVB
 As_CJS
 mentioned_VVN
 earlier_AJC
@@ -18035,7 +18035,7 @@ you_PNP
 have_VHB
 a_AT0
 gently_AV0
-shelving_VVG-NN1
+shelving_VVG
 beach_NN1
 Another_DT0
 good_AJ0
@@ -18103,8 +18103,8 @@ the_AT0
 mast_NN1
 foot_NN1
 THE_AT0
-CARVE_NN1-VVB
-GYBE_NN1-NP0
+CARVE_NN1
+GYBE_NP0
 Figs_NN2
 62_CRD
 to_TO0
@@ -18206,7 +18206,7 @@ of_PRF
 board_NN1
 will_VM0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 the_AT0
 longer_AV0
 all-round_AJ0
@@ -18254,7 +18254,7 @@ with_PRP
 the_AT0
 basic_AJ0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 on_PRP
 a_AT0
 board_NN1
@@ -18288,7 +18288,7 @@ experts_NN2
 Imagine_VVB
 learning_NN1
 to_TO0
-water-ski_NN1-AJ0
+water-ski_NN1
 on_PRP
 the_AT0
 sea_NN1
@@ -18400,7 +18400,7 @@ the_AT0
 back_AVP
 foot_NN1
 In_PRP
-mid-turn_NN1-VVB
+mid-turn_NN1
 all_DT0
 the_AT0
 weight_NN1
@@ -18436,7 +18436,7 @@ than_CJS
 the_AT0
 heels_NN2
 Body_NN1
-Position_NN1-VVB
+Position_NN1
 Keep_VVB
 those_DT0
 knees_NN2
@@ -18519,7 +18519,7 @@ first_ORD
 part_NN1
 of_PRF
 the_AT0
-gybe_NN1-VVB
+gybe_NN1
 the_AT0
 rest_NN1
 of_PRF
@@ -18625,7 +18625,7 @@ as_CJS
 for_PRP
 the_AT0
 flare_NN1
-gybe_NN1-VVB
+gybe_NN1
 It_PNP
 is_VBZ
 not_XX0
@@ -18666,7 +18666,7 @@ feels_VVZ
 at_PRP
 its_DPS
 lightest_AJS
-Fault_NN1-VVB
+Fault_NN1
 finding_VVG
 The_AT0
 board_NN1
@@ -18771,7 +18771,7 @@ trying_VVG
 to_TO0
 tackle_VVI
 the_AT0
-gybe_NN1-VVB
+gybe_NN1
 as_CJS
 a_AT0
 whole_AJ0
@@ -18825,7 +18825,7 @@ all_DT0
 parts_NN2
 of_PRF
 the_AT0
-gybe_NN1-VVB
+gybe_NN1
 proceed_VVI
 on_PRP
 a_AT0
@@ -18855,7 +18855,7 @@ word_NN1
 do_VDB
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 in_PRP
 flat_AJ0
 water_NN1
@@ -18865,7 +18865,7 @@ so_AV0
 much_DT0
 easier_AJC
 honestly_AV0
-FUNBOARD_NP0-NN1
+FUNBOARD_NN1
 DESIGN_NN1
 FEATURES_NN2
 A_AT0
@@ -18981,7 +18981,7 @@ the_AT0
 board_NN1
 is_VBZ
 a_AT0
-characteristic_AJ0-NN1
+characteristic_NN1
 known_VVN
 as_CJS
 V_ZZ0
@@ -19065,7 +19065,7 @@ a_AT0
 phenomenon_NN1
 known_VVN
 as_CJS
-spin_VVI
+spin_NN1
 out_AVP
 At_PRP
 very_AV0
@@ -19076,7 +19076,7 @@ Force_NN1
 5_CRD
 +_UNC
 a_AT0
-spin_VVI
+spin_NN1
 out_AVP
 occurs_VVZ
 when_CJS
@@ -19199,7 +19199,7 @@ aimed_VVN
 to_TO0
 prevent_VVI
 the_AT0
-offending_AJ0-NN1
+offending_AJ0
 air_NN1
 bubbles_NN2
 from_PRP
@@ -19280,7 +19280,7 @@ most_AV0
 from_PRP
 turbulence_NN1
 and_CJC
-spin_VVI
+spin_NN1
 out_AVP
 so_AV0
 this_DT0
@@ -19375,7 +19375,7 @@ how_AVQ
 well_AV0
 it_PNP
 sails_NN2
-upwind_NN1-VVB
+upwind_NN1
 and_CJC
 its_DPS
 ability_NN1
@@ -19427,7 +19427,7 @@ see_VVI
 the_AT0
 subtle_AJ0
 changes_NN2
-involved_AJ0
+involved_VVN
 Different_AJ0
 rail_NN1
 shapes_NN2
@@ -19493,7 +19493,7 @@ whilst_CJS
 not_XX0
 being_VBG
 very_AV0
-fast_AV0-AJ0
+fast_AJ0
 It_PNP
 tends_VVZ
 to_TO0
@@ -19597,7 +19597,7 @@ above_PRP
 shapes_NN2
 chined_VVD
 or_CJC
-bevelled_VVD-AJ0
+bevelled_AJ0
 rails_NN2
 Widely_AV0
 used_VVN
@@ -19685,7 +19685,7 @@ tail_NN1
 Narrow_AJ0
 Tail_NN1
 Advantages_NN2
-Fast_AV0-AJ0
+Fast_AJ0
 in_PRP
 high_AJ0
 winds_NN2
@@ -19718,7 +19718,7 @@ possible_AJ0
 Wide_AJ0
 Tail_NN1
 Advantages_NN2
-Fast_AV0-AJ0
+Fast_AJ0
 in_PRP
 light_NN1
 to_TO0
@@ -19818,7 +19818,7 @@ the_AT0
 pintail_NN1
 is_VBZ
 the_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 on_PRP
 high_AJ0
 wind_NN1
@@ -19904,7 +19904,7 @@ gybes_NN2
 are_VBB
 possible_AJ0
 The_AT0
-Rocker_NP0-NN1
+Rocker_NN1
 Line_NN1
 Perhaps_AV0
 the_AT0
@@ -19987,14 +19987,14 @@ board_NN1
 speed_NN1
 and_CJC
 manoeuvrability_NN1
-Racing_VVG-AJ0
+Racing_VVG
 and_CJC
 speed_NN1
 boards_NN2
 are_VBB
 built_VVN
 with_PRP
-minimum_AJ0-NN1
+minimum_AJ0
 amounts_NN2
 of_PRF
 nose_NN1
@@ -20188,7 +20188,7 @@ Peter_NP0
 has_VHZ
 adopted_VVN
 a_AT0
-crouched_AJ0
+crouched_VVD
 position_NN1
 to_TO0
 avoid_VVI
@@ -20225,7 +20225,7 @@ into_PRP
 position_NN1
 Fig_NN1
 54_CRD
-Flipping_AJ0
+Flipping_VVG
 the_AT0
 rig_NN1
 into_PRP
@@ -20284,7 +20284,7 @@ the_AT0
 wind_NN1
 swim_VVI
 hard_AJ0
-upwind_NN1-VVB
+upwind_NN1
 and_CJC
 lift_NN1
 the_AT0
@@ -20443,7 +20443,7 @@ position_NN1
 yourself_PNX
 by_PRP
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 quarter_NN1
 of_PRF
 the_AT0
@@ -20592,7 +20592,7 @@ variables_NN2
 in_PRP
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 Aim_VVB
 to_TO0
 make_VVI
@@ -20607,7 +20607,7 @@ dig_VVI
 in_PRP
 and_CJC
 grip_NN1
-Position_NN1-VVB
+Position_NN1
 for_PRP
 heavier_AJC
 sailors_NN2
@@ -20628,7 +20628,7 @@ for_PRP
 stone_NN1
 70kg_NN0
 sailors_NN2
-Rear_AJ0-NN1
+Rear_AJ0
 position_NN1
 for_PRP
 lightweight_AJ0
@@ -20645,7 +20645,7 @@ Fig_NN1
 63_CRD
 The_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 The_AT0
 board_NN1
 is_VBZ
@@ -20795,7 +20795,7 @@ as_CJS
 in_PRP
 the_AT0
 flare_NN1
-gybe_NN1-VVB
+gybe_NN1
 see_VVI
 Figs_NN2
 29_CRD
@@ -20826,13 +20826,13 @@ the_AT0
 mast_NN1
 5_CRD
 Advanced_AJ0
-Funboard_NN1-NP0
+Funboard_NN1
 Technique_NN1
 Once_AV0
 you_PNP
 can_VM0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 and_CJC
 water_NN1
 start_NN1
@@ -20869,7 +20869,7 @@ Force_NN1
 5_CRD
 +_UNC
 winds_NN2
-Sailing_VVG-NN1
+Sailing_VVG
 in_PRP
 these_DT0
 conditions_NN2
@@ -20924,8 +20924,8 @@ in_PRP
 strong_AJ0
 winds_NN2
 THE_AT0
-CARVE_NN1-VVB
-GYBE_NN1-NP0
+CARVE_NN1
+GYBE_NP0
 ON_PRP
 SHORTER_AJC
 BOARDS_NN2
@@ -20942,7 +20942,7 @@ boards_NN2
 Foot_NN1
 and_CJC
 Body_NN1
-Position_NN1-VVB
+Position_NN1
 Fig_NN1
 62_CRD
 showed_VVD
@@ -20987,7 +20987,7 @@ For_PRP
 instance_NN1
 on_PRP
 a_AT0
-fast_AV0-AJ0
+fast_AJ0
 slalom_NN1
 type_NN1
 board_NN1
@@ -21052,7 +21052,7 @@ by_PRP
 having_VHG
 greater_AJC
 knee_NN1
-bend_VVI
+bend_NN1
 since_CJS
 the_AT0
 speed_NN1
@@ -21165,14 +21165,14 @@ in_PRP
 on_PRP
 the_AT0
 new_AJ0
-tack_VVI
+tack_NN1
 thereby_AV0
 keeping_VVG
 the_AT0
 board_NN1
 on_PRP
 its_DPS
-banked_AJ0
+banked_VVD
 course_NN1
 throughout_PRP
 the_AT0
@@ -21235,7 +21235,7 @@ end_NN1
 up_AVP
 having_VHG
 to_TO0
-cross_VVI
+cross_NN1
 arms_NN2
 at_PRP
 the_AT0
@@ -21284,7 +21284,7 @@ The_AT0
 aim_NN1
 is_VBZ
 to_TO0
-gybe_NN1-VVB
+gybe_NN1
 just_AV0
 before_PRP
 an_AT0
@@ -21369,7 +21369,7 @@ the_AT0
 other_AJ0
 types_NN2
 of_PRF
-gybe_NN1-VVB
+gybe_NN1
 you_PNP
 should_VM0
 aim_NN1
@@ -21378,7 +21378,7 @@ perfect_AJ0
 the_AT0
 standard_NN1
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 with_PRP
 a_AT0
 success_NN1
@@ -21390,10 +21390,10 @@ of_PRF
 ten_CRD
 THE_AT0
 SLAM_NN1
-GYBE_NN1-NP0
+GYBE_NP0
 The_AT0
 slam_NN1
-gybe_NN1-VVB
+gybe_NN1
 is_VBZ
 a_AT0
 very_AV0
@@ -21402,7 +21402,7 @@ version_NN1
 of_PRF
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 and_CJC
 is_VBZ
 a_AT0
@@ -21434,7 +21434,7 @@ when_CJS
 you_PNP
 want_VVB
 to_TO0
-gybe_NN1-VVB
+gybe_NN1
 without_PRP
 losing_VVG
 valuable_AJ0
@@ -21444,7 +21444,7 @@ for_PRP
 example_NN1
 when_CJS
 working_VVG
-upwind_NN1-VVB
+upwind_NN1
 on_PRP
 a_AT0
 short_AJ0
@@ -21487,7 +21487,7 @@ on_PRP
 the_AT0
 board_NN1
 Body_NN1
-Position_NN1-VVB
+Position_NN1
 All_DT0
 the_AT0
 weight_NN1
@@ -21513,7 +21513,7 @@ a_AT0
 very_AV0
 bad_AJ0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 ie_AV0
 straight_AV0
 front_NN1
@@ -21534,7 +21534,7 @@ must_VM0
 keep_VVI
 very_AV0
 low_AJ0
-Speed_NN1-VVB
+Speed_NN1
 If_CJS
 you_PNP
 enter_VVI
@@ -21618,7 +21618,7 @@ first_ORD
 sailing_VVG
 Killing_VVG
 the_AT0
-Turn_VVB-NN1
+Turn_VVB
 To_TO0
 stop_VVI
 the_AT0
@@ -21646,7 +21646,7 @@ the_AT0
 board_NN1
 THE_AT0
 DUCK_NN0
-GYBE_NN1-NP0
+GYBE_NP0
 Figs_NN2
 73_CRD
 to_TO0
@@ -21669,7 +21669,7 @@ if_CJS
 you_PNP
 can_VM0
 duck_NN0
-gybe_NN1-VVB
+gybe_NN1
 it_PNP
 is_VBZ
 an_AT0
@@ -21685,7 +21685,7 @@ is_VBZ
 a_AT0
 standard_NN1
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 where_AVQ
 instead_AV0
 of_PRF
@@ -21736,7 +21736,7 @@ at_PRP
 speed_NN1
 The_AT0
 duck_NN0
-gybe_NN1-VVB
+gybe_NN1
 can_VM0
 be_VBI
 performed_VVN
@@ -21775,11 +21775,11 @@ you_PNP
 attempt_NN1
 to_TO0
 duck_NN0
-gybe_NN1-VVB
+gybe_NN1
 you_PNP
 can_VM0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 well_AV0
 as_CJS
 the_AT0
@@ -21808,7 +21808,7 @@ lighter_AJC
 the_AT0
 rig_NN1
 will_VM0
-feel_VVI
+feel_VVB
 in_PRP
 the_AT0
 duck_NN0
@@ -21907,7 +21907,7 @@ is_VBZ
 a_AT0
 tendency_NN1
 to_TO0
-sway_VVI
+sway_NN1
 back_AVP
 on_PRP
 to_TO0
@@ -21991,7 +21991,7 @@ Boom_NN1
 on_PRP
 the_AT0
 New_AJ0
-Tack_NN1-VVB
+Tack_VVB
 The_AT0
 sooner_AV0
 you_PNP
@@ -22060,7 +22060,7 @@ the_AT0
 short_AJ0
 board_NN1
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 leave_VVI
 the_AT0
 feet_NN2
@@ -22111,13 +22111,13 @@ to_TO0
 incorporate_VVI
 the_AT0
 duck_NN0
-gybe_NN1-VVB
+gybe_NN1
 into_PRP
 the_AT0
 long_AJ0
 board_NN1
 flare_NN1
-gybe_NN1-VVB
+gybe_NN1
 this_DT0
 will_VM0
 not_XX0
@@ -22135,7 +22135,7 @@ timing_NN1
 The_AT0
 freestyle_NN1
 trick_NN1
-Sail_NN1-VVB
+Sail_VVB
 360_CRD
 \xc2\xb0s_NN2
 also_AV0
@@ -22144,10 +22144,10 @@ the_AT0
 same_DT0
 hand_NN1
 movements_NN2
-SAILING_VVG-NN1
+SAILING_NN1
 IN_PRP
 WAVES_NN2
-Sailing_VVG-NN1
+Sailing_VVG
 in_PRP
 waves_NN2
 produces_VVZ
@@ -22187,7 +22187,7 @@ have_VHB
 enough_AV0
 confidence_NN1
 to_TO0
-gybe_NN1-VVB
+gybe_NN1
 in_PRP
 front_NN1
 of_PRF
@@ -22379,7 +22379,7 @@ which_DTQ
 is_VBZ
 the_AT0
 best_AJS
-tack_VVI
+tack_NN1
 to_TO0
 set_VVN
 off_AVP
@@ -22507,7 +22507,7 @@ rather_AV0
 than_CJS
 vice_UNC
 versa_UNC
-Sailing_VVG-NN1
+Sailing_VVG
 Out_AVP
 Once_AV0
 you_PNP
@@ -22580,7 +22580,7 @@ a_AT0
 tendency_NN1
 to_TO0
 catapult_NN1
-fall_VVI
+fall_NN1
 so_AV0
 it_PNP
 is_VBZ
@@ -22591,7 +22591,7 @@ sheet_NN1
 out_AVP
 The_AT0
 white_AJ0
-foamy_AJ0-NN1
+foamy_AJ0
 part_NN1
 of_PRF
 a_AT0
@@ -22655,18 +22655,18 @@ Anything_PNI
 other_AJ0
 than_CJS
 a_AT0
-square-on_NN1-AJ0
+square-on_AJ0
 approach_NN1
 can_VM0
 lead_VVI
 to_TO0
 problems_NN2
-Jumping_NN1-AJ0
+Jumping_NN1
 Figs_NN2
 79_CRD
 to_TO0
 83_CRD
-Jumping_NN1-AJ0
+Jumping_NN1
 is_VBZ
 an_AT0
 exciting_AJ0
@@ -22966,7 +22966,7 @@ lean_VVI
 back_AVP
 in_PRP
 a_AT0
-crouched_AJ0
+crouched_VVD
 position_NN1
 placing_VVG
 all_DT0
@@ -22974,7 +22974,7 @@ you_PNP
 weight_NN1
 on_PRP
 your_DPS
-rear_AJ0-NN1
+rear_NN1
 foot_NN1
 This_DT0
 encourages_VVZ
@@ -23013,7 +23013,7 @@ more_AV0
 lift_NN1
 5_CRD
 Stay_VVB
-crouched_AJ0
+crouched_VVD
 and_CJC
 keep_VVI
 the_AT0
@@ -23058,14 +23058,14 @@ and_CJC
 makes_VVZ
 a_AT0
 small_AJ0
-hop_VVI
+hop_NN1
 into_PRP
 a_AT0
 controlled_VVN
 jump_VVI
 The_AT0
 Upside-down_AV0
-Jump_VVB-NN1
+Jump_VVB
 Fig_NN1
 82_CRD
 Getting_VVG
@@ -23174,7 +23174,7 @@ rather_AV0
 than_CJS
 abandoning_VVG
 in_PRP
-mid-air_NN1-AJ0
+mid-air_AJ0
 since_CJS
 there_EX0
 is_VBZ
@@ -23238,7 +23238,7 @@ if_CJS
 you_PNP
 try_VVI
 it_PNP
-Landing_VVG-NN1
+Landing_VVG
 Initially_AV0
 it_PNP
 is_VBZ
@@ -23441,7 +23441,7 @@ you_PNP
 will_VM0
 need_VVB
 to_TO0
-gybe_NN1-VVB
+gybe_NN1
 and_CJC
 hopefully_AV0
 catch_VVI
@@ -23656,7 +23656,7 @@ fairly_AV0
 small_AJ0
 You_PNP
 should_VM0
-gybe_NN1-VVB
+gybe_NN1
 well_AV0
 in_PRP
 front_NN1
@@ -23796,7 +23796,7 @@ that_CJT
 which_DTQ
 takes_VVZ
 you_PNP
-upwind_NN1-VVB
+upwind_NN1
 5_CRD
 Do_VDB
 n't_XX0
@@ -23890,7 +23890,7 @@ half_DT0
 of_PRF
 a_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 However_AV0
 since_CJS
 the_AT0
@@ -23925,7 +23925,7 @@ as_CJS
 in_PRP
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 you_PNP
 deliberately_AV0
 lose_VVI
@@ -23935,7 +23935,7 @@ from_PRP
 the_AT0
 rig_NN1
 by_PRP
-oversheeting_VVG-AJ0
+oversheeting_AJ0
 ad_NN1
 leaning_VVG
 it_PNP
@@ -24019,7 +24019,7 @@ the_AT0
 wave_NN1
 leaving_VVG
 a_AT0
-wiggly_AJ0-AV0
+wiggly_AJ0
 wake_NN1
 These_DT0
 more_AV0
@@ -24034,7 +24034,7 @@ perfect_AJ0
 conditions_NN2
 with_PRP
 smooth_AJ0
-well-formed_VVN
+well-formed_AJ0
 waves_NN2
 and_CJC
 a_AT0
@@ -24069,7 +24069,7 @@ waves_NN2
 do_VDB
 not_XX0
 cause_NN1
-spin_VVI
+spin_NN1
 out_AVP
 on_PRP
 their_DPS
@@ -24084,7 +24084,7 @@ bad_AJ0
 technique_NN1
 To_TO0
 cure_NN1
-spin_VVI
+spin_NN1
 out_AVP
 the_AT0
 aim_NN1
@@ -24092,7 +24092,7 @@ is_VBZ
 to_TO0
 try_VVI
 and_CJC
-spread_NN1
+spread_VVN
 the_AT0
 sideways_AV0
 force_NN1
@@ -24183,7 +24183,7 @@ strap_NN1
 leeward_AV0
 rail_NN1
 to_TO0
-bite_VVI
+bite_NN1
 which_DTQ
 will_VM0
 in_PRP
@@ -24208,12 +24208,12 @@ also_AV0
 less_AV0
 chance_NN1
 of_PRF
-spin_VVI
+spin_NN1
 out_AVP
 If_CJS
 you_PNP
 do_VDB
-spin_VVI
+spin_NN1
 out_AVP
 try_VVI
 recovering_VVG
@@ -24254,7 +24254,7 @@ Notice_VVB
 how_AVQ
 much_DT0
 knee_NN1
-bend_VVI
+bend_NN1
 he_PNP
 uses_NN2
 Look_VVB
@@ -24299,7 +24299,7 @@ it_PNP
 is_VBZ
 even_AV0
 more_AV0
-exaggerated_AJ0
+exaggerated_VVN
 when_CJS
 you_PNP
 turn_NN1
@@ -24322,7 +24322,7 @@ when_CJS
 and_CJC
 where_AVQ
 to_TO0
-gybe_NN1-VVB
+gybe_NN1
 in_PRP
 choppy_AJ0
 conditions_NN2
@@ -24368,7 +24368,7 @@ turn_NN1
 Fig_NN1
 73_CRD
 Duck_NN0
-gybe_NN1-VVB
+gybe_NN1
 hand_NN1
 movements_NN2
 From_PRP
@@ -24522,7 +24522,7 @@ stages_NN2
 of_PRF
 a_AT0
 duck_NN0
-gybe_NN1-VVB
+gybe_NN1
 He_PNP
 is_VBZ
 about_PRP
@@ -24551,7 +24551,7 @@ grips_NN2
 Look_VVB
 at_PRP
 the_AT0
-bend_VVI
+bend_NN1
 in_PRP
 his_DPS
 left_VVN
@@ -24562,7 +24562,7 @@ an_AT0
 indication_NN1
 of_PRF
 how_AVQ
-crouched_AJ0
+crouched_VVD
 and_CJC
 low_AJ0
 you_PNP
@@ -24766,7 +24766,7 @@ commitment_NN1
 Competitive_AJ0
 Windsurfing_NN1
 GENERAL_AJ0
-POINTS_NN2-VVZ
+POINTS_NN2
 One_CRD
 of_PRF
 the_AT0
@@ -24785,7 +24785,7 @@ to_TO0
 find_VVI
 out_AVP
 how_AVQ
-fast_AV0-AJ0
+fast_AJ0
 you_PNP
 are_VBB
 and_CJC
@@ -24985,7 +24985,7 @@ canoe_NN1
 They_PNP
 are_VBB
 very_AV0
-fast_AV0-AJ0
+fast_AJ0
 in_PRP
 light_NN1
 to_TO0
@@ -25032,10 +25032,10 @@ class_NN1
 recognised_VVN
 by_PRP
 The_AT0
-IYRU_NP0-NN1
+IYRU_NN1
 International_AJ0
 Yacht_NN1
-Racing_VVG-AJ0
+Racing_VVG
 Union_NN1
 In_PRP
 a_AT0
@@ -25079,7 +25079,7 @@ the_AT0
 race_NN1
 site_NN1
 WBA_NP0
-Funboard_NN1-NP0
+Funboard_NN1
 Division_NN1
 This_DT0
 has_VHZ
@@ -25175,9 +25175,9 @@ set_VVN
 of_PRF
 buoys_NN2
 using_VVG
-upwind_NN1-VVB
+upwind_NN1
 and_CJC
-offwind_VVB-NN1
+offwind_VVB
 legs_NN2
 Divisions_NN2
 1_CRD
@@ -25232,11 +25232,11 @@ person_NN1
 with_PRP
 the_AT0
 lowest_AJS
-overall_AJ0-NN1
+overall_AJ0
 points_NN2
 total_AJ0
 The_AT0
-Slalom_VVB-NN1
+Slalom_NN1
 Fig_NN1
 87_CRD
 This_DT0
@@ -25250,7 +25250,7 @@ both_AV0
 the_AT0
 Mistral_NN1
 and_CJC
-Funboard_NN1-NP0
+Funboard_NN1
 divisions_NN2
 use_NN1
 it_PNP
@@ -25276,7 +25276,7 @@ leading_AJ0
 to_TO0
 a_AT0
 final_AJ0
-Wave_NN1-VVB
+Wave_NN1
 Competition_NN1
 This_DT0
 is_VBZ
@@ -25300,7 +25300,7 @@ as_CJS
 the_AT0
 combination_NN1
 of_PRF
-cross-shore_AJ0-NN1
+cross-shore_AJ0
 winds_NN2
 with_PRP
 surf_NN1
@@ -25310,7 +25310,7 @@ infrequent_AJ0
 Sailors_NN2
 perform_VVI
 in_PRP
-man-on-man_AJ0-NN1
+man-on-man_NN1
 heats_NN2
 in_PRP
 front_NN1
@@ -25363,11 +25363,11 @@ be_VBI
 won_VVD
 by_PRP
 sailing_VVG
-fast_AV0-AJ0
+fast_AJ0
 without_PRP
 any_DT0
 tactics_NN2
-Fast_AV0-AJ0
+Fast_AJ0
 Stance_NN1
 Figs_NN2
 88_CRD
@@ -25423,7 +25423,7 @@ main_AJ0
 aspects_NN2
 of_PRF
 a_AT0
-fast_AV0-AJ0
+fast_AJ0
 stance_NN1
 1_CRD
 Keep_VVB
@@ -25469,7 +25469,7 @@ apart_AV0
 on_PRP
 the_AT0
 boom_NN1
-Harness_VVB-NN1
+Harness_VVB
 lines_NN2
 should_VM0
 have_VHB
@@ -25565,7 +25565,7 @@ when_CJS
 you_PNP
 are_VBB
 sailing_VVG
-upwind_NN1-VVB
+upwind_NN1
 which_DTQ
 will_VM0
 be_VBI
@@ -25581,7 +25581,7 @@ oncoming_AJ0
 waves_NN2
 The_AT0
 legs_NN2
-act_VVI
+act_NN1
 rather_AV0
 like_PRP
 shock_NN1
@@ -25608,10 +25608,10 @@ The_AT0
 sail_NN1
 should_VM0
 be_VBI
-rigged_VVD-VVN
+rigged_VVN
 with_PRP
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 amount_NN1
 of_PRF
 mast_NN1
@@ -25630,7 +25630,7 @@ in_PRP
 light_NN1
 winds_NN2
 6_CRD
-Gust_NN1-VVB
+Gust_NN1
 response_NN1
 If_CJS
 you_PNP
@@ -25660,7 +25660,7 @@ should_VM0
 always_AV0
 be_VBI
 looking_VVG
-upwind_NN1-VVB
+upwind_NN1
 to_TO0
 spot_NN1
 the_AT0
@@ -25688,7 +25688,7 @@ worth_PRP
 widening_NN1
 your_DPS
 grip_NN1
-Crouch_NN1-VVB
+Crouch_VVB
 low_AJ0
 before_PRP
 it_PNP
@@ -25697,7 +25697,7 @@ and_CJC
 when_CJS
 it_PNP
 hits_VVZ
-drop_VVI
+drop_NN1
 your_DPS
 backside_NN1
 and_CJC
@@ -25775,7 +25775,7 @@ signs_NN2
 of_PRF
 wear_VVI
 and_CJC
-tear_NN1-VVB
+tear_NN1
 well_AV0
 in_PRP
 advance_NN1
@@ -25817,7 +25817,7 @@ with_PRP
 the_AT0
 non-slip_AJ0
 surface_NN1
-Surfboard_NN1-NP0
+Surfboard_NN1
 wax_NN1
 works_NN0
 wonders_NN2
@@ -25833,7 +25833,7 @@ sandpapered_VVN
 to_TO0
 remove_VVI
 any_DT0
-nicks_VVZ
+nicks_NN2
 and_CJC
 the_AT0
 uphaul_VVI
@@ -25894,7 +25894,7 @@ face_NN1
 when_CJS
 you_PNP
 go_VVI
-fast_AV0-AJ0
+fast_AJ0
 You_PNP
 will_VM0
 need_VVB
@@ -25933,7 +25933,7 @@ of_PRF
 a_AT0
 frantic_AJ0
 starboard_NN1
-tack_VVI
+tack_NN1
 start_NN1
 it_PNP
 can_VM0
@@ -26100,7 +26100,7 @@ Body_NN1
 Sporting_AJ0
 Mind_VVB
 J_NP0
-Syer_NP0-NN1
+Syer_NP0
 and_CJC
 C_ZZ0
 Connolly_NP0
@@ -26162,7 +26162,7 @@ explained_VVD
 below_AV0
 The_AT0
 Line_NN1
-Start_VVB-NN1
+Start_NN1
 Fig_NN1
 92_CRD
 A_AT0
@@ -26345,7 +26345,7 @@ or_CJC
 bringing_VVG
 in_PRP
 their_DPS
-mooring_AJ0-NN1
+mooring_NN1
 line_NN1
 so_AV0
 keep_VVI
@@ -26377,7 +26377,7 @@ sometimes_AV0
 the_AT0
 start_NN1
 line_NN1
-drifts_NN2-VVZ
+drifts_NN2
 in_PRP
 a_AT0
 current_AJ0
@@ -26409,7 +26409,7 @@ reach_VVI
 the_AT0
 sea-bed_NN1
 Board_NN1
-Handling_VVG-NN1
+Handling_NN1
 At_PRP
 the_AT0
 start_NN1
@@ -26466,7 +26466,7 @@ invaluable_AJ0
 in_PRP
 tight_AJ0
 situations_NN2
-Starting_VVG-NN1
+Starting_VVG
 Tactics_NN2
 Fig_NN1
 95_CRD
@@ -26561,7 +26561,7 @@ likely_AJ0
 to_TO0
 be_VBI
 crowded_AJ0
-Starting_VVG-NN1
+Starting_VVG
 at_PRP
 the_AT0
 crowded_AJ0
@@ -26675,7 +26675,7 @@ since_CJS
 if_CJS
 they_PNP
 are_VBB
-fast_AV0-AJ0
+fast_AJ0
 they_PNP
 will_VM0
 soon_AV0
@@ -26685,7 +26685,7 @@ wind_NN1
 Line_NN1
 Bulge_NN1
 and_CJC
-Sag_NN1-VVB
+Sag_VVB
 Fig_NN1
 96_CRD
 There_EX0
@@ -26884,7 +26884,7 @@ sheeting_NN1
 in_PRP
 The_AT0
 Gate_NN1
-Start_VVB-NN1
+Start_NN1
 Fig_NN1
 97_CRD
 The_AT0
@@ -26922,10 +26922,10 @@ all_DT0
 competitors_NN2
 begins_VVZ
 sailing_VVG
-upwind_NN1-VVB
+upwind_NN1
 on_PRP
 port_NN1
-tack_VVI
+tack_NN1
 past_NN1
 a_AT0
 buoy_NN1
@@ -26980,7 +26980,7 @@ start_NN1
 board_NN1
 on_PRP
 starboard_NN1
-tack_VVI
+tack_NN1
 The_AT0
 pathfinder_NN1
 and_CJC
@@ -27186,7 +27186,7 @@ used_VVN
 in_PRP
 training_NN1
 The_AT0
-Upwind_VVB-NN1
+Upwind_NN1
 Leg_NN1
 This_DT0
 is_VBZ
@@ -27232,9 +27232,9 @@ made_VVN
 as_CJS
 you_PNP
 sail_NN1
-upwind_NN1-VVB
+upwind_NN1
 Technique_NN1
-Upwind_VVB-NN1
+Upwind_NN1
 sailing_VVG
 is_VBZ
 a_AT0
@@ -27271,7 +27271,7 @@ faster_AV0
 others_NN2
 can_VM0
 sail_NN1
-upwind_NN1-VVB
+upwind_NN1
 There_EX0
 is_VBZ
 no_AT0
@@ -27355,7 +27355,7 @@ the_AT0
 waves_NN2
 You_PNP
 can_VM0
-feel_VVI
+feel_VVB
 if_CJS
 the_AT0
 sail_NN1
@@ -27376,7 +27376,7 @@ spaced_VVN
 equally_AV0
 about_PRP
 the_AT0
-CE_NN1-NP0
+CE_NP0
 If_CJS
 the_AT0
 pressure_NN1
@@ -27407,7 +27407,7 @@ bad_AJ0
 variable_NN1
 course_NN1
 ad_NN1
-feel_VVI
+feel_VVB
 the_AT0
 pressure_NN1
 changing_VVG
@@ -27433,7 +27433,7 @@ sailing_VVG
 you_PNP
 can_VM0
 just_AV0
-switch_VVI
+switch_NN1
 yourself_PNX
 to_TO0
 automatic_AJ0
@@ -27506,7 +27506,7 @@ Fig_NN1
 On_PRP
 the_AT0
 beat_VVI
-upwind_NN1-VVB
+upwind_NN1
 leg_NN1
 the_AT0
 board_NN1
@@ -27610,7 +27610,7 @@ daggerboard_NN1
 is_VBZ
 decreased_VVN
 Tactics_NN2
-Upwind_VVB-NN1
+Upwind_NN1
 On_PRP
 the_AT0
 awkward_AJ0
@@ -27654,7 +27654,7 @@ I_PNP
 'll_VM0
 have_VHB
 to_TO0
-tack_VVI
+tack_NN1
 I_PNP
 'll_VM0
 just_AV0
@@ -27679,7 +27679,7 @@ stage_NN1
 However_AV0
 when_CJS
 you_PNP
-tack_VVI
+tack_NN1
 it_PNP
 should_VM0
 be_VBI
@@ -27692,7 +27692,7 @@ racing_VVG
 you_PNP
 will_VM0
 often_AV0
-tack_VVI
+tack_NN1
 to_TO0
 avoid_VVI
 dirty_AJ0
@@ -27861,7 +27861,7 @@ obvious_AJ0
 since_CJS
 if_CJS
 you_PNP
-fall_VVI
+fall_NN1
 only_AV0
 a_AT0
 few_DT0
@@ -27875,7 +27875,7 @@ after_PRP
 the_AT0
 start_NN1
 you_PNP
-fall_VVI
+fall_NN1
 into_PRP
 everyone_PNI
 else_AV0
@@ -27883,7 +27883,7 @@ else_AV0
 dirty_AJ0
 wind_NN1
 and_CJC
-drop_VVI
+drop_NN1
 even_AV0
 further_AJC
 back_AVP
@@ -27903,7 +27903,7 @@ the_AT0
 fleet_NN1
 on_PRP
 port_NN1
-tack_VVI
+tack_NN1
 in_PRP
 search_NN1
 of_PRF
@@ -27994,7 +27994,7 @@ proves_VVZ
 worth_PRP
 while_CJS
 to_TO0
-tack_VVI
+tack_NN1
 towards_PRP
 one_CRD
 side_NN1
@@ -28027,7 +28027,7 @@ classic_AJ0
 dinghy_NN1
 racing_VVG
 book_NN1
-Start_VVB-NN1
+Start_NN1
 To_TO0
 Win_VVB
 by_PRP
@@ -28115,11 +28115,11 @@ important_AJ0
 part_NN1
 of_PRF
 the_AT0
-upwind_NN1-VVB
+upwind_NN1
 leg_NN1
 If_CJS
 you_PNP
-tack_VVI
+tack_NN1
 at_PRP
 the_AT0
 right_NN1
@@ -28145,7 +28145,7 @@ are_VBB
 oblivious_AJ0
 to_TO0
 the_AT0
-shift_NN1-VVB
+shift_NN1
 The_AT0
 skill_NN1
 is_VBZ
@@ -28157,7 +28157,7 @@ wind_NN1
 changes_NN2
 When_CJS
 sailing_VVG
-upwind_NN1-VVB
+upwind_NN1
 a_AT0
 change_NN1
 in_PRP
@@ -28196,7 +28196,7 @@ is_VBZ
 a_AT0
 sign_NN1
 to_TO0
-tack_VVI
+tack_NN1
 and_CJC
 gain_VVI
 ground_NN1
@@ -28271,7 +28271,7 @@ indication_NN1
 that_CJT
 you_PNP
 should_VM0
-tack_VVI
+tack_NN1
 A_AT0
 useful_AJ0
 method_NN1
@@ -28311,7 +28311,7 @@ there_EX0
 is_VBZ
 a_AT0
 wind_NN1
-shift_NN1-VVB
+shift_NN1
 you_PNP
 will_VM0
 then_AV0
@@ -28405,7 +28405,7 @@ so_AV0
 hopefully_AV0
 you_PNP
 can_VM0
-tack_VVI
+tack_NN1
 on_PRP
 the_AT0
 headers_NN2
@@ -28422,7 +28422,7 @@ the_AT0
 only_AV0
 kind_NN1
 of_PRF
-shift_NN1-VVB
+shift_NN1
 Sometimes_AV0
 the_AT0
 wind_NN1
@@ -28450,7 +28450,7 @@ or_CJC
 valley_NN1
 can_VM0
 often_AV0
-act_VVI
+act_NN1
 in_PRP
 the_AT0
 same_DT0
@@ -28460,7 +28460,7 @@ an_AT0
 enormous_AJ0
 sail_NN1
 and_CJC
-bend_VVI
+bend_NN1
 the_AT0
 wind_NN1
 over_PRP
@@ -28476,7 +28476,7 @@ important_AJ0
 when_CJS
 sailing_VVG
 long_AJ0
-upwind_NN1-VVB
+upwind_NN1
 stretches_VVZ
 Other_AJ0
 than_CJS
@@ -28506,11 +28506,11 @@ which_DTQ
 uses_NN2
 the_AT0
 wind_NN1
-bend_VVI
+bend_NN1
 principle_NN1
 when_CJS
 sailing_VVG
-upwind_NN1-VVB
+upwind_NN1
 head_NN1
 for_PRP
 the_AT0
@@ -28581,7 +28581,7 @@ a_AT0
 beat_VVI
 by_PRP
 looking_VVG
-upwind_NN1-VVB
+upwind_NN1
 for_PRP
 clues_NN2
 The_AT0
@@ -28602,7 +28602,7 @@ will_VM0
 have_VHB
 more_AV0
 wind_NN1
-Smoking_NN1-VVG
+Smoking_VVG
 chimneys_NN2
 display_NN1
 the_AT0
@@ -28810,18 +28810,18 @@ current_AJ0
 flowing_VVG
 across_PRP
 the_AT0
-upwind_NN1-VVB
+upwind_NN1
 leg_NN1
 is_VBZ
 always_AV0
 to_TO0
 sail_NN1
 the_AT0
-tack_VVI
+tack_NN1
 that_CJT
 takes_VVZ
 you_PNP
-uptide_VVB-NN1
+uptide_NN1
 of_PRF
 the_AT0
 mark_NN1
@@ -28843,7 +28843,7 @@ exactly_AV0
 when_CJS
 you_PNP
 should_VM0
-tack_VVI
+tack_NN1
 for_PRP
 the_AT0
 mark_NN1
@@ -28853,7 +28853,7 @@ you_PNP
 take_VVI
 the_AT0
 other_AJ0
-tack_VVI
+tack_NN1
 it_PNP
 is_VBZ
 difficult_AJ0
@@ -28874,7 +28874,7 @@ a_AT0
 number_NN1
 of_PRF
 factors_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 choosing_VVG
 a_AT0
@@ -28899,7 +28899,7 @@ the_AT0
 sailor_NN1
 who_PNQ
 is_VBZ
-fast_AV0-AJ0
+fast_AJ0
 off_AVP
 the_AT0
 line_NN1
@@ -28913,7 +28913,7 @@ use_NN1
 his_DPS
 speed_NN1
 advantage_NN1
-Rounding_VVG-AJ0
+Rounding_VVG
 the_AT0
 Top_NN1
 Mark_NP0
@@ -28923,7 +28923,7 @@ With_PRP
 the_AT0
 whole_AJ0
 fleet_NN1
-converging_VVG-AJ0
+converging_VVG
 on_PRP
 the_AT0
 first_ORD
@@ -28947,7 +28947,7 @@ the_AT0
 reach_VVI
 Since_CJS
 starboard_NN1
-tack_VVI
+tack_NN1
 has_VHZ
 right_NN1
 of_PRF
@@ -28975,7 +28975,7 @@ to_TO0
 which_DTQ
 you_PNP
 would_VM0
-tack_VVI
+tack_NN1
 to_TO0
 make_VVI
 the_AT0
@@ -28993,7 +28993,7 @@ wind_NN1
 everyone_PNI
 has_VHZ
 to_TO0
-tack_VVI
+tack_NN1
 slightly_AV0
 late_AJ0
 and_CJC
@@ -29057,7 +29057,7 @@ try_VVI
 approaching_VVG
 on_PRP
 port_NN1
-tack_VVI
+tack_NN1
 gambling_NN1
 on_PRP
 being_VBG
@@ -29067,7 +29067,7 @@ find_VVI
 a_AT0
 gap_NN1
 to_TO0
-tack_VVI
+tack_NN1
 into_PRP
 In_PRP
 large_AJ0
@@ -29137,10 +29137,10 @@ fear_NN1
 of_PRF
 a_AT0
 capsize_AJ0
-fall_VVI
+fall_NN1
 The_AT0
 Reach_VVB
-Pumping_NN1-VVG
+Pumping_VVG
 This_DT0
 is_VBZ
 an_AT0
@@ -29217,7 +29217,7 @@ pumping_VVG
 is_VBZ
 the_AT0
 timing_NN1
-relative_AJ0-NN1
+relative_AJ0
 to_TO0
 the_AT0
 wave_NN1
@@ -29449,7 +29449,7 @@ to_TO0
 avoid_VVI
 being_VBG
 swept_VVN
-downtide_VVB-NN1
+downtide_NN1
 you_PNP
 can_VM0
 take_VVI
@@ -29467,7 +29467,7 @@ line_NN1
 Tactics_NN2
 at_PRP
 the_AT0
-Gybe_NP0-NN1
+Gybe_NP0
 Figs_NN2
 106_CRD
 &_CJC
@@ -29562,7 +29562,7 @@ wind_NN1
 at_PRP
 the_AT0
 outset_NN1
-Rounding_VVG-AJ0
+Rounding_VVG
 in_PRP
 the_AT0
 company_NN1
@@ -29659,7 +29659,7 @@ give_VVI
 you_PNP
 space_NN1
 to_TO0
-gybe_NN1-VVB
+gybe_NN1
 in_PRP
 Strange_NP0
 though_CJS
@@ -29722,7 +29722,7 @@ races_NN2
 is_VBZ
 usually_AV0
 experienced_VVN
-Experience_NN1-VVB
+Experience_NN1
 heightens_VVZ
 our_DPS
 powers_NN2
@@ -29789,7 +29789,7 @@ the_AT0
 expert_NN1
 picks_VVZ
 up_AVP
-Armed_VVN-AJ0
+Armed_AJ0
 with_PRP
 inadequate_AJ0
 information_NN1
@@ -29807,7 +29807,7 @@ for_PRP
 putting_VVG
 in_PRP
 a_AT0
-tack_VVI
+tack_NN1
 than_CJS
 any_DT0
 other_AJ0
@@ -29867,7 +29867,7 @@ to_TO0
 sail_NN1
 the_AT0
 board_NN1
-fast_AV0-AJ0
+fast_AJ0
 it_PNP
 should_VM0
 have_VHB
@@ -29880,7 +29880,7 @@ when_CJS
 sailing_VVG
 the_AT0
 board_NN1
-fast_AV0-AJ0
+fast_AJ0
 has_VHZ
 become_VVI
 natural_AJ0
@@ -29984,13 +29984,13 @@ just_AV0
 one_CRD
 unfavourable_AJ0
 wind_NN1
-shift_NN1-VVB
+shift_NN1
 can_VM0
 ruin_NN1
 you_PNP
 Avoid_VVB
 being_VBG
-involved_AJ0
+involved_VVN
 in_PRP
 a_AT0
 protest_NN1
@@ -30019,7 +30019,7 @@ the_AT0
 incident_NN1
 I_PNP
 was_VBD
-involved_AJ0
+involved_VVN
 in_PRP
 a_AT0
 protest_NN1
@@ -30079,7 +30079,7 @@ people_NN0
 mistakes_NN2
 SLALOM_VVB
 RACING_VVG
-Slalom_VVB-NN1
+Slalom_NN1
 racing_VVG
 is_VBZ
 usually_AV0
@@ -30090,7 +30090,7 @@ winds_NN2
 so_AV0
 it_PNP
 is_VBZ
-fast_AV0-AJ0
+fast_AJ0
 exhilarating_AJ0
 and_CJC
 good_AJ0
@@ -30111,7 +30111,7 @@ the_AT0
 course_NN1
 has_VHZ
 no_AT0
-upwind_NN1-VVB
+upwind_NN1
 leg_NN1
 so_AV0
 shorter_AJC
@@ -30151,7 +30151,7 @@ marks_NN2
 being_VBG
 laid_VVN
 by_PRP
-wading_VVG-NN1
+wading_VVG
 into_PRP
 the_AT0
 surf_NN1
@@ -30253,7 +30253,7 @@ being_VBG
 eliminated_VVN
 The_AT0
 Beach_NN1
-Start_VVB-NN1
+Start_NN1
 With_PRP
 a_AT0
 beach_NN1
@@ -30334,7 +30334,7 @@ Everyone_PNI
 develops_VVZ
 their_DPS
 own_DT0
-favourite_AJ0-NN1
+favourite_AJ0
 method_NN1
 but_CJC
 you_PNP
@@ -30496,7 +30496,7 @@ should_VM0
 be_VBI
 attacking_VVG
 going_VVG
-fast_AV0-AJ0
+fast_AJ0
 and_CJC
 trying_VVG
 to_TO0
@@ -30509,7 +30509,7 @@ to_TO0
 get_VVI
 clear_AJ0
 wind_NN1
-Fast_AV0-AJ0
+Fast_AJ0
 technique_NN1
 has_VHZ
 already_AV0
@@ -30562,7 +30562,7 @@ with_PRP
 the_AT0
 legs_NN2
 which_DTQ
-act_VVI
+act_NN1
 as_CJS
 shock_NN1
 absorbers_NN2
@@ -30672,7 +30672,7 @@ aim_NN1
 is_VBZ
 not_XX0
 to_TO0
-fall_VVI
+fall_NN1
 in_PRP
 and_CJC
 to_TO0
@@ -30711,7 +30711,7 @@ pass_VVI
 before_PRP
 attempting_VVG
 the_AT0
-gybe_NN1-VVB
+gybe_NN1
 Having_VHG
 established_VVN
 a_AT0
@@ -30789,7 +30789,7 @@ yourself_PNX
 OTHER_AJ0
 DISCIPLINES_NN2
 Pursuit_NN1
-Racing_VVG-AJ0
+Racing_VVG
 This_DT0
 is_VBZ
 not_XX0
@@ -30841,7 +30841,7 @@ is_VBZ
 needed_VVN
 with_PRP
 an_AT0
-upwind_NN1-VVB
+upwind_NN1
 The_AT0
 handicaps_NN2
 are_VBB
@@ -31027,7 +31027,7 @@ to_TO0
 the_AT0
 wind_NN1
 Pascal_NP0
-Maka_NN1-NP0
+Maka_NN1
 of_PRF
 France_NP0
 achieved_VVN
@@ -31128,7 +31128,7 @@ equipment_NN1
 and_CJC
 see_VVI
 how_AVQ
-fast_AV0-AJ0
+fast_AJ0
 you_PNP
 can_VM0
 go_VVI
@@ -31142,10 +31142,10 @@ of_PRF
 knots_NN2
 or_CJC
 more_AV0
-Freestyle_NN1-NP0
+Freestyle_NP0
 Fig_NN1
 110_CRD
-Freestyle_NN1-NP0
+Freestyle_NP0
 is_VBZ
 a_AT0
 form_NN1
@@ -31274,13 +31274,13 @@ with_PRP
 a_AT0
 smooth_AJ0
 flowing_VVG
-act_VVI
+act_NN1
 Dee_NP0
 Caldwell_NP0
 's_POS
 Book_NN1
 of_PRF
-Freestyle_NN1-NP0
+Freestyle_NP0
 Boardsailing_NP0
 Fernhurst_NP0
 Books_NN2
@@ -31293,10 +31293,10 @@ as_CJS
 to_TO0
 what_DTQ
 is_VBZ
-involved_AJ0
+involved_VVN
 Variations_NN2
 Tandems_NN2
-Sailing_VVG-NN1
+Sailing_VVG
 a_AT0
 two-man_AJ0
 board_NN1
@@ -31309,7 +31309,7 @@ only_AV0
 is_VBZ
 it_PNP
 particularly_AV0
-fast_AV0-AJ0
+fast_AJ0
 in_PRP
 moderate_AJ0
 winds_NN2
@@ -31390,7 +31390,7 @@ because_CJS
 of_PRF
 their_DPS
 length_NN1
-Steering_AJ0-VVG
+Steering_VVG
 is_VBZ
 largely_AV0
 done_VDN
@@ -31547,7 +31547,7 @@ Force_NN1
 The_AT0
 vehicle_NN1
 is_VBZ
-footsteered_VVN-AJ0
+footsteered_VVN
 and_CJC
 some_DT0
 have_VHB
@@ -31695,10 +31695,10 @@ bent_VVD
 arms_NN2
 and_CJC
 too_AV0
-crouched_AJ0
+crouched_VVD
 a_AT0
 position_NN1
-Driving_VVG-AJ0
+Driving_VVG
 force_NN1
 acts_NN2
 in_PRP
@@ -31722,7 +31722,7 @@ the_AT0
 wind_NN1
 Fig_NN1
 89_CRD
-Balancing_VVG-NN1
+Balancing_NN1
 using_VVG
 the_AT0
 hips_NN2
@@ -31772,7 +31772,7 @@ Lester_NP0
 Noble_NP0
 designer_NN1
 of_PRF
-Tushingham_NP0-NN1
+Tushingham_NP0
 Sails_NN2
 concentrating_VVG
 on_PRP
@@ -31781,7 +31781,7 @@ the_AT0
 slot_NN1
 at_PRP
 Weymouth_NP0
-Speed_NN1-VVB
+Speed_NN1
 Week_NN1
 This_DT0
 is_VBZ
@@ -31939,7 +31939,7 @@ start_NN1
 mark_NN1
 Fig_NN1
 94_CRD
-Sailing_VVG-NN1
+Sailing_VVG
 backwards_AV0
 by_PRP
 pushing_VVG
@@ -31964,7 +31964,7 @@ bias_NN1
 Watch_VVB
 a_AT0
 flag_NN1
-Position_NN1-VVB
+Position_NN1
 board_NN1
 behind_PRP
 start_NN1
@@ -31981,7 +31981,7 @@ closer_AV0
 to_TO0
 the_AT0
 wind_NN1
-Position_NN1-VVB
+Position_NN1
 board_NN1
 along_AVP
 the_AT0
@@ -31990,7 +31990,7 @@ with_PRP
 sail_NN1
 free_AJ0
 The_AT0
-biased_VVN-AJ0
+biased_AJ0
 end_NN1
 is_VBZ
 the_AT0
@@ -32041,12 +32041,12 @@ sailing_VVG
 across_PRP
 the_AT0
 line_NN1
-upwind_NN1-VVB
+upwind_NN1
 you_PNP
 can_VM0
 judge_VVI
 the_AT0
-biased_VVN-AJ0
+biased_AJ0
 end_NN1
 Fig_NN1
 96_CRD
@@ -32239,7 +32239,7 @@ C_ZZ0
 so_AV0
 he_PNP
 must_VM0
-tack_VVI
+tack_NN1
 off_AVP
 quickly_AV0
 Both_DT0
@@ -32289,7 +32289,7 @@ breeze_NN1
 and_CJC
 tries_VVZ
 to_TO0
-cross_VVI
+cross_NN1
 it_PNP
 at_PRP
 90_CRD
@@ -32329,14 +32329,14 @@ because_CJS
 of_PRF
 the_AT0
 wind_NN1
-shift_NN1-VVB
+shift_NN1
 near_PRP
 the_AT0
 land_NN1
 Fig_NN1
 102_CRD
 Looking_VVG
-upwind_NN1-VVB
+upwind_NN1
 for_PRP
 clues_NN2
 Here_AV0
@@ -32363,7 +32363,7 @@ to_TO0
 judge_VVI
 when_CJS
 to_TO0
-tack_VVI
+tack_NN1
 for_PRP
 the_AT0
 mark_NN1
@@ -32413,7 +32413,7 @@ wind_NN1
 and_CJC
 can_VM0
 not_XX0
-tack_VVI
+tack_NN1
 because_CJS
 C_ZZ0
 is_VBZ
@@ -32466,7 +32466,7 @@ there_EX0
 is_VBZ
 a_AT0
 favourable_AJ0
-shift_NN1-VVB
+shift_NN1
 The_AT0
 white_AJ0
 boards_NN2
@@ -32514,7 +32514,7 @@ wide-out_AJ0
 close_AJ0
 Fig_NN1
 107_CRD
-Rounding_VVG-AJ0
+Rounding_VVG
 with_PRP
 others_NN2
 remember_VVI
@@ -32564,7 +32564,7 @@ a_AT0
 lighter_AJC
 wind_NN1
 slalom_NN1
-gybe_NN1-VVB
+gybe_NN1
 The_AT0
 wind_NN1
 is_VBZ
@@ -32690,7 +32690,7 @@ little_AJ0
 part_NN1
 Fig_NN1
 110_CRD
-Freestyle_NN1-NP0
+Freestyle_NP0
 is_VBZ
 an_AT0
 excellent_AJ0
@@ -32722,7 +32722,7 @@ a_AT0
 reverse_NN1
 leeward_AV0
 side_NN1
-railride_NN1-VVB
+railride_VVB
 inside_PRP
 the_AT0
 booms_NN2
@@ -32737,8 +32737,8 @@ Content_NN1
 LAUNCHING_VVG
 STARTING_NN1
 AND_CJC
-LANDING_NN1-VVG
-SAILING_VVG-NN1
+LANDING_VVG
+SAILING_NN1
 TECHNIQUES_NN2
 AND_CJC
 STANCE_NN1
@@ -32759,9 +32759,9 @@ separately_AV0
 raising_VVG
 the_AT0
 rig_NN1
-Sailing_VVG-NN1
+Sailing_VVG
 across_PRP
-upwind_NN1-VVB
+upwind_NN1
 and_CJC
 downwind_AV0
 wind_NN1
@@ -32873,10 +32873,10 @@ tacking_NN1
 and_CJC
 the_AT0
 flare_NN1
-gybe_NN1-VVB
+gybe_NN1
 LEVEL_AJ0
 4_CRD
-Funboard_NN1-NP0
+Funboard_NN1
 techniques_NN2
 Launching_VVG
 and_CJC
@@ -32887,7 +32887,7 @@ waves_NN2
 the_AT0
 water_NN1
 start_NN1
-Developing_AJ0-VVG
+Developing_AJ0
 stance_NN1
 and_CJC
 harness_NN1
@@ -32909,12 +32909,12 @@ all_DT0
 points_NN2
 of_PRF
 sailing_VVG
-Funboard_NN1-NP0
+Funboard_NN1
 tacking_NN1
 and_CJC
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 LEVEL_AJ0
 5_CRD
 Advanced_AJ0
@@ -32930,7 +32930,7 @@ carrying_VVG
 a_AT0
 short_AJ0
 board_NN1
-Wave_NN1-VVB
+Wave_NN1
 jumping_VVG
 riding_VVG
 and_CJC
@@ -32938,11 +32938,11 @@ transitions_NN2
 The_AT0
 short_AJ0
 board_NN1
-gybe_NN1-VVB
+gybe_NN1
 slam_NN1
-gybe_NN1-VVB
+gybe_NN1
 duck_NN0
-gybe_NN1-VVB
+gybe_NN1
 APPENDIX_NN1
 2_CRD
 The_AT0
@@ -32953,7 +32953,7 @@ Wind_NN1
 Force_NN1
 General_AJ0
 description_NN1
-Calm_VVB-NN1
+Calm_VVB
 Light_NN1
 air_NN1
 Light_NN1
@@ -32968,7 +32968,7 @@ Strong_AJ0
 breeze_NN1
 Near_PRP
 gale_NN1
-Gale_NN1-NP0
+Gale_NP0
 Severe_AJ0
 gale_NN1
 Sea_NP0
@@ -33011,7 +33011,7 @@ Crests_NN2
 begin_VVI
 to_TO0
 break_VVI
-Foam_VVB-NN1
+Foam_NN1
 of_PRF
 glassy_AJ0
 appearance_NN1
@@ -33092,7 +33092,7 @@ begin_VVI
 to_TO0
 break_VVI
 into_PRP
-spin-drift_NN1-AJ0
+spin-drift_NN1
 The_AT0
 foam_NN1
 is_VBZ
@@ -33128,14 +33128,14 @@ tumble_NN1
 and_CJC
 roll_NN1
 over_PRP
-Spray_VVB-NN1
+Spray_NN1
 may_VM0
 affect_VVI
 visibility_NN1
-Landman_NP0-NN1
+Landman_NN1
 's_POS
 Criterion_NN1
-Calm_VVB-NN1
+Calm_VVB
 smoke_NN1
 rises_VVZ
 vertically_AV0
@@ -33188,7 +33188,7 @@ in_PRP
 leaf_NN1
 begin_VVI
 to_TO0
-sway_VVI
+sway_NN1
 Crested_AJ0
 wavelets_NN2
 form_NN1
@@ -33199,7 +33199,7 @@ Large_AJ0
 branches_NN2
 in_PRP
 motion_NN1
-whistling_NN1-VVG
+whistling_VVG
 heard_VVN
 in_PRP
 telegraph_NN1
@@ -33219,7 +33219,7 @@ walking_VVG
 against_PRP
 the_AT0
 wind_NN1
-Breaks_VVZ-NN2
+Breaks_VVZ
 twigs_NN2
 off_AVP
 trees_NN2
@@ -33262,14 +33262,14 @@ experienced_VVN
 when_CJS
 standing_VVG
 still_AV0
-Balance_NN1-VVB
+Balance_NN1
 point_NN1
 The_AT0
 imaginary_AJ0
 point_NN1
 where_AVQ
 the_AT0
-CE_NN1-NP0
+CE_NP0
 acts_NN2
 on_PRP
 the_AT0
@@ -33349,13 +33349,13 @@ the_AT0
 water_NN1
 Bearing_VVG
 away_AV0
-Steering_AJ0-VVG
+Steering_VVG
 away_AV0
 from_PRP
 the_AT0
 wind_NN1
-Beating_VVG-NN1
-Sailing_VVG-NN1
+Beating_VVG
+Sailing_VVG
 into_PRP
 the_AT0
 wind_NN1
@@ -33422,7 +33422,7 @@ alloy_NN1
 tube_NN1
 covered_VVN
 with_PRP
-rubber_AJ0-NN1
+rubber_AJ0
 that_CJT
 you_PNP
 hold_VVI
@@ -33489,7 +33489,7 @@ which_DTQ
 full_AJ0
 length_NN1
 battens_NN2
-slide_VVI
+slide_NN1
 they_PNP
 make_VVI
 the_AT0
@@ -33508,9 +33508,9 @@ used_VVN
 in_PRP
 racing_VVG
 Carve_VVB
-gybe_NN1-VVB
+gybe_NN1
 A_AT0
-gybe_NN1-VVB
+gybe_NN1
 performed_VVN
 with_PRP
 the_AT0
@@ -33533,7 +33533,7 @@ assistance_NN1
 from_PRP
 the_AT0
 sail_NN1
-CE_NN1-NP0
+CE_NP0
 The_AT0
 centre_NN1
 of_PRF
@@ -33553,7 +33553,7 @@ of_PRF
 the_AT0
 sail_NN1
 acts_NN2
-Centreline_VVB-NN1
+Centreline_VVB
 An_AT0
 imaginary_AJ0
 line_NN1
@@ -33578,7 +33578,7 @@ lines_NN2
 of_PRF
 the_AT0
 rig_NN1
-Clew_VVB-NN1
+Clew_NN1
 The_AT0
 back_AVP
 corner_NN1
@@ -33720,7 +33720,7 @@ bottom_NN1
 of_PRF
 the_AT0
 wave_NN1
-Daggerboard_NN1-NP0
+Daggerboard_NN1
 This_DT0
 is_VBZ
 sometimes_AV0
@@ -33750,7 +33750,7 @@ retracted_VVD
 inside_PRP
 the_AT0
 board_NN1
-Downhaul_VVB-NN1
+Downhaul_NN1
 The_AT0
 line_NN1
 that_CJT
@@ -33797,9 +33797,9 @@ half_DT0
 length_NN1
 battens_NN2
 Duck_NN0
-gybe_NN1-VVB
+gybe_NN1
 A_AT0
-gybe_NN1-VVB
+gybe_NN1
 in_PRP
 which_DTQ
 instead_AV0
@@ -33821,7 +33821,7 @@ and_CJC
 throws_VVZ
 it_PNP
 overhead_AV0
-Dumping_VVG-AJ0
+Dumping_VVG
 waves_NN2
 Waves_NN2
 which_DTQ
@@ -33837,7 +33837,7 @@ occurs_VVZ
 at_PRP
 high_AJ0
 tide_NN1
-Fin_NN1-NP0
+Fin_NN1
 Also_AV0
 known_VVN
 as_CJS
@@ -33868,10 +33868,10 @@ in_PRP
 a_AT0
 straight_AV0
 line_NN1
-Flare_NN1-VVB
-gybe_NN1-VVB
+Flare_NN1
+gybe_NN1
 A_AT0
-gybe_NN1-VVB
+gybe_NN1
 normally_AV0
 performed_VVN
 on_PRP
@@ -33947,8 +33947,8 @@ using_VVG
 the_AT0
 Beaufort_NP0
 scale_NN1
-Freestyle_NN1-NP0
-Performing_NN1-VVG
+Freestyle_NP0
+Performing_NN1
 tricks_NN2
 on_PRP
 a_AT0
@@ -33961,7 +33961,7 @@ discipline_NN1
 in_PRP
 competitive_AJ0
 windsurfing_NN1
-Funboard_NN1-NP0
+Funboard_NN1
 A_AT0
 board_NN1
 that_CJT
@@ -34008,7 +34008,7 @@ out_AVP
 behind_PRP
 another_DT0
 board_NN1
-Gybe_NP0-NN1
+Gybe_NP0
 Turning_VVG
 the_AT0
 board_NN1
@@ -34030,7 +34030,7 @@ front_NN1
 of_PRF
 the_AT0
 board_NN1
-Harness_VVB-NN1
+Harness_VVB
 A_AT0
 garment_NN1
 worn_VVN
@@ -34060,11 +34060,11 @@ and_CJC
 lines_NN2
 Heading_VVG
 up_AVP
-Steering_AJ0-VVG
+Steering_VVG
 towards_PRP
 the_AT0
 wind_NN1
-IBSA_NP0-NN1
+IBSA_NN1
 International_AJ0
 Boardsailing_NP0
 Association_NN1
@@ -34077,7 +34077,7 @@ Olympic_AJ0
 Division_NN1
 11_CRD
 class_NN1
-Inhaul_VVB-NN1
+Inhaul_VVB
 The_AT0
 line_NN1
 that_CJT
@@ -34090,10 +34090,10 @@ boom_NN1
 to_TO0
 the_AT0
 mast_NN1
-IYRU_NP0-NN1
+IYRU_NN1
 International_AJ0
 Yacht_NN1
-Racing_VVG-AJ0
+Racing_VVG
 Union_NN1
 The_AT0
 body_NN1
@@ -34105,7 +34105,7 @@ sailing_VVG
 and_CJC
 windsurfing_NN1
 except_CJS
-Funboard_NN1-NP0
+Funboard_NN1
 racing_VVG
 Knots_NN2
 Nautical_AJ0
@@ -34278,7 +34278,7 @@ Divisions_NN2
 1_CRD
 and_CJC
 11_CRD
-Outhaul_VVB-NN1
+Outhaul_VVB
 The_AT0
 line_NN1
 that_CJT
@@ -34298,7 +34298,7 @@ boom_NN1
 It_PNP
 controls_NN2
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 curve_NN1
 or_CJC
 fullness_NN1
@@ -34317,7 +34317,7 @@ the_AT0
 fingers_NN2
 point_NN1
 downwards_AV0
-Oversheet_VVB-NN1
+Oversheet_NN1
 This_DT0
 happens_VVZ
 when_CJS
@@ -34382,7 +34382,7 @@ are_VBB
 sailing_VVG
 on_PRP
 port_NN1
-tack_VVI
+tack_NN1
 when_CJS
 your_DPS
 left_VVN
@@ -34393,7 +34393,7 @@ one_CRD
 nearest_AJS
 the_AT0
 mast_NN1
-Pumping_NN1-VVG
+Pumping_VVG
 The_AT0
 action_NN1
 of_PRF
@@ -34446,7 +34446,7 @@ more_AV0
 sideways_AV0
 resistance_NN1
 Reaching_VVG
-Sailing_VVG-NN1
+Sailing_VVG
 in_PRP
 a_AT0
 direction_NN1
@@ -34470,7 +34470,7 @@ the_AT0
 board_NN1
 's_POS
 course_NN1
-Rhumb_VVB-NN1
+Rhumb_NN1
 line_NN1
 The_AT0
 line_NN1
@@ -34501,9 +34501,9 @@ experienced_VVN
 on_PRP
 surf_NN1
 beaches_NN2
-Rocker_NP0-NN1
+Rocker_NN1
 The_AT0
-overall_AJ0-NN1
+overall_AJ0
 curve_NN1
 in_PRP
 the_AT0
@@ -34566,8 +34566,8 @@ which_DTQ
 are_VBB
 larger_AJC
 than_CJS
-average_AJ0-NN1
-Sheeting_NN1-VVG
+average_AJ0
+Sheeting_NN1
 in/out_AVP
 Changing_VVG
 the_AT0
@@ -34588,7 +34588,7 @@ out_AVP
 the_AT0
 back_AVP
 hand_NN1
-Simulator_NN1-NP0
+Simulator_NN1
 A_AT0
 land-based_AJ0
 board_NN1
@@ -34635,10 +34635,10 @@ when_CJS
 you_PNP
 are_VBB
 stationary_AJ0
-Skeg_VVB-NN1
+Skeg_VVB
 see_VVI
-Fin_NN1-NP0
-Slalom_VVB-NN1
+Fin_NN1
+Slalom_NN1
 A_AT0
 competitive_AJ0
 discipline_NN1
@@ -34650,21 +34650,21 @@ winds_NN2
 which_DTQ
 uses_NN2
 a_AT0
-fast_AV0-AJ0
+fast_AJ0
 reaching_VVG
 course_NN1
 with_PRP
 numerous_AJ0
 gybes_NN2
-Slam_VVB-NN1
-gybe_NN1-VVB
+Slam_VVB
+gybe_NN1
 Sometimes_AV0
 referred_VVN
 to_TO0
 as_CJS
 a_AT0
 scissors_NN2
-gybe_NN1-VVB
+gybe_NN1
 It_PNP
 is_VBZ
 a_AT0
@@ -34674,7 +34674,7 @@ version_NN1
 of_PRF
 the_AT0
 carve_NN1
-gybe_NN1-VVB
+gybe_NN1
 performed_VVN
 on_PRP
 shorter_AJC
@@ -34688,7 +34688,7 @@ in_PRP
 a_AT0
 short_AJ0
 distance_NN1
-Slot_NN1-VVB
+Slot_VVB
 flusher_NN1
 A_AT0
 device_NN1
@@ -34791,7 +34791,7 @@ are_VBB
 sailing_VVG
 on_PRP
 starboard_NN1
-tack_VVI
+tack_NN1
 when_CJS
 you_PNP
 right_NN1
@@ -34805,7 +34805,7 @@ the_AT0
 mast_NN1
 Steamer_NP0
 A_AT0
-one-piece_AJ0-NN1
+one-piece_AJ0
 wetsuit_NN1
 with_PRP
 close_AJ0
@@ -34830,7 +34830,7 @@ to_TO0
 prevent_VVI
 water_NN1
 penetration_NN1
-Tack_NN1-VVB
+Tack_VVB
 Turning_VVG
 round_AVP
 by_PRP
@@ -34853,7 +34853,7 @@ end_NN1
 of_PRF
 the_AT0
 boat_NN1
-Tandem_NP0-NN1
+Tandem_NP0
 A_AT0
 windsurfer_NN1
 designed_VVN
@@ -34874,7 +34874,7 @@ start_NN1
 line_NN1
 you_PNP
 are_VBB
-Trim_VVB-NN1
+Trim_NN1
 The_AT0
 manner_NN1
 in_PRP
@@ -34935,7 +34935,7 @@ the_AT0
 first_ORD
 windsurfing_NN1
 patent_NN1
-Uphaul_VVB-NN1
+Uphaul_VVB
 The_AT0
 thick_AJ0
 piece_NN1
@@ -34951,7 +34951,7 @@ rig_NN1
 in_PRP
 the_AT0
 water_NN1
-Upwind_VVB-NN1
+Upwind_NN1
 the_AT0
 direction_NN1
 that_CJT
@@ -35021,7 +35021,7 @@ position_NN1
 in_PRP
 the_AT0
 water_NN1
-Wax_VVB-NN1
+Wax_NN1
 Non-slip_AJ0
 wax_NN1
 is_VBZ
@@ -35031,7 +35031,7 @@ help_VVI
 your_DPS
 grip_NN1
 underfoot_AV0
-Windshift_VVB-NN1
+Windshift_NN1
 A_AT0
 change_NN1
 in_PRP
@@ -35054,7 +35054,7 @@ part_NN1
 of_PRF
 tactics_NN2
 on_PRP
-upwind_NN1-VVB
+upwind_NN1
 legs_NN2
 as_CJS
 you_PNP

@@ -156,7 +156,7 @@ of_PRF
 education_NN1
 and_CJC
 other_AJ0
-perennial_AJ0-NN1
+perennial_AJ0
 ills_NN2
 associated_VVN
 with_PRP
@@ -208,7 +208,7 @@ for_PRP
 so_AV0
 long_AJ0
 held_VVN
-sway_VVI
+sway_NN1
 In_PRP
 the_AT0
 early_AJ0
@@ -342,7 +342,7 @@ from_PRP
 worsening_AJ0
 Townsend_NP0
 and_CJC
-Bosanquet_NP0-NN1
+Bosanquet_NP0
 1972_CRD
 Evidence_NN1
 began_VVD
@@ -461,7 +461,7 @@ the_AT0
 key_AJ0
 inner-city_AJ0
 issue_NN1
-Rising_VVG-AJ0
+Rising_VVG
 unemployment_NN1
 turned_VVD
 a_AT0
@@ -497,7 +497,7 @@ inner_AJ0
 cities_NN2
 to_TO0
 public_AJ0
-notice_VVI
+notice_NN1
 In_PRP
 the_AT0
 early_AJ0
@@ -594,7 +594,7 @@ riots_NN2
 few_DT0
 of_PRF
 those_DT0
-involved_AJ0
+involved_VVN
 were_VBD
 immigrants_NN2
 the_AT0
@@ -649,7 +649,7 @@ City_NN1
 Life_NN1
 under_PRP
 the_AT0
-Cutting_VVG-NN1
+Cutting_VVG
 Edge_NN1
 focused_VVN
 on_PRP
@@ -918,7 +918,7 @@ be_VBI
 a_AT0
 society_NN1
 of_PRF
-barricaded_VVN-VVD
+barricaded_VVD
 self-defence_NN1
 and_CJC
 a_AT0
@@ -1070,7 +1070,7 @@ part_NN1
 real_AJ0
 drugs_NN2
 The_AT0
-spiral_AJ0-NN1
+spiral_NN1
 in_PRP
 drug_NN1
 abuse_NN1
@@ -1106,7 +1106,7 @@ alongside_PRP
 the_AT0
 global_AJ0
 increase_NN1
-Smoking_NN1-VVG
+Smoking_VVG
 heroin_NN1
 chasing_VVG
 the_AT0
@@ -1120,7 +1120,7 @@ upsurge_NN1
 Another_DT0
 was_VBD
 the_AT0
-increased_AJ0
+increased_VVN
 availability_NN1
 of_PRF
 and_CJC
@@ -1138,7 +1138,7 @@ seemed_VVD
 to_TO0
 suggest_VVI
 an_AT0
-increased_AJ0
+increased_VVN
 use_NN1
 of_PRF
 crack_NN1
@@ -1189,7 +1189,7 @@ in_PRP
 Britain_NP0
 remains_VVZ
 as_CJS
-varied_AJ0
+varied_VVN
 as_CJS
 ever_AV0
 with_PRP
@@ -1259,7 +1259,7 @@ areas_NN2
 of_PRF
 city_NN1
 poverty_NN1
-Burr_NN1-VVB
+Burr_VVB
 1989_CRD
 In_PRP
 short_AJ0
@@ -1440,7 +1440,7 @@ all_DT0
 the_AT0
 architect_NN1
 Cedric_NP0
-Price_NP0-NN1
+Price_NP0
 is_VBZ
 quoted_VVN
 as_CJS
@@ -1461,7 +1461,7 @@ of_PRF
 money_NN1
 and_CJC
 management_NN1
-Parkin_NP0-NN1
+Parkin_NP0
 1989_CRD
 The_AT0
 view_NN1
@@ -1556,7 +1556,7 @@ or_CJC
 their_DPS
 CSE_NN1
 equivalents_NN2
-Homelessness_NN1-NP0
+Homelessness_NN1
 housing_NN1
 conditions_NN2
 crime_NN1
@@ -1576,7 +1576,7 @@ more_AV0
 established_VVN
 p._NN0
 1_CRD
-Drawing_VVG-NN1
+Drawing_NN1
 on_PRP
 North_NN1
 American_AJ0
@@ -1649,11 +1649,11 @@ anti-collectivist_AJ0
 belief_NN1
 in_PRP
 the_AT0
-restorative_AJ0-NN1
+restorative_NN1
 powers_NN2
 of_PRF
 capitalism_NN1
-Leech_NN1-NP0
+Leech_NN1
 and_CJC
 Amin_NP0
 1988_CRD
@@ -1852,7 +1852,7 @@ housing_NN1
 and_CJC
 the_AT0
 1967_CRD
-Plowden_NN1-NP0
+Plowden_NP0
 Report_NN1
 on_PRP
 education_NN1
@@ -1963,7 +1963,7 @@ initiatives_NN2
 under_PRP
 the_AT0
 1969_CRD
-Local_NN1-AJ0
+Local_AJ0
 Government_NN1
 Grants_NN2
 Social_AJ0
@@ -2062,7 +2062,7 @@ been_VBN
 reflected_VVN
 in_PRP
 a_AT0
-switch_VVI
+switch_NN1
 of_PRF
 responsibility_NN1
 for_PRP
@@ -2316,7 +2316,7 @@ Such_DT0
 measures_NN2
 constituted_VVD
 the_AT0
-present_AJ0-NN1
+present_AJ0
 Government_NN1
 's_POS
 heritage_NN1
@@ -2342,7 +2342,7 @@ were_VBD
 caused_VVN
 by_PRP
 the_AT0
-slump_NN1-VVB
+slump_NN1
 and_CJC
 collapse_NN1
 of_PRF
@@ -2434,7 +2434,7 @@ and_CJC
 at_PRP
 first_ORD
 the_AT0
-shift_NN1-VVB
+shift_NN1
 was_VBD
 more_AV0
 rhetorical_AJ0
@@ -2569,7 +2569,7 @@ coinciding_VVG
 with_PRP
 the_AT0
 biggest_AJS
-drop_VVI
+drop_NN1
 in_PRP
 employment_NN1
 and_CJC
@@ -2622,7 +2622,7 @@ state_NN1
 involvement_NN1
 and_CJC
 expenditure_NN1
-relative_AJ0-NN1
+relative_AJ0
 to_TO0
 that_CJT
 of_PRF
@@ -2639,7 +2639,7 @@ as_CJS
 a_AT0
 deteriorating_AJ0
 but_CJC
-perennial_AJ0-NN1
+perennial_AJ0
 urban_AJ0
 problem_NN1
 rapidly_AV0
@@ -2675,7 +2675,7 @@ variety_NN1
 of_PRF
 agencies_NN2
 The_AT0
-increased_AJ0
+increased_VVN
 scale_NN1
 of_PRF
 operations_NN2
@@ -2713,7 +2713,7 @@ the_AT0
 three_CRD
 government_NN1
 departments_NN2
-involved_AJ0
+involved_VVN
 Task_NN1
 forces_NN2
 meanwhile_AV0
@@ -2759,7 +2759,7 @@ some_DT0
 buildings_NN2
 were_VBD
 being_VBG
-improved_AJ0
+improved_VVN
 estate_NN1
 action_NN1
 aimed_VVN
@@ -2863,7 +2863,7 @@ for_PRP
 example_NN1
 and_CJC
 simplified_AJ0
-Planning_NN1-VVG
+Planning_NN1
 Zones_NN2
 which_DTQ
 aimed_VVN
@@ -2899,14 +2899,14 @@ by_PRP
 the_AT0
 late_AJ0
 1980s_CRD
-involved_AJ0
+involved_VVN
 with_PRP
 the_AT0
 other_AJ0
 hand_NN1
 in_PRP
 massive_AJ0
-ear-marked_VVD-AJ0
+ear-marked_AJ0
 spending_VVG
 on_PRP
 inner_AJ0
@@ -3155,7 +3155,7 @@ such_DT0
 bodies_NN2
 already_AV0
 heavily_AV0
-subsidized_AJ0-VVD
+subsidized_VVD
 from_PRP
 public_AJ0
 funds_NN2
@@ -3340,7 +3340,7 @@ major_AJ0
 ethnic_AJ0
 dimension_NN1
 Newcastle_NP0
-Teesside_NP0-NN1
+Teesside_NP0
 not_XX0
 all_DT0
 members_NN2
@@ -3350,7 +3350,7 @@ minorities_NN2
 are_VBB
 poor_AJ0
 or_CJC
-deprived_AJ0
+deprived_VVN
 Nevertheless_AV0
 the_AT0
 high_AJ0
@@ -3520,7 +3520,7 @@ the_AT0
 Government_NN1
 the_AT0
 CBI_NP0
-stressed_VVD
+stressed_VVN
 the_AT0
 partnership_NN1
 theme_NN1
@@ -3696,7 +3696,7 @@ by_PRP
 government_NN1
 subsidy_NN1
 or_CJC
-pump-priming_NN1-AJ0
+pump-priming_NN1
 The_AT0
 bottom_NN1
 line_NN1
@@ -3752,7 +3752,7 @@ the_AT0
 business_NN1
 community_NN1
 This_DT0
-heightened_AJ0
+heightened_VVN
 business_NN1
 interest_NN1
 in_PRP
@@ -3989,7 +3989,7 @@ incentive_NN1
 for_PRP
 smaller_AJC
 firms_NN2
-struggling_VVG-AJ0
+struggling_VVG
 to_TO0
 make_VVI
 a_AT0
@@ -4152,12 +4152,12 @@ environment_NN1
 in_PRP
 which_DTQ
 a_AT0
-fledgling_NN1-AJ0
+fledgling_AJ0
 or_CJC
 established_VVN
 business_NN1
 will_VM0
-feel_VVI
+feel_VVB
 comfortable_AJ0
 and_CJC
 wish_VVB
@@ -4243,7 +4243,7 @@ precisely_AV0
 those_DT0
 which_DTQ
 this_DT0
-pro-business_AJ0-NN1
+pro-business_NN1
 administration_NN1
 wishes_NN2
 to_TO0
@@ -4315,7 +4315,7 @@ urban_AJ0
 poverty_NN1
 the_AT0
 report_NN1
-stressed_VVD
+stressed_VVN
 the_AT0
 Commission_NN1
 's_POS
@@ -4542,7 +4542,7 @@ in_PRP
 the_AT0
 City_NN1
 concluded_VVD
-bluntly_AV0-AJ0
+bluntly_AV0
 that_CJT
 the_AT0
 1977_CRD
@@ -4557,7 +4557,7 @@ been_VBN
 tried_VVD
 and_CJC
 found_VVD
-wanting_VVG-AJ0
+wanting_VVG
 They_PNP
 have_VHB
 not_XX0
@@ -4588,7 +4588,7 @@ which_DTQ
 a_AT0
 bit_NN1
 of_PRF
-capitalist_AJ0-NN1
+capitalist_AJ0
 enterprise_NN1
 could_VM0
 clear_AJ0
@@ -4646,7 +4646,7 @@ government_NN1
 and_CJC
 the_AT0
 greatly_AV0
-increased_AJ0
+increased_VVN
 proportion_NN1
 of_PRF
 total_AJ0
@@ -4764,7 +4764,7 @@ its_DPS
 association_NN1
 with_PRP
 supposedly_AV0
-spendthrift_NN1-VVB
+spendthrift_VVB
 urban_AJ0
 policies_NN2
 In_PRP
@@ -4808,7 +4808,7 @@ out_AVP
 of_PRF
 fashion_NN1
 and_CJC
-neo-liberalism_NN1-AJ0
+neo-liberalism_AJ0
 in_PRP
 vogue_NN1
 the_AT0
@@ -4933,7 +4933,7 @@ at_PRP
 least_AV0
 which_DTQ
 the_AT0
-present_AJ0-NN1
+present_AJ0
 administration_NN1
 has_VHZ
 proved_VVN
@@ -5003,7 +5003,7 @@ save_VVI
 money_NN1
 or_CJC
 merely_AV0
-shift_NN1-VVB
+shift_NN1
 essential_AJ0
 expenditure_NN1
 between_PRP
@@ -5062,7 +5062,7 @@ composition_NN1
 of_PRF
 the_AT0
 workforce_NN1
-increased_AJ0
+increased_VVN
 flexibility_NN1
 of_PRF
 labour_NN1
@@ -5105,13 +5105,13 @@ areas_NN2
 the_AT0
 Centre_NN1
 for_PRP
-Local_NN1-AJ0
+Local_AJ0
 Economic_AJ0
 Strategies_NN2
 CLES_NP0
 reported_VVN
 in_PRP
-Local_NN1-AJ0
+Local_AJ0
 Work_NN1
 1988_CRD
 and_CJC
@@ -5404,7 +5404,7 @@ also_AV0
 we_PNP
 hope_VVB
 little_AJ0
-shirking_NN1-VVG
+shirking_VVG
 of_PRF
 awkward_AJ0
 issues_NN2
@@ -5457,7 +5457,7 @@ manifestations_NN2
 of_PRF
 urban_AJ0
 breakdown-John_NP0
-Benyon_NP0-NN1
+Benyon_NP0
 and_CJC
 John_NP0
 Solomos_NP0
@@ -5472,7 +5472,7 @@ example_NN1
 others_NN2
 like_PRP
 Robert_NP0
-Reiner_NP0-NN1
+Reiner_NP0
 at_PRP
 the_AT0
 evidence_NN1
@@ -5612,7 +5612,7 @@ by_PRP
 two_CRD
 writers_NN2
 closely_AV0
-involved_AJ0
+involved_VVN
 with_PRP
 implementation_NN1
 Nick_NP0
@@ -5643,7 +5643,7 @@ of_PRF
 social_AJ0
 improvement_NN1
 Hilary_NP0
-Land_NP0-NN1
+Land_NN1
 examines_VVZ
 women_NN2
 's_POS
@@ -5759,7 +5759,7 @@ turns_VVZ
 the_AT0
 Government_NN1
 's_POS
-self-help_AJ0-NN1
+self-help_AJ0
 approach_NN1
 around_PRP
 by_PRP
@@ -5847,7 +5847,7 @@ integration_NN1
 One_CRD
 reason_NN1
 is_VBZ
-relative_AJ0-NN1
+relative_AJ0
 economic_AJ0
 decline_NN1
 Another_DT0
@@ -5873,7 +5873,7 @@ been_VBN
 a_AT0
 conscious_AJ0
 and_CJC
-accelerating_AJ0-VVG
+accelerating_VVG
 ambition_NN1
 to_TO0
 limit_NN1
@@ -5941,7 +5941,7 @@ taken_VVN
 the_AT0
 form_NN1
 of_PRF
-low-paid_AJ0-NN1
+low-paid_NN1
 so-called_AJ0
 part-time_AJ0
 work_NN1
@@ -6172,7 +6172,7 @@ that_CJT
 needs_VVZ
 to_TO0
 be_VBI
-reasserted_VVN-AJ0
+reasserted_VVN
 for_PRP
 many_DT0
 areas_NN2
@@ -6265,7 +6265,7 @@ institutionalized_AJ0
 service_NN1
 Thus_AV0
 Titmuss_NP0
-ridiculed_VVD
+ridiculed_VVN
 the_AT0
 contortions_NN2
 of_PRF
@@ -6286,7 +6286,7 @@ that_CJT
 of_PRF
 the_AT0
 ubiquitous_AJ0
-average_AJ0-NN1
+average_AJ0
 family_NN1
 Abel-Smith_NP0
 and_CJC
@@ -6299,7 +6299,7 @@ spite_NN1
 of_PRF
 their_DPS
 claims_NN2
-targeted_AJ0
+targeted_VVD
 programmes_NN2
 frequently_AV0
 miss_VVI
@@ -6380,7 +6380,7 @@ and_CJC
 with_PRP
 theories_NN2
 of_PRF
-self-help_AJ0-NN1
+self-help_AJ0
 has_VHZ
 downgraded_VVN
 public_AJ0
@@ -6576,7 +6576,7 @@ this_DT0
 book_NN1
 do_VDB
 not_XX0
-present_AJ0-NN1
+present_AJ0
 a_AT0
 monolithic_AJ0
 view_NN1
@@ -6702,7 +6702,7 @@ that_CJT
 is_VBZ
 becoming_VVG
 firmly_AV0
-entrenched_AJ0
+entrenched_VVN
 in_PRP
 British_AJ0
 society_NN1
@@ -6834,7 +6834,7 @@ cockroach_NN1
 at_PRP
 its_DPS
 heart_NN1
-Homelessness_NN1-NP0
+Homelessness_NN1
 drug_NN1
 addiction_NN1
 beggars_NN2
@@ -6843,7 +6843,7 @@ the_AT0
 streets_NN2
 give_VVI
 the_AT0
-lie_VVI
+lie_VVB
 to_TO0
 the_AT0
 assumption_NN1
@@ -6873,7 +6873,7 @@ authors_NN2
 seek_VVI
 rather_AV0
 by_PRP
-challenging_VVG-AJ0
+challenging_VVG
 old_AJ0
 approaches_NN2
 and_CJC
@@ -6898,7 +6898,7 @@ Injustice_NN1
 and_CJC
 Disorder_NN1
 John_NP0
-Benyon_NP0-NN1
+Benyon_NP0
 and_CJC
 John_NP0
 Solomos_NP0
@@ -6967,9 +6967,9 @@ of_PRF
 serious_AJ0
 street_NN1
 disorder_NN1
-Benyon_NP0-NN1
+Benyon_NP0
 1984_CRD
-Benyon_NP0-NN1
+Benyon_NP0
 and_CJC
 Solomos_NP0
 1987_CRD
@@ -7282,7 +7282,7 @@ Friday_NP0
 3_CRD
 July_NP0
 a_AT0
-pitched_AJ0
+pitched_VVD
 battle_NN1
 occurred_VVD
 in_PRP
@@ -7349,7 +7349,7 @@ rioters_NN2
 by_PRP
 the_AT0
 police_NN2
-Looting_NN1-VVG
+Looting_NN1
 and_CJC
 arson_NN1
 were_VBD
@@ -7488,7 +7488,7 @@ inquiry_NN1
 which_DTQ
 exonerated_VVD
 those_DT0
-involved_AJ0
+involved_VVN
 and_CJC
 stated_VVD
 that_CJT
@@ -7585,7 +7585,7 @@ niceties_NN2
 of_PRF
 the_AT0
 law_NN1
-Benyon_NP0-NN1
+Benyon_NP0
 and_CJC
 Solomos_NP0
 1987_CRD
@@ -7604,7 +7604,7 @@ on_PRP
 a_AT0
 reduced_VVN
 scale_NN1
-Benyon_NP0-NN1
+Benyon_NP0
 and_CJC
 Solomos_NP0
 1987_CRD
@@ -7858,7 +7858,7 @@ Council_NN1
 as_CJS
 the_AT0
 most_AV0
-deprived_AJ0
+deprived_VVN
 district_NN1
 in_PRP
 the_AT0
@@ -7959,7 +7959,7 @@ to_TO0
 other_AJ0
 duties_NN2
 and_CJC
-clamping_AJ0-NN1
+clamping_AJ0
 down_AVP
 on_PRP
 the_AT0
@@ -8053,7 +8053,7 @@ a_AT0
 black_AJ0
 youth_NN1
 became_VVD
-involved_AJ0
+involved_VVN
 in_PRP
 an_AT0
 altercation_NN1
@@ -8139,7 +8139,7 @@ led_VVD
 to_TO0
 the_AT0
 rioting_NN1
-involved_AJ0
+involved_VVN
 police-officers_NN2
 and_CJC
 a_AT0
@@ -8155,7 +8155,7 @@ armed_AJ0
 police_NN2
 entered_VVD
 Mrs_NP0
-Cherry_NP0-NN1
+Cherry_NP0
 Groce_NP0
 's_POS
 house_NN1
@@ -8474,7 +8474,7 @@ and_CJC
 the_AT0
 trigger_NN1
 event_NN1
-involved_AJ0
+involved_VVN
 police-officers_NN2
 and_CJC
 black_AJ0
@@ -8482,7 +8482,7 @@ people_NN0
 Gifford_NP0
 1986_CRD
 The_AT0
-chief_AJ0-NN1
+chief_NN1
 superintendent_NN1
 for_PRP
 the_AT0
@@ -8680,7 +8680,7 @@ charged_VVN
 with_PRP
 assaulting_VVG
 a_AT0
-police-officer_NN1-AJ0
+police-officer_NN1
 On_PRP
 13_CRD
 December_NP0
@@ -8746,7 +8746,7 @@ was_VBD
 caused_VVN
 by_PRP
 a_AT0
-police-officer_NN1-AJ0
+police-officer_NN1
 who_PNQ
 pushed_VVD
 her_DPS
@@ -8787,7 +8787,7 @@ news_NN1
 of_PRF
 the_AT0
 tragedy_NN1
-spread_NN1
+spread_VVN
 quickly_AV0
 around_PRP
 the_AT0
@@ -8936,7 +8936,7 @@ Prospect_NN1
 Estate_NN1
 in_PRP
 the_AT0
-Devonport_NN1-NP0
+Devonport_NP0
 constituency_NN1
 of_PRF
 Plymouth_NP0
@@ -9467,7 +9467,7 @@ the_AT0
 Liberal_AJ0
 leader_NN1
 David_NP0
-Steel_NN1-NP0
+Steel_NP0
 who_PNQ
 argued_VVD
 that_CJT
@@ -9523,7 +9523,7 @@ of_PRF
 street_NN1
 violence_NN1
 crime_NN1
-decaying_AJ0-VVG
+decaying_AJ0
 urban_AJ0
 conditions_NN2
 the_AT0
@@ -9615,7 +9615,7 @@ November_NP0
 Any_DT0
 substantive_AJ0
 disagreement_NN1
-centred_VVN-VVD
+centred_VVN
 around_PRP
 the_AT0
 issue_NN1
@@ -9637,7 +9637,7 @@ violently_AV0
 on_PRP
 the_AT0
 streets_NN2
-Intermingled_VVD-VVN
+Intermingled_VVD
 with_PRP
 the_AT0
 discourses_NN2
@@ -9686,13 +9686,13 @@ in_PRP
 various_AJ0
 official_AJ0
 reports_NN2
-hinged_VVN-VVD
+hinged_VVD
 around_PRP
 the_AT0
 interrelationship_NN1
 between_PRP
 racial_AJ0
-law-and-order_NN1-AJ0
+law-and-order_AJ0
 and_CJC
 social_AJ0
 factors_NN2
@@ -9880,7 +9880,7 @@ not_XX0
 believe_VVB
 that_CJT
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 cause_NN1
 of_PRF
 last_ORD
@@ -9903,7 +9903,7 @@ and_CJC
 despair_NN1
 in_PRP
 the_AT0
-decaying_AJ0-VVG
+decaying_AJ0
 areas_NN2
 of_PRF
 our_DPS
@@ -9945,7 +9945,7 @@ controversy_NN1
 about_PRP
 this_DT0
 analysis_NN1
-centred_VVN-VVD
+centred_VVN
 on_PRP
 the_AT0
 question_NN1
@@ -10140,7 +10140,7 @@ they_PNP
 could_VM0
 come_VVI
 to_TO0
-feel_VVI
+feel_VVB
 that_CJT
 they_PNP
 have_VHB
@@ -10162,7 +10162,7 @@ fit_VVI
 in_PRP
 with_PRP
 the_AT0
-overarching_AJ0-NN1
+overarching_AJ0
 themes_NN2
 of_PRF
 race_NN1
@@ -10204,7 +10204,7 @@ be_VBI
 fully_AV0
 and_CJC
 effectively_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 planning_NN1
 in_PRP
@@ -10432,7 +10432,7 @@ an_AT0
 aberration_NN1
 Similarly_AV0
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 violence_NN1
 in_PRP
@@ -10457,7 +10457,7 @@ previous_AJ0
 experience_NN1
 which_DTQ
 had_VHD
-centred_VVN-VVD
+centred_VVN
 on_PRP
 areas_NN2
 such_DT0
@@ -10612,7 +10612,7 @@ a_AT0
 step_NN1
 further_AJC
 Peregrine_NN1
-Worsthorne_NP0-NN1
+Worsthorne_NN1
 for_PRP
 example_NN1
 used_VVN
@@ -10857,7 +10857,7 @@ and_CJC
 mostly_AV0
 unemployed_AJ0
 and_CJC
-involved_AJ0
+involved_VVN
 with_PRP
 crime_NN1
 Keith_NP0
@@ -10986,7 +10986,7 @@ those_DT0
 of_PRF
 every_AT0
 other_AJ0
-law-abiding_AJ0-NN1
+law-abiding_AJ0
 citizen_NN1
 We_PNP
 share_NN1
@@ -11097,7 +11097,7 @@ relation_NN1
 to_TO0
 the_AT0
 highly_AV0
-politicized_AJ0-VVD
+politicized_VVD
 issue_NN1
 of_PRF
 unemployment_NN1
@@ -11197,7 +11197,7 @@ described_VVN
 the_AT0
 estate_NN1
 as_CJS
-Living_VVG-NN1
+Living_VVG
 Hell_NN1
 and_CJC
 quoted_VVN
@@ -11272,7 +11272,7 @@ Burnt-out_AJ0
 hulks_NN2
 litter_NN1
 this_DT0
-concrete_AJ0-NN1
+concrete_AJ0
 jungle_NN1
 despair_NN1
 hangs_VVZ
@@ -11424,7 +11424,7 @@ unemployment_NN1
 was_VBD
 a_AT0
 heavily_AV0
-politicized_AJ0-VVD
+politicized_VVD
 issue_NN1
 and_CJC
 just_AV0
@@ -11541,10 +11541,10 @@ police_NN2
 but_CJC
 a_AT0
 criminal_AJ0
-act_VVI
+act_NN1
 or_CJC
 a_AT0
-cry_VVI
+cry_NN1
 for_PRP
 loot_NN1
 This_DT0
@@ -11557,7 +11557,7 @@ succinctly_AV0
 by_PRP
 Geoffrey_NP0
 Dear_AJ0
-Chief_NP0
+Chief_NN1
 Constable_NP0
 of_PRF
 the_AT0
@@ -11844,12 +11844,12 @@ Tuesday_NP0
 was_VBD
 not_XX0
 a_AT0
-cry_VVI
+cry_NN1
 for_PRP
 help_VVI
 but_CJC
 a_AT0
-cry_VVI
+cry_NN1
 for_PRP
 loot_NN1
 Financial_AJ0
@@ -11858,7 +11858,7 @@ Times_NN2
 September_NP0
 1985_CRD
 The_AT0
-Chief_NP0
+Chief_NN1
 Constable_NP0
 for_PRP
 the_AT0
@@ -11936,7 +11936,7 @@ the_AT0
 interests_NN2
 of_PRF
 the_AT0
-law-abiding_AJ0-NN1
+law-abiding_AJ0
 majority_NN1
 SYMBOLIC_AJ0
 POLITICS_NN1
@@ -12198,7 +12198,7 @@ as_CJS
 Brixton_NP0
 and_CJC
 the_AT0
-precipitating_VVG-AJ0
+precipitating_AJ0
 action_NN1
 or_CJC
 event_NN1
@@ -12249,7 +12249,7 @@ protest_NN1
 against_PRP
 society_NN1
 by_PRP
-deprived_AJ0
+deprived_VVN
 people_NN0
 who_PNQ
 saw_VVD
@@ -12325,7 +12325,7 @@ and_CJC
 maintaining_VVG
 order_NN1
 in_PRP
-deprived_AJ0
+deprived_VVN
 inner-city_AJ0
 multi-racial_AJ0
 localities_NN2
@@ -12376,7 +12376,7 @@ these_DT0
 features_NN2
 in_PRP
 certain_AJ0
-deprived_AJ0
+deprived_VVN
 areas_NN2
 as_CJS
 creating_VVG
@@ -12730,7 +12730,7 @@ that_CJT
 only_AV0
 a_AT0
 national_AJ0
-government-led_AJ0-NN1
+government-led_NN1
 initiative_NN1
 to_TO0
 deal_NN1
@@ -12759,7 +12759,7 @@ responses_NN2
 to_TO0
 the_AT0
 Report_NN1
-varied_AJ0
+varied_VVN
 greatly_AV0
 although_CJS
 it_PNP
@@ -13263,7 +13263,7 @@ the_AT0
 Government_NN1
 had_VHD
 to_TO0
-tread_VVI
+tread_VVB
 warily_AV0
 in_PRP
 responding_VVG
@@ -13578,13 +13578,13 @@ orgy_NN1
 of_PRF
 thieving_NN1
 a_AT0
-cry_VVI
+cry_NN1
 for_PRP
 loot_NN1
 and_CJC
 not_XX0
 a_AT0
-cry_VVI
+cry_NN1
 for_PRP
 help_VVI
 2_CRD
@@ -13719,7 +13719,7 @@ riot_NN1
 was_VBD
 not_XX0
 a_AT0
-cry_VVI
+cry_NN1
 for_PRP
 help_VVI
 by_PRP
@@ -13728,7 +13728,7 @@ rioters_NN2
 The_AT0
 sound_NN1
 which_DTQ
-law-abiding_AJ0-NN1
+law-abiding_AJ0
 people_NN0
 heard_VVN
 at_PRP
@@ -13736,12 +13736,12 @@ Handsworth_NP0
 was_VBD
 not_XX0
 a_AT0
-cry_VVI
+cry_NN1
 for_PRP
 help_VVI
 but_CJC
 a_AT0
-cry_VVI
+cry_NN1
 for_PRP
 loot_NN1
 That_DT0
@@ -14078,7 +14078,7 @@ of_PRF
 the_AT0
 market_NN1
 The_AT0
-present_AJ0-NN1
+present_AJ0
 political_AJ0
 climate_NN1
 gives_VVZ
@@ -14222,7 +14222,7 @@ more_AV0
 turbulent_AJ0
 brutalized_VVD
 and_CJC
-trouble-torn_NN1-AJ0
+trouble-torn_AJ0
 The_AT0
 excluded_VVN
 black_AJ0
@@ -14360,7 +14360,7 @@ held_VVN
 a_AT0
 meeting_NN1
 in_PRP
-Coldbath_NP0-NN1
+Coldbath_NN1
 Fields_NN2
 in_PRP
 Clerkenwell_NP0
@@ -14387,7 +14387,7 @@ quite_AV0
 four_CRD
 years_NN2
 old_AJ0
-Fighting_VVG-NN1
+Fighting_NN1
 broke_VVD
 out_AVP
 between_PRP
@@ -14445,20 +14445,20 @@ attended_VVN
 the_AT0
 birth_NN1
 of_PRF
-Peel_NP0-NN1
+Peel_NP0
 's_POS
 New_AJ0
 Police_NN2
 For_PRP
 the_AT0
 conventional_AJ0
-cop-sided_AJ0-NN1
+cop-sided_NN1
 histories_NN2
 of_PRF
 British_AJ0
 police_NN2
 development_NN1
-Coldbath_NP0-NN1
+Coldbath_NN1
 Fields_NN2
 marks_NN2
 the_AT0
@@ -14596,7 +14596,7 @@ a_AT0
 professional_AJ0
 police_NN2
 until_CJS
-Peel_NP0-NN1
+Peel_NP0
 's_POS
 1829_CRD
 Metropolitan_AJ0
@@ -14606,7 +14606,7 @@ In_PRP
 the_AT0
 conventional_AJ0
 view_NN1
-Coldbath_NP0-NN1
+Coldbath_NN1
 Fields_NN2
 was_VBD
 a_AT0
@@ -14651,7 +14651,7 @@ plague_NN1
 of_PRF
 blue_AJ0
 locusts_NN2
-spread_NN1
+spread_VVN
 throughout_PRP
 the_AT0
 country_NN1
@@ -14733,7 +14733,7 @@ in_PRP
 The_AT0
 parallel_AJ0
 with_PRP
-Coldbath_NP0-NN1
+Coldbath_NN1
 Fields_NN2
 dramatically_AV0
 symbolizes_VVZ
@@ -14825,7 +14825,7 @@ the_AT0
 police_NN2
 station_NN1
 in_PRP
-Malby_NP0-NN1
+Malby_NP0
 South_NN1
 Yorkshire_NP0
 scene_NN1
@@ -14959,7 +14959,7 @@ try_VVI
 to_TO0
 locate_VVI
 our_DPS
-present_AJ0-NN1
+present_AJ0
 concerns_NN2
 in_PRP
 a_AT0
@@ -15202,11 +15202,11 @@ long_AJ0
 national_AJ0
 history_NN1
 The_AT0
-initial_AJ0-NN1
+initial_AJ0
 response_NN1
 of_PRF
 the_AT0
-Left_AJ0-NN1
+Left_AJ0
 and_CJC
 liberals_NN2
 to_TO0
@@ -15250,7 +15250,7 @@ that_CJT
 contrary_NN1
 to_TO0
 the_AT0
-rose-tinted_AJ0-NN1
+rose-tinted_AJ0
 spectacles_NN2
 view_NN1
 Britain_NP0
@@ -15284,7 +15284,7 @@ past_NN1
 see_VVI
 for_PRP
 example_NN1
-Benyon_NP0-NN1
+Benyon_NP0
 1985_CRD
 The_AT0
 most_AV0
@@ -15296,7 +15296,7 @@ of_PRF
 this_DT0
 genre_NN1
 of_PRF
-debunking_VVG-AJ0
+debunking_AJ0
 moral_AJ0
 panic_NN1
 is_VBZ
@@ -15309,7 +15309,7 @@ This_DT0
 is_VBZ
 a_AT0
 deservedly_AV0
-much-admired_AJ0-NN1
+much-admired_AJ0
 fascinating_AJ0
 and_CJC
 lovingly_AV0
@@ -15330,7 +15330,7 @@ history_NN1
 Pearson_NP0
 shows_VVZ
 a_AT0
-perennial_AJ0-NN1
+perennial_AJ0
 refrain_VVI
 lamenting_VVG
 a_AT0
@@ -15396,7 +15396,7 @@ of_PRF
 grandadology_NN1
 wailing_VVG
 and_CJC
-gnashing_VVG-AJ0
+gnashing_VVG
 teeth_NN2
 at_PRP
 the_AT0
@@ -15424,7 +15424,7 @@ and_CJC
 disorder_NN1
 are_VBB
 solidly_AV0
-entrenched_AJ0
+entrenched_VVN
 features_NN2
 of_PRF
 the_AT0
@@ -15436,7 +15436,7 @@ at_PRP
 any_DT0
 rate_NN1
 in_PRP
-capitalist_AJ0-NN1
+capitalist_AJ0
 societies_NN2
 which_DTQ
 necessarily_AV0
@@ -15633,7 +15633,7 @@ when_CJS
 Pearson_NP0
 documents_NN2
 the_AT0
-coinage_NN1-VVB
+coinage_NN1
 of_PRF
 the_AT0
 term_NN1
@@ -15740,7 +15740,7 @@ the_AT0
 magisterial_AJ0
 History_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 Criminal_AJ0
 Law_NN1
 Radzinowicz_NP0
@@ -15766,7 +15766,7 @@ the_AT0
 puzzling_AJ0
 phenomenon_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 success_NN1
 in_PRP
 conquering_AJ0
@@ -15874,7 +15874,7 @@ century_NN1
 from_PRP
 either_AV0
 the_AT0
-present_AJ0-NN1
+present_AJ0
 or_CJC
 the_AT0
 early_AJ0
@@ -16109,7 +16109,7 @@ It_PNP
 is_VBZ
 amazing_AJ0
 to_TO0
-walk_VVI
+walk_NN1
 down_AVP
 Drury_NP0
 Lane_NP0
@@ -16141,7 +16141,7 @@ have_VHB
 been_VBN
 safe_AJ0
 to_TO0
-walk_VVI
+walk_NN1
 in_PRP
 any_DT0
 of_PRF
@@ -16157,7 +16157,7 @@ to_TO0
 supplant_VVI
 Pearson_NP0
 's_POS
-perennial_AJ0-NN1
+perennial_AJ0
 panic_NN1
 view_NN1
 with_PRP
@@ -16187,7 +16187,7 @@ There_EX0
 may_VM0
 be_VBI
 a_AT0
-perennial_AJ0-NN1
+perennial_AJ0
 fascination_NN1
 with_PRP
 the_AT0
@@ -16237,7 +16237,7 @@ vanished_VVD
 problems_NN2
 IS_VBZ
 CRIME_NN1
-INCREASING_VVG-AJ0
+INCREASING_AJ0
 The_AT0
 statistics_NN0
 on_PRP
@@ -16300,12 +16300,12 @@ trends_NN2
 in_PRP
 crime_NN1
 statistics_NN0
-Gurr_NP0-NN1
+Gurr_NP0
 1976_CRD
 1981_CRD
 Gatrell_NP0
 and_CJC
-Hadden_NP0-NN1
+Hadden_NN1
 1972_CRD
 Gatrell_NP0
 1980_CRD
@@ -16374,12 +16374,12 @@ recorded_VVN
 crime_NN1
 coincides_VVZ
 with_PRP
-increased_AJ0
+increased_VVN
 court_NN1
 activity_NN1
 with_PRP
 the_AT0
-spread_NN1
+spread_VVN
 and_CJC
 professionalisation_NN1
 of_PRF
@@ -16520,7 +16520,7 @@ From_PRP
 onwards_AV0
 the_AT0
 rising_VVG
-crime-rate_NN1-AJ0
+crime-rate_NN1
 is_VBZ
 justifiably_AV0
 referred_VVN
@@ -16551,7 +16551,7 @@ offences_NN2
 per_UNC
 100,000_CRD
 population_NN1
-increased_AJ0
+increased_VVN
 by_PRP
 just_AV0
 over_PRP
@@ -16675,7 +16675,7 @@ levels_NN2
 of_PRF
 crime_NN1
 have_VHB
-increased_AJ0
+increased_VVN
 so_AV0
 have_VHB
 many_DT0
@@ -16704,7 +16704,7 @@ resources_NN2
 for_PRP
 example_NN1
 have_VHB
-increased_AJ0
+increased_VVN
 considerably_AV0
 The_AT0
 number_NN1
@@ -16751,7 +16751,7 @@ were_VBD
 crimes_NN2
 recorded_VVN
 per_UNC
-police-officer_NN1-AJ0
+police-officer_NN1
 but_CJC
 by_PRP
 1986_CRD
@@ -16794,7 +16794,7 @@ recorded_VVN
 crime_NN1
 work-load_NN1
 per_UNC
-police-officer_NN1-AJ0
+police-officer_NN1
 The_AT0
 only_AV0
 way_NN1
@@ -16887,16 +16887,16 @@ rate_NN1
 per_UNC
 cent_UNC
 on_PRP
-average_AJ0-NN1
+average_AJ0
 than_CJS
 the_AT0
 officially_AV0
 recorded_VVN
-crime-rate_NN1-AJ0
+crime-rate_NN1
 3.5\xe2\x80\x935_CRD
 per_UNC
 cent_UNC
-average_AJ0-NN1
+average_AJ0
 annual_AJ0
 increase_NN1
 cf._VVB
@@ -16992,7 +16992,7 @@ can_VM0
 not_XX0
 necessarily_AV0
 be_VBI
-extrapolated_VVN
+extrapolated_VVD
 to_TO0
 the_AT0
 United_NP0
@@ -17090,11 +17090,11 @@ the_AT0
 coincidence_NN1
 in_PRP
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 direction_NN1
-Hough_NP0-NN1
+Hough_NN1
 and_CJC
-Mayhew_NP0-NN1
+Mayhew_NP0
 1985_CRD
 Dowds_NP0
 et_UNC
@@ -17142,7 +17142,7 @@ is_VBZ
 a_AT0
 reporting_VVG
 phenomenon_NN1
-Combining_VVG-AJ0
+Combining_VVG
 the_AT0
 General_AJ0
 Household_NN1
@@ -17177,9 +17177,9 @@ by_PRP
 20_CRD
 per_UNC
 cent_UNC
-Hough_NP0-NN1
+Hough_NN1
 and_CJC
-Mayhew_NP0-NN1
+Mayhew_NP0
 1985_CRD
 pp._NN2
 16\xe2\x80\x9317_CRD
@@ -17249,7 +17249,7 @@ cent_UNC
 while_CJS
 recorded_VVN
 burglaries_NN2
-increased_AJ0
+increased_VVN
 by_PRP
 24_CRD
 per_UNC
@@ -17357,7 +17357,7 @@ INNER_AJ0
 CITIES_NN2
 While_CJS
 crime_NN1
-overall_AJ0-NN1
+overall_AJ0
 has_VHZ
 been_VBN
 increasing_AJ0
@@ -17418,7 +17418,7 @@ fear_NN1
 of_PRF
 crime_NN1
 High-status_AJ0
-non-family_AJ0-NN1
+non-family_AJ0
 areas_NN2
 I_PNP
 Multi-racial_AJ0
@@ -17432,12 +17432,12 @@ G_ZZ0
 Whereas_CJS
 the_AT0
 national_AJ0
-average_AJ0-NN1
+average_AJ0
 frequency_NN1
 of_PRF
 being_VBG
 a_AT0
-mugging_AJ0
+mugging_VVG
 victim_NN1
 robbery/theft_NN1
 from_PRP
@@ -17478,7 +17478,7 @@ were_VBD
 very_AV0
 worried_AJ0
 about_PRP
-mugging_AJ0
+mugging_VVG
 were_VBD
 32_CRD
 per_UNC
@@ -17490,7 +17490,7 @@ cent_UNC
 compared_VVN
 to_TO0
 an_AT0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 20_CRD
 per_UNC
@@ -17513,7 +17513,7 @@ lager_NN1
 loutishness_NN1
 Whereas_CJS
 on_PRP
-average_AJ0-NN1
+average_AJ0
 2.4_CRD
 per_UNC
 cent_UNC
@@ -17532,9 +17532,9 @@ was_VBD
 6.3_CRD
 per_UNC
 cent_UNC
-Hough_NP0-NN1
+Hough_NN1
 and_CJC
-Mayhew_NP0-NN1
+Mayhew_NP0
 1985_CRD
 Table_NN1
 M_ZZ0
@@ -17563,7 +17563,7 @@ core_NN1
 of_PRF
 the_AT0
 New_AJ0
-Left_AJ0-NN1
+Left_AJ0
 realism_NN1
 in_PRP
 criminology_NN1
@@ -17622,10 +17622,10 @@ as_CJS
 in_PRP
 affluent_AJ0
 suburbs_NN2
-Fear_NN1-VVB
+Fear_NN1
 of_PRF
 crime_NN1
-varied_AJ0
+varied_VVN
 accordingly_AV0
 Crime_NN1
 was_VBD
@@ -17681,11 +17681,11 @@ theft_NN1
 of_PRF
 an_AT0
 issue_NN1
-POLICING_NN1-VVG
+POLICING_NN1
 ORDER_NN1
 AND_CJC
 LEGITIMACY_NN1
-Rising_VVG-AJ0
+Rising_VVG
 crime_NN1
 is_VBZ
 not_XX0
@@ -17711,7 +17711,7 @@ was_VBD
 actually_AV0
 falling_VVG
 The_AT0
-overall_AJ0-NN1
+overall_AJ0
 trajectory_NN1
 since_CJS
 the_AT0
@@ -17737,7 +17737,7 @@ the_AT0
 mid-1950s_NN2
 and_CJC
 a_AT0
-steepening_VVG
+steepening_AJ0
 rise_NN1
 since_CJS
 then_AV0
@@ -17780,7 +17780,7 @@ been_VBN
 reversed_VVN
 more_AV0
 recently_AV0
-Geary_NP0-NN1
+Geary_NP0
 1985_CRD
 If_CJS
 crime_NN1
@@ -17820,7 +17820,7 @@ path_NN1
 an_AT0
 upside-down_AV0
 U._NP0
-Starting_VVG-NN1
+Starting_VVG
 from_PRP
 the_AT0
 widespread_AJ0
@@ -17931,7 +17931,7 @@ time_NN1
 that_CJT
 a_AT0
 cosy_AJ0
-non-action-man_NN1-AJ0
+non-action-man_NN1
 ordinary_AJ0
 uniform_NN1
 bobby_NN1
@@ -17982,7 +17982,7 @@ police_NN2
 but_CJC
 that_CJT
 this_DT0
-spread_NN1
+spread_VVN
 throughout_PRP
 the_AT0
 class_NN1
@@ -18043,7 +18043,7 @@ become_VVI
 a_AT0
 highly_AV0
 controversial_AJ0
-politicized_AJ0-VVD
+politicized_VVD
 issue_NN1
 More_AV0
 recent_AJ0
@@ -18070,7 +18070,7 @@ continues_VVZ
 to_TO0
 show_VVI
 high_AJ0
-overall_AJ0-NN1
+overall_AJ0
 acceptance_NN1
 of_PRF
 the_AT0
@@ -18121,7 +18121,7 @@ growing_AJ0
 rejection_NN1
 of_PRF
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 legitimacy_NN1
 of_PRF
 the_AT0
@@ -18155,7 +18155,7 @@ per_UNC
 cent_UNC
 of_PRF
 Londoners_NN2
-overall_AJ0-NN1
+overall_AJ0
 thought_VVD
 the_AT0
 police_NN2
@@ -18208,7 +18208,7 @@ broad_AJ0
 questions_NN2
 of_PRF
 explaining_VVG
-overall_AJ0-NN1
+overall_AJ0
 trends_NN2
 in_PRP
 crime_NN1
@@ -18254,7 +18254,7 @@ Even_AV0
 the_AT0
 recent_AJ0
 New_AJ0
-Left_AJ0-NN1
+Left_AJ0
 realism_NN1
 does_VDZ
 not_XX0
@@ -18369,7 +18369,7 @@ below_AV0
 I_PNP
 do_VDB
 not_XX0
-feel_VVI
+feel_VVB
 that_CJT
 much_DT0
 if_CJS
@@ -18378,7 +18378,7 @@ of_PRF
 the_AT0
 explanation_NN1
 can_VM0
-lie_VVI
+lie_VVB
 at_PRP
 the_AT0
 door_NN1
@@ -18511,7 +18511,7 @@ those_DT0
 who_PNQ
 are_VBB
 not_XX0
-integrated_AJ0
+integrated_VVN
 into_PRP
 the_AT0
 mainstream_AJ0
@@ -18555,7 +18555,7 @@ working-class_AJ0
 youth_NN1
 but_CJC
 the_AT0
-perennial_AJ0-NN1
+perennial_AJ0
 conflict_NN1
 between_PRP
 youth_NN1
@@ -18779,7 +18779,7 @@ up_AVP
 The_AT0
 relationship_NN1
 between_PRP
-overall_AJ0-NN1
+overall_AJ0
 unemployment_NN1
 and_CJC
 crime_NN1
@@ -18806,7 +18806,7 @@ causal_AJ0
 relationship_NN1
 However_AV0
 properly_AV0
-targeted_AJ0
+targeted_VVD
 research_NN1
 on_PRP
 young_AJ0
@@ -18927,7 +18927,7 @@ for_PRP
 the_AT0
 link_NN1
 between_PRP
-offending_AJ0-NN1
+offending_AJ0
 and_CJC
 perceptions_NN2
 of_PRF
@@ -18996,7 +18996,7 @@ view_NN1
 that_CJT
 it_PNP
 is_VBZ
-relative_AJ0-NN1
+relative_AJ0
 deprivation_NN1
 which_DTQ
 is_VBZ
@@ -19026,7 +19026,7 @@ other_AJ0
 groups_NN2
 this_DT0
 will_VM0
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 precipitant_NN1
@@ -19061,7 +19061,7 @@ at_PRP
 least_AV0
 in_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 climate_NN1
 unemployment_NN1
 is_VBZ
@@ -19132,7 +19132,7 @@ a_AT0
 unemployment_NN1
 and_CJC
 b_ZZ0
-relative_AJ0-NN1
+relative_AJ0
 poverty_NN1
 and_CJC
 crime_NN1
@@ -19156,7 +19156,7 @@ would_VM0
 otherwise_AV0
 encourage_VVI
 conformity_NN1
-relative_AJ0-NN1
+relative_AJ0
 fearfulness_NN1
 of_PRF
 sanctions_NN2
@@ -19257,7 +19257,7 @@ right-wing_AJ0
 realism_NN1
 of_PRF
 James_NP0
-Q._NP0-NN1
+Q._NP0
 Wilson_NP0
 and_CJC
 his_DPS
@@ -19308,7 +19308,7 @@ ameliorated_VVN
 the_AT0
 answer_NN1
 must_VM0
-lie_VVI
+lie_VVB
 elsewhere_AV0
 either_AV0
 in_PRP
@@ -19380,7 +19380,7 @@ conventional_AJ0
 moral_AJ0
 codes_NN2
 as_CJS
-crystallized_VVN
+crystallized_VVD
 into_PRP
 the_AT0
 criminal_AJ0
@@ -19440,7 +19440,7 @@ and_CJC
 permissiveness_NN1
 is_VBZ
 a_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 stalking-horse_NN1
 of_PRF
 the_AT0
@@ -19525,7 +19525,7 @@ the_AT0
 opinions_NN2
 of_PRF
 the_AT0
-Left_AJ0-NN1
+Left_AJ0
 and_CJC
 of_PRF
 liberals_NN2
@@ -19615,7 +19615,7 @@ been_VBN
 encouraged_VVN
 by_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 Government_NN1
 's_POS
 economic_AJ0
@@ -19660,7 +19660,7 @@ other_AJ0
 social_AJ0
 institutions_NN2
 which_DTQ
-Left_AJ0-NN1
+Left_AJ0
 and_CJC
 liberal_AJ0
 opinion_NN1
@@ -19750,9 +19750,9 @@ they_PNP
 to_TO0
 be_VBI
 achieved_VVN
-POLICING_NN1-VVG
+POLICING_NN1
 Traditional_AJ0
-Left_AJ0-NN1
+Left_AJ0
 analyses_NN2
 have_VHB
 a_AT0
@@ -19770,7 +19770,7 @@ of_PRF
 the_AT0
 state_NN1
 New_AJ0
-Left_AJ0-NN1
+Left_AJ0
 realism_NN1
 specifically_AV0
 challenges_NN2
@@ -19822,7 +19822,7 @@ structure_NN1
 of_PRF
 accountability_NN1
 At_PRP
-present_AJ0-NN1
+present_AJ0
 the_AT0
 police_NN2
 do_VDB
@@ -19832,7 +19832,7 @@ their_DPS
 task_NN1
 satisfactorily_AV0
 Their_DPS
-initial_AJ0-NN1
+initial_AJ0
 response_NN1
 to_TO0
 the_AT0
@@ -19985,7 +19985,7 @@ other_AJ0
 than_CJS
 policing_NN1
 skills_NN2
-Reiner_NP0-NN1
+Reiner_NP0
 1988a_UNC
 To_TO0
 take_VVI
@@ -20012,7 +20012,7 @@ the_AT0
 detection_NN1
 rate_NN1
 must_VM0
-fall_VVI
+fall_NN1
 even_AV0
 if_CJS
 efficiency_NN1
@@ -20068,7 +20068,7 @@ performance_NN1
 has_VHZ
 in_PRP
 fact_NN1
-improved_AJ0
+improved_VVN
 marginally_AV0
 not_XX0
 declined_VVN
@@ -20100,7 +20100,7 @@ unprecedented_AJ0
 in_PRP
 this_DT0
 century_NN1
-Reiner_NP0-NN1
+Reiner_NP0
 1985_CRD
 charts_NN2
 and_CJC
@@ -20172,7 +20172,7 @@ of_PRF
 policing_NN1
 should_VM0
 have_VHB
-improved_AJ0
+improved_VVN
 There_EX0
 has_VHZ
 for_PRP
@@ -20238,7 +20238,7 @@ c\xc3\xa9l\xc3\xa8bres_UNC
 of_PRF
 police_NN2
 abuse_NN1
-Reiner_NP0-NN1
+Reiner_NP0
 1985_CRD
 ch._NN1
 2._CRD
@@ -20399,7 +20399,7 @@ longer_AV0
 seen_VVN
 as_CJS
 a_AT0
-vade-mecum_NN1-AJ0
+vade-mecum_AJ0
 by_PRP
 the_AT0
 police_NN2
@@ -20513,7 +20513,7 @@ may_VM0
 not_XX0
 be_VBI
 reversible_AJ0
-Reiner_NP0-NN1
+Reiner_NP0
 1988b_UNC
 1989_CRD
 This_DT0
@@ -20565,7 +20565,7 @@ policy_NN1
 whether_CJS
 of_PRF
 the_AT0
-Left_AJ0-NN1
+Left_AJ0
 or_CJC
 the_AT0
 Right_AV0
@@ -20635,7 +20635,7 @@ clear_AJ0
 that_CJT
 the_AT0
 declining_AJ0
-overall_AJ0-NN1
+overall_AJ0
 effectiveness_NN1
 of_PRF
 the_AT0
@@ -20666,13 +20666,13 @@ social_AJ0
 and_CJC
 economic_AJ0
 inequality_NN1
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 moral_AJ0
 deregulation_NN1
 The_AT0
 Inner-City_AJ0
-Battlefield_NP0-NN1
+Battlefield_NP0
 Politics_NN1
 Ideology_NN1
 and_CJC
@@ -20980,7 +20980,7 @@ size_NN1
 and_CJC
 shape_NN1
 have_VHB
-varied_AJ0
+varied_VVN
 and_CJC
 the_AT0
 names_NN2
@@ -20989,7 +20989,7 @@ to_TO0
 describe_VVI
 it_PNP
 have_VHB
-varied_AJ0
+varied_VVN
 What_DTQ
 we_PNP
 have_VHB
@@ -21092,7 +21092,7 @@ limit_NN1
 its_DPS
 focus_NN1
 to_TO0
-targeted_AJ0
+targeted_VVD
 areas_NN2
 However_AV0
 reality_NN1
@@ -21147,7 +21147,7 @@ other_AJ0
 metaphor_NN1
 the_AT0
 North-South_NN1
-divide_VVI
+divide_NN1
 The_AT0
 battle_NN1
 of_PRF
@@ -21273,7 +21273,7 @@ and_CJC
 part_NN1
 of_PRF
 this_DT0
-involved_AJ0
+involved_VVN
 destroying_VVG
 the_AT0
 Labour_AJ0
@@ -21466,7 +21466,7 @@ could_VM0
 be_VBI
 strengthened_VVN
 and_CJC
-improved_AJ0
+improved_VVN
 these_DT0
 authors_NN2
 concluded_VVD
@@ -21497,7 +21497,7 @@ the_AT0
 state_NN1
 p._NN0
 65_CRD
-DIVIDED_AJ0-VVD
+DIVIDED_VVD
 BRITAIN_NP0
 THE_AT0
 ASSAULT_NN1
@@ -21531,7 +21531,7 @@ growing_AJ0
 socio-economic_AJ0
 polarization_NN1
 the_AT0
-divide_VVI
+divide_NN1
 between_PRP
 the_AT0
 relatively_AV0
@@ -21539,7 +21539,7 @@ prosperous_AJ0
 and_CJC
 the_AT0
 relatively_AV0
-deprived_AJ0
+deprived_VVN
 areas_NN2
 widened_VVN
 Walker_NP0
@@ -21826,8 +21826,8 @@ of_PRF
 extremists_NN2
 one_CRD
 the_AT0
-Loony_NN1-AJ0
-Left_AJ0-NN1
+Loony_NN1
+Left_AJ0
 and_CJC
 the_AT0
 other_AJ0
@@ -21846,7 +21846,7 @@ counter-revolution_NN1
 is_VBZ
 much_DT0
 more_AV0
-all-encompassing_AJ0-NN1
+all-encompassing_AJ0
 it_PNP
 is_VBZ
 an_AT0
@@ -21924,7 +21924,7 @@ it_PNP
 is_VBZ
 intended_VVN
 will_VM0
-stretch_VVI
+stretch_NN1
 into_PRP
 the_AT0
 1990s_CRD
@@ -22061,7 +22061,7 @@ of_PRF
 the_AT0
 Council_NN1
 Eric_NP0
-Pickles_NP0
+Pickles_NN2
 speaking_VVG
 at_PRP
 the_AT0
@@ -22191,7 +22191,7 @@ abruptly_AV0
 interrupted_VVN
 by_PRP
 the_AT0
-Westland_NP0-NN1
+Westland_NP0
 affair_NN1
 in_PRP
 1986_CRD
@@ -22204,8 +22204,8 @@ apparent_AJ0
 fact_NN1
 that_CJT
 the_AT0
-Loony_NN1-AJ0
-Left_AJ0-NN1
+Loony_NN1
+Left_AJ0
 were_VBD
 increasingly_AV0
 to_TO0
@@ -22214,7 +22214,7 @@ found_VVD
 in_PRP
 the_AT0
 more_AV0
-deprived_AJ0
+deprived_VVN
 and_CJC
 distressed_AJ0
 parts_NN2
@@ -22257,7 +22257,7 @@ so_AV0
 that_CJT
 the_AT0
 irresponsible_AJ0
-Left_AJ0-NN1
+Left_AJ0
 loses_VVZ
 its_DPS
 tight_AJ0
@@ -22315,7 +22315,7 @@ emphasized_VVN
 in_PRP
 their_DPS
 rhetoric_NN1
-Local_NN1-AJ0
+Local_AJ0
 authorities_NN2
 would_VM0
 be_VBI
@@ -22406,7 +22406,7 @@ National_AJ0
 pay_VVI
 settlements_NN2
 and_CJC
-negotiating_VVG
+negotiating_NN1
 arrangements_NN2
 hinder_VVI
 that_CJT
@@ -22414,7 +22414,7 @@ process_NN1
 which_DTQ
 would_VM0
 be_VBI
-improved_AJ0
+improved_VVN
 they_PNP
 argue_VVI
 by_PRP
@@ -22453,7 +22453,7 @@ changes_NN2
 mark_NN1
 a_AT0
 decisive_AJ0
-shift_NN1-VVB
+shift_NN1
 away_AV0
 from_PRP
 local_AJ0
@@ -22501,7 +22501,7 @@ in_PRP
 the_AT0
 most_AV0
 acutely_AV0
-stressed_VVD
+stressed_VVN
 parts_NN2
 of_PRF
 the_AT0
@@ -22602,7 +22602,7 @@ Jones_NP0
 or_CJC
 by_PRP
 the_AT0
-decentralizing_AJ0-NN1
+decentralizing_NN1
 effects_NN2
 of_PRF
 the_AT0
@@ -22611,7 +22611,7 @@ of_PRF
 earlier_AJC
 post-war_AJ0
 years_NN2
-overspill_VVB-NN1
+overspill_VVB
 outer_AJ0
 estates_NN2
 and_CJC
@@ -22624,7 +22624,7 @@ later_AV0
 processes_NN2
 of_PRF
 gentrification_NN1
-Glass_NP0-NN1
+Glass_NN1
 1964_CRD
 a_AT0
 term_NN1
@@ -22632,7 +22632,7 @@ first_ORD
 used_VVN
 by_PRP
 Ruth_NP0
-Glass_NP0-NN1
+Glass_NN1
 but_CJC
 popularized_VVD
 in_PRP
@@ -22690,7 +22690,7 @@ are_VBB
 integral_AJ0
 to_TO0
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 desire_NN1
 to_TO0
 use_NN1
@@ -22747,7 +22747,7 @@ of_PRF
 a_AT0
 number_NN1
 of_PRF
-interrelated_AJ0-VVN
+interrelated_AJ0
 policies_NN2
 designed_VVN
 to_TO0
@@ -22774,7 +22774,7 @@ authorities_NN2
 These_DT0
 are_VBB
 closely_AV0
-interrelated_AJ0-VVN
+interrelated_AJ0
 and_CJC
 the_AT0
 Government_NN1
@@ -22794,7 +22794,7 @@ as_CJS
 part_NN1
 of_PRF
 this_DT0
-overall_AJ0-NN1
+overall_AJ0
 enterprise_NN1
 Thatcherism_NN1
 's_POS
@@ -22883,7 +22883,7 @@ are_VBB
 working_VVG
 for_PRP
 an_AT0
-increased_AJ0
+increased_VVN
 standard_NN1
 of_PRF
 living_VVG
@@ -22910,7 +22910,7 @@ are_VBB
 in_PRP
 work_NN1
 but_CJC
-feel_VVI
+feel_VVB
 they_PNP
 would_VM0
 be_VBI
@@ -23005,7 +23005,7 @@ Key_AJ0
 words_NN2
 such_DT0
 as_CJS
-self-help_AJ0-NN1
+self-help_AJ0
 accountability_NN1
 responsibility_NN1
 hard_AJ0
@@ -23018,7 +23018,7 @@ the_AT0
 tradition_NN1
 of_PRF
 the_AT0
-English_AJ0-NN1
+English_AJ0
 working_VVG
 classes_NN2
 and_CJC
@@ -23169,7 +23169,7 @@ people_NN0
 Part_NN1
 of_PRF
 the_AT0
-drive_VVI
+drive_NN1
 to_TO0
 improve_VVI
 inner_AJ0
@@ -23317,7 +23317,7 @@ World_NN1
 October_NP0
 1987_CRD
 the_AT0
-Independent_AJ0
+Independent_NN1
 23_CRD
 February_NP0
 1988_CRD
@@ -23372,7 +23372,7 @@ to_TO0
 benefit_NN1
 from_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 array_NN1
 of_PRF
 public_AJ0
@@ -23494,7 +23494,7 @@ been_VBN
 taken_VVN
 over_PRP
 and_CJC
-reinterpreted_VVD-VVN
+reinterpreted_VVN
 is_VBZ
 that_CJT
 of_PRF
@@ -23525,7 +23525,7 @@ authorities_NN2
 they_PNP
 are_VBB
 increasingly_AV0
-centralizing_AJ0-NN1
+centralizing_AJ0
 decision-taking_NN1
 On_PRP
 the_AT0
@@ -23549,7 +23549,7 @@ education_NN1
 reforms_NN2
 With_PRP
 the_AT0
-opting-out_NN1-AJ0
+opting-out_AJ0
 opportunity_NN1
 schools_NN2
 will_VM0
@@ -23570,7 +23570,7 @@ said_VVD
 to_TO0
 have_VHB
 been_VBN
-spread_NN1
+spread_VVN
 among_PRP
 the_AT0
 people_NN0
@@ -23608,7 +23608,7 @@ system_NN1
 is_VBZ
 said_VVD
 to_TO0
-present_AJ0-NN1
+present_AJ0
 people_NN0
 with_PRP
 a_AT0
@@ -23661,7 +23661,7 @@ agencies_NN2
 the_AT0
 welfare_NN1
 net_AJ0
-subsidized_AJ0-VVD
+subsidized_VVD
 public_AJ0
 services_NN2
 would_VM0
@@ -24366,7 +24366,7 @@ other_AJ0
 policies_NN2
 which_DTQ
 have_VHB
-increased_AJ0
+increased_VVN
 the_AT0
 differences_NN2
 among_PRP
@@ -24454,7 +24454,7 @@ different_AJ0
 areas_NN2
 and_CJC
 to_TO0
-shift_NN1-VVB
+shift_NN1
 the_AT0
 costs_NN2
 from_PRP
@@ -24604,7 +24604,7 @@ inner-city_AJ0
 package_NN1
 is_VBZ
 to_TO0
-drive_VVI
+drive_NN1
 down_AVP
 wages_NN2
 for_PRP
@@ -24624,7 +24624,7 @@ the_AT0
 enterprise_NN1
 culture_NN1
 in_PRP
-deprived_AJ0
+deprived_VVN
 areas_NN2
 of_PRF
 the_AT0
@@ -24794,7 +24794,7 @@ the_AT0
 deserving_AJ0
 and_CJC
 the_AT0
-undeserving_NN1-VVG
+undeserving_VVG
 poor_AJ0
 The_AT0
 main_AJ0
@@ -24812,7 +24812,7 @@ and_CJC
 in_PRP
 a_AT0
 neat_AJ0
-targeted_AJ0
+targeted_VVD
 form_NN1
 Rather_AV0
 it_PNP
@@ -24845,7 +24845,7 @@ state_NN1
 's_POS
 obligations_NN2
 THE_AT0
-BATTLE_NN1-VVB
+BATTLE_NN1
 OF_PRF
 IDEAS_NN2
 The_AT0
@@ -24933,7 +24933,7 @@ on_PRP
 the_AT0
 muddled_AJ0
 policy_NN1
-involved_AJ0
+involved_VVN
 reducing_VVG
 the_AT0
 power_NN1
@@ -24956,7 +24956,7 @@ welfare_NN1
 state_NN1
 itself_PNX
 Having_VHG
-cowed_VVN
+cowed_AJ0
 the_AT0
 trade_NN1
 unions_NN2
@@ -25182,7 +25182,7 @@ and_CJC
 anti-democratic_AJ0
 socialist_AJ0
 and_CJC
-anti-socialist_NN1-AJ0
+anti-socialist_AJ0
 egalitarian_AJ0
 and_CJC
 anti-egalitarian_AJ0
@@ -25222,7 +25222,7 @@ both_AV0
 currents_NN2
 have_VHB
 been_VBN
-present_AJ0-NN1
+present_AJ0
 What_DTQ
 changed_VVN
 was_VBD
@@ -25261,7 +25261,7 @@ that_CJT
 redistribution_NN1
 is_VBZ
 a_AT0
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 the_AT0
 social_AJ0
@@ -25469,7 +25469,7 @@ made_VVN
 by_PRP
 Roy_NP0
 Jenkins_NP0
-Writing_VVG-NN1
+Writing_NN1
 in_PRP
 1959_CRD
 and_CJC
@@ -25554,7 +25554,7 @@ at_PRP
 or_CJC
 above_PRP
 the_AT0
-average_AJ0-NN1
+average_AJ0
 to_TO0
 any_DT0
 further_AJC
@@ -25624,7 +25624,7 @@ advocacy_NN1
 of_PRF
 equality_NN1
 was_VBD
-cast_VVN
+cast_NN1
 as_CJS
 extremism_NN1
 the_AT0
@@ -25674,7 +25674,7 @@ state_NN1
 a_AT0
 concentration_NN1
 on_PRP
-shifting_AJ0-VVG
+shifting_AJ0
 culture_NN1
 and_CJC
 attitudes_NN2
@@ -25731,7 +25731,7 @@ groups_NN2
 towards_PRP
 others_NN2
 This_DT0
-shift_NN1-VVB
+shift_NN1
 requires_VVZ
 crucially_AV0
 a_AT0
@@ -25844,7 +25844,7 @@ of_PRF
 its_DPS
 success_NN1
 has_VHZ
-varied_AJ0
+varied_VVN
 in_PRP
 different_AJ0
 areas_NN2
@@ -25912,7 +25912,7 @@ the_AT0
 1970s_CRD
 especially_AV0
 in_PRP
-shifting_AJ0-VVG
+shifting_AJ0
 away_AV0
 from_PRP
 social_AJ0
@@ -25966,7 +25966,7 @@ assumptions_NN2
 lying_VVG
 behind_PRP
 such_DT0
-targeted_AJ0
+targeted_VVD
 programmes_NN2
 are_VBB
 that_CJT
@@ -26067,7 +26067,7 @@ restructuring_NN1
 or_CJC
 reform_NN1
 This_DT0
-shift_NN1-VVB
+shift_NN1
 in_PRP
 policy_NN1
 from_PRP
@@ -26166,7 +26166,7 @@ processes_NN2
 may_VM0
 be_VBI
 grossly_AV0
-exaggerated_AJ0
+exaggerated_VVN
 Townsend_NP0
 1976_CRD
 p._NN0
@@ -26196,7 +26196,7 @@ individualistic_AJ0
 explanations_NN2
 for_PRP
 poverty_NN1
-pathologizing_VVG-NN1
+pathologizing_NN1
 of_PRF
 areas_NN2
 and_CJC
@@ -26245,7 +26245,7 @@ citizen_NN1
 involvement_NN1
 and_CJC
 community_NN1
-self-help_AJ0-NN1
+self-help_AJ0
 THE_AT0
 URBAN_AJ0
 UNDERCLASS_NN1
@@ -26273,7 +26273,7 @@ excluded_VVN
 poor_AJ0
 who_PNQ
 are_VBB
-compressed_AJ0
+compressed_VVN
 into_PRP
 densely_AV0
 populated_VVN
@@ -26468,7 +26468,7 @@ choice_NN1
 and_CJC
 limited_AJ0
 voluntary_AJ0
-self-help_AJ0-NN1
+self-help_AJ0
 welfare_NN1
 activity_NN1
 and_CJC
@@ -26540,7 +26540,7 @@ found_VVD
 in_PRP
 certain_AJ0
 areas_NN2
-Fear_NN1-VVB
+Fear_NN1
 about_PRP
 a_AT0
 drugs_NN2
@@ -26936,7 +26936,7 @@ to_TO0
 accept_VVI
 training_NN1
 or_CJC
-low-paid_AJ0-NN1
+low-paid_NN1
 work_NN1
 even_AV0
 where_AVQ
@@ -27044,7 +27044,7 @@ roots_NN2
 of_PRF
 these_DT0
 views_NN2
-lie_VVI
+lie_VVB
 deeper_AJC
 and_CJC
 can_VM0
@@ -27065,7 +27065,7 @@ of_PRF
 a_AT0
 hereditary_AJ0
 or_CJC
-hard-core_NN1-AJ0
+hard-core_AJ0
 social_AJ0
 problem_NN1
 group_NN1
@@ -27296,14 +27296,14 @@ used_VVN
 the_AT0
 labels_NN2
 have_VHB
-varied_AJ0
+varied_VVN
 over_PRP
 time_NN1
 residuum_NN1
 social_AJ0
 problem_NN1
 group_NN1
-hard-core_NN1-AJ0
+hard-core_AJ0
 problem_NN1
 families_NN2
 the_AT0
@@ -27485,7 +27485,7 @@ were_VBD
 illustrated_VVN
 in_PRP
 an_AT0
-editorial_AJ0-NN1
+editorial_NN1
 in_PRP
 the_AT0
 Wall_NN1
@@ -27537,7 +27537,7 @@ few_DT0
 years_NN2
 before_PRP
 Martin_NP0
-Luther_NP0-NN1
+Luther_NP0
 King_NP0
 's_POS
 assassination_NN1
@@ -27717,7 +27717,7 @@ the_AT0
 Wall_NN1
 Street_NP0
 Journal_NN1
-editorial_AJ0-NN1
+editorial_NN1
 appeared_VVD
 it_PNP
 was_VBD
@@ -28024,7 +28024,7 @@ on_PRP
 poor_AJ0
 people_NN0
 in_PRP
-deprived_AJ0
+deprived_VVN
 high_AJ0
 spending_VVG
 areas_NN2
@@ -28079,7 +28079,7 @@ Others_NN2
 say_VVI
 the_AT0
 numbers_NN2
-increased_AJ0
+increased_VVN
 in_PRP
 1988_CRD
 The_AT0
@@ -28214,7 +28214,7 @@ employment_NN1
 opportunities_NN2
 with_PRP
 the_AT0
-shift_NN1-VVB
+shift_NN1
 from_PRP
 goods-producing_NN1
 to_TO0
@@ -28360,7 +28360,7 @@ a_AT0
 harmoniously_AV0
 well-organized_AJ0
 and_CJC
-integrated_AJ0
+integrated_VVN
 society_NN1
 What_DTQ
 we_PNP
@@ -28487,7 +28487,7 @@ four_CRD
 of_PRF
 these_DT0
 are_VBB
-overlapping_VVG-AJ0
+overlapping_VVG
 categories_NN2
 and_CJC
 focus_NN1
@@ -28534,7 +28534,7 @@ hanging_VVG
 round_AVP
 pool_NN1
 halls_NN2
-lick_NN1-VVB
+lick_NN1
 of_PRF
 responsibility_NN1
 for_PRP
@@ -28600,7 +28600,7 @@ the_AT0
 book_NN1
 seems_VVZ
 to_TO0
-shift_NN1-VVB
+shift_NN1
 the_AT0
 blame_VVI
 from_PRP
@@ -28696,7 +28696,7 @@ an_AT0
 economy_NN1
 where_AVQ
 the_AT0
-two-income_AJ0-NN1
+two-income_AJ0
 family_NN1
 sets_NN2
 the_AT0
@@ -28762,11 +28762,11 @@ this_DT0
 But_CJC
 other_AJ0
 factors_NN2
-cross-cut_VVB-NN1
+cross-cut_VVB
 and_CJC
 a_AT0
 given_VVN
-lone-parent_AJ0-NN1
+lone-parent_NN1
 family_NN1
 may_VM0
 still_AV0
@@ -28839,7 +28839,7 @@ action_NN1
 This_DT0
 impetus_NN1
 was_VBD
-centred_VVN-VVD
+centred_VVN
 around_PRP
 an_AT0
 urban_AJ0
@@ -29053,13 +29053,13 @@ but_CJC
 drug-taking_NN1
 and_CJC
 drinking_VVG
-stretch_VVI
+stretch_NN1
 across_PRP
 social_AJ0
 groups_NN2
 O'Bryan_NP0
 1989_CRD
-Plant_NN1-VVB
+Plant_NN1
 1989_CRD
 desertion_NN1
 of_PRF
@@ -29251,7 +29251,7 @@ and_CJC
 non-unionized_AJ0
 sectors_NN2
 between_PRP
-men-dominated_NN1-AJ0
+men-dominated_AJ0
 and_CJC
 women-dominated_AJ0
 work-situations_NN2
@@ -29323,7 +29323,7 @@ below_AV0
 by_PRP
 the_AT0
 people_NN0
-involved_AJ0
+involved_VVN
 who_PNQ
 are_VBB
 the_AT0
@@ -29413,7 +29413,7 @@ place_NN1
 and_CJC
 as_CJS
 a_AT0
-battle-ground_NN1-AJ0
+battle-ground_NN1
 In_PRP
 this_DT0
 chapter_NN1
@@ -29429,7 +29429,7 @@ inner_AJ0
 city_NN1
 as_CJS
 a_AT0
-battle-ground_NN1-AJ0
+battle-ground_NN1
 a_AT0
 battleground_NN1
 on_PRP
@@ -29455,7 +29455,7 @@ and_CJC
 the_AT0
 geography_NN1
 of_PRF
-voting_VVG-NN1
+voting_NN1
 are_VBB
 interconnected_VVN
 and_CJC
@@ -29488,7 +29488,7 @@ the_AT0
 Thatcherites_NN2
 in_PRP
 their_DPS
-overall_AJ0-NN1
+overall_AJ0
 strategy_NN1
 of_PRF
 social_AJ0
@@ -29613,7 +29613,7 @@ especially_AV0
 those_DT0
 founded_VVN
 on_PRP
-universalist_NN1-AJ0
+universalist_AJ0
 principles_NN2
 In_PRP
 a_AT0
@@ -29654,7 +29654,7 @@ as_CJS
 relevant_AJ0
 and_CJC
 as_CJS
-enlightening_VVG-AJ0
+enlightening_AJ0
 as_CJS
 in_PRP
 the_AT0

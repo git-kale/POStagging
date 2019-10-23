@@ -36,7 +36,7 @@ that_CJT
 section_NN1
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 people_NN0
 who_PNQ
 newly_AV0
@@ -108,7 +108,7 @@ final_AJ0
 catastrophe_NN1
 while_CJS
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 actor_NN1
 in_PRP
 the_AT0
@@ -117,7 +117,7 @@ has_VHZ
 even_AV0
 had_VHD
 doubts_NN2
-cast_VVN
+cast_NN1
 upon_PRP
 the_AT0
 authenticity_NN1
@@ -275,7 +275,7 @@ bathed_VVN
 in_PRP
 wine_NN1
 and_CJC
-wrapped_VVN-VVD
+wrapped_VVN
 in_PRP
 cotton_NN1
 in_PRP
@@ -544,7 +544,7 @@ in_PRP
 1814_CRD
 and_CJC
 the_AT0
-fall_VVI
+fall_NN1
 of_PRF
 Napoleon_NP0
 I_PNP
@@ -613,7 +613,7 @@ after_PRP
 Waterloo_NP0
 the_AT0
 Emperor_NN1
-retired_AJ0
+retired_VVD
 to_TO0
 La_NP0
 Malmaison_NP0
@@ -742,7 +742,7 @@ in_PRP
 the_AT0
 Canton_NN1
 of_PRF
-Thurgau_NN1-NP0
+Thurgau_NP0
 From_PRP
 this_DT0
 time_NN1
@@ -839,7 +839,7 @@ had_VHD
 never_AV0
 renounced_VVN
 the_AT0
-republican_AJ0-NN1
+republican_AJ0
 ethos_NN1
 in_PRP
 which_DTQ
@@ -879,7 +879,7 @@ a_AT0
 vision_NN1
 of_PRF
 austere_AJ0
-republican_AJ0-NN1
+republican_AJ0
 virtue_NN1
 which_DTQ
 was_VBD
@@ -975,7 +975,7 @@ tendency_NN1
 to_TO0
 idleness_NN1
 and_CJC
-day-dreaming_VVG-AJ0
+day-dreaming_VVG
 but_CJC
 would_VM0
 also_AV0
@@ -1013,7 +1013,7 @@ also_AV0
 the_AT0
 stimulus_NN1
 of_PRF
-intellectual_AJ0-NN1
+intellectual_AJ0
 competition_NN1
 As_CJS
 a_AT0
@@ -1217,7 +1217,7 @@ have_VHB
 led_VVD
 to_TO0
 the_AT0
-stifling_VVG-AJ0
+stifling_VVG
 of_PRF
 all_DT0
 that_CJT
@@ -1230,9 +1230,9 @@ in_PRP
 favour_NN1
 of_PRF
 a_AT0
-stultifying_NN1-AJ0
+stultifying_AJ0
 conservatism_NN1
-Fired_VVN-VVD
+Fired_VVN
 by_PRP
 a_AT0
 determination_NN1
@@ -1258,7 +1258,7 @@ in_PRP
 Italy_NP0
 directed_VVN
 against_PRP
-Austrian_AJ0-NN1
+Austrian_AJ0
 rule_NN1
 in_PRP
 themselves_PNX
@@ -1278,7 +1278,7 @@ restored_VVN
 Bourbon_NN1
 monarchy_NN1
 The_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 insurrection_NN1
 was_VBD
 a_AT0
@@ -1339,7 +1339,7 @@ both_AV0
 sons_NN2
 Fearing_VVG
 that_CJT
-Austrian_AJ0-NN1
+Austrian_AJ0
 reprisals_NN2
 might_VM0
 be_VBI
@@ -1436,7 +1436,7 @@ his_DPS
 devotion_NN1
 to_TO0
 the_AT0
-Bonapartist_AJ0-NN1
+Bonapartist_AJ0
 cause_NN1
 might_VM0
 be_VBI
@@ -1562,7 +1562,7 @@ only_AV0
 dream_NN1
 of_PRF
 a_AT0
-Bonapartist_AJ0-NN1
+Bonapartist_AJ0
 cause_NN1
 he_PNP
 could_VM0
@@ -1673,7 +1673,7 @@ a_AT0
 lecture_NN1
 on_PRP
 his_DPS
-Italian_AJ0-NN1
+Italian_AJ0
 escapade_NN1
 Having_VHG
 already_AV0
@@ -1686,7 +1686,7 @@ father_NN1
 the_AT0
 young_AJ0
 man_NN1
-despaired_VVN-VVD
+despaired_VVN
 of_PRF
 finding_VVG
 any_DT0
@@ -1712,7 +1712,7 @@ wrote_VVD
 How_AVQ
 could_VM0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 people_NN0
 be_VBI
 expected_VVN
@@ -1723,7 +1723,7 @@ when_CJS
 we_PNP
 ourselves_PNX
 have_VHB
-devoted_AJ0-VVN
+devoted_AJ0
 fifteen_CRD
 years_NN2
 to_TO0
@@ -1856,7 +1856,7 @@ no_AT0
 lack_NN1
 of_PRF
 latent_AJ0
-Bonapartist_AJ0-NN1
+Bonapartist_AJ0
 feeling_NN1
 among_PRP
 all_DT0
@@ -1917,7 +1917,7 @@ idealized_AJ0
 conceptions_NN2
 of_PRF
 a_AT0
-Bonapartist_AJ0-NN1
+Bonapartist_AJ0
 state_NN1
 made_VVN
 up_AVP
@@ -1942,7 +1942,7 @@ problems_NN2
 of_PRF
 the_AT0
 day_NN1
-Chateaubriand_NP0
+Chateaubriand_NN1
 who_PNQ
 happened_VVD
 to_TO0
@@ -1971,7 +1971,7 @@ that_CJT
 it_PNP
 would_VM0
 be_VBI
-improved_AJ0
+improved_VVN
 if_CJS
 where_AVQ
 the_AT0
@@ -2036,7 +2036,7 @@ subsequent_AJ0
 writings_NN2
 were_VBD
 merely_AV0
-glosses_VVZ-NN2
+glosses_NN2
 on_PRP
 an_AT0
 established_VVN
@@ -2051,11 +2051,11 @@ work_NN1
 of_PRF
 more_AV0
 than_CJS
-average_AJ0-NN1
+average_AJ0
 competence_NN1
 a_AT0
 500-page_AJ0
-closely-reasoned_AJ0-NN1
+closely-reasoned_AJ0
 and_CJC
 well-documented_AJ0
 study_NN1
@@ -2214,7 +2214,7 @@ overestimated_VVD
 the_AT0
 strength_NN1
 of_PRF
-Bonapartist_AJ0-NN1
+Bonapartist_AJ0
 feeling_NN1
 in_PRP
 France_NP0
@@ -2301,7 +2301,7 @@ the_AT0
 event_NN1
 as_CJS
 an_AT0
-act_VVI
+act_NN1
 of_PRF
 folly_NN1
 without_PRP
@@ -2373,7 +2373,7 @@ the_AT0
 conservative_AJ0
 strata_NN2
 of_PRF
-French_AJ0-NN1
+French_AJ0
 society_NN1
 which_DTQ
 were_VBD
@@ -2395,7 +2395,7 @@ wish_VVB
 to_TO0
 see_VVI
 him_PNP
-re-embodied_VVD-VVN
+re-embodied_VVN
 Henceforth_AV0
 as_CJS
 a_AT0
@@ -2544,7 +2544,7 @@ of_PRF
 Brazil_NP0
 since_CJS
 the_AT0
-French_AJ0-NN1
+French_AJ0
 authorities_NN2
 wanted_VVD
 to_TO0
@@ -2615,7 +2615,7 @@ in_PRP
 the_AT0
 Washington_NP0
 Hotel_NN1
-Broadway_NP0-NN1
+Broadway_NP0
 Whatever_DTQ
 future_NN1
 plans_NN2
@@ -2654,8 +2654,8 @@ her_DPS
 doctor_NN1
 had_VHD
 written_VVN
-Venez_VVB-NN1
-Venez_VVB-NN1
+Venez_NN1
+Venez_NN1
 Alarmed_VVN
 by_PRP
 the_AT0
@@ -2685,9 +2685,9 @@ passport_NN1
 but_CJC
 neither_AV0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 the_AT0
-Austrian_AJ0-NN1
+Austrian_AJ0
 or_CJC
 the_AT0
 Prussian_AJ0
@@ -2727,7 +2727,7 @@ cancer_NN1
 was_VBD
 in_PRP
 fact_NN1
-dying_VVG-AJ0
+dying_AJ0
 although_CJS
 she_PNP
 lingered_VVD
@@ -2735,7 +2735,7 @@ until_CJS
 9_CRD
 October_NP0
 The_AT0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 acceded_VVD
 to_TO0
@@ -2794,7 +2794,7 @@ life_NN1
 he_PNP
 was_VBD
 totally_AV0
-devoted_AJ0-VVN
+devoted_AJ0
 and_CJC
 to_TO0
 whose_DTQ
@@ -3297,7 +3297,7 @@ namely_AV0
 the_AT0
 Extinction_NN1
 du_UNC
-Paup\xc3\xa9risme_NP0-NN1
+Paup\xc3\xa9risme_NN1
 the_AT0
 Prince_NN1
 showed_VVD
@@ -3316,7 +3316,7 @@ the_AT0
 mass_NN1
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 people_NN0
 to_TO0
 whom_PNQ
@@ -3348,7 +3348,7 @@ the_AT0
 appeal_NN1
 of_PRF
 his_DPS
-Bonapartist_AJ0-NN1
+Bonapartist_AJ0
 message_NN1
 In_PRP
 1848_CRD
@@ -3681,7 +3681,7 @@ five_CRD
 days_NN2
 after_PRP
 the_AT0
-fall_VVI
+fall_NN1
 of_PRF
 the_AT0
 King_NP0
@@ -3856,7 +3856,7 @@ the_AT0
 Assembly_NN1
 gave_VVD
 way_NN1
-repealed_VVN
+repealed_VVD
 the_AT0
 Law_NN1
 of_PRF
@@ -4506,7 +4506,7 @@ Presidential_AJ0
 apartments_NN2
 are_VBB
 as_CJS
-faded_AJ0
+faded_VVN
 as_CJS
 the_AT0
 President_NP0
@@ -4516,7 +4516,7 @@ to_TO0
 the_AT0
 Prince_NN1
 's_POS
-dressing_VVG
+dressing_NN1
 in_PRP
 sombre_AJ0
 colours_NN2
@@ -4538,7 +4538,7 @@ as_CJS
 those_DT0
 of_PRF
 the_AT0
-English_AJ0-NN1
+English_AJ0
 Embassy_NN1
 make_VVI
 decent_AJ0
@@ -4580,7 +4580,7 @@ threadbare_AJ0
 and_CJC
 the_AT0
 latter_DT0
-faded_AJ0
+faded_VVN
 In_PRP
 these_DT0
 dismal_AJ0
@@ -4602,7 +4602,7 @@ to_TO0
 represent_VVI
 worthily_AV0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 nation_NN1
 Since_CJS
 those_DT0
@@ -4677,7 +4677,7 @@ Princess_NP0
 Mathilde_NP0
 Bonaparte_NP0
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 his_DPS
 official_AJ0
@@ -4798,9 +4798,9 @@ tendency_NN1
 to_TO0
 what_DTQ
 the_AT0
-French_AJ0-NN1
+French_AJ0
 call_VVI
-l'esprit_NN1-VVB
+l'esprit_VVB
 d\xc3\xa9molisseur_NN1
 a_AT0
 sort_NN1
@@ -4828,7 +4828,7 @@ Louis-Napoleon_NP0
 to_TO0
 Eug\xc3\xa9nie_NP0
 de_NP0
-Montijo_NP0-NN1
+Montijo_NP0
 undoubtedly_AV0
 stoked_VVN
 up_AVP
@@ -5080,7 +5080,7 @@ group_NN1
 were_VBD
 determined_VVN
 to_TO0
-drive_VVI
+drive_NN1
 the_AT0
 president_NN1
 towards_PRP
@@ -5143,7 +5143,7 @@ that_CJT
 he_PNP
 would_VM0
 not_XX0
-shrink_VVI
+shrink_NN1
 from_PRP
 a_AT0
 confrontation_NN1
@@ -5206,7 +5206,7 @@ palace_NN1
 As_CJS
 usual_AJ0
 he_PNP
-mingled_VVN-VVD
+mingled_VVD
 with_PRP
 his_DPS
 guests_NN2
@@ -5239,10 +5239,10 @@ his_DPS
 Operation_NN1
 Rubicon_NN1
 the_AT0
-long-awaited_AJ0-NN1
+long-awaited_AJ0
 coup_NN1
 was_VBD
-scheduled_VVN-AJ0
+scheduled_VVN
 for_PRP
 the_AT0
 night_NN1
@@ -5374,7 +5374,7 @@ In_PRP
 any_DT0
 case_NN1
 the_AT0
-French_AJ0-NN1
+French_AJ0
 army_NN1
 had_VHD
 by_PRP
@@ -5603,9 +5603,9 @@ manned_VVN
 them_PNP
 One_CRD
 young_AJ0
-republican_AJ0-NN1
+republican_AJ0
 deputy_NN1
-Baudin_NP0-NN1
+Baudin_NP0
 was_VBD
 killed_VVN
 in_PRP
@@ -5841,7 +5841,7 @@ the_AT0
 constitution_NN1
 of_PRF
 the_AT0
-Consulate_NN1-NP0
+Consulate_NP0
 established_VVN
 in_PRP
 1800_CRD
@@ -5917,7 +5917,7 @@ over_PRP
 2,000,000_CRD
 abstentions_NN2
 One_CRD
-republican_AJ0-NN1
+republican_AJ0
 adversary_NN1
 Jules_NP0
 Ferry_NN1
@@ -6151,7 +6151,7 @@ these_DT0
 changes_NN2
 THE_AT0
 EMPIRE_NN1
-RESTORED_VVN-VVD
+RESTORED_VVD
 ONE_CRD
 IMPORTANT_AJ0
 QUESTION_NN1
@@ -6163,7 +6163,7 @@ once_AV0
 the_AT0
 Empire_NN1
 was_VBD
-reestablished_VVN-AJ0
+reestablished_VVN
 was_VBD
 there_EX0
 to_TO0
@@ -6270,7 +6270,7 @@ coronation_NN1
 was_VBD
 allowed_VVN
 to_TO0
-drop_VVI
+drop_NN1
 probably_AV0
 to_TO0
 the_AT0
@@ -6289,7 +6289,7 @@ seems_VVZ
 to_TO0
 have_VHB
 been_VBN
-equalled_VVD
+equalled_VVN
 by_PRP
 the_AT0
 Emperor_NN1
@@ -6431,11 +6431,11 @@ supporters_NN2
 the_AT0
 Duc_NN1
 de_NP0
-Persigny_NP0-NN1
+Persigny_NN1
 the_AT0
 sum_NN1
 was_VBD
-increased_AJ0
+increased_VVN
 to_TO0
 25,000,000_CRD
 This_DT0
@@ -6500,7 +6500,7 @@ Later_AV0
 in_PRP
 the_AT0
 1860s_CRD
-Persigny_NP0-NN1
+Persigny_NN1
 remarked_VVD
 to_TO0
 the_AT0
@@ -6691,7 +6691,7 @@ Napoleon_NP0
 I_PNP
 's_POS
 brother_NN1
-Lucien_NP0-NN1
+Lucien_NP0
 the_AT0
 Emperor_NN1
 forbade_VVD
@@ -6744,7 +6744,7 @@ being_VBG
 expelled_VVN
 from_PRP
 France_NP0
-Added_VVN-AJ0
+Added_AJ0
 to_TO0
 the_AT0
 Bonapartes_NP0
@@ -6752,7 +6752,7 @@ were_VBD
 the_AT0
 Murats_NN2
 the_AT0
-Tascher_NN1-NP0
+Tascher_NP0
 de_NP0
 la_UNC
 Pagerie_NP0
@@ -6763,13 +6763,13 @@ and_CJC
 descendants_NN2
 of_PRF
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 marriages_NN2
 the_AT0
-Primolis_NN1-NP0
+Primolis_NP0
 and_CJC
 the_AT0
-Bacciochis_NN1-NP0
+Bacciochis_NP0
 some_DT0
 of_PRF
 whom_PNQ
@@ -6875,7 +6875,7 @@ the_AT0
 Emperor_NN1
 appointed_VVN
 Achille_NP0
-Fould_NP0-NN1
+Fould_NP0
 of_PRF
 the_AT0
 banking_NN1
@@ -6913,7 +6913,7 @@ in_PRP
 the_AT0
 Council_NN1
 and_CJC
-Fould_NP0-NN1
+Fould_NP0
 combined_VVN
 it_PNP
 with_PRP
@@ -7012,7 +7012,7 @@ and_CJC
 assorted_AJ0
 administrative_AJ0
 officers_NN2
-varying_AJ0-VVG
+varying_AJ0
 in_PRP
 number_NN1
 between_PRP
@@ -7044,20 +7044,20 @@ Guides_NN2
 a_AT0
 cavalry_NN0
 regiment_NN1
-rigged_VVD-VVN
+rigged_VVN
 out_AVP
 in_PRP
 green_AJ0
 and_CJC
 gold_NN1
-numbering_VVG
+numbering_NN1
 1,000_CRD
 whose_DTQ
 Colonel_NP0
 was_VBD
 Prince_NN1
-Joachim_NP0-NN1
-Murat_NP0-NN1
+Joachim_NN1
+Murat_NN1
 Entry_NN1
 to_TO0
 this_DT0
@@ -7122,7 +7122,7 @@ for_PRP
 their_DPS
 stature_NN1
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 height_NN1
 was_VBD
 six_CRD
@@ -7135,7 +7135,7 @@ many_DT0
 of_PRF
 their_DPS
 duties_NN2
-involved_AJ0
+involved_VVN
 them_PNP
 in_PRP
 Court_NN1
@@ -7260,7 +7260,7 @@ became_VVD
 one_CRD
 of_PRF
 the_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 attractions_NN2
 of_PRF
 the_AT0
@@ -7340,7 +7340,7 @@ the_AT0
 Household_NN1
 The_AT0
 Grand_AJ0
-Almoner_NN1-NP0
+Almoner_NN1
 was_VBD
 the_AT0
 Archbishop_NN1
@@ -7351,7 +7351,7 @@ was_VBD
 assisted_VVN
 by_PRP
 a_AT0
-vicar-general_NN1-AJ0
+vicar-general_AJ0
 and_CJC
 five_CRD
 chaplains_NN2
@@ -7486,11 +7486,11 @@ of_PRF
 the_AT0
 Horse_NN1
 Grand_AJ0
-\xc3\x89cuyer_NP0-NN1
+\xc3\x89cuyer_NN1
 controlled_VVN
 a_AT0
 dozen_CRD
-chief_AJ0-NN1
+chief_NN1
 assistants_NN2
 who_PNQ
 in_PRP
@@ -7503,7 +7503,7 @@ veritable_AJ0
 army_NN1
 of_PRF
 coachmen_NN2
-grooms_NN2-VVZ
+grooms_NN2
 etc._AV0
 responsible_AJ0
 for_PRP
@@ -7523,10 +7523,10 @@ separate_AJ0
 from_PRP
 that_CJT
 of_PRF
-Chief_NP0
-Huntsman_NN1-NP0
+Chief_NN1
+Huntsman_NP0
 Grand_AJ0
-Veneur_NP0-NN1
+Veneur_NP0
 whose_DTQ
 staff_NN0
 consisted_VVD
@@ -7547,7 +7547,7 @@ to_TO0
 organize_VVI
 the_AT0
 Imperial_AJ0
-hunts_NN2
+hunts_VVZ
 particularly_AV0
 during_PRP
 the_AT0
@@ -7591,14 +7591,14 @@ and_CJC
 knee_NN1
 breeches_NN2
 of_PRF
-nankeen_NN1-AJ0
+nankeen_AJ0
 silk_NN1
 stockings_NN2
 and_CJC
 shoes_NN2
 with_PRP
 gold_NN1
-buckles_NN2-VVZ
+buckles_NN2
 All_DT0
 this_DT0
 was_VBD
@@ -7665,7 +7665,7 @@ for_PRP
 Court_NN1
 entertainments_NN2
 The_AT0
-Legitimist_AJ0-NN1
+Legitimist_AJ0
 nobility_NN1
 that_CJT
 is_VBZ
@@ -7840,7 +7840,7 @@ the_AT0
 noise_NN1
 confusion_NN1
 and_CJC
-bustle_NN1-VVB
+bustle_NN1
 were_VBD
 great_AJ0
 What_DTQ
@@ -7871,7 +7871,7 @@ moribund_NN1
 courts_NN2
 of_PRF
 Europe_NP0
-stifling_VVG-AJ0
+stifling_VVG
 under_PRP
 the_AT0
 weight_NN1
@@ -8075,7 +8075,7 @@ front_NN1
 of_PRF
 which_DTQ
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 figures_NN2
 of_PRF
 the_AT0
@@ -8231,11 +8231,11 @@ also_AV0
 his_DPS
 medical_AJ0
 advisers_NN2
-chief_AJ0-NN1
+chief_NN1
 among_PRP
 them_PNP
 Dr_NP0
-Conneau_NP0-NN1
+Conneau_NP0
 another_DT0
 one_CRD
 of_PRF
@@ -8259,7 +8259,7 @@ Ham_NN1
 It_PNP
 had_VHD
 been_VBN
-Conneau_NP0-NN1
+Conneau_NP0
 who_PNQ
 in_PRP
 fact_NN1
@@ -8294,7 +8294,7 @@ making_VVG
 his_DPS
 daily_AJ0
 visit_NN1
-Conneau_NP0-NN1
+Conneau_NP0
 's_POS
 reward_NN1
 was_VBD
@@ -8303,7 +8303,7 @@ of_PRF
 an_AT0
 appointment_NN1
 as_CJS
-chief_AJ0-NN1
+chief_NN1
 physician_NN1
 a_AT0
 post_NN1
@@ -8459,13 +8459,13 @@ which_DTQ
 would_VM0
 not_XX0
 only_AV0
-shine_VVI
+shine_NN1
 in_PRP
 the_AT0
 eyes_NN2
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 people_NN0
 but_CJC
 would_VM0
@@ -8679,7 +8679,7 @@ seemed_VVD
 to_TO0
 be_VBI
 a_AT0
-tawdry_AJ0-NN1
+tawdry_AJ0
 affair_NN1
 governed_VVN
 by_PRP
@@ -8691,7 +8691,7 @@ frivolity_NN1
 where_AVQ
 all_DT0
 was_VBD
-hugger-mugger_NN1-AJ0
+hugger-mugger_AJ0
 If_CJS
 however_AV0
 one_CRD
@@ -8765,7 +8765,7 @@ point_NN1
 which_DTQ
 he_PNP
 himself_PNX
-stressed_VVD
+stressed_VVN
 continually_AV0
 Given_VVN
 that_CJT
@@ -8803,7 +8803,7 @@ his_DPS
 behaviour_NN1
 as_CJS
 a_AT0
-Sovereign_AJ0-NN1
+Sovereign_NN1
 who_PNQ
 must_VM0
 associate_NN1
@@ -8930,7 +8930,7 @@ experienced_VVN
 by_PRP
 those_DT0
 who_PNQ
-frequented_VVD
+frequented_VVN
 it_PNP
 for_PRP
 its_DPS
@@ -8966,7 +8966,7 @@ sharp_AJ0
 The_AT0
 King_NP0
 then_AV0
-retired_AJ0
+retired_VVD
 to_TO0
 his_DPS
 study_NN1
@@ -9063,7 +9063,7 @@ to_TO0
 be_VBI
 dowdy_AJ0
 and_CJC
-second-rate_NN1-AJ0
+second-rate_AJ0
 That_DT0
 the_AT0
 King_NP0
@@ -9137,7 +9137,7 @@ the_AT0
 bourgeoisie_NN1
 but_CJC
 the_AT0
-French_AJ0-NN1
+French_AJ0
 neither_AV0
 liked_VVD
 nor_CJC
@@ -9389,7 +9389,7 @@ European_AJ0
 court_NN1
 circles_NN2
 by_PRP
-French_AJ0-NN1
+French_AJ0
 representatives_NN2
 to_TO0
 ascertain_VVI
@@ -9419,14 +9419,14 @@ forward_AV0
 One_CRD
 was_VBD
 a_AT0
-Vasa_NN1-NP0
+Vasa_NN1
 Princess_NP0
 descendant_NN1
 of_PRF
 the_AT0
 former_DT0
 Swedish_AJ0
-ruling_AJ0-NN1
+ruling_NN1
 house_NN1
 the_AT0
 other_AJ0
@@ -9495,7 +9495,7 @@ accused_VVN
 of_PRF
 pushing_VVG
 the_AT0
-Protestant_AJ0-NN1
+Protestant_AJ0
 interest_NN1
 It_PNP
 did_VDD
@@ -9604,7 +9604,7 @@ mother_NN1
 the_AT0
 Countess_NN1
 of_PRF
-Montijo_NP0-NN1
+Montijo_NP0
 had_VHD
 been_VBN
 introduced_VVN
@@ -9626,7 +9626,7 @@ latter_DT0
 certainly_AV0
 lived_VVD
 to_TO0
-regret_VVI
+regret_NN1
 Daughter_NN1
 of_PRF
 a_AT0
@@ -9668,7 +9668,7 @@ and_CJC
 sympathetic_AJ0
 to_TO0
 a_AT0
-Bonapartist_AJ0-NN1
+Bonapartist_AJ0
 restoration_NN1
 her_DPS
 father_NN1
@@ -9680,7 +9680,7 @@ to_TO0
 the_AT0
 Bonaparte_NP0
 dynasty_NN1
-Educated_VVN-AJ0
+Educated_AJ0
 in_PRP
 France_NP0
 she_PNP
@@ -9689,7 +9689,7 @@ as_CJS
 Napoleon_NP0
 III_CRD
 said_VVD
-French_AJ0-NN1
+French_AJ0
 at_PRP
 heart_NN1
 not_XX0
@@ -10039,7 +10039,7 @@ the_AT0
 Emperor_NN1
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 who_PNQ
 was_VBD
 determined_VVN
@@ -10059,7 +10059,7 @@ not_XX0
 marry_VVI
 Mademoiselle_NN1
 de_NP0
-Montijo_NP0-NN1
+Montijo_NP0
 The_AT0
 Prince_NN1
 's_POS
@@ -10079,12 +10079,12 @@ Julie_NP0
 Bonaparte_NP0
 granddaughter_NN1
 of_PRF
-Lucien_NP0-NN1
+Lucien_NP0
 and_CJC
 married_AJ0
 to_TO0
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 Marquis_NN1
 of_PRF
 Roccagiovine_NP0
@@ -10102,7 +10102,7 @@ I_PNP
 saw_VVD
 Mlle_NP0
 de_NP0
-Montijo_NP0-NN1
+Montijo_NP0
 was_VBD
 at_PRP
 a_AT0
@@ -10143,7 +10143,7 @@ calling_VVG
 Eug\xc3\xa9nie_NP0
 Mlle_NP0
 de_NP0
-Montijo_NP0-NN1
+Montijo_NP0
 She_PNP
 was_VBD
 in_PRP
@@ -10183,7 +10183,7 @@ was_VBD
 at_PRP
 that_CJT
 time_NN1
-glowing_AJ0-VVG
+glowing_AJ0
 with_PRP
 good_AJ0
 health_NN1
@@ -10402,7 +10402,7 @@ reasons_NN2
 clear_AJ0
 Madame_NN1
 la_UNC
-Comtesse_NP0-NN1
+Comtesse_NP0
 I_PNP
 have_VHB
 been_VBN
@@ -10591,7 +10591,7 @@ describe_VVI
 to_TO0
 you_PNP
 my_DPS
-dear_ITJ
+dear_NN1
 sister_NN1
 what_DTQ
 I_PNP
@@ -10693,7 +10693,7 @@ enamoured_AJ0
 of_PRF
 Madame_NN1
 de_NP0
-Montijo_NP0-NN1
+Montijo_NP0
 it_PNP
 is_VBZ
 little_AJ0
@@ -10903,7 +10903,7 @@ noted_VVN
 Count_NP0
 Hubner_NP0
 the_AT0
-Austrian_AJ0-NN1
+Austrian_AJ0
 Ambassador_NN1
 with_PRP
 the_AT0
@@ -11098,7 +11098,7 @@ lively_AJ0
 mood_NN1
 dressed_VVN
 in_PRP
-ruby_NN1-AJ0
+ruby_NN1
 velvet_NN1
 with_PRP
 her_DPS
@@ -11318,7 +11318,7 @@ had_VHD
 a_AT0
 horror_NN1
 of_PRF
-offending_AJ0-NN1
+offending_AJ0
 anyone_PNI
 socially_AV0
 said_VVD
@@ -11446,7 +11446,7 @@ that_CJT
 during_PRP
 the_AT0
 short_AJ0
-drive_VVI
+drive_NN1
 from_PRP
 the_AT0
 palace_NN1
@@ -11529,7 +11529,7 @@ be_VBI
 male_AJ0
 The_AT0
 Empress_NN1
-miscarried_VVN-AJ0
+miscarried_VVN
 in_PRP
 April_NP0
 1853_CRD
@@ -11590,7 +11590,7 @@ ever_AV0
 succeeded_VVN
 to_TO0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 throne_NN1
 The_AT0
 birth_NN1
@@ -11651,7 +11651,7 @@ of_PRF
 the_AT0
 succession_NN1
 This_DT0
-increased_AJ0
+increased_VVN
 the_AT0
 dislike_NN1
 felt_VVD
@@ -11806,7 +11806,7 @@ also_AV0
 unable_AJ0
 to_TO0
 be_VBI
-present_AJ0-NN1
+present_AJ0
 in_PRP
 person_NN1
 who_PNQ
@@ -12017,7 +12017,7 @@ and_CJC
 Lord_NP0
 Cowley_NP0
 the_AT0
-English_AJ0-NN1
+English_AJ0
 ambassador_NN1
 said_VVD
 I_PNP
@@ -12036,7 +12036,7 @@ the_AT0
 baptismal_AJ0
 ceremonies_NN2
 Prosper_VVB
-M\xc3\xa9rim\xc3\xa9e_NP0-NN1
+M\xc3\xa9rim\xc3\xa9e_NN1
 a_AT0
 long-time_AJ0
 friend_NN1
@@ -12076,7 +12076,7 @@ in_PRP
 his_DPS
 arms_NN2
 to_TO0
-present_AJ0-NN1
+present_AJ0
 him_PNP
 to_TO0
 the_AT0
@@ -12108,7 +12108,7 @@ the_AT0
 shape_NN1
 of_PRF
 a_AT0
-Viking_NN1-AJ0
+Viking_NN1
 boat_NN1
 with_PRP
 the_AT0
@@ -12138,7 +12138,7 @@ the_AT0
 Imperial_AJ0
 crown_NN1
 The_AT0
-Pope_NP0-NN1
+Pope_NP0
 's_POS
 gift_NN1
 was_VBD
@@ -12166,7 +12166,7 @@ was_VBD
 entrusted_VVN
 to_TO0
 an_AT0
-English_AJ0-NN1
+English_AJ0
 nurse_NN1
 Miss_NP0
 Shaw_NP0
@@ -12191,7 +12191,7 @@ own_DT0
 His_DPS
 gouverneur_UNC
 or_CJC
-chief_AJ0-NN1
+chief_NN1
 guardian_NN1
 was_VBD
 General_AJ0
@@ -12217,7 +12217,7 @@ were_VBD
 confined_VVN
 to_TO0
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 the_AT0
 child_NN1
 should_VM0
@@ -12281,9 +12281,9 @@ first_ORD
 floor_NN1
 of_PRF
 the_AT0
-Pavillon_NP0-NN1
+Pavillon_NP0
 de_NP0
-Flore_NP0-NN1
+Flore_NP0
 which_DTQ
 formed_VVN
 the_AT0
@@ -12333,13 +12333,13 @@ he_PNP
 grew_VVD
 older_AJC
 his_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 view_NN1
 was_VBD
 that_CJT
 of_PRF
 the_AT0
-omnibuses_NN2-VVZ
+omnibuses_NN2
 which_DTQ
 descended_VVN
 the_AT0
@@ -12473,7 +12473,7 @@ of_PRF
 residence_NN1
 at_PRP
 Compi\xc3\xa9gne_NP0
-Fontainebleau_NP0-NN1
+Fontainebleau_NP0
 or_CJC
 Saint_NP0
 Cloud_NP0
@@ -12870,7 +12870,7 @@ found_VVD
 him_PNP
 a_AT0
 wild_AJ0
-harum-scarum_AJ0-NN1
+harum-scarum_NN1
 youth_NN1
 apparently_AV0
 without_PRP
@@ -12882,7 +12882,7 @@ any_DT0
 kind_NN1
 who_PNQ
 enjoyed_VVD
-galloping_VVG-AJ0
+galloping_AJ0
 through_PRP
 the_AT0
 streets_NN2
@@ -12923,7 +12923,7 @@ with_PRP
 an_AT0
 entr\xc3\xa9e_NN1
 to_TO0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 circles_NN2
 whether_CJS
@@ -12999,7 +12999,7 @@ Hair_NN1
 auburn_AJ0
 She_PNP
 spoke_VVD
-English_AJ0-NN1
+English_AJ0
 easily_AV0
 and_CJC
 talked_VVD
@@ -13073,7 +13073,7 @@ before_PRP
 all_DT0
 would_VM0
 be_VBI
-consolidated_AJ0
+consolidated_VVN
 Although_CJS
 the_AT0
 banquet_NN1
@@ -13154,7 +13154,7 @@ totally_AV0
 different_AJ0
 position_NN1
 his_DPS
-present_AJ0-NN1
+present_AJ0
 one_CRD
 looked_VVD
 like_PRP
@@ -13168,7 +13168,7 @@ when_CJS
 each_DT0
 actor_NN1
 becomes_VVZ
-acclimatized_VVD-AJ0
+acclimatized_AJ0
 by_PRP
 time_NN1
 it_PNP
@@ -13179,7 +13179,7 @@ magnificent_AJ0
 Court_NN1
 with_PRP
 a_AT0
-Sovereign_AJ0-NN1
+Sovereign_NN1
 who_PNQ
 will_VM0
 command_NN1
@@ -13228,7 +13228,7 @@ unreal_AJ0
 something_PNI
 like_PRP
 a_AT0
-banqueting_AJ0-NN1
+banqueting_AJ0
 scene_NN1
 of_PRF
 an_AT0
@@ -13250,7 +13250,7 @@ knife_NN1
 to_TO0
 consist_VVI
 of_PRF
-cardboard_NN1-AJ0
+cardboard_AJ0
 and_CJC
 my_DPS
 goblet_NN1
@@ -13408,7 +13408,7 @@ as_CJS
 that_CJT
 of_PRF
 the_AT0
-Austrian_AJ0-NN1
+Austrian_AJ0
 Ambassador_NN1
 accustomed_AJ0
 to_TO0
@@ -13560,7 +13560,7 @@ been_VBN
 connected_VVN
 by_PRP
 narrow_AJ0
-spiral_AJ0-NN1
+spiral_NN1
 staircases_NN2
 which_DTQ
 gave_VVD
@@ -13648,7 +13648,7 @@ by_PRP
 later_AV0
 improvements_NN2
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 areas_NN2
 of_PRF
 the_AT0
@@ -13836,7 +13836,7 @@ he_PNP
 was_VBD
 almost_AV0
 a_AT0
-chain-smoker_NN1-AJ0
+chain-smoker_NN1
 his_DPS
 rooms_NN2
 must_VM0
@@ -14010,7 +14010,7 @@ had_VHD
 all_DT0
 been_VBN
 renewed_AJ0
-upholstered_VVD
+upholstered_AJ0
 for_PRP
 preference_NN1
 in_PRP
@@ -14042,9 +14042,9 @@ these_DT0
 the_AT0
 Salle_NP0
 des_UNC
-Mar\xc3\xa9chaux_NP0-NN1
+Mar\xc3\xa9chaux_NP0
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 reception_NN1
 room_NN1
 whose_DTQ
@@ -14087,7 +14087,7 @@ du_UNC
 palais_NN1
 Mme_NP0
 de_NP0
-Carette_NP0-NN1
+Carette_NP0
 wrote_VVD
 of_PRF
 it_PNP
@@ -14260,7 +14260,7 @@ their_DPS
 right_NN1
 the_AT0
 ministers_NN2
-marshals_NN2-VVZ
+marshals_VVZ
 admirals_NN2
 and_CJC
 the_AT0
@@ -14290,7 +14290,7 @@ the_AT0
 ladies_NN2
 begins_VVZ
 Mme_NP0
-Fould_NP0-NN1
+Fould_NP0
 wife_NN1
 of_PRF
 the_AT0
@@ -14349,7 +14349,7 @@ that_CJT
 in_PRP
 France_NP0
 the_AT0
-present_AJ0-NN1
+present_AJ0
 generation_NN1
 has_VHZ
 seen_VVN
@@ -14412,7 +14412,7 @@ like_PRP
 a_AT0
 peasant_NN1
 in_PRP
-disguise_VVI
+disguise_NN1
 and_CJC
 another_DT0
 woman_NN1
@@ -14493,7 +14493,7 @@ aware_AJ0
 that_CJT
 before_PRP
 their_DPS
-present_AJ0-NN1
+present_AJ0
 position_NN1
 both_AV0
 she_PNP
@@ -14632,11 +14632,11 @@ her_DPS
 husband_NN1
 's_POS
 current_AJ0
-favourite_AJ0-NN1
+favourite_AJ0
 the_AT0
 Countess_NN1
 of_PRF
-Castiglione_NP0-NN1
+Castiglione_NN1
 who_PNQ
 had_VHD
 appeared_VVD
@@ -14682,7 +14682,7 @@ the_AT0
 Empress_NN1
 added_VVN
 I_PNP
-notice_VVI
+notice_NN1
 that_CJT
 this_DT0
 evening_NN1
@@ -15050,7 +15050,7 @@ in_PRP
 the_AT0
 Salle_NP0
 des_UNC
-Mar\xc3\xa9chaux_NP0-NN1
+Mar\xc3\xa9chaux_NP0
 what_DTQ
 Mme_NP0
 Moulton_NP0
@@ -15128,12 +15128,12 @@ in_PRP
 one_CRD
 of_PRF
 her_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 colours_NN2
 blue_AJ0
 white_AJ0
 or_CJC
-mauve_AJ0-NN1
+mauve_AJ0
 Her_DPS
 jewels_NN2
 since_CJS
@@ -15174,7 +15174,7 @@ to_TO0
 the_AT0
 Salle_NP0
 des_UNC
-Mar\xc3\xa9chaux_NP0-NN1
+Mar\xc3\xa9chaux_NP0
 the_AT0
 Emperor_NN1
 and_CJC
@@ -15264,7 +15264,7 @@ Emperor_NN1
 and_CJC
 the_AT0
 Empress_NN1
-retired_AJ0
+retired_VVD
 leaving_VVG
 their_DPS
 guests_NN2
@@ -15294,14 +15294,14 @@ the_AT0
 petits_NN2
 bals_NN2
 du_UNC
-lundi_NN1-VVB
+lundi_NN1
 which_DTQ
 were_VBD
 held_VVN
 in_PRP
 the_AT0
 Salon_NN1
-Bleu_NN1-NP0
+Bleu_NN1
 of_PRF
 her_DPS
 own_DT0
@@ -15494,7 +15494,7 @@ the_AT0
 members_NN2
 of_PRF
 the_AT0
-Legitimist_AJ0-NN1
+Legitimist_AJ0
 aristocracy_NN1
 still_AV0
 loyal_AJ0
@@ -15549,7 +15549,7 @@ emigration_NN1
 rejoicing_VVG
 in_PRP
 the_AT0
-fall_VVI
+fall_NN1
 of_PRF
 one_CRD
 usurper_NN1
@@ -15578,7 +15578,7 @@ the_AT0
 gibes_NN2
 against_PRP
 the_AT0
-ruling_AJ0-NN1
+ruling_NN1
 house_NN1
 were_VBD
 repeated_VVN
@@ -15637,7 +15637,7 @@ of_PRF
 Christian_AJ0
 charity_NN1
 alone_AJ0
-Shame_NN1-VVB
+Shame_VVB
 it_PNP
 is_VBZ
 said_VVD
@@ -15696,7 +15696,7 @@ the_AT0
 husbands_NN2
 showed_VVD
 less_AV0
-scruple_NN1-VVB
+scruple_VVB
 in_PRP
 accepting_VVG
 governmental_AJ0
@@ -15921,7 +15921,7 @@ Winterhalter_NP0
 now_AV0
 in_PRP
 the_AT0
-Mus\xc3\xa9e_NN1-NP0
+Mus\xc3\xa9e_NN1
 National_AJ0
 du_UNC
 Chateau_NN1
@@ -16100,7 +16100,7 @@ least_AV0
 remark_NN1
 all_DT0
 were_VBD
-stamped_AJ0
+stamped_VVD
 with_PRP
 the_AT0
 dignity_NN1
@@ -16224,7 +16224,7 @@ faithful_AJ0
 unto_PRP
 death_NN1
 In_PRP
-overall_AJ0-NN1
+overall_AJ0
 charge_NN1
 of_PRF
 the_AT0
@@ -16237,7 +16237,7 @@ Grand_AJ0
 Master_NN1
 General_AJ0
 Count_NP0
-Tascher_NN1-NP0
+Tascher_NP0
 de_NP0
 la_UNC
 Pagerie_NP0
@@ -16314,7 +16314,7 @@ Las_NP0
 Marismas_NP0
 of_PRF
 the_AT0
-Aguado_NN1-NP0
+Aguado_NN1
 family_NN1
 the_AT0
 Baroness_NP0
@@ -16324,7 +16324,7 @@ the_AT0
 Countess_NN1
 de_NP0
 la_UNC
-Poeze_NP0-NN1
+Poeze_NP0
 They_PNP
 are_VBB
 all_DT0
@@ -16370,7 +16370,7 @@ these_DT0
 ladies_NN2
 Mme_NP0
 de_NP0
-Carette_NP0-NN1
+Carette_NP0
 and_CJC
 the_AT0
 Countess_NN1
@@ -16464,7 +16464,7 @@ that_CJT
 is_VBZ
 between_PRP
 the_AT0
-Pavillon_NP0-NN1
+Pavillon_NP0
 de_NP0
 l'Horloge_NP0
 and_CJC
@@ -16506,7 +16506,7 @@ Napoleon_NP0
 III_CRD
 governed_VVN
 Emile_NP0
-Ollivier_NP0-NN1
+Ollivier_NP0
 who_PNQ
 was_VBD
 to_TO0
@@ -16604,7 +16604,7 @@ possessor_NN1
 Then_AV0
 comes_VVZ
 an_AT0
-ante-room_NN1-AJ0
+ante-room_NN1
 in_PRP
 which_DTQ
 there_EX0
@@ -16686,7 +16686,7 @@ the_AT0
 rooms_NN2
 described_VVN
 by_PRP
-Ollivier_NP0-NN1
+Ollivier_NP0
 the_AT0
 most_AV0
 important_AJ0
@@ -16813,7 +16813,7 @@ essentially_AV0
 a_AT0
 room_NN1
 for_PRP
-transacting_VVG-AJ0
+transacting_AJ0
 business_NN1
 though_CJS
 if_CJS
@@ -16998,7 +16998,7 @@ the_AT0
 Empress_NN1
 's_POS
 apartments_NN2
-Access_NN1-VVB
+Access_NN1
 was_VBD
 for_PRP
 the_AT0
@@ -17020,7 +17020,7 @@ the_AT0
 Palace_NN1
 by_PRP
 the_AT0
-Pavillon_NP0-NN1
+Pavillon_NP0
 de_NP0
 l'Horloge_NP0
 There_EX0
@@ -17034,11 +17034,11 @@ known_VVN
 as_CJS
 the_AT0
 Salon_NN1
-Vert_NN1-VVB
+Vert_VVB
 because_CJS
 of_PRF
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 green_AJ0
 motifs_NN2
 in_PRP
@@ -17059,7 +17059,7 @@ Attendance_NN1
 Then_AV0
 came_VVD
 an_AT0
-ante-chamber_NN1-AJ0
+ante-chamber_NN1
 the_AT0
 Salon_NN1
 Rose_NP0
@@ -17070,7 +17070,7 @@ audience_NN1
 chamber_NN1
 or_CJC
 Salon_NN1
-Bleu_NN1-NP0
+Bleu_NN1
 When_CJS
 not_XX0
 used_VVN
@@ -17116,7 +17116,7 @@ de_NP0
 Noailles_NP0
 The_AT0
 Salon_NN1
-Bleu_NN1-NP0
+Bleu_NN1
 marked_VVN
 the_AT0
 end_NN1
@@ -17170,7 +17170,7 @@ alcove_NN1
 which_DTQ
 could_VM0
 be_VBI
-shut_VVB
+shut_VVN
 off_AVP
 from_PRP
 the_AT0
@@ -17263,7 +17263,7 @@ library_NN1
 was_VBD
 the_AT0
 small_AJ0
-spiral_AJ0-NN1
+spiral_NN1
 staircase_NN1
 which_DTQ
 led_VVD
@@ -17370,7 +17370,7 @@ dark_AJ0
 morocco_NN1
 leather_NN1
 and_CJC
-stamped_AJ0
+stamped_VVD
 with_PRP
 an_AT0
 E_ZZ0
@@ -17413,7 +17413,7 @@ once_AV0
 remarked_VVD
 to_TO0
 Emile_NP0
-Ollivier_NP0-NN1
+Ollivier_NP0
 that_CJT
 she_PNP
 was_VBD
@@ -17518,7 +17518,7 @@ library_NN1
 was_VBD
 a_AT0
 huge_AJ0
-dressing_VVG
+dressing_NN1
 room_NN1
 which_DTQ
 contained_VVD
@@ -17547,7 +17547,7 @@ actually_AV0
 smaller_AJC
 than_CJS
 the_AT0
-dressing_VVG
+dressing_NN1
 room_NN1
 but_CJC
 was_VBD
@@ -17575,7 +17575,7 @@ Rose_NP0
 sent_VVN
 by_PRP
 the_AT0
-Pope_NP0-NN1
+Pope_NP0
 in_PRP
 1856_CRD
 to_TO0
@@ -17742,7 +17742,7 @@ the_AT0
 output_NN1
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 silk_NN1
 industry_NN1
 and_CJC
@@ -17767,7 +17767,7 @@ woman_NN1
 had_VHD
 always_AV0
 to_TO0
-yield_VVI
+yield_NN1
 to_TO0
 the_AT0
 duties_NN2
@@ -17795,7 +17795,7 @@ moments_NN2
 of_PRF
 private_AJ0
 relaxation_NN1
-alternated_VVN-VVD
+alternated_VVD
 with_PRP
 the_AT0
 exhausting_AJ0
@@ -17823,7 +17823,7 @@ Saint_NP0
 Cloud_NP0
 Compi\xc3\xa8gne_NP0
 or_CJC
-Fontainebleau_NP0-NN1
+Fontainebleau_NP0
 the_AT0
 emphasis_NN1
 should_VM0
@@ -17994,7 +17994,7 @@ informality_NN1
 Saint_NP0
 Cloud_NP0
 and_CJC
-Fontainebleau_NP0-NN1
+Fontainebleau_NP0
 were_VBD
 mid-way_AV0
 Both_DT0
@@ -18010,9 +18010,9 @@ May_NP0
 and_CJC
 July_NP0
 with_PRP
-Fontainebleau_NP0-NN1
+Fontainebleau_NP0
 the_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 retreat_NN1
 for_PRP
 the_AT0
@@ -18051,7 +18051,7 @@ were_VBD
 kept_VVD
 to_TO0
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 and_CJC
 it_PNP
 was_VBD
@@ -18193,7 +18193,7 @@ as_CJS
 existed_VVD
 at_PRP
 Compi\xc3\xa8gne_NP0
-Fontainebleau_NP0-NN1
+Fontainebleau_NP0
 or_CJC
 the_AT0
 Tuileries_NN2
@@ -18261,7 +18261,7 @@ the_AT0
 great_AJ0
 palace_NN1
 of_PRF
-Fontainebleau_NP0-NN1
+Fontainebleau_NP0
 perhaps_AV0
 because_CJS
 of_PRF
@@ -18330,7 +18330,7 @@ etiquette_NN1
 reduced_VVN
 to_TO0
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 so_AV0
 that_CJT
 the_AT0
@@ -18553,7 +18553,7 @@ the_AT0
 palace_NN1
 the_AT0
 famous_AJ0
-\xc3\x89tang_NN1-NP0
+\xc3\x89tang_NN1
 des_UNC
 Carpes_NN2
 where_AVQ
@@ -18596,7 +18596,7 @@ miniature_AJ0
 frigate_NN1
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 navy_NN1
 the_AT0
 latter_DT0
@@ -18615,7 +18615,7 @@ Metternich_NP0
 wife_NN1
 of_PRF
 the_AT0
-Austrian_AJ0-NN1
+Austrian_AJ0
 Ambassador_NN1
 was_VBD
 a_AT0
@@ -18635,7 +18635,7 @@ residences_NN2
 but_CJC
 she_PNP
 preferred_VVD
-Fontainebleau_NP0-NN1
+Fontainebleau_NP0
 because_CJS
 to_TO0
 her_DPS
@@ -18765,7 +18765,7 @@ where_AVQ
 one_CRD
 evening_NN1
 Prosper_VVB
-M\xc3\xa9rim\xc3\xa9e_NP0-NN1
+M\xc3\xa9rim\xc3\xa9e_NN1
 read_VVI
 poetry_NN1
 aloud_AV0
@@ -18797,7 +18797,7 @@ Mme_NP0
 Walewska_NP0
 his_DPS
 current_AJ0
-favourite_AJ0-NN1
+favourite_AJ0
 embarking_VVG
 in_PRP
 a_AT0
@@ -18819,7 +18819,7 @@ time_NN1
 Most_DT0
 evenings_NN2
 at_PRP
-Fontainebleau_NP0-NN1
+Fontainebleau_NP0
 were_VBD
 however_AV0
 marked_VVN
@@ -18833,7 +18833,7 @@ games_NN2
 with_PRP
 occasional_AJ0
 improvised_AJ0
-dancing_VVG
+dancing_NN1
 to_TO0
 a_AT0
 tune_NN1
@@ -18862,7 +18862,7 @@ room_NN1
 the_AT0
 famous_AJ0
 Salon_NN1
-Chinois_NN1-NP0
+Chinois_NP0
 in_PRP
 which_DTQ
 was_VBD
@@ -18874,7 +18874,7 @@ the_AT0
 loot_NN1
 which_DTQ
 the_AT0
-French_AJ0-NN1
+French_AJ0
 army_NN1
 had_VHD
 acquired_VVN
@@ -18930,17 +18930,17 @@ time_NN1
 above_PRP
 all_DT0
 if_CJS
-M\xc3\xa9rim\xc3\xa9e_NP0-NN1
+M\xc3\xa9rim\xc3\xa9e_NN1
 or_CJC
 Octave_NN1
-Feuillet_NN1-NP0
+Feuillet_NN1
 the_AT0
 novelist_NN1
 who_PNQ
 was_VBD
 librarian_NN1
 at_PRP
-Fontainebleau_NP0-NN1
+Fontainebleau_NP0
 were_VBD
 seated_VVN
 next_ORD
@@ -18969,7 +18969,7 @@ Moulton_NP0
 was_VBD
 invited_VVN
 to_TO0
-Fontainebleau_NP0-NN1
+Fontainebleau_NP0
 in_PRP
 August_NP0
 1866_CRD
@@ -19043,7 +19043,7 @@ who_PNQ
 is_VBZ
 now_AV0
 a_AT0
-lady-in-waiting_NN1-AJ0
+lady-in-waiting_NN1
 to_TO0
 the_AT0
 Empress_NN1
@@ -19154,7 +19154,7 @@ Although_CJS
 the_AT0
 atmosphere_NN1
 at_PRP
-Fontainebleau_NP0-NN1
+Fontainebleau_NP0
 was_VBD
 much_DT0
 more_AV0
@@ -19213,7 +19213,7 @@ to_TO0
 be_VBI
 made_VVN
 to_TO0
-feel_VVI
+feel_VVB
 that_CJT
 they_PNP
 were_VBD
@@ -19299,7 +19299,7 @@ and_CJC
 generalized_AJ0
 admiration_NN1
 While_CJS
-Fontainebleau_NP0-NN1
+Fontainebleau_NP0
 played_VVD
 an_AT0
 important_AJ0
@@ -19400,7 +19400,7 @@ these_DT0
 had_VHD
 to_TO0
 be_VBI
-mixed_AJ0
+mixed_VVN
 with_PRP
 a_AT0
 suitable_AJ0
@@ -19416,7 +19416,7 @@ some_DT0
 sort_NN1
 of_PRF
 homogeneous_AJ0
-gathering_NN1
+gathering_VVG
 so_AV0
 that_CJT
 the_AT0
@@ -19447,7 +19447,7 @@ in_PRP
 the_AT0
 avoidance_NN1
 of_PRF
-offending_AJ0-NN1
+offending_AJ0
 those_DT0
 who_PNQ
 were_VBD
@@ -19594,7 +19594,7 @@ that_CJT
 at_PRP
 Compi\xc3\xa8gne_NP0
 unlike_PRP
-Fontainebleau_NP0-NN1
+Fontainebleau_NP0
 style_NN1
 played_VVD
 a_AT0
@@ -19749,7 +19749,7 @@ days_NN2
 after_PRP
 lunch_NN1
 A_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 outing_NN1
 was_VBD
 to_TO0
@@ -19768,7 +19768,7 @@ his_DPS
 wife_NN1
 as_CJS
 a_AT0
-present_AJ0-NN1
+present_AJ0
 and_CJC
 which_DTQ
 was_VBD
@@ -19954,7 +19954,7 @@ guests_NN2
 assembled_VVN
 in_PRP
 an_AT0
-ante-room_NN1-AJ0
+ante-room_NN1
 known_VVN
 as_CJS
 the_AT0
@@ -20272,7 +20272,7 @@ a_AT0
 theatrical_AJ0
 performance_NN1
 or_CJC
-dancing_VVG
+dancing_NN1
 to_TO0
 the_AT0
 sound_NN1
@@ -20358,7 +20358,7 @@ royal_AJ0
 palaces_NN2
 found_VVD
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Court_NN1
 infinitely_AV0
 preferable_AJ0
@@ -20478,7 +20478,7 @@ European_AJ0
 monarchs_NN2
 whose_DTQ
 more_AV0
-cloistered_AJ0-VVD
+cloistered_AJ0
 and_CJC
 conventional_AJ0
 upbringing_NN1
@@ -20838,7 +20838,7 @@ general_AJ0
 upsurge_NN1
 in_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 economy_NN1
 which_DTQ
 took_VVD
@@ -20859,7 +20859,7 @@ Empire_NN1
 so_AV0
 important_AJ0
 for_PRP
-19th-_NN1-AJ0
+19th-_NN1
 and_CJC
 even_AV0
 20th-century_AJ0
@@ -21016,14 +21016,14 @@ help_VVI
 to_TO0
 strengthen_VVI
 the_AT0
-French_AJ0-NN1
+French_AJ0
 economy_NN1
 since_CJS
 only_AV0
 by_PRP
 opening_NN1
 up_AVP
-French_AJ0-NN1
+French_AJ0
 industry_NN1
 to_TO0
 greater_AJC
@@ -21031,7 +21031,7 @@ competition_NN1
 would_VM0
 it_PNP
 be_VBI
-galvanized_VVD
+galvanized_AJ0
 into_PRP
 accepting_VVG
 new_AJ0
@@ -21049,7 +21049,7 @@ of_PRF
 the_AT0
 regime_NN1
 was_VBD
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 the_AT0
 development_NN1
@@ -21079,7 +21079,7 @@ she_PNP
 was_VBD
 capable_AJ0
 of_PRF
-competing_VVG-AJ0
+competing_AJ0
 with_PRP
 the_AT0
 greatest_AJS
@@ -21103,7 +21103,7 @@ was_VBD
 as_CJS
 much_DT0
 an_AT0
-act_VVI
+act_NN1
 of_PRF
 faith_NN1
 as_CJS
@@ -21115,7 +21115,7 @@ created_VVN
 great_AJ0
 opposition_NN1
 among_PRP
-French_AJ0-NN1
+French_AJ0
 industrialists_NN2
 but_CJC
 the_AT0
@@ -21126,7 +21126,7 @@ in_PRP
 that_CJT
 the_AT0
 economy_NN1
-deprived_AJ0
+deprived_VVN
 of_PRF
 its_DPS
 protective_AJ0
@@ -21195,7 +21195,7 @@ economic_AJ0
 terms_NN2
 artisanal_AJ0
 the_AT0
-average_AJ0-NN1
+average_AJ0
 manufactory_NN1
 employed_VVN
 no_AT0
@@ -21286,7 +21286,7 @@ the_AT0
 city_NN1
 of_PRF
 sugar_NN1
-refining_VVG-NN1
+refining_VVG
 dyeing_NN1
 and_CJC
 around_PRP
@@ -21413,7 +21413,7 @@ fundamental_AJ0
 importance_NN1
 to_TO0
 all_DT0
-French_AJ0-NN1
+French_AJ0
 governments_NN2
 as_CJS
 the_AT0
@@ -21732,7 +21732,7 @@ and_CJC
 after_PRP
 1848_CRD
 his_DPS
-Bonapartist_AJ0-NN1
+Bonapartist_AJ0
 background_NN1
 had_VHD
 led_VVD
@@ -21830,7 +21830,7 @@ only_AV0
 attaches_VVZ
 importance_NN1
 to_TO0
-concrete_AJ0-NN1
+concrete_AJ0
 things_NN2
 it_PNP
 despises_VVZ
@@ -22115,7 +22115,7 @@ of_PRF
 had_VHD
 given_VVN
 the_AT0
-English_AJ0-NN1
+English_AJ0
 architect_NN1
 a_AT0
 head-start_NN1
@@ -22178,7 +22178,7 @@ property_NN1
 cheaply_AV0
 and_CJC
 sell_VVI
-dear_ITJ
+dear_NN1
 for_PRP
 compensation_NN1
 In_PRP
@@ -22401,7 +22401,7 @@ Saint-Michel_NP0
 and_CJC
 the_AT0
 boulevard_NN1
-S\xc3\xa9bastopol_NN1-VVB
+S\xc3\xa9bastopol_NP0
 running_VVG
 from_PRP
 North_NN1
@@ -22411,7 +22411,7 @@ with_PRP
 the_AT0
 rue_NN1
 de_NP0
-Rivoli_NP0-NN1
+Rivoli_NN1
 and_CJC
 the_AT0
 rue_NN1
@@ -22434,7 +22434,7 @@ Saint-Michel_NP0
 were_VBD
 built_VVN
 to_TO0
-cross_VVI
+cross_NN1
 the_AT0
 Seine_NP0
 whose_DTQ
@@ -22628,7 +22628,7 @@ felt_VVD
 and_CJC
 wanted_VVD
 to_TO0
-feel_VVI
+feel_VVB
 itself_PNX
 self-sufficient_AJ0
 which_DTQ
@@ -22665,7 +22665,7 @@ of_PRF
 urban_AJ0
 living_VVG
 the_AT0
-average_AJ0-NN1
+average_AJ0
 Parisian_AJ0
 was_VBD
 a_AT0
@@ -22702,9 +22702,9 @@ existed_VVD
 in_PRP
 all_DT0
 its_DPS
-jostle_VVI
+jostle_NN1
 and_CJC
-bustle_NN1-VVB
+bustle_NN1
 The_AT0
 great_AJ0
 boulevards_NN2
@@ -22715,7 +22715,7 @@ places_NN2
 of_PRF
 elegance_NN1
 for_PRP
-self-display_NN1-AJ0
+self-display_NN1
 smart_AJ0
 shops_NN2
 and_CJC
@@ -22920,7 +22920,7 @@ reign_NN1
 of_PRF
 Napoleon_NP0
 I._NP0
-Succeeding_AJ0-VVG
+Succeeding_VVG
 regimes_NN2
 had_VHD
 neither_AV0
@@ -22929,7 +22929,7 @@ the_AT0
 will_VM0
 nor_CJC
 the_AT0
-drive_VVI
+drive_NN1
 to_TO0
 carry_VVI
 out_AVP
@@ -23067,7 +23067,7 @@ when_CJS
 all_DT0
 else_AV0
 was_VBD
-closed_VVD
+closed_VVN
 Les_NP0
 Halles_NP0
 had_VHD
@@ -23120,7 +23120,7 @@ cope_VVI
 with_PRP
 a_AT0
 hugely_AV0
-increased_AJ0
+increased_VVN
 traffic_NN1
 problem_NN1
 which_DTQ
@@ -23185,7 +23185,7 @@ been_VBN
 quite_AV0
 literally_AV0
 inextricably_AV0
-mixed_AJ0
+mixed_VVN
 in_PRP
 Paris_NP0
 for_PRP
@@ -23278,7 +23278,7 @@ achieve_VVI
 that_CJT
 abundance_NN1
 An_AT0
-increased_AJ0
+increased_VVN
 flow_NN1
 of_PRF
 water_NN1
@@ -23306,7 +23306,7 @@ Edwin_NP0
 Chadwick_NP0
 the_AT0
 great_AJ0
-English_AJ0-NN1
+English_AJ0
 public_AJ0
 health_NN1
 expert_NN1
@@ -23410,7 +23410,7 @@ all_DT0
 sorts_NN2
 are_VBB
 without_PRP
-scruple_NN1-VVB
+scruple_VVB
 committed_VVN
 to_TO0
 the_AT0
@@ -23556,7 +23556,7 @@ and_CJC
 his_DPS
 great_AJ0
 engineer_NN1
-Belgrand_NP0-NN1
+Belgrand_NN1
 were_VBD
 so_AV0
 magnificent_AJ0
@@ -23581,7 +23581,7 @@ cruise_NN1
 through_PRP
 these_DT0
 huge_AJ0
-well-lighted_AJ0-NN1
+well-lighted_AJ0
 caverns_NN2
 in_PRP
 a_AT0
@@ -23847,7 +23847,7 @@ again_AV0
 it_PNP
 required_VVN
 the_AT0
-drive_VVI
+drive_NN1
 and_CJC
 determination_NN1
 of_PRF
@@ -24230,7 +24230,7 @@ like_PRP
 the_AT0
 Place_NP0
 des_UNC
-Vosges_VVZ-NN2
+Vosges_NN2
 the_AT0
 Place_NP0
 des_UNC
@@ -24249,7 +24249,7 @@ the_AT0
 efforts_NN2
 of_PRF
 preceding_AJ0
-French_AJ0-NN1
+French_AJ0
 rulers_NN2
 to_TO0
 emulate_VVI
@@ -24509,7 +24509,7 @@ Empress_NN1
 who_PNQ
 worked_VVD
 with_PRP
-Alphand_NP0
+Alphand_AJ0
 a_AT0
 man_NN1
 who_PNQ
@@ -24546,14 +24546,14 @@ beautifully_AV0
 illustrated_VVN
 book_NN1
 Les_NP0
-Promenades_NN2-VVZ
+Promenades_VVZ
 de_NP0
 Paris_NP0
 2_CRD
 vols_NN2
 1867_CRD
 73_CRD
-Alphand_NP0
+Alphand_AJ0
 talks_NN2
 not_XX0
 only_AV0
@@ -24976,7 +24976,7 @@ not_XX0
 hope_VVB
 to_TO0
 be_VBI
-improved_AJ0
+improved_VVN
 until_CJS
 the_AT0
 regime_NN1
@@ -24998,9 +24998,9 @@ those_DT0
 ladies_NN2
 who_PNQ
 were_VBD
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
-republican_AJ0-NN1
+republican_AJ0
 ideals_NN2
 and_CJC
 quite_AV0
@@ -25043,7 +25043,7 @@ Stern_NN1
 presided_VVD
 over_PRP
 a_AT0
-republican_AJ0-NN1
+republican_AJ0
 circle_NN1
 in_PRP
 her_DPS
@@ -25069,13 +25069,13 @@ the_AT0
 mistress_NN1
 of_PRF
 the_AT0
-republican_AJ0-NN1
+republican_AJ0
 politician_NN1
-Gambetta_NP0-NN1
+Gambetta_NN1
 maintained_VVN
 an_AT0
 equally_AV0
-republican_AJ0-NN1
+republican_AJ0
 salon_NN1
 in_PRP
 her_DPS
@@ -25085,7 +25085,7 @@ apartment_NN1
 on_PRP
 the_AT0
 Boulevard_NP0
-Poissoni\xc3\xa8re_NP0-NN1
+Poissoni\xc3\xa8re_NP0
 To_TO0
 these_DT0
 self-appointed_AJ0
@@ -25151,7 +25151,7 @@ bills_NN2
 which_DTQ
 when_CJS
 they_PNP
-fall_VVI
+fall_NN1
 due_AJ0
 are_VBB
 fatal_AJ0
@@ -25277,7 +25277,7 @@ morality_NN1
 Louis_NP0
 Veuillot_NP0
 the_AT0
-Catholic_AJ0-NN1
+Catholic_AJ0
 journalist_NN1
 in_PRP
 a_AT0
@@ -25297,7 +25297,7 @@ a_AT0
 flood_NN1
 which_DTQ
 drowns_VVZ
-French_AJ0-NN1
+French_AJ0
 civilization_NN1
 and_CJC
 carries_VVZ
@@ -25385,7 +25385,7 @@ the_AT0
 excesses_NN2
 of_PRF
 the_AT0
-Commune_NP0-NN1
+Commune_NP0
 a_AT0
 judgement_NN1
 of_PRF
@@ -25453,7 +25453,7 @@ of_PRF
 it_PNP
 all_DT0
 The_AT0
-long-proposed_AJ0-NN1
+long-proposed_NN1
 project_NN1
 of_PRF
 joining_VVG
@@ -25583,7 +25583,7 @@ resembled_VVD
 some_DT0
 future_NN1
 American_AJ0
-Babylon_NP0-NN1
+Babylon_NN1
 they_PNP
 were_VBD
 nearer_AJC
@@ -25614,7 +25614,7 @@ the_AT0
 United_NP0
 States_NP0
 that_CJT
-French_AJ0-NN1
+French_AJ0
 influence_NN1
 was_VBD
 predominant_AJ0
@@ -25642,7 +25642,7 @@ III_CRD
 and_CJC
 his_DPS
 regime_NN1
-French_AJ0-NN1
+French_AJ0
 intervention_NN1
 in_PRP
 Mexico_NP0
@@ -25659,7 +25659,7 @@ to_TO0
 the_AT0
 Monroe_NP0
 Doctrine_NN1
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 the_AT0
 Emperor_NN1
@@ -25748,7 +25748,7 @@ Americans_NN2
 who_PNQ
 visited_VVD
 Paris_NP0
-increased_AJ0
+increased_VVN
 steadily_AV0
 many_DT0
 wealthy_AJ0
@@ -25792,7 +25792,7 @@ Napoleon_NP0
 in_PRP
 military_AJ0
 uniform_NN1
-long-bodied_AJ0-NN1
+long-bodied_NN1
 short-legged_AJ0
 man_NN1
 fiercely_AV0
@@ -25862,7 +25862,7 @@ what_DTQ
 they_PNP
 had_VHD
 seen_VVN
-Drawing_VVG-NN1
+Drawing_NN1
 upon_PRP
 their_DPS
 experiences_NN2
@@ -25914,7 +25914,7 @@ of_PRF
 Art_NN1
 an_AT0
 exhibition_NN1
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 the_AT0
 Second_ORD
@@ -25953,7 +25953,7 @@ no_AT0
 Paris_NP0
 on_PRP
 the_AT0
-Potomac_NN1-NP0
+Potomac_NP0
 or_CJC
 the_AT0
 Delaware_NP0
@@ -26075,7 +26075,7 @@ which_DTQ
 both_AV0
 parties_NN2
 could_VM0
-feel_VVI
+feel_VVB
 at_PRP
 ease_NN1
 Quite_AV0
@@ -26132,7 +26132,7 @@ the_AT0
 years_NN2
 since_CJS
 the_AT0
-fall_VVI
+fall_NN1
 of_PRF
 the_AT0
 First_ORD
@@ -26277,7 +26277,7 @@ feeling_NN1
 of_PRF
 sympathy_NN1
 for_PRP
-French_AJ0-NN1
+French_AJ0
 policy_NN1
 Contrariwise_AV0
 of_PRF
@@ -26287,7 +26287,7 @@ hostility_NN1
 of_PRF
 the_AT0
 former_DT0
-ruling_AJ0-NN1
+ruling_NN1
 dynasties_NN2
 the_AT0
 Bourbons_NP0
@@ -26336,7 +26336,7 @@ Orl\xc3\xa9ans_NP0
 Bourbon_NN1
 Bonaparte_NP0
 and_CJC
-Hohenzollern_NN1-NP0
+Hohenzollern_NN1
 was_VBD
 the_AT0
 means_NN0
@@ -26399,7 +26399,7 @@ as_CJS
 a_AT0
 check_VVI
 to_TO0
-French_AJ0-NN1
+French_AJ0
 ambition_NN1
 From_PRP
 the_AT0
@@ -26473,7 +26473,7 @@ she_PNP
 must_VM0
 play_VVI
 second_ORD
-fiddle_NN1-VVB
+fiddle_NN1
 in_PRP
 the_AT0
 European_AJ0
@@ -26504,7 +26504,7 @@ which_DTQ
 France_NP0
 was_VBD
 virtually_AV0
-humiliated_AJ0-VVN
+humiliated_VVN
 and_CJC
 while_CJS
 Napoleon_NP0
@@ -26617,7 +26617,7 @@ downs_NN2
 and_CJC
 illustrated_VVN
 the_AT0
-French_AJ0-NN1
+French_AJ0
 maxim_NN1
 that_CJT
 in_PRP
@@ -26642,7 +26642,7 @@ progress_NN1
 in_PRP
 pursuing_VVG
 the_AT0
-English_AJ0-NN1
+English_AJ0
 alliance_NN1
 it_PNP
 was_VBD
@@ -26714,8 +26714,8 @@ of_PRF
 the_AT0
 large_AJ0
 and_CJC
-decaying_AJ0-VVG
-Ottoman_AJ0-NN1
+decaying_AJ0
+Ottoman_AJ0
 Empire_NN1
 would_VM0
 be_VBI
@@ -26730,11 +26730,11 @@ formerly_AV0
 controlled_VVN
 by_PRP
 the_AT0
-Sultan_NP0-NN1
+Sultan_NP0
 Well_AV0
 aware_AJ0
 of_PRF
-English_AJ0-NN1
+English_AJ0
 fears_NN2
 Napoleon_NP0
 III_CRD
@@ -26831,7 +26831,7 @@ disputed_VVN
 between_PRP
 the_AT0
 Latin_AJ0
-Catholic_AJ0-NN1
+Catholic_AJ0
 and_CJC
 Greek_AJ0
 Orthodox_AJ0
@@ -26856,7 +26856,7 @@ siding_VVG
 with_PRP
 the_AT0
 Latin_AJ0
-Catholic_AJ0-NN1
+Catholic_AJ0
 monks_NN2
 against_PRP
 the_AT0
@@ -26894,7 +26894,7 @@ the_AT0
 Tsar_NN1
 nor_CJC
 the_AT0
-Sultan_NP0-NN1
+Sultan_NP0
 in_PRP
 whose_DTQ
 Empire_NN1
@@ -26935,13 +26935,13 @@ the_AT0
 reaction_NN1
 of_PRF
 the_AT0
-Sultan_NP0-NN1
+Sultan_NP0
 who_PNQ
 was_VBD
 weary_AJ0
 of_PRF
 being_VBG
-pressured_VVD
+pressured_VVN
 by_PRP
 the_AT0
 Powers_NN2
@@ -27238,7 +27238,7 @@ idea_NN1
 was_VBD
 allowed_VVN
 to_TO0
-drop_VVI
+drop_NN1
 because_CJS
 the_AT0
 Emperor_NN1
@@ -27379,7 +27379,7 @@ captivated_VVN
 by_PRP
 Eug\xc3\xa8nie_NP0
 the_AT0
-dear_ITJ
+dear_NN1
 sweet_AJ0
 Empress_NN1
 though_CJS
@@ -27471,7 +27471,7 @@ the_AT0
 Order_NN1
 of_PRF
 the_AT0
-Garter_NN1-NP0
+Garter_NP0
 and_CJC
 a_AT0
 State_NN1
@@ -27664,7 +27664,7 @@ be_VBI
 held_VVN
 in_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 capital_NN1
 Based_VVN
 on_PRP
@@ -27815,7 +27815,7 @@ both_AV0
 he_PNP
 and_CJC
 the_AT0
-dear_ITJ
+dear_NN1
 and_CJC
 very_AV0
 charming_AJ0
@@ -27895,9 +27895,9 @@ the_AT0
 two_CRD
 countries_NN2
 is_VBZ
-stamped_AJ0
+stamped_VVD
 and_CJC
-sealed_AJ0
+sealed_VVN
 in_PRP
 the_AT0
 most_AV0
@@ -27953,11 +27953,11 @@ while_CJS
 useful_AJ0
 was_VBD
 no_AT0
-substitute_NN1-AJ0
+substitute_NN1
 for_PRP
 hard_AJ0
 and_CJC
-fast_AV0-AJ0
+fast_AJ0
 agreements_NN2
 between_PRP
 states_NN2
@@ -27982,7 +27982,7 @@ could_VM0
 for_PRP
 the_AT0
 moment_NN1
-feel_VVI
+feel_VVB
 reasonably_AV0
 proud_AJ0
 of_PRF
@@ -28069,7 +28069,7 @@ her_DPS
 ladies-in-waiting_NN2
 to_TO0
 be_VBI
-present_AJ0-NN1
+present_AJ0
 at_PRP
 the_AT0
 birth_NN1
@@ -28154,7 +28154,7 @@ less_AV0
 liked_VVD
 by_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 than_CJS
 by_PRP
 their_DPS
@@ -28195,7 +28195,7 @@ France_NP0
 was_VBD
 playing_VVG
 second_ORD
-fiddle_NN1-VVB
+fiddle_NN1
 The_AT0
 Emperor_NN1
 himself_PNX
@@ -28457,7 +28457,7 @@ Clarendon_NP0
 while_CJS
 the_AT0
 Empress_NN1
-devoted_AJ0-VVN
+devoted_AJ0
 herself_PNX
 to_TO0
 the_AT0
@@ -28489,7 +28489,7 @@ came_VVD
 to_TO0
 leave_VVI
 he_PNP
-assured_VVD
+assured_VVN
 the_AT0
 Queen_NN1
 that_CJT
@@ -28552,7 +28552,7 @@ aware_AJ0
 that_CJT
 before_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 visit_NN1
 and_CJC
 in_PRP
@@ -28637,7 +28637,7 @@ Emperor_NN1
 's_POS
 fear_NN1
 of_PRF
-offending_AJ0-NN1
+offending_AJ0
 Britain_NP0
 made_VVN
 the_AT0
@@ -28759,7 +28759,7 @@ providing_VVG
 a_AT0
 solution_NN1
 The_AT0
-Austrian_AJ0-NN1
+Austrian_AJ0
 Ambassador_NN1
 in_PRP
 Paris_NP0
@@ -28842,7 +28842,7 @@ Tuileries_NN2
 and_CJC
 St_NP0
 James_NP0
-Continuing_VVG-AJ0
+Continuing_VVG
 his_DPS
 tour_NN1
 of_PRF
@@ -28940,7 +28940,7 @@ Alexander_NP0
 II_CRD
 was_VBD
 so_AV0
-involved_AJ0
+involved_VVN
 for_PRP
 the_AT0
 next_ORD
@@ -28977,7 +28977,7 @@ Europe_NP0
 which_DTQ
 might_VM0
 thwart_VVI
-French_AJ0-NN1
+French_AJ0
 designs_NN2
 Taking_VVG
 advantage_NN1
@@ -29009,7 +29009,7 @@ indirectly_AV0
 ruled_VVN
 by_PRP
 Austria_NP0
-French_AJ0-NN1
+French_AJ0
 interests_NN2
 in_PRP
 Italy_NP0
@@ -29188,7 +29188,7 @@ of_PRF
 friction_NN1
 resulting_VVG
 from_PRP
-Austrian_AJ0-NN1
+Austrian_AJ0
 policy_NN1
 within_PRP
 the_AT0
@@ -29227,7 +29227,7 @@ wishing_VVG
 to_TO0
 intervene_VVI
 in_PRP
-Italian_AJ0-NN1
+Italian_AJ0
 affairs_NN2
 In_PRP
 January_NP0
@@ -29313,7 +29313,7 @@ the_AT0
 work_NN1
 of_PRF
 Count_NP0
-Orsini_NP0-NN1
+Orsini_NP0
 who_PNQ
 had_VHD
 been_VBN
@@ -29338,10 +29338,10 @@ failure_NN1
 to_TO0
 help_VVI
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 national_AJ0
 movement_NN1
-French_AJ0-NN1
+French_AJ0
 public_AJ0
 opinion_NN1
 was_VBD
@@ -29358,7 +29358,7 @@ it_PNP
 became_VVD
 known_VVN
 that_CJT
-Orsini_NP0-NN1
+Orsini_NP0
 's_POS
 bombs_NN2
 had_VHD
@@ -29405,12 +29405,12 @@ had_VHD
 wanted_VVD
 to_TO0
 pardon_NN1
-Orsini_NP0-NN1
+Orsini_NP0
 and_CJC
 his_DPS
 accomplice_NN1
 only_AV0
-yielding_VVG
+yielding_AJ0
 to_TO0
 his_DPS
 ministers_NN2
@@ -29526,7 +29526,7 @@ escorted_VVD
 by_PRP
 140_CRD
 private_AJ0
-English_AJ0-NN1
+English_AJ0
 yachts_NN2
 Both_DT0
 couples_NN2
@@ -29593,10 +29593,10 @@ would_VM0
 ask_VVI
 you_PNP
 to_TO0
-cry_VVI
+cry_NN1
 Vive_VVB
 la_UNC
-Reine_NP0-NN1
+Reine_NN1
 Although_CJS
 the_AT0
 Emperor_NN1
@@ -29700,7 +29700,7 @@ they_PNP
 could_VM0
 embark_VVI
 at_PRP
-Toulon_NP0-NN1
+Toulon_NN1
 thus_AV0
 cutting_VVG
 down_AVP
@@ -29780,7 +29780,7 @@ Paris_NP0
 the_AT0
 Boulevard_NP0
 de_NP0
-S\xc3\xa9bastopol_NN1-VVB
+S\xc3\xa9bastopol_NP0
 inaugurated_VVN
 by_PRP
 the_AT0
@@ -29791,7 +29791,7 @@ April_NP0
 St_NP0
 Cloud_NP0
 the_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 summer_NN1
 residence_NN1
 A_AT0
@@ -29803,8 +29803,8 @@ of_PRF
 Prince_NN1
 Napoleon_NP0
 to_TO0
-Princesse_NP0-NN1
-Clotilde_NN1-NP0
+Princesse_NP0
+Clotilde_NP0
 of_PRF
 Piedmont_NP0
 January_NP0
@@ -29812,7 +29812,7 @@ January_NP0
 The_AT0
 Salle_NP0
 des_UNC
-Mar\xc3\xa9chaux_NP0-NN1
+Mar\xc3\xa9chaux_NP0
 scene_NN1
 of_PRF
 the_AT0
@@ -29858,7 +29858,7 @@ by_PRP
 Napoleon_NP0
 III_CRD
 's_POS
-Italian_AJ0-NN1
+Italian_AJ0
 policy_NN1
 which_DTQ
 after_PRP
@@ -29870,13 +29870,13 @@ a_AT0
 war_NN1
 between_PRP
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 Kingdom_NP0
 of_PRF
 Piedmont_NP0
 and_CJC
 the_AT0
-Austrian_AJ0-NN1
+Austrian_AJ0
 Empire_NN1
 France_NP0
 was_VBD
@@ -29935,7 +29935,7 @@ to_TO0
 coerce_VVI
 Austria_NP0
 into_PRP
-negotiating_VVG
+negotiating_NN1
 a_AT0
 settlement_NN1
 by_PRP
@@ -29959,7 +29959,7 @@ the_AT0
 results_NN2
 of_PRF
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 war_NN1
 of_PRF
 1859_CRD
@@ -29994,7 +29994,7 @@ peninsula_NN1
 so_AV0
 that_CJT
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 Kingdom_NP0
 which_DTQ
 emerged_VVD
@@ -30057,7 +30057,7 @@ the_AT0
 head_NN1
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Army_NN1
 to_TO0
 write_VVI
@@ -30261,7 +30261,7 @@ most_AV0
 important_AJ0
 that_CJT
 the_AT0
-French_AJ0-NN1
+French_AJ0
 should_VM0
 be_VBI
 aware_AJ0
@@ -30287,7 +30287,7 @@ wholesome_AJ0
 influence_NN1
 on_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 There_EX0
 is_VBZ
@@ -30297,7 +30297,7 @@ that_CJT
 Napoleon_NP0
 III_CRD
 's_POS
-Italian_AJ0-NN1
+Italian_AJ0
 policy_NN1
 which_DTQ
 seemed_VVD
@@ -30308,7 +30308,7 @@ a_AT0
 new_AJ0
 era_NN1
 of_PRF
-French_AJ0-NN1
+French_AJ0
 expansion_NN1
 had_VHD
 alarmed_AJ0
@@ -30347,7 +30347,7 @@ France_NP0
 favour_NN1
 Such_DT0
 a_AT0
-shift_NN1-VVB
+shift_NN1
 was_VBD
 viewed_VVN
 with_PRP
@@ -30430,7 +30430,7 @@ Grand_AJ0
 Duke_NN1
 agreed_VVD
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 host_NN1
 Prince_NN1
@@ -30504,7 +30504,7 @@ plus_PRP
 the_AT0
 Dukes_NN2
 of_PRF
-Nassau_NP0-NN1
+Nassau_NP0
 and_CJC
 Saxe-Coburg-Gotha_NP0
 Faced_VVN
@@ -30593,7 +30593,7 @@ his_DPS
 uncle_NN1
 at_PRP
 the_AT0
-Erfurt_NN1-NP0
+Erfurt_NN1
 meeting_NN1
 with_PRP
 the_AT0
@@ -30835,7 +30835,7 @@ arisen_VVN
 within_PRP
 the_AT0
 Confederation_NN1
-Lacking_VVG-AJ0
+Lacking_AJ0
 form_NN1
 these_DT0
 movements_NN2
@@ -31130,7 +31130,7 @@ her_DPS
 forces_NN2
 leaving_VVG
 the_AT0
-French_AJ0-NN1
+French_AJ0
 either_AV0
 to_TO0
 carry_VVI
@@ -31143,7 +31143,7 @@ The_AT0
 only_AV0
 hope_VVB
 of_PRF
-saving_NN1
+saving_VVG
 prestige_NN1
 lay_VVD
 in_PRP
@@ -31285,7 +31285,7 @@ Austria_NP0
 would_VM0
 cede_VVI
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 province_NN1
 of_PRF
 Venetia_NP0
@@ -31358,7 +31358,7 @@ at_PRP
 the_AT0
 battle_NN1
 of_PRF
-Sadowa_NP0-NN1
+Sadowa_NN1
 in_PRP
 July_NP0
 1866_CRD
@@ -31608,7 +31608,7 @@ the_AT0
 defeat_NN1
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 armies_NN2
 in_PRP
 1870_CRD
@@ -31742,7 +31742,7 @@ Prussian_AJ0
 victory_NN1
 over_PRP
 Austria_NP0
-French_AJ0-NN1
+French_AJ0
 public_AJ0
 opinion_NN1
 clamoured_VVD
@@ -31939,7 +31939,7 @@ It_PNP
 was_VBD
 all_DT0
 fun_NN1
-frolic_NN1-VVB
+frolic_NN1
 and_CJC
 magnificent_AJ0
 display_NN1
@@ -31978,7 +31978,7 @@ the_AT0
 Mexican_AJ0
 city_NN1
 of_PRF
-Quer\xc3\xa9taro_NN1-NP0
+Quer\xc3\xa9taro_NN1
 where_AVQ
 the_AT0
 dream_NN1
@@ -32034,7 +32034,7 @@ than_CJS
 usual_AJ0
 If_CJS
 the_AT0
-gathering_NN1
+gathering_VVG
 of_PRF
 sovereigns_NN2
 in_PRP
@@ -32068,7 +32068,7 @@ the_AT0
 absence_NN1
 of_PRF
 the_AT0
-Austrian_AJ0-NN1
+Austrian_AJ0
 Emperor_NN1
 and_CJC
 the_AT0
@@ -32090,7 +32090,7 @@ III_CRD
 really_AV0
 expected_VVN
 anything_PNI
-concrete_AJ0-NN1
+concrete_AJ0
 to_TO0
 emerge_VVI
 Aware_AJ0
@@ -32112,7 +32112,7 @@ only_AV0
 hope_VVB
 in_PRP
 the_AT0
-shifting_AJ0-VVG
+shifting_AJ0
 pattern_NN1
 of_PRF
 the_AT0
@@ -32194,7 +32194,7 @@ and_CJC
 Prussia_NP0
 and_CJC
 no_AT0
-arming_NN1-VVG
+arming_VVG
 laying_VVG
 all_DT0
 the_AT0
@@ -32236,7 +32236,7 @@ needed_VVN
 however_AV0
 was_VBD
 a_AT0
-concrete_AJ0-NN1
+concrete_AJ0
 demonstration_NN1
 of_PRF
 support_NN1
@@ -32331,7 +32331,7 @@ to_TO0
 find_VVI
 indications_NN2
 of_PRF
-pro-French_AJ0-NN1
+pro-French_AJ0
 feeling_NN1
 on_PRP
 the_AT0
@@ -32372,14 +32372,14 @@ their_DPS
 greetings_NN2
 to_TO0
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 demanded_VVD
 by_PRP
 courtesy_NN1
 indicating_VVG
 how_AVQ
 far_AV0
-anti-French_AJ0-NN1
+anti-French_AJ0
 attitudes_NN2
 had_VHD
 developed_VVN
@@ -32479,7 +32479,7 @@ June_NP0
 which_DTQ
 divided_VVN
 the_AT0
-Austrian_AJ0-NN1
+Austrian_AJ0
 dominions_NN2
 Franz-Joseph_NP0
 's_POS
@@ -32625,7 +32625,7 @@ France_NP0
 of_PRF
 the_AT0
 Grand_AJ0
-Duchy_NN1-NP0
+Duchy_NN1
 of_PRF
 Luxembourg_NP0
 the_AT0
@@ -32727,7 +32727,7 @@ had_VHD
 tricked_VVN
 him_PNP
 I_PNP
-trusted_VVD
+trusted_AJ0
 him_PNP
 and_CJC
 he_PNP
@@ -32986,7 +32986,7 @@ jungle_NN1
 tigers_NN2
 do_VDB
 not_XX0
-feed_VVI
+feed_NN1
 on_PRP
 grass_NN1
 THE_AT0
@@ -33129,7 +33129,7 @@ also_AV0
 because_CJS
 of_PRF
 considerable_AJ0
-French_AJ0-NN1
+French_AJ0
 economic_AJ0
 interests_NN2
 which_DTQ
@@ -33171,7 +33171,7 @@ bound_VVN
 to_TO0
 find_VVI
 himself_PNX
-involved_AJ0
+involved_VVN
 in_PRP
 Spanish_AJ0
 affairs_NN2
@@ -33323,7 +33323,7 @@ well_AV0
 raise_VVI
 hope_VVB
 among_PRP
-French_AJ0-NN1
+French_AJ0
 Orl\xc3\xa9anists_NN2
 of_PRF
 a_AT0
@@ -33345,7 +33345,7 @@ if_CJS
 the_AT0
 Duke_NN1
 de_NP0
-Montpensier_NP0-NN1
+Montpensier_NP0
 who_PNQ
 was_VBD
 married_AJ0
@@ -33381,7 +33381,7 @@ III_CRD
 's_POS
 objections_NN2
 to_TO0
-Montpensier_NP0-NN1
+Montpensier_NP0
 were_VBD
 well_AV0
 known_VVN
@@ -33518,7 +33518,7 @@ a_AT0
 neutral_AJ0
 candidate_NN1
 the_AT0
-Portuguese_AJ0-NN1
+Portuguese_AJ0
 Prince_NN1
 Fernando_NP0
 husband_NN1
@@ -33568,7 +33568,7 @@ his_DPS
 ties_NN2
 with_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 Royal_AJ0
 House_NN1
 In_PRP
@@ -33617,7 +33617,7 @@ morganatic_AJ0
 marriage_NN1
 with_PRP
 a_AT0
-German-born_AJ0-NN1
+German-born_AJ0
 actress_NN1
 Elisa_NP0
 Hensler_NP0
@@ -33639,7 +33639,7 @@ by_PRP
 demanding_VVG
 that_CJT
 the_AT0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 underwrite_VVB
 his_DPS
@@ -33663,7 +33663,7 @@ The_AT0
 Quai_NP0
 d'Orsay_NP0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Foreign_AJ0
 Office_NN1
 and_CJC
@@ -33714,7 +33714,7 @@ have_VHB
 to_TO0
 be_VBI
 a_AT0
-Regency_NN1-NP0
+Regency_NP0
 but_CJC
 the_AT0
 acceptance_NN1
@@ -33762,7 +33762,7 @@ to_TO0
 wear_VVI
 what_DTQ
 the_AT0
-English_AJ0-NN1
+English_AJ0
 Foreign_AJ0
 Minister_NN1
 had_VHD
@@ -33797,13 +33797,13 @@ Prince_NN1
 belonging_VVG
 to_TO0
 the_AT0
-Catholic_AJ0-NN1
+Catholic_AJ0
 branch_NN1
 of_PRF
 the_AT0
 House_NN1
 of_PRF
-Hohenzollern_NN1-NP0
+Hohenzollern_NN1
 Leopold_NP0
 could_VM0
 be_VBI
@@ -33817,7 +33817,7 @@ the_AT0
 throne_NN1
 he_PNP
 was_VBD
-Catholic_AJ0-NN1
+Catholic_AJ0
 descended_VVN
 directly_AV0
 from_PRP
@@ -33894,7 +33894,7 @@ on_PRP
 the_AT0
 scene_NN1
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Ambassador_NN1
 had_VHD
 officially_AV0
@@ -33917,7 +33917,7 @@ III_CRD
 The_AT0
 Ambassador_NN1
 Count_NP0
-Benedetti_NP0-NN1
+Benedetti_NP0
 had_VHD
 been_VBN
 personally_AV0
@@ -33932,7 +33932,7 @@ of_PRF
 the_AT0
 Prince_NN1
 of_PRF
-Hohenzollern_NN1-NP0
+Hohenzollern_NN1
 is_VBZ
 anti-national_AJ0
 the_AT0
@@ -33952,7 +33952,7 @@ The_AT0
 firmness_NN1
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 reaction_NN1
 was_VBD
 probably_AV0
@@ -34216,7 +34216,7 @@ enough_AV0
 leading_AJ0
 to_TO0
 a_AT0
-cry_VVI
+cry_NN1
 for_PRP
 more_AV0
 vigorous_AJ0
@@ -34302,7 +34302,7 @@ candidacy_NN1
 of_PRF
 Leopold_NP0
 of_PRF
-Hohenzollern_NN1-NP0
+Hohenzollern_NN1
 to_TO0
 the_AT0
 still_AV0
@@ -34315,11 +34315,11 @@ February_NP0
 while_CJS
 the_AT0
 new_AJ0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 of_PRF
 Emile_NP0
-Ollivier_NP0-NN1
+Ollivier_NP0
 tried_VVD
 to_TO0
 hammer_NN1
@@ -34356,7 +34356,7 @@ Prussian_AJ0
 Royal_AJ0
 House_NN1
 became_VVD
-involved_AJ0
+involved_VVN
 officially_AV0
 in_PRP
 the_AT0
@@ -34395,7 +34395,7 @@ Prussia_NP0
 had_VHD
 been_VBN
 directly_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 events_NN2
 leading_AJ0
@@ -34414,7 +34414,7 @@ only_AV0
 was_VBD
 the_AT0
 King_NP0
-present_AJ0-NN1
+present_AJ0
 but_CJC
 also_AV0
 the_AT0
@@ -34639,7 +34639,7 @@ did_VDD
 not_XX0
 go_VVI
 away_AV0
-Ollivier_NP0-NN1
+Ollivier_NP0
 had_VHD
 already_AV0
 been_VBN
@@ -34737,7 +34737,7 @@ Ambassador_NN1
 that_CJT
 If_CJS
 the_AT0
-present_AJ0-NN1
+present_AJ0
 Constitutional_AJ0
 Government_NN1
 in_PRP
@@ -35129,7 +35129,7 @@ European_AJ0
 courts_NN2
 and_CJC
 the_AT0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 reacted_VVD
 immediately_AV0
@@ -35159,7 +35159,7 @@ Spanish_AJ0
 throne_NN1
 The_AT0
 Ambassador_NN1
-Benedetti_NP0-NN1
+Benedetti_NP0
 was_VBD
 on_PRP
 leave_VVI
@@ -35189,7 +35189,7 @@ was_VBD
 unwell_AJ0
 and_CJC
 the_AT0
-French_AJ0-NN1
+French_AJ0
 emissary_NN1
 was_VBD
 reduced_VVN
@@ -35200,7 +35200,7 @@ interview_NN1
 with_PRP
 First_ORD
 Secretary_NN1
-Thile_NN1-NP0
+Thile_NP0
 who_PNQ
 pretended_VVD
 to_TO0
@@ -35215,7 +35215,7 @@ which_DTQ
 was_VBD
 a_AT0
 flagrant_AJ0
-lie_VVI
+lie_VVB
 and_CJC
 who_PNQ
 said_VVD
@@ -35329,7 +35329,7 @@ of_PRF
 5_CRD
 July_NP0
 that_CJT
-Ollivier_NP0-NN1
+Ollivier_NP0
 as_CJS
 head_NN1
 of_PRF
@@ -35356,7 +35356,7 @@ provocation_NN1
 A_AT0
 declaration_NN1
 of_PRF
-French_AJ0-NN1
+French_AJ0
 hostility_NN1
 to_TO0
 the_AT0
@@ -35410,7 +35410,7 @@ and_CJC
 in_PRP
 the_AT0
 Assembly_NN1
-Ollivier_NP0-NN1
+Ollivier_NP0
 and_CJC
 Gramont_NP0
 strayed_VVN
@@ -35568,7 +35568,7 @@ consider_VVI
 the_AT0
 whole_AJ0
 affair_NN1
-closed_VVD
+closed_VVN
 That_DT0
 the_AT0
 Emperor_NN1
@@ -35636,7 +35636,7 @@ In_PRP
 this_DT0
 matter_NN1
 the_AT0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 were_VBD
 following_AJ0
@@ -35648,7 +35648,7 @@ Even_AV0
 Prince_NN1
 Anthony_NP0
 of_PRF
-Hohenzollern_NN1-NP0
+Hohenzollern_NN1
 the_AT0
 father_NN1
 of_PRF
@@ -35712,11 +35712,11 @@ that_CJT
 this_DT0
 was_VBD
 a_AT0
-contrived_VVD
+contrived_VVN
 situation_NN1
 as_CJS
 he_PNP
-bluntly_AV0-AJ0
+bluntly_AV0
 told_VVD
 the_AT0
 Spanish_AJ0
@@ -35727,7 +35727,7 @@ clear_AJ0
 that_CJT
 if_CJS
 the_AT0
-Hohenzollern_NN1-NP0
+Hohenzollern_NN1
 candidature_NN1
 were_VBD
 out_AVP
@@ -35737,7 +35737,7 @@ way_NN1
 peace_NN1
 would_VM0
 be_VBI
-assured_VVD
+assured_VVN
 But_CJC
 how_AVQ
 can_VM0
@@ -35754,7 +35754,7 @@ all_DT0
 of_PRF
 this_DT0
 de_NP0
-longue_VVB-NN1
+longue_VVB
 main_AJ0
 to_TO0
 provoke_VVI
@@ -35951,7 +35951,7 @@ answer_NN1
 is_VBZ
 that_CJT
 the_AT0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 demanded_VVD
 guarantees_NN2
@@ -35978,7 +35978,7 @@ in_PRP
 Berlin_NP0
 was_VBD
 officially_AV0
-involved_AJ0
+involved_VVN
 only_AV0
 an_AT0
 official_AJ0
@@ -36035,7 +36035,7 @@ of_PRF
 the_AT0
 House_NN1
 of_PRF
-Hohenzollern_NN1-NP0
+Hohenzollern_NN1
 Whether_CJS
 anyone_PNI
 in_PRP
@@ -36043,7 +36043,7 @@ Berlin_NP0
 seriously_AV0
 expected_VVN
 the_AT0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 to_TO0
 believe_VVB
@@ -36222,7 +36222,7 @@ cake_NN1
 attributed_VVN
 to_TO0
 Marie_NP0
-Antoinette_NP0-NN1
+Antoinette_NP0
 If_CJS
 it_PNP
 had_VHD
@@ -36355,7 +36355,7 @@ of_PRF
 A_AT0
 bas_NN2
 la_UNC
-Prusse_NP0-NN1
+Prusse_NP0
 A_AT0
 Berlin_NP0
 How_AVQ
@@ -36446,7 +36446,7 @@ day_NN1
 on_PRP
 which_DTQ
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Ambassador_NN1
 had_VHD
 asked_VVD
@@ -36786,14 +36786,14 @@ to_TO0
 confront_VVI
 them_PNP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 in_PRP
 particular_AJ0
 the_AT0
 Emperor_NN1
 and_CJC
-Ollivier_NP0-NN1
+Ollivier_NP0
 were_VBD
 still_AV0
 hopeful_AJ0
@@ -36893,7 +36893,7 @@ talked_VVD
 of_PRF
 the_AT0
 congress_NN1
-Ollivier_NP0-NN1
+Ollivier_NP0
 himself_PNX
 far_AV0
 from_PRP
@@ -36909,7 +36909,7 @@ overthrown_VVN
 and_CJC
 the_AT0
 Ministers_NN2
-stoned_VVN-AJ0
+stoned_VVN
 in_PRP
 the_AT0
 streets_NN2
@@ -36970,14 +36970,14 @@ unjustifiable_AJ0
 conduct_NN1
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 and_CJC
 need_VVB
 I_PNP
 say_VVI
 what_DTQ
 I_PNP
-feel_VVI
+feel_VVB
 My_DPS
 whole_AJ0
 heart_NN1
@@ -37006,13 +37006,13 @@ August_NP0
 she_PNP
 wrote_VVD
 Odiously_AV0
-impertinent_AJ0-NN1
+impertinent_AJ0
 insulting_AJ0
 and_CJC
 boastful_AJ0
 as_CJS
 the_AT0
-French_AJ0-NN1
+French_AJ0
 have_VHB
 always_AV0
 been_VBN
@@ -37029,7 +37029,7 @@ that_CJT
 the_AT0
 Queen_NN1
 was_VBD
-pro-German_NN1-AJ0
+pro-German_AJ0
 would_VM0
 have_VHB
 been_VBN
@@ -37065,7 +37065,7 @@ the_AT0
 country_NN1
 was_VBD
 ill-prepared_AJ0
-Ill-prepared_NN1-AJ0
+Ill-prepared_NN1
 not_XX0
 only_AV0
 militarily_AV0
@@ -37112,7 +37112,7 @@ the_AT0
 Legislative_AJ0
 Body_NN1
 an_AT0
-act_VVI
+act_NN1
 which_DTQ
 would_VM0
 be_VBI
@@ -37123,7 +37123,7 @@ and_CJC
 unconstitutional_AJ0
 in_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 circumstances_NN2
 On_PRP
 28_CRD
@@ -37356,7 +37356,7 @@ tears_NN2
 to_TO0
 be_VBI
 led_VVD
-weeping_AJ0-NN1
+weeping_NN1
 back_AVP
 to_TO0
 the_AT0
@@ -37517,7 +37517,7 @@ days_NN2
 of_PRF
 August_NP0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 armies_NN2
 suffered_VVN
 three_CRD
@@ -37526,10 +37526,10 @@ at_PRP
 the_AT0
 battles_NN2
 of_PRF
-Spicheren_NP0-NN1
+Spicheren_NP0
 Wissembourg_NP0
 and_CJC
-Froeschwiller_NP0-NN1
+Froeschwiller_NN1
 News_NN1
 of_PRF
 these_DT0
@@ -37564,7 +37564,7 @@ at_PRP
 the_AT0
 battles_NN2
 of_PRF
-Reichshoffen_NP0-NN1
+Reichshoffen_NP0
 and_CJC
 Forbach_NP0
 Suddenly_AV0
@@ -37711,7 +37711,7 @@ to_TO0
 serve_VVI
 as_CJS
 a_AT0
-sheet-anchor_NN1-AJ0
+sheet-anchor_NN1
 and_CJC
 a_AT0
 symbol_NN1
@@ -37846,7 +37846,7 @@ rooms_NN2
 that_CJT
 the_AT0
 last_ORD
-act_VVI
+act_NN1
 of_PRF
 the_AT0
 drama_NN1
@@ -37876,7 +37876,7 @@ few_DT0
 attendants_NN2
 camped_VVN
 out_AVP
-sleeping_VVG
+sleeping_NN1
 on_PRP
 improvised_AJ0
 beds_NN2
@@ -37951,9 +37951,9 @@ the_AT0
 basement_NN1
 in_PRP
 the_AT0
-Pavillon_NP0-NN1
+Pavillon_NP0
 de_NP0
-Flore_NP0-NN1
+Flore_NP0
 where_AVQ
 I_PNP
 followed_VVN
@@ -38003,14 +38003,14 @@ under_PRP
 the_AT0
 rue_NN1
 de_NP0
-Rivoli_NP0-NN1
+Rivoli_NN1
 and_CJC
 there_EX0
 I_PNP
 found_VVD
 a_AT0
-cook-boy_NN1-AJ0
-fast_AV0-AJ0
+cook-boy_NN1
+fast_AJ0
 asleep_AJ0
 whom_PNQ
 I_PNP

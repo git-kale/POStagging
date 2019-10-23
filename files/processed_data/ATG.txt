@@ -262,7 +262,7 @@ a_AT0
 picture_NN1
 of_PRF
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 importance_NN1
 of_PRF
 these_DT0
@@ -386,7 +386,7 @@ be_VBI
 seen_VVN
 below_AV0
 the_AT0
-consolidated_AJ0
+consolidated_VVN
 revenue_NN1
 of_PRF
 these_DT0
@@ -508,7 +508,7 @@ in_PRP
 revenues_NN2
 collected_VVN
 and_CJC
-disbursed_AJ0-VVN
+disbursed_AJ0
 by_PRP
 pension_NN1
 funds_NN2
@@ -532,7 +532,7 @@ there_EX0
 was_VBD
 a_AT0
 considerable_AJ0
-fall_VVI
+fall_NN1
 in_PRP
 the_AT0
 proportion_NN1
@@ -584,7 +584,7 @@ to_TO0
 1983_CRD
 Data_NN0
 on_PRP
-consolidated_AJ0
+consolidated_VVN
 government_NN1
 revenues_NN2
 and_CJC
@@ -621,7 +621,7 @@ figures_NN2
 show_VVI
 a_AT0
 similar_AJ0
-fall_VVI
+fall_NN1
 in_PRP
 the_AT0
 share_NN1
@@ -654,7 +654,7 @@ the_AT0
 expenditure_NN1
 side_NN1
 the_AT0
-fall_VVI
+fall_NN1
 from_PRP
 1979_CRD
 to_TO0
@@ -719,7 +719,7 @@ run_VVI
 a_AT0
 very_AV0
 large_AJ0
-overall_AJ0-NN1
+overall_AJ0
 deficit_NN1
 The_AT0
 table_NN1
@@ -738,7 +738,7 @@ defence_NN1
 and_CJC
 administration_NN1
 The_AT0
-fall_VVI
+fall_NN1
 in_PRP
 this_DT0
 share_NN1
@@ -805,7 +805,7 @@ to_TO0
 Since_CJS
 1984_CRD
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 incomes_NN2
 of_PRF
 workers_NN2
@@ -992,7 +992,7 @@ dinars_NN2
 Out_AVP
 of_PRF
 an_AT0
-initial_AJ0-NN1
+initial_AJ0
 tax_NN1
 revenue_NN1
 of_PRF
@@ -1490,7 +1490,7 @@ overcome_VVI
 this_DT0
 difficulty_NN1
 At_PRP
-present_AJ0-NN1
+present_AJ0
 even_AV0
 when_CJS
 government_NN1
@@ -1785,7 +1785,7 @@ there_EX0
 should_VM0
 be_VBI
 a_AT0
-shift_NN1-VVB
+shift_NN1
 away_AV0
 from_PRP
 indirect_AJ0
@@ -2024,7 +2024,7 @@ collect_VVI
 income_NN1
 tax_NN1
 at_PRP
-present_AJ0-NN1
+present_AJ0
 are_VBB
 the_AT0
 republics_NN2
@@ -2045,7 +2045,7 @@ related_VVN
 strictly_AV0
 to_TO0
 the_AT0
-average_AJ0-NN1
+average_AJ0
 level_NN1
 of_PRF
 income_NN1
@@ -2061,7 +2061,7 @@ also_AV0
 suggested_VVN
 that_CJT
 the_AT0
-present_AJ0-NN1
+present_AJ0
 sales_NN0
 taxes_NN2
 should_VM0
@@ -2313,7 +2313,7 @@ the_AT0
 privilege_NN1
 of_PRF
 heavily_AV0
-subsidized_AJ0-VVD
+subsidized_VVD
 accommodation_NN1
 which_DTQ
 they_PNP
@@ -2346,7 +2346,7 @@ sales_NN0
 taxes_NN2
 which_DTQ
 at_PRP
-present_AJ0-NN1
+present_AJ0
 account_NN1
 for_PRP
 about_PRP
@@ -2605,7 +2605,7 @@ personal_AJ0
 income_NN1
 but_CJC
 their_DPS
-present_AJ0-NN1
+present_AJ0
 coverage_NN1
 is_VBZ
 quite_AV0
@@ -2627,7 +2627,7 @@ about_PRP
 three_CRD
 times_NN2
 the_AT0
-average_AJ0-NN1
+average_AJ0
 net_AJ0
 personal_AJ0
 income_NN1
@@ -2747,7 +2747,7 @@ February_NP0
 has_VHZ
 suggested_VVN
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 point_NN1
 for_PRP
 assessing_VVG
@@ -2762,7 +2762,7 @@ down_AVP
 to_TO0
 approximately_AV0
 the_AT0
-average_AJ0-NN1
+average_AJ0
 income_NN1
 of_PRF
 each_DT0
@@ -2795,7 +2795,7 @@ on_PRP
 house_NN1
 property_NN1
 The_AT0
-present_AJ0-NN1
+present_AJ0
 taxes_NN2
 are_VBB
 inequitable_AJ0
@@ -2825,7 +2825,7 @@ that_CJT
 at_PRP
 least_AV0
 under_PRP
-present_AJ0-NN1
+present_AJ0
 conditions_NN2
 house_NN1
 property_NN1
@@ -3077,7 +3077,7 @@ society_NN1
 that_CJT
 is_VBZ
 already_AV0
-exhausted_VVN-AJ0
+exhausted_VVN
 by_PRP
 the_AT0
 increase_NN1
@@ -3226,7 +3226,7 @@ the_AT0
 origin_NN1
 of_PRF
 its_DPS
-present_AJ0-NN1
+present_AJ0
 economic_AJ0
 difficulties_NN2
 without_PRP
@@ -3327,7 +3327,7 @@ the_AT0
 Bosnian_AJ0
 firm_NN1
 of_PRF
-Agrokomerc_NP0-NN1
+Agrokomerc_NP0
 The_AT0
 banking_NN1
 system_NN1
@@ -3419,7 +3419,7 @@ influence_NN1
 decisions_NN2
 about_PRP
 consumption_NN1
-saving_NN1
+saving_VVG
 and_CJC
 investment_NN1
 both_AV0
@@ -3679,7 +3679,7 @@ of_PRF
 a_AT0
 bank_NN1
 in_PRP
-Ljubljana_NP0-NN1
+Ljubljana_NP0
 has_VHZ
 said_VVD
 Politika_NP0
@@ -3749,7 +3749,7 @@ their_DPS
 work_NN1
 independently_AV0
 replied_VVD
-EP_NP0-NN1
+EP_NN1
 22_CRD
 June_NP0
 1987_CRD
@@ -3944,7 +3944,7 @@ as_CJS
 deposits_NN2
 to_TO0
 the_AT0
-credit-giving_AJ0-NN1
+credit-giving_NN1
 banks_NN2
 In_PRP
 the_AT0
@@ -3958,13 +3958,13 @@ Associated_AJ0
 Banks_NN2
 of_PRF
 Belgrade_NP0
-EP_NP0-NN1
+EP_NN1
 24_CRD
 February_NP0
 1986_CRD
 We_PNP
 have_VHB
-shut_VVB
+shut_VVN
 our_DPS
 banks_NN2
 up_AVP
@@ -4077,7 +4077,7 @@ to_TO0
 firms_NN2
 such_DT0
 as_CJS
-Agrokomerc_NP0-NN1
+Agrokomerc_NP0
 Deposits_NN2
 at_PRP
 basic_AJ0
@@ -4102,7 +4102,7 @@ be_VBI
 transferred_VVN
 by_PRP
 cheque_NN1
-yield_VVI
+yield_NN1
 no_AT0
 interest_NN1
 Other_AJ0
@@ -4186,7 +4186,7 @@ exchange_NN1
 rate_NN1
 and_CJC
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 can_VM0
 normally_AV0
 be_VBI
@@ -4266,7 +4266,7 @@ a_AT0
 considerable_AJ0
 extent_NN1
 each_DT0
-republican_AJ0-NN1
+republican_AJ0
 or_CJC
 provincial_AJ0
 national_AJ0
@@ -4368,7 +4368,7 @@ of_PRF
 the_AT0
 National_AJ0
 Bank_NP0
-EP_NP0-NN1
+EP_NN1
 22_CRD
 February_NP0
 1988_CRD
@@ -4478,7 +4478,7 @@ It_PNP
 was_VBD
 recently_AV0
 estimated_VVN
-EP_NP0-NN1
+EP_NN1
 22_CRD
 February_NP0
 1988_CRD
@@ -4548,7 +4548,7 @@ Resolution_NN1
 adopted_VVN
 by_PRP
 the_AT0
-Skup\xc5\xa1tina_NP0-NN1
+Skup\xc5\xa1tina_NP0
 In_PRP
 principle_NN1
 the_AT0
@@ -4767,7 +4767,7 @@ and_CJC
 the_AT0
 cost-of-living_NN1
 index_NN1
-average_AJ0-NN1
+average_AJ0
 for_PRP
 the_AT0
 year_NN1
@@ -4834,7 +4834,7 @@ no_AT0
 effect_NN1
 on_PRP
 inflation_NN1
-EP_NP0-NN1
+EP_NN1
 11_CRD
 November_NP0
 1985_CRD
@@ -4865,7 +4865,7 @@ bills_NN2
 of_PRF
 exchange_NN1
 The_AT0
-Mikuli\xc4\x87_AJ0-NN1
+Mikuli\xc4\x87_AJ0
 government_NN1
 which_DTQ
 took_VVD
@@ -4999,7 +4999,7 @@ the_AT0
 test_NN1
 by_PRP
 the_AT0
-Mikuli\xc4\x87_AJ0-NN1
+Mikuli\xc4\x87_AJ0
 government_NN1
 On_PRP
 assuming_VVG
@@ -5015,7 +5015,7 @@ was_VBD
 its_DPS
 first_ORD
 priority_NN1
-EP_NP0-NN1
+EP_NN1
 11_CRD
 May_NP0
 1987_CRD
@@ -5032,7 +5032,7 @@ and_CJC
 put_VVI
 a_AT0
 four-month_AJ0
-freeze_VVI
+freeze_NN1
 on_PRP
 the_AT0
 prices_NN2
@@ -5270,7 +5270,7 @@ Yugoslav_AJ0
 economists_NN2
 consider_VVI
 the_AT0
-Mikuli\xc4\x87_AJ0-NN1
+Mikuli\xc4\x87_AJ0
 government_NN1
 to_TO0
 be_VBI
@@ -5345,7 +5345,7 @@ the_AT0
 right_NN1
 to_TO0
 establish_VVI
-competing_VVG-AJ0
+competing_AJ0
 private_AJ0
 enterprises_NN2
 and_CJC
@@ -5429,7 +5429,7 @@ failure_NN1
 to_TO0
 curb_VVI
 inflation_NN1
-EP_NP0-NN1
+EP_NN1
 10_CRD
 November_NP0
 1986_CRD
@@ -5532,7 +5532,7 @@ has_VHZ
 been_VBN
 a_AT0
 sharp_AJ0
-fall_VVI
+fall_NN1
 in_PRP
 the_AT0
 quantity_NN1
@@ -5547,7 +5547,7 @@ as_CJS
 well_AV0
 as_CJS
 a_AT0
-fall_VVI
+fall_NN1
 in_PRP
 its_DPS
 price_NN1
@@ -5748,7 +5748,7 @@ the_AT0
 latter_DT0
 loans_NN2
 increasingly_AV0
-fall_VVI
+fall_NN1
 short_AJ0
 of_PRF
 the_AT0
@@ -5759,7 +5759,7 @@ meet_VVI
 the_AT0
 interest_NN1
 and_CJC
-principal_AJ0-NN1
+principal_AJ0
 on_PRP
 these_DT0
 foreign_AJ0
@@ -5774,7 +5774,7 @@ cover_NN1
 the_AT0
 difference_NN1
 by_PRP
-issuing_VVG-AJ0
+issuing_VVG
 new_AJ0
 money_NN1
 At_PRP
@@ -5785,7 +5785,7 @@ a_AT0
 committee_NN1
 of_PRF
 the_AT0
-Skup\xc5\xa1tina_NP0-NN1
+Skup\xc5\xa1tina_NP0
 in_PRP
 December_NP0
 1986_CRD
@@ -5793,7 +5793,7 @@ the_AT0
 Federal_AJ0
 Secretary_NN1
 of_PRF
-Finance_VVB-NN1
+Finance_NN1
 said_VVD
 We_PNP
 must_VM0
@@ -6168,7 +6168,7 @@ for_PRP
 the_AT0
 full_AJ0
 year_NN1
-increased_AJ0
+increased_VVN
 by_PRP
 120_CRD
 per_UNC
@@ -6283,7 +6283,7 @@ even_AV0
 under_PRP
 the_AT0
 price_NN1
-freeze_VVI
+freeze_NN1
 of_PRF
 the_AT0
 first_ORD
@@ -6694,7 +6694,7 @@ by_PRP
 120_CRD
 per_UNC
 cent_UNC
-average_AJ0-NN1
+average_AJ0
 for_PRP
 the_AT0
 year_NN1
@@ -6760,7 +6760,7 @@ the_AT0
 money_NN1
 supply_NN1
 to_TO0
-consolidated_AJ0
+consolidated_VVN
 government_NN1
 budgetary_AJ0
 expenditure_NN1
@@ -6772,7 +6772,7 @@ cent_UNC
 Thereafter_AV0
 this_DT0
 ratio_NN1
-increased_AJ0
+increased_VVN
 rapidly_AV0
 rising_VVG
 to_TO0
@@ -6839,7 +6839,7 @@ proportion_NN1
 rose_VVD
 to_TO0
 an_AT0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 more_AV0
 than_CJS
@@ -6921,7 +6921,7 @@ banks_NN2
 One_CRD
 of_PRF
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 effects_NN2
 of_PRF
 inflation_NN1
@@ -6998,7 +6998,7 @@ the_AT0
 camp_NN1
 of_PRF
 the_AT0
-wealth-losing_AJ0-NN1
+wealth-losing_NN1
 lenders_NN2
 One_CRD
 way_NN1
@@ -7283,7 +7283,7 @@ over_PRP
 dinars_NN2
 Since_CJS
 the_AT0
-average_AJ0-NN1
+average_AJ0
 rate_NN1
 at_PRP
 which_DTQ
@@ -7337,7 +7337,7 @@ seen_VVN
 their_DPS
 real_AJ0
 values_NN2
-fall_VVI
+fall_NN1
 to_TO0
 about_PRP
 2_CRD
@@ -7360,7 +7360,7 @@ respect_NN1
 of_PRF
 these_DT0
 loans_NN2
-fall_VVI
+fall_NN1
 to_TO0
 about_PRP
 2_CRD
@@ -7581,7 +7581,7 @@ dinar_NN1
 credits_NN2
 Since_CJS
 the_AT0
-average_AJ0-NN1
+average_AJ0
 rate_NN1
 of_PRF
 interest_NN1
@@ -7604,7 +7604,7 @@ needed_VVN
 to_TO0
 charge_NN1
 an_AT0
-average_AJ0-NN1
+average_AJ0
 interest_NN1
 rate_NN1
 on_PRP
@@ -7634,7 +7634,7 @@ on_PRP
 bank_NN1
 loans_NN2
 have_VHB
-increased_AJ0
+increased_VVN
 considerably_AV0
 in_PRP
 recent_AJ0
@@ -7650,7 +7650,7 @@ new_AJ0
 loans_NN2
 and_CJC
 the_AT0
-average_AJ0-NN1
+average_AJ0
 rate_NN1
 charged_VVN
 lags_VVZ
@@ -7710,7 +7710,7 @@ have_VHB
 to_TO0
 charge_NN1
 an_AT0
-average_AJ0-NN1
+average_AJ0
 rate_NN1
 of_PRF
 interest_NN1
@@ -7810,7 +7810,7 @@ the_AT0
 value_NN1
 of_PRF
 the_AT0
-Deutschemark_NN1-NP0
+Deutschemark_NP0
 has_VHZ
 risen_VVN
 considerably_AV0
@@ -7863,7 +7863,7 @@ about_PRP
 $_UNC
 11.5_CRD
 billion_CRD
-EP_NP0-NN1
+EP_NN1
 7_CRD
 March_NP0
 1988_CRD
@@ -8078,7 +8078,7 @@ a_AT0
 statement_NN1
 to_TO0
 the_AT0
-Skup\xc5\xa1tina_NP0-NN1
+Skup\xc5\xa1tina_NP0
 in_PRP
 July_NP0
 1987_CRD
@@ -8256,7 +8256,7 @@ than_CJS
 4,000_CRD
 billion_CRD
 dinars_NN2
-EP_NP0-NN1
+EP_NN1
 14_CRD
 March_NP0
 1988_CRD
@@ -8399,9 +8399,9 @@ same_DT0
 real_AJ0
 effect_NN1
 The_AT0
-Agrokomerc_NP0-NN1
+Agrokomerc_NP0
 affair_NN1
-Agrokomerc_NP0-NN1
+Agrokomerc_NP0
 is_VBZ
 a_AT0
 large_AJ0
@@ -8505,7 +8505,7 @@ giant_AJ0
 enterprise_NN1
 In_PRP
 1986_CRD
-Agrokomerc_NP0-NN1
+Agrokomerc_NP0
 ranked_VVN
 in_PRP
 terms_NN2
@@ -8519,7 +8519,7 @@ largest_AJS
 enterprise_NN1
 in_PRP
 Yugoslavia_NP0
-EP_NP0-NN1
+EP_NN1
 7_CRD
 September_NP0
 1987_CRD
@@ -8550,7 +8550,7 @@ the_AT0
 firm_NN1
 had_VHD
 been_VBN
-issuing_VVG-AJ0
+issuing_VVG
 uncovered_AJ0
 bills_NN2
 of_PRF
@@ -8612,7 +8612,7 @@ the_AT0
 firm_NN1
 had_VHD
 been_VBN
-issuing_VVG-AJ0
+issuing_VVG
 such_DT0
 promissory_AJ0
 notes_NN2
@@ -8625,7 +8625,7 @@ its_DPS
 local_AJ0
 bank_NN1
 in_PRP
-Biha\xc4\x87_AJ0
+Biha\xc4\x87_NP0
 where_AVQ
 incidentally_AV0
 the_AT0
@@ -8675,7 +8675,7 @@ its_DPS
 official_AJ0
 stamp_NN1
 to_TO0
-Agrokomerc_NP0-NN1
+Agrokomerc_NP0
 so_AV0
 that_CJT
 the_AT0
@@ -8743,7 +8743,7 @@ entitled_VVN
 to_TO0
 endorse_VVI
 them_PNP
-Agrokomerc_NP0-NN1
+Agrokomerc_NP0
 's_POS
 promissory_AJ0
 notes_NN2
@@ -8853,7 +8853,7 @@ interest_NN1
 offered_VVN
 on_PRP
 the_AT0
-Agrokomerc_NP0-NN1
+Agrokomerc_NP0
 bills_NN2
 were_VBD
 attractive_AJ0
@@ -8876,7 +8876,7 @@ of_PRF
 1987_CRD
 that_CJT
 the_AT0
-Agrokomerc_NP0-NN1
+Agrokomerc_NP0
 bills_NN2
 were_VBD
 unsafe_AJ0
@@ -8974,7 +8974,7 @@ and_CJC
 the_AT0
 firm_NN1
 of_PRF
-Agrokomerc_NP0-NN1
+Agrokomerc_NP0
 His_DPS
 brother_NN1
 and_CJC
@@ -9072,7 +9072,7 @@ thousands_CRD
 of_PRF
 turkeys_NN2
 were_VBD
-dying_VVG-AJ0
+dying_AJ0
 of_PRF
 starvation_NN1
 and_CJC
@@ -9127,7 +9127,7 @@ Politika_NP0
 October_NP0
 1987_CRD
 The_AT0
-Agrokomerc_NP0-NN1
+Agrokomerc_NP0
 affair_NN1
 has_VHZ
 undermined_VVN
@@ -9180,7 +9180,7 @@ and_CJC
 institutions_NN2
 have_VHB
 been_VBN
-involved_AJ0
+involved_VVN
 in_PRP
 widespread_AJ0
 breaches_NN2
@@ -9214,7 +9214,7 @@ illegal_AJ0
 and_CJC
 that_CJT
 the_AT0
-Biha\xc4\x87_AJ0
+Biha\xc4\x87_NP0
 bank_NN1
 broke_VVD
 the_AT0
@@ -9230,7 +9230,7 @@ The_AT0
 manager_NN1
 of_PRF
 the_AT0
-Ljubljana_NP0-NN1
+Ljubljana_NP0
 branch_NN1
 of_PRF
 the_AT0
@@ -9260,7 +9260,7 @@ purchase_NN1
 billion_CRD
 dinars_NN2
 of_PRF
-Agrokomerc_NP0-NN1
+Agrokomerc_NP0
 bills_NN2
 of_PRF
 exchange_NN1
@@ -9298,7 +9298,7 @@ main_AJ0
 cause_NN1
 of_PRF
 the_AT0
-Agrokomerc_NP0-NN1
+Agrokomerc_NP0
 scandal_NN1
 was_VBD
 the_AT0
@@ -9334,7 +9334,7 @@ banks_NN2
 not_XX0
 only_AV0
 in_PRP
-Biha\xc4\x87_AJ0
+Biha\xc4\x87_NP0
 but_CJC
 also_AV0
 in_PRP
@@ -9386,7 +9386,7 @@ leading_AJ0
 Slovene_AJ0
 politician_NN1
 Jo\xc5\xbee_NP0
-Smole_NP0-NN1
+Smole_NN1
 who_PNQ
 has_VHZ
 held_VVN
@@ -9418,7 +9418,7 @@ that_CJT
 the_AT0
 directors_NN2
 of_PRF
-Agrokomerc_NP0-NN1
+Agrokomerc_NP0
 would_VM0
 not_XX0
 have_VHB
@@ -9440,7 +9440,7 @@ the_AT0
 local_AJ0
 commune_NN1
 the_AT0
-Biha\xc4\x87_AJ0
+Biha\xc4\x87_NP0
 bank_NN1
 the_AT0
 Associated_AJ0
@@ -9503,7 +9503,7 @@ not_XX0
 apply_VVI
 only_AV0
 to_TO0
-Agrokomerc_NP0-NN1
+Agrokomerc_NP0
 its_DPS
 management_NN1
 or_CJC
@@ -9518,7 +9518,7 @@ Singer_NP0
 who_PNQ
 is_VBZ
 a_AT0
-retired_AJ0
+retired_VVD
 Belgrade_NP0
 banker_NN1
 has_VHZ
@@ -9538,7 +9538,7 @@ must_VM0
 have_VHB
 known_VVN
 that_CJT
-Agrokomerc_NP0-NN1
+Agrokomerc_NP0
 was_VBD
 overspending_VVG
 What_DTQ
@@ -9562,7 +9562,7 @@ Professor_NP0
 Davor_NP0
 Savin_NP0
 of_PRF
-Maribor_NP0-NN1
+Maribor_NN1
 University_NN1
 has_VHZ
 pointed_VVD
@@ -9798,7 +9798,7 @@ the_AT0
 rate_NN1
 of_PRF
 exchange_NN1
-ruling_AJ0-NN1
+ruling_NN1
 at_PRP
 the_AT0
 beginning_NN1
@@ -9966,7 +9966,7 @@ the_AT0
 rates_NN2
 of_PRF
 exchange_NN1
-ruling_AJ0-NN1
+ruling_NN1
 at_PRP
 the_AT0
 time_NN1
@@ -10055,7 +10055,7 @@ amount_NN1
 may_VM0
 well_AV0
 have_VHB
-varied_AJ0
+varied_VVN
 with_PRP
 the_AT0
 rate_NN1
@@ -10551,9 +10551,9 @@ index_NN1
 is_VBZ
 to_TO0
 be_VBI
-trusted_VVD
+trusted_AJ0
 the_AT0
-average_AJ0-NN1
+average_AJ0
 annual_AJ0
 rate_NN1
 of_PRF
@@ -10598,7 +10598,7 @@ figures_NN2
 show_VVI
 a_AT0
 substantial_AJ0
-fall_VVI
+fall_NN1
 from_PRP
 1981_CRD
 to_TO0
@@ -10651,7 +10651,7 @@ designed_VVN
 to_TO0
 indicate_VVI
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 importance_NN1
 of_PRF
 commodity_NN1
@@ -10815,10 +10815,10 @@ there_EX0
 was_VBD
 a_AT0
 large_AJ0
-fall_VVI
+fall_NN1
 in_PRP
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 size_NN1
 of_PRF
 net_AJ0
@@ -10872,7 +10872,7 @@ interest_NN1
 payments_NN2
 and_CJC
 the_AT0
-fall_VVI
+fall_NN1
 in_PRP
 net_AJ0
 remittances_NN2
@@ -10915,10 +10915,10 @@ of_PRF
 oil_NN1
 and_CJC
 the_AT0
-fall_VVI
+fall_NN1
 in_PRP
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 importance_NN1
 of_PRF
 remittances_NN2
@@ -10997,7 +10997,7 @@ non-oil_AJ0
 imports_NN2
 which_DTQ
 had_VHD
-damaging_VVG-AJ0
+damaging_AJ0
 effects_NN2
 on_PRP
 domestic_AJ0
@@ -11428,7 +11428,7 @@ also_AV0
 by_PRP
 East_NN1
 Germany_NP0
-EP_NP0-NN1
+EP_NN1
 21_CRD
 March_NP0
 1988_CRD
@@ -11610,7 +11610,7 @@ development_NN1
 strategy_NN1
 that_CJT
 was_VBD
-biased_VVN-AJ0
+biased_AJ0
 towards_PRP
 import_NN1
 replacement_NN1
@@ -11858,7 +11858,7 @@ of_PRF
 past_NN1
 mistakes_NN2
 and_CJC
-accumulated_AJ0
+accumulated_VVN
 debts_NN2
 the_AT0
 price_NN1
@@ -12168,7 +12168,7 @@ needs_VVZ
 the_AT0
 retention_NN1
 ratios_NN2
-varied_AJ0
+varied_VVN
 between_PRP
 industries_NN2
 But_CJC
@@ -12229,7 +12229,7 @@ exports_NN2
 Imported_VVN
 materials_NN2
 are_VBB
-pooled_AJ0-VVD
+pooled_AJ0
 with_PRP
 home-produced_AJ0
 materials_NN2
@@ -12255,7 +12255,7 @@ for_PRP
 an_AT0
 enterprise_NN1
 to_TO0
-substitute_NN1-AJ0
+substitute_NN1
 domestically_AV0
 produced_VVN
 materials_NN2
@@ -12467,7 +12467,7 @@ currently_AV0
 selling_VVG
 X_ZZ0
 to_TO0
-exporting_VVG-NN1
+exporting_VVG
 firms_NN2
 can_VM0
 argue_VVI
@@ -12505,7 +12505,7 @@ now_AV0
 supply_NN1
 X_ZZ0
 to_TO0
-exporting_VVG-NN1
+exporting_VVG
 firms_NN2
 were_VBD
 unable_AJ0
@@ -12591,7 +12591,7 @@ any_DT0
 rate_NN1
 were_VBD
 not_XX0
-enforced_AJ0
+enforced_VVN
 For_PRP
 example_NN1
 in_PRP
@@ -12605,7 +12605,7 @@ on_PRP
 imports_NN2
 of_PRF
 both_AV0
-coking_VVG-AJ0
+coking_AJ0
 coal_NN1
 and_CJC
 iron_NN1
@@ -12709,7 +12709,7 @@ cost_NN1
 of_PRF
 steel_NN1
 imports_NN2
-EP_NP0-NN1
+EP_NN1
 12_CRD
 August_NP0
 1985_CRD
@@ -12771,7 +12771,7 @@ used_VVN
 directly_AV0
 by_PRP
 the_AT0
-exporting_VVG-NN1
+exporting_VVG
 enterprises_NN2
 or_CJC
 to_TO0
@@ -12842,7 +12842,7 @@ law_NN1
 on_PRP
 foreign_AJ0
 exchange_NN1
-EP_NP0-NN1
+EP_NN1
 15_CRD
 July_NP0
 1985_CRD
@@ -12922,7 +12922,7 @@ but_CJC
 ultimately_AV0
 without_PRP
 their_DPS
-veto_VVI
+veto_NN1
 the_AT0
 retention_NN1
 ratio_NN1
@@ -13308,7 +13308,7 @@ Slovene_AJ0
 delegation_NN1
 to_TO0
 the_AT0
-Skup\xc5\xa1tina_NP0-NN1
+Skup\xc5\xa1tina_NP0
 launched_VVN
 a_AT0
 strong_AJ0
@@ -13320,7 +13320,7 @@ system_NN1
 which_DTQ
 it_PNP
 maintained_VVN
-EP_NP0-NN1
+EP_NN1
 24_CRD
 August_NP0
 1987_CRD
@@ -13421,7 +13421,7 @@ lost_VVN
 their_DPS
 motivation_NN1
 for_PRP
-exporting_VVG-NN1
+exporting_VVG
 The_AT0
 Slovenes_NN2
 therefore_AV0
@@ -13595,7 +13595,7 @@ enterprises_NN2
 concerned_AJ0
 are_VBB
 clearly_AV0
-damaging_VVG-AJ0
+damaging_AJ0
 to_TO0
 the_AT0
 rest_NN1
@@ -13676,7 +13676,7 @@ in_PRP
 Iraq_NP0
 and_CJC
 Libya_NP0
-EP_NP0-NN1
+EP_NN1
 17_CRD
 August_NP0
 1987_CRD
@@ -13858,7 +13858,7 @@ them_PNP
 since_CJS
 they_PNP
 are_VBB
-assured_VVD
+assured_VVN
 of_PRF
 most_AV0
 of_PRF
@@ -13940,7 +13940,7 @@ government_NN1
 seemed_VVD
 to_TO0
 be_VBI
-wavering_VVG-AJ0
+wavering_VVG
 Eventually_AV0
 however_AV0
 in_PRP
@@ -14223,7 +14223,7 @@ Slovenia_NP0
 and_CJC
 Croatia_NP0
 were_VBD
-Catholic_AJ0-NN1
+Catholic_AJ0
 and_CJC
 western_AJ0
 They_PNP
@@ -14245,7 +14245,7 @@ the_AT0
 time_NN1
 of_PRF
 the_AT0
-Roman_AJ0-NN1
+Roman_AJ0
 Empire_NN1
 Although_CJS
 economically_AV0
@@ -14445,7 +14445,7 @@ study_NN1
 some_DT0
 indicators_NN2
 of_PRF
-present_AJ0-NN1
+present_AJ0
 inter-regional_AJ0
 economic_AJ0
 differences_NN2
@@ -14496,7 +14496,7 @@ majority_NN1
 Albanians_NN2
 and_CJC
 the_AT0
-shrinking_AJ0-NN1
+shrinking_AJ0
 minority_NN1
 of_PRF
 Serbs_NP0
@@ -14540,7 +14540,7 @@ of_PRF
 this_DT0
 chapter_NN1
 is_VBZ
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 an_AT0
 analysis_NN1
@@ -14570,7 +14570,7 @@ estimates_NN2
 of_PRF
 differences_NN2
 in_PRP
-average_AJ0-NN1
+average_AJ0
 levels_NN2
 of_PRF
 labour_NN1
@@ -14770,7 +14770,7 @@ therefore_AV0
 to_TO0
 discover_VVI
 the_AT0
-average_AJ0-NN1
+average_AJ0
 level_NN1
 of_PRF
 per_UNC
@@ -14783,7 +14783,7 @@ region_NN1
 In_PRP
 1986_CRD
 these_DT0
-varied_AJ0
+varied_VVN
 from_PRP
 209_CRD
 per_UNC
@@ -14791,7 +14791,7 @@ cent_UNC
 of_PRF
 the_AT0
 Yugoslav_AJ0
-average_AJ0-NN1
+average_AJ0
 in_PRP
 Slovenia_NP0
 to_TO0
@@ -14800,7 +14800,7 @@ per_UNC
 cent_UNC
 of_PRF
 the_AT0
-average_AJ0-NN1
+average_AJ0
 in_PRP
 Kosovo_NP0
 an_AT0
@@ -14864,7 +14864,7 @@ four_CRD
 in_PRP
 early_AJ0
 1987_CRD
-varied_AJ0
+varied_VVN
 from_PRP
 17_CRD
 per_UNC
@@ -14872,7 +14872,7 @@ cent_UNC
 above_PRP
 the_AT0
 Yugoslav_AJ0
-average_AJ0-NN1
+average_AJ0
 in_PRP
 Slovenia_NP0
 to_TO0
@@ -14881,7 +14881,7 @@ per_UNC
 cent_UNC
 below_AV0
 the_AT0
-average_AJ0-NN1
+average_AJ0
 in_PRP
 Kosovo_NP0
 The_AT0
@@ -14903,7 +14903,7 @@ set_VVN
 of_PRF
 estimates_NN2
 to_TO0
-yield_VVI
+yield_NN1
 the_AT0
 figures_NN2
 in_PRP
@@ -15068,7 +15068,7 @@ slightly_AV0
 below_AV0
 the_AT0
 Yugoslav_AJ0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 43_CRD
 per_UNC
@@ -15458,7 +15458,7 @@ every_AT0
 two_CRD
 workers_NN2
 at_PRP
-present_AJ0-NN1
+present_AJ0
 employed_VVN
 in_PRP
 the_AT0
@@ -15686,7 +15686,7 @@ Estimates_NN2
 of_PRF
 the_AT0
 net_AJ0
-saving_NN1
+saving_VVG
 of_PRF
 enterprises_NN2
 given_VVN
@@ -15699,7 +15699,7 @@ the_AT0
 amount_NN1
 of_PRF
 net_AJ0
-saving_NN1
+saving_VVG
 had_VHD
 become_VVI
 more_AV0
@@ -15720,7 +15720,7 @@ regional_AJ0
 differences_NN2
 in_PRP
 enterprise_NN1
-saving_NN1
+saving_VVG
 in_PRP
 1987_CRD
 In_PRP
@@ -15734,7 +15734,7 @@ show_VVI
 that_CJT
 total_AJ0
 net_AJ0
-saving_NN1
+saving_VVG
 of_PRF
 all_DT0
 enterprises_NN2
@@ -15758,7 +15758,7 @@ variations_NN2
 In_PRP
 Slovenia_NP0
 net_AJ0
-saving_NN1
+saving_VVG
 was_VBD
 positive_AJ0
 and_CJC
@@ -15775,7 +15775,7 @@ Montenegro_NP0
 and_CJC
 Kosovo_NP0
 net_AJ0
-saving_NN1
+saving_VVG
 was_VBD
 approximately_AV0
 $800_NN0
@@ -15868,7 +15868,7 @@ and_CJC
 Macedonia_NP0
 by_PRP
 heavily_AV0
-subsidized_AJ0-VVD
+subsidized_VVD
 loans_NN2
 from_PRP
 a_AT0
@@ -16000,7 +16000,7 @@ Serbia_NP0
 which_DTQ
 has_VHZ
 an_AT0
-average_AJ0-NN1
+average_AJ0
 social_AJ0
 product_NN1
 per_UNC
@@ -16008,7 +16008,7 @@ head_NN1
 below_AV0
 the_AT0
 Yugoslav_AJ0
-average_AJ0-NN1
+average_AJ0
 Despite_PRP
 this_DT0
 large_AJ0
@@ -16022,7 +16022,7 @@ no_AT0
 evidence_NN1
 that_CJT
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 position_NN1
 of_PRF
 the_AT0
@@ -16030,7 +16030,7 @@ less_AV0
 developed_VVN
 regions_NN2
 has_VHZ
-improved_AJ0
+improved_VVN
 A_AT0
 comparison_NN1
 of_PRF
@@ -16071,7 +16071,7 @@ per_UNC
 cent_UNC
 of_PRF
 the_AT0
-average_AJ0-NN1
+average_AJ0
 to_TO0
 77_CRD
 per_UNC
@@ -16091,7 +16091,7 @@ less_AV0
 than_CJS
 the_AT0
 Yugoslav_AJ0
-average_AJ0-NN1
+average_AJ0
 to_TO0
 21_CRD
 per_UNC
@@ -16112,7 +16112,7 @@ and_CJC
 Kosovo_NP0
 while_CJS
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 positions_NN2
 of_PRF
 the_AT0
@@ -16152,7 +16152,7 @@ little_AJ0
 change_NN1
 in_PRP
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 positions_NN2
 of_PRF
 the_AT0
@@ -16187,7 +16187,7 @@ appreciable_AJ0
 improvement_NN1
 in_PRP
 their_DPS
-relative_AJ0-NN1
+relative_AJ0
 economic_AJ0
 performance_NN1
 Difference_NN1
@@ -16285,7 +16285,7 @@ less_AV0
 developed_VVN
 regions_NN2
 have_VHB
-unfettered_AJ0-VVN
+unfettered_VVN
 freedom_NN1
 in_PRP
 spending_VVG
@@ -16370,7 +16370,7 @@ useless_AJ0
 projects_NN2
 such_DT0
 as_CJS
-FENI_NP0-NN1
+FENI_NN1
 Such_DT0
 hard_AJ0
 experience_NN1
@@ -16468,7 +16468,7 @@ cent_UNC
 It_PNP
 is_VBZ
 reported_VVN
-EP_NP0-NN1
+EP_NN1
 28_CRD
 December_NP0
 1987_CRD
@@ -16490,7 +16490,7 @@ However_AV0
 in_PRP
 another_DT0
 report_NN1
-EP_NP0-NN1
+EP_NN1
 26_CRD
 January_NP0
 1987_CRD
@@ -16499,7 +16499,7 @@ is_VBZ
 said_VVD
 that_CJT
 the_AT0
-average_AJ0-NN1
+average_AJ0
 proportion_NN1
 of_PRF
 all_DT0
@@ -16621,7 +16621,7 @@ in_PRP
 hotels_NN2
 on_PRP
 the_AT0
-Dalmatian_AJ0-NN1
+Dalmatian_NN1
 coast_NN1
 in_PRP
 order_NN1
@@ -16730,7 +16730,7 @@ convert_VVI
 the_AT0
 branches_NN2
 of_PRF
-foreign'_AJ0-NN1
+foreign'_AJ0
 organizations_NN2
 into_PRP
 separate_AJ0
@@ -16751,7 +16751,7 @@ interest_NN1
 in_PRP
 investing_VVG
 in_PRP
-foreign'_AJ0-NN1
+foreign'_AJ0
 territory_NN1
 The_AT0
 outcome_NN1
@@ -16770,7 +16770,7 @@ a_AT0
 huge_AJ0
 expropriation_NN1
 of_PRF
-accumulated_AJ0
+accumulated_VVN
 labour_NN1
 several_DT0
 times_NN2
@@ -16840,7 +16840,7 @@ expense_NN1
 of_PRF
 their_DPS
 own_DT0
-republican_AJ0-NN1
+republican_AJ0
 or_CJC
 provincial_AJ0
 governments_NN2
@@ -16866,7 +16866,7 @@ right_NN1
 to_TO0
 try_VVI
 to_TO0
-switch_VVI
+switch_NN1
 inter-regional_AJ0
 aid_NN1
 from_PRP
@@ -16889,7 +16889,7 @@ with_PRP
 it_PNP
 better_AJC
 management_NN1
-improved_AJ0
+improved_VVN
 technology_NN1
 and_CJC
 marketing_NN1
@@ -16981,7 +16981,7 @@ regions_NN2
 will_VM0
 continue_VVI
 to_TO0
-lag_NN1-VVB
+lag_NN1
 behind_PRP
 The_AT0
 great_AJ0
@@ -17165,7 +17165,7 @@ It_PNP
 was_VBD
 occupied_VVN
 by_PRP
-Slav_AJ0-NN1
+Slav_AJ0
 tribes_NN2
 in_PRP
 the_AT0
@@ -17185,7 +17185,7 @@ Serbian_AJ0
 Empire_NN1
 of_PRF
 Stevan_AJ0
-Du\xc5\xa1an_NN1-NP0
+Du\xc5\xa1an_NP0
 in_PRP
 the_AT0
 fourteenth_ORD
@@ -17200,7 +17200,7 @@ history_NN1
 and_CJC
 culture_NN1
 was_VBD
-centred_VVN-VVD
+centred_VVN
 on_PRP
 Kosovo_NP0
 until_CJS
@@ -17244,7 +17244,7 @@ of_PRF
 the_AT0
 Serbian_AJ0
 national_AJ0
-epic_AJ0-NN1
+epic_NN1
 During_PRP
 the_AT0
 Turkish_AJ0
@@ -17377,7 +17377,7 @@ Italians_NN2
 and_CJC
 annexed_VVN
 to_TO0
-Italian-controlled_AJ0-NN1
+Italian-controlled_AJ0
 Albania_NP0
 After_PRP
 the_AT0
@@ -17476,7 +17476,7 @@ although_CJS
 insisting_VVG
 on_PRP
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 surrender_NN1
 of_PRF
 Istria_NP0
@@ -17595,7 +17595,7 @@ correct_AJ0
 path_NN1
 which_DTQ
 the_AT0
-\xc5\xa0iptar_NN1-NP0
+\xc5\xa0iptar_NP0
 people_NN0
 must_VM0
 follow_VVI
@@ -18007,7 +18007,7 @@ to_TO0
 the_AT0
 Yugoslav_AJ0
 federal_AJ0
-Skup\xc5\xa1tina_NP0-NN1
+Skup\xc5\xa1tina_NP0
 the_AT0
 federal_AJ0
 government_NN1
@@ -18022,11 +18022,11 @@ the_AT0
 Party_NN1
 But_CJC
 Albanian_AJ0
-nationalist_AJ0-NN1
+nationalist_AJ0
 feeling_NN1
 was_VBD
 not_XX0
-pacified_VVN
+pacified_VVD
 More_AV0
 and_CJC
 more_AV0
@@ -18103,7 +18103,7 @@ and_CJC
 in_PRP
 1983_CRD
 Their_DPS
-principal_AJ0-NN1
+principal_AJ0
 demand_NN1
 was_VBD
 that_CJT
@@ -18246,7 +18246,7 @@ barely_AV0
 tolerated_VVN
 by_PRP
 the_AT0
-Slav_AJ0-NN1
+Slav_AJ0
 peoples_NN2
 of_PRF
 Yugoslavia_NP0
@@ -18316,10 +18316,10 @@ was_VBD
 also_AV0
 a_AT0
 party_NN1
-purge_VVI
+purge_NN1
 But_CJC
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 party_NN1
 leaders_NN2
 in_PRP
@@ -18340,7 +18340,7 @@ in_PRP
 the_AT0
 words_NN2
 of_PRF
-Svetomir_NP0-NN1
+Svetomir_NP0
 Lalovi\xc4\x87_NN1
 Serbian_AJ0
 Secretary_NN1
@@ -18494,7 +18494,7 @@ such_DT0
 as_CJS
 corruption_NN1
 and_CJC
-law-breaking_NN1-AJ0
+law-breaking_NN1
 But_CJC
 the_AT0
 national_AJ0
@@ -18603,7 +18603,7 @@ as_CJS
 a_AT0
 means_NN0
 of_PRF
-arousing_VVG-AJ0
+arousing_AJ0
 popular_AJ0
 sentiment_NN1
 The_AT0
@@ -18620,7 +18620,7 @@ the_AT0
 Empire_NN1
 of_PRF
 Stevan_AJ0
-Du\xc5\xa1an_NN1-NP0
+Du\xc5\xa1an_NP0
 in_PRP
 the_AT0
 fourteenth_ORD
@@ -18665,9 +18665,9 @@ resistance_NN1
 and_CJC
 the_AT0
 ultimate_AJ0
-discrediting_NN1-AJ0
+discrediting_NN1
 of_PRF
-Mihailovi\xc4\x87_NN1-AJ0
+Mihailovi\xc4\x87_NN1
 and_CJC
 the_AT0
 \xc4\x8cetniks_NN2
@@ -18734,7 +18734,7 @@ and_CJC
 until_CJS
 1966_CRD
 through_PRP
-Rankovi\xc4\x87_NN1-AJ0
+Rankovi\xc4\x87_AJ0
 the_AT0
 secret_AJ0
 police_NN2
@@ -18742,12 +18742,12 @@ and_CJC
 the_AT0
 nomenklatura_NN1
 The_AT0
-fall_VVI
+fall_NN1
 of_PRF
-Rankovi\xc4\x87_NN1-AJ0
+Rankovi\xc4\x87_AJ0
 after_PRP
 the_AT0
-Brioni_AJ0-NN1
+Brioni_NN1
 plenum_NN1
 of_PRF
 the_AT0
@@ -18756,7 +18756,7 @@ Committee_NN1
 of_PRF
 the_AT0
 Party_NN1
-deprived_AJ0
+deprived_VVN
 the_AT0
 Serbs_NP0
 of_PRF
@@ -18831,7 +18831,7 @@ evidence_NN1
 that_CJT
 Serbia_NP0
 's_POS
-relative_AJ0-NN1
+relative_AJ0
 position_NN1
 has_VHZ
 fallen_VVN
@@ -19036,7 +19036,7 @@ Serbian_AJ0
 nationalism_NN1
 is_VBZ
 deeply_AV0
-entrenched_AJ0
+entrenched_VVN
 in_PRP
 the_AT0
 Serbian_AJ0
@@ -19153,7 +19153,7 @@ the_AT0
 dangers_NN2
 of_PRF
 Serbian_AJ0
-nationalist_AJ0-NN1
+nationalist_AJ0
 attitudes_NN2
 towards_PRP
 Kosovo_NP0
@@ -19306,7 +19306,7 @@ differentiation_NN1
 Differentiation_NN1
 means_NN0
 inquisition_NN1
-witch-hunting_NN1-AJ0
+witch-hunting_AJ0
 denunciations_NN2
 and_CJC
 punishment_NN1
@@ -19365,7 +19365,7 @@ that_CJT
 publishes_VVZ
 Politika_NP0
 the_AT0
-chief_AJ0-NN1
+chief_NN1
 editor_NN1
 of_PRF
 the_AT0
@@ -19413,7 +19413,7 @@ from_PRP
 his_DPS
 accusers_NN2
 The_AT0
-witch-hunt_NN1-AJ0
+witch-hunt_NN1
 then_AV0
 moved_VVD
 on_PRP
@@ -19563,7 +19563,7 @@ particular_AJ0
 for_PRP
 differentiation_NN1
 the_AT0
-rooting_AJ0-NN1
+rooting_NN1
 out_AVP
 of_PRF
 opportunism_NN1
@@ -19717,7 +19717,7 @@ Kosovo_NP0
 population_NN1
 is_VBZ
 steadily_AV0
-shrinking_AJ0-NN1
+shrinking_AJ0
 In_PRP
 the_AT0
 census_NN1
@@ -19842,7 +19842,7 @@ below_AV0
 per_UNC
 cent_UNC
 The_AT0
-average_AJ0-NN1
+average_AJ0
 rate_NN1
 in_PRP
 Serbia_NP0
@@ -19926,7 +19926,7 @@ increase_NN1
 the_AT0
 Serb_NP0
 and_CJC
-Montenegrin_NN1-NP0
+Montenegrin_NP0
 population_NN1
 of_PRF
 Kosovo_NP0
@@ -19951,7 +19951,7 @@ the_AT0
 disaster_NN1
 that_CJT
 Serbian_AJ0
-nationalist_AJ0-NN1
+nationalist_AJ0
 propaganda_NN1
 makes_VVZ
 it_PNP
@@ -19994,7 +19994,7 @@ depressed_AJ0
 state_NN1
 of_PRF
 the_AT0
-Kosovan_AJ0-NN1
+Kosovan_AJ0
 economy_NN1
 and_CJC
 the_AT0
@@ -20054,7 +20054,7 @@ nationalists_NN2
 who_PNQ
 hope_VVB
 to_TO0
-drive_VVI
+drive_NN1
 them_PNP
 out_AVP
 and_CJC
@@ -20080,7 +20080,7 @@ slogans_NN2
 on_PRP
 walls_NN2
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 slogan_NN1
 is_VBZ
 Kosovo_NP0
@@ -20095,7 +20095,7 @@ and_CJC
 buses_NN2
 destroying_VVG
 tombstones_NN2
-damaging_VVG-AJ0
+damaging_AJ0
 crops_NN2
 arson_NN1
 and_CJC
@@ -20139,7 +20139,7 @@ among_PRP
 the_AT0
 Serbian_AJ0
 population_NN1
-Official_AJ0-NN1
+Official_AJ0
 figures_NN2
 for_PRP
 the_AT0
@@ -20171,7 +20171,7 @@ irredentists_NN2
 on_PRP
 Serbian_AJ0
 or_CJC
-Montenegrin_NN1-NP0
+Montenegrin_NP0
 women_NN2
 5_CRD
 were_VBD
@@ -20509,7 +20509,7 @@ in_PRP
 the_AT0
 village_NN1
 of_PRF
-Zakuti_NP0-NN1
+Zakuti_NN1
 sold_VVN
 some_DT0
 of_PRF
@@ -20528,7 +20528,7 @@ that_CJT
 this_DT0
 was_VBD
 an_AT0
-act_VVI
+act_NN1
 of_PRF
 treachery_NN1
 and_CJC
@@ -20546,7 +20546,7 @@ nationalities_NN2
 should_VM0
 be_VBI
 strictly_AV0
-enforced_AJ0
+enforced_VVN
 They_PNP
 also_AV0
 decided_VVD
@@ -20559,7 +20559,7 @@ recently_AV0
 bought_VVN
 land_NN1
 in_PRP
-Zakuti_NP0-NN1
+Zakuti_NN1
 should_VM0
 be_VBI
 boycotted_VVN
@@ -20792,7 +20792,7 @@ carrying_VVG
 out_AVP
 a_AT0
 criminal_AJ0
-act_VVI
+act_NN1
 of_PRF
 hostile_AJ0
 propaganda_NN1

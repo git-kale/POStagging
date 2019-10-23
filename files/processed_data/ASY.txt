@@ -410,7 +410,7 @@ if_CJS
 at_PRP
 all_DT0
 by_PRP
-Local_NN1-AJ0
+Local_AJ0
 Education_NN1
 Authorities_NN2
 teachers_NN2
@@ -716,7 +716,7 @@ Board_NN1
 of_PRF
 Education_NN1
 William_NP0
-Cleary_NP0-NN1
+Cleary_NP0
 Head_NN1
 of_PRF
 the_AT0
@@ -752,7 +752,7 @@ solution_NN1
 was_VBD
 a_AT0
 multilateral_AJ0
-post-primary_AJ0-NN1
+post-primary_NN1
 school_NN1
 attended_VVN
 by_PRP
@@ -830,7 +830,7 @@ advised_VVN
 the_AT0
 Minister_NN1
 to_TO0
-divide_VVI
+divide_NN1
 secondary_AJ0
 school_NN1
 children_NN2
@@ -915,7 +915,7 @@ progressive_AJ0
 development_NN1
 of_PRF
 institutions_NN2
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 that_CJT
 purpose_NN1
@@ -926,7 +926,7 @@ the_AT0
 effective_AJ0
 execution_NN1
 by_PRP
-Local_NN1-AJ0
+Local_AJ0
 Authorities_NN2
 under_PRP
 his_DPS
@@ -993,7 +993,7 @@ statutory_AJ0
 part_NN1
 of_PRF
 every_AT0
-Local_NN1-AJ0
+Local_AJ0
 Authority_NN1
 were_VBD
 extremely_AV0
@@ -1165,7 +1165,7 @@ order_NN1
 to_TO0
 understand_VVI
 our_DPS
-present_AJ0-NN1
+present_AJ0
 confusion_NN1
 it_PNP
 is_VBZ
@@ -1489,7 +1489,7 @@ time_NN1
 of_PRF
 the_AT0
 great_AJ0
-horticultural_AJ0-NN1
+horticultural_AJ0
 images_NN2
 of_PRF
 education_NN1
@@ -1536,13 +1536,13 @@ the_AT0
 seventies_CRD
 children_NN2
 were_VBD
-cultivated_AJ0
+cultivated_VVN
 at_PRP
 school_NN1
 not_XX0
 taught_VVN
 The_AT0
-Plowden_NN1-NP0
+Plowden_NP0
 Report_NN1
 on_PRP
 primary_AJ0
@@ -1572,7 +1572,7 @@ plants_NN2
 so_AV0
 according_VVG
 to_TO0
-Plowden_NN1-NP0
+Plowden_NP0
 At_PRP
 the_AT0
 heart_NN1
@@ -1641,7 +1641,7 @@ crossing_VVG
 the_AT0
 Atlantic_NP0
 held_VVN
-sway_VVI
+sway_NN1
 especially_AV0
 in_PRP
 teacher-training_AJ0
@@ -1746,7 +1746,7 @@ this_DT0
 dichotomy_NN1
 had_VHD
 simply_AV0
-withered_AJ0
+withered_VVD
 away_AV0
 The_AT0
 advance_NN1
@@ -1777,7 +1777,7 @@ abstract_AJ0
 thinking_VVG
 Therefore_AV0
 the_AT0
-pre-Renaissance_AJ0-NN1
+pre-Renaissance_AJ0
 gulf_NN1
 between_PRP
 the_AT0
@@ -1845,7 +1845,7 @@ still_AV0
 the_AT0
 kind_NN1
 of_PRF
-class-division_NN1-AJ0
+class-division_NN1
 to_TO0
 which_DTQ
 it_PNP
@@ -2410,7 +2410,7 @@ of_PRF
 the_AT0
 country_NN1
 hitherto_AV0
-ill-served_AJ0-NN1
+ill-served_NN1
 by_PRP
 grammar_NN1
 schools_NN2
@@ -2946,7 +2946,7 @@ the_AT0
 contrary_NN1
 was_VBD
 strongly_AV0
-biased_VVN-AJ0
+biased_AJ0
 in_PRP
 favour_NN1
 of_PRF
@@ -3243,7 +3243,7 @@ country_NN1
 and_CJC
 in_PRP
 different_AJ0
-Local_NN1-AJ0
+Local_AJ0
 Education_NN1
 Authorities_NN2
 Some_DT0
@@ -3404,7 +3404,7 @@ pointed_VVD
 out_AVP
 that_CJT
 in_PRP
-mixed-ability_AJ0-NN1
+mixed-ability_AJ0
 classes_NN2
 too_AV0
 little_AJ0
@@ -3448,7 +3448,7 @@ was_VBD
 a_AT0
 fairly_AV0
 strong_AJ0
-anti-intellectual_AJ0-NN1
+anti-intellectual_AJ0
 feeling_NN1
 among_PRP
 teachers_NN2
@@ -3480,7 +3480,7 @@ joined_VVD
 easily_AV0
 with_PRP
 the_AT0
-Dewey-based_AJ0-NN1
+Dewey-based_NN1
 principles_NN2
 discussed_VVN
 above_PRP
@@ -3545,7 +3545,7 @@ to_TO0
 enter_VVI
 children_NN2
 from_PRP
-deprived_AJ0
+deprived_VVN
 backgrounds_NN2
 for_PRP
 any_DT0
@@ -3867,7 +3867,7 @@ to_TO0
 do_VDB
 with_PRP
 the_AT0
-technology-based_AJ0-NN1
+technology-based_AJ0
 courses_NN2
 for_PRP
 which_DTQ
@@ -3879,7 +3879,7 @@ invented_VVN
 All_DT0
 this_DT0
 local_AJ0
-authority-financed_AJ0-NN1
+authority-financed_NN1
 expansion_NN1
 was_VBD
 subject_NN1
@@ -4052,7 +4052,7 @@ second-hand_AJ0
 the_AT0
 disturbances_NN2
 mere_AJ0
-copy-cat_AJ0-NN1
+copy-cat_AJ0
 revolts_NN2
 based_VVN
 on_PRP
@@ -4414,7 +4414,7 @@ inquiry_NN1
 but_CJC
 soon_AV0
 the_AT0
-Cockcroft_NN1-NP0
+Cockcroft_NP0
 Committee_NN1
 was_VBD
 established_VVN
@@ -4544,7 +4544,7 @@ had_VHD
 been_VBN
 possible_AJ0
 for_PRP
-Local_NN1-AJ0
+Local_AJ0
 Education_NN1
 Authorities_NN2
 to_TO0
@@ -4573,7 +4573,7 @@ very_AV0
 high-powered_AJ0
 and_CJC
 imaginative_AJ0
-Chief_NP0
+Chief_NN1
 Education_NN1
 Officers_NN2
 This_DT0
@@ -4608,7 +4608,7 @@ mixture_NN1
 of_PRF
 keen_AJ0
 Trades_NN2
-Unionist_AJ0-NN1
+Unionist_AJ0
 members_NN2
 from_PRP
 Cowley_NP0
@@ -4624,7 +4624,7 @@ university_NN1
 Guided_AJ0
 by_PRP
 the_AT0
-Chief_NP0
+Chief_NN1
 Officer_NN1
 the_AT0
 county_NN1
@@ -4754,7 +4754,7 @@ in_PRP
 the_AT0
 new_AJ0
 artificially_AV0
-contrived_VVD
+contrived_VVN
 areas_NN2
 such_DT0
 as_CJS
@@ -4762,7 +4762,7 @@ Humberside_NP0
 Avon_NP0
 Kirklees_NP0
 and_CJC
-Thamesdown_NP0-NN1
+Thamesdown_NN1
 there_EX0
 was_VBD
 no_AT0
@@ -5003,7 +5003,7 @@ shortage_NN1
 of_PRF
 good_AJ0
 people_NN0
-wanting_VVG-AJ0
+wanting_VVG
 to_TO0
 join_VVI
 the_AT0
@@ -5047,7 +5047,7 @@ get_VVI
 out_AVP
 of_PRF
 the_AT0
-present_AJ0-NN1
+present_AJ0
 mess_NN1
 This_DT0
 is_VBZ
@@ -5127,7 +5127,7 @@ of_PRF
 education_NN1
 at_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 time_NN1
 The_AT0
 first_ORD
@@ -5179,7 +5179,7 @@ the_AT0
 organization_NN1
 of_PRF
 education_NN1
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 the_AT0
 l960s_UNC
@@ -5235,7 +5235,7 @@ Manifesto_NN1
 published_VVN
 by_PRP
 the_AT0
-Hillgate_NP0-NN1
+Hillgate_NN1
 Group_NN1
 in_PRP
 1986_CRD
@@ -5415,7 +5415,7 @@ trusts_NN2
 and_CJC
 independent_AJ0
 of_PRF
-Local_NN1-AJ0
+Local_AJ0
 Authorities_NN2
 The_AT0
 money_NN1
@@ -5611,7 +5611,7 @@ dissociate_VVI
 themselves_PNX
 from_PRP
 their_DPS
-Local_NN1-AJ0
+Local_AJ0
 Authority_NN1
 and_CJC
 become_VVI
@@ -5666,7 +5666,7 @@ should_VM0
 opt_VVI
 out_AVP
 of_PRF
-Local_NN1-AJ0
+Local_AJ0
 Authority_NN1
 control_NN1
 or_CJC
@@ -5721,7 +5721,7 @@ separates_VVZ
 itself_PNX
 from_PRP
 a_AT0
-Local_NN1-AJ0
+Local_AJ0
 Authority_NN1
 unless_CJS
 doing_VDG
@@ -5737,7 +5737,7 @@ where_AVQ
 for_PRP
 instance_NN1
 a_AT0
-Local_NN1-AJ0
+Local_AJ0
 Authority_NN1
 is_VBZ
 unduly_AV0
@@ -6166,11 +6166,11 @@ free_AJ0
 themselves_PNX
 from_PRP
 their_DPS
-Local_NN1-AJ0
+Local_AJ0
 Authorities_NN2
 So_AV0
 the_AT0
-Local_NN1-AJ0
+Local_AJ0
 Authorities_NN2
 would_VM0
 be_VBI
@@ -6498,7 +6498,7 @@ not_XX0
 entail_VVI
 extremes_NN2
 of_PRF
-mixed-ability_AJ0-NN1
+mixed-ability_AJ0
 teaching_NN1
 It_PNP
 does_VDZ
@@ -6589,7 +6589,7 @@ as_CJS
 imaginative_AJ0
 and_CJC
 as_CJS
-devoted_AJ0-VVN
+devoted_AJ0
 as_CJS
 in_PRP
 any_DT0
@@ -6744,7 +6744,7 @@ school_NN1
 curriculum_NN1
 and_CJC
 however_AV0
-varied_AJ0
+varied_VVN
 and_CJC
 flexible_AJ0
 the_AT0
@@ -6841,7 +6841,7 @@ can_VM0
 learn_VVI
 from_PRP
 our_DPS
-present_AJ0-NN1
+present_AJ0
 educational_AJ0
 disarray_NN1
 is_VBZ
@@ -6948,7 +6948,7 @@ early_AJ0
 in_PRP
 1088_CRD
 entitled_VVN
-Local_NN1-AJ0
+Local_AJ0
 Management_NN1
 of_PRF
 Schools_NN2
@@ -6976,7 +6976,7 @@ option_NN1
 of_PRF
 leaving_VVG
 the_AT0
-Local_NN1-AJ0
+Local_AJ0
 Authority_NN1
 altogether_AV0
 and_CJC
@@ -7289,7 +7289,7 @@ course_NN1
 this_DT0
 makes_VVZ
 the_AT0
-present_AJ0-NN1
+present_AJ0
 situation_NN1
 sound_NN1
 dramatically_AV0
@@ -7464,7 +7464,7 @@ familiar_AJ0
 bogy_NN1
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Minister_NN1
 of_PRF
 Education_NN1
@@ -7586,7 +7586,7 @@ no_AT0
 threat_NN1
 to_TO0
 the_AT0
-Local_NN1-AJ0
+Local_AJ0
 Authorities_NN2
 who_PNQ
 have_VHB
@@ -7637,7 +7637,7 @@ education_NN1
 aimed_VVN
 towards_PRP
 stripping_VVG
-Local_NN1-AJ0
+Local_AJ0
 Authorities_NN2
 of_PRF
 their_DPS
@@ -7653,7 +7653,7 @@ have_VHB
 seen_VVN
 already_AV0
 how_AVQ
-Local_NN1-AJ0
+Local_AJ0
 Authority_NN1
 power_NN1
 has_VHZ
@@ -7682,8 +7682,8 @@ more_AV0
 political_AJ0
 The_AT0
 so-called_AJ0
-Loony_NN1-AJ0
-Left_AJ0-NN1
+Loony_NN1
+Left_AJ0
 much_DT0
 invoked_VVN
 before_PRP
@@ -7723,7 +7723,7 @@ publications_NN2
 dealing_VVG
 with_PRP
 subjects_NN2
-dear_ITJ
+dear_NN1
 to_TO0
 their_DPS
 hearts_NN2
@@ -7817,7 +7817,7 @@ In_PRP
 George_NP0
 Cooke_NP0
 once_AV0
-Chief_NP0
+Chief_NN1
 Education_NN1
 Officer_NN1
 of_PRF
@@ -7827,7 +7827,7 @@ a_AT0
 book_NN1
 with_PRP
 Peter_NP0
-Gosden_NP0-NN1
+Gosden_NN1
 on_PRP
 Education_NN1
 Committees_NN2
@@ -8152,7 +8152,7 @@ it_PNP
 will_VM0
 be_VBI
 particularly_AV0
-damaging_VVG-AJ0
+damaging_AJ0
 to_TO0
 introduce_VVI
 the_AT0
@@ -8283,7 +8283,7 @@ Chapter_NN1
 3_CRD
 but_CJC
 the_AT0
-age-related_AJ0-NN1
+age-related_AJ0
 test_NN1
 proposal_NN1
 is_VBZ
@@ -8372,7 +8372,7 @@ and_CJC
 thus_AV0
 away_AV0
 from_PRP
-Local_NN1-AJ0
+Local_AJ0
 Authorities_NN2
 as_CJS
 to_TO0
@@ -8643,7 +8643,7 @@ the_AT0
 height_NN1
 of_PRF
 the_AT0
-horticultural_AJ0-NN1
+horticultural_AJ0
 era_NN1
 of_PRF
 education_NN1
@@ -8690,7 +8690,7 @@ parse_VVI
 sentences_NN2
 in_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 language_NN1
 They_PNP
 write_VVI
@@ -8733,7 +8733,7 @@ But_CJC
 perhaps_AV0
 this_DT0
 odd_AJ0
-time-shift_NN1-AJ0
+time-shift_NN1
 on_PRP
 the_AT0
 part_NN1
@@ -8901,7 +8901,7 @@ the_AT0
 governing_AJ0
 body_NN1
 suddenly_AV0
-fall_VVI
+fall_NN1
 silent_AJ0
 Finally_AV0
 the_AT0
@@ -9015,7 +9015,7 @@ could_VM0
 not_XX0
 according_VVG
 to_TO0
-Local_NN1-AJ0
+Local_AJ0
 Authority_NN1
 policy_NN1
 accept_VVI
@@ -9077,7 +9077,7 @@ there_EX0
 are_VBB
 dangers_NN2
 in_PRP
-allotting_VVG-NN1
+allotting_VVG
 them_PNP
 too_AV0
 many_DT0
@@ -9086,7 +9086,7 @@ powers_NN2
 Even_AV0
 less_AV0
 than_CJS
-Local_NN1-AJ0
+Local_AJ0
 Authorities_NN2
 are_VBB
 they_PNP
@@ -9152,7 +9152,7 @@ help_VVI
 to_TO0
 raise_VVI
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 standard_NN1
 of_PRF
 education_NN1
@@ -9174,7 +9174,7 @@ teachers_NN2
 needed_VVN
 by_PRP
 any_DT0
-improved_AJ0
+improved_VVN
 system_NN1
 of_PRF
 school_NN1
@@ -9203,7 +9203,7 @@ under_PRP
 fire_NN1
 at_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 time_NN1
 Universities_NN2
 have_VHB
@@ -9229,7 +9229,7 @@ is_VBZ
 that_CJT
 unless_CJS
 the_AT0
-present_AJ0-NN1
+present_AJ0
 lack_NN1
 of_PRF
 respect_NN1
@@ -9375,7 +9375,7 @@ First_ORD
 there_EX0
 seems_VVZ
 at_PRP
-present_AJ0-NN1
+present_AJ0
 less_AV0
 to_TO0
 complain_VVI
@@ -9567,7 +9567,7 @@ be_VBI
 quite_AV0
 different_AJ0
 At_PRP
-present_AJ0-NN1
+present_AJ0
 all_DT0
 the_AT0
 pressure_NN1
@@ -9998,7 +9998,7 @@ when_CJS
 the_AT0
 school_NN1
 door_NN1
-closed_VVD
+closed_VVN
 for_PRP
 no_AT0
 one_CRD
@@ -10248,7 +10248,7 @@ directly_AV0
 or_CJC
 through_PRP
 the_AT0
-Local_NN1-AJ0
+Local_AJ0
 Authorities_NN2
 implement_VVI
 what_DTQ
@@ -10427,7 +10427,7 @@ may_VM0
 be_VBI
 argued_VVD
 that_CJT
-centralist_NN1-AJ0
+centralist_AJ0
 solutions_NN2
 are_VBB
 dangerous_AJ0
@@ -10450,7 +10450,7 @@ because_CJS
 in_PRP
 principle_NN1
 they_PNP
-inhibit_VVI
+inhibit_VVB
 freedom_NN1
 Now_AV0
 it_PNP
@@ -10623,7 +10623,7 @@ those_DT0
 who_PNQ
 argue_VVI
 against_PRP
-centralist_NN1-AJ0
+centralist_AJ0
 control_NN1
 of_PRF
 schools_NN2
@@ -10887,7 +10887,7 @@ education_NN1
 Yet_AV0
 it_PNP
 is_VBZ
-damaging_VVG-AJ0
+damaging_AJ0
 to_TO0
 suggest_VVI
 that_CJT
@@ -11079,7 +11079,7 @@ immediately_AV0
 he_PNP
 managed_VVD
 to_TO0
-drive_VVI
+drive_NN1
 a_AT0
 wedge_NN1
 between_PRP
@@ -11206,7 +11206,7 @@ as_CJS
 wholly_AV0
 instrumental_AJ0
 or_CJC
-other-regarding_NN1-AJ0
+other-regarding_AJ0
 Secondly_AV0
 and_CJC
 far_AV0
@@ -11298,7 +11298,7 @@ the_AT0
 person_NN1
 who_PNQ
 could_VM0
-drive_VVI
+drive_NN1
 and_CJC
 maintain_VVI
 a_AT0
@@ -11316,7 +11316,7 @@ instinctively_AV0
 held_VVN
 that_CJT
 those_DT0
-involved_AJ0
+involved_VVN
 in_PRP
 engineering_NN1
 science_NN1
@@ -11652,7 +11652,7 @@ the_AT0
 humanities_NN2
 be_VBI
 widely_AV0
-spread_NN1
+spread_VVN
 not_XX0
 confined_VVN
 to_TO0
@@ -11662,7 +11662,7 @@ of_PRF
 self-indulgers_NN2
 the_AT0
 leather_NN1
-blotter-owning_NN1-AJ0
+blotter-owning_AJ0
 classes_NN2
 To_TO0
 argue_VVI
@@ -11833,7 +11833,7 @@ of_PRF
 a_AT0
 science_NN1
 was_VBD
-twofold_AV0-AJ0
+twofold_AJ0
 first_ORD
 its_DPS
 propositions_NN2
@@ -11855,7 +11855,7 @@ time_NN1
 as_CJS
 they_PNP
 are_VBB
-refuted_VVN-AJ0
+refuted_VVN
 secondly_AV0
 it_PNP
 should_VM0
@@ -11879,7 +11879,7 @@ vague_AJ0
 and_CJC
 irrefutable_AJ0
 by_PRP
-concrete_AJ0-NN1
+concrete_AJ0
 evidence_NN1
 and_CJC
 though_CJS
@@ -12209,7 +12209,7 @@ the_AT0
 abstract_AJ0
 over_PRP
 the_AT0
-concrete_AJ0-NN1
+concrete_AJ0
 the_AT0
 theoretical_AJ0
 over_PRP
@@ -12247,7 +12247,7 @@ is_VBZ
 now_AV0
 seen_VVN
 a_AT0
-damaging_VVG-AJ0
+damaging_AJ0
 effect_NN1
 on_PRP
 schools_NN2
@@ -12271,7 +12271,7 @@ my_DPS
 view_NN1
 just_AV0
 as_CJS
-damaging_VVG-AJ0
+damaging_AJ0
 The_AT0
 dichotomy_NN1
 is_VBZ
@@ -12391,7 +12391,7 @@ between_PRP
 the_AT0
 theoretical_AJ0
 or_CJC
-intellectual_AJ0-NN1
+intellectual_AJ0
 and_CJC
 the_AT0
 practical_AJ0
@@ -12437,7 +12437,7 @@ jobs_NN2
 that_CJT
 are_VBB
 at_PRP
-present_AJ0-NN1
+present_AJ0
 unfilled_AJ0
 or_CJC
 offered_VVN
@@ -12695,7 +12695,7 @@ the_AT0
 true_AJ0
 sense_NN1
 and_CJC
-pseudo-education_NN1-AJ0
+pseudo-education_AJ0
 or_CJC
 which_DTQ
 came_VVD
@@ -12945,7 +12945,7 @@ by_PRP
 talk_VVI
 of_PRF
 the_AT0
-job-market_NN1-AJ0
+job-market_NN1
 as_CJS
 to_TO0
 forget_VVI
@@ -13563,7 +13563,7 @@ the_AT0
 spectacle_NN1
 of_PRF
 some_DT0
-drone-figure_NN1-AJ0
+drone-figure_AJ0
 sitting_VVG
 in_PRP
 a_AT0
@@ -13789,7 +13789,7 @@ and_CJC
 different_AJ0
 from_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 and_CJC
 that_CJT
 they_PNP
@@ -13856,7 +13856,7 @@ that_CJT
 one_CRD
 of_PRF
 the_AT0
-chief_AJ0-NN1
+chief_NN1
 tasks_NN2
 of_PRF
 education_NN1
@@ -13889,7 +13889,7 @@ confined_VVN
 solely_AV0
 to_TO0
 the_AT0
-present_AJ0-NN1
+present_AJ0
 a_AT0
 perception_NN1
 that_CJT
@@ -14246,8 +14246,8 @@ suspect_VVB
 activities_NN2
 of_PRF
 the_AT0
-Loony_NN1-AJ0
-Left_AJ0-NN1
+Loony_NN1
+Left_AJ0
 or_CJC
 at_PRP
 least_AV0
@@ -14283,7 +14283,7 @@ not_XX0
 only_AV0
 vocational_AJ0
 and_CJC
-future-directed_NN1-AJ0
+future-directed_NN1
 but_CJC
 strict_AJ0
 narrow_AJ0
@@ -14395,7 +14395,7 @@ a_AT0
 tick_VVB
 or_CJC
 a_AT0
-cross_VVI
+cross_NN1
 The_AT0
 demand_NN1
 for_PRP
@@ -14411,7 +14411,7 @@ a_AT0
 demand_NN1
 that_CJT
 the_AT0
-Local_NN1-AJ0
+Local_AJ0
 Education_NN1
 Authorities_NN2
 should_VM0
@@ -14567,11 +14567,11 @@ means_NN0
 this_DT0
 free_AJ0
 and_CJC
-forward-looking_AJ0-NN1
+forward-looking_AJ0
 imagination_NN1
 can_VM0
 be_VBI
-cultivated_AJ0
+cultivated_VVN
 at_PRP
 school_NN1
 Perhaps_AV0
@@ -14923,7 +14923,7 @@ who_PNQ
 are_VBB
 extremely_AV0
 socially_AV0
-deprived_AJ0
+deprived_VVN
 who_PNQ
 fail_VVI
 at_PRP
@@ -15103,7 +15103,7 @@ education_NN1
 to_TO0
 rejecting_VVG
 or_CJC
-despising_VVG-AJ0
+despising_VVG
 the_AT0
 community_NN1
 in_PRP
@@ -15188,7 +15188,7 @@ Derogatory_AJ0
 expressions_NN2
 like_PRP
 the_AT0
-rat-race_NN1-AJ0
+rat-race_NN1
 or_CJC
 the_AT0
 glittering_AJ0
@@ -15334,7 +15334,7 @@ attempts_NN2
 to_TO0
 attract_VVI
 the_AT0
-English_AJ0-NN1
+English_AJ0
 class_NN1
 by_PRP
 giving_VVG
@@ -15343,7 +15343,7 @@ things_NN2
 to_TO0
 read_VVI
 or_CJC
-act_VVI
+act_NN1
 that_CJT
 will_VM0
 speak_VVI
@@ -15466,7 +15466,7 @@ abstract_AJ0
 must_VM0
 be_VBI
 made_VVN
-concrete_AJ0-NN1
+concrete_AJ0
 by_PRP
 examples_NN2
 No_ITJ
@@ -15646,7 +15646,7 @@ points_NN2
 Shouting_VVG
 across_PRP
 a_AT0
-culture-gap_NN1-AJ0
+culture-gap_AJ0
 sounds_VVZ
 bad_AJ0
 But_CJC
@@ -15699,7 +15699,7 @@ or_CJC
 who_PNQ
 hardly_AV0
 speaks_VVZ
-English_AJ0-NN1
+English_AJ0
 at_PRP
 all_DT0
 must_VM0
@@ -15721,7 +15721,7 @@ become_VVI
 bilingual_AJ0
 able_AJ0
 to_TO0
-switch_VVI
+switch_NN1
 as_CJS
 the_AT0
 occasion_NN1
@@ -15923,7 +15923,7 @@ good_AJ0
 of_PRF
 your_DPS
 endless_AJ0
-French_AJ0-NN1
+French_AJ0
 lessons_NN2
 when_CJS
 you_PNP
@@ -16036,7 +16036,7 @@ more_AV0
 than_CJS
 the_AT0
 bare_AJ0
-minimum_AJ0-NN1
+minimum_AJ0
 A_AT0
 criterion_NN1
 of_PRF
@@ -16276,7 +16276,7 @@ to_TO0
 bring_VVI
 about_PRP
 The_AT0
-concrete_AJ0-NN1
+concrete_AJ0
 practical_AJ0
 and_CJC
 technological_AJ0
@@ -16424,7 +16424,7 @@ are_VBB
 seen_VVN
 as_CJS
 primarily_AV0
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 academic_AJ0
 standards_NN2
@@ -16522,7 +16522,7 @@ practical_AJ0
 as_CJS
 well_AV0
 as_CJS
-intellectual_AJ0-NN1
+intellectual_AJ0
 needs_VVZ
 At_PRP
 the_AT0
@@ -16891,7 +16891,7 @@ able_AJ0
 being_VBG
 left_VVN
 to_TO0
-shift_NN1-VVB
+shift_NN1
 for_PRP
 themselves_PNX
 No_ITJ
@@ -17014,7 +17014,7 @@ increasingly_AV0
 confused_AJ0
 and_CJC
 potentially_AV0
-damaging_VVG-AJ0
+damaging_AJ0
 in_PRP
 the_AT0
 early_AJ0
@@ -17102,7 +17102,7 @@ these_DT0
 schemes_NN2
 to_TO0
 develop_VVI
-skill-training_NN1-AJ0
+skill-training_AJ0
 to_TO0
 provide_VVI
 further_AJC
@@ -17148,7 +17148,7 @@ still_AV0
 organized_VVN
 by_PRP
 the_AT0
-MSC_NN1-NP0
+MSC_NP0
 was_VBD
 a_AT0
 scheme_NN1
@@ -17194,7 +17194,7 @@ sixth_ORD
 form_NN1
 aimed_VVN
 at_PRP
-technology-related_NN1-AJ0
+technology-related_NN1
 A_AT0
 levels_NN2
 or_CJC
@@ -17304,7 +17304,7 @@ is_VBZ
 high_AJ0
 time_NN1
 to_TO0
-drop_VVI
+drop_NN1
 the_AT0
 distinction_NN1
 between_PRP
@@ -17431,7 +17431,7 @@ greater_AJC
 or_CJC
 lesser_AJ0
 degree_NN1
-intellectual_AJ0-NN1
+intellectual_AJ0
 or_CJC
 theoretical_AJ0
 The_AT0
@@ -17484,14 +17484,14 @@ etymologically_AV0
 correct_AJ0
 sense_NN1
 of_PRF
-skill-based_NN1-AJ0
+skill-based_NN1
 Technology_NN1
 itself_PNX
 may_VM0
 be_VBI
 up-to-date_AJ0
 chip-bound_AJ0
-computer-orientated_NN1-AJ0
+computer-orientated_NN1
 or_CJC
 it_PNP
 may_VM0
@@ -17554,7 +17554,7 @@ may_VM0
 after_PRP
 all_DT0
 competently_AV0
-drive_VVI
+drive_NN1
 a_AT0
 car_NN1
 without_PRP
@@ -17649,7 +17649,7 @@ that_CJT
 lies_VVZ
 behind_PRP
 them_PNP
-Learning_VVG-NN1
+Learning_NN1
 to_TO0
 use_NN1
 the_AT0
@@ -17728,7 +17728,7 @@ the_AT0
 German_AJ0
 distinction_NN1
 between_PRP
-Wissenschaft_NP0-NN1
+Wissenschaft_NN1
 that_CJT
 is_VBZ
 knowledge_NN1
@@ -17746,7 +17746,7 @@ literature_NN1
 or_CJC
 physics_NN1
 and_CJC
-Technik_NP0-NN1
+Technik_NP0
 the_AT0
 ability_NN1
 to_TO0
@@ -17759,7 +17759,7 @@ machine-tools_NN2
 architectural_AJ0
 drawings_NN2
 or_CJC
-stage-scenery_NN1-AJ0
+stage-scenery_NN1
 Such_DT0
 ability_NN1
 may_VM0
@@ -17832,11 +17832,11 @@ theoretical_AJ0
 the_AT0
 teaching_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 The_AT0
 state_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 teaching_NN1
 in_PRP
 schools_NN2
@@ -18092,7 +18092,7 @@ In_PRP
 the_AT0
 teaching_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 then_AV0
 I_PNP
 believe_VVB
@@ -18169,7 +18169,7 @@ the_AT0
 intention_NN1
 of_PRF
 practical_AJ0
-English_AJ0-NN1
+English_AJ0
 must_VM0
 be_VBI
 to_TO0
@@ -18222,7 +18222,7 @@ or_CJC
 A_AT0
 level_NN1
 in_PRP
-English_AJ0-NN1
+English_AJ0
 questions_NN2
 about_PRP
 the_AT0
@@ -18314,7 +18314,7 @@ The_AT0
 dismal_AJ0
 nature_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 teaching_NN1
 for_PRP
 O_ZZ0
@@ -18430,7 +18430,7 @@ on_PRP
 the_AT0
 teaching_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 published_VVN
 in_PRP
 1987_CRD
@@ -18446,7 +18446,7 @@ teaching_NN1
 for_PRP
 A_AT0
 level_NN1
-English_AJ0-NN1
+English_AJ0
 Teachers_NN2
 spend_VVI
 too_AV0
@@ -18493,7 +18493,7 @@ therefore_AV0
 have_VHB
 to_TO0
 be_VBI
-paraphrased_AJ0-VVN
+paraphrased_VVN
 line_NN1
 by_PRP
 line_NN1
@@ -18751,7 +18751,7 @@ bear_VVI
 and_CJC
 other_AJ0
 well-known_AJ0
-punning_AJ0-NN1
+punning_NN1
 equivalents_NN2
 beloved_AJ0
 of_PRF
@@ -19019,11 +19019,11 @@ seen_VVN
 Their_DPS
 stories_NN2
 were_VBD
-taped_VVN-AJ0
+taped_VVN
 and_CJC
 then_AV0
 transcribed_VVN
-verbatim_AV0-AJ0
+verbatim_AJ0
 They_PNP
 then_AV0
 set_VVN
@@ -19186,9 +19186,9 @@ including_PRP
 the_AT0
 use_NN1
 of_PRF
-tenses_NN2-VVZ
+tenses_NN2
 negatives_NN2
-hypotheticals_NN2-VVZ
+hypotheticals_NN2
 which_DTQ
 children_NN2
 pick_VVI
@@ -19492,7 +19492,7 @@ is_VBZ
 strictly_AV0
 meaningless_AJ0
 I_PNP
-feel_VVI
+feel_VVB
 genuinely_AV0
 hostile_AJ0
 to_TO0
@@ -19678,7 +19678,7 @@ everyone_PNI
 ought_VM0
 to_TO0
 study_NN1
-English_AJ0-NN1
+English_AJ0
 in_PRP
 this_DT0
 basic_AJ0
@@ -19721,7 +19721,7 @@ should_VM0
 read_VVI
 the_AT0
 classic_AJ0
-English_AJ0-NN1
+English_AJ0
 novels_NN2
 than_CJS
 why_AVQ
@@ -19731,7 +19731,7 @@ be_VBI
 acquainted_VVN
 with_PRP
 classic_AJ0
-English_AJ0-NN1
+English_AJ0
 paintings_NN2
 or_CJC
 music_NN1
@@ -19818,7 +19818,7 @@ on_PRP
 the_AT0
 teaching_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 as_CJS
 exemplifying_VVG
 in_PRP
@@ -19916,7 +19916,7 @@ he_PNP
 will_VM0
 be_VBI
 seeking_VVG
-Wissenschaft_NP0-NN1
+Wissenschaft_NN1
 he_PNP
 must_VM0
 be_VBI
@@ -20069,7 +20069,7 @@ examining_VVG
 A_AT0
 levels_NN2
 the_AT0
-Higginson_NP0-NN1
+Higginson_NP0
 Committee_NN1
 But_CJC
 the_AT0
@@ -20088,7 +20088,7 @@ A_AT0
 levels_NN2
 could_VM0
 be_VBI
-improved_AJ0
+improved_VVN
 in_PRP
 order_NN1
 that_CJT
@@ -20191,7 +20191,7 @@ the_AT0
 outcome_NN1
 of_PRF
 the_AT0
-Higginson_NP0-NN1
+Higginson_NP0
 Committee_NN1
 's_POS
 inquiry_NN1
@@ -20408,7 +20408,7 @@ must_VM0
 not_XX0
 be_VBI
 a_AT0
-substitute_NN1-AJ0
+substitute_NN1
 for_PRP
 either_AV0
 accuracy_NN1
@@ -20442,8 +20442,8 @@ the_AT0
 merit_NN1
 of_PRF
 an_AT0
-English_AJ0-NN1
-sixth-form_AJ0-NN1
+English_AJ0
+sixth-form_AJ0
 education_NN1
 is_VBZ
 that_CJT
@@ -20455,12 +20455,12 @@ think_VVB
 for_PRP
 themselves_PNX
 At_PRP
-present_AJ0-NN1
+present_AJ0
 there_EX0
 is_VBZ
 an_AT0
 ever_AV0
-diminishing_AJ0-VVG
+diminishing_AJ0
 justification_NN1
 for_PRP
 such_DT0
@@ -20538,7 +20538,7 @@ educationalist_NN1
 and_CJC
 philosopher_NN1
 John_NP0
-Burnet_NP0-NN1
+Burnet_NN1
 once_AV0
 drew_VVD
 a_AT0
@@ -20565,7 +20565,7 @@ is_VBZ
 the_AT0
 same_DT0
 as_CJS
-specialist_NN1-AJ0
+specialist_NN1
 knowledge_NN1
 It_PNP
 is_VBZ
@@ -20585,11 +20585,11 @@ other_AJ0
 hand_NN1
 is_VBZ
 essentially_AV0
-generalist_NN1-AJ0
+generalist_NN1
 He_PNP
 held_VVN
 that_CJT
-generalist_NN1-AJ0
+generalist_NN1
 knowledge_NN1
 must_VM0
 take_VVI
@@ -20614,7 +20614,7 @@ was_VBD
 thought_VVD
 that_CJT
 the_AT0
-generalist_NN1-AJ0
+generalist_NN1
 could_VM0
 whenever_AVQ
 he_PNP
@@ -20622,7 +20622,7 @@ wanted_VVD
 to_TO0
 add_VVI
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 dimension_NN1
 to_TO0
 his_DPS
@@ -20637,7 +20637,7 @@ to_TO0
 derive_VVB
 from_PRP
 the_AT0
-specialist_NN1-AJ0
+specialist_NN1
 Today_AV0
 the_AT0
 word_NN1
@@ -20668,7 +20668,7 @@ rated_VVN
 lower_AJC
 than_CJS
 any_DT0
-specialist_NN1-AJ0
+specialist_NN1
 degree_NN1
 however_AV0
 dismal_AJ0
@@ -20704,7 +20704,7 @@ other_AJ0
 side_NN1
 of_PRF
 the_AT0
-divide_VVI
+divide_NN1
 would_VM0
 come_VVI
 the_AT0
@@ -20712,13 +20712,13 @@ interested_AJ0
 the_AT0
 useful_AJ0
 the_AT0
-specialist_NN1-AJ0
+specialist_NN1
 and_CJC
 the_AT0
 practical_AJ0
 We_PNP
 may_VM0
-feel_VVI
+feel_VVB
 that_CJT
 there_EX0
 are_VBB
@@ -20741,7 +20741,7 @@ to_TO0
 line_NN1
 up_AVP
 the_AT0
-specialist_NN1-AJ0
+specialist_NN1
 with_PRP
 the_AT0
 practical_AJ0
@@ -20749,7 +20749,7 @@ the_AT0
 theoretical_AJ0
 with_PRP
 the_AT0
-generalist_NN1-AJ0
+generalist_NN1
 may_VM0
 throw_VVI
 light_NN1
@@ -20954,7 +20954,7 @@ notion_NN1
 that_CJT
 the_AT0
 highest_AJS
-intellectual_AJ0-NN1
+intellectual_AJ0
 achievement_NN1
 is_VBZ
 that_CJT
@@ -21038,11 +21038,11 @@ the_AT0
 role_NN1
 of_PRF
 the_AT0
-popularizing_VVG-AJ0
+popularizing_AJ0
 author_NN1
 or_CJC
 the_AT0
-television-style_AJ0-NN1
+television-style_NN1
 simplifier_NN1
 of_PRF
 the_AT0
@@ -21087,7 +21087,7 @@ leave_VVI
 the_AT0
 world_NN1
 of_PRF
-concrete_AJ0-NN1
+concrete_AJ0
 numerable_AJ0
 objects_NN2
 and_CJC
@@ -21172,7 +21172,7 @@ communication_NN1
 consequent_AJ0
 on_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 A_AT0
 level_NN1
 curriculum_NN1
@@ -21250,7 +21250,7 @@ it_PNP
 would_VM0
 improve_VVI
 communication_NN1
-Subject_AJ0
+Subject_NN1
 matter_NN1
 has_VHZ
 to_TO0
@@ -21290,7 +21290,7 @@ of_PRF
 the_AT0
 principles_NN2
 that_CJT
-lie_VVI
+lie_VVB
 behind_PRP
 both_AV0
 the_AT0
@@ -21404,7 +21404,7 @@ who_PNQ
 called_VVN
 themselves_PNX
 the_AT0
-Hillgate_NP0-NN1
+Hillgate_NN1
 Group_NN1
 published_VVN
 their_DPS
@@ -21455,7 +21455,7 @@ that_CJT
 instead_AV0
 of_PRF
 such_DT0
-infantilizing_AJ0-NN1
+infantilizing_VVG
 nonsense_NN1
 the_AT0
 difficult_AJ0
@@ -21534,7 +21534,7 @@ of_PRF
 these_DT0
 might_VM0
 be_VBI
-devoted_AJ0-VVN
+devoted_AJ0
 exclusively_AV0
 to_TO0
 science_NN1
@@ -21563,7 +21563,7 @@ in_PRP
 parts_NN2
 of_PRF
 the_AT0
-ILEA_NP0-NN1
+ILEA_NN1
 and_CJC
 to_TO0
 expose_VVI
@@ -21613,7 +21613,7 @@ suggested_VVN
 the_AT0
 same_DT0
 as_CJS
-infantilizing_AJ0-NN1
+infantilizing_VVG
 it_PNP
 making_VVG
 it_PNP
@@ -21772,7 +21772,7 @@ and_CJC
 a_AT0
 grasp_NN1
 of_PRF
-intellectual_AJ0-NN1
+intellectual_AJ0
 principles_NN2
 that_CJT
 may_VM0
@@ -22208,7 +22208,7 @@ at_PRP
 school_NN1
 in_PRP
 a_AT0
-generalist_NN1-AJ0
+generalist_NN1
 manner_NN1
 links_NN2
 being_VBG
@@ -22371,7 +22371,7 @@ of_PRF
 some_DT0
 of_PRF
 the_AT0
-Wissenschaft_NP0-NN1
+Wissenschaft_NN1
 the_AT0
 actual_AJ0
 knowledge_NN1
@@ -22540,7 +22540,7 @@ to_TO0
 new_AJ0
 and_CJC
 hitherto_AV0
-unthought_VVN-VVD
+unthought_VVD
 of_PRF
 situations_NN2
 This_DT0
@@ -22561,7 +22561,7 @@ nearest_AJS
 to_TO0
 meeting_NN1
 the_AT0
-varying_AJ0-VVG
+varying_AJ0
 needs_VVZ
 of_PRF
 the_AT0
@@ -22704,10 +22704,10 @@ new_AJ0
 way_NN1
 are_VBB
 to_TO0
-fall_VVI
+fall_NN1
 altogether_AV0
 outside_PRP
-Local_NN1-AJ0
+Local_AJ0
 Authority_NN1
 control_NN1
 and_CJC
@@ -22718,7 +22718,7 @@ implies_VVZ
 are_VBB
 to_TO0
 be_VBI
-devoted_AJ0-VVN
+devoted_AJ0
 primarily_AV0
 to_TO0
 preparing_VVG
@@ -22741,7 +22741,7 @@ of_PRF
 children_NN2
 in_PRP
 the_AT0
-deprived_AJ0
+deprived_VVN
 inner_AJ0
 cities_NN2
 when_CJS
@@ -22780,7 +22780,7 @@ inner_AJ0
 cities_NN2
 down_AVP
 with_PRP
-Local_NN1-AJ0
+Local_AJ0
 Authorities_NN2
 up_AVP
 with_PRP
@@ -22824,7 +22824,7 @@ schools_NN2
 were_VBD
 outlined_VVN
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 aim_NN1
 was_VBD
 said_VVD
@@ -22856,7 +22856,7 @@ more_AV0
 likely_AJ0
 to_TO0
 be_VBI
-improved_AJ0
+improved_VVN
 it_PNP
 was_VBD
 said_VVD
@@ -23062,7 +23062,7 @@ the_AT0
 arts_NN2
 subjects_NN2
 including_PRP
-English_AJ0-NN1
+English_AJ0
 and_CJC
 games_NN2
 and_CJC
@@ -23373,7 +23373,7 @@ actually_AV0
 become_VVI
 so_AV0
 The_AT0
-Local_NN1-AJ0
+Local_AJ0
 Authority_NN1
 will_VM0
 not_XX0
@@ -23841,7 +23841,7 @@ totally_AV0
 secular_AJ0
 after_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 manner_NN1
 Not_XX0
 only_AV0
@@ -23948,7 +23948,7 @@ is_VBZ
 worth_PRP
 considering_VVG
 the_AT0
-French_AJ0-NN1
+French_AJ0
 model_NN1
 since_CJS
 with_PRP
@@ -23972,7 +23972,7 @@ day_NN1
 to_TO0
 devote_VVI
 to_TO0
-non-specialist_NN1-AJ0
+non-specialist_AJ0
 teaching_NN1
 and_CJC
 with_PRP
@@ -24031,7 +24031,7 @@ society_NN1
 that_CJT
 is_VBZ
 increasingly_AV0
-mixed_AJ0
+mixed_VVN
 in_PRP
 terms_NN2
 of_PRF
@@ -24126,7 +24126,7 @@ sectarian_AJ0
 In_PRP
 a_AT0
 class_NN1
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 vaguely-worded_AJ0
 comparisons_NN2
@@ -24232,7 +24232,7 @@ be_VBI
 compulsory_AJ0
 as_CJS
 an_AT0
-act_VVI
+act_NN1
 of_PRF
 worship_NN1
 largely_AV0
@@ -24314,7 +24314,7 @@ Anglo-Catholicism_NP0
 for_PRP
 fear_NN1
 of_PRF
-offending_AJ0-NN1
+offending_AJ0
 the_AT0
 sectarian_AJ0
 passions_NN2
@@ -24597,7 +24597,7 @@ in_PRP
 no_AT0
 sense_NN1
 involves_VVZ
-proselytizing_VVG-NN1
+proselytizing_VVG
 Children_NN2
 are_VBB
 not_XX0
@@ -24784,7 +24784,7 @@ makes_VVZ
 it_PNP
 possible_AJ0
 to_TO0
-present_AJ0-NN1
+present_AJ0
 these_DT0
 anew_AV0
 both_AV0
@@ -24835,7 +24835,7 @@ makes_VVZ
 it_PNP
 possible_AJ0
 to_TO0
-present_AJ0-NN1
+present_AJ0
 Christianity_NN1
 both_AV0
 as_CJS
@@ -25335,7 +25335,7 @@ have_VHB
 no_AT0
 other_AJ0
 loyalty_NN1
-French_AJ0-NN1
+French_AJ0
 teachers_NN2
 being_VBG
 civil_AJ0
@@ -25389,7 +25389,7 @@ professionalism_NN1
 if_CJS
 they_PNP
 were_VBD
-involved_AJ0
+involved_VVN
 in_PRP
 purely_AV0
 supervisory_AJ0
@@ -25565,7 +25565,7 @@ school_NN1
 the_AT0
 more_AV0
 deeply_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 extra-curricular_AJ0
 activities_NN2
@@ -25615,7 +25615,7 @@ not_XX0
 much_DT0
 like_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 way_NN1
 With_PRP
 our_DPS
@@ -25626,7 +25626,7 @@ centralization_NN1
 both_AV0
 as_CJS
 an_AT0
-interim_AJ0-NN1
+interim_AJ0
 in_PRP
 the_AT0
 matter_NN1
@@ -25650,7 +25650,7 @@ removal_NN1
 of_PRF
 powers_NN2
 from_PRP
-Local_NN1-AJ0
+Local_AJ0
 Authorities_NN2
 it_PNP
 may_VM0
@@ -25663,7 +25663,7 @@ imperceptibly_AV0
 going_VVG
 down_AVP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 road_NN1
 I_PNP
 doubt_NN1
@@ -25792,7 +25792,7 @@ Many_DT0
 teachers_NN2
 themselves_PNX
 will_VM0
-regret_VVI
+regret_NN1
 the_AT0
 change_NN1
 There_EX0
@@ -25854,7 +25854,7 @@ are_VBB
 many_DT0
 who_PNQ
 will_VM0
-regret_VVI
+regret_NN1
 the_AT0
 end_NN1
 of_PRF
@@ -25910,7 +25910,7 @@ professional_AJ0
 teacher_NN1
 in_PRP
 a_AT0
-French_AJ0-NN1
+French_AJ0
 school_NN1
 may_VM0
 be_VBI
@@ -25948,7 +25948,7 @@ of_PRF
 teachers_NN2
 on_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 model_NN1
 and_CJC
 thus_AV0
@@ -26209,7 +26209,7 @@ as_CJS
 many_DT0
 do_VDB
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 moral_AJ0
 and_CJC
 social_AJ0
@@ -26327,7 +26327,7 @@ based_VVN
 on_PRP
 local_AJ0
 or_CJC
-in-school_AJ0-NN1
+in-school_AJ0
 planning_NN1
 is_VBZ
 generally_AV0
@@ -26496,7 +26496,7 @@ by_PRP
 a_AT0
 system_NN1
 whose_DTQ
-merit-order_NN1-AJ0
+merit-order_AJ0
 and_CJC
 pass-lists_NN2
 were_VBD
@@ -26742,7 +26742,7 @@ that_CJT
 will_VM0
 encourage_VVI
 not_XX0
-inhibit_VVI
+inhibit_VVB
 the_AT0
 development_NN1
 of_PRF
@@ -26815,7 +26815,7 @@ be_VBI
 restrictive_AJ0
 is_VBZ
 by_PRP
-in-school_AJ0-NN1
+in-school_AJ0
 assessment_NN1
 Teachers_NN2
 within_PRP
@@ -26960,7 +26960,7 @@ groups_NN2
 of_PRF
 schools_NN2
 or_CJC
-Local_NN1-AJ0
+Local_AJ0
 Authorities_NN2
 in_PRP
 England_NP0
@@ -27035,7 +27035,7 @@ part_NN1
 in_PRP
 extra-curricular_AJ0
 activities_NN2
-Local_NN1-AJ0
+Local_AJ0
 opinion_NN1
 on_PRP
 how_AVQ
@@ -27229,10 +27229,10 @@ In_PRP
 David_NP0
 Hargreaves_NP0
 formerly_AV0
-Chief_NP0
+Chief_NN1
 Inspector_NP0
 in_PRP
-ILEA_NP0-NN1
+ILEA_NN1
 and_CJC
 now_AV0
 Professor_NP0
@@ -27291,7 +27291,7 @@ loyalty_NN1
 dependability_NN1
 and_CJC
 leadership_NN1
-scouting_VVG-AJ0
+scouting_AJ0
 and_CJC
 guiding_AJ0
 playing_VVG
@@ -27524,7 +27524,7 @@ profiles_NN2
 or_CJC
 any_DT0
 other_AJ0
-in-school_AJ0-NN1
+in-school_AJ0
 method_NN1
 of_PRF
 assessment_NN1
@@ -27602,10 +27602,10 @@ her_DPS
 article_NN1
 Alternatives_NN2
 to_TO0
-Public_AJ0-NN1
+Public_AJ0
 Examinations_NN2
 Patricia_NP0
-Broadfoot_NP0-NN1
+Broadfoot_NP0
 of_PRF
 Bristol_NP0
 University_NN1
@@ -27619,7 +27619,7 @@ profiling_VVG
 and_CJC
 the_AT0
 new_AJ0
-French_AJ0-NN1
+French_AJ0
 system_NN1
 of_PRF
 orientation_NN1
@@ -27714,7 +27714,7 @@ and_CJC
 the_AT0
 goats_NN2
 Patricia_NP0
-Broadfoot_NP0-NN1
+Broadfoot_NP0
 comments_NN2
 Orientation_NN1
 operates_VVZ
@@ -27779,7 +27779,7 @@ I_PNP
 am_VBB
 convinced_AJ0
 that_CJT
-pupil-profiling_AJ0-NN1
+pupil-profiling_NN1
 alone_AJ0
 can_VM0
 not_XX0
@@ -27879,7 +27879,7 @@ more_AV0
 relevant_AJ0
 to_TO0
 the_AT0
-present_AJ0-NN1
+present_AJ0
 enquiry_NN1
 the_AT0
 less_AV0
@@ -27905,7 +27905,7 @@ outside_PRP
 school_NN1
 which_DTQ
 will_VM0
-act_VVI
+act_NN1
 as_CJS
 an_AT0
 incentive_NN1
@@ -28038,7 +28038,7 @@ well_AV0
 since_CJS
 on_PRP
 them_PNP
-depended_VVN-VVD
+depended_VVD
 the_AT0
 award_NN1
 of_PRF
@@ -28056,7 +28056,7 @@ awards_NN2
 In_PRP
 1958_CRD
 the_AT0
-Beloe_NP0-NN1
+Beloe_NP0
 committee_NN1
 was_VBD
 set_VVN
@@ -28077,7 +28077,7 @@ a_AT0
 result_NN1
 of_PRF
 the_AT0
-Beloe_NP0-NN1
+Beloe_NP0
 report_NN1
 published_VVN
 in_PRP
@@ -28237,7 +28237,7 @@ after_PRP
 the_AT0
 introduction_NN1
 and_CJC
-spread_NN1
+spread_VVN
 of_PRF
 comprehensive_AJ0
 schools_NN2
@@ -28860,7 +28860,7 @@ of_PRF
 a_AT0
 combination_NN1
 of_PRF
-course-work_NN1-AJ0
+course-work_AJ0
 assessed_VVN
 by_PRP
 teachers_NN2
@@ -28901,7 +28901,7 @@ used_VVN
 continuous_AJ0
 assessment_NN1
 of_PRF
-course-work_NN1-AJ0
+course-work_AJ0
 as_CJS
 part_NN1
 of_PRF
@@ -28955,7 +28955,7 @@ new_AJ0
 The_AT0
 purpose_NN1
 of_PRF
-course-work_NN1-AJ0
+course-work_AJ0
 assessment_NN1
 in_PRP
 the_AT0
@@ -28972,7 +28972,7 @@ Council_NN1
 1985_CRD
 publication_NN1
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 aim_NN1
 was_VBD
 to_TO0
@@ -29009,7 +29009,7 @@ In_PRP
 an_AT0
 article_NN1
 entitled_VVN
-Coursework_NP0-NN1
+Coursework_NP0
 Tim_NP0
 Horton_NP0
 writes_VVZ
@@ -29020,7 +29020,7 @@ storing_VVG
 retrieving_VVG
 and_CJC
 analysing_VVG
-course-work_NN1-AJ0
+course-work_AJ0
 marks_NN2
 could_VM0
 impose_VVI
@@ -29073,7 +29073,7 @@ difficulty_NN1
 shared_VVN
 by_PRP
 all_DT0
-course-work_NN1-AJ0
+course-work_AJ0
 assessment_NN1
 schemes_NN2
 at_PRP
@@ -29087,7 +29087,7 @@ is_VBZ
 largely_AV0
 determined_VVN
 by_PRP
-course-work_NN1-AJ0
+course-work_AJ0
 marks_NN2
 how_AVQ
 are_VBB
@@ -29159,9 +29159,9 @@ Economic_AJ0
 Significance_NN1
 of_PRF
 the_AT0
-English_AJ0-NN1
-Watering_VVG-NN1
-Place'_NP0-NN1
+English_AJ0
+Watering_VVG
+Place'_NP0
 The_AT0
 early_AJ0
 efforts_NN2
@@ -29193,7 +29193,7 @@ judgement_NN1
 that_CJT
 make_VVI
 the_AT0
-course-work_NN1-AJ0
+course-work_AJ0
 component_NN1
 in_PRP
 examinations_NN2
@@ -29347,7 +29347,7 @@ candidates_NN2
 whatever_DTQ
 their_DPS
 ability_NN1
-relative_AJ0-NN1
+relative_AJ0
 to_TO0
 other_AJ0
 candidates_NN2
@@ -29469,7 +29469,7 @@ to_TO0
 be_VBI
 considered_VVN
 the_AT0
-average_AJ0-NN1
+average_AJ0
 grade_NN1
 in_PRP
 the_AT0
@@ -29486,7 +29486,7 @@ CSE_NN1
 grade_NN1
 5_CRD
 below_AV0
-average_AJ0-NN1
+average_AJ0
 and_CJC
 there_EX0
 is_VBZ
@@ -29637,7 +29637,7 @@ they_PNP
 had_VHD
 been_VBN
 wrongly_AV0
-deselected_VVD-VVN
+deselected_VVN
 away_AV0
 from_PRP
 O_ZZ0
@@ -29689,7 +29689,7 @@ grade_NN1
 E_ZZ0
 was_VBD
 of_PRF
-average_AJ0-NN1
+average_AJ0
 ability_NN1
 CSE_NN1
 grade_NN1
@@ -29714,7 +29714,7 @@ should_VM0
 come_VVI
 out_AVP
 as_CJS
-average_AJ0-NN1
+average_AJ0
 Such_DT0
 an_AT0
 equivalence_NN1
@@ -29815,7 +29815,7 @@ teachers_NN2
 will_VM0
 be_VBI
 advising_VVG
-average_AJ0-NN1
+average_AJ0
 pupils_NN2
 not_XX0
 to_TO0
@@ -29910,7 +29910,7 @@ different_AJ0
 according_VVG
 to_TO0
 the_AT0
-varied_AJ0
+varied_VVN
 subject_NN1
 matter_NN1
 of_PRF
@@ -29927,7 +29927,7 @@ part_NN1
 of_PRF
 one_CRD
 fairly_AV0
-characteristic_AJ0-NN1
+characteristic_NN1
 set_VVN
 The_AT0
 criteria_NN2
@@ -30064,7 +30064,7 @@ At_PRP
 grade_NN1
 F_ZZ0
 the_AT0
-average_AJ0-NN1
+average_AJ0
 grade_NN1
 in_PRP
 contrast_NN1
@@ -30261,7 +30261,7 @@ purpose_NN1
 of_PRF
 assessing_VVG
 the_AT0
-course-work_NN1-AJ0
+course-work_AJ0
 component_NN1
 of_PRF
 the_AT0
@@ -30307,7 +30307,7 @@ be_VBI
 examined_VVN
 whether_CJS
 as_CJS
-course-work_NN1-AJ0
+course-work_AJ0
 or_CJC
 examination_NN1
 scripts_NN2
@@ -30332,7 +30332,7 @@ cause_NN1
 and_CJC
 occasion_NN1
 the_AT0
-average_AJ0-NN1
+average_AJ0
 candidate_NN1
 on_PRP
 the_AT0
@@ -30368,7 +30368,7 @@ do_VDB
 the_AT0
 former_DT0
 The_AT0
-average_AJ0-NN1
+average_AJ0
 candidate_NN1
 has_VHZ
 to_TO0
@@ -30416,7 +30416,7 @@ then_AV0
 surely_AV0
 even_AV0
 the_AT0
-average_AJ0-NN1
+average_AJ0
 candidate_NN1
 must_VM0
 know_VVI
@@ -30597,7 +30597,7 @@ a_AT0
 candidate_NN1
 not_XX0
 so_AV0
-ear-marked_VVD-AJ0
+ear-marked_AJ0
 may_VM0
 sink_NN1
 to_TO0
@@ -30658,10 +30658,10 @@ picked_VVD
 out_AVP
 on_PRP
 his_DPS
-course-work_NN1-AJ0
+course-work_AJ0
 But_CJC
 his_DPS
-course-work_NN1-AJ0
+course-work_AJ0
 ought_VM0
 not_XX0
 to_TO0
@@ -30893,7 +30893,7 @@ divisions_NN2
 in_PRP
 the_AT0
 past_NN1
-characteristic_AJ0-NN1
+characteristic_NN1
 more_AV0
 of_PRF
 GCE_NN1
@@ -31008,12 +31008,12 @@ to_TO0
 be_VBI
 in_PRP
 part_NN1
-wedded_VVN-AJ0
+wedded_VVN
 to_TO0
 tradition_NN1
 and_CJC
 the_AT0
-conservation_AJ0-NN1
+conservation_NN1
 of_PRF
 the_AT0
 old_AJ0
@@ -31192,7 +31192,7 @@ with_PRP
 its_DPS
 emphasis_NN1
 on_PRP
-course-work_NN1-AJ0
+course-work_AJ0
 continuous_AJ0
 assessment_NN1
 and_CJC
@@ -31405,7 +31405,7 @@ perfectly_AV0
 general_AJ0
 responsibility_NN1
 for_PRP
-disseminating_VVG-AJ0
+disseminating_VVG
 among_PRP
 schools_NN2
 up-to-date_AJ0
@@ -31423,7 +31423,7 @@ more_AV0
 specifically_AV0
 through_PRP
 the_AT0
-Local_NN1-AJ0
+Local_AJ0
 Examination_NN1
 Boards_NN2
 they_PNP
@@ -31783,7 +31783,7 @@ was_VBD
 welcome_AJ0
 and_CJC
 indeed_AV0
-government-inspired_NN1-AJ0
+government-inspired_NN1
 Good_AJ0
 schools_NN2
 would_VM0
@@ -31795,7 +31795,7 @@ be_VBI
 useful_AJ0
 practical_AJ0
 and_CJC
-self-motivated_NN1-AJ0
+self-motivated_NN1
 Universities_NN2
 were_VBD
 genuinely_AV0
@@ -31836,7 +31836,7 @@ a_AT0
 much_DT0
 more_AV0
 important_AJ0
-shift_NN1-VVB
+shift_NN1
 of_PRF
 power_NN1
 away_AV0
@@ -32024,7 +32024,7 @@ as_CJS
 children_NN2
 to_TO0
 be_VBI
-spoon-fed_VVN-AJ0
+spoon-fed_AJ0
 and_CJC
 this_DT0
 in_PRP
@@ -32066,7 +32066,7 @@ can_VM0
 thus_AV0
 accumulate_VVI
 a_AT0
-varied_AJ0
+varied_VVN
 and_CJC
 impressive_AJ0
 portfolio_NN1
@@ -32118,7 +32118,7 @@ kind_NN1
 of_PRF
 responsibility_NN1
 and_CJC
-self-propulsion_NN1-AJ0
+self-propulsion_NN1
 and_CJC
 for_PRP
 those_DT0
@@ -32480,7 +32480,7 @@ to_TO0
 promise_NN1
 yet_AV0
 another_DT0
-shift_NN1-VVB
+shift_NN1
 of_PRF
 power_NN1
 In_PRP
@@ -32543,7 +32543,7 @@ Vocational_AJ0
 Educational_AJ0
 Initiative_NN1
 and_CJC
-CPVE_NN1-NP0
+CPVE_NN1
 Certificate_NN1
 of_PRF
 Pre-Vocational_AJ0
@@ -32724,7 +32724,7 @@ other_AJ0
 schools_NN2
 would_VM0
 be_VBI
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 working_VVG
 for_PRP
@@ -32733,7 +32733,7 @@ GCSE_NN1
 with_PRP
 continuously_AV0
 assessed_VVN
-course-work_NN1-AJ0
+course-work_AJ0
 and_CJC
 when_CJS
 the_AT0
@@ -32836,12 +32836,12 @@ them_PNP
 to_TO0
 take_VVI
 a_AT0
-school-leaving_AJ0-NN1
+school-leaving_AJ0
 examination_NN1
 at_PRP
 16+_UNC
 The_AT0
-sixth-form_AJ0-NN1
+sixth-form_AJ0
 course_NN1
 in_PRP
 the_AT0
@@ -32874,7 +32874,7 @@ a_AT0
 variety_NN1
 of_PRF
 qualifications_NN2
-BTEC_NP0-NN1
+BTEC_NP0
 City_NN1
 and_CJC
 Guilds_NN2
@@ -32932,7 +32932,7 @@ the_AT0
 DES_NP0
 was_VBD
 busy_AJ0
-finalizing_VVG
+finalizing_AJ0
 plans_NN2
 for_PRP
 the_AT0
@@ -33010,14 +33010,14 @@ Guilds_NN2
 of_PRF
 London_NP0
 Institute_NN1
-CGLI_NP0-NN1
+CGLI_NP0
 the_AT0
 Business_NN1
 and_CJC
 Technical_AJ0
 Education_NN1
 Council_NN1
-BTEC_NP0-NN1
+BTEC_NP0
 and_CJC
 the_AT0
 Royal_AJ0
@@ -33031,13 +33031,13 @@ of_PRF
 Pre-vocational_AJ0
 Education_NN1
 would_VM0
-fall_VVI
+fall_NN1
 to_TO0
 be_VBI
 accredited_VVN
 within_PRP
 this_DT0
-overall_AJ0-NN1
+overall_AJ0
 scheme_NN1
 and_CJC
 is_VBZ
@@ -33081,7 +33081,7 @@ cross-curricular_AJ0
 skills_NN2
 and_CJC
 to_TO0
-profile-reporting_NN1-AJ0
+profile-reporting_NN1
 on_PRP
 progress_NN1
 There_EX0
@@ -33114,7 +33114,7 @@ In_PRP
 many_DT0
 ways_NN2
 the_AT0
-CPVE_NN1-NP0
+CPVE_NN1
 conforms_VVZ
 very_AV0
 closely_AV0
@@ -33520,7 +33520,7 @@ introduction_NN1
 of_PRF
 A_AT0
 levels_NN2
-English_AJ0-NN1
+English_AJ0
 Welsh_AJ0
 and_CJC
 Northern_NP0
@@ -33572,7 +33572,7 @@ either_AV0
 side_NN1
 of_PRF
 the_AT0
-divide_VVI
+divide_NN1
 Apart_AV0
 from_PRP
 the_AT0
@@ -33589,7 +33589,7 @@ timetables_NN2
 with_PRP
 scraps_NN2
 of_PRF
-non-examined_NN1-AJ0
+non-examined_AJ0
 and_CJC
 therefore_AV0
 non-serious_AJ0
@@ -33628,7 +33628,7 @@ attempts_NN2
 to_TO0
 broaden_VVI
 the_AT0
-sixth-form_AJ0-NN1
+sixth-form_AJ0
 curriculum_NN1
 none_PNI
 of_PRF
@@ -33751,7 +33751,7 @@ undue_AJ0
 specialization_NN1
 of_PRF
 the_AT0
-English_AJ0-NN1
+English_AJ0
 sixth_ORD
 form_NN1
 nevertheless_AV0
@@ -33801,7 +33801,7 @@ the_AT0
 reform_NN1
 of_PRF
 the_AT0
-sixth-form_AJ0-NN1
+sixth-form_AJ0
 curriculum_NN1
 But_CJC
 these_DT0
@@ -33916,7 +33916,7 @@ that_CJT
 consideration_NN1
 of_PRF
 the_AT0
-sixth-form_AJ0-NN1
+sixth-form_AJ0
 curriculum_NN1
 lapsed_VVD
 into_PRP
@@ -34090,7 +34090,7 @@ A_AT0
 levels_NN2
 as_CJS
 at_PRP
-present_AJ0-NN1
+present_AJ0
 constituted_VVD
 do_VDB
 not_XX0
@@ -34286,7 +34286,7 @@ which_DTQ
 have_VHB
 no_AT0
 proved_VVN
-intellectual_AJ0-NN1
+intellectual_AJ0
 value_NN1
 In_PRP
 this_DT0
@@ -34313,7 +34313,7 @@ chairmanship_NN1
 of_PRF
 G._NP0
 R._NP0
-Higginson_NP0-NN1
+Higginson_NP0
 the_AT0
 Vice-Chancellor_NN1
 of_PRF
@@ -34363,7 +34363,7 @@ maintaining_VVG
 or_CJC
 improving_VVG
 the_AT0
-present_AJ0-NN1
+present_AJ0
 character_NN1
 and_CJC
 rigorous_AJ0
@@ -34529,9 +34529,9 @@ that_CJT
 was_VBD
 provided_VVN
 by_PRP
-BTEC_NP0-NN1
-CGLI_NP0-NN1
-CVPE_NP0-NN1
+BTEC_NP0
+CGLI_NP0
+CVPE_NN1
 and_CJC
 RSA_NP0
 all_DT0
@@ -34757,7 +34757,7 @@ despite_PRP
 the_AT0
 emphasis_NN1
 on_PRP
-course-work_NN1-AJ0
+course-work_AJ0
 in_PRP
 the_AT0
 end_NN1
@@ -34840,7 +34840,7 @@ out_AVP
 to_TO0
 have_VHB
 been_VBN
-exaggerated_AJ0
+exaggerated_VVN
 Nevertheless_AV0
 it_PNP
 seems_VVZ
@@ -34865,7 +34865,7 @@ A_AT0
 levels_NN2
 in_PRP
 their_DPS
-present_AJ0-NN1
+present_AJ0
 form_NN1
 a_AT0
 chance_NN1
@@ -34881,7 +34881,7 @@ of_PRF
 reference_NN1
 of_PRF
 the_AT0
-Higginson_NP0-NN1
+Higginson_NP0
 Committee_NN1
 It_PNP
 is_VBZ
@@ -34894,7 +34894,7 @@ so_AV0
 soon_AV0
 after_PRP
 the_AT0
-reorganizing_VVG
+reorganizing_AJ0
 and_CJC
 restructuring_NN1
 of_PRF
@@ -34916,7 +34916,7 @@ inevitable_AJ0
 that_CJT
 at_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 time_NN1
 of_PRF
 confusion_NN1
@@ -34987,7 +34987,7 @@ operate_VVI
 partly_AV0
 as_CJS
 a_AT0
-school-leaving_AJ0-NN1
+school-leaving_AJ0
 certification_NN1
 partly_AV0
 as_CJS
@@ -35145,7 +35145,7 @@ only_AV0
 to_TO0
 go_VVI
 to_TO0
-sixth-form_AJ0-NN1
+sixth-form_AJ0
 college_NN1
 college_NN1
 of_PRF
@@ -35230,7 +35230,7 @@ work_NN1
 then_AV0
 we_PNP
 could_VM0
-drop_VVI
+drop_NN1
 the_AT0
 16+_UNC
 examination_NN1
@@ -35272,7 +35272,7 @@ their_DPS
 role_NN1
 both_AV0
 as_CJS
-school-leaving_AJ0-NN1
+school-leaving_AJ0
 certificate_NN1
 and_CJC
 as_CJS
@@ -35685,7 +35685,7 @@ is_VBZ
 that_CJT
 the_AT0
 student_NN1
-stuck_AJ0
+stuck_VVN
 out_AVP
 the_AT0
 course_NN1
@@ -35853,7 +35853,7 @@ teaching_NN1
 of_PRF
 A_AT0
 level_NN1
-English_AJ0-NN1
+English_AJ0
 bear_VVI
 witness_NN1
 to_TO0
@@ -35893,7 +35893,7 @@ perhaps_AV0
 wayward_AJ0
 Neither_DT0
 in_PRP
-English_AJ0-NN1
+English_AJ0
 literature_NN1
 nor_CJC
 in_PRP
@@ -36034,7 +36034,7 @@ though_CJS
 relied_VVN
 upon_PRP
 at_PRP
-present_AJ0-NN1
+present_AJ0
 as_CJS
 a_AT0
 higher_AJC
@@ -36195,7 +36195,7 @@ taking_VVG
 place_NN1
 at_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 time_NN1
 in_PRP
 the_AT0
@@ -36386,7 +36386,7 @@ development_NN1
 The_AT0
 Oxford_NP0
 Examination_NN1
-Delegacy_NN1-NP0
+Delegacy_NP0
 for_PRP
 example_NN1
 which_DTQ
@@ -36418,7 +36418,7 @@ and_CJC
 A_AT0
 level_NN1
 the_AT0
-graded-test_AJ0-NN1
+graded-test_AJ0
 element_NN1
 and_CJC
 the_AT0
@@ -36490,14 +36490,14 @@ Board_NN1
 Examinations_NN2
 in_PRP
 music_NN1
-dancing_VVG
+dancing_NN1
 and_CJC
 spoken_VVN
-English_AJ0-NN1
+English_AJ0
 or_CJC
 recitation_NN1
 The_AT0
-modern-language_AJ0-NN1
+modern-language_NN1
 tests_NN2
 were_VBD
 introduced_VVN
@@ -36514,7 +36514,7 @@ the_AT0
 inadequacy_NN1
 of_PRF
 school_NN1
-modern-language_AJ0-NN1
+modern-language_NN1
 teaching_NN1
 It_PNP
 has_VHZ
@@ -36528,11 +36528,11 @@ a_AT0
 pupil_NN1
 in_PRP
 an_AT0
-English_AJ0-NN1
+English_AJ0
 school_NN1
 having_VHG
 learned_VVN
-French_AJ0-NN1
+French_AJ0
 for_PRP
 seven_CRD
 years_NN2
@@ -36582,9 +36582,9 @@ good_AJ0
 at_PRP
 translating_VVG
 from_PRP
-French_AJ0-NN1
+French_AJ0
 to_TO0
-English_AJ0-NN1
+English_AJ0
 or_CJC
 the_AT0
 other_AJ0
@@ -36600,7 +36600,7 @@ of_PRF
 the_AT0
 history_NN1
 of_PRF
-French_AJ0-NN1
+French_AJ0
 literature_NN1
 and_CJC
 the_AT0
@@ -36611,7 +36611,7 @@ be_VBI
 made_VVN
 about_PRP
 specified_VVN
-French_AJ0-NN1
+French_AJ0
 texts_NN2
 There_EX0
 could_VM0
@@ -36678,7 +36678,7 @@ examination_NN1
 in_PRP
 languages_NN2
 including_PRP
-English_AJ0-NN1
+English_AJ0
 shall_VM0
 have_VHB
 a_AT0
@@ -36714,7 +36714,7 @@ though_CJS
 the_AT0
 continuous_AJ0
 assessment_NN1
-course-work_NN1-AJ0
+course-work_AJ0
 elements_NN2
 will_VM0
 have_VHB
@@ -36746,7 +36746,7 @@ already_AV0
 noticed_VVD
 the_AT0
 difficulties_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 differentiating_VVG
 the_AT0
@@ -36820,7 +36820,7 @@ solved_VVN
 For_PRP
 the_AT0
 crucial_AJ0
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 these_DT0
 tests_NN2
@@ -36857,7 +36857,7 @@ pass_VVI
 grade_NN1
 1_CRD
 spoken_VVN
-French_AJ0-NN1
+French_AJ0
 by_PRP
 the_AT0
 time_NN1
@@ -36890,9 +36890,9 @@ to_TO0
 be_VBI
 bilingual_AJ0
 in_PRP
-French_AJ0-NN1
+French_AJ0
 and_CJC
-English_AJ0-NN1
+English_AJ0
 or_CJC
 who_PNQ
 had_VHD
@@ -36908,7 +36908,7 @@ romp_NN1
 through_PRP
 his_DPS
 spoken_VVN
-French_AJ0-NN1
+French_AJ0
 grades_NN2
 and_CJC
 have_VHB
@@ -36930,7 +36930,7 @@ grades_NN2
 both_AV0
 in_PRP
 written_VVN
-French_AJ0-NN1
+French_AJ0
 and_CJC
 in_PRP
 other_AJ0
@@ -36978,7 +36978,7 @@ a_AT0
 syllabus_NN1
 that_CJT
 is_VBZ
-varied_AJ0
+varied_VVN
 every_AT0
 year_NN1
 or_CJC
@@ -37056,7 +37056,7 @@ grade_NN1
 which_DTQ
 is_VBZ
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 requirement_NN1
 for_PRP
 entry_NN1
@@ -37100,7 +37100,7 @@ the_AT0
 practical_AJ0
 examinations_NN2
 At_PRP
-present_AJ0-NN1
+present_AJ0
 they_PNP
 are_VBB
 perhaps_AV0
@@ -37210,7 +37210,7 @@ to_TO0
 include_VVI
 for_PRP
 example_NN1
-score-reading_AJ0-NN1
+score-reading_AJ0
 and_CJC
 harmonization_NN1
 at_PRP
@@ -37377,7 +37377,7 @@ enormous_AJ0
 advantage_NN1
 over_PRP
 one-off_AJ0
-end-of-year_AJ0-NN1
+end-of-year_NN1
 examinations_NN2
 But_CJC
 there_EX0
@@ -37829,7 +37829,7 @@ social_AJ0
 activities_NN2
 or_CJC
 his_DPS
-out-of-school_AJ0-NN1
+out-of-school_AJ0
 interests_NN2
 the_AT0
 school_NN1
@@ -37927,7 +37927,7 @@ maths_NN1
 sciences_NN2
 languages_NN2
 and_CJC
-English_AJ0-NN1
+English_AJ0
 there_EX0
 may_VM0
 be_VBI
@@ -38362,7 +38362,7 @@ to_TO0
 me_PNP
 that_CJT
 the_AT0
-graded-test_AJ0-NN1
+graded-test_AJ0
 system_NN1
 will_VM0
 simply_AV0
@@ -38632,7 +38632,7 @@ more_AV0
 informative_AJ0
 for_PRP
 those_DT0
-involved_AJ0
+involved_VVN
 in_PRP
 making_VVG
 up_AVP
@@ -38749,7 +38749,7 @@ of_PRF
 the_AT0
 compulsory_AJ0
 subjects_NN2
-English_AJ0-NN1
+English_AJ0
 mathematics_NN1
 modern_AJ0
 languages_NN2
@@ -38761,7 +38761,7 @@ examinations_NN2
 could_VM0
 hold_VVI
 their_DPS
-present_AJ0-NN1
+present_AJ0
 place_NN1
 as_CJS
 optional_AJ0
@@ -38812,7 +38812,7 @@ deal_NN1
 of_PRF
 time_NN1
 at_PRP
-present_AJ0-NN1
+present_AJ0
 wasted_VVN
 in_PRP
 the_AT0
@@ -39003,7 +39003,7 @@ Some_DT0
 because_CJS
 their_DPS
 interests_NN2
-lie_VVI
+lie_VVB
 elsewhere_AV0
 may_VM0
 be_VBI

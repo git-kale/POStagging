@@ -12,7 +12,7 @@ a_AT0
 pretty_AV0
 loose_AJ0
 term_NN1
-Crosier_NP0-NN1
+Crosier_NN1
 1975_CRD
 found_VVD
 fifty_CRD
@@ -341,7 +341,7 @@ marketing_NN1
 techniques_NN2
 particularly_AV0
 through_PRP
-listening_VVG-NN1
+listening_VVG
 and_CJC
 responding_VVG
 schools_NN2
@@ -620,7 +620,7 @@ Education_NN1
 and_CJC
 Science_NN1
 the_AT0
-Local_NN1-AJ0
+Local_AJ0
 Education_NN1
 Authority_NN1
 potential_NN1
@@ -661,7 +661,7 @@ the_AT0
 National_AJ0
 Curriculum_NN1
 and_CJC
-Local_NN1-AJ0
+Local_AJ0
 Management_NN1
 of_PRF
 Schools_NN2
@@ -782,7 +782,7 @@ with_PRP
 20_CRD
 per_UNC
 cent_UNC
-wanting_VVG-AJ0
+wanting_VVG
 more_AV0
 to_TO0
 say_VVI
@@ -842,7 +842,7 @@ children_NN2
 receiving_VVG
 private_AJ0
 education_NN1
-increased_AJ0
+increased_VVN
 from_PRP
 5_CRD
 per_UNC
@@ -1292,7 +1292,7 @@ child_NN1
 to_TO0
 another_DT0
 school_NN1
-Caring_VVG-NN1
+Caring_VVG
 Marketing_NN1
 will_VM0
 only_AV0
@@ -1303,7 +1303,7 @@ who_PNQ
 really_AV0
 believe_VVB
 in_PRP
-listening_VVG-NN1
+listening_VVG
 and_CJC
 responding_VVG
 it_PNP
@@ -1311,7 +1311,7 @@ starts_VVZ
 and_CJC
 ends_NN2
 with_PRP
-caring_VVG-NN1
+caring_NN1
 for_PRP
 people_NN0
 Parents_NN2
@@ -1400,7 +1400,7 @@ corridor_NN1
 while_CJS
 behind_PRP
 a_AT0
-closed_VVD
+closed_VVN
 door_NN1
 the_AT0
 head_NN1
@@ -1501,7 +1501,7 @@ aware_AJ0
 do_VDB
 it_PNP
 better_AJC
-Paying_VVG-AJ0
+Paying_VVG
 attention_NN1
 Marketing_NN1
 is_VBZ
@@ -1585,7 +1585,7 @@ Are_VBB
 the_AT0
 middle_NN1
 class_NN1
-lumped_VVD-AJ0
+lumped_VVD
 together_AV0
 as_CJS
 pushy_AJ0
@@ -1968,7 +1968,7 @@ when_CJS
 a_AT0
 more_AV0
 systematic_AJ0
-gathering_NN1
+gathering_VVG
 of_PRF
 opinion_NN1
 is_VBZ
@@ -1995,7 +1995,7 @@ there_EX0
 are_VBB
 difficulties_NN2
 in_PRP
-gathering_NN1
+gathering_VVG
 information_NN1
 by_PRP
 this_DT0
@@ -2006,7 +2006,7 @@ too_AV0
 easy_AJ0
 to_TO0
 ask_VVI
-closed_VVD
+closed_VVN
 questions_NN2
 which_DTQ
 almost_AV0
@@ -2144,7 +2144,7 @@ door_NN1
 policy_NN1
 if_CJS
 people_NN0
-feel_VVI
+feel_VVB
 intimidated_VVN
 and_CJC
 never_AV0
@@ -2362,7 +2362,7 @@ families_NN2
 of_PRF
 ethnic_AJ0
 minorities_NN2
-feel_VVI
+feel_VVB
 about_PRP
 your_DPS
 school_NN1
@@ -2433,7 +2433,7 @@ data_NN0
 As_CJS
 well_AV0
 as_CJS
-gathering_NN1
+gathering_VVG
 information_NN1
 about_PRP
 parental_AJ0
@@ -2513,7 +2513,7 @@ a_AT0
 good_AJ0
 knowledge_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 Do_VDB
 the_AT0
 parents_NN2
@@ -2645,7 +2645,7 @@ displays_VVZ
 of_PRF
 materials_NN2
 including_PRP
-mother-tongue_AJ0-NN1
+mother-tongue_AJ0
 books_NN2
 that_CJT
 reflect_VVI
@@ -2737,7 +2737,7 @@ others_NN2
 Too_AV0
 often_AV0
 we_PNP
-act_VVI
+act_NN1
 on_PRP
 assumptions_NN2
 and_CJC
@@ -2780,7 +2780,7 @@ on_PRP
 the_AT0
 move_VVI
 checking_VVG
-listening_VVG-NN1
+listening_VVG
 being_VBG
 interested_AJ0
 and_CJC
@@ -2831,12 +2831,12 @@ when_CJS
 they_PNP
 make_VVI
 mistakes_NN2
-Looming_AJ0-VVG
+Looming_VVG
 confrontations_NN2
 can_VM0
 usually_AV0
 be_VBI
-defused_VVN-VVD
+defused_VVD
 by_PRP
 simple_AJ0
 non-defensive_AJ0
@@ -2847,7 +2847,7 @@ about_PRP
 infinite_AJ0
 improvements_NN2
 by_PRP
-listening_VVG-NN1
+listening_VVG
 and_CJC
 by_PRP
 responding_VVG
@@ -3183,7 +3183,7 @@ do_VDB
 a_AT0
 lot_NN1
 of_PRF
-smiling_VVG-AJ0
+smiling_VVG
 and_CJC
 find_VVI
 positive_AJ0
@@ -3484,7 +3484,7 @@ corridors_NN2
 7_CRD
 Did_VDD
 you_PNP
-feel_VVI
+feel_VVB
 impressed_AJ0
 by_PRP
 the_AT0
@@ -3602,7 +3602,7 @@ home_NN1
 18_CRD
 Do_VDB
 you_PNP
-feel_VVI
+feel_VVB
 that_CJT
 the_AT0
 school_NN1
@@ -3721,7 +3721,7 @@ reasonably_AV0
 dressed_VVN
 at_PRP
 work_NN1
-Identifying_VVG-AJ0
+Identifying_VVG
 the_AT0
 school_NN1
 's_POS
@@ -3743,7 +3743,7 @@ flower_NN1
 beds_NN2
 trampled_VVN
 lawns_NN2
-unkept_VVB-NN1
+unkept_NN1
 and_CJC
 ponds_NN2
 neglected_VVN
@@ -3808,7 +3808,7 @@ relationship_NN1
 to_TO0
 each_DT0
 other_AJ0
-Identifying_VVG-AJ0
+Identifying_VVG
 strengths_NN2
 needs_VVZ
 to_TO0
@@ -3909,7 +3909,7 @@ schools_NN2
 or_CJC
 through_PRP
 a_AT0
-fall_VVI
+fall_NN1
 in_PRP
 the_AT0
 number_NN1
@@ -3932,7 +3932,7 @@ a_AT0
 problem_NN1
 or_CJC
 a_AT0
-USP_NN1-NP0
+USP_NN1
 unique_AJ0
 selling_VVG
 point_NN1
@@ -4090,7 +4090,7 @@ expertise_NN1
 of_PRF
 the_AT0
 adults_NN2
-involved_AJ0
+involved_VVN
 A_AT0
 strong_AJ0
 base_NN1
@@ -4229,7 +4229,7 @@ at_PRP
 meetings_NN2
 where_AVQ
 governors_NN2
-present_AJ0-NN1
+present_AJ0
 their_DPS
 annual_AJ0
 report_NN1
@@ -4325,7 +4325,7 @@ of_PRF
 years_NN2
 was_VBD
 a_AT0
-smiley_NN1-AJ0
+smiley_AJ0
 face_NN1
 with_PRP
 the_AT0
@@ -4516,7 +4516,7 @@ the_AT0
 title_NN1
 of_PRF
 junior_AJ0
-mixed_AJ0
+mixed_VVN
 infant_NN1
 a_AT0
 very_AV0
@@ -4614,7 +4614,7 @@ on_PRP
 the_AT0
 classroom_NN1
 their_DPS
-principal_AJ0-NN1
+principal_AJ0
 concern_NN1
 is_VBZ
 the_AT0
@@ -4955,7 +4955,7 @@ school_NN1
 1_CRD
 All_DT0
 should_VM0
-feel_VVI
+feel_VVB
 that_CJT
 the_AT0
 school_NN1
@@ -4963,7 +4963,7 @@ is_VBZ
 cared_VVN
 for_PRP
 and_CJC
-caring_VVG-NN1
+caring_NN1
 2_CRD
 There_EX0
 is_VBZ
@@ -5316,7 +5316,7 @@ him_PNP
 which_DTQ
 made_VVN
 him_PNP
-feel_VVI
+feel_VVB
 very_AV0
 important_AJ0
 which_DTQ
@@ -5386,7 +5386,7 @@ acts_NN2
 but_CJC
 built_VVN
 on_PRP
-listening_VVG-NN1
+listening_VVG
 trust_NN1
 and_CJC
 respect_NN1
@@ -5532,7 +5532,7 @@ real_AJ0
 growth_NN1
 in_PRP
 active_AJ0
-listening_VVG-NN1
+listening_VVG
 and_CJC
 responding_VVG
 It_PNP
@@ -5618,7 +5618,7 @@ the_AT0
 job_NN1
 Even_AV0
 the_AT0
-Plowden_NN1-NP0
+Plowden_NP0
 Report_NN1
 expressed_VVN
 fears_NN2
@@ -5706,7 +5706,7 @@ Parents_NN2
 have_VHB
 traditionally_AV0
 adjusted_VVN
--to_NN1-AJ0
+-to_NN1
 the_AT0
 school_NN1
 and_CJC
@@ -5745,7 +5745,7 @@ and_CJC
 goodwill_NN1
 of_PRF
 parents_NN2
-Tizard_NP0-NN1
+Tizard_NP0
 's_POS
 1988_CRD
 work_NN1
@@ -6043,7 +6043,7 @@ to_TO0
 bear_VVI
 on_PRP
 the_AT0
-in-school_AJ0-NN1
+in-school_AJ0
 supplier_NN1
 The_AT0
 problem_NN1
@@ -6082,7 +6082,7 @@ and_CJC
 school_NN1
 crossing_VVG
 patrol_NN1
-feel_VVI
+feel_VVB
 valued_VVN
 contributors_NN2
 to_TO0
@@ -6146,7 +6146,7 @@ before_PRP
 they_PNP
 start_NN1
 their_DPS
-shift_NN1-VVB
+shift_NN1
 Non-teaching_AJ0
 staff_NN0
 need_VVB
@@ -6228,7 +6228,7 @@ and_CJC
 the_AT0
 community_NN1
 The_AT0
-Headteacher_NP0-NN1
+Headteacher_NP0
 The_AT0
 headteacher_NN1
 has_VHZ
@@ -6261,7 +6261,7 @@ It_PNP
 important_AJ0
 that_CJT
 marketing_NN1
-listening_VVG-NN1
+listening_VVG
 and_CJC
 responding_VVG
 to_TO0
@@ -6334,7 +6334,7 @@ be_VBI
 kept_VVD
 to_TO0
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 there_EX0
 is_VBZ
 a_AT0
@@ -6448,7 +6448,7 @@ gain_VVI
 from_PRP
 marketing_NN1
 is_VBZ
-increased_AJ0
+increased_VVN
 productivity_NN1
 through_PRP
 the_AT0
@@ -6464,7 +6464,7 @@ communications_NN2
 the_AT0
 generation_NN1
 and_CJC
-channelling_VVG-AJ0
+channelling_VVG
 of_PRF
 parental_AJ0
 support_NN1
@@ -6559,7 +6559,7 @@ was_VBD
 a_AT0
 very_AV0
 large_AJ0
-notice_VVI
+notice_NN1
 in_PRP
 thick_AJ0
 felt_VVD
@@ -6793,7 +6793,7 @@ on_PRP
 the_AT0
 staff_NN0
 room_NN1
-notice_VVI
+notice_NN1
 board_NN1
 using_VVG
 time_NN1
@@ -7000,7 +7000,7 @@ boost_VVI
 morale_NN1
 The_AT0
 plaintive_AJ0
-cry_VVI
+cry_NN1
 of_PRF
 the_AT0
 deputy_NN1
@@ -7012,7 +7012,7 @@ way_NN1
 to_TO0
 get_VVI
 a_AT0
-pat_VVI
+pat_NN1
 on_PRP
 the_AT0
 head_NN1
@@ -7051,7 +7051,7 @@ to_TO0
 become_VVI
 more_AV0
 professionally_AV0
-involved_AJ0
+involved_VVN
 with_PRP
 parents_NN2
 outside_PRP
@@ -7207,7 +7207,7 @@ busy_AJ0
 headteachers_NN2
 are_VBB
 in_PRP
-shifting_AJ0-VVG
+shifting_AJ0
 the_AT0
 paper_NN1
 work_NN1
@@ -7313,7 +7313,7 @@ believability_NN1
 and_CJC
 it_PNP
 's_POS
-unflagging_VVG-AJ0
+unflagging_AJ0
 consistency_NN1
 that_CJT
 convinces_VVZ
@@ -7336,7 +7336,7 @@ than_CJS
 dogged_AJ0
 determination_NN1
 Focussed_AJ0
-listening_VVG-NN1
+listening_VVG
 Perceptions_NN2
 need_VVB
 to_TO0
@@ -7370,7 +7370,7 @@ my_DPS
 car_NN1
 was_VBD
 always_AV0
-parked_VVN
+parked_VVD
 closest_AJS
 to_TO0
 the_AT0
@@ -7476,7 +7476,7 @@ news_NN1
 sheet_NN1
 even_AV0
 easier_AJC
-Named_AJ0-VVN
+Named_AJ0
 copies_NN2
 distributed_VVN
 well_AV0
@@ -7495,7 +7495,7 @@ on_PRP
 the_AT0
 staff_NN0
 room_NN1
-notice_VVI
+notice_NN1
 board_NN1
 gets_VVZ
 the_AT0
@@ -7634,7 +7634,7 @@ items_NN2
 were_VBD
 there_EX0
 that_CJT
-centred_VVN-VVD
+centred_VVN
 on_PRP
 curriculum_NN1
 content_NN1
@@ -7704,7 +7704,7 @@ spend_VVI
 their_DPS
 time_NN1
 convincing_AJ0
-motivating_VVG-AJ0
+motivating_VVG
 and_CJC
 re-generating_VVG
 the_AT0
@@ -7927,7 +7927,7 @@ or_CJC
 assigned_VVN
 at_PRP
 short_AJ0
-notice_VVI
+notice_NN1
 to_TO0
 an_AT0
 unfamiliar_AJ0
@@ -7972,7 +7972,7 @@ can_VM0
 develop_VVI
 resulting_VVG
 in_PRP
-strained_AJ0
+strained_VVN
 relationships_NN2
 unhappy_AJ0
 children_NN2
@@ -8370,7 +8370,7 @@ Popularity_NN1
 is_VBZ
 n't_XX0
 a_AT0
-pre-requisite_NN1-AJ0
+pre-requisite_NN1
 to_TO0
 good_AJ0
 teaching_NN1
@@ -8417,7 +8417,7 @@ additional_AJ0
 training_NN1
 and_CJC
 guidance_NN1
-Bullying_VVG-NN1
+Bullying_VVG
 in_PRP
 school_NN1
 is_VBZ
@@ -8522,7 +8522,7 @@ the_AT0
 school_NN1
 can_VM0
 be_VBI
-improved_AJ0
+improved_VVN
 It_PNP
 's_POS
 not_XX0
@@ -8962,7 +8962,7 @@ Teaching_NN1
 delivered_VVN
 through_PRP
 coercion_NN1
-bullying_VVG-NN1
+bullying_VVG
 and_CJC
 threats_NN2
 may_VM0
@@ -8992,7 +8992,7 @@ afraid_AJ0
 of_PRF
 making_VVG
 mistakes_NN2
-present_AJ0-NN1
+present_AJ0
 themselves_PNX
 and_CJC
 their_DPS
@@ -9061,7 +9061,7 @@ will_VM0
 grow_VVI
 into_PRP
 good_AJ0
-caring_VVG-NN1
+caring_NN1
 and_CJC
 generous_AJ0
 adults_NN2
@@ -9243,7 +9243,7 @@ It_PNP
 too_AV0
 easy_AJ0
 to_TO0
-fall_VVI
+fall_NN1
 into_PRP
 the_AT0
 trap_NN1
@@ -9510,8 +9510,8 @@ primary_AJ0
 schools_NN2
 for_PRP
 the_AT0
-ILEA_NP0-NN1
-ILEA_NP0-NN1
+ILEA_NN1
+ILEA_NN1
 1985_CRD
 was_VBD
 governed_VVN
@@ -9799,7 +9799,7 @@ a_AT0
 positive_AJ0
 motivator_NN1
 in_PRP
-shaping_VVG-AJ0
+shaping_VVG
 behaviour_NN1
 when_CJS
 you_PNP
@@ -10057,7 +10057,7 @@ celebrating_VVG
 plus_PRP
 the_AT0
 additional_AJ0
-spin_VVI
+spin_NN1
 off_AVP
 of_PRF
 enhancement_NN1
@@ -10225,7 +10225,7 @@ are_VBB
 often_AV0
 complaints_NN2
 of_PRF
-bullying_VVG-NN1
+bullying_VVG
 in_PRP
 primary_AJ0
 schools_NN2
@@ -10258,7 +10258,7 @@ showed_VVD
 that_CJT
 in_PRP
 the_AT0
-average_AJ0-NN1
+average_AJ0
 middle_NN1
 school_NN1
 playground_NN1
@@ -10363,7 +10363,7 @@ we_PNP
 once_AV0
 were_VBD
 Also_AV0
-bullying_VVG-NN1
+bullying_VVG
 now_AV0
 seems_VVZ
 to_TO0
@@ -10419,7 +10419,7 @@ that_CJT
 patterns_NN2
 of_PRF
 repeated_VVN
-bullying_VVG-NN1
+bullying_VVG
 are_VBB
 not_XX0
 picked_VVD
@@ -10511,7 +10511,7 @@ the_AT0
 image_NN1
 of_PRF
 the_AT0
-caring_VVG-NN1
+caring_NN1
 school_NN1
 that_CJT
 we_PNP
@@ -10585,7 +10585,7 @@ in_PRP
 an_AT0
 authoritarian_AJ0
 role_NN1
-issuing_VVG-AJ0
+issuing_VVG
 requests_NN2
 and_CJC
 orders_NN2
@@ -10694,7 +10694,7 @@ grids_NN2
 Children_NN2
 can_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 design_NN1
@@ -10767,7 +10767,7 @@ bats_NN2
 will_VM0
 break_VVI
 The_AT0
-initial_AJ0-NN1
+initial_AJ0
 investment_NN1
 and_CJC
 costs_NN2
@@ -10796,8 +10796,8 @@ of_PRF
 playground_NN1
 fighting_VVG
 and_CJC
-bullying_VVG-NN1
-Listening_VVG-NN1
+bullying_VVG
+Listening_VVG
 to_TO0
 children_NN2
 We_PNP
@@ -10823,7 +10823,7 @@ talking_VVG
 with_PRP
 children_NN2
 and_CJC
-listening_VVG-NN1
+listening_VVG
 to_TO0
 them_PNP
 Ask_VVB
@@ -10960,7 +10960,7 @@ plumped_VVD
 for_PRP
 the_AT0
 local_AJ0
-third-division_AJ0-NN1
+third-division_NN1
 full-back_NN1
 who_PNQ
 lived_VVD
@@ -10994,7 +10994,7 @@ with_PRP
 fish_NN0
 and_CJC
 chips_NN2
-wrapped_VVN-VVD
+wrapped_VVN
 in_PRP
 newspaper_NN1
 rather_AV0
@@ -11589,7 +11589,7 @@ to_TO0
 come_VVI
 across_PRP
 several_DT0
-fast_AV0-AJ0
+fast_AJ0
 food_NN1
 outlets_NN2
 crowded_AJ0
@@ -11628,7 +11628,7 @@ the_AT0
 marketing_NN1
 of_PRF
 the_AT0
-fast_AV0-AJ0
+fast_AJ0
 food_NN1
 producers_NN2
 What_DTQ
@@ -11655,7 +11655,7 @@ do_VDB
 n't_XX0
 provide_VVI
 The_AT0
-fast_AV0-AJ0
+fast_AJ0
 food_NN1
 outlets_NN2
 certainly_AV0
@@ -11684,7 +11684,7 @@ friendly_AJ0
 Is_VBZ
 it_PNP
 an_AT0
-integrated_AJ0
+integrated_VVN
 part_NN1
 of_PRF
 the_AT0
@@ -11845,7 +11845,7 @@ unattractive_AJ0
 Are_VBB
 there_EX0
 well_AV0
-tendered_VVN-AJ0
+tendered_VVN
 plants_NN2
 and_CJC
 flowers_NN2
@@ -12093,7 +12093,7 @@ of_PRF
 investment_NN1
 that_CJT
 the_AT0
-fast_AV0-AJ0
+fast_AJ0
 food_NN1
 marketing_NN1
 chains_NN2
@@ -12134,7 +12134,7 @@ hall_NN1
 supervisor_NN1
 and_CJC
 the_AT0
-cook_VVI
+cook_NN1
 to_TO0
 talk_VVI
 about_PRP
@@ -12527,7 +12527,7 @@ time_NN1
 supervision_NN1
 published_VVN
 by_PRP
-OPTIS_NP0-NN1
+OPTIS_NN1
 1987_CRD
 Toilets_NN2
 Many_DT0
@@ -12730,7 +12730,7 @@ on_PRP
 teacher_NN1
 time_NN1
 and_CJC
-supervising_VVG-NN1
+supervising_VVG
 out_AVP
 of_PRF
 school_NN1
@@ -12944,11 +12944,11 @@ Children_NN2
 and_CJC
 Teachers_NN2
 the_AT0
-Bellfield_NP0-NN1
+Bellfield_NN1
 Project_NN1
 and_CJC
 the_AT0
-Harringay_NN1-NP0
+Harringay_NP0
 Project_NN1
 all_DT0
 reported_VVN
@@ -12967,7 +12967,7 @@ of_PRF
 schemes_NN2
 of_PRF
 parent_NN1
-listening_VVG-NN1
+listening_VVG
 Keith_NP0
 Topping_NN1
 and_CJC
@@ -13264,7 +13264,7 @@ head_NN1
 need_VVB
 to_TO0
 be_VBI
-listening_VVG-NN1
+listening_VVG
 to_TO0
 parents_NN2
 and_CJC
@@ -13356,7 +13356,7 @@ lasting_AJ0
 impression_NN1
 Take_VVB
 a_AT0
-stroll_VVI
+stroll_NN1
 around_PRP
 the_AT0
 grounds_NN2
@@ -13436,7 +13436,7 @@ in_PRP
 languages_NN2
 other_AJ0
 than_CJS
-English_AJ0-NN1
+English_AJ0
 if_CJS
 appropriate_AJ0
 Years_NN2
@@ -13495,7 +13495,7 @@ and_CJC
 flower_NN1
 beds_NN2
 and_CJC
-grassed_VVN-AJ0
+grassed_VVN
 areas_NN2
 looking_VVG
 attractive_AJ0
@@ -13573,7 +13573,7 @@ likely_AJ0
 that_CJT
 the_AT0
 local_AJ0
-Public_AJ0-NN1
+Public_AJ0
 Works_NN0
 Depot_NN1
 will_VM0
@@ -13729,7 +13729,7 @@ lined_VVN
 fish_NN0
 tank_NN1
 and_CJC
-faded_AJ0
+faded_VVN
 children_NN2
 's_POS
 work_NN1
@@ -13762,7 +13762,7 @@ drapes_NN2
 add_VVI
 to_TO0
 the_AT0
-caring_VVG-NN1
+caring_NN1
 and_CJC
 cared_VVN
 for_PRP
@@ -13773,11 +13773,11 @@ wish_VVB
 to_TO0
 create_VVI
 Window_NN1
-dressing_VVG
+dressing_NN1
 is_VBZ
 n't_XX0
 visual_AJ0
-deceit_NN1-VVB
+deceit_NN1
 if_CJS
 the_AT0
 window_NN1
@@ -14023,7 +14023,7 @@ attention_NN1
 of_PRF
 visitors_NN2
 A_AT0
-notice_VVI
+notice_NN1
 apologising_VVG
 for_PRP
 keeping_VVG
@@ -14125,7 +14125,7 @@ head_NN1
 and_CJC
 parents_NN2
 talk_VVI
-Show_NN1-VVB
+Show_NN1
 your_DPS
 interest_NN1
 If_CJS
@@ -14487,7 +14487,7 @@ your_DPS
 school_NN1
 take_VVI
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 of_PRF
 details_NN2
 at_PRP
@@ -14966,7 +14966,7 @@ in_PRP
 a_AT0
 draughty_AJ0
 hall_NN1
-listening_VVG-NN1
+listening_VVG
 to_TO0
 some_DT0
 old_AJ0
@@ -15204,7 +15204,7 @@ Are_VBB
 people_NN0
 made_VVN
 to_TO0
-feel_VVI
+feel_VVB
 inadequate_AJ0
 Can_VM0
 your_DPS
@@ -15215,7 +15215,7 @@ something_PNI
 practical_AJ0
 to_TO0
 do_VDB
-Divide_VVB-NN1
+Divide_VVB
 into_PRP
 groups_NN2
 of_PRF
@@ -15369,7 +15369,7 @@ see_VVI
 their_DPS
 own_DT0
 children_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 something_PNI
 special_AJ0
@@ -15387,7 +15387,7 @@ see_VVI
 evidence_NN1
 of_PRF
 the_AT0
-caring_VVG-NN1
+caring_NN1
 nature_NN1
 of_PRF
 the_AT0
@@ -15434,7 +15434,7 @@ when_CJS
 older_AJC
 children_NN2
 are_VBB
-involved_AJ0
+involved_VVN
 attendance_NN1
 may_VM0
 be_VBI
@@ -15447,7 +15447,7 @@ invitations_NN2
 by_PRP
 the_AT0
 class_NN1
-involved_AJ0
+involved_VVN
 to_TO0
 their_DPS
 own_DT0
@@ -15479,7 +15479,7 @@ attendance_NN1
 is_VBZ
 bound_VVN
 to_TO0
-fall_VVI
+fall_NN1
 off_AVP
 if_CJS
 the_AT0
@@ -15768,7 +15768,7 @@ school_NN1
 status_NN1
 is_VBZ
 again_AV0
-increased_AJ0
+increased_VVN
 in_PRP
 the_AT0
 locality_NN1
@@ -15804,7 +15804,7 @@ to_TO0
 see_VVI
 talented_AJ0
 children_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 a_AT0
 theatrical_AJ0
@@ -15837,7 +15837,7 @@ intend_VVB
 using_VVG
 a_AT0
 small_AJ0
-cast_VVN
+cast_NN1
 will_VM0
 it_PNP
 consist_VVI
@@ -15860,7 +15860,7 @@ recorder_NN1
 group_NN1
 Will_VM0
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 roles_NN2
 be_VBI
 taken_VVN
@@ -15894,7 +15894,7 @@ children_NN2
 are_VBB
 to_TO0
 be_VBI
-involved_AJ0
+involved_VVN
 is_VBZ
 the_AT0
 production_NN1
@@ -15904,7 +15904,7 @@ to_TO0
 support_NN1
 a_AT0
 large_AJ0
-cast_VVN
+cast_NN1
 in_PRP
 worthwhile_AJ0
 roles_NN2
@@ -16112,7 +16112,7 @@ the_AT0
 day_NN1
 to_TO0
 give_VVI
-shift_NN1-VVB
+shift_NN1
 workers_NN2
 opportunity_NN1
 to_TO0
@@ -16307,7 +16307,7 @@ plan_NN1
 the_AT0
 whole_AJ0
 event_NN1
-Planning_NN1-VVG
+Planning_NN1
 the_AT0
 parents_NN2
 '_POS
@@ -16567,7 +16567,7 @@ may_VM0
 be_VBI
 best_AJS
 to_TO0
-spread_NN1
+spread_VVN
 the_AT0
 event_NN1
 over_PRP
@@ -16597,7 +16597,7 @@ another_DT0
 evening_NN1
 so_AV0
 that_CJT
-shift_NN1-VVB
+shift_NN1
 workers_NN2
 have_VHB
 an_AT0
@@ -16650,7 +16650,7 @@ The_AT0
 amount_NN1
 of_PRF
 advance_NN1
-notice_VVI
+notice_NN1
 given_VVN
 to_TO0
 the_AT0
@@ -16779,7 +16779,7 @@ are_VBB
 used_VVN
 the_AT0
 parents_NN2
-feel_VVI
+feel_VVB
 that_CJT
 they_PNP
 are_VBB
@@ -17002,7 +17002,7 @@ too_AV0
 open_AJ0
 or_CJC
 by_PRP
-drowning_NN1-VVG
+drowning_VVG
 parents_NN2
 under_PRP
 a_AT0
@@ -17093,7 +17093,7 @@ see_VVI
 teachers_NN2
 Would_VM0
 a_AT0
-notice_VVI
+notice_NN1
 on_PRP
 the_AT0
 blackboard_NN1
@@ -17142,7 +17142,7 @@ goes_VVZ
 awry_AV0
 That_DT0
 parents_NN2
-feel_VVI
+feel_VVB
 physically_AV0
 comfortable_AJ0
 when_CJS
@@ -17436,7 +17436,7 @@ relationships_NN2
 with_PRP
 other_AJ0
 schools_NN2
-Local_NN1-AJ0
+Local_AJ0
 junior_AJ0
 schools_NN2
 usually_AV0
@@ -17502,7 +17502,7 @@ of_PRF
 learning_NN1
 and_CJC
 excellence_NN1
-Experience_NN1-VVB
+Experience_NN1
 has_VHZ
 shown_VVN
 that_CJT
@@ -17750,7 +17750,7 @@ in_PRP
 which_DTQ
 parents_NN2
 become_VVI
-involved_AJ0
+involved_VVN
 range_NN1
 from_PRP
 repairing_VVG
@@ -17853,7 +17853,7 @@ parents_NN2
 who_PNQ
 are_VBB
 not_XX0
-involved_AJ0
+involved_VVN
 in_PRP
 school_NN1
 can_VM0
@@ -17865,7 +17865,7 @@ exists_VVZ
 and_CJC
 that_CJT
 those_DT0
-involved_AJ0
+involved_VVN
 in_PRP
 and_CJC
 around_PRP
@@ -17897,7 +17897,7 @@ in_PRP
 school_NN1
 can_VM0
 sometimes_AV0
-feel_VVI
+feel_VVB
 that_CJT
 their_DPS
 goodwill_NN1
@@ -18010,7 +18010,7 @@ of_PRF
 small_AJ0
 work_NN1
 group_NN1
-Expert_NN1-AJ0
+Expert_NN1
 instruction_NN1
 for_PRP
 children_NN2
@@ -18161,7 +18161,7 @@ outside_PRP
 the_AT0
 classroom_NN1
 just_AV0
-listening_VVG-NN1
+listening_VVG
 to_TO0
 readers_NN2
 The_AT0
@@ -18251,7 +18251,7 @@ helpers_NN2
 work_NN1
 When_CJS
 they_PNP
-feel_VVI
+feel_VVB
 like_PRP
 popping_VVG
 into_PRP
@@ -18347,7 +18347,7 @@ they_PNP
 may_VM0
 have_VHB
 little_AJ0
-specialist_NN1-AJ0
+specialist_NN1
 knowledge_NN1
 or_CJC
 previous_AJ0
@@ -18483,20 +18483,20 @@ of_PRF
 the_AT0
 school_NN1
 will_VM0
-lie_VVI
+lie_VVB
 untapped_AJ0
 If_CJS
 governors_NN2
 are_VBB
 actively_AV0
-involved_AJ0
+involved_VVN
 as_CJS
 a_AT0
 dynamic_AJ0
 lively_AJ0
 group_NN1
 and_CJC
-feel_VVI
+feel_VVB
 that_CJT
 their_DPS
 contribution_NN1
@@ -18528,7 +18528,7 @@ your_DPS
 task_NN1
 is_VBZ
 to_TO0
-spread_NN1
+spread_VVN
 irresistible_AJ0
 enthusiasm_NN1
 Most_DT0
@@ -18978,7 +18978,7 @@ which_DTQ
 the_AT0
 school_NN1
 values_NN2
-intellectual_AJ0-NN1
+intellectual_AJ0
 development_NN1
 The_AT0
 co-option_NN1
@@ -19053,7 +19053,7 @@ receive_VVI
 for_PRP
 school_NN1
 funds_NN2
-Headteacher_NP0-NN1
+Headteacher_NP0
 's_POS
 report_NN1
 to_TO0
@@ -19327,7 +19327,7 @@ and_CJC
 in_PRP
 many_DT0
 ways_NN2
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 market_NN1
@@ -19351,7 +19351,7 @@ governors_NN2
 meeting_NN1
 and_CJC
 reactions_NN2
-gauged_VVD-VVN
+gauged_VVN
 Without_PRP
 governors_NN2
 '_POS
@@ -19413,7 +19413,7 @@ parents_NN2
 typical_AJ0
 of_PRF
 the_AT0
-average_AJ0-NN1
+average_AJ0
 parent_NN1
 at_PRP
 the_AT0
@@ -19426,7 +19426,7 @@ be_VBI
 encouraged_VVN
 to_TO0
 become_VVI
-involved_AJ0
+involved_VVN
 in_PRP
 as_CJS
 many_DT0
@@ -19494,7 +19494,7 @@ to_TO0
 relay_NN1
 complaints_NN2
 and_CJC
-grumbles_VVZ-NN2
+grumbles_NN2
 they_PNP
 should_VM0
 n't_XX0
@@ -19632,7 +19632,7 @@ school_NN1
 written_VVN
 in_PRP
 straightforward_AJ0
-English_AJ0-NN1
+English_AJ0
 Are_VBB
 they_PNP
 short_AJ0
@@ -19661,7 +19661,7 @@ the_AT0
 National_AJ0
 Curriculum_NN1
 Council_NN1
-SEAC_NP0-NN1
+SEAC_NN1
 Advisory_AJ0
 Centre_NN1
 for_PRP
@@ -19932,7 +19932,7 @@ headteacher_NN1
 's_POS
 right_NN1
 to_TO0
-veto_VVI
+veto_NN1
 and_CJC
 a_AT0
 headteacher_NN1
@@ -20006,7 +20006,7 @@ to_TO0
 look_VVI
 like_PRP
 this_DT0
-Attracting_AJ0-VVG
+Attracting_VVG
 the_AT0
 attention_NN1
 of_PRF
@@ -20166,7 +20166,7 @@ reporter_NN1
 will_VM0
 not_XX0
 necessarily_AV0
-present_AJ0-NN1
+present_AJ0
 the_AT0
 information_NN1
 in_PRP
@@ -20281,7 +20281,7 @@ distortion_NN1
 or_CJC
 misrepresentation_NN1
 Freedy_NP0
-Starr_NP0-NN1
+Starr_NN1
 ate_VVD
 my_DPS
 hamster_NN1
@@ -20439,7 +20439,7 @@ attention_NN1
 There_EX0
 is_VBZ
 a_AT0
-lunatic_AJ0-NN1
+lunatic_AJ0
 fringe_NN1
 of_PRF
 schools_NN2
@@ -20548,7 +20548,7 @@ the_AT0
 photo_NN1
 may_VM0
 well_AV0
-stir_VVI
+stir_VVB
 up_AVP
 some_DT0
 resentment_NN1
@@ -20662,7 +20662,7 @@ as_CJS
 The_AT0
 Times_NN2
 Educational_AJ0
-Supplement_NN1-VVB
+Supplement_NN1
 Child_NN1
 Education_NN1
 and_CJC
@@ -20840,7 +20840,7 @@ the_AT0
 end_NN1
 of_PRF
 their_DPS
-broadcast_VVN
+broadcast_NN1
 Making_VVG
 a_AT0
 stock_NN1
@@ -20903,7 +20903,7 @@ publicity_NN1
 that_CJT
 it_PNP
 deserves_VVZ
-Links_NN2-VVZ
+Links_VVZ
 with_PRP
 industry_NN1
 The_AT0
@@ -20952,7 +20952,7 @@ is_VBZ
 likely_AJ0
 to_TO0
 succeed_VVI
-Links_NN2-VVZ
+Links_VVZ
 with_PRP
 industry_NN1
 may_VM0
@@ -20966,7 +20966,7 @@ can_VM0
 be_VBI
 persuaded_VVN
 to_TO0
-dip_VVI
+dip_NN1
 deep_AJ0
 into_PRP
 its_DPS
@@ -21002,7 +21002,7 @@ point_NN1
 point_NN1
 being_VBG
 an_AT0
-improved_AJ0
+improved_VVN
 image_NN1
 of_PRF
 community_NN1
@@ -21086,7 +21086,7 @@ pursuit_NN1
 of_PRF
 financial_AJ0
 support_NN1
-Cash_NN1-VVB
+Cash_NN1
 may_VM0
 be_VBI
 hard_AJ0
@@ -21176,7 +21176,7 @@ time_NN1
 in_PRP
 terms_NN2
 of_PRF
-improved_AJ0
+improved_VVN
 public_AJ0
 relations_NN2
 and_CJC
@@ -21250,7 +21250,7 @@ for_PRP
 children_NN2
 Some_DT0
 competitions_NN2
-yield_VVI
+yield_NN1
 better_AJC
 results_NN2
 than_CJS
@@ -21535,7 +21535,7 @@ joy_NN1
 of_PRF
 complaints_NN2
 They_PNP
-rake_NN1-VVB
+rake_NN1
 through_PRP
 customer_NN1
 complaints_NN2
@@ -21598,7 +21598,7 @@ of_PRF
 service_NN1
 that_CJT
 they_PNP
-feel_VVI
+feel_VVB
 they_PNP
 deserve_VVB
 Grumbles_NN2
@@ -21637,7 +21637,7 @@ used_VVN
 help_VVI
 in_PRP
 the_AT0
-forestalling_VVG-AJ0
+forestalling_VVG
 of_PRF
 trouble_NN1
 and_CJC
@@ -21651,7 +21651,7 @@ the_AT0
 school_NN1
 can_VM0
 be_VBI
-improved_AJ0
+improved_VVN
 Showing_VVG
 a_AT0
 genuine_AJ0
@@ -21743,7 +21743,7 @@ playhouse_NN1
 comer_NN1
 can_VM0
 unless_CJS
-prompt_VVI
+prompt_AJ0
 action_NN1
 is_VBZ
 taken_VVN
@@ -21800,7 +21800,7 @@ of_PRF
 its_DPS
 adult_NN1
 audience_NN1
-Counting_VVG-NN1
+Counting_VVG
 to_TO0
 ten_CRD
 and_CJC
@@ -21876,7 +21876,7 @@ are_VBB
 not_XX0
 made_VVN
 to_TO0
-feel_VVI
+feel_VVB
 foolish_AJ0
 There_EX0
 are_VBB
@@ -21993,7 +21993,7 @@ be_VBI
 cancelled_VVN
 at_PRP
 short_AJ0
-notice_VVI
+notice_NN1
 cardigans_NN2
 and_CJC
 coats_NN2
@@ -22135,7 +22135,7 @@ apology_NN1
 is_VBZ
 often_AV0
 less_AV0
-damaging_VVG-AJ0
+damaging_AJ0
 than_CJS
 a_AT0
 grudging_AJ0
@@ -22164,7 +22164,7 @@ action_NN1
 will_VM0
 be_VBI
 taken_VVN
-Show_NN1-VVB
+Show_NN1
 your_DPS
 concern_NN1
 offer_VVI
@@ -22323,7 +22323,7 @@ back_AVP
 on_PRP
 the_AT0
 people_NN0
-involved_AJ0
+involved_VVN
 parents_NN2
 teachers_NN2
 and_CJC
@@ -22331,7 +22331,7 @@ pupils_NN2
 to_TO0
 get_VVI
 the_AT0
-feel_VVI
+feel_VVB
 of_PRF
 any_DT0
 frustration_NN1
@@ -22385,19 +22385,19 @@ lose_VVI
 If_CJS
 the_AT0
 parents_NN2
-feel_VVI
+feel_VVB
 badly_AV0
 treated_VVN
 or_CJC
 even_AV0
 worse_AJC
-humiliated_AJ0-VVN
+humiliated_VVN
 then_AV0
 they_PNP
 will_VM0
 quite_AV0
 likely_AJ0
-broadcast_VVN
+broadcast_NN1
 their_DPS
 version_NN1
 of_PRF
@@ -22893,7 +22893,7 @@ of_PRF
 double_AJ0
 standards_NN2
 will_VM0
-fly_VVI
+fly_NN1
 Controversial_AJ0
 changes_NN2
 Occasionally_AV0
@@ -23783,7 +23783,7 @@ prizes_NN2
 and_CJC
 jumble_NN1
 or_CJC
-grumbles_VVZ-NN2
+grumbles_NN2
 about_PRP
 late_AJ0
 dinner_NN1
@@ -24179,7 +24179,7 @@ skills_NN2
 by_PRP
 the_AT0
 popular_AJ0
-tabloid_AJ0-NN1
+tabloid_AJ0
 press_NN1
 The_AT0
 emphasis_NN1
@@ -24253,7 +24253,7 @@ of_PRF
 those_DT0
 mysterious_AJ0
 unread_AJ0
-shredded_VVD-VVN
+shredded_VVN
 soggy_AJ0
 paper_NN1
 messes_NN2
@@ -24317,7 +24317,7 @@ and_CJC
 on_PRP
 the_AT0
 playground_NN1
-notice_VVI
+notice_NN1
 board_NN1
 is_VBZ
 an_AT0
@@ -24342,7 +24342,7 @@ name_NN1
 boards_NN2
 but_CJC
 no_AT0
-notice_VVI
+notice_NN1
 boards_NN2
 A_AT0
 strong_AJ0
@@ -24385,7 +24385,7 @@ newsletters_NN2
 Do_VDB
 mid-day_NN1
 supervisors_NN2
-cooks_NN2-VVZ
+cooks_NN2
 cleaners_NN2
 caretaker_NN1
 and_CJC
@@ -24479,7 +24479,7 @@ from_PRP
 school_NN1
 to_TO0
 home_NN1
-Reporting_VVG-NN1
+Reporting_NN1
 development_NN1
 in_PRP
 the_AT0
@@ -24492,7 +24492,7 @@ targets_NN2
 and_CJC
 achievements_NN2
 in_PRP
-SATs_NP0
+SATs_NN2
 introduces_VVZ
 a_AT0
 new_AJ0
@@ -24531,7 +24531,7 @@ equated_VVN
 with_PRP
 1st_ORD
 class_NN1
-Reporting_VVG-NN1
+Reporting_NN1
 on_PRP
 the_AT0
 progress_NN1
@@ -24638,9 +24638,9 @@ Education_NN1
 Reform_NN1
 Act_NN1
 1988_CRD
-Circular_NN1-AJ0
+Circular_NN1
 1988_CRD
-Circular_NN1-AJ0
+Circular_NN1
 14/89_CRD
 to_TO0
 produce_VVI
@@ -24839,7 +24839,7 @@ excluding_VVG
 the_AT0
 statutory_AJ0
 daily_AJ0
-act_VVI
+act_NN1
 of_PRF
 collective_AJ0
 worship_NN1
@@ -24876,7 +24876,7 @@ section_NN1
 23_CRD
 of_PRF
 the_AT0
-ERA_NP0-NN1
+ERA_NP0
 10_CRD
 how_AVQ
 to_TO0
@@ -25021,7 +25021,7 @@ of_PRF
 the_AT0
 school_NN1
 child_NN1
-centred_VVN-VVD
+centred_VVN
 church_NN1
 school_NN1
 traditional_AJ0
@@ -25503,7 +25503,7 @@ members_NN2
 of_PRF
 their_DPS
 flock_NN1
-inquiring_VVG-AJ0
+inquiring_AJ0
 about_PRP
 schools_NN2
 in_PRP
@@ -25605,7 +25605,7 @@ the_AT0
 school_NN1
 at_PRP
 short_AJ0
-notice_VVI
+notice_NN1
 How_AVQ
 do_VDB
 you_PNP
@@ -25647,7 +25647,7 @@ local_AJ0
 radio_NN1
 station_NN1
 to_TO0
-broadcast_VVN
+broadcast_NN1
 news_NN1
 of_PRF
 the_AT0
@@ -25669,10 +25669,10 @@ school_NN1
 is_VBZ
 to_TO0
 be_VBI
-closed_VVD
+closed_VVN
 at_PRP
 short_AJ0
-notice_VVI
+notice_NN1
 As_CJS
 winter_NN1
 approaches_NN2
@@ -25689,7 +25689,7 @@ school_NN1
 procedures_NN2
 for_PRP
 short_AJ0
-notice_VVI
+notice_NN1
 closures_NN2
 with_PRP
 a_AT0
@@ -25768,7 +25768,7 @@ kept_VVD
 off_AVP
 school_NN1
 for_PRP
-mumps_NN2-VVZ
+mumps_NN2
 measles_NN0
 and_CJC
 other_AJ0
@@ -25942,7 +25942,7 @@ know_VVI
 where_AVQ
 the_AT0
 string_NN1
-sellotape_NN1-VVB
+sellotape_NN1
 and_CJC
 gun_NN1
 tackers_NN2
@@ -25962,7 +25962,7 @@ be_VBI
 more_AV0
 newsletters_NN2
 posters_NN2
-notice_VVI
+notice_NN1
 boards_NN2
 and_CJC
 more_AV0
@@ -25978,7 +25978,7 @@ hours_NN2
 There_EX0
 will_VM0
 be_VBI
-increased_AJ0
+increased_VVN
 printing_NN1
 costs_NN2
 and_CJC
@@ -26004,7 +26004,7 @@ by_PRP
 parent_NN1
 support_NN1
 The_AT0
-increased_AJ0
+increased_VVN
 demands_NN2
 both_AV0
 in_PRP
@@ -26105,7 +26105,7 @@ that_CJT
 there_EX0
 is_VBZ
 no_AT0
-overstepping_NN1-VVG
+overstepping_NN1
 into_PRP
 open_AJ0
 conflict_NN1
@@ -26129,7 +26129,7 @@ secondary_AJ0
 schools_NN2
 in_PRP
 Abingdon_NP0
-pooled_AJ0-VVD
+pooled_AJ0
 their_DPS
 resources_NN2
 to_TO0
@@ -26183,7 +26183,7 @@ and_CJC
 running_VVG
 of_PRF
 the_AT0
-Independent_AJ0
+Independent_NN1
 Schools_NN2
 Information_NN1
 Service_NN1
@@ -26336,7 +26336,7 @@ of_PRF
 children_NN2
 in_PRP
 a_AT0
-caring_VVG-NN1
+caring_NN1
 environment_NN1
 can_VM0
 become_VVI
@@ -26442,11 +26442,11 @@ attention_NN1
 and_CJC
 money_NN1
 Some_DT0
-sleeping_VVG
+sleeping_NN1
 dogs_NN2
 prefer_VVB
 to_TO0
-lie_VVI
+lie_VVB
 and_CJC
 will_VM0
 be_VBI
@@ -26469,7 +26469,7 @@ others_NN2
 who_PNQ
 will_VM0
 interpret_VVI
-listening_VVG-NN1
+listening_VVG
 and_CJC
 responding_VVG
 as_CJS
@@ -26811,7 +26811,7 @@ staff_NN0
 and_CJC
 pupil_NN1
 absences_NN2
-improved_AJ0
+improved_VVN
 turnout_NN1
 to_TO0
 parents_NN2
@@ -26843,7 +26843,7 @@ involving_VVG
 friction_NN1
 and_CJC
 aggression_NN1
-improved_AJ0
+improved_VVN
 community_NN1
 awareness_NN1
 of_PRF
@@ -26970,7 +26970,7 @@ school_NN1
 to_TO0
 tap_NN1
 into_PRP
-specialist_NN1-AJ0
+specialist_NN1
 knowledge_NN1
 and_CJC
 expertise_NN1
@@ -27104,7 +27104,7 @@ no_AT0
 time_NN1
 to_TO0
 waste_NN1
-Inviting_AJ0-VVG
+Inviting_VVG
 secondary_AJ0
 schools_NN2
 to_TO0
@@ -27149,7 +27149,7 @@ use_NN1
 and_CJC
 their_DPS
 community_NN1
-notice_VVI
+notice_NN1
 board_NN1
 could_VM0
 support_NN1
@@ -27238,7 +27238,7 @@ about_PRP
 good_AJ0
 local_AJ0
 schools_NN2
-Support_NN1-VVB
+Support_NN1
 services_NN2
 visitors_NN2
 ranging_VVG
@@ -27461,7 +27461,7 @@ positive_AJ0
 publicity_NN1
 Even_AV0
 though_CJS
-glowing_AJ0-VVG
+glowing_AJ0
 reports_NN2
 of_PRF
 fund_NN1
@@ -27709,7 +27709,7 @@ ought_VM0
 to_TO0
 generate_VVI
 through_PRP
-hire_VVI
+hire_NN1
 of_PRF
 the_AT0
 premises_NN2
@@ -28233,7 +28233,7 @@ time_NN1
 and_CJC
 money_NN1
 but_CJC
-smiling_VVG-AJ0
+smiling_VVG
 a_AT0
 lot_NN1
 and_CJC
@@ -28649,7 +28649,7 @@ they_PNP
 can_VM0
 listen_VVI
 to_TO0
-audio_AJ0-NN1
+audio_AJ0
 tapes_NN2
 in_PRP
 the_AT0
@@ -28673,7 +28673,7 @@ things_NN2
 around_PRP
 the_AT0
 house_NN1
-Planning_NN1-VVG
+Planning_NN1
 fund_NN1
 raising_VVG
 activities_NN2
@@ -28760,7 +28760,7 @@ in_PRP
 maximum_AJ0
 returns_VVZ
 for_PRP
-minimum_AJ0-NN1
+minimum_AJ0
 expenditure_NN1
 of_PRF
 energy_NN1
@@ -28872,7 +28872,7 @@ shortage_NN1
 of_PRF
 basic_AJ0
 equipment_NN1
-Planning_NN1-VVG
+Planning_NN1
 needs_VVZ
 to_TO0
 take_VVI
@@ -29066,7 +29066,7 @@ for_PRP
 new_AJ0
 members_NN2
 to_TO0
-cast_VVN
+cast_NN1
 doubts_NN2
 on_PRP
 the_AT0
@@ -29223,7 +29223,7 @@ people_NN0
 should_VM0
 not_XX0
 only_AV0
-feel_VVI
+feel_VVB
 virtuous_AJ0
 at_PRP
 parting_NN1
@@ -29471,7 +29471,7 @@ undertaking_VVG
 will_VM0
 take_VVI
 a_AT0
-pre-specified_NN1-AJ0
+pre-specified_AJ0
 and_CJC
 limited_AJ0
 time_NN1
@@ -29481,7 +29481,7 @@ help_VVI
 run_VVI
 the_AT0
 lucky_AJ0
-dip_VVI
+dip_NN1
 stall_NN1
 at_PRP
 the_AT0
@@ -29510,7 +29510,7 @@ with_PRP
 the_AT0
 summer_NN1
 fayre_NN1
-Handling_VVG-NN1
+Handling_NN1
 money_NN1
 Accurate_AJ0
 and_CJC
@@ -29590,7 +29590,7 @@ placed_VVN
 on_PRP
 protecting_VVG
 those_DT0
-involved_AJ0
+involved_VVN
 from_PRP
 any_DT0
 possible_AJ0
@@ -29633,7 +29633,7 @@ they_PNP
 leave_VVI
 then_AV0
 either_AV0
-banked_AJ0
+banked_VVD
 straight_AV0
 away_AV0
 or_CJC
@@ -29706,7 +29706,7 @@ voluntary_AJ0
 activities_NN2
 have_VHB
 gone_VVN
-missing_VVG-AJ0
+missing_VVG
 and_CJC
 because_CJS
 the_AT0
@@ -30020,7 +30020,7 @@ entertainment_NN1
 is_VBZ
 the_AT0
 sponsored_VVN
-Krypton_NN1-NP0
+Krypton_NP0
 Factor_NN1
 type_NN1
 event_NN1
@@ -30030,7 +30030,7 @@ given_VVN
 a_AT0
 list_NN1
 of_PRF
-intellectual_AJ0-NN1
+intellectual_AJ0
 challenges_NN2
 to_TO0
 master_NN1
@@ -30111,7 +30111,7 @@ is_VBZ
 a_AT0
 financial_AJ0
 outlay_NN1
-involved_AJ0
+involved_VVN
 in_PRP
 running_VVG
 a_AT0
@@ -30278,7 +30278,7 @@ area_NN1
 It_PNP
 's_POS
 worth_PRP
-gathering_NN1
+gathering_VVG
 as_CJS
 many_DT0
 prizes_NN2
@@ -30328,7 +30328,7 @@ a_AT0
 steady_AJ0
 income_NN1
 earner_NN1
-Bulk_VVB-NN1
+Bulk_VVB
 buy_VVI
 clubs_NN2
 Some_DT0
@@ -30760,7 +30760,7 @@ or_CJC
 major_AJ0
 football_NN1
 ground_NN1
-Charging_VVG-AJ0
+Charging_AJ0
 to_TO0
 park_NN1
 on_PRP
@@ -30777,7 +30777,7 @@ Finding_VVG
 helpers_NN2
 willing_AJ0
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 car_NN1
 park_NN1
@@ -30963,7 +30963,7 @@ number_NN1
 of_PRF
 people_NN0
 are_VBB
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 selection_NN1
@@ -31020,7 +31020,7 @@ getting_VVG
 the_AT0
 local_AJ0
 community_NN1
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 school_NN1
@@ -31563,7 +31563,7 @@ the_AT0
 long_AJ0
 term_NN1
 2_CRD
-Disregard_VVB-NN1
+Disregard_NN1
 things_NN2
 that_CJT
 we_PNP
@@ -31660,7 +31660,7 @@ improve_VVI
 your_DPS
 school_NN1
 Parents_NN2
-notice_VVI
+notice_NN1
 board_NN1
 Maintaining_VVG
 confidence_NN1
@@ -31701,7 +31701,7 @@ messages_NN2
 of_PRF
 respecting_VVG
 and_CJC
-caring_VVG-NN1
+caring_NN1
 for_PRP
 others_NN2
 It_PNP
@@ -31730,7 +31730,7 @@ of_PRF
 a_AT0
 parents_NN2
 '_POS
-notice_VVI
+notice_NN1
 board_NN1
 where_AVQ
 details_NN2
@@ -31991,7 +31991,7 @@ and_CJC
 maintained_VVN
 the_AT0
 personal_AJ0
-caring_VVG-NN1
+caring_NN1
 touch_NN1
 and_CJC
 the_AT0
@@ -32151,7 +32151,7 @@ casually_AV0
 inquire_VVI
 about_PRP
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 strengths_NN2
 and_CJC
 attractions_NN2
@@ -32332,7 +32332,7 @@ complacency_NN1
 fatalism_NN1
 and_CJC
 despondency_NN1
-creeps_VVZ-NN2
+creeps_VVZ
 in_PRP
 A_AT0
 negative_AJ0
@@ -32591,7 +32591,7 @@ that_CJT
 might_VM0
 be_VBI
 done_VDN
-Planning_NN1-VVG
+Planning_NN1
 needs_VVZ
 to_TO0
 incorporate_VVI
@@ -32889,9 +32889,9 @@ with_PRP
 the_AT0
 child_NN1
 's_POS
-present_AJ0-NN1
+present_AJ0
 school_NN1
-Educating_VVG-AJ0
+Educating_AJ0
 pupils_NN2
 with_PRP
 special_AJ0
@@ -32904,7 +32904,7 @@ expensive_AJ0
 activity_NN1
 and_CJC
 being_VBG
-caring_VVG-NN1
+caring_NN1
 compassionate_AJ0
 and_CJC
 tolerant_AJ0
@@ -32937,7 +32937,7 @@ particularly_AV0
 the_AT0
 employment_NN1
 of_PRF
-specialist_NN1-AJ0
+specialist_NN1
 teachers_NN2
 and_CJC
 ancillaries_NN2
@@ -32945,7 +32945,7 @@ Staffing_NN1
 the_AT0
 curriculum_NN1
 and_CJC
-matching_VVG
+matching_AJ0
 the_AT0
 needs_VVZ
 of_PRF
@@ -33043,7 +33043,7 @@ image_NN1
 in_PRP
 the_AT0
 community_NN1
-Support_NN1-VVB
+Support_NN1
 may_VM0
 also_AV0
 be_VBI
@@ -33115,7 +33115,7 @@ equal_AJ0
 opportunity_NN1
 racial_AJ0
 harassment_NN1
-bullying_VVG-NN1
+bullying_VVG
 physical_AJ0
 handicap_NN1
 or_CJC
@@ -33229,7 +33229,7 @@ individuals_NN2
 and_CJC
 opposition_NN1
 virtually_AV0
-faded_AJ0
+faded_VVN
 away_AV0
 A_AT0
 reputation_NN1
@@ -33302,7 +33302,7 @@ are_VBB
 dissatisfied_AJ0
 with_PRP
 their_DPS
-present_AJ0-NN1
+present_AJ0
 school_NN1
 Pushing_VVG
 back_AVP
@@ -33388,7 +33388,7 @@ parents_NN2
 than_CJS
 having_VHG
 to_TO0
-walk_VVI
+walk_NN1
 an_AT0
 extra_AJ0
 few_DT0
@@ -33664,7 +33664,7 @@ check_VVI
 on_PRP
 wear_VVI
 and_CJC
-tear_NN1-VVB
+tear_NN1
 or_CJC
 even_AV0
 sabotage_NN1
@@ -33962,7 +33962,7 @@ to_TO0
 guard_NN1
 their_DPS
 own_DT0
-Listening_VVG-NN1
+Listening_VVG
 to_TO0
 parents_NN2
 in_PRP
@@ -34015,7 +34015,7 @@ does_VDZ
 n't_XX0
 take_VVI
 complaint_NN1
-gathering_NN1
+gathering_VVG
 seriously_AV0
 and_CJC
 parents_NN2
@@ -34087,7 +34087,7 @@ possibility_NN1
 St_NP0
 George_NP0
 's_POS
-CE_NN1-NP0
+CE_NP0
 Comprehensive_AJ0
 School_NN1
 in_PRP
@@ -34295,7 +34295,7 @@ to_TO0
 local_AJ0
 playgroups_NN2
 to_TO0
-present_AJ0-NN1
+present_AJ0
 each_DT0
 child_NN1
 with_PRP
@@ -34317,7 +34317,7 @@ in_PRP
 the_AT0
 Times_NN2
 Educational_AJ0
-Supplement_NN1-VVB
+Supplement_NN1
 that_CJT
 Ferndale_NP0
 Comprehensive_AJ0
@@ -34500,7 +34500,7 @@ schools_NN2
 in_PRP
 the_AT0
 neighbourhood_NN1
-competing_VVG-AJ0
+competing_AJ0
 for_PRP
 children_NN2
 but_CJC
@@ -34602,7 +34602,7 @@ area_NN1
 they_PNP
 have_VHB
 always_AV0
-depended_VVN-VVD
+depended_VVD
 on_PRP
 the_AT0
 forces_NN2
@@ -34707,7 +34707,7 @@ to_TO0
 improve_VVI
 PTR_NP0
 by_PRP
-diverting_VVG-AJ0
+diverting_VVG
 money_NN1
 which_DTQ
 has_VHZ
@@ -34869,4 +34869,4 @@ and_CJC
 their_DPS
 efforts_NN2
 highly_AV0
-publicised_AJ0-VVN
+publicised_VVN

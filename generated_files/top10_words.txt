@@ -2,9 +2,9 @@
 'of_PRF': 119887
 'and_CJC': 97072
 'a_AT0': 80398
-'in_PRP': 60764
+'in_PRP': 65132
 'to_TO0': 59034
 'to_PRP': 38263
 'was_VBD': 38017
 'is_VBZ': 36731
-'for_PRP': 28771
+'that_CJT': 29543

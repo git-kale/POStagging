@@ -39,7 +39,7 @@ gentry_NN0
 the_AT0
 Stirlings_NP0
 of_PRF
-Keir_NP0-NN1
+Keir_NP0
 he_PNP
 was_VBD
 the_AT0
@@ -135,11 +135,11 @@ original_AJ0
 L_ZZ0
 Detachment_NN1
 George_NP0
-Berg\xc3\xa9_NP0-NN1
+Berg\xc3\xa9_NP0
 who_PNQ
 started_VVD
 the_AT0
-French_AJ0-NN1
+French_AJ0
 S.A.S._NP0
 Brian_NP0
 Franks_NP0
@@ -271,7 +271,7 @@ excelled_VVD
 in_PRP
 outdoor_AJ0
 activities_NN2
-deer-stalking_NN1-AJ0
+deer-stalking_NN1
 mountaineering_NN1
 and_CJC
 shooting_VVG
@@ -321,7 +321,7 @@ to_TO0
 be_VBI
 diverted_VVN
 by_PRP
-horse-racing_NN1-AJ0
+horse-racing_NN1
 and_CJC
 other_AJ0
 forms_NN2
@@ -459,7 +459,7 @@ May_NP0
 Stirling_NP0
 was_VBD
 in_PRP
-Chamonix_NP0-NN1
+Chamonix_NP0
 training_NN1
 with_PRP
 a_AT0
@@ -724,7 +724,7 @@ chance_NN1
 He_PNP
 effectively_AV0
 wrecked_AJ0
-Ludo_NN1-NP0
+Ludo_NP0
 as_CJS
 a_AT0
 game_NN1
@@ -812,7 +812,7 @@ retreat_NN1
 back_AVP
 to_TO0
 the_AT0
-Egyptian_AJ0-NN1
+Egyptian_AJ0
 border_NN1
 leaving_VVG
 only_AV0
@@ -855,12 +855,12 @@ No._NN1
 11_CRD
 Commando_NN1
 became_VVD
-involved_AJ0
+involved_VVN
 in_PRP
 fighting_VVG
 the_AT0
 Vichy_NP0
-French_AJ0-NN1
+French_AJ0
 in_PRP
 Syria_NP0
 while_CJS
@@ -1148,7 +1148,7 @@ height_NN1
 he_PNP
 tended_VVD
 to_TO0
-disguise_VVI
+disguise_NN1
 with_PRP
 a_AT0
 slight_AJ0
@@ -1176,7 +1176,7 @@ As_CJS
 Layforce_NP0
 was_VBD
 now_AV0
-spread_NN1
+spread_VVN
 out_AVP
 all_DT0
 over_PRP
@@ -1729,7 +1729,7 @@ was_VBD
 to_TO0
 keep_VVI
 him_PNP
-immobilized_VVD
+immobilized_AJ0
 for_PRP
 the_AT0
 best_AJS
@@ -1740,7 +1740,7 @@ months_NN2
 This_DT0
 period_NN1
 of_PRF
-enforced_AJ0
+enforced_VVN
 idleness_NN1
 however_AV0
 was_VBD
@@ -1778,7 +1778,7 @@ no_AT0
 longer_AV0
 any_DT0
 credible_AJ0
-raiding_AJ0-NN1
+raiding_AJ0
 force_NN1
 at_PRP
 the_AT0
@@ -1819,7 +1819,7 @@ to_TO0
 relieve_VVI
 Tobruk_NP0
 code-named_AJ0
-Battleaxe_NN1-NP0
+Battleaxe_NN1
 failed_VVN
 and_CJC
 the_AT0
@@ -1832,7 +1832,7 @@ was_VBD
 replaced_VVN
 by_PRP
 General_AJ0
-Auchinleck_NP0-NN1
+Auchinleck_NN1
 on_PRP
 2_CRD
 July_NP0
@@ -1999,7 +1999,7 @@ second_ORD
 leg_NN1
 and_CJC
 was_VBD
-twiddling_VVG-NN1
+twiddling_VVG
 my_DPS
 toes_NN2
 but_CJC
@@ -2041,7 +2041,7 @@ removed_VVN
 What_DTQ
 's_POS
 that_CJT
-twiddling_VVG-NN1
+twiddling_VVG
 at_PRP
 the_AT0
 end_NN1
@@ -2280,7 +2280,7 @@ and_CJC
 of_PRF
 making_VVG
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 demands_NN2
 on_PRP
 man-power_NN1
@@ -2704,7 +2704,7 @@ offensive_AJ0
 being_VBG
 planned_VVN
 by_PRP
-Auchinleck_NP0-NN1
+Auchinleck_NN1
 to_TO0
 take_VVI
 place_NN1
@@ -2728,7 +2728,7 @@ that_CJT
 the_AT0
 German_AJ0
 and_CJC
-Italian_AJ0-NN1
+Italian_AJ0
 air_NN1
 forces_NN2
 posed_VVD
@@ -2769,7 +2769,7 @@ His_DPS
 aim_NN1
 was_VBD
 to_TO0
-drop_VVI
+drop_NN1
 five_CRD
 parties_NN2
 by_PRP
@@ -2787,7 +2787,7 @@ enemy_NN1
 forward_AV0
 airfields_NN2
 around_PRP
-Timimi_NP0-NN1
+Timimi_NP0
 and_CJC
 Gazala_NP0
 They_PNP
@@ -2823,7 +2823,7 @@ of_PRF
 the_AT0
 Long_AJ0
 Range_NN1
-Desert_NN1-VVB
+Desert_NN1
 Group_NN1
 LRDG_NP0
 This_DT0
@@ -2887,7 +2887,7 @@ was_VBD
 Major_NP0
 R._NP0
 A._NP0
-Bagnold_NP0-NN1
+Bagnold_NP0
 and_CJC
 in_PRP
 June_NP0
@@ -2909,7 +2909,7 @@ enemy_NN1
 lines_NN2
 Using_VVG
 30-cwt_NN0
-Chevrolet_NN1-NP0
+Chevrolet_NN1
 trucks_NN2
 the_AT0
 LRDG_NP0
@@ -2940,7 +2940,7 @@ story_NN1
 of_PRF
 how_AVQ
 the_AT0
-convalescent_AJ0-NN1
+convalescent_AJ0
 David_NP0
 Stirling_NP0
 got_VVN
@@ -2951,7 +2951,7 @@ the_AT0
 hands_NN2
 of_PRF
 General_AJ0
-Auchinleck_NP0-NN1
+Auchinleck_NN1
 was_VBD
 told_VVD
 to_TO0
@@ -3034,7 +3034,7 @@ leaving_VVG
 the_AT0
 crutches_NN2
 behind_PRP
-Limping_VVG-AJ0
+Limping_AJ0
 across_PRP
 the_AT0
 courtyard_NN1
@@ -3050,7 +3050,7 @@ raised_VVN
 a_AT0
 hue_NN1
 and_CJC
-cry_VVI
+cry_NN1
 The_AT0
 second_ORD
 lieutenant_NN1
@@ -3144,7 +3144,7 @@ the_AT0
 Scots_NN2
 Guards_NN2
 at_PRP
-Pirbright_NP0-NN1
+Pirbright_NP0
 in_PRP
 1939_CRD
 a_AT0
@@ -3188,7 +3188,7 @@ door_NN1
 of_PRF
 the_AT0
 Deputy_NN1
-Chief_NP0
+Chief_NN1
 of_PRF
 Staff_NN0
 who_PNQ
@@ -3203,7 +3203,7 @@ and_CJC
 handed_VVD
 him_PNP
 his_DPS
-pencil-written_AJ0-NN1
+pencil-written_AJ0
 memorandum_NN1
 To_TO0
 his_DPS
@@ -3228,7 +3228,7 @@ hand_NN1
 it_PNP
 personally_AV0
 to_TO0
-Auchinleck_NP0-NN1
+Auchinleck_NN1
 He_PNP
 said_VVD
 that_CJT
@@ -3350,13 +3350,13 @@ the_AT0
 Suez_NP0
 Canal_NN1
 at_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 as_CJS
 a_AT0
 base_NN1
 This_DT0
 embryo_NN1
-raiding_AJ0-NN1
+raiding_AJ0
 force_NN1
 was_VBD
 to_TO0
@@ -3428,7 +3428,7 @@ dummies_NN2
 by_PRP
 parachute_NN1
 near_PRP
-Italian_AJ0-NN1
+Italian_AJ0
 prisoner-of-war_NN1
 camps_NN2
 and_CJC
@@ -3483,7 +3483,7 @@ the_AT0
 surrounding_AJ0
 enemy_NN1
 outposts_NN2
-Travelling_VVG-NN1
+Travelling_VVG
 there_EX0
 by_PRP
 boat_NN1
@@ -3585,13 +3585,13 @@ a_AT0
 raid_NN1
 along_AVP
 the_AT0
-Litani_AJ0-NN1
+Litani_NN1
 river_NN1
 in_PRP
 Syria_NP0
 against_PRP
 Vichy_NP0
-French_AJ0-NN1
+French_AJ0
 forces_NN2
 in_PRP
 June_NP0
@@ -3847,8 +3847,8 @@ at_PRP
 a_AT0
 place_NN1
 called_VVN
-Bug_NN1-VVB
-Bug_NN1-VVB
+Bug_NN1
+Bug_NN1
 from_PRP
 where_AVQ
 Johnny_NP0
@@ -3947,7 +3947,7 @@ which_DTQ
 took_VVD
 them_PNP
 to_TO0
-Kabrit_NP0-NN1
+Kabrit_NP0
 On_PRP
 arrival_NN1
 we_PNP
@@ -4316,7 +4316,7 @@ priority_NN1
 though_CJS
 was_VBD
 to_TO0
-weld_VVB-NN1
+weld_NN1
 a_AT0
 disparate_AJ0
 group_NN1
@@ -4600,7 +4600,7 @@ Bennett_NP0
 was_VBD
 a_AT0
 typical_AJ0
-Cockney_NN1-AJ0
+Cockney_NN1
 with_PRP
 a_AT0
 dry_AJ0
@@ -4621,7 +4621,7 @@ get_VVI
 away_AV0
 from_PRP
 the_AT0
-parade-ground_AJ0-NN1
+parade-ground_AJ0
 atmosphere_NN1
 of_PRF
 the_AT0
@@ -4753,7 +4753,7 @@ laid_VVN
 down_AVP
 by_PRP
 Stirling_NP0
-differed_VVN-VVD
+differed_VVN
 from_PRP
 those_DT0
 in_PRP
@@ -4782,7 +4782,7 @@ hand_NN1
 had_VHD
 set_VVN
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 standard_NN1
 to_TO0
 which_DTQ
@@ -4814,7 +4814,7 @@ that_CJT
 standard_NN1
 Even_AV0
 today_AV0
-RTU_NP0-NN1
+RTU_NP0
 is_VBZ
 the_AT0
 ultimate_AJ0
@@ -4859,7 +4859,7 @@ it_PNP
 was_VBD
 necessary_AJ0
 to_TO0
-act_VVI
+act_NN1
 tough_AJ0
 all_DT0
 the_AT0
@@ -5114,7 +5114,7 @@ help_VVI
 was_VBD
 sent_VVN
 to_TO0
-Ringway_NP0-NN1
+Ringway_NP0
 near_PRP
 Manchester_NP0
 where_AVQ
@@ -5159,7 +5159,7 @@ England_NP0
 and_CJC
 remained_VVD
 a_AT0
-chief_AJ0-NN1
+chief_NN1
 parachute_NN1
 instructor_NN1
 Lewes_NP0
@@ -5181,7 +5181,7 @@ to_TO0
 simulate_VVI
 the_AT0
 final_AJ0
-drop_VVI
+drop_NN1
 of_PRF
 landing_NN1
 What_DTQ
@@ -5272,7 +5272,7 @@ Bombay_NP0
 an_AT0
 aged_PRP
 and_CJC
-under-powered_AJ0-VVN
+under-powered_AJ0
 troop-carrier_NN1
 from_PRP
 216_CRD
@@ -5308,7 +5308,7 @@ fixed_AJ0
 by_PRP
 a_AT0
 dog-lead_AJ0
-clip_NN1-VVB
+clip_NN1
 The_AT0
 group_NN1
 to_TO0
@@ -5412,7 +5412,7 @@ transpired_VVD
 that_CJT
 somehow_AV0
 the_AT0
-clips_NN2-VVZ
+clips_NN2
 had_VHD
 twisted_VVD
 and_CJC
@@ -5494,7 +5494,7 @@ advanced_AJ0
 medical_AJ0
 care_NN1
 on_PRP
-intelligence-gathering_AJ0-NN1
+intelligence-gathering_NN1
 signalling_VVG
 and_CJC
 demolitions_NN2
@@ -5515,7 +5515,7 @@ weapon_NN1
 including_PRP
 German_AJ0
 and_CJC
-Italian_AJ0-NN1
+Italian_AJ0
 ones_NN2
 There_EX0
 was_VBD
@@ -5630,7 +5630,7 @@ have_VHB
 to_TO0
 survive_VVI
 on_PRP
-minimum_AJ0-NN1
+minimum_AJ0
 sustenance_NN1
 and_CJC
 to_TO0
@@ -5710,7 +5710,7 @@ we_PNP
 go_VVI
 on_PRP
 a_AT0
-ten-_NN1-AJ0
+ten-_NN1
 to_TO0
 twenty-mile_AJ0
 march_NN1
@@ -5980,7 +5980,7 @@ of_PRF
 the_AT0
 wing_NN1
 and_CJC
-detonated_VVN-VVD
+detonated_VVD
 it_PNP
 There_EX0
 was_VBD
@@ -6111,7 +6111,7 @@ unit_NN1
 set_VVN
 out_AVP
 from_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 at_PRP
 night_NN1
 carrying_VVG
@@ -6166,7 +6166,7 @@ The_AT0
 various_AJ0
 small_AJ0
 patrols_NN2
-converged_VVN-VVD
+converged_VVN
 on_PRP
 the_AT0
 target_NN1
@@ -6185,12 +6185,12 @@ from_PRP
 different_AJ0
 directions_NN2
 They_PNP
-plastered_VVD
+plastered_VVN
 a_AT0
 considerable_AJ0
 number_NN1
 of_PRF
-parked_VVN
+parked_VVD
 aircraft_NN0
 with_PRP
 sticky_AJ0
@@ -6348,7 +6348,7 @@ to_TO0
 Stirling_NP0
 The_AT0
 only_AV0
-fly_VVI
+fly_NN1
 in_PRP
 the_AT0
 ointment_NN1
@@ -6405,7 +6405,7 @@ I_PNP
 pick_VVI
 mine_PNP
 The_AT0
-offending_AJ0-NN1
+offending_AJ0
 headgear_NN1
 was_VBD
 soon_AV0
@@ -6424,7 +6424,7 @@ then_AV0
 by_PRP
 the_AT0
 famous_AJ0
-sand-coloured_AJ0-NN1
+sand-coloured_AJ0
 beret_NN1
 A_AT0
 set_VVN
@@ -6455,7 +6455,7 @@ in_PRP
 the_AT0
 foyer_NN1
 at_PRP
-Shepherd_NP0-NN1
+Shepherd_NP0
 's_POS
 Hotel_NN1
 The_AT0
@@ -6504,7 +6504,7 @@ to_TO0
 have_VHB
 its_DPS
 own_DT0
-self-designed_AJ0-NN1
+self-designed_AJ0
 insignia_NN1
 but_CJC
 some_DT0
@@ -6521,13 +6521,13 @@ on_PRP
 parade_NN1
 when_CJS
 General_AJ0
-Auchinleck_NP0-NN1
+Auchinleck_NN1
 came_VVD
 to_TO0
 inspect_VVI
 them_PNP
 at_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 The_AT0
 Commander-in-Chief_NN1
 returned_VVD
@@ -6553,7 +6553,7 @@ official_AJ0
 approval_NN1
 Operation_NN1
 Crusader_NN1
-Auchinleck_NP0-NN1
+Auchinleck_NN1
 's_POS
 offensive_AJ0
 to_TO0
@@ -6665,13 +6665,13 @@ of_PRF
 16_CRD
 November_NP0
 and_CJC
-drop_VVI
+drop_NN1
 near_PRP
 their_DPS
 targets_NN2
 They_PNP
 would_VM0
-lie_VVI
+lie_VVB
 up_AVP
 the_AT0
 following_AJ0
@@ -6694,7 +6694,7 @@ targets_NN2
 the_AT0
 airfields_NN2
 at_PRP
-Timimi_NP0-NN1
+Timimi_NP0
 and_CJC
 Gazala_NP0
 Then_AV0
@@ -6718,7 +6718,7 @@ their_DPS
 bombs_NN2
 on_PRP
 the_AT0
-parked_VVN
+parked_VVD
 enemy_NN1
 aircraft_NN0
 Once_AV0
@@ -6757,7 +6757,7 @@ of_PRF
 the_AT0
 Long_AJ0
 Range_NN1
-Desert_NN1-VVB
+Desert_NN1
 Group_NN1
 It_PNP
 can_VM0
@@ -6837,7 +6837,7 @@ he_PNP
 was_VBD
 left_VVN
 at_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 as_CJS
 a_AT0
 result_NN1
@@ -6867,7 +6867,7 @@ the_AT0
 forward_AV0
 airfield_NN1
 at_PRP
-Bagoush_NP0-NN1
+Bagoush_NP0
 in_PRP
 high_AJ0
 spirits_NN2
@@ -7071,7 +7071,7 @@ buy_VVI
 a_AT0
 tin_NN1
 of_PRF
-Craven_NP0-NN1
+Craven_NN1
 A_AT0
 cigarettes_NN2
 Stirling_NP0
@@ -7327,7 +7327,7 @@ all_DT0
 vital_AJ0
 supplies_NN2
 were_VBD
-missing_VVG-AJ0
+missing_VVG
 They_PNP
 had_VHD
 some_DT0
@@ -7359,13 +7359,13 @@ dropped_VVN
 with_PRP
 essential_AJ0
 parts_NN2
-missing_VVG-AJ0
+missing_VVG
 from_PRP
 the_AT0
 load_NN1
 With_PRP
 deep_AJ0
-regret_VVI
+regret_NN1
 he_PNP
 decided_VVD
 that_CJT
@@ -7429,7 +7429,7 @@ I_PNP
 kept_VVD
 my_DPS
 legs_NN2
-braced_VVN-VVD
+braced_VVD
 but_CJC
 when_CJS
 I_PNP
@@ -7536,7 +7536,7 @@ their_DPS
 supply_NN1
 containers_NN2
 were_VBD
-missing_VVG-AJ0
+missing_VVG
 Reg_NP0
 Seekings_NN2
 who_PNQ
@@ -7589,7 +7589,7 @@ most_AV0
 of_PRF
 their_DPS
 gear_NN1
-missing_VVG-AJ0
+missing_VVG
 and_CJC
 two_CRD
 men_NN2
@@ -7701,7 +7701,7 @@ remainder_NN1
 made_VVN
 for_PRP
 the_AT0
-Trig_NP0-NN1
+Trig_NN1
 al_UNC
 Ab_UNC
 a_AT0
@@ -7822,11 +7822,11 @@ a_AT0
 total_AJ0
 disaster_NN1
 Early_AJ0
-Raids_NN2-VVZ
+Raids_NN2
 in_PRP
 the_AT0
 Western_AJ0
-Desert_NN1-VVB
+Desert_NN1
 It_PNP
 was_VBD
 a_AT0
@@ -7897,7 +7897,7 @@ the_AT0
 fate_NN1
 of_PRF
 the_AT0
-missing_VVG-AJ0
+missing_VVG
 aircraft_NN0
 became_VVD
 known_VVN
@@ -8019,7 +8019,7 @@ easy_AJ0
 meat_NN1
 for_PRP
 a_AT0
-Messerschmitt_NN1-NP0
+Messerschmitt_NN1
 The_AT0
 Bombay_NP0
 crash-landed_NN1
@@ -8201,7 +8201,7 @@ Sand_NP0
 Sea_NP0
 During_PRP
 that_CJT
-drive_VVI
+drive_NN1
 there_EX0
 was_VBD
 much_DT0
@@ -8336,7 +8336,7 @@ L_ZZ0
 Detachment_NN1
 as_CJS
 The_AT0
-Desert_NN1-VVB
+Desert_NN1
 Taxi_NN1
 Service_NN1
 The_AT0
@@ -8374,7 +8374,7 @@ way_NN1
 of_PRF
 supplies_NN2
 from_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 Stirling_NP0
 set_VVN
 off_AVP
@@ -8390,7 +8390,7 @@ found_VVD
 in_PRP
 turmoil_NN1
 After_PRP
-initial_AJ0-NN1
+initial_AJ0
 successes_NN2
 Cunningham_NP0
 's_POS
@@ -8417,7 +8417,7 @@ Cunningham_NP0
 was_VBD
 sacked_VVN
 by_PRP
-Auchinleck_NP0-NN1
+Auchinleck_NN1
 and_CJC
 replaced_VVN
 by_PRP
@@ -8554,7 +8554,7 @@ lay_VVD
 miles_NN2
 south_NN1
 of_PRF
-Benghazi_NP0-NN1
+Benghazi_NN1
 and_CJC
 the_AT0
 enemy_NN1
@@ -8563,9 +8563,9 @@ strung_VVN
 out_AVP
 along_AVP
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 of_PRF
-Sirte_NP0-NN1
+Sirte_NP0
 It_PNP
 had_VHD
 the_AT0
@@ -8580,7 +8580,7 @@ of_PRF
 the_AT0
 way_NN1
 of_PRF
-prying_VVG-AJ0
+prying_AJ0
 headquarters_NN0
 staff_NN0
 and_CJC
@@ -8606,7 +8606,7 @@ straight_AV0
 out_AVP
 of_PRF
 Beau_NN1
-Geste_NN1-NP0
+Geste_NN1
 Rolling_AJ0
 white_AJ0
 sand_NN1
@@ -8632,7 +8632,7 @@ guarded_VVN
 a_AT0
 series_NN0
 of_PRF
-artesian_AJ0-NN1
+artesian_AJ0
 wells_NN2
 producing_VVG
 evil-looking_AJ0
@@ -8672,7 +8672,7 @@ the_AT0
 coast_NN1
 south_NN1
 of_PRF
-Benghazi_NP0-NN1
+Benghazi_NN1
 to_TO0
 link_NN1
 up_AVP
@@ -8682,7 +8682,7 @@ new_AJ0
 offensive_AJ0
 planned_VVN
 by_PRP
-Auchinleck_NP0-NN1
+Auchinleck_NN1
 and_CJC
 Ritchie_NP0
 Being_VBG
@@ -8776,7 +8776,7 @@ order_NN1
 them_PNP
 back_AVP
 to_TO0
-Kabrit_NP0-NN1
+Kabrit_NP0
 Like_PRP
 a_AT0
 band_NN1
@@ -8847,9 +8847,9 @@ leave_VVI
 first_ORD
 to_TO0
 attack_NN1
-Sirte_NP0-NN1
+Sirte_NP0
 and_CJC
-Tamit_NP0-NN1
+Tamit_NP0
 Lewes_NP0
 would_VM0
 lead_VVI
@@ -8982,7 +8982,7 @@ seven_CRD
 trucks_NN2
 of_PRF
 Gus_NP0
-Holliman_NP0-NN1
+Holliman_NP0
 's_POS
 patrol_NN1
 at_PRP
@@ -8998,12 +8998,12 @@ Rhodesians_NN2
 tough_AJ0
 self-reliant_AJ0
 and_CJC
-taciturn_VVB-NN1
+taciturn_NN1
 men_NN2
 to_TO0
 whom_PNQ
 the_AT0
-open-air_AJ0-NN1
+open-air_AJ0
 life_NN1
 was_VBD
 second_ORD
@@ -9113,7 +9113,7 @@ odd_AJ0
 encampment_NN1
 of_PRF
 nomadic_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 tribesmen_NN2
 The_AT0
 real_AJ0
@@ -9182,7 +9182,7 @@ to_TO0
 deposit_NN1
 a_AT0
 five-man_AJ0
-raiding_AJ0-NN1
+raiding_AJ0
 team_NN1
 within_PRP
 easy_AJ0
@@ -9208,7 +9208,7 @@ by_PRP
 the_AT0
 main_AJ0
 armies_NN2
-involved_AJ0
+involved_VVN
 took_VVD
 place_NN1
 along_AVP
@@ -9239,11 +9239,11 @@ period_NN1
 was_VBD
 a_AT0
 30-cwt_NN0
-Chevrolet_NN1-NP0
+Chevrolet_NN1
 pick-up_NN1
 with_PRP
-two-wheel_AJ0-NN1
-drive_VVI
+two-wheel_AJ0
+drive_NN1
 painted_VVN
 a_AT0
 mixture_NN1
@@ -9300,7 +9300,7 @@ weeks_NN2
 Space_NN1
 for_PRP
 a_AT0
-raiding_AJ0-NN1
+raiding_AJ0
 party_NN1
 was_VBD
 limited_AJ0
@@ -9337,7 +9337,7 @@ of_PRF
 the_AT0
 coast_NN1
 at_PRP
-Sirte_NP0-NN1
+Sirte_NP0
 when_CJS
 the_AT0
 going_VVG
@@ -9357,7 +9357,7 @@ were_VBD
 located_VVN
 by_PRP
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 spotter_NN1
 aircraft_NN0
 which_DTQ
@@ -9371,7 +9371,7 @@ wide_AJ0
 of_PRF
 the_AT0
 mark_NN1
-Holliman_NP0-NN1
+Holliman_NP0
 decided_VVD
 that_CJT
 they_PNP
@@ -9447,9 +9447,9 @@ airfield_NN1
 thirty_CRD
 miles_NN2
 from_PRP
-Sirte_NP0-NN1
+Sirte_NP0
 at_PRP
-Tamit_NP0-NN1
+Tamit_NP0
 He_PNP
 decided_VVD
 to_TO0
@@ -9467,7 +9467,7 @@ while_CJS
 he_PNP
 dealt_VVN
 with_PRP
-Sirte_NP0-NN1
+Sirte_NP0
 itself_PNX
 Stirling_NP0
 accompanied_VVN
@@ -9486,7 +9486,7 @@ Cooper_NP0
 was_VBD
 driven_VVN
 by_PRP
-Holliman_NP0-NN1
+Holliman_NP0
 to_TO0
 within_PRP
 three_CRD
@@ -9572,7 +9572,7 @@ noticed_VVD
 a_AT0
 pair_NN0
 of_PRF
-Italian_AJ0-NN1
+Italian_AJ0
 sentries_NN2
 manning_VVG
 a_AT0
@@ -9640,7 +9640,7 @@ their_DPS
 bombs_NN2
 on_PRP
 vehicles_NN2
-parked_VVN
+parked_VVD
 for_PRP
 the_AT0
 night_NN1
@@ -9718,7 +9718,7 @@ their_DPS
 bombs_NN2
 on_PRP
 the_AT0
-parked_VVN
+parked_VVD
 aircraft_NN0
 until_CJS
 they_PNP
@@ -9788,7 +9788,7 @@ the_AT0
 contents_NN2
 of_PRF
 a_AT0
-tommy-gun_NN1-AJ0
+tommy-gun_AJ0
 into_PRP
 them_PNP
 As_CJS
@@ -9917,7 +9917,7 @@ had_VHD
 taken_VVN
 a_AT0
 captured_VVN
-Italian_AJ0-NN1
+Italian_AJ0
 Lancia_NP0
 lorry_NN1
 along_AVP
@@ -9963,7 +9963,7 @@ the_AT0
 back_AVP
 into_PRP
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 convoy_NN1
 and_CJC
 shoot_VVI
@@ -9990,7 +9990,7 @@ on_PRP
 the_AT0
 raid_NN1
 The_AT0
-chief_AJ0-NN1
+chief_NN1
 target_NN1
 we_PNP
 came_VVD
@@ -10073,7 +10073,7 @@ during_PRP
 the_AT0
 day_NN1
 the_AT0
-drop_VVI
+drop_NN1
 in_PRP
 the_AT0
 temperature_NN1
@@ -10148,7 +10148,7 @@ LRDG_NP0
 accompanied_VVN
 by_PRP
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 whom_PNQ
 they_PNP
 had_VHD
@@ -10180,7 +10180,7 @@ by_PRP
 Sergeants_NN2
 Tait_NP0
 and_CJC
-DuVivier_NP0-NN1
+DuVivier_NP0
 and_CJC
 Privates_NN2
 Byrne_NP0
@@ -10208,7 +10208,7 @@ Agedabia_NP0
 without_PRP
 difficulty_NN1
 Both_DT0
-DuVivier_NP0-NN1
+DuVivier_NP0
 and_CJC
 Byrne_NP0
 wrote_VVD
@@ -10283,7 +10283,7 @@ of_PRF
 chocolate_NN1
 and_CJC
 a_AT0
-mixed_AJ0
+mixed_VVN
 ration_NN1
 consisting_VVG
 of_PRF
@@ -10299,7 +10299,7 @@ addition_NN1
 he_PNP
 had_VHD
 a_AT0
-tommy-gun_NN1-AJ0
+tommy-gun_AJ0
 and_CJC
 four_CRD
 spare_AJ0
@@ -10499,7 +10499,7 @@ spite_NN1
 of_PRF
 their_DPS
 having_VHG
-spread_NN1
+spread_VVN
 out_AVP
 the_AT0
 correct_AJ0
@@ -10596,7 +10596,7 @@ of_PRF
 men_NN2
 and_CJC
 stores_NN2
-involved_AJ0
+involved_VVN
 Certainly_AV0
 David_NP0
 Stirling_NP0
@@ -10675,7 +10675,7 @@ Christmas_NN1
 Day_NN1
 1941_CRD
 Gus_NP0
-Holliman_NP0-NN1
+Holliman_NP0
 and_CJC
 his_DPS
 patrol_NN1
@@ -10809,10 +10809,10 @@ where_AVQ
 they_PNP
 split_VVN
 up_AVP
-Holliman_NP0-NN1
+Holliman_NP0
 agreed_VVD
 to_TO0
-drive_VVI
+drive_NN1
 Stirling_NP0
 's_POS
 team_NN1
@@ -10835,7 +10835,7 @@ of_PRF
 the_AT0
 airfield_NN1
 at_PRP
-Sirte_NP0-NN1
+Sirte_NP0
 Unfortunately_AV0
 they_PNP
 were_VBD
@@ -10904,7 +10904,7 @@ Mayne_NP0
 had_VHD
 lit_VVD
 at_PRP
-Tamit_NP0-NN1
+Tamit_NP0
 lighting_NN1
 up_AVP
 the_AT0
@@ -11136,7 +11136,7 @@ were_VBD
 spotted_VVD
 by_PRP
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 aircraft_NN0
 which_DTQ
 came_VVD
@@ -11249,7 +11249,7 @@ assuming_VVG
 that_CJT
 Fraser_NP0
 was_VBD
-missing_VVG-AJ0
+missing_VVG
 Lewes_NP0
 had_VHD
 spent_VVN
@@ -11352,7 +11352,7 @@ sum_NN1
 him_PNP
 up_AVP
 John_NP0
-Steel_NN1-NP0
+Steel_NP0
 Lewes_NP0
 was_VBD
 buried_VVN
@@ -11361,7 +11361,7 @@ the_AT0
 desert_NN1
 and_CJC
 is_VBZ
-listed_AJ0
+listed_VVN
 on_PRP
 the_AT0
 El_NP0
@@ -11429,7 +11429,7 @@ Detachment_NN1
 headed_VVN
 back_AVP
 to_TO0
-Kabrit_NP0-NN1
+Kabrit_NP0
 for_PRP
 a_AT0
 well-earned_AJ0
@@ -11809,7 +11809,7 @@ of_PRF
 operation_NN1
 Nevertheless_AV0
 the_AT0
-present_AJ0-NN1
+present_AJ0
 system_NN1
 can_VM0
 not_XX0
@@ -11837,7 +11837,7 @@ a_AT0
 written_VVN
 request_NN1
 from_PRP
-GHQ_NP0-NN1
+GHQ_NP0
 This_DT0
 branch_NN1
 in_PRP
@@ -11868,7 +11868,7 @@ the_AT0
 result_NN1
 of_PRF
 the_AT0
-present_AJ0-NN1
+present_AJ0
 system_NN1
 is_VBZ
 that_CJT
@@ -11980,7 +11980,7 @@ Stirling_NP0
 returns_VVZ
 from_PRP
 his_DPS
-present_AJ0-NN1
+present_AJ0
 party_NN1
 in_PRP
 three_CRD
@@ -12069,7 +12069,7 @@ his_DPS
 second_ORD
 visit_NN1
 to_TO0
-Sirte_NP0-NN1
+Sirte_NP0
 However_AV0
 he_PNP
 would_VM0
@@ -12221,7 +12221,7 @@ for_PRP
 the_AT0
 bar_NN1
 at_PRP
-Shepherd_NP0-NN1
+Shepherd_NP0
 's_POS
 Hotel_NN1
 or_CJC
@@ -12295,7 +12295,7 @@ shown_VVN
 in_PRP
 to_TO0
 see_VVI
-Auchinleck_NP0-NN1
+Auchinleck_NN1
 The_AT0
 latter_DT0
 had_VHD
@@ -12341,7 +12341,7 @@ the_AT0
 major_AJ0
 port_NN1
 of_PRF
-Benghazi_NP0-NN1
+Benghazi_NN1
 any_DT0
 day_NN1
 Stirling_NP0
@@ -12368,7 +12368,7 @@ the_AT0
 small_AJ0
 port_NN1
 of_PRF
-Bouerat_NP0-NN1
+Bouerat_NP0
 300_CRD
 miles_NN2
 to_TO0
@@ -12381,11 +12381,11 @@ important_AJ0
 He_PNP
 suggested_VVN
 to_TO0
-Auchinleck_NP0-NN1
+Auchinleck_NN1
 that_CJT
 he_PNP
 raid_NN1
-Bouerat_NP0-NN1
+Bouerat_NP0
 and_CJC
 destroy_VVI
 any_DT0
@@ -12528,7 +12528,7 @@ presided_VVD
 over_PRP
 by_PRP
 an_AT0
-Egyptian_AJ0-NN1
+Egyptian_AJ0
 suffragi_NN2
 known_VVN
 as_CJS
@@ -12553,7 +12553,7 @@ were_VBD
 a_AT0
 nondescript_AJ0
 grey_AJ0
-dotted_VVN-VVD
+dotted_VVN
 with_PRP
 cigarette_NN1
 burns_NN2
@@ -12798,7 +12798,7 @@ A_AT0
 group_NN1
 of_PRF
 Free_AJ0
-French_AJ0-NN1
+French_AJ0
 troops_NN2
 provided_VVN
 a_AT0
@@ -12812,7 +12812,7 @@ already_AV0
 been_VBN
 parachute-trained_AJ0
 at_PRP
-Ringway_NP0-NN1
+Ringway_NP0
 near_PRP
 Manchester_NP0
 and_CJC
@@ -12822,7 +12822,7 @@ by_PRP
 the_AT0
 redoubtable_AJ0
 Commandant_NP0
-Berg\xc3\xa9_NP0-NN1
+Berg\xc3\xa9_NP0
 whom_PNQ
 Stirling_NP0
 later_AV0
@@ -12846,7 +12846,7 @@ snag_NN1
 was_VBD
 persuading_VVG
 the_AT0
-French_AJ0-NN1
+French_AJ0
 authorities_NN2
 in_PRP
 the_AT0
@@ -12866,7 +12866,7 @@ that_CJT
 he_PNP
 had_VHD
 to_TO0
-fly_VVI
+fly_NN1
 up_AVP
 to_TO0
 Beirut_NP0
@@ -12876,7 +12876,7 @@ met_VVD
 a_AT0
 very_AV0
 senior_AJ0
-French_AJ0-NN1
+French_AJ0
 general_AJ0
 who_PNQ
 promptly_AV0
@@ -12892,7 +12892,7 @@ bad_AJ0
 as_CJS
 the_AT0
 bloody_AJ0
-English_AJ0-NN1
+English_AJ0
 at_PRP
 M.E.H.Q._NP0
 whereupon_CJS
@@ -12915,7 +12915,7 @@ the_AT0
 spirit_NN1
 of_PRF
 the_AT0
-Auld_NN1-NP0
+Auld_NP0
 Alliance_NN1
 agreement_NN1
 was_VBD
@@ -12930,7 +12930,7 @@ Catroux_NP0
 representing_VVG
 the_AT0
 Free_AJ0
-French_AJ0-NN1
+French_AJ0
 in_PRP
 Egypt_NP0
 at_PRP
@@ -12949,7 +12949,7 @@ who_PNQ
 interviewed_VVN
 Stirling_NP0
 The_AT0
-French_AJ0-NN1
+French_AJ0
 proved_VVN
 to_TO0
 be_VBI
@@ -12973,7 +12973,7 @@ ways_NN2
 they_PNP
 were_VBD
 a_AT0
-mixed_AJ0
+mixed_VVN
 blessing_NN1
 They_PNP
 were_VBD
@@ -13035,7 +13035,7 @@ the_AT0
 language_NN1
 problem_NN1
 At_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 in_PRP
 the_AT0
 meantime_NN1
@@ -13060,7 +13060,7 @@ were_VBD
 to_TO0
 head_NN1
 for_PRP
-Bouerat_NP0-NN1
+Bouerat_NP0
 As_CJS
 he_PNP
 only_AV0
@@ -13129,7 +13129,7 @@ to_TO0
 borrow_VVI
 Captain_NP0
 Bill_NP0
-Cumper_NP0-NN1
+Cumper_NP0
 from_PRP
 the_AT0
 Royal_AJ0
@@ -13142,7 +13142,7 @@ man_NN1
 with_PRP
 a_AT0
 bouncy_AJ0
-Cockney_NN1-AJ0
+Cockney_NN1
 wit_NN1
 who_PNQ
 later_AV0
@@ -13163,7 +13163,7 @@ the_AT0
 parachute_NN1
 course_NN1
 The_AT0
-raiding_AJ0-NN1
+raiding_AJ0
 party_NN1
 was_VBD
 to_TO0
@@ -13253,7 +13253,7 @@ mark_NN1
 the_AT0
 border_NN1
 of_PRF
-Tripolitania_NP0-NN1
+Tripolitania_NN1
 However_AV0
 they_PNP
 were_VBD
@@ -13292,7 +13292,7 @@ party_NN1
 consisted_VVD
 of_PRF
 Tait_NP0
-DuVivier_NP0-NN1
+DuVivier_NP0
 Phillips_NP0
 and_CJC
 Byrne_NP0
@@ -13370,7 +13370,7 @@ with_PRP
 the_AT0
 water_NN1
 supply_NN1
-exhausted_VVN-AJ0
+exhausted_VVN
 and_CJC
 no_AT0
 hope_VVB
@@ -13381,7 +13381,7 @@ arriving_VVG
 they_PNP
 decided_VVD
 to_TO0
-walk_VVI
+walk_NN1
 to_TO0
 the_AT0
 nearest_AJS
@@ -13665,7 +13665,7 @@ of_PRF
 a_AT0
 group_NN1
 of_PRF
-Italian_AJ0-NN1
+Italian_AJ0
 vehicles_NN2
 Creeping_VVG
 up_AVP
@@ -13690,7 +13690,7 @@ tap_NN1
 was_VBD
 rusted_AJ0
 up_AVP
-Marching_VVG-NN1
+Marching_VVG
 on_PRP
 that_CJT
 night_NN1
@@ -13731,7 +13731,7 @@ Pretending_VVG
 to_TO0
 be_VBI
 an_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 Phillips_NP0
 stood_VVD
 in_PRP
@@ -13772,7 +13772,7 @@ to_TO0
 investigate_VVI
 the_AT0
 gesticulating_VVG
-Arab_AJ0-NN1
+Arab_AJ0
 The_AT0
 patrol_NN1
 pounced_VVD
@@ -13806,7 +13806,7 @@ of_PRF
 the_AT0
 Germans_NN2
 to_TO0
-drive_VVI
+drive_NN1
 they_PNP
 set_VVN
 off_AVP
@@ -13896,7 +13896,7 @@ water_NN1
 and_CJC
 then_AV0
 the_AT0
-exhausted_VVN-AJ0
+exhausted_VVN
 men_NN2
 finally_AV0
 stumbled_VVD
@@ -13915,7 +13915,7 @@ the_AT0
 first_ORD
 of_PRF
 several_DT0
-epic_AJ0-NN1
+epic_NN1
 desert_NN1
 walks_NN2
 carried_VVN
@@ -13986,7 +13986,7 @@ to_TO0
 get_VVI
 back_AVP
 to_TO0
-Kabrit_NP0-NN1
+Kabrit_NP0
 to_TO0
 a_AT0
 great_AJ0
@@ -14064,7 +14064,7 @@ Barr_NP0
 They_PNP
 had_VHD
 a_AT0
-folding_VVG
+folding_AJ0
 canoe_NN1
 foldboat_NN1
 and_CJC
@@ -14131,7 +14131,7 @@ the_AT0
 Scottish_AJ0
 lochs_NN2
 with_PRP
-folding_VVG
+folding_AJ0
 canoes_NN2
 Most_DT0
 of_PRF
@@ -14174,7 +14174,7 @@ demolition_NN1
 raids_NN2
 along_AVP
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 coast_NN1
 It_PNP
 was_VBD
@@ -14189,7 +14189,7 @@ on_PRP
 his_DPS
 trip_NN1
 to_TO0
-Bouerat_NP0-NN1
+Bouerat_NP0
 They_PNP
 set_VVN
 off_AVP
@@ -14247,10 +14247,10 @@ far_AV0
 as_CJS
 the_AT0
 Wadi_NP0
-Tamit_NP0-NN1
+Tamit_NP0
 a_AT0
 steep_AJ0
-defile_NN1-VVB
+defile_NN1
 leading_AJ0
 down_AVP
 the_AT0
@@ -14293,7 +14293,7 @@ was_VBD
 why_AVQ
 we_PNP
 needed_VVN
-well-run-in_AJ0-NN1
+well-run-in_NN1
 trucks_NN2
 Everything_PNI
 was_VBD
@@ -14406,7 +14406,7 @@ down_AVP
 the_AT0
 dust_NN1
 plume_NN1
-Stops_VVZ-NN2
+Stops_VVZ
 for_PRP
 meals_NN2
 and_CJC
@@ -14554,10 +14554,10 @@ a_AT0
 motley_AJ0
 collection_NN1
 of_PRF
-semi-uniform_NN1-AJ0
+semi-uniform_NN1
 Many_DT0
 sported_VVD
-Arab_AJ0-NN1
+Arab_AJ0
 headdress_NN1
 and_CJC
 sheepskin-lined_AJ0
@@ -14598,7 +14598,7 @@ was_VBD
 very_AV0
 much_DT0
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 skill_NN1
 and_CJC
 the_AT0
@@ -14693,7 +14693,7 @@ series_NN0
 of_PRF
 zigs_NN2
 and_CJC
-zags_NN2-VVZ
+zags_VVZ
 keeping_VVG
 a_AT0
 record_NN1
@@ -14729,7 +14729,7 @@ brewing_NN1
 up_AVP
 the_AT0
 navigator_NN1
-plotted_VVN
+plotted_VVD
 all_DT0
 those_DT0
 little_AJ0
@@ -14743,7 +14743,7 @@ arrival_NN1
 at_PRP
 the_AT0
 Wadi_NP0
-Tamit_NP0-NN1
+Tamit_NP0
 where_AVQ
 Captain_NP0
 Hunter_NP0
@@ -14752,7 +14752,7 @@ decided_VVD
 the_AT0
 party_NN1
 would_VM0
-lie_VVI
+lie_VVB
 up_AVP
 during_PRP
 daylight_NN1
@@ -14771,8 +14771,8 @@ manhandled_VVN
 down_AVP
 the_AT0
 steep_AJ0
-rock-strewn_AJ0-NN1
-defile_NN1-VVB
+rock-strewn_AJ0
+defile_NN1
 and_CJC
 as_CJS
 the_AT0
@@ -14787,7 +14787,7 @@ the_AT0
 hot_AJ0
 sun_NN1
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 aircraft_NN0
 picked_VVD
 them_PNP
@@ -14881,11 +14881,11 @@ about_PRP
 sixty_CRD
 miles_NN2
 of_PRF
-Bouerat_NP0-NN1
+Bouerat_NP0
 and_CJC
 there_EX0
 the_AT0
-raiding_AJ0-NN1
+raiding_AJ0
 party_NN1
 all_DT0
 piled_VVD
@@ -14918,14 +14918,14 @@ the_AT0
 LRDG_NP0
 managed_VVD
 to_TO0
-squeeze_VVI
+squeeze_NN1
 on_PRP
 board_NN1
 with_PRP
 the_AT0
 fragile_AJ0
 canoe_NN1
-wedged_VVN-VVD
+wedged_VVN
 between_PRP
 them_PNP
 They_PNP
@@ -14968,7 +14968,7 @@ ending_NN1
 all_DT0
 hopes_NN2
 of_PRF
-damaging_VVG-AJ0
+damaging_AJ0
 enemy_NN1
 shipping_NN1
 But_CJC
@@ -15066,8 +15066,8 @@ out_AVP
 a_AT0
 number_NN1
 of_PRF
-parked_VVN
-fuel-tanker_AJ0-NN1
+parked_VVD
+fuel-tanker_NN1
 lorries_NN2
 were_VBD
 attended_VVN
@@ -15121,15 +15121,15 @@ coast_NN1
 road_NN1
 destroying_VVG
 another_DT0
-fuel-tanker_AJ0-NN1
+fuel-tanker_NN1
 in_PRP
 the_AT0
 process_NN1
 and_CJC
-roaring_VVG
+roaring_AJ0
 through_PRP
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 ambush_NN1
 with_PRP
 guns_NN2
@@ -15185,8 +15185,8 @@ in_PRP
 the_AT0
 process_NN1
 of_PRF
-retaking_VVG-AJ0
-Benghazi_NP0-NN1
+retaking_AJ0
+Benghazi_NN1
 On_PRP
 21_CRD
 January_NP0
@@ -15218,12 +15218,12 @@ retreat_NN1
 back_AVP
 to_TO0
 the_AT0
-Egyptian_AJ0-NN1
+Egyptian_AJ0
 frontier_NN1
 Hearing_VVG
 a_AT0
 BBC_NP0
-broadcast_VVN
+broadcast_NN1
 on_PRP
 30_CRD
 January_NP0
@@ -15337,7 +15337,7 @@ the_AT0
 SAS_NP0
 returned_VVD
 to_TO0
-Kabrit_NP0-NN1
+Kabrit_NP0
 where_AVQ
 Stirling_NP0
 found_VVD
@@ -15351,7 +15351,7 @@ liking_NN1
 Mayne_NP0
 who_PNQ
 had_VHD
-retired_AJ0
+retired_VVD
 to_TO0
 bed_NN1
 when_CJS
@@ -15402,7 +15402,7 @@ with_PRP
 paperwork_NN1
 The_AT0
 Free_AJ0
-French_AJ0-NN1
+French_AJ0
 group_NN1
 however_AV0
 had_VHD
@@ -15488,7 +15488,7 @@ the_AT0
 airfields_NN2
 in_PRP
 the_AT0
-Benghazi_NP0-NN1
+Benghazi_NN1
 area_NN1
 Stirling_NP0
 also_AV0
@@ -15504,12 +15504,12 @@ the_AT0
 successful_AJ0
 penetration_NN1
 of_PRF
-Bouerat_NP0-NN1
+Bouerat_NP0
 he_PNP
 wanted_VVD
 to_TO0
 explore_VVI
-Benghazi_NP0-NN1
+Benghazi_NN1
 harbour_NN1
 once_AV0
 again_AV0
@@ -15530,7 +15530,7 @@ completely_AV0
 different_AJ0
 order_NN1
 as_CJS
-Benghazi_NP0-NN1
+Benghazi_NN1
 was_VBD
 a_AT0
 large_AJ0
@@ -15691,7 +15691,7 @@ Middle_AJ0
 East_NN1
 Commando_NN1
 the_AT0
-Foldboat_NN1-NP0
+Foldboat_NN1
 Section_NN1
 SBS_NP0
 and_CJC
@@ -15702,7 +15702,7 @@ His_DPS
 reasoning_NN1
 was_VBD
 that_CJT
-GHQ_NP0-NN1
+GHQ_NP0
 could_VM0
 not_XX0
 deal_NN1
@@ -15754,7 +15754,7 @@ independent_AJ0
 and_CJC
 directly_AV0
 under_PRP
-GHQ_NP0-NN1
+GHQ_NP0
 Our_DPS
 experience_NN1
 in_PRP
@@ -15794,7 +15794,7 @@ officer_NN1
 in_PRP
 charge_NN1
 at_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 would_VM0
 have_VHB
 led_VVD
@@ -15980,7 +15980,7 @@ on_PRP
 22_CRD
 February_NP0
 Major-General_NP0
-Galloway_NP0-NN1
+Galloway_NP0
 of_PRF
 MEHQ_NP0
 wrote_VVD
@@ -16039,7 +16039,7 @@ noted_VVN
 that_CJT
 the_AT0
 Free_AJ0
-French_AJ0-NN1
+French_AJ0
 would_VM0
 be_VBI
 ready_AJ0
@@ -16065,7 +16065,7 @@ L_ZZ0
 Detachment_NN1
 remaining_AJ0
 essential_AJ0
-fly_VVI
+fly_NN1
 as_CJS
 a_AT0
 parachute_NN1
@@ -16143,13 +16143,13 @@ patrol_NN1
 heading_VVG
 for_PRP
 the_AT0
-Jebel_NP0-NN1
+Jebel_NN1
 mountains_NN2
 to_TO0
 the_AT0
 south_NN1
 of_PRF
-Benghazi_NP0-NN1
+Benghazi_NN1
 a_AT0
 journey_NN1
 of_PRF
@@ -16178,9 +16178,9 @@ Stirling_NP0
 had_VHD
 recruited_VVN
 Bob_NP0
-Melot_NP0-NN1
+Melot_NP0
 a_AT0
-Belgian_AJ0-NN1
+Belgian_AJ0
 who_PNQ
 had_VHD
 been_VBN
@@ -16194,14 +16194,14 @@ war_NN1
 He_PNP
 had_VHD
 become_VVI
-involved_AJ0
+involved_VVN
 with_PRP
 British_AJ0
 intelligence_NN1
 and_CJC
 spoke_VVD
 fluent_AJ0
-Arabic_NN1-AJ0
+Arabic_AJ0
 At_PRP
 his_DPS
 suggestion_NN1
@@ -16209,7 +16209,7 @@ two_CRD
 soldiers_NN2
 from_PRP
 the_AT0
-Senussi_AJ0-NN1
+Senussi_AJ0
 tribe_NN1
 a_AT0
 local_AJ0
@@ -16229,7 +16229,7 @@ were_VBD
 included_VVD
 who_PNQ
 could_VM0
-act_VVI
+act_NN1
 as_CJS
 guides_NN2
 Lastly_AV0
@@ -16242,7 +16242,7 @@ had_VHD
 previously_AV0
 been_VBN
 in_PRP
-Benghazi_NP0-NN1
+Benghazi_NN1
 when_CJS
 the_AT0
 town_NN1
@@ -16303,7 +16303,7 @@ guns_NN2
 mounted_VVD
 at_PRP
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 and_CJC
 a_AT0
 single_AJ0
@@ -16377,7 +16377,7 @@ the_AT0
 area_NN1
 of_PRF
 the_AT0
-Trig_NP0-NN1
+Trig_NN1
 al_UNC
 Ab_UNC
 the_AT0
@@ -16408,7 +16408,7 @@ track_NN1
 had_VHD
 been_VBN
 extensively_AV0
-mined_VVN
+mined_AJ0
 by_PRP
 the_AT0
 Italians_NN2
@@ -16438,7 +16438,7 @@ they_PNP
 proceeded_VVD
 to_TO0
 the_AT0
-Jebel_NP0-NN1
+Jebel_NN1
 mountains_NN2
 and_CJC
 made_VVN
@@ -16454,7 +16454,7 @@ plentiful_AJ0
 water_NN1
 The_AT0
 local_AJ0
-Senussi_AJ0-NN1
+Senussi_AJ0
 tribesmen_NN2
 were_VBD
 bitterly_AV0
@@ -16472,7 +16472,7 @@ of_PRF
 welcome_AJ0
 The_AT0
 two_CRD
-Senussi_AJ0-NN1
+Senussi_AJ0
 soldiers_NN2
 were_VBD
 sent_VVN
@@ -16525,7 +16525,7 @@ the_AT0
 SBS_NP0
 with_PRP
 a_AT0
-folding_VVG
+folding_AJ0
 canoe_NN1
 and_CJC
 Gordon_NP0
@@ -16534,11 +16534,11 @@ They_PNP
 simply_AV0
 drove_VVD
 into_PRP
-Benghazi_NP0-NN1
+Benghazi_NN1
 headlamps_NN2
 blazing_AJ0
 and_CJC
-parked_VVN
+parked_VVD
 down_AVP
 near_PRP
 the_AT0
@@ -16617,7 +16617,7 @@ parts_NN2
 was_VBD
 damaged_VVN
 With_PRP
-regret_VVI
+regret_NN1
 Stirling_NP0
 realized_VVD
 that_CJT
@@ -16649,7 +16649,7 @@ visit_NN1
 In_PRP
 addition_NN1
 to_TO0
-Benghazi_NP0-NN1
+Benghazi_NN1
 a_AT0
 series_NN0
 of_PRF
@@ -16702,7 +16702,7 @@ never_AV0
 managed_VVD
 to_TO0
 find_VVI
-Berka_NP0-NN1
+Berka_NP0
 Main_AJ0
 As_CJS
 usual_AJ0
@@ -16721,7 +16721,7 @@ of_PRF
 fifteen_CRD
 aircraft_NN0
 at_PRP
-Berka_NP0-NN1
+Berka_NP0
 Satellite_NN1
 airfield_NN1
 The_AT0
@@ -16748,7 +16748,7 @@ previously_AV0
 visited_VVD
 Back_AVP
 at_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 there_EX0
 was_VBD
 time_NN1
@@ -16775,7 +16775,7 @@ between_PRP
 the_AT0
 various_AJ0
 staffs_NN2
-involved_AJ0
+involved_VVN
 almost_AV0
 certainly_AV0
 without_PRP
@@ -16788,7 +16788,7 @@ March_NP0
 Lieutenant-General_NP0
 Arthur_NP0
 Smith_NP0
-Chief_NP0
+Chief_NN1
 of_PRF
 Staff_NN0
 at_PRP
@@ -16830,7 +16830,7 @@ Detachment_NN1
 would_VM0
 revert_VVI
 to_TO0
-GHQ_NP0-NN1
+GHQ_NP0
 control_NN1
 on_PRP
 completion_NN1
@@ -16881,7 +16881,7 @@ operation_NN1
 against_PRP
 shipping_NN1
 in_PRP
-Benghazi_NP0-NN1
+Benghazi_NN1
 I_PNP
 do_VDB
 n't_XX0
@@ -16911,7 +16911,7 @@ point_NN1
 that_CJT
 Stirling_NP0
 's_POS
-chief_AJ0-NN1
+chief_NN1
 value_NN1
 is_VBZ
 that_CJT
@@ -17009,7 +17009,7 @@ consider_VVI
 using_VVG
 the_AT0
 Free_AJ0
-French_AJ0-NN1
+French_AJ0
 troop_NN1
 as_CJS
 there_EX0
@@ -17239,7 +17239,7 @@ Sandy_NP0
 Scratchley_NP0
 a_AT0
 well-known_AJ0
-amateur_AJ0-NN1
+amateur_AJ0
 jockey_NN1
 Stephen_NP0
 Hastings_NP0
@@ -17547,7 +17547,7 @@ unit_NN1
 more_AV0
 or_CJC
 less_AV0
-single-handed_AV0-AJ0
+single-handed_AV0
 was_VBD
 beginning_NN1
 to_TO0
@@ -17578,7 +17578,7 @@ the_AT0
 unfinished_AJ0
 business_NN1
 of_PRF
-Benghazi_NP0-NN1
+Benghazi_NN1
 and_CJC
 the_AT0
 possibility_NN1
@@ -17598,7 +17598,7 @@ This_DT0
 second_ORD
 expedition_NN1
 to_TO0
-Benghazi_NP0-NN1
+Benghazi_NN1
 is_VBZ
 not_XX0
 mentioned_VVN
@@ -17616,7 +17616,7 @@ of_PRF
 a_AT0
 David_NP0
 Stirling_NP0
-private-enterprise_AJ0-NN1
+private-enterprise_NN1
 job_NN1
 especially_AV0
 in_PRP
@@ -17628,7 +17628,7 @@ who_PNQ
 were_VBD
 to_TO0
 be_VBI
-involved_AJ0
+involved_VVN
 The_AT0
 first_ORD
 thing_NN1
@@ -17657,7 +17657,7 @@ Fitzroy_NP0
 Maclean_NP0
 and_CJC
 Bill_NP0
-Cumper_NP0-NN1
+Cumper_NP0
 the_AT0
 engineer_NN1
 managed_VVD
@@ -17684,7 +17684,7 @@ using_VVG
 SBS_NP0
 personnel_NN2
 Bill_NP0
-Cumper_NP0-NN1
+Cumper_NP0
 provided_VVN
 the_AT0
 necessary_AJ0
@@ -17737,7 +17737,7 @@ the_AT0
 idea_NN1
 of_PRF
 a_AT0
-true-to-life_AJ0-NN1
+true-to-life_AJ0
 rehearsal_NN1
 against_PRP
 shipping_NN1
@@ -17795,7 +17795,7 @@ mines_NN2
 and_CJC
 returned_VVD
 to_TO0
-Kabrit_NP0-NN1
+Kabrit_NP0
 for_PRP
 breakfast_NN1
 There_EX0
@@ -17968,7 +17968,7 @@ let_VVB
 others_NN2
 do_VDB
 the_AT0
-raiding_AJ0-NN1
+raiding_AJ0
 from_PRP
 time_NN1
 to_TO0
@@ -18012,7 +18012,7 @@ this_DT0
 second_ORD
 trip_NN1
 to_TO0
-Benghazi_NP0-NN1
+Benghazi_NN1
 removed_VVN
 him_PNP
 from_PRP
@@ -18034,7 +18034,7 @@ Reg_NP0
 Seekings_NN2
 had_VHD
 to_TO0
-drop_VVI
+drop_NN1
 out_AVP
 as_CJS
 he_PNP
@@ -18101,7 +18101,7 @@ to_TO0
 raid_NN1
 shipping_NN1
 in_PRP
-Benghazi_NP0-NN1
+Benghazi_NN1
 harbour_NN1
 on_PRP
 the_AT0
@@ -18118,14 +18118,14 @@ long_AJ0
 trip_NN1
 to_TO0
 the_AT0
-Jebel_NP0-NN1
+Jebel_NN1
 mountains_NN2
 and_CJC
 from_PRP
 there_EX0
 the_AT0
 intrepid_AJ0
-raiding_AJ0-NN1
+raiding_AJ0
 party_NN1
 set_VVN
 off_AVP
@@ -18189,7 +18189,7 @@ a_AT0
 pair_NN0
 of_PRF
 bored_AJ0
-Italian_AJ0-NN1
+Italian_AJ0
 sentries_NN2
 Fitzroy_NP0
 Maclean_NP0
@@ -18332,10 +18332,10 @@ side_NN1
 streets_NN2
 of_PRF
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 quarter_NN1
 They_PNP
-parked_VVN
+parked_VVD
 up_AVP
 among_PRP
 some_DT0
@@ -18386,7 +18386,7 @@ of_PRF
 the_AT0
 town_NN1
 and_CJC
-walk_VVI
+walk_NN1
 back_AVP
 to_TO0
 the_AT0
@@ -18411,8 +18411,8 @@ the_AT0
 officer_NN1
 commanding_AJ0
 a_AT0
-specialist_NN1-AJ0
-raiding_AJ0-NN1
+specialist_NN1
+raiding_AJ0
 unit_NN1
 together_AV0
 with_PRP
@@ -18449,20 +18449,20 @@ the_AT0
 sudden_AJ0
 wail_NN1
 of_PRF
-air-raid_AJ0-NN1
+air-raid_AJ0
 sirens_NN2
 and_CJC
 as_CJS
 they_PNP
 started_VVD
 to_TO0
-walk_VVI
+walk_NN1
 off_AVP
 they_PNP
 bumped_VVD
 into_PRP
 some_DT0
-Italian_AJ0-NN1
+Italian_AJ0
 soldiers_NN2
 Fitzroy_NP0
 Maclean_NP0
@@ -18528,7 +18528,7 @@ only_AV0
 seconds_NN2
 to_TO0
 spare_AJ0
-Casting_VVG-NN1
+Casting_VVG
 around_PRP
 they_PNP
 discovered_VVN
@@ -18559,7 +18559,7 @@ The_AT0
 rest_NN1
 managed_VVD
 to_TO0
-walk_VVI
+walk_NN1
 into_PRP
 the_AT0
 docks_NN2
@@ -18698,7 +18698,7 @@ damage_NN1
 and_CJC
 with_PRP
 some_DT0
-regret_VVI
+regret_NN1
 they_PNP
 came_VVD
 to_TO0
@@ -18744,7 +18744,7 @@ appear_VVI
 to_TO0
 speak_VVI
 much_DT0
-Italian_AJ0-NN1
+Italian_AJ0
 Gathering_VVG
 up_AVP
 their_DPS
@@ -18758,7 +18758,7 @@ to_TO0
 find_VVI
 that_CJT
 two_CRD
-Italian_AJ0-NN1
+Italian_AJ0
 sentries_NN2
 had_VHD
 fallen_VVN
@@ -18842,7 +18842,7 @@ trousers_NN2
 He_PNP
 received_VVD
 a_AT0
-dressing_VVG
+dressing_NN1
 down_AVP
 for_PRP
 not_XX0
@@ -18855,7 +18855,7 @@ if_CJS
 they_PNP
 had_VHD
 been_VBN
-English_AJ0-NN1
+English_AJ0
 saboteurs_NN2
 Maclean_NP0
 demanded_VVD
@@ -18975,7 +18975,7 @@ to_TO0
 go_VVI
 for_PRP
 a_AT0
-walk_VVI
+walk_NN1
 Wearing_VVG
 dark_AJ0
 glasses_NN2
@@ -19065,7 +19065,7 @@ The_AT0
 aim_NN1
 was_VBD
 to_TO0
-toss_VVI
+toss_NN1
 bombs_NN2
 into_PRP
 them_PNP
@@ -19181,7 +19181,7 @@ the_AT0
 trip_NN1
 had_VHD
 been_VBN
-English_AJ0-NN1
+English_AJ0
 saboteurs_NN2
 Maclean_NP0
 demanded_VVD
@@ -19213,7 +19213,7 @@ Cairo_NP0
 when_CJS
 he_PNP
 was_VBD
-involved_AJ0
+involved_VVN
 in_PRP
 a_AT0
 serious_AJ0
@@ -19321,7 +19321,7 @@ injury_NN1
 as_CJS
 he_PNP
 was_VBD
-pitched_AJ0
+pitched_VVD
 once_AV0
 again_AV0
 into_PRP
@@ -19345,7 +19345,7 @@ on_PRP
 the_AT0
 expedition_NN1
 to_TO0
-Benghazi_NP0-NN1
+Benghazi_NN1
 he_PNP
 had_VHD
 written_VVN
@@ -19445,7 +19445,7 @@ better_AJC
 employed_VVN
 as_CJS
 a_AT0
-raiding_AJ0-NN1
+raiding_AJ0
 force_NN1
 than_CJS
 as_CJS
@@ -19559,7 +19559,7 @@ and_CJC
 that_CJT
 the_AT0
 Free_AJ0
-French_AJ0-NN1
+French_AJ0
 be_VBI
 permitted_VVN
 to_TO0
@@ -19600,7 +19600,7 @@ operational_AJ0
 role_NN1
 Stirling_NP0
 naturally_AV0
-stressed_VVD
+stressed_VVN
 as_CJS
 he_PNP
 had_VHD
@@ -19631,7 +19631,7 @@ lay_VVD
 between_PRP
 the_AT0
 small_AJ0
-specialist_NN1-AJ0
+specialist_NN1
 raid_NN1
 and_CJC
 the_AT0
@@ -19948,7 +19948,7 @@ was_VBD
 attached_VVN
 to_TO0
 the_AT0
-Raiding_VVG-AJ0
+Raiding_AJ0
 Forces_NN2
 Staff_NN0
 G(R)_NP0
@@ -19979,7 +19979,7 @@ the_AT0
 letter_NN1
 is_VBZ
 the_AT0
-hand-written_AJ0-NN1
+hand-written_AJ0
 comment_NN1
 At_PRP
 first_ORD
@@ -20034,7 +20034,7 @@ any_DT0
 reasonable_AJ0
 way_NN1
 we_PNP
-feel_VVI
+feel_VVB
 you_PNP
 will_VM0
 agree_VVI
@@ -20070,7 +20070,7 @@ build_VVI
 up_AVP
 an_AT0
 efficient_AJ0
-fifth-column_AJ0-NN1
+fifth-column_NN1
 unit_NN1
 and_CJC
 should_VM0
@@ -20215,7 +20215,7 @@ he_PNP
 had_VHD
 departed_VVD
 for_PRP
-Benghazi_NP0-NN1
+Benghazi_NN1
 he_PNP
 had_VHD
 left_VVN
@@ -20224,7 +20224,7 @@ Jellicoe_NP0
 in_PRP
 charge_NN1
 at_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 and_CJC
 on_PRP
 20_CRD
@@ -20279,7 +20279,7 @@ Stirling_NP0
 's_POS
 attempts_NN2
 at_PRP
-body-snatching_NN1-AJ0
+body-snatching_AJ0
 He_PNP
 did_VDD
 however_AV0
@@ -20297,7 +20297,7 @@ the_AT0
 Special_AJ0
 Interrogation_NN1
 Group_NN1
-SIG_NP0-NN1
+SIG_NP0
 This_DT0
 had_VHD
 been_VBN
@@ -20375,10 +20375,10 @@ In_PRP
 early_AJ0
 March_NP0
 the_AT0
-SIG_NP0-NN1
+SIG_NP0
 moved_VVD
 to_TO0
-Kabrit_NP0-NN1
+Kabrit_NP0
 and_CJC
 were_VBD
 put_VVI
@@ -20418,7 +20418,7 @@ Churchill_NP0
 had_VHD
 been_VBN
 egging_VVG
-Auchinleck_NP0-NN1
+Auchinleck_NN1
 on_PRP
 to_TO0
 attack_NN1
@@ -20510,7 +20510,7 @@ hand_NN1
 throughout_PRP
 the_AT0
 area_NN1
-Auchinleck_NP0-NN1
+Auchinleck_NN1
 claimed_VVD
 that_CJT
 he_PNP
@@ -20594,7 +20594,7 @@ use_NN1
 of_PRF
 the_AT0
 Free_AJ0
-French_AJ0-NN1
+French_AJ0
 who_PNQ
 were_VBD
 longing_NN1
@@ -20635,13 +20635,13 @@ carried_VVN
 out_AVP
 by_PRP
 Commandant_NP0
-Berg\xc3\xa9_NP0-NN1
+Berg\xc3\xa9_NP0
 Lord_NP0
 Jellicoe_NP0
 and_CJC
 three_CRD
 Free_AJ0
-French_AJ0-NN1
+French_AJ0
 NCOs_NP0
 The_AT0
 various_AJ0
@@ -20691,7 +20691,7 @@ Zirnheld_NP0
 and_CJC
 a_AT0
 Free_AJ0
-French_AJ0-NN1
+French_AJ0
 group_NN1
 left_VVN
 with_PRP
@@ -20703,10 +20703,10 @@ familiar_AJ0
 base_NN1
 in_PRP
 the_AT0
-Jebel_NP0-NN1
+Jebel_NN1
 mountains_NN2
 overlooking_VVG
-Benghazi_NP0-NN1
+Benghazi_NN1
 Stirling_NP0
 was_VBD
 accompanied_VVN
@@ -20719,7 +20719,7 @@ usual_AJ0
 and_CJC
 planned_VVN
 to_TO0
-drive_VVI
+drive_NN1
 to_TO0
 his_DPS
 target_NN1
@@ -20780,7 +20780,7 @@ his_DPS
 unit_NN1
 until_CJS
 further_AJC
-notice_VVI
+notice_NN1
 The_AT0
 reason_NN1
 for_PRP
@@ -20830,7 +20830,7 @@ with_PRP
 him_PNP
 The_AT0
 three_CRD
-raiding_AJ0-NN1
+raiding_AJ0
 parties_NN2
 laid_VVN
 up_AVP
@@ -20891,7 +20891,7 @@ by_PRP
 the_AT0
 RAF_NP0
 on_PRP
-Benghazi_NP0-NN1
+Benghazi_NN1
 and_CJC
 sat_VVD
 there_EX0
@@ -20903,7 +20903,7 @@ them_PNP
 a_AT0
 lecture_NN1
 on_PRP
-deer-stalking_NN1-AJ0
+deer-stalking_NN1
 in_PRP
 the_AT0
 Highlands_NP0
@@ -21049,7 +21049,7 @@ mountain_NN1
 ridge_NN1
 of_PRF
 the_AT0
-Jebel_NP0-NN1
+Jebel_NN1
 David_NP0
 was_VBD
 forced_VVN
@@ -21284,7 +21284,7 @@ He_PNP
 had_VHD
 headed_VVN
 for_PRP
-Berka_NP0-NN1
+Berka_NP0
 Satellite_NN1
 field_NN1
 whose_DTQ
@@ -21350,14 +21350,14 @@ off_AVP
 and_CJC
 Zirnheld_NP0
 was_VBD
-involved_AJ0
+involved_VVN
 in_PRP
 a_AT0
 battle_NN1
 on_PRP
 the_AT0
 nearby_AJ0
-Berka_NP0-NN1
+Berka_NP0
 Main_AJ0
 aerodrome_NN1
 All_DT0
@@ -21480,7 +21480,7 @@ success_NN1
 They_PNP
 decided_VVD
 to_TO0
-drive_VVI
+drive_NN1
 down_AVP
 to_TO0
 view_NN1
@@ -21495,7 +21495,7 @@ along_AVP
 the_AT0
 road_NN1
 to_TO0
-Benghazi_NP0-NN1
+Benghazi_NN1
 The_AT0
 transport_NN1
 problem_NN1
@@ -21554,10 +21554,10 @@ of_PRF
 Captain_NP0
 Buck_NP0
 's_POS
-SIG_NP0-NN1
+SIG_NP0
 men_NN2
 a_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 Jew_NN1
 who_PNQ
 had_VHD
@@ -21767,7 +21767,7 @@ relax_VVI
 Mayne_NP0
 cocked_VVD
 his_DPS
-Colt_NN1-NP0
+Colt_NP0
 .45_CRD
 automatic_AJ0
 This_DT0
@@ -21799,7 +21799,7 @@ be_VBI
 opened_VVD
 and_CJC
 the_AT0
-Chevrolet_NN1-NP0
+Chevrolet_NN1
 drove_VVD
 through_PRP
 A_AT0
@@ -21888,7 +21888,7 @@ among_PRP
 the_AT0
 enemy_NN1
 transport_NN1
-parked_VVN
+parked_VVD
 there_EX0
 Then_AV0
 as_CJS
@@ -21896,7 +21896,7 @@ they_PNP
 roared_VVD
 away_AV0
 they_PNP
-machine-gunned_AJ0-NN1
+machine-gunned_AJ0
 the_AT0
 buildings_NN2
 Lights_NN2
@@ -21954,8 +21954,8 @@ top_NN1
 of_PRF
 the_AT0
 escarpment_NN1
-Driving_VVG-AJ0
-fast_AV0-AJ0
+Driving_VVG
+fast_AJ0
 their_DPS
 truck_NN1
 jolted_VVD
@@ -22089,7 +22089,7 @@ come_VVI
 Miraculously_AV0
 nobody_PNI
 was_VBD
-hurt_VVI
+hurt_VVN
 Once_AV0
 again_AV0
 Allah_NP0
@@ -22114,9 +22114,9 @@ into_PRP
 a_AT0
 kitbag_NN1
 Somewhat_AV0
-bruised_VVN-AJ0
+bruised_VVN
 the_AT0
-raiding_AJ0-NN1
+raiding_AJ0
 party_NN1
 made_VVN
 their_DPS
@@ -22214,7 +22214,7 @@ one_CRD
 of_PRF
 the_AT0
 Free_AJ0
-French_AJ0-NN1
+French_AJ0
 and_CJC
 his_DPS
 patrol_NN1
@@ -22245,9 +22245,9 @@ off_AVP
 to_TO0
 raid_NN1
 the_AT0
-Derna_NP0-NN1
+Derna_NP0
 and_CJC
-Martuba_NP0-NN1
+Martuba_NP0
 airfields_NN2
 in_PRP
 a_AT0
@@ -22258,11 +22258,11 @@ German_AJ0
 vehicles_NN2
 driven_VVN
 by_PRP
-SIG_NP0-NN1
+SIG_NP0
 men_NN2
 with_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 hidden_VVN
 in_PRP
 the_AT0
@@ -22309,7 +22309,7 @@ the_AT0
 two_CRD
 airfields_NN2
 at_PRP
-Derna_NP0-NN1
+Derna_NP0
 They_PNP
 travelled_VVD
 in_PRP
@@ -22320,7 +22320,7 @@ by_PRP
 a_AT0
 German_AJ0
 called_VVN
-Brueckner_NP0-NN1
+Brueckner_NP0
 one_CRD
 of_PRF
 the_AT0
@@ -22334,14 +22334,14 @@ by_PRP
 two_CRD
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 Jews_NN2
 Once_AV0
 on_PRP
 the_AT0
 first_ORD
 aerodrome_NN1
-Brueckner_NP0-NN1
+Brueckner_NP0
 stopped_VVD
 and_CJC
 made_VVN
@@ -22511,7 +22511,7 @@ the_AT0
 group_NN1
 aiming_VVG
 for_PRP
-Martuba_NP0-NN1
+Martuba_NP0
 was_VBD
 to_TO0
 use_NN1
@@ -22522,7 +22522,7 @@ been_VBN
 given_VVN
 away_AV0
 by_PRP
-Brueckner_NP0-NN1
+Brueckner_NP0
 and_CJC
 was_VBD
 surrounded_VVN
@@ -22530,11 +22530,11 @@ by_PRP
 a_AT0
 German_AJ0
 patrol_NN1
-Berg\xc3\xa9_NP0-NN1
+Berg\xc3\xa9_NP0
 and_CJC
 Jellicoe_NP0
 had_VHD
-mixed_AJ0
+mixed_VVN
 fortunes_NN2
 on_PRP
 their_DPS
@@ -22546,7 +22546,7 @@ party_NN1
 consisted_VVD
 of_PRF
 three_CRD
-French_AJ0-NN1
+French_AJ0
 soldiers_NN2
 a_AT0
 Greek_AJ0
@@ -22573,7 +22573,7 @@ a_AT0
 successful_AJ0
 landing_NN1
 in_PRP
-rubber_AJ0-NN1
+rubber_AJ0
 boats_NN2
 After_PRP
 an_AT0
@@ -22582,7 +22582,7 @@ approach_NN1
 march_NN1
 they_PNP
 reached_VVD
-Heraklion_NP0-NN1
+Heraklion_NP0
 airfield_NN1
 but_CJC
 found_VVD
@@ -22697,7 +22697,7 @@ village_NN1
 arranging_VVG
 to_TO0
 meet_VVI
-Berg\xc3\xa9_NP0-NN1
+Berg\xc3\xa9_NP0
 and_CJC
 his_DPS
 men_NN2
@@ -22764,7 +22764,7 @@ from_PRP
 Siwa_NP0
 back_AVP
 to_TO0
-Kabrit_NP0-NN1
+Kabrit_NP0
 and_CJC
 he_PNP
 himself_PNX
@@ -22884,7 +22884,7 @@ airfields_NN2
 in_PRP
 the_AT0
 Mersa_NP0
-Matruh_NP0-NN1
+Matruh_NN1
 and_CJC
 Fuka_NP0
 area_NN1
@@ -22936,7 +22936,7 @@ engineer_NN1
 the_AT0
 cheerful_AJ0
 Bill_NP0
-Cumper_NP0-NN1
+Cumper_NP0
 The_AT0
 beginning_NN1
 of_PRF
@@ -23092,9 +23092,9 @@ from_PRP
 the_AT0
 LRDG_NP0
 to_TO0
-act_VVI
+act_NN1
 as_CJS
-chief_AJ0-NN1
+chief_NN1
 navigator_NN1
 L_ZZ0
 Detachment_NN1
@@ -23217,7 +23217,7 @@ guns_NN2
 mounted_VVD
 front_NN1
 and_CJC
-rear_AJ0-NN1
+rear_NN1
 Some_DT0
 versions_NN2
 substituted_VVN
@@ -23281,7 +23281,7 @@ bewildering_AJ0
 array_NN1
 of_PRF
 kit_NN1
-Steel_NN1-NP0
+Steel_NP0
 sand_NN1
 channels_NN2
 for_PRP
@@ -23384,7 +23384,7 @@ heavily_AV0
 laden_VVN
 vehicles_NN2
 left_VVN
-Kabrit_NP0-NN1
+Kabrit_NP0
 on_PRP
 3_CRD
 July_NP0
@@ -23441,7 +23441,7 @@ that_CJT
 the_AT0
 departure_NN1
 from_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 was_VBD
 a_AT0
 delightfully_AV0
@@ -23559,7 +23559,7 @@ you_PNP
 proceeding_VVG
 along_AVP
 the_AT0
-Egyptian_AJ0-NN1
+Egyptian_AJ0
 highway_NN1
 in_PRP
 a_AT0
@@ -23583,7 +23583,7 @@ the_AT0
 road_NN1
 near_PRP
 a_AT0
-fruit-barrow_NN1-AJ0
+fruit-barrow_AJ0
 a_AT0
 large_AJ0
 brown_AJ0
@@ -23606,7 +23606,7 @@ again_AV0
 The_AT0
 whole_AJ0
 convoy_NN1
-parked_VVN
+parked_VVD
 in_PRP
 the_AT0
 side_NN1
@@ -23747,7 +23747,7 @@ the_AT0
 edge_NN1
 of_PRF
 the_AT0
-Qattara_NP0-NN1
+Qattara_NN1
 Depression_NN1
 a_AT0
 deep_AJ0
@@ -23846,7 +23846,7 @@ and_CJC
 sent_VVN
 back_AVP
 to_TO0
-Kabrit_NP0-NN1
+Kabrit_NP0
 After_PRP
 that_CJT
 they_PNP
@@ -23883,7 +23883,7 @@ waiting_VVG
 for_PRP
 them_PNP
 They_PNP
-parked_VVN
+parked_VVD
 the_AT0
 vehicles_NN2
 and_CJC
@@ -23896,7 +23896,7 @@ before_PRP
 settling_VVG
 down_AVP
 to_TO0
-cook_VVI
+cook_NN1
 Then_AV0
 Stirling_NP0
 called_VVN
@@ -23932,7 +23932,7 @@ for_PRP
 the_AT0
 coast_NN1
 between_PRP
-Bagush_NP0-NN1
+Bagush_NP0
 and_CJC
 Fuka_NP0
 led_VVD
@@ -23963,7 +23963,7 @@ would_VM0
 aim_NN1
 for_PRP
 Sidi_NP0
-Barrani_NP0-NN1
+Barrani_NP0
 The_AT0
 last_ORD
 two_CRD
@@ -23989,7 +23989,7 @@ experienced_VVN
 LRDG_NP0
 officer_NN1
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 guide_NN1
 to_TO0
@@ -24060,7 +24060,7 @@ for_PRP
 communications_NN2
 with_PRP
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 They_PNP
 drove_VVD
 through_PRP
@@ -24152,7 +24152,7 @@ that_CJT
 its_DPS
 presence_NN1
 might_VM0
-stir_VVI
+stir_VVB
 up_AVP
 the_AT0
 enemy_NN1
@@ -24223,7 +24223,7 @@ as_CJS
 to_TO0
 who_PNQ
 was_VBD
-present_AJ0-NN1
+present_AJ0
 and_CJC
 how_AVQ
 many_DT0
@@ -24271,7 +24271,7 @@ they_PNP
 also_AV0
 had_VHD
 a_AT0
-3-tonner_NN1-AJ0
+3-tonner_NN1
 with_PRP
 supplies_NN2
 and_CJC
@@ -24286,7 +24286,7 @@ road_NN1
 they_PNP
 headed_VVN
 for_PRP
-Bagoush_NP0-NN1
+Bagoush_NP0
 which_DTQ
 ironically_AV0
 was_VBD
@@ -24539,7 +24539,7 @@ were_VBD
 spotted_VVD
 by_PRP
 two_CRD
-Italian_AJ0-NN1
+Italian_AJ0
 CR_NP0
 42_CRD
 aircraft_NN0
@@ -24554,7 +24554,7 @@ destroy_VVI
 the_AT0
 Blitz_NN1
 Buggy_NN1
-Clinging_VVG-AJ0
+Clinging_VVG
 to_TO0
 Mayne_NP0
 's_POS
@@ -24574,7 +24574,7 @@ parties_NN2
 had_VHD
 met_VVD
 with_PRP
-mixed_AJ0
+mixed_VVN
 success_NN1
 and_CJC
 it_PNP
@@ -24647,7 +24647,7 @@ guided_VVN
 down_AVP
 to_TO0
 Sidi_NP0
-Barrani_NP0-NN1
+Barrani_NP0
 by_PRP
 Lieutenant_NP0
 Timpson_NP0
@@ -24664,7 +24664,7 @@ trip_NN1
 originally_AV0
 classified_VVN
 Most_DT0
-Secret_AJ0-NN1
+Secret_AJ0
 is_VBZ
 one_CRD
 of_PRF
@@ -24695,7 +24695,7 @@ and_CJC
 misunderstandings_NN2
 that_CJT
 could_VM0
-hamper_VVI
+hamper_NN1
 the_AT0
 best-laid_AJS
 plans_NN2
@@ -24728,10 +24728,10 @@ consisting_VVG
 of_PRF
 Sgt._NP0
 Almonds_NN2
-Priv_NP0-NN1
+Priv_NP0
 Meyer_NP0
-Priv_NP0-NN1
-Ridler_NN1-NP0
+Priv_NP0
+Ridler_NN1
 objective_NN1
 L.G._NP0
 landing_NN1
@@ -24750,7 +24750,7 @@ Corp_NN1
 White_AJ0
 Corp_NN1
 Baird_NP0
-Priv_NP0-NN1
+Priv_NP0
 Thompson_NP0
 objective_NN1
 L.G._NP0
@@ -24982,8 +24982,8 @@ strafe_VVI
 the_AT0
 road_NN1
 at_PRP
-Bug_NN1-VVB
-Bug_NN1-VVB
+Bug_NN1
+Bug_NN1
 on_PRP
 the_AT0
 night_NN1
@@ -25033,8 +25033,8 @@ the_AT0
 same_DT0
 night_NN1
 for_PRP
-Bug_NN1-VVB
-Bug_NN1-VVB
+Bug_NN1
+Bug_NN1
 but_CJC
 failed_VVN
 to_TO0
@@ -25091,10 +25091,10 @@ with_PRP
 his_DPS
 men_NN2
 a_AT0
-3-tonner_NN1-AJ0
+3-tonner_NN1
 and_CJC
 a_AT0
-broken-down_AJ0-NN1
+broken-down_AJ0
 jeep_NN1
 The_AT0
 following_AJ0
@@ -25136,7 +25136,7 @@ set_VVN
 off_AVP
 in_PRP
 the_AT0
-3-tonner_NN1-AJ0
+3-tonner_NN1
 with_PRP
 his_DPS
 men_NN2
@@ -25149,7 +25149,7 @@ strafed_VVN
 unsuccessfully_AV0
 by_PRP
 a_AT0
-Messerschmitt_NN1-NP0
+Messerschmitt_NN1
 110_CRD
 It_PNP
 was_VBD
@@ -25205,9 +25205,9 @@ on_PRP
 July_NP0
 regarding_PRP
 jeeps_NN2
-Experience_NN1-VVB
+Experience_NN1
 in_PRP
-present_AJ0-NN1
+present_AJ0
 operation_NN1
 shows_VVZ
 potentialities_NN2
@@ -25226,7 +25226,7 @@ justify_VVI
 immediate_AJ0
 allocation_NN1
 of_PRF
-minimum_AJ0-NN1
+minimum_AJ0
 fifty_CRD
 Bantams_NN2
 to_TO0
@@ -25243,7 +25243,7 @@ immediately_AV0
 on_PRP
 my_DPS
 return_NN1
-Fear_NN1-VVB
+Fear_NN1
 owing_VVG
 to_TO0
 miscarriage_NN1
@@ -25311,7 +25311,7 @@ must_VM0
 be_VBI
 welded_VVN
 not_XX0
-brazed_VVN-AJ0
+brazed_VVN
 We_PNP
 will_VM0
 require_VVB
@@ -25326,7 +25326,7 @@ equipment_NN1
 to_TO0
 look_VVI
 after_PRP
-increased_AJ0
+increased_VVN
 scale_NN1
 of_PRF
 operations_NN2
@@ -25546,7 +25546,7 @@ to_TO0
 occupy_VVI
 Siwa_NP0
 and_CJC
-Giarabub_NP0-NN1
+Giarabub_NN1
 An_AT0
 omission_NN1
 which_DTQ
@@ -25564,7 +25564,7 @@ personnel_NN2
 north_NN1
 of_PRF
 the_AT0
-Qattara_NP0-NN1
+Qattara_NN1
 depression_NN1
 2_CRD
 It_PNP
@@ -25572,7 +25572,7 @@ is_VBZ
 considered_VVN
 that_CJT
 his_DPS
-present_AJ0-NN1
+present_AJ0
 and_CJC
 future_NN1
 operations_NN2
@@ -25776,7 +25776,7 @@ jeep_NN1
 raid_NN1
 managed_VVD
 to_TO0
-drive_VVI
+drive_NN1
 into_PRP
 a_AT0
 trench_NN1
@@ -25957,7 +25957,7 @@ stores_NN2
 The_AT0
 Germans_NN2
 had_VHD
-closed_VVD
+closed_VVN
 off_AVP
 the_AT0
 route_NN1
@@ -25966,7 +25966,7 @@ the_AT0
 north_NN1
 of_PRF
 the_AT0
-Qattara_NP0-NN1
+Qattara_NN1
 Depression_NN1
 which_DTQ
 the_AT0
@@ -26098,7 +26098,7 @@ Delta_NN1
 The_AT0
 turn-round_NN1
 in_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 was_VBD
 a_AT0
 rapid_AJ0
@@ -26120,7 +26120,7 @@ and_CJC
 by_PRP
 dint_NN1
 of_PRF
-bullying_VVG-NN1
+bullying_VVG
 and_CJC
 gentle_AJ0
 persuasion_NN1
@@ -26338,7 +26338,7 @@ be_VBI
 carried_VVN
 out_AVP
 on_PRP
-Bagoush_NP0-NN1
+Bagoush_NP0
 airfield_NN1
 to_TO0
 create_VVI
@@ -26552,7 +26552,7 @@ of_PRF
 the_AT0
 front_NN1
 and_CJC
-rear_AJ0-NN1
+rear_NN1
 gunners_NN2
 The_AT0
 jeep_NN1
@@ -26734,7 +26734,7 @@ between_PRP
 the_AT0
 lines_NN2
 of_PRF
-parked_VVN
+parked_VVD
 aircraft_NN0
 they_PNP
 went_VVD
@@ -26808,10 +26808,10 @@ picked_VVD
 them_PNP
 up_AVP
 His_DPS
-rear_AJ0-NN1
+rear_NN1
 gunner_NN1
 lay_VVD
-sprawled_VVD
+sprawled_VVN
 dead_AJ0
 in_PRP
 the_AT0
@@ -26874,7 +26874,7 @@ run_VVI
 across_PRP
 to_TO0
 a_AT0
-parked_VVN
+parked_VVD
 aircraft_NN0
 and_CJC
 place_NN1
@@ -27078,7 +27078,7 @@ jeeps_NN2
 of_PRF
 the_AT0
 Free_AJ0
-French_AJ0-NN1
+French_AJ0
 party_NN1
 had_VHD
 been_VBN
@@ -27349,7 +27349,7 @@ and_CJC
 carrying_VVG
 on_PRP
 his_DPS
-raiding_AJ0-NN1
+raiding_AJ0
 operations_NN2
 Immediate_AJ0
 plans_NN2
@@ -27429,7 +27429,7 @@ landing_NN1
 operation_NN1
 night_NN1
 4/5_CRD
-Experience_NN1-VVB
+Experience_NN1
 had_VHD
 taught_VVN
 Stirling_NP0
@@ -27585,7 +27585,7 @@ Air_NN1
 Officer_NN1
 Commanding_AJ0
 Western_AJ0
-Desert_NN1-VVB
+Desert_NN1
 and_CJC
 all_DT0
 David_NP0
@@ -27659,9 +27659,9 @@ July_NP0
 Stirling_NP0
 signalled_VVD
 the_AT0
-AOC_NP0-NN1
+AOC_NP0
 Western_AJ0
-Desert_NN1-VVB
+Desert_NN1
 requesting_VVG
 three_CRD
 Bombays_NP0
@@ -27697,7 +27697,7 @@ addressed_VVN
 to_TO0
 Warr_NP0
 at_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 via_PRP
 the_AT0
 operations_NN2
@@ -27745,7 +27745,7 @@ chains_NN2
 2_CRD
 tins_NN2
 of_PRF
-Lockheed_NP0-NN1
+Lockheed_NP0
 brake_NN1
 fluid_NN1
 8_CRD
@@ -27880,7 +27880,7 @@ who_PNQ
 has_VHZ
 decided_VVD
 L.G._NP0
-Landing_VVG-NN1
+Landing_VVG
 Ground_NN1
 to_TO0
 be_VBI
@@ -27929,7 +27929,7 @@ base_NN1
 The_AT0
 Bombays_NP0
 would_VM0
-fly_VVI
+fly_NN1
 in_PRP
 carrying_VVG
 only_AV0
@@ -27944,7 +27944,7 @@ be_VBI
 driven_VVN
 back_AVP
 to_TO0
-Kabrit_NP0-NN1
+Kabrit_NP0
 while_CJS
 the_AT0
 bulk_NN1
@@ -28076,7 +28076,7 @@ in_PRP
 Cairo_NP0
 with_PRP
 the_AT0
-Chief_NP0
+Chief_NN1
 of_PRF
 the_AT0
 Imperial_AJ0
@@ -28085,14 +28085,14 @@ Staff_NN0
 Sir_NP0
 Alan_NP0
 Brooke_NP0
-Auchinleck_NP0-NN1
+Auchinleck_NN1
 's_POS
 attacks_NN2
 against_PRP
 the_AT0
 German_AJ0
 and_CJC
-Italian_AJ0-NN1
+Italian_AJ0
 positions_NN2
 along_AVP
 the_AT0
@@ -28113,7 +28113,7 @@ in_PRP
 the_AT0
 Middle_AJ0
 East_NN1
-Auchinleck_NP0-NN1
+Auchinleck_NN1
 departed_VVD
 for_PRP
 India_NP0
@@ -28247,7 +28247,7 @@ eyes_NN2
 were_VBD
 still_AV0
 being_VBG
-cast_VVN
+cast_NN1
 on_PRP
 the_AT0
 SAS_NP0
@@ -28279,7 +28279,7 @@ unit_NN1
 was_VBD
 to_TO0
 be_VBI
-involved_AJ0
+involved_VVN
 he_PNP
 was_VBD
 even_AV0
@@ -28301,7 +28301,7 @@ his_DPS
 two_CRD
 trips_NN2
 into_PRP
-Benghazi_NP0-NN1
+Benghazi_NN1
 he_PNP
 had_VHD
 submitted_VVN
@@ -28352,7 +28352,7 @@ with_PRP
 a_AT0
 certain_AJ0
 Colonel_NP0
-Hazelden_NN1-NP0
+Hazelden_NP0
 who_PNQ
 had_VHD
 been_VBN
@@ -28370,7 +28370,7 @@ seem_VVI
 that_CJT
 it_PNP
 was_VBD
-Hazelden_NN1-NP0
+Hazelden_NP0
 who_PNQ
 sold_VVN
 to_TO0
@@ -28395,7 +28395,7 @@ supply_NN1
 ports_NN2
 Tobruk_NP0
 and_CJC
-Benghazi_NP0-NN1
+Benghazi_NN1
 This_DT0
 fitted_VVN
 in_PRP
@@ -28438,13 +28438,13 @@ would_VM0
 be_VBI
 commanded_VVN
 by_PRP
-Hazelden_NN1-NP0
+Hazelden_NP0
 for_PRP
 Tobruk_NP0
 and_CJC
 Stirling_NP0
 for_PRP
-Benghazi_NP0-NN1
+Benghazi_NN1
 Two_CRD
 subsidiary_AJ0
 actions_NN2
@@ -28463,7 +28463,7 @@ a_AT0
 diversion_NN1
 and_CJC
 the_AT0
-British-led_AJ0-NN1
+British-led_AJ0
 Sudan_NP0
 Defence_NN1
 Force_NN1
@@ -28483,7 +28483,7 @@ return_NN1
 route_NN1
 for_PRP
 the_AT0
-raiding_AJ0-NN1
+raiding_AJ0
 parties_NN2
 The_AT0
 SAS_NP0
@@ -28506,7 +28506,7 @@ were_VBD
 untrained_AJ0
 in_PRP
 desert_NN1
-raiding_AJ0-NN1
+raiding_AJ0
 and_CJC
 also_AV0
 by_PRP
@@ -28606,7 +28606,7 @@ along_AVP
 the_AT0
 coast_NN1
 The_AT0
-Benghazi_NP0-NN1
+Benghazi_NN1
 raid_NN1
 will_VM0
 be_VBI
@@ -28647,7 +28647,7 @@ on_PRP
 August_NP0
 Among_PRP
 those_DT0
-present_AJ0-NN1
+present_AJ0
 were_VBD
 the_AT0
 Ambassador_NN1
@@ -28655,7 +28655,7 @@ Sir_NP0
 Miles_NP0
 Lampson_NP0
 the_AT0
-veteran_AJ0-NN1
+veteran_NN1
 South_NN1
 African_AJ0
 politician_NN1
@@ -28726,7 +28726,7 @@ spoke_VVD
 critically_AV0
 about_PRP
 the_AT0
-Benghazi_NP0-NN1
+Benghazi_NN1
 raid_NN1
 in_PRP
 spite_NN1
@@ -28773,7 +28773,7 @@ been_VBN
 asked_VVD
 by_PRP
 my_DPS
-chief_AJ0-NN1
+chief_NN1
 to_TO0
 ask_VVI
 you_PNP
@@ -28828,7 +28828,7 @@ under_PRP
 the_AT0
 heading_VVG
 Most_DT0
-Secret_AJ0-NN1
+Secret_AJ0
 1_CRD
 I_PNP
 venture_NN1
@@ -28957,7 +28957,7 @@ with_PRP
 any_DT0
 outside_PRP
 body_NN1
-superimposed_VVN-VVD
+superimposed_VVD
 for_PRP
 the_AT0
 purpose_NN1
@@ -28976,7 +28976,7 @@ be_VBI
 given_VVN
 to_TO0
 the_AT0
-present_AJ0-NN1
+present_AJ0
 proposals_NN2
 The_AT0
 planning_NN1
@@ -29017,7 +29017,7 @@ eliminate_VVI
 any_DT0
 danger_NN1
 of_PRF
-overlapping_VVG-AJ0
+overlapping_VVG
 for_PRP
 which_DTQ
 there_EX0
@@ -29135,7 +29135,7 @@ gets_VVZ
 the_AT0
 opportunity_NN1
 to_TO0
-present_AJ0-NN1
+present_AJ0
 his_DPS
 views_NN2
 to_TO0
@@ -29214,14 +29214,14 @@ on_PRP
 During_PRP
 July_NP0
 the_AT0
-Chief_NP0
+Chief_NN1
 of_PRF
 Staff_NN0
 at_PRP
 MEHQ_NP0
 wrote_VVD
 to_TO0
-Auchinleck_NP0-NN1
+Auchinleck_NN1
 regarding_PRP
 the_AT0
 future_NN1
@@ -29252,7 +29252,7 @@ territories_NN2
 second_ORD
 as_CJS
 small_AJ0
-raiding_AJ0-NN1
+raiding_AJ0
 parties_NN2
 of_PRF
 the_AT0
@@ -29274,7 +29274,7 @@ Section_NN1
 and_CJC
 finally_AV0
 as_CJS
-raiding_AJ0-NN1
+raiding_AJ0
 parties_NN2
 on_PRP
 a_AT0
@@ -29293,7 +29293,7 @@ Middle_AJ0
 East_NN1
 Commando_NN1
 The_AT0
-Chief_NP0
+Chief_NN1
 of_PRF
 Staff_NN0
 continued_VVD
@@ -29395,7 +29395,7 @@ Depot_NN1
 be_VBI
 formed_VVN
 at_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 to_TO0
 be_VBI
 commanded_VVN
@@ -29406,7 +29406,7 @@ The_AT0
 latter_DT0
 would_VM0
 have_VHB
-overall_AJ0-NN1
+overall_AJ0
 administrative_AJ0
 control_NN1
 and_CJC
@@ -29455,7 +29455,7 @@ be_VBI
 some_DT0
 sort_NN1
 of_PRF
-overall_AJ0-NN1
+overall_AJ0
 commander_NN1
 he_PNP
 naturally_AV0
@@ -29469,11 +29469,11 @@ During_PRP
 August_NP0
 life_NN1
 at_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 was_VBD
 full_AJ0
 of_PRF
-bustle_NN1-VVB
+bustle_NN1
 New_AJ0
 jeeps_NN2
 had_VHD
@@ -29536,7 +29536,7 @@ Stirling_NP0
 himself_PNX
 flitted_VVD
 between_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 and_CJC
 Cairo_NP0
 becoming_VVG
@@ -29574,14 +29574,14 @@ them_PNP
 To_TO0
 get_VVI
 to_TO0
-Benghazi_NP0-NN1
+Benghazi_NN1
 the_AT0
 convoy_NN1
 had_VHD
 to_TO0
 travel_NN1
 from_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 into_PRP
 Cairo_NP0
 and_CJC
@@ -29606,7 +29606,7 @@ Great_AJ0
 Sand_NP0
 Sea_NP0
 and_CJC
-cross_VVI
+cross_NN1
 it_PNP
 at_PRP
 its_DPS
@@ -29621,7 +29621,7 @@ head_NN1
 due_AJ0
 north_NN1
 bypassing_VVG
-Italian-held_AJ0-NN1
+Italian-held_AJ0
 Jalo_NP0
 to_TO0
 the_AT0
@@ -29629,7 +29629,7 @@ rendezvous_NN0
 point_NN1
 in_PRP
 the_AT0
-Jebel_NP0-NN1
+Jebel_NN1
 mountains_NN2
 This_DT0
 meant_VVD
@@ -29725,7 +29725,7 @@ group_NN1
 led_VVD
 by_PRP
 Bill_NP0
-Cumper_NP0-NN1
+Cumper_NP0
 In_PRP
 the_AT0
 latter_DT0
@@ -29751,7 +29751,7 @@ graphic_AJ0
 description_NN1
 of_PRF
 the_AT0
-Benghazi_NP0-NN1
+Benghazi_NN1
 raid_NN1
 and_CJC
 of_PRF
@@ -29759,7 +29759,7 @@ some_DT0
 of_PRF
 the_AT0
 personalities_NN2
-involved_AJ0
+involved_VVN
 including_PRP
 several_DT0
 pages_NN2
@@ -29880,7 +29880,7 @@ to_TO0
 indicate_VVI
 our_DPS
 movement_NN1
-Travelling_VVG-NN1
+Travelling_VVG
 on_PRP
 that_CJT
 journey_NN1
@@ -29929,7 +29929,7 @@ the_AT0
 smell_NN1
 from_PRP
 the_AT0
-cooks_NN2-VVZ
+cooks_NN2
 '_POS
 fires_NN2
 as_CJS
@@ -29955,14 +29955,14 @@ vehicles_NN2
 as_CJS
 the_AT0
 other_AJ0
-raiding_AJ0-NN1
+raiding_AJ0
 groups_NN2
 had_VHD
 also_AV0
 gathered_VVN
 there_EX0
 The_AT0
-Benghazi_NP0-NN1
+Benghazi_NN1
 force_NN1
 again_AV0
 split_VVN
@@ -29973,7 +29973,7 @@ and_CJC
 left_VVN
 for_PRP
 the_AT0
-Jebel_NP0-NN1
+Jebel_NN1
 at_PRP
 intervals_NN2
 from_PRP
@@ -30041,7 +30041,7 @@ large_AJ0
 number_NN1
 of_PRF
 vehicles_NN2
-involved_AJ0
+involved_VVN
 but_CJC
 had_VHD
 had_VHD
@@ -30083,7 +30083,7 @@ met_VVD
 up_AVP
 with_PRP
 Bob_NP0
-Melot_NP0-NN1
+Melot_NP0
 who_PNQ
 had_VHD
 been_VBN
@@ -30094,13 +30094,13 @@ area_NN1
 for_PRP
 several_DT0
 weeks_NN2
-gathering_NN1
+gathering_VVG
 intelligence_NN1
-Melot_NP0-NN1
+Melot_NP0
 had_VHD
 recruited_VVN
 an_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 whom_PNQ
 he_PNP
 proposed_AJ0
@@ -30134,7 +30134,7 @@ on_PRP
 all_DT0
 approaches_NN2
 to_TO0
-Benghazi_NP0-NN1
+Benghazi_NN1
 This_DT0
 confirmed_VVN
 everyone_PNI
@@ -30168,9 +30168,9 @@ was_VBD
 an_AT0
 unmitigated_AJ0
 disaster_NN1
-Melot_NP0-NN1
+Melot_NP0
 's_POS
-Arab_AJ0-NN1
+Arab_AJ0
 spy_NN1
 was_VBD
 engaged_VVN
@@ -30268,7 +30268,7 @@ longer_AV0
 enough_AV0
 time_NN1
 to_TO0
-drive_VVI
+drive_NN1
 there_EX0
 and_CJC
 back_AVP
@@ -30380,7 +30380,7 @@ was_VBD
 then_AV0
 that_CJT
 Bill_NP0
-Cumper_NP0-NN1
+Cumper_NP0
 spoke_VVD
 his_DPS
 immortal_AJ0
@@ -30389,7 +30389,7 @@ All_DT0
 those_DT0
 who_PNQ
 were_VBD
-present_AJ0-NN1
+present_AJ0
 agree_VVI
 that_CJT
 he_PNP
@@ -30523,7 +30523,7 @@ and_CJC
 in_PRP
 the_AT0
 battle_NN1
-Melot_NP0-NN1
+Melot_NP0
 and_CJC
 another_DT0
 officer_NN1
@@ -30610,7 +30610,7 @@ a_AT0
 number_NN1
 of_PRF
 men_NN2
-missing_VVG-AJ0
+missing_VVG
 Jim_NP0
 Almonds_NN2
 had_VHD
@@ -30650,7 +30650,7 @@ of_PRF
 bombing_NN1
 and_CJC
 strafing_VVG
-Truck_NN1-VVB
+Truck_VVB
 after_PRP
 truck_NN1
 was_VBD
@@ -30662,7 +30662,7 @@ fire_NN1
 acted_VVD
 as_CJS
 a_AT0
-homing_AJ0-NN1
+homing_AJ0
 beacon_NN1
 for_PRP
 more_AV0
@@ -30690,7 +30690,7 @@ under_PRP
 bushes_NN2
 and_CJC
 being_VBG
-machine-gunned_AJ0-NN1
+machine-gunned_AJ0
 from_PRP
 the_AT0
 air_NN1
@@ -30713,7 +30713,7 @@ moved_VVD
 They_PNP
 had_VHD
 to_TO0
-lie_VVI
+lie_VVB
 on_PRP
 their_DPS
 stretchers_NN2
@@ -30723,7 +30723,7 @@ back_AVP
 of_PRF
 a_AT0
 lorry_NN1
-listening_VVG-NN1
+listening_VVG
 to_TO0
 the_AT0
 din_NN1
@@ -30860,7 +30860,7 @@ be_VBI
 in_PRP
 grave_NN1
 difficulty_NN1
-stuck_AJ0
+stuck_VVN
 in_PRP
 the_AT0
 desert_NN1
@@ -30941,7 +30941,7 @@ forced_VVN
 his_DPS
 way_NN1
 into_PRP
-Benghazi_NP0-NN1
+Benghazi_NN1
 when_CJS
 the_AT0
 enemy_NN1
@@ -30957,7 +30957,7 @@ nothing_PNI
 and_CJC
 would_VM0
 have_VHB
-involved_AJ0
+involved_VVN
 the_AT0
 loss_NN1
 of_PRF
@@ -30975,7 +30975,7 @@ eighteen_CRD
 wounded_AJ0
 and_CJC
 five_CRD
-missing_VVG-AJ0
+missing_VVG
 The_AT0
 Tobruk_NP0
 raid_NN1
@@ -31025,7 +31025,7 @@ alerted_VVN
 the_AT0
 garrison_NN1
 at_PRP
-Benghazi_NP0-NN1
+Benghazi_NN1
 has_VHZ
 never_AV0
 been_VBN
@@ -31177,7 +31177,7 @@ were_VBD
 flown_VVN
 back_AVP
 to_TO0
-Kabrit_NP0-NN1
+Kabrit_NP0
 to_TO0
 refit_VVI
 and_CJC
@@ -31471,7 +31471,7 @@ for_PRP
 control_NN1
 of_PRF
 all_DT0
-raiding_AJ0-NN1
+raiding_AJ0
 forces_NN2
 The_AT0
 former_DT0
@@ -31509,7 +31509,7 @@ General_AJ0
 McCreery_NP0
 Alexander_NP0
 's_POS
-Chief_NP0
+Chief_NN1
 of_PRF
 Staff_NN0
 wrote_VVD
@@ -31573,7 +31573,7 @@ The_AT0
 personality_NN1
 of_PRF
 the_AT0
-present_AJ0-NN1
+present_AJ0
 commander_NN1
 L_ZZ0
 Detachment_NN1
@@ -31697,7 +31697,7 @@ step_NN1
 was_VBD
 taken_VVN
 to_TO0
-clip_NN1-VVB
+clip_NN1
 his_DPS
 wings_NN2
 and_CJC
@@ -31732,7 +31732,7 @@ be_VBI
 known_VVN
 as_CJS
 G_ZZ0
-Raiding_VVG-AJ0
+Raiding_AJ0
 Forces_NN2
 G(RF)_NP0
 No_ITJ
@@ -31761,7 +31761,7 @@ unless_CJS
 arranged_VVN
 by_PRP
 G_ZZ0
-Raiding_VVG-AJ0
+Raiding_AJ0
 Forces_NN2
 The_AT0
 organization_NN1
@@ -31795,7 +31795,7 @@ A_AT0
 B_ZZ0
 the_AT0
 Free_AJ0
-French_AJ0-NN1
+French_AJ0
 later_AV0
 known_VVN
 as_CJS
@@ -31803,7 +31803,7 @@ C_ZZ0
 Squadron_NN1
 and_CJC
 the_AT0
-Foldboat_NN1-NP0
+Foldboat_NN1
 Section_NN1
 the_AT0
 SBS_NP0
@@ -32108,7 +32108,7 @@ would_VM0
 be_VBI
 formed_VVN
 at_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 from_PRP
 fresh_AJ0
 volunteers_NN2
@@ -32156,7 +32156,7 @@ and_CJC
 his_DPS
 exploits_NN2
 there_EX0
-fall_VVI
+fall_NN1
 outside_PRP
 the_AT0
 scope_NN1
@@ -32332,7 +32332,7 @@ after_PRP
 the_AT0
 failure_NN1
 at_PRP
-Benghazi_NP0-NN1
+Benghazi_NN1
 This_DT0
 needled_VVD
 Stirling_NP0
@@ -32386,7 +32386,7 @@ de_NP0
 Guingand_NP0
 Montgomery_NP0
 's_POS
-Chief_NP0
+Chief_NN1
 of_PRF
 Staff_NN0
 whom_PNQ
@@ -32455,7 +32455,7 @@ immediate_AJ0
 area_NN1
 to_TO0
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 of_PRF
 the_AT0
 enemy_NN1
@@ -32513,7 +32513,7 @@ the_AT0
 RAF_NP0
 It_PNP
 was_VBD
-stressed_VVD
+stressed_VVN
 that_CJT
 Colonel_NP0
 Stirling_NP0
@@ -32597,7 +32597,7 @@ raids_NN2
 against_PRP
 the_AT0
 Tobruk-Mersa_NP0
-Matruh_NP0-NN1
+Matruh_NN1
 railway_NN1
 and_CJC
 other_AJ0
@@ -32727,7 +32727,7 @@ they_PNP
 set_VVN
 up_AVP
 a_AT0
-rear_AJ0-NN1
+rear_NN1
 headquarters_NN0
 and_CJC
 resupply_AV0
@@ -32786,7 +32786,7 @@ isolated_AJ0
 for_PRP
 we_PNP
 were_VBD
-tucked_VVN-VVD
+tucked_VVD
 away_AV0
 in_PRP
 a_AT0
@@ -32909,7 +32909,7 @@ handwritten_AJ0
 memo_NN1
 in_PRP
 the_AT0
-Public_AJ0-NN1
+Public_AJ0
 Record_NN1
 Office_NN1
 says_VVZ
@@ -32936,7 +32936,7 @@ achievements_NN2
 to_TO0
 date_NN1
 were_VBD
-listed_AJ0
+listed_VVN
 charges_NN2
 laid_VVN
 on_PRP
@@ -32961,7 +32961,7 @@ the_AT0
 same_DT0
 near_PRP
 Sidi_NP0
-Barani_NP0-NN1
+Barani_NP0
 which_DTQ
 resulted_VVD
 in_PRP
@@ -33000,7 +33000,7 @@ October_NP0
 One_CRD
 of_PRF
 the_AT0
-epic_AJ0-NN1
+epic_NN1
 stories_NN2
 in_PRP
 the_AT0
@@ -33013,7 +33013,7 @@ from_PRP
 this_DT0
 period_NN1
 of_PRF
-raiding_AJ0-NN1
+raiding_AJ0
 the_AT0
 coastal_AJ0
 railway_NN1
@@ -33021,7 +33021,7 @@ A_AT0
 comparative_AJ0
 newcomer_NN1
 David_NP0
-Sillito_NP0-NN1
+Sillito_NP0
 was_VBD
 assigned_VVN
 as_CJS
@@ -33038,7 +33038,7 @@ the_AT0
 track_NN1
 near_PRP
 Sidi_NP0
-Barani_NP0-NN1
+Barani_NP0
 They_PNP
 were_VBD
 spotted_VVD
@@ -33056,7 +33056,7 @@ Shorten_VVB
 was_VBD
 killed_VVN
 and_CJC
-Sillito_NP0-NN1
+Sillito_NP0
 got_VVN
 separated_VVN
 from_PRP
@@ -33180,7 +33180,7 @@ his_DPS
 feet_NN2
 torn_VVN
 and_CJC
-bleeding_VVG-AJ0
+bleeding_AJ0
 he_PNP
 reached_VVD
 the_AT0
@@ -33218,7 +33218,7 @@ within_PRP
 two_CRD
 weeks_NN2
 The_AT0
-Sillito_NP0-NN1
+Sillito_NP0
 story_NN1
 had_VHD
 a_AT0
@@ -33252,10 +33252,10 @@ the_AT0
 SAS_NP0
 base_NN1
 at_PRP
-Kabrit_NP0-NN1
-Regret_VVB-NN1
-Parachutist_AJ0-NN1
-Sillito_NP0-NN1
+Kabrit_NP0
+Regret_VVB
+Parachutist_NN1
+Sillito_NP0
 died_VVD
 in_PRP
 hospital_NN1
@@ -33280,12 +33280,12 @@ signal_NN1
 was_VBD
 sent_VVN
 to_TO0
-Kabrit_NP0-NN1
+Kabrit_NP0
 from_PRP
 Kufra_NP0
-Sillito_NP0-NN1
+Sillito_NP0
 and_CJC
-Laird_NN1-NP0
+Laird_NN1
 arriving_VVG
 Cairo_NP0
 by_PRP
@@ -33312,7 +33312,7 @@ signalled_VVD
 Kufra_NP0
 as_CJS
 follows_VVZ
-Sillito_NP0-NN1
+Sillito_NP0
 arrived_VVD
 Cairo_NP0
 today_AV0
@@ -33330,7 +33330,7 @@ his_DPS
 death_NN1
 from_PRP
 diphtheria_NN1
-Signal_NN1-VVB
+Signal_NN1
 name_NN1
 and_CJC
 number_NN1
@@ -33352,9 +33352,9 @@ the_AT0
 reply_NN1
 from_PRP
 Kufra_NP0
-Sillito_NP0-NN1
+Sillito_NP0
 reported_VVN
-missing_VVG-AJ0
+missing_VVG
 when_CJS
 Shorten_VVB
 killed_VVN
@@ -33369,7 +33369,7 @@ returned_VVD
 to_TO0
 Cairo_NP0
 untrue_AJ0
-Sillet_NP0-NN1
+Sillet_NP0
 died_VVD
 in_PRP
 hospital_NN1
@@ -33393,7 +33393,7 @@ his_DPS
 men_NN2
 were_VBD
 busily_AV0
-raiding_AJ0-NN1
+raiding_AJ0
 Stirling_NP0
 had_VHD
 finally_AV0
@@ -33451,7 +33451,7 @@ advanced_AJ0
 to_TO0
 the_AT0
 west_NN1
-raiding_AJ0-NN1
+raiding_AJ0
 priorities_NN2
 altered_VVN
 Sandy_NP0
@@ -33532,7 +33532,7 @@ they_PNP
 went_VVD
 back_AVP
 to_TO0
-Kabrit_NP0-NN1
+Kabrit_NP0
 El_NP0
 Alamein_NP0
 was_VBD
@@ -33600,7 +33600,7 @@ the_AT0
 Afrika_NP0
 Korps_NP0
 and_CJC
-drive_VVI
+drive_NN1
 them_PNP
 right_NN1
 back_AVP
@@ -33611,7 +33611,7 @@ December_NP0
 Paddy_NP0
 Mayne_NP0
 's_POS
-veteran_AJ0-NN1
+veteran_NN1
 A_AT0
 Squadron_NN1
 returned_VVD
@@ -33688,7 +33688,7 @@ back_AVP
 in_PRP
 action_NN1
 at_PRP
-Kabrit_NP0-NN1
+Kabrit_NP0
 preparing_VVG
 to_TO0
 bring_VVI
@@ -33779,7 +33779,7 @@ some_DT0
 of_PRF
 the_AT0
 Free_AJ0
-French_AJ0-NN1
+French_AJ0
 would_VM0
 use_NN1
 their_DPS
@@ -33794,7 +33794,7 @@ traffic_NN1
 along_AVP
 a_AT0
 400-mile_NN1
-stretch_VVI
+stretch_NN1
 of_PRF
 the_AT0
 coast_NN1
@@ -33865,7 +33865,7 @@ been_VBN
 left_VVN
 out_AVP
 of_PRF
-raiding_AJ0-NN1
+raiding_AJ0
 activities_NN2
 and_CJC
 was_VBD
@@ -33961,14 +33961,14 @@ always_AV0
 envisaged_VVN
 the_AT0
 Free_AJ0
-French_AJ0-NN1
+French_AJ0
 contingent_NN1
 as_CJS
 the_AT0
 nucleus_NN1
 of_PRF
 a_AT0
-French_AJ0-NN1
+French_AJ0
 SAS_NP0
 regiment_NN1
 which_DTQ
@@ -34046,7 +34046,7 @@ only_AV0
 component_NN1
 that_CJT
 had_VHD
-faded_AJ0
+faded_VVN
 from_PRP
 the_AT0
 picture_NN1
@@ -34095,7 +34095,7 @@ base_NN1
 camp_NN1
 They_PNP
 left_VVN
-Kabrit_NP0-NN1
+Kabrit_NP0
 on_PRP
 20_CRD
 November_NP0
@@ -34194,7 +34194,7 @@ road_NN1
 between_PRP
 Agheila_NP0
 and_CJC
-Bouerat_NP0-NN1
+Bouerat_NP0
 while_CJS
 B_ZZ0
 Squadron_NN1
@@ -34204,7 +34204,7 @@ move_VVI
 to_TO0
 the_AT0
 west_NN1
-raiding_AJ0-NN1
+raiding_AJ0
 up_AVP
 as_CJS
 far_AV0
@@ -34218,7 +34218,7 @@ been_VBN
 moved_VVD
 forward_AV0
 to_TO0
-Benghazi_NP0-NN1
+Benghazi_NN1
 which_DTQ
 by_PRP
 that_CJT
@@ -34274,7 +34274,7 @@ moved_VVD
 out_AVP
 to_TO0
 their_DPS
-rear_AJ0-NN1
+rear_NN1
 base_NN1
 at_PRP
 Bir_NP0
@@ -34441,7 +34441,7 @@ to_TO0
 round_AVP
 up_AVP
 the_AT0
-raiding_AJ0-NN1
+raiding_AJ0
 parties_NN2
 The_AT0
 only_AV0
@@ -34459,7 +34459,7 @@ the_AT0
 recently_AV0
 recruited_VVN
 Wilfred_NP0
-Thesiger_NP0-NN1
+Thesiger_NP0
 and_CJC
 Sullivan_NP0
 Of_PRF
@@ -34495,7 +34495,7 @@ to_TO0
 B_ZZ0
 Squadron_NN1
 Alston_NP0
-Thesiger_NP0-NN1
+Thesiger_NP0
 and_CJC
 Martin_NP0
 holed_VVD
@@ -34654,13 +34654,13 @@ operation_NN1
 well_AV0
 to_TO0
 his_DPS
-rear_AJ0-NN1
+rear_NN1
 using_VVG
 the_AT0
 Tunisian_AJ0
 ports_NN2
 of_PRF
-Sfax_NP0-NN1
+Sfax_NP0
 and_CJC
 Gabes_NP0
 At_PRP
@@ -34731,10 +34731,10 @@ the_AT0
 war_NN1
 by_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 to_TO0
 hinder_VVI
-Italian_AJ0-NN1
+Italian_AJ0
 ambitions_NN2
 to_TO0
 expand_VVI
@@ -34748,7 +34748,7 @@ a_AT0
 reconnaissance_NN1
 of_PRF
 this_DT0
-stretch_VVI
+stretch_NN1
 of_PRF
 bunkers_NN2
 and_CJC
@@ -34825,7 +34825,7 @@ regiments_NN2
 After_PRP
 the_AT0
 long_AJ0
-drive_VVI
+drive_NN1
 up_AVP
 from_PRP
 Egypt_NP0
@@ -34838,7 +34838,7 @@ Eighth_ORD
 Army_NN1
 Headquarters_NN0
 at_PRP
-Bouerat_NP0-NN1
+Bouerat_NP0
 Stirling_NP0
 had_VHD
 Johnny_NP0
@@ -34971,7 +34971,7 @@ further_AJC
 rendezvous_NN0
 at_PRP
 Bir_NP0
-Soltane_NP0-NN1
+Soltane_NN1
 only_AV0
 a_AT0
 few_DT0
@@ -34987,7 +34987,7 @@ to_TO0
 leave_VVI
 Alston_NP0
 and_CJC
-Thesiger_NP0-NN1
+Thesiger_NP0
 there_EX0
 with_PRP
 the_AT0
@@ -35044,7 +35044,7 @@ as_CJS
 the_AT0
 Grand_AJ0
 Sea_NP0
-Erg_NP0-NN1
+Erg_NP0
 This_DT0
 area_NN1
 of_PRF
@@ -35069,7 +35069,7 @@ join_VVI
 up_AVP
 at_PRP
 Bir_NP0
-Soltane_NP0-NN1
+Soltane_NN1
 There_EX0
 Stirling_NP0
 heard_VVN
@@ -35097,9 +35097,9 @@ out_AVP
 with_PRP
 the_AT0
 three_CRD
-French_AJ0-NN1
+French_AJ0
 patrols_NN2
-drive_VVI
+drive_NN1
 the_AT0
 hundred-odd_AJ0
 miles_NN2
@@ -35121,7 +35121,7 @@ confusion_NN1
 in_PRP
 the_AT0
 enemy_NN1
-rear_AJ0-NN1
+rear_NN1
 areas_NN2
 Stirling_NP0
 had_VHD
@@ -35172,7 +35172,7 @@ in_PRP
 the_AT0
 area_NN1
 around_PRP
-Sousse_NP0-NN1
+Sousse_NN1
 a_AT0
 harbour_NN1
 being_VBG
@@ -35436,7 +35436,7 @@ Stirling_NP0
 party_NN1
 decided_VVD
 to_TO0
-lie_VVI
+lie_VVB
 up_AVP
 for_PRP
 the_AT0
@@ -35473,7 +35473,7 @@ sleep_VVI
 After_PRP
 the_AT0
 long_AJ0
-drive_VVI
+drive_NN1
 they_PNP
 were_VBD
 understandably_AV0
@@ -35558,7 +35558,7 @@ the_AT0
 Germans_NN2
 as_CJS
 the_AT0
-Phantom_AJ0-NN1
+Phantom_NN1
 Major_NP0
 He_PNP
 managed_VVD
@@ -35576,7 +35576,7 @@ be_VBI
 betrayed_VVN
 by_PRP
 an_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 and_CJC
 retaken_VVN
 by_PRP
@@ -35605,7 +35605,7 @@ undetected_AJ0
 until_CJS
 the_AT0
 Germans_NN2
-retired_AJ0
+retired_VVD
 with_PRP
 their_DPS
 prisoners_NN2
@@ -35618,13 +35618,13 @@ adventures_NN2
 and_CJC
 a_AT0
 long_AJ0
-walk_VVI
+walk_NN1
 they_PNP
 managed_VVD
 to_TO0
 get_VVI
 to_TO0
-Tozeur_NP0-NN1
+Tozeur_NN1
 a_AT0
 desert_NN1
 outpost_NN1
@@ -35632,7 +35632,7 @@ held_VVN
 by_PRP
 the_AT0
 Free_AJ0
-French_AJ0-NN1
+French_AJ0
 From_PRP
 there_EX0
 they_PNP
@@ -35850,7 +35850,7 @@ his_DPS
 planned_VVN
 raid_NN1
 on_PRP
-Sousse_NP0-NN1
+Sousse_NN1
 having_VHG
 to_TO0
 approach_NN1
@@ -35967,7 +35967,7 @@ no_AT0
 longer_AV0
 be_VBI
 a_AT0
-one-man_AJ0-NN1
+one-man_AJ0
 band_NN1
 but_CJC
 would_VM0
@@ -36056,7 +36056,7 @@ a_AT0
 private_AJ0
 version_NN1
 of_PRF
-Lili_NP0-NN1
+Lili_NP0
 Marlene_NP0
 the_AT0
 anthem_NN1
@@ -36089,18 +36089,18 @@ came_VVD
 the_AT0
 strain_NN1
 that_CJT
-lilting_AJ0-NN1
+lilting_AJ0
 refrain_VVI
 Each_DT0
 night_NN1
 again_AV0
 of_PRF
 poor_AJ0
-Lili_NP0-NN1
+Lili_NP0
 Marlene_NP0
 of_PRF
 poor_AJ0
-Lili_NP0-NN1
+Lili_NP0
 Marlene_NP0
 Chorus_NN1
 Then_AV0
@@ -36117,7 +36117,7 @@ beer_NN1
 with_PRP
 ne'er_AV0
 a_AT0
-tear_NN1-VVB
+tear_NN1
 And_CJC
 poor_AJ0
 Marlene_NP0
@@ -36168,7 +36168,7 @@ will_VM0
 never_AV0
 see_VVI
 Marlene_NP0
-Drive_NN1-VVB
+Drive_NN1
 on_PRP
 to_TO0
 an_AT0
@@ -36176,7 +36176,7 @@ airfield_NN1
 thirty_CRD
 planes_NN2
 ahead_AV0
-Belching_VVG-AJ0
+Belching_AJ0
 ammunition_NN1
 and_CJC
 filling_VVG
@@ -36235,7 +36235,7 @@ the_AT0
 soft_AJ0
 refrain_VVI
 That_DT0
-lilting_AJ0-NN1
+lilting_AJ0
 strain_NN1
 it_PNP
 's_POS

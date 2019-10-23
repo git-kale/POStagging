@@ -86,7 +86,7 @@ trip_NN1
 Christopher_NP0
 Joyce_NP0
 COVER_NN1
-Standing_VVG-NN1
+Standing_NN1
 up_AVP
 to_TO0
 earthquakes_NN2
@@ -256,7 +256,7 @@ to_TO0
 a_AT0
 climate_NN1
 treaty_NN1
-Patent_NN1-AJ0
+Patent_NN1
 error_NN1
 Drought_NN1
 hits_VVZ
@@ -366,8 +366,8 @@ Greatness_NN1
 in_PRP
 the_AT0
 galactic_AJ0
-subburbs_NN2-VVZ
-Cutting_VVG-NN1
+subburbs_VVZ
+Cutting_VVG
 the_AT0
 billion_CRD
 down_AVP
@@ -393,7 +393,7 @@ polystyrene_NN1
 better_AJC
 than_CJS
 paper_NN1
-Juggling_VVG-AJ0
+Juggling_AJ0
 genes_NN2
 unlike_PRP
 higher_AJC
@@ -416,7 +416,7 @@ week_NN1
 cover_NN1
 is_VBZ
 by_PRP
-Darrel_NP0-NN1
+Darrel_NP0
 Rees_NP0
 LETTERS_NN2
 After_PRP
@@ -597,7 +597,7 @@ caesium_NN1
 in_PRP
 upland_NN1
 grasses_NN2
-increased_AJ0
+increased_VVN
 dramatically_AV0
 after_PRP
 Chernobyl_NP0
@@ -614,7 +614,7 @@ dramatically_AV0
 to_TO0
 a_AT0
 value_NN1
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 Chernobyl_NP0
 fallout_NN1
@@ -666,7 +666,7 @@ British_AJ0
 Nuclear_AJ0
 Fuels_NN2
 plc_NN1
-Risley_NP0-NN1
+Risley_NP0
 Cheshire_NP0
 As_CJS
 the_AT0
@@ -721,7 +721,7 @@ of_PRF
 Terrestrial_AJ0
 Ecology_NN1
 at_PRP
-Merlewood_NP0-NN1
+Merlewood_NP0
 with_PRP
 more_AV0
 openness_NN1
@@ -1072,7 +1072,7 @@ amount_NN1
 of_PRF
 resource_NN1
 on_PRP
-well-studied_NN1-AJ0
+well-studied_AJ0
 high_AJ0
 profile_NN1
 species_NN0
@@ -1204,7 +1204,7 @@ Alister_NP0
 Hardy_NP0
 and_CJC
 Max_NP0
-Westenh\xc3\xb6fer_NP0-NN1
+Westenh\xc3\xb6fer_NP0
 I_PNP
 happen_VVI
 to_TO0
@@ -1264,7 +1264,7 @@ January_NP0
 I_PNP
 was_VBD
 in_PRP
-Brookhaven_NP0-NN1
+Brookhaven_NN1
 shortly_AV0
 after_PRP
 the_AT0
@@ -1280,7 +1280,7 @@ passed_VVN
 around_PRP
 and_CJC
 avidly_AV0
-perused_VVN-VVD
+perused_VVD
 so_AV0
 I_PNP
 am_VBB
@@ -1523,7 +1523,7 @@ of_PRF
 oxygen_NN1
 and_CJC
 hydrogen_NN1
-mixed_AJ0
+mixed_VVN
 in_PRP
 the_AT0
 optimum_AJ0
@@ -1581,7 +1581,7 @@ which_DTQ
 shows_VVZ
 that_CJT
 hypochlorites_NN2
-inhibit_VVI
+inhibit_VVB
 collagen_NN1
 synthesis_NN1
 and_CJC
@@ -1652,7 +1652,7 @@ Health_NN1
 Authority_NN1
 Darlington_NP0
 Durham_NP0
-Female_AJ0-NN1
+Female_AJ0
 circumcision_NN1
 Your_DPS
 article_NN1
@@ -1664,7 +1664,7 @@ indescribably_AV0
 moving_VVG
 and_CJC
 horrifying_AJ0
-Female_AJ0-NN1
+Female_AJ0
 circumcision_NN1
 fighting_VVG
 a_AT0
@@ -1721,7 +1721,7 @@ of_PRF
 relativity_NN1
 are_VBB
 all_DT0
-crackpots_NN2-VVZ
+crackpots_NN2
 But_CJC
 now_AV0
 that_CJT
@@ -1792,7 +1792,7 @@ my_DPS
 children_NN2
 attempted_VVN
 to_TO0
-drag_VVI
+drag_NN1
 me_PNP
 into_PRP
 the_AT0
@@ -1855,7 +1855,7 @@ earliest_AJS
 times_NN2
 to_TO0
 the_AT0
-present_AJ0-NN1
+present_AJ0
 day_NN1
 and_CJC
 the_AT0
@@ -1943,7 +1943,7 @@ recent_AJ0
 article_NN1
 in_PRP
 The_AT0
-Veterinary_AJ0-NN1
+Veterinary_AJ0
 Record_NN1
 19_CRD
 January_NP0
@@ -1960,13 +1960,13 @@ in_PRP
 llamas_NN2
 Such_DT0
 technology_NN1
-coupled_VVN-VVD
+coupled_VVN
 to_TO0
 advances_NN2
 such_DT0
 as_CJS
 embryo_NN1
-sexing_VVG-NN1
+sexing_NN1
 and_CJC
 embryo_NN1
 splitting_VVG
@@ -2270,7 +2270,7 @@ make_VVI
 them_PNP
 less_AV0
 likely_AJ0
-Officialdom_NN1-NP0
+Officialdom_NP0
 does_VDZ
 care_NN1
 and_CJC
@@ -2305,7 +2305,7 @@ Hazards_NN2
 Forum_NN1
 London_NP0
 Star_NN1
-cross_VVI
+cross_NN1
 How_AVQ
 unfortunate_AJ0
 that_CJT
@@ -2397,7 +2397,7 @@ side_NN1
 As_CJS
 a_AT0
 keen_AJ0
-amateur_AJ0-NN1
+amateur_AJ0
 astronomer_NN1
 I_PNP
 take_VVI
@@ -2424,7 +2424,7 @@ reserve_NN1
 the_AT0
 right_NN1
 to_TO0
-edit_VVI
+edit_NN1
 the_AT0
 longer_AV0
 ones_NN2
@@ -2463,7 +2463,7 @@ mentioned_VVN
 I_PNP
 'LL_VM0
 BE_VBI
-REMEMBERED_VVD-VVN
+REMEMBERED_VVN
 BUT_CJC
 YOU_PNP
 LACK_VVB
@@ -2477,7 +2477,7 @@ HISTORY_NN1
 OR_CJC
 NOT_XX0
 2B_UNC
-HAMLET_NP0-NN1
+HAMLET_NP0
 HAS_VHZ
 DOUBTS_NN2
 THE_AT0
@@ -2492,7 +2492,7 @@ SHE_PNP
 'S_POS
 AN_AT0
 ASTRONOMER_NN1
-GRIMBLEDON_NP0-NN1
+GRIMBLEDON_NN1
 DOWN_AVP
 Bill_NP0
 Tidy_AJ0
@@ -2504,7 +2504,7 @@ A_AT0
 CONDOM_NN1
 'S_POS
 STRENGTH_NN1
-DESTROYED_VVD-VVN
+DESTROYED_VVD
 IN_PRP
 UNDER_PRP
 15_CRD
@@ -2515,8 +2515,8 @@ OIL_NN1
 BASED_VVN
 LUBRICANT_NN1
 IS_VBZ
-USED_VVN-VVD
-VASELINE_NP0-NN1
+USED_VVN
+VASELINE_NN1
 PETROLEUM_NN1
 JELLY_NN1
 ETC_AV0
@@ -2534,7 +2534,7 @@ DAMMIT_ITJ
 AFTER_PRP
 ALL_DT0
 OUR_DPS
-CONTRACEPTIVE_AJ0-NN1
+CONTRACEPTIVE_AJ0
 RESEARCH_NN1
 GET_VVB
 ME_PNP
@@ -2549,9 +2549,9 @@ in_PRP
 defence_NN1
 from_PRP
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 The_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 War_NN1
 like_PRP
 all_DT0
@@ -2575,7 +2575,7 @@ being_VBG
 systematically_AV0
 destroyed_VVN
 by_PRP
-high-technology_AJ0-NN1
+high-technology_AJ0
 weapons_NN2
 and_CJC
 the_AT0
@@ -2656,7 +2656,7 @@ likely_AJ0
 to_TO0
 use_NN1
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 War_NN1
 to_TO0
 rethink_VVI
@@ -2729,7 +2729,7 @@ postures_NN2
 even_AV0
 if_CJS
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 conflict_NN1
 has_VHZ
 emphasised_VVN
@@ -2757,7 +2757,7 @@ main_AJ0
 lesson_NN1
 of_PRF
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 War_NN1
 may_VM0
 indeed_AV0
@@ -2790,7 +2790,7 @@ are_VBB
 being_VBG
 reassessed_VVN
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 War_NN1
 has_VHZ
 brought_VVN
@@ -2885,7 +2885,7 @@ and_CJC
 the_AT0
 identification_NN1
 and_CJC
-tracking_VVG
+tracking_AJ0
 in_PRP
 real_AJ0
 time_NN1
@@ -3199,7 +3199,7 @@ their_DPS
 effectiveness_NN1
 in_PRP
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 conflict_NN1
 They_PNP
 are_VBB
@@ -3311,12 +3311,12 @@ communications_NN2
 centres_NN2
 could_VM0
 be_VBI
-decentralised_VVN-AJ0
+decentralised_AJ0
 and_CJC
 would_VM0
 therefore_AV0
 not_XX0
-present_AJ0-NN1
+present_AJ0
 obvious_AJ0
 targets_NN2
 for_PRP
@@ -3386,7 +3386,7 @@ sensors_NN2
 whether_CJS
 seismic_AJ0
 magnetic_AJ0
-acoustic_AJ0-NN1
+acoustic_AJ0
 or_CJC
 infrared_AJ0
 Choice_NN1
@@ -3461,7 +3461,7 @@ by_PRP
 both_AV0
 sides_NN2
 The_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 War_NN1
 has_VHZ
 demonstrated_VVN
@@ -3553,7 +3553,7 @@ from_PRP
 adopting_VVG
 defensive_AJ0
 policies_NN2
-COMMENT_VVB-NN1
+COMMENT_VVB
 Statistics_NN0
 damned_AJ0
 statistics_NN0
@@ -3669,7 +3669,7 @@ example_NN1
 whose_DTQ
 position_NN1
 was_VBD
-voiced_VVN-VVD
+voiced_VVN
 by_PRP
 shadow_NN1
 education_NN1
@@ -3978,7 +3978,7 @@ the_AT0
 first_ORD
 time_NN1
 the_AT0
-ABRC_NP0-NN1
+ABRC_NP0
 's_POS
 report_NN1
 has_VHZ
@@ -4115,7 +4115,7 @@ argued_VVD
 out_AVP
 without_PRP
 the_AT0
-sloganising_NN1-AJ0
+sloganising_AJ0
 that_CJT
 tends_VVZ
 to_TO0
@@ -4150,7 +4150,7 @@ the_AT0
 advice_NN1
 of_PRF
 the_AT0
-ABRC_NP0-NN1
+ABRC_NP0
 see_VVI
 This_DT0
 Week_NN1
@@ -4247,7 +4247,7 @@ is_VBZ
 even_AV0
 threatening_VVG
 to_TO0
-fall_VVI
+fall_NN1
 on_PRP
 Tel_NP0
 Aviv_NP0
@@ -4364,7 +4364,7 @@ to_TO0
 inform_VVI
 Others_NN2
 merely_AV0
-shrug_VVI
+shrug_NN1
 off_AVP
 questions_NN2
 with_PRP
@@ -4396,7 +4396,7 @@ Meanwhile_AV0
 those_DT0
 of_PRF
 us_PNP
-deprived_AJ0
+deprived_VVN
 of_PRF
 information_NN1
 struggle_NN1
@@ -4499,7 +4499,7 @@ and_CJC
 certain_AJ0
 diseases_NN2
 The_AT0
-210-page_AJ0-NN1
+210-page_AJ0
 judgement_NN1
 by_PRP
 Justice_NP0
@@ -4595,7 +4595,7 @@ protested_VVD
 to_TO0
 the_AT0
 Trade_NN1
-Practices_NN2-VVZ
+Practices_VVZ
 Commission_NN1
 the_AT0
 institute_NN1
@@ -4607,7 +4607,7 @@ to_TO0
 the_AT0
 federation_NN1
 the_AT0
-offending_AJ0-NN1
+offending_AJ0
 wording_NN1
 had_VHD
 not_XX0
@@ -4627,7 +4627,7 @@ Court_NN1
 under_PRP
 the_AT0
 Trade_NN1
-Practices_NN2-VVZ
+Practices_VVZ
 Act_NN1
 Among_PRP
 witnesses_NN2
@@ -4751,7 +4751,7 @@ but_CJC
 Morling_NP0
 said_VVD
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 pattern_NN1
 emerging_VVG
 from_PRP
@@ -4813,7 +4813,7 @@ of_PRF
 the_AT0
 judge_VVI
 's_POS
-ruling_AJ0-NN1
+ruling_NN1
 is_VBZ
 important_AJ0
 because_CJS
@@ -4978,7 +4978,7 @@ a_AT0
 newspaper_NN1
 advertisement_NN1
 He_PNP
-stuck_AJ0
+stuck_VVN
 with_PRP
 things_NN2
 that_CJT
@@ -5025,7 +5025,7 @@ request_NN1
 copies_NN2
 of_PRF
 the_AT0
-ruling_AJ0-NN1
+ruling_NN1
 According_VVG
 to_TO0
 Cashman_NP0
@@ -5053,10 +5053,10 @@ employees_NN2
 sue_VVI
 them_PNP
 The_AT0
-ruling_AJ0-NN1
+ruling_NN1
 could_VM0
 also_AV0
-prompt_VVI
+prompt_AJ0
 the_AT0
 owners_NN2
 of_PRF
@@ -5087,7 +5087,7 @@ anti-smoking_AJ0
 group_NN1
 Action_NN1
 on_PRP
-Smoking_NN1-VVG
+Smoking_VVG
 and_CJC
 Health_NN1
 Black_AJ0
@@ -5101,20 +5101,20 @@ THE_AT0
 WHITE_AJ0
 House_NN1
 's_POS
-long-awaited_AJ0-NN1
+long-awaited_AJ0
 national_AJ0
 energy_NN1
 strategy_NN1
 spurns_VVZ
 energy_NN1
-conservation_AJ0-NN1
+conservation_NN1
 and_CJC
 instead_AV0
 urges_VVZ
 the_AT0
 country_NN1
 to_TO0
-drill_VVI
+drill_NN1
 for_PRP
 more_AV0
 oil_NN1
@@ -5206,13 +5206,13 @@ House_NN1
 finally_AV0
 rejected_VVN
 them_PNP
-Joelle_NN1-NP0
-Ziemian_NN1-NP0
+Joelle_NP0
+Ziemian_NN1
 a_AT0
 spokeswoman_NN1
 for_PRP
 the_AT0
-DOE_NP0-NN1
+DOE_NP0
 says_VVZ
 that_CJT
 Congress_NN1
@@ -5224,7 +5224,7 @@ version_NN1
 within_PRP
 three_CRD
 weeks_NN2
-Ziemian_NN1-NP0
+Ziemian_NN1
 says_VVZ
 there_EX0
 is_VBZ
@@ -5281,7 +5281,7 @@ of_PRF
 the_AT0
 plan_NN1
 is_VBZ
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 encouraging_AJ0
 more_AV0
@@ -5334,7 +5334,7 @@ they_PNP
 cause_NN1
 and_CJC
 the_AT0
-DOE_NP0-NN1
+DOE_NP0
 can_VM0
 stop_VVI
 any_DT0
@@ -5389,7 +5389,7 @@ would_VM0
 also_AV0
 allow_VVI
 the_AT0
-DOE_NP0-NN1
+DOE_NP0
 to_TO0
 study_NN1
 possible_AJ0
@@ -5441,7 +5441,7 @@ Energy_NN1
 a_AT0
 coalition_NN1
 of_PRF
-conservation_AJ0-NN1
+conservation_NN1
 groups_NN2
 called_VVN
 it_PNP
@@ -5497,7 +5497,7 @@ Congress_NN1
 have_VHB
 already_AV0
 introduced_VVN
-competing_VVG-AJ0
+competing_AJ0
 proposals_NN2
 that_CJT
 would_VM0
@@ -5509,7 +5509,7 @@ imported_VVN
 oil_NN1
 by_PRP
 encouraging_AJ0
-conservation_AJ0-NN1
+conservation_NN1
 and_CJC
 alternative_AJ0
 fuels_NN2
@@ -5530,7 +5530,7 @@ administration_NN1
 plan_NN1
 says_VVZ
 Wolf_NP0
-Secret_AJ0-NN1
+Secret_AJ0
 report_NN1
 exposes_VVZ
 fears_NN2
@@ -5538,7 +5538,7 @@ for_PRP
 British_AJ0
 science_NN1
 William_NP0
-Bown_NP0-NN1
+Bown_NP0
 CONFIDENTIAL_AJ0
 advice_NN1
 to_TO0
@@ -5597,7 +5597,7 @@ the_AT0
 unpublished_AJ0
 report_NN1
 The_AT0
-four-page_AJ0-NN1
+four-page_NN1
 letter_NN1
 from_PRP
 David_NP0
@@ -5605,7 +5605,7 @@ Phillips_NP0
 head_NN1
 of_PRF
 the_AT0
-ABRC_NP0-NN1
+ABRC_NP0
 to_TO0
 Kenneth_NP0
 Clarke_NP0
@@ -5814,7 +5814,7 @@ SERC_NP0
 He_PNP
 says_VVZ
 the_AT0
-offending_AJ0-NN1
+offending_AJ0
 research_NN1
 was_VBD
 started_VVD
@@ -5871,7 +5871,7 @@ weight_NN1
 coming_VVG
 from_PRP
 the_AT0
-ABRC_NP0-NN1
+ABRC_NP0
 the_AT0
 government_NN1
 's_POS
@@ -6081,7 +6081,7 @@ Phillips_NP0
 's_POS
 letter_NN1
 is_VBZ
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 the_AT0
 SERC_NP0
@@ -6167,7 +6167,7 @@ point_NN1
 to_TO0
 a_AT0
 continuing_AJ0
-squeeze_VVI
+squeeze_NN1
 on_PRP
 nuclear_AJ0
 physics_NN1
@@ -6287,7 +6287,7 @@ research_NN1
 He_PNP
 says_VVZ
 the_AT0
-ABRC_NP0-NN1
+ABRC_NP0
 's_POS
 major_AJ0
 disappointment_NN1
@@ -6322,14 +6322,14 @@ community_NN1
 by_PRP
 threatening_VVG
 to_TO0
-shut_VVB
+shut_VVN
 down_AVP
 the_AT0
 NSF_NP0
 still_AV0
 wants_VVZ
 to_TO0
-shift_NN1-VVB
+shift_NN1
 the_AT0
 council_NN1
 's_POS
@@ -6484,7 +6484,7 @@ require_VVB
 million_CRD
 open_AJ0
 or_CJC
-shut_VVB
+shut_VVN
 This_DT0
 money_NN1
 is_VBZ
@@ -6503,7 +6503,7 @@ come_VVI
 either_AV0
 from_PRP
 the_AT0
-ABRC_NP0-NN1
+ABRC_NP0
 's_POS
 reserve_NN1
 or_CJC
@@ -6742,7 +6742,7 @@ NSF_NP0
 said_VVD
 Leaving_VVG
 the_AT0
-present_AJ0-NN1
+present_AJ0
 government_NN1
 in_PRP
 charge_NN1
@@ -6997,7 +6997,7 @@ will_VM0
 begin_VVI
 the_AT0
 upward_AJ0
-spiral_AJ0-NN1
+spiral_NN1
 once_AV0
 more_AV0
 In_PRP
@@ -7201,7 +7201,7 @@ American_AJ0
 equivalent_AJ0
 of_PRF
 the_AT0
-three-card_AJ0-NN1
+three-card_AJ0
 trick_NN1
 Beneath_PRP
 the_AT0
@@ -7214,7 +7214,7 @@ no_AT0
 substance_NN1
 Gore_NP0
 Tim_NP0
-Wirth_NN1-NP0
+Wirth_NP0
 of_PRF
 Colorado_NP0
 and_CJC
@@ -7244,7 +7244,7 @@ in_PRP
 years_NN2
 Gore_NP0
 and_CJC
-Wirth_NN1-NP0
+Wirth_NP0
 were_VBD
 backed_VVN
 by_PRP
@@ -7261,7 +7261,7 @@ Assessment_NN1
 According_VVG
 to_TO0
 the_AT0
-OTA_NN1-NP0
+OTA_NN1
 US_NP0
 emissions_NN2
 of_PRF
@@ -7329,7 +7329,7 @@ of_PRF
 the_AT0
 gas_NN1
 sulphur_NN1
-hexafluoride_NN1-VVB
+hexafluoride_NN1
 have_VHB
 poisoned_AJ0
 repair_NN1
@@ -7358,7 +7358,7 @@ risks_NN2
 say_VVI
 researchers_NN2
 Sulphur_NN1
-hexafluoride_NN1-VVB
+hexafluoride_NN1
 itself_PNX
 is_VBZ
 harmless_AJ0
@@ -7385,7 +7385,7 @@ use_NN1
 it_PNP
 to_TO0
 insulate_VVI
-high-voltage_AJ0-NN1
+high-voltage_AJ0
 circuit_NN1
 breakers_NN2
 and_CJC
@@ -7399,7 +7399,7 @@ trace_NN1
 leaks_NN2
 If_CJS
 sulphur_NN1
-hexafluoride_NN1-VVB
+hexafluoride_NN1
 is_VBZ
 subjected_VVN
 to_TO0
@@ -7419,12 +7419,12 @@ products_NN2
 These_DT0
 include_VVI
 sulphur_NN1
-oxyfluorides_NN2-VVZ
+oxyfluorides_VVZ
 sulphur_NN1
 dioxide_NN1
 and_CJC
 sulphur_NN1
-tetrafluoride_NN1-VVB
+tetrafluoride_NN1
 which_DTQ
 react_VVI
 with_PRP
@@ -7455,9 +7455,9 @@ breakdown_NN1
 products_NN2
 of_PRF
 electrically_AV0
-arced_VVD
+arced_VVN
 sulphur_NN1
-hexafluoride_NN1-VVB
+hexafluoride_NN1
 kill_VVI
 cells_NN2
 and_CJC
@@ -7541,7 +7541,7 @@ to_TO0
 the_AT0
 experiment_NN1
 Sulphur_NN1
-hexafluoride_NN1-VVB
+hexafluoride_NN1
 which_DTQ
 normally_AV0
 filled_VVN
@@ -7588,7 +7588,7 @@ from_PRP
 exposure_NN1
 to_TO0
 sulphur_NN1
-hexafluoride_NN1-VVB
+hexafluoride_NN1
 he_PNP
 coughed_VVD
 up_AVP
@@ -7623,7 +7623,7 @@ they_PNP
 found_VVD
 a_AT0
 sulphur_NN1
-oxyfluoride_NN1-VVB
+oxyfluoride_VVB
 SO2F2_UNC
 There_EX0
 was_VBD
@@ -7662,7 +7662,7 @@ let_VVB
 the_AT0
 whole_AJ0
 thing_NN1
-drop_VVI
+drop_NN1
 he_PNP
 said_VVD
 Last_ORD
@@ -7684,7 +7684,7 @@ of_PRF
 Industrial_AJ0
 Medicine_NN1
 Ruth_NP0
-Lilis_NN1-NP0
+Lilis_NN1
 at_PRP
 the_AT0
 Mount_NP0
@@ -7711,7 +7711,7 @@ workers_NN2
 who_PNQ
 developed_VVN
 coughs_NN2
-nosebleeds_NN2-VVZ
+nosebleeds_NN2
 tightness_NN1
 in_PRP
 the_AT0
@@ -7747,7 +7747,7 @@ the_AT0
 presence_NN1
 of_PRF
 sulphur_NN1
-tetrafluoride_NN1-VVB
+tetrafluoride_NN1
 The_AT0
 changes_NN2
 in_PRP
@@ -7825,7 +7825,7 @@ such_DT0
 knowledge_NN1
 were_VBD
 widespread_AJ0
-Lilis_NN1-NP0
+Lilis_NN1
 in_PRP
 New_AJ0
 York_NP0
@@ -7889,7 +7889,7 @@ had_VHD
 heard_VVN
 of_PRF
 sulphur_NN1
-hexafluoride_NN1-VVB
+hexafluoride_NN1
 nor_CJC
 did_VDD
 they_PNP
@@ -7941,7 +7941,7 @@ incidents_NN2
 Larry_NP0
 Reed_NP0
 of_PRF
-NIOSH_NP0-NN1
+NIOSH_NN1
 said_VVD
 We_PNP
 have_VHB
@@ -7968,7 +7968,7 @@ suppliers_NN2
 for_PRP
 handling_NN1
 sulphur_NN1
-hexafluoride_NN1-VVB
+hexafluoride_NN1
 and_CJC
 its_DPS
 breakdown_NN1
@@ -8016,7 +8016,7 @@ National_AJ0
 Grid_NN1
 Britain_NP0
 's_POS
-high-voltage_AJ0-NN1
+high-voltage_AJ0
 supply_NN1
 company_NN1
 and_CJC
@@ -8045,7 +8045,7 @@ Barry_NP0
 Fox_NP0
 THE_AT0
 British_AJ0
-Patent_NN1-AJ0
+Patent_NN1
 Office_NN1
 spent_VVN
 last_ORD
@@ -8068,7 +8068,7 @@ patent_NN1
 their_DPS
 inventions_NN2
 The_AT0
-full-page_AJ0-NN1
+full-page_AJ0
 adverts_NN2
 contain_VVB
 an_AT0
@@ -8076,7 +8076,7 @@ extremely_AV0
 embarrassing_AJ0
 error_NN1
 The_AT0
-Patent_NN1-AJ0
+Patent_NN1
 Office_NN1
 says_VVZ
 it_PNP
@@ -8107,7 +8107,7 @@ workload_NN1
 of_PRF
 the_AT0
 British_AJ0
-Patent_NN1-AJ0
+Patent_NN1
 Office_NN1
 is_VBZ
 falling_VVG
@@ -8119,7 +8119,7 @@ filed_VVD
 with_PRP
 the_AT0
 European_AJ0
-Patent_NN1-AJ0
+Patent_NN1
 Office_NN1
 in_PRP
 Munich_NP0
@@ -8179,7 +8179,7 @@ and_CJC
 Industry_NN1
 blocked_VVN
 the_AT0
-Patent_NN1-AJ0
+Patent_NN1
 Office_NN1
 's_POS
 first_ORD
@@ -8263,13 +8263,13 @@ five_CRD
 days_NN2
 for_PRP
 the_AT0
-Patent_NN1-AJ0
+Patent_NN1
 Office_NN1
 and_CJC
 its_DPS
 advertising_NN1
 agency_NN1
-Ayer_NP0-NN1
+Ayer_NN1
 to_TO0
 come_VVI
 up_AVP
@@ -8293,12 +8293,12 @@ Polaroid_NN1
 instant_AJ0
 camera_NN1
 the_AT0
-Catseye_NN1-NP0
+Catseye_NP0
 road_NN1
 stud_NN1
 and_CJC
 the_AT0
-ring-pull_AJ0-NN1
+ring-pull_NN1
 can_VM0
 with_PRP
 the_AT0
@@ -8315,7 +8315,7 @@ benefit_NN1
 \xc2\xa30.00_NN0
 warned_VVD
 the_AT0
-Patent_NN1-AJ0
+Patent_NN1
 Office_NN1
 The_AT0
 difference_NN1
@@ -8362,7 +8362,7 @@ misery_NN1
 Unfortunately_AV0
 for_PRP
 the_AT0
-Patent_NN1-AJ0
+Patent_NN1
 Office_NN1
 the_AT0
 advertising_NN1
@@ -8378,7 +8378,7 @@ facts_NN2
 right_NN1
 and_CJC
 the_AT0
-Patent_NN1-AJ0
+Patent_NN1
 Office_NN1
 did_VDD
 not_XX0
@@ -8429,7 +8429,7 @@ the_AT0
 window_NN1
 of_PRF
 his_DPS
-13th-floor_AJ0-NN1
+13th-floor_NN1
 apartment_NN1
 overlooking_VVG
 New_AJ0
@@ -8533,7 +8533,7 @@ FM_NN1
 at_PRP
 the_AT0
 US_NP0
-Patent_NN1-AJ0
+Patent_NN1
 Office_NN1
 on_PRP
 24_CRD
@@ -8618,7 +8618,7 @@ received_VVD
 $4.5_NN0
 million_CRD
 But_CJC
-RCA_NP0-NN1
+RCA_NP0
 would_VM0
 offer_VVI
 only_AV0
@@ -8633,7 +8633,7 @@ sued_VVN
 21_CRD
 companies_NN2
 including_PRP
-RCA_NP0-NN1
+RCA_NP0
 and_CJC
 Motorola_NP0
 He_PNP
@@ -8660,13 +8660,13 @@ the_AT0
 $1_NN0
 million_CRD
 which_DTQ
-RCA_NP0-NN1
+RCA_NP0
 had_VHD
 offered_VVN
 14_CRD
 years_NN2
 earlier_AJC
-Spinning_VVG-AJ0
+Spinning_VVG
 satellite_NN1
 ROSAT_NP0
 the_AT0
@@ -8681,7 +8681,7 @@ three_CRD
 weeks_NN2
 ago_AV0
 was_VBD
-restarted_VVN-VVD
+restarted_VVN
 last_ORD
 week_NN1
 But_CJC
@@ -8835,9 +8835,9 @@ What_DTQ
 's_POS
 wrong_AJ0
 with_PRP
-French_AJ0-NN1
+French_AJ0
 literature_NN1
-FRENCH_AJ0-NN1
+FRENCH_AJ0
 scientific_AJ0
 journals_NN2
 are_VBB
@@ -8884,7 +8884,7 @@ quality_NN1
 produces_VVZ
 a_AT0
 downward_AJ0
-spiral_AJ0-NN1
+spiral_NN1
 of_PRF
 falling_VVG
 circulation_NN1
@@ -8901,7 +8901,7 @@ Most_DT0
 of_PRF
 the_AT0
 1500_CRD
-French_AJ0-NN1
+French_AJ0
 journals_NN2
 are_VBB
 published_VVN
@@ -8916,7 +8916,7 @@ specialists_NN2
 and_CJC
 have_VHB
 an_AT0
-average_AJ0-NN1
+average_AJ0
 print_NN1
 run_VVI
 of_PRF
@@ -8979,7 +8979,7 @@ the_AT0
 way_NN1
 to_TO0
 pull_VVI
-French_AJ0-NN1
+French_AJ0
 journals_NN2
 up_AVP
 to_TO0
@@ -8998,16 +8998,16 @@ include_VVI
 foreign_AJ0
 specialists_NN2
 on_PRP
-editorial_AJ0-NN1
+editorial_NN1
 boards_NN2
 Synopses_NN2
 in_PRP
-English_AJ0-NN1
+English_AJ0
 would_VM0
 widen_VVI
 their_DPS
 readership_NN1
-French_AJ0-NN1
+French_AJ0
 scientists_NN2
 also_AV0
 need_VVB
@@ -9023,7 +9023,7 @@ A_AT0
 recent_AJ0
 study_NN1
 by_PRP
-INSERM_NP0-NN1
+INSERM_NN1
 the_AT0
 national_AJ0
 institute_NN1
@@ -9034,13 +9034,13 @@ medical_AJ0
 research_NN1
 revealed_VVN
 that_CJT
-French_AJ0-NN1
+French_AJ0
 specialists_NN2
 are_VBB
 under-represented_AJ0
 on_PRP
 the_AT0
-editorial_AJ0-NN1
+editorial_NN1
 boards_NN2
 of_PRF
 medical_AJ0
@@ -9051,10 +9051,10 @@ to_TO0
 the_AT0
 strength_NN1
 of_PRF
-French_AJ0-NN1
+French_AJ0
 biomedical_AJ0
 research_NN1
-French_AJ0-NN1
+French_AJ0
 scientists_NN2
 and_CJC
 engineers_NN2
@@ -9173,7 +9173,7 @@ to_TO0
 recommend_VVI
 books_NN2
 in_PRP
-English_AJ0-NN1
+English_AJ0
 One_CRD
 way_NN1
 of_PRF
@@ -9283,7 +9283,7 @@ state_NN1
 's_POS
 water_NN1
 By_PRP
-irrigating_VVG-AJ0
+irrigating_VVG
 land_NN1
 that_CJT
 would_VM0
@@ -9498,7 +9498,7 @@ transported_VVN
 to_TO0
 the_AT0
 Central_AJ0
-Valley_NN1-NP0
+Valley_NN1
 the_AT0
 main_AJ0
 agricultural_AJ0
@@ -9506,7 +9506,7 @@ region_NN1
 According_VVG
 to_TO0
 Sami_NP0
-Yassa_NP0-NN1
+Yassa_NP0
 of_PRF
 the_AT0
 Natural_AJ0
@@ -9538,7 +9538,7 @@ of_PRF
 fish_NN0
 he_PNP
 says_VVZ
-Yassa_NP0-NN1
+Yassa_NP0
 estimates_NN2
 that_CJT
 the_AT0
@@ -9607,7 +9607,7 @@ wetlands_NN2
 have_VHB
 disappeared_VVD
 says_VVZ
-Yassa_NP0-NN1
+Yassa_NP0
 A_AT0
 previous_AJ0
 California_NP0
@@ -9706,7 +9706,7 @@ the_AT0
 cost_NN1
 of_PRF
 water_NN1
-tenfold_AV0-AJ0
+tenfold_AJ0
 for_PRP
 city_NN1
 users_NN2
@@ -9876,7 +9876,7 @@ The_AT0
 first_ORD
 attempt_NN1
 to_TO0
-drive_VVI
+drive_NN1
 up_AVP
 the_AT0
 cost_NN1
@@ -9964,7 +9964,7 @@ rapid_AJ0
 rail_NN1
 system_NN1
 called_VVN
-Randstad_NP0-NN1
+Randstad_NN1
 Rail_NN1
 which_DTQ
 uses_NN2
@@ -10013,7 +10013,7 @@ private_AJ0
 car_NN1
 registrations_NN2
 has_VHZ
-increased_AJ0
+increased_VVN
 from_PRP
 99_CRD
 000_CRD
@@ -10187,9 +10187,9 @@ owners_NN2
 pressure_NN1
 group_NN1
 Stichting_NP0
-Weg_NP0-NN1
+Weg_NP0
 has_VHZ
-branded_VVN-AJ0
+branded_VVN
 the_AT0
 plans_NN2
 impractical_AJ0
@@ -10340,7 +10340,7 @@ material_NN1
 by_PRP
 weight_NN1
 On_PRP
-average_AJ0-NN1
+average_AJ0
 paper_NN1
 cups_NN2
 weigh_VVI
@@ -10459,7 +10459,7 @@ recycled_VVN
 because_CJS
 they_PNP
 contain_VVB
-chemical_AJ0-NN1
+chemical_AJ0
 additives_NN2
 Contrary_AJ0
 to_TO0
@@ -10553,7 +10553,7 @@ new_AJ0
 figures_NN2
 about_PRP
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 the_AT0
 disease_NN1
@@ -10700,7 +10700,7 @@ in_PRP
 clinics_NN2
 for_PRP
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 antenatal_AJ0
 care_NN1
@@ -10757,7 +10757,7 @@ Serote_NP0
 director_NN1
 of_PRF
 the_AT0
-Soweto-based_AJ0-NN1
+Soweto-based_NN1
 Township_NN1
 AIDS_NN1
 Project_NN1
@@ -10877,7 +10877,7 @@ highest_AJS
 incidence_NN1
 and_CJC
 fastest_AJS
-spread_NN1
+spread_VVN
 of_PRF
 HIV_NP0
 infection_NN1
@@ -11096,7 +11096,7 @@ for_PRP
 the_AT0
 epidemic_NN1
 to_TO0
-spread_NN1
+spread_VVN
 is_VBZ
 underlined_VVN
 by_PRP
@@ -11147,7 +11147,7 @@ to_TO0
 combat_VVI
 AIDS_NN1
 At_PRP
-present_AJ0-NN1
+present_AJ0
 there_EX0
 are_VBB
 14_CRD
@@ -11195,7 +11195,7 @@ turn_NN1
 words_NN2
 into_PRP
 action_NN1
-Dengue_NN1-VVB
+Dengue_NN1
 fever_NN1
 grips_NN2
 Brazil_NP0
@@ -11243,12 +11243,12 @@ centres_NN2
 in_PRP
 football_NN1
 stadiums_NN2
-Dengue_NN1-VVB
+Dengue_NN1
 is_VBZ
-transmitted_AJ0-VVN
+transmitted_VVN
 by_PRP
 the_AT0
-yellow-fever_AJ0-NN1
+yellow-fever_NN1
 mosquito_NN1
 Aedes_VVZ
 aegyptii_NN2
@@ -11270,7 +11270,7 @@ the_AT0
 past_NN1
 two_CRD
 years_NN2
-Local_NN1-AJ0
+Local_AJ0
 authorities_NN2
 blame_VVI
 the_AT0
@@ -11304,7 +11304,7 @@ first_ORD
 month_NN1
 of_PRF
 the_AT0
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 summer_NN1
 signals_NN2
 worse_AJC
@@ -11435,7 +11435,7 @@ but_CJC
 a_AT0
 fact_NN1
 The_AT0
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 Ministry_NN1
 of_PRF
 Health_NN1
@@ -11462,7 +11462,7 @@ Rio_NP0
 S\xc3\xa3o_NP0
 Paulo_NP0
 and_CJC
-Cear\xc3\xa1_NP0-NN1
+Cear\xc3\xa1_NP0
 in_PRP
 the_AT0
 northeast_NN1
@@ -11534,7 +11534,7 @@ fatally_AV0
 According_VVG
 to_TO0
 the_AT0
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 health_NN1
 ministry_NN1
 7_CRD
@@ -11659,7 +11659,7 @@ S\xc3\xa3o_NP0
 Paulo_NP0
 IN_PRP
 BRIEF_AJ0
-Salyut_VVB-NN1
+Salyut_NN1
 shower_NN1
 THE_AT0
 Soviet_AJ0
@@ -11669,7 +11669,7 @@ Salyut-7_CRD
 made_VVN
 its_DPS
 long_AJ0
-awaited_VVD
+awaited_VVN
 return_NN1
 to_TO0
 Earth_NN1
@@ -11725,7 +11725,7 @@ fuel_NN1
 Most_DT0
 of_PRF
 the_AT0
-Salyut_VVB-NN1
+Salyut_NN1
 craft_NN1
 is_VBZ
 believed_VVD
@@ -11739,7 +11739,7 @@ the_AT0
 atmosphere_NN1
 but_CJC
 the_AT0
-Argentine_AJ0-NN1
+Argentine_AJ0
 defence_NN1
 ministry_NN1
 said_VVD
@@ -11761,12 +11761,12 @@ to_TO0
 the_AT0
 newspaper_NN1
 La_NP0
-Nacion_NP0-NN1
+Nacion_NP0
 Delia_NP0
 Adela_NP0
 Guevara_NP0
 de_NP0
-Palazzo_NP0-NN1
+Palazzo_NP0
 missed_VVN
 becoming_VVG
 the_AT0
@@ -11792,7 +11792,7 @@ in_PRP
 her_DPS
 back_AVP
 garden_NN1
-Sinking_VVG-AJ0
+Sinking_AJ0
 ships_NN2
 TWELVE_CRD
 cargo_NN1
@@ -11986,7 +11986,7 @@ distributed_VVN
 load_NN1
 of_PRF
 coal_NN1
-Suspect_VVB-NN1
+Suspect_NN1
 virus_NN1
 SCIENTISTS_NN2
 believe_VVB
@@ -12016,7 +12016,7 @@ Researchers_NN2
 in_PRP
 Birmingham_NP0
 and_CJC
-Aarhus_NN1-NP0
+Aarhus_NN1
 in_PRP
 Denmark_NP0
 have_VHB
@@ -12033,7 +12033,7 @@ and_CJC
 thought_VVD
 to_TO0
 be_VBI
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 cancer_NN1
@@ -12189,7 +12189,7 @@ brought_VVN
 to_TO0
 Australia_NP0
 by_PRP
-Portuguese_AJ0-NN1
+Portuguese_AJ0
 sailors_NN2
 up_AVP
 to_TO0
@@ -12312,7 +12312,7 @@ The_AT0
 six_CRD
 men_NN2
 were_VBD
-convicted_VVN-AJ0
+convicted_VVN
 of_PRF
 the_AT0
 Birmingham_NP0
@@ -12375,7 +12375,7 @@ the_AT0
 men_NN2
 had_VHD
 handled_VVN
-nitrocellulose_NN1-VVB
+nitrocellulose_VVB
 Skuse_NP0
 did_VDD
 not_XX0
@@ -12388,7 +12388,7 @@ and_CJC
 the_AT0
 Home_NN1
 Office_NN1
-retired_AJ0
+retired_VVD
 him_PNP
 days_NN2
 after_PRP
@@ -12420,7 +12420,7 @@ which_DTQ
 would_VM0
 not_XX0
 dissolve_VVI
-nitrocellulose_NN1-VVB
+nitrocellulose_VVB
 but_CJC
 which_DTQ
 would_VM0
@@ -12455,7 +12455,7 @@ week_NN1
 the_AT0
 Director_NN1
 of_PRF
-Public_AJ0-NN1
+Public_AJ0
 Prosecutions_NN2
 formally_AV0
 told_VVD
@@ -12495,10 +12495,10 @@ these_DT0
 have_VHB
 been_VBN
 altered_VVN
-French_AJ0-NN1
+French_AJ0
 link-up_NN1
 THE_AT0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 has_VHZ
 launched_VVN
@@ -12528,9 +12528,9 @@ Germany_NP0
 's_POS
 DFN_NP0
 The_AT0
-French_AJ0-NN1
+French_AJ0
 network_NN1
-Renatel_NP0-NN1
+Renatel_NP0
 will_VM0
 begin_VVI
 linking_VVG
@@ -12542,7 +12542,7 @@ systems_NN2
 next_ORD
 year_NN1
 Its_DPS
-initial_AJ0-NN1
+initial_AJ0
 capacity_NN1
 will_VM0
 be_VBI
@@ -12557,7 +12557,7 @@ end_NN1
 of_PRF
 the_AT0
 decade_NN1
-Renatel_NP0-NN1
+Renatel_NP0
 is_VBZ
 expected_VVN
 to_TO0
@@ -12574,7 +12574,7 @@ by_PRP
 France_NP0
 's_POS
 planned_VVN
-switch_VVI
+switch_NN1
 to_TO0
 fibre_NN1
 optics_NN1
@@ -12591,7 +12591,7 @@ is_VBZ
 planning_NN1
 to_TO0
 develop_VVI
-Renatel_NP0-NN1
+Renatel_NP0
 in_PRP
 time_NN1
 to_TO0
@@ -12665,7 +12665,7 @@ for_PRP
 the_AT0
 outside_PRP
 world_NN1
-Haplochromis_NN1-NP0
+Haplochromis_NP0
 nyereri_NN2
 named_VVN
 in_PRP
@@ -12708,7 +12708,7 @@ the_AT0
 aquariums_NN2
 at_PRP
 the_AT0
-Horniman_NN1-NP0
+Horniman_NP0
 Museum_NN1
 in_PRP
 South_NN1
@@ -12896,9 +12896,9 @@ a_AT0
 trip_NN1
 Christopher_NP0
 Joyce_NP0
-RAIN_NN1-VVB
+RAIN_NN1
 or_CJC
-shine_VVI
+shine_NN1
 for_PRP
 more_AV0
 than_CJS
@@ -12924,7 +12924,7 @@ shooting_VVG
 organisms_NN2
 into_PRP
 space_NN1
-Weightlessness_NN1-NP0
+Weightlessness_NN1
 apparently_AV0
 does_VDZ
 no_AT0
@@ -13061,7 +13061,7 @@ shared_VVN
 by_PRP
 Noel_NP0
 Hinners_NP0
-chief_AJ0-NN1
+chief_NN1
 scientist_NN1
 for_PRP
 the_AT0
@@ -13309,7 +13309,7 @@ may_VM0
 get_VVI
 some_DT0
 wet_AJ0
-noodles_NN2-VVZ
+noodles_NN2
 back_AVP
 Why_AVQ
 should_VM0
@@ -13419,7 +13419,7 @@ disease_NN1
 Identical_AJ0
 cells_NN2
 were_VBD
-spun_VVD
+spun_VVN
 in_PRP
 a_AT0
 centrifuge_NN1
@@ -13657,7 +13657,7 @@ per_UNC
 cent_UNC
 says_VVZ
 Richard_NP0
-Grindeland_NP0-NN1
+Grindeland_NP0
 of_PRF
 Ames_NP0
 Another_DT0
@@ -13711,7 +13711,7 @@ which_DTQ
 crew_NN1
 members_NN2
 are_VBB
-strapped_VVN-VVD
+strapped_VVN
 This_DT0
 machinery_NN1
 is_VBZ
@@ -13748,7 +13748,7 @@ muscles_NN2
 but_CJC
 does_VDZ
 not_XX0
-elongate_VVB-NN1
+elongate_NN1
 them_PNP
 may_VM0
 not_XX0
@@ -13803,14 +13803,14 @@ into_PRP
 space_NN1
 by_PRP
 Wesley_NP0
-Hymer_NN1-NP0
+Hymer_NP0
 of_PRF
 Pennsylvania_NP0
 State_NN1
 University_NN1
 showed_VVD
 that_CJT
-readapting_VVG-NN1
+readapting_VVG
 whether_CJS
 on_PRP
 Mars_NP0
@@ -13822,7 +13822,7 @@ may_VM0
 not_XX0
 be_VBI
 straightforward_AJ0
-Hymer_NN1-NP0
+Hymer_NP0
 's_POS
 rats_NN2
 were_VBD
@@ -13836,7 +13836,7 @@ the_AT0
 normal_AJ0
 amount_NN1
 of_PRF
-pituitary_AJ0-NN1
+pituitary_AJ0
 growth_NN1
 hormone_NN1
 This_DT0
@@ -13855,11 +13855,11 @@ of_PRF
 the_AT0
 immune_AJ0
 system_NN1
-Hymer_NN1-NP0
+Hymer_NP0
 speculates_VVZ
 that_CJT
 the_AT0
-pituitary_AJ0-NN1
+pituitary_AJ0
 cells_NN2
 package_NN1
 hormone_NN1
@@ -13938,7 +13938,7 @@ a_AT0
 rotating_AJ0
 craft_NN1
 exerts_VVZ
-Coriolis_NP0-NN1
+Coriolis_NP0
 forces_NN2
 which_DTQ
 work_NN1
@@ -14421,7 +14421,7 @@ determining_VVG
 the_AT0
 effects_NN2
 of_PRF
-varying_AJ0-VVG
+varying_AJ0
 degrees_NN2
 of_PRF
 gravity_NN1
@@ -14449,7 +14449,7 @@ a_AT0
 Mars_NP0
 mission_NN1
 Mike_NP0
-Shafto_NN1-NP0
+Shafto_NP0
 one_CRD
 of_PRF
 NASA_NP0
@@ -14493,7 +14493,7 @@ near_PRP
 the_AT0
 Virgin_NN1
 Islands_NP0
-Shafto_NN1-NP0
+Shafto_NP0
 is_VBZ
 also_AV0
 eliciting_VVG
@@ -14536,7 +14536,7 @@ Chernobyls_NP0
 in_PRP
 space_NN1
 says_VVZ
-Shafto_NN1-NP0
+Shafto_NP0
 At_PRP
 the_AT0
 same_DT0
@@ -14721,7 +14721,7 @@ aboard_PRP
 a_AT0
 space_NN1
 station_NN1
-Weightlessness_NN1-NP0
+Weightlessness_NN1
 is_VBZ
 a_AT0
 strain_NN1
@@ -14772,7 +14772,7 @@ the_AT0
 boredom_NN1
 threshold_NN1
 William_NP0
-Bown_NP0-NN1
+Bown_NP0
 THE_AT0
 BIGGEST_AJS
 problem_NN1
@@ -14814,7 +14814,7 @@ to_TO0
 do_VDB
 them_PNP
 Irwin_NP0
-Gabathuler_NP0-NN1
+Gabathuler_NN1
 of_PRF
 the_AT0
 University_NN1
@@ -14984,7 +14984,7 @@ the_AT0
 way_NN1
 they_PNP
 can_VM0
-emit_VVI
+emit_VVB
 or_CJC
 absorb_VVI
 any_DT0
@@ -15068,7 +15068,7 @@ three_CRD
 gluons_NN2
 According_VVG
 to_TO0
-Gabathuler_NP0-NN1
+Gabathuler_NN1
 theorists_NN2
 in_PRP
 the_AT0
@@ -15225,7 +15225,7 @@ Review_NN1
 Letters_NN2
 by_PRP
 Levan_NP0
-Surguladzo_NP0-NN1
+Surguladzo_NN1
 also_AV0
 of_PRF
 the_AT0
@@ -15325,7 +15325,7 @@ magnitude_NN1
 longer_AV0
 Nevertheless_AV0
 says_VVZ
-Gabathuler_NP0-NN1
+Gabathuler_NN1
 those_DT0
 calculations_NN2
 will_VM0
@@ -15336,7 +15336,7 @@ summer_NN1
 when_CJS
 the_AT0
 Hera_NP0
-electron-proton_AJ0-NN1
+electron-proton_AJ0
 collider_NN1
 opens_VVZ
 in_PRP
@@ -15347,7 +15347,7 @@ the_AT0
 experimental_AJ0
 error_NN1
 to_TO0
-fall_VVI
+fall_NN1
 to_TO0
 1_CRD
 per_UNC
@@ -15496,7 +15496,7 @@ three-junction_AJ0
 routes_NN2
 calculated_VVN
 by_PRP
-Surguladzo_NP0-NN1
+Surguladzo_NN1
 and_CJC
 Samuel_NP0
 Calculating_VVG
@@ -15584,7 +15584,7 @@ routes_NN2
 with_PRP
 one_CRD
 junction_NN1
-Ba_NP0-NN1
+Ba_NP0
 2_CRD
 of_PRF
 the_AT0
@@ -15666,7 +15666,7 @@ The_AT0
 approximation_NN1
 based_VVN
 on_PRP
-one-junction_NN1-AJ0
+one-junction_AJ0
 and_CJC
 two-junction_AJ0
 routes_NN2
@@ -15820,8 +15820,8 @@ how_AVQ
 we_PNP
 perceive_VVI
 smells_NN2
-Yoshio_NP0-NN1
-Okahata_NN1-NP0
+Yoshio_NN1
+Okahata_NP0
 and_CJC
 his_DPS
 colleagues_NN2
@@ -15847,7 +15847,7 @@ microbalance_NN1
 which_DTQ
 can_VM0
 weigh_VVI
-nanogram_NN1-VVB
+nanogram_VVB
 quantities_NN2
 of_PRF
 lipids_NN2
@@ -15926,7 +15926,7 @@ The_AT0
 precise_AJ0
 molecular_AJ0
 mechanisms_NN2
-involved_AJ0
+involved_VVN
 remain_VVI
 largely_AV0
 unknown_AJ0
@@ -15947,7 +15947,7 @@ and_CJC
 dissolve_VVI
 hydrophobic_AJ0
 substances_NN2
-Okahata_NN1-NP0
+Okahata_NP0
 and_CJC
 his_DPS
 colleagues_NN2
@@ -15964,7 +15964,7 @@ the_AT0
 balance_NN1
 in_PRP
 a_AT0
-sealed_AJ0
+sealed_VVN
 chamber_NN1
 and_CJC
 injected_VVN
@@ -15993,7 +15993,7 @@ of_PRF
 a_AT0
 substance_NN1
 called_VVN
-beta-ionine_NN1-AJ0
+beta-ionine_AJ0
 the_AT0
 balance_NN1
 registered_VVN
@@ -16005,7 +16005,7 @@ the_AT0
 total_AJ0
 amount_NN1
 of_PRF
-beta-ionine_NN1-AJ0
+beta-ionine_AJ0
 that_CJT
 the_AT0
 lipid_AJ0
@@ -16052,7 +16052,7 @@ registered_VVN
 a_AT0
 greater_AJC
 weight_NN1
-Okahata_NN1-NP0
+Okahata_NP0
 and_CJC
 his_DPS
 colleagues_NN2
@@ -16087,7 +16087,7 @@ special_AJ0
 receptor_NN1
 proteins_NN2
 are_VBB
-involved_AJ0
+involved_VVN
 They_PNP
 say_VVI
 that_CJT
@@ -16113,12 +16113,12 @@ we_PNP
 perceive_VVI
 According_VVG
 to_TO0
-Okahata_NN1-NP0
+Okahata_NP0
 and_CJC
 his_DPS
 colleagues_NN2
 the_AT0
-lipid-coated_AJ0-NN1
+lipid-coated_NN1
 quartz_NN1
 crystal_NN1
 microbalance_NN1
@@ -16228,7 +16228,7 @@ dreamed_VVN
 of_PRF
 says_VVZ
 Francis_NP0
-Halzen_NP0-NN1
+Halzen_NN1
 of_PRF
 the_AT0
 University_NN1
@@ -16250,7 +16250,7 @@ tremendous_AJ0
 energies_NN2
 in_PRP
 neutrinos_NN2
-Halzen_NP0-NN1
+Halzen_NN1
 's_POS
 detector_NN1
 will_VM0
@@ -16294,7 +16294,7 @@ neutrino_NN1
 reactions_NN2
 with_PRP
 water_NN1
-Halzen_NP0-NN1
+Halzen_NN1
 's_POS
 proposed_AJ0
 detector_NN1
@@ -16333,7 +16333,7 @@ phototubes_NN2
 in_PRP
 the_AT0
 water_NN1
-Halzen_NP0-NN1
+Halzen_NN1
 plans_NN2
 to_TO0
 put_VVI
@@ -16349,7 +16349,7 @@ sheet_NN1
 then_AV0
 let_VVB
 them_PNP
-freeze_VVI
+freeze_NN1
 in_PRP
 place_NN1
 He_PNP
@@ -16373,7 +16373,7 @@ free_AJ0
 of_PRF
 natural_AJ0
 radioactivity_NN1
-Halzen_NP0-NN1
+Halzen_NN1
 has_VHZ
 carried_VVN
 out_AVP
@@ -16394,7 +16394,7 @@ him_PNP
 with_PRP
 funds_NN2
 to_TO0
-drill_VVI
+drill_NN1
 10_CRD
 test_NN1
 holes_NN2
@@ -16487,7 +16487,7 @@ if_CJS
 there_EX0
 are_VBB
 any_DT0
-Halzen_NP0-NN1
+Halzen_NN1
 says_VVZ
 Well-fed_AJ0
 baboon_NN1
@@ -16644,7 +16644,7 @@ and_CJC
 70_CRD
 weeks_NN2
 in_PRP
-Amboseli_AJ0
+Amboseli_NN1
 National_AJ0
 Park_NN1
 on_PRP
@@ -16890,7 +16890,7 @@ a_AT0
 natural_AJ0
 setting_VVG
 like_PRP
-Amboseli_AJ0
+Amboseli_NN1
 Roger_NP0
 Lewin_NP0
 Washington_NP0
@@ -16904,7 +16904,7 @@ up_AVP
 the_AT0
 Universe_NN1
 Marcus_NP0
-Chown_NP0-NN1
+Chown_NP0
 ASTRONOMERS_NN2
 now_AV0
 have_VHB
@@ -16924,7 +16924,7 @@ observations_NN2
 made_VVN
 by_PRP
 the_AT0
-Hubble_NP0-NN1
+Hubble_NP0
 Space_NN1
 Telescope_NN1
 They_PNP
@@ -17070,7 +17070,7 @@ observations_NN2
 made_VVN
 by_PRP
 the_AT0
-Hubble_NP0-NN1
+Hubble_NP0
 Space_NN1
 Telescope_NN1
 and_CJC
@@ -17082,8 +17082,8 @@ IUE_NP0
 satellite_NN1
 According_VVG
 to_TO0
-Nino_NP0-NN1
-Panagia_NP0-NN1
+Nino_NN1
+Panagia_NP0
 of_PRF
 the_AT0
 Space_NN1
@@ -17203,7 +17203,7 @@ faster_AV0
 stellar_AJ0
 wind_NN1
 which_DTQ
-compressed_AJ0
+compressed_VVN
 the_AT0
 gas_NN1
 For_PRP
@@ -17269,7 +17269,7 @@ fine_AJ0
 detail_NN1
 The_AT0
 ring_NN1
-glows_VVZ-NN2
+glows_VVZ
 because_CJS
 it_PNP
 was_VBD
@@ -17455,7 +17455,7 @@ years_NN2
 away_AV0
 According_VVG
 to_TO0
-Panagia_NP0-NN1
+Panagia_NP0
 it_PNP
 should_VM0
 now_AV0
@@ -17464,7 +17464,7 @@ possible_AJ0
 to_TO0
 estimate_NN1
 the_AT0
-Hubble_NP0-NN1
+Hubble_NP0
 constant_AJ0
 to_TO0
 within_PRP
@@ -17484,14 +17484,14 @@ Scientist_NN1
 March_NP0
 1986_CRD
 The_AT0
-Hubble_NP0-NN1
+Hubble_NP0
 constant_AJ0
 is_VBZ
 a_AT0
 measure_NN1
 of_PRF
 how_AVQ
-fast_AV0-AJ0
+fast_AJ0
 the_AT0
 Universe_NN1
 is_VBZ
@@ -17539,7 +17539,7 @@ free_AJ0
 of_PRF
 neutral_AJ0
 or_CJC
-non-ionised_NN1-AJ0
+non-ionised_NN1
 gas_NN1
 is_VBZ
 at_PRP
@@ -17557,7 +17557,7 @@ to_TO0
 the_AT0
 star_NN1
 Beta_NN1
-Canis_NP0-NN1
+Canis_NP0
 Majoris_NP0
 and_CJC
 beyond_PRP
@@ -17570,7 +17570,7 @@ observe_VVI
 distant_AJ0
 objects_NN2
 that_CJT
-emit_VVI
+emit_VVB
 extreme_AJ0
 ultraviolet_AJ0
 light_NN1
@@ -17611,7 +17611,7 @@ other_AJ0
 American_AJ0
 astronomers_NN2
 Priscilla_NP0
-Frisch_NP0-NN1
+Frisch_NN1
 and_CJC
 Donald_NP0
 York_NP0
@@ -17648,8 +17648,8 @@ The_AT0
 void_NN1
 dubbed_VVN
 the_AT0
-Local_NN1-AJ0
-Bubble_NN1-VVB
+Local_AJ0
+Bubble_NN1
 extends_VVZ
 about_PRP
 100_CRD
@@ -17668,7 +17668,7 @@ the_AT0
 direction_NN1
 of_PRF
 Beta_NN1
-Canis_NP0-NN1
+Canis_NP0
 Majoris_NP0
 about_PRP
 650_CRD
@@ -17719,7 +17719,7 @@ in_PRP
 front_NN1
 of_PRF
 Beta_NN1
-Canis_NP0-NN1
+Canis_NP0
 Majoris_NP0
 and_CJC
 in_PRP
@@ -17771,7 +17771,7 @@ angstroms_NN2
 from_PRP
 stars_NN2
 that_CJT
-lie_VVI
+lie_VVB
 behind_PRP
 it_PNP
 Astronomers_NN2
@@ -17865,7 +17865,7 @@ gas_NN1
 tunnel_NN1
 to_TO0
 Beta_NN1
-Canis_NP0-NN1
+Canis_NP0
 Majoris_NP0
 is_VBZ
 at_PRP
@@ -17936,7 +17936,7 @@ the_AT0
 direction_NN1
 of_PRF
 the_AT0
-Galactic_AJ0-NN1
+Galactic_NN1
 centre_NN1
 The_AT0
 tunnel_NN1
@@ -18137,7 +18137,7 @@ QCD_NP0
 confusion_NN1
 the_AT0
 Soviet_AJ0
-three-gluon_AJ0-NN1
+three-gluon_AJ0
 calculation_NN1
 bottom_NN1
 was_VBD
@@ -18289,7 +18289,7 @@ or_CJC
 ROMs_NN2
 that_CJT
 store_NN1
-preprogrammed_VVD-AJ0
+preprogrammed_VVD
 data_NN0
 without_PRP
 power_NN1
@@ -18348,7 +18348,7 @@ successful_AJ0
 as_CJS
 its_DPS
 developer_NN1
-Ramtron_NP0-NN1
+Ramtron_NP0
 claims_NN2
 it_PNP
 could_VM0
@@ -18362,7 +18362,7 @@ storage_NN1
 Ross_NP0
 Lyndon-James_NP0
 of_PRF
-Ramtron_NP0-NN1
+Ramtron_NP0
 says_VVZ
 All_DT0
 other_AJ0
@@ -18457,13 +18457,13 @@ be_VBI
 reduced_VVN
 to_TO0
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 You_PNP
 do_VDB
 n't_XX0
 have_VHB
 to_TO0
-switch_VVI
+switch_NN1
 on_PRP
 the_AT0
 computer_NN1
@@ -18478,7 +18478,7 @@ from_PRP
 disc_NN1
 you_PNP
 just_AV0
-switch_VVI
+switch_NN1
 on_PRP
 and_CJC
 it_PNP
@@ -18524,10 +18524,10 @@ light_NN1
 and_CJC
 then_AV0
 reprogramming_VVG
-Ramtron_NP0-NN1
+Ramtron_NP0
 claims_NN2
 that_CJT
-mass-storage_AJ0-NN1
+mass-storage_AJ0
 FRAMs_NN2
 could_VM0
 make_VVI
@@ -18555,7 +18555,7 @@ will_VM0
 not_XX0
 need_VVB
 to_TO0
-drive_VVI
+drive_NN1
 the_AT0
 discs_NN2
 or_CJC
@@ -18572,7 +18572,7 @@ off_AVP
 In_PRP
 current_AJ0
 FRAMs_NN2
-Ramtron_NP0-NN1
+Ramtron_NP0
 have_VHB
 deposited_VVN
 a_AT0
@@ -18596,7 +18596,7 @@ static_AJ0
 RAM_NN1
 or_CJC
 SRAM_NN1
-Ramtron_NP0-NN1
+Ramtron_NP0
 use_NN1
 a_AT0
 ceramic_NN1
@@ -18678,7 +18678,7 @@ an_AT0
 electric_AJ0
 field_NN1
 to_TO0
-switch_VVI
+switch_NN1
 the_AT0
 state_NN1
 of_PRF
@@ -18785,7 +18785,7 @@ capacitor_NN1
 by_PRP
 its_DPS
 own_DT0
-switch_VVI
+switch_NN1
 but_CJC
 the_AT0
 charge_NN1
@@ -18834,7 +18834,7 @@ a_AT0
 much_DT0
 smaller_AJC
 space_NN1
-Ramtron_NP0-NN1
+Ramtron_NP0
 aims_NN2
 in_PRP
 future_NN1
@@ -18871,7 +18871,7 @@ American_AJ0
 electronics_NN1
 engineer_NN1
 George_NP0
-Rohrer_NN1-NP0
+Rohrer_NP0
 first_ORD
 conceived_VVN
 the_AT0
@@ -18894,12 +18894,12 @@ for_PRP
 its_DPS
 development_NN1
 However_AV0
-Ramtron_NP0-NN1
+Ramtron_NP0
 formed_VVN
 a_AT0
 partnership_NN1
 with_PRP
-Rohrer_NN1-NP0
+Rohrer_NP0
 in_PRP
 1983_CRD
 After_PRP
@@ -18909,7 +18909,7 @@ the_AT0
 original_AJ0
 ferro-electric_AJ0
 material_NN1
-Ramtron_NP0-NN1
+Ramtron_NP0
 released_VVN
 a_AT0
 4096-bit_AJ0
@@ -18947,12 +18947,12 @@ limited_AJ0
 in_PRP
 capacity_NN1
 but_CJC
-Ramtron_NP0-NN1
+Ramtron_NP0
 announced_VVD
 that_CJT
 a_AT0
 prototype_NN1
-256-kilobit_NN1-AJ0
+256-kilobit_NN1
 chip_NN1
 is_VBZ
 already_AV0
@@ -19012,7 +19012,7 @@ plans_NN2
 for_PRP
 16-megabit_AJ0
 chip_NN1
-Yeast_NN1-NP0
+Yeast_NN1
 brews_NN2
 up_AVP
 artificial_AJ0
@@ -19023,7 +19023,7 @@ of_PRF
 the_AT0
 brewing_NN1
 company_NN1
-Bass_AJ0-NN1
+Bass_NN1
 is_VBZ
 putting_VVG
 its_DPS
@@ -19062,7 +19062,7 @@ its_DPS
 scarlet_AJ0
 colour_NN1
 and_CJC
-transports_VVZ
+transports_NN2
 oxygen_NN1
 to_TO0
 tissues_NN2
@@ -19143,7 +19143,7 @@ job_NN1
 as_CJS
 donated_VVN
 blood_NN1
-transfused_VVN-VVD
+transfused_VVN
 into_PRP
 patients_NN2
 But_CJC
@@ -19242,7 +19242,7 @@ that_CJT
 could_VM0
 contaminate_AJ0
 the_AT0
-blood-derived_AJ0-NN1
+blood-derived_AJ0
 product_NN1
 and_CJC
 of_PRF
@@ -19262,7 +19262,7 @@ in_PRP
 patients_NN2
 Delta_NN1
 is_VBZ
-negotiating_VVG
+negotiating_NN1
 commercial_AJ0
 agreements_NN2
 with_PRP
@@ -19292,19 +19292,19 @@ in_PRP
 spherical_AJ0
 structures_NN2
 of_PRF
-fatty_AJ0-NN1
+fatty_AJ0
 material_NN1
 called_VVN
 liposomes_NN2
 or_CJC
 to_TO0
-cross-link_NN1-AJ0
+cross-link_AJ0
 it_PNP
 with_PRP
-chemical_AJ0-NN1
+chemical_AJ0
 agents_NN2
 The_AT0
-oxygen-carrying_AJ0-NN1
+oxygen-carrying_AJ0
 formulations_NN2
 could_VM0
 also_AV0
@@ -19390,7 +19390,7 @@ stroke_NN1
 treatment_NN1
 But_CJC
 he_PNP
-stressed_VVD
+stressed_VVN
 that_CJT
 donated_VVN
 blood_NN1
@@ -19411,7 +19411,7 @@ replaced_VVN
 by_PRP
 formulations_NN2
 Andy_NP0
-Coghlan_NP0-NN1
+Coghlan_NP0
 Mechanical_AJ0
 arm_NN1
 guides_NN2
@@ -19469,7 +19469,7 @@ a_AT0
 video_NN1
 monitor_VVI
 James_NP0
-Zinreich_NP0-NN1
+Zinreich_NP0
 and_CJC
 colleagues_NN2
 at_PRP
@@ -19517,7 +19517,7 @@ the_AT0
 nasal_AJ0
 cavity_NN1
 and_CJC
-paranasal_NN1-AJ0
+paranasal_NN1
 sinuses_NN2
 Although_CJS
 sinus_NN1
@@ -19559,7 +19559,7 @@ and_CJC
 centimetres_NN2
 According_VVG
 to_TO0
-Zinreich_NP0-NN1
+Zinreich_NP0
 the_AT0
 mechanical_AJ0
 sensor_NN1
@@ -19630,7 +19630,7 @@ the_AT0
 operating_VVG
 table_NN1
 and_CJC
-fixes_VVZ-NN2
+fixes_VVZ
 to_TO0
 the_AT0
 end_NN1
@@ -19714,7 +19714,7 @@ This_DT0
 position_NN1
 is_VBZ
 then_AV0
-superimposed_VVN-VVD
+superimposed_VVD
 onto_PRP
 the_AT0
 screen_NN1
@@ -19779,9 +19779,9 @@ and_CJC
 the_AT0
 three-dimensional_AJ0
 reconstruction_NN1
-Zinreich_NP0-NN1
+Zinreich_NP0
 explained_VVD
-Zinreich_NP0-NN1
+Zinreich_NP0
 believes_VVZ
 that_CJT
 the_AT0
@@ -19794,7 +19794,7 @@ with_PRP
 which_DTQ
 surgeons_NN2
 can_VM0
-excise_VVI
+excise_NN1
 brain_NN1
 tumours_NN2
 and_CJC
@@ -19929,7 +19929,7 @@ department_NN1
 's_POS
 Energy_NN1
 Technology_NN1
-Support_NN1-VVB
+Support_NN1
 Unit_NN1
 the_AT0
 cost_NN1
@@ -20020,7 +20020,7 @@ involving_VVG
 RTZ_NP0
 Consultants_NN2
 and_CJC
-French_AJ0-NN1
+French_AJ0
 and_CJC
 German_AJ0
 companies_NN2
@@ -20105,7 +20105,7 @@ would_VM0
 be_VBI
 feasible_AJ0
 to_TO0
-drill_VVI
+drill_NN1
 6_CRD
 kilometres_NN2
 down_AVP
@@ -20178,7 +20178,7 @@ of_PRF
 a_AT0
 subsurface_NN1
 heat_NN1
-exchanger_NN1-VVB
+exchanger_NN1
 To_TO0
 test_NN1
 this_DT0
@@ -20387,7 +20387,7 @@ get_VVI
 switched_VVN
 on_PRP
 Daniel_NP0
-Clery_NP0-NN1
+Clery_NP0
 GERMAN_AJ0
 researchers_NN2
 have_VHB
@@ -20395,7 +20395,7 @@ found_VVD
 a_AT0
 technique_NN1
 to_TO0
-switch_VVI
+switch_NN1
 on_PRP
 small_AJ0
 groups_NN2
@@ -20540,7 +20540,7 @@ a_AT0
 millimetre_NN1
 high_AJ0
 Don_NP0
-Eigler_NP0-NN1
+Eigler_NP0
 one_CRD
 of_PRF
 the_AT0
@@ -20654,7 +20654,7 @@ surface_NN1
 of_PRF
 a_AT0
 molybdenum_NN1
-disulphide_NN1-VVB
+disulphide_VVB
 crystal_NN1
 by_PRP
 bringing_VVG
@@ -20714,9 +20714,9 @@ Polymer_NN1
 Research_NN1
 Laboratory_NN1
 of_PRF
-BASF_NN1-NP0
+BASF_NN1
 in_PRP
-Ludwigshafen_NP0-NN1
+Ludwigshafen_NP0
 and_CJC
 Thomas_NP0
 Schimmel_NP0
@@ -20724,7 +20724,7 @@ from_PRP
 the_AT0
 University_NN1
 of_PRF
-Bayreuth_NP0-NN1
+Bayreuth_NP0
 believe_VVB
 that_CJT
 their_DPS
@@ -20742,7 +20742,7 @@ They_PNP
 found_VVD
 they_PNP
 could_VM0
-switch_VVI
+switch_NN1
 on_PRP
 particular_AJ0
 groups_NN2
@@ -20819,7 +20819,7 @@ so_AV0
 close_AJ0
 They_PNP
 then_AV0
-scan_NN1-VVB
+scan_NN1
 the_AT0
 tip_NN1
 across_PRP
@@ -20871,7 +20871,7 @@ a_AT0
 crystal_NN1
 of_PRF
 tungsten_NN1
-diselenide_NN1-VVB
+diselenide_NN1
 and_CJC
 cleaved_VVD
 it_PNP
@@ -20960,7 +20960,7 @@ when_CJS
 the_AT0
 area_NN1
 was_VBD
-imaged_VVN
+imaged_AJ0
 again_AV0
 two_CRD
 days_NN2
@@ -20985,7 +20985,7 @@ on_PRP
 a_AT0
 surface_NN1
 could_VM0
-act_VVI
+act_NN1
 as_CJS
 bits_NN2
 of_PRF
@@ -21192,7 +21192,7 @@ to_TO0
 insect_NN1
 damage_NN1
 can_VM0
-slash_VVI
+slash_NN1
 yields_NN2
 by_PRP
 up_AVP
@@ -21240,7 +21240,7 @@ growers_NN2
 will_VM0
 benefit_NN1
 from_PRP
-increased_AJ0
+increased_VVN
 yields_NN2
 lower_AJC
 input_NN1
@@ -21249,11 +21249,11 @@ in_PRP
 terms_NN2
 of_PRF
 labour_NN1
-insecticides_NN2-VVZ
+insecticides_NN2
 and_CJC
 equipment_NN1
 and_CJC
-increased_AJ0
+increased_VVN
 productivity_NN1
 and_CJC
 profitability_NN1
@@ -21314,7 +21314,7 @@ that_CJT
 insect_NN1
 larvae_NN2
 are_VBB
-deprived_AJ0
+deprived_VVN
 of_PRF
 essential_AJ0
 nutrients_NN2
@@ -21331,7 +21331,7 @@ effects_NN2
 of_PRF
 sweet_AJ0
 potato_NN1
-weevil_NN1-VVB
+weevil_VVB
 which_DTQ
 has_VHZ
 become_VVI
@@ -21354,7 +21354,7 @@ potato_NN1
 pests_NN2
 has_VHZ
 had_VHD
-varying_AJ0-VVG
+varying_AJ0
 degrees_NN2
 of_PRF
 success_NN1
@@ -21445,7 +21445,7 @@ varieties_NN2
 that_CJT
 carried_VVN
 this_DT0
-characteristic_AJ0-NN1
+characteristic_NN1
 Decisions_NN2
 about_PRP
 who_PNQ
@@ -21487,7 +21487,7 @@ Mike_NP0
 Ward_NP0
 and_CJC
 Andy_NP0
-Coghlan_NP0-NN1
+Coghlan_NP0
 Reinventing_VVG
 the_AT0
 wheel_NN1
@@ -21545,7 +21545,7 @@ team_NN1
 from_PRP
 the_AT0
 US_NP0
-chemical_AJ0-NN1
+chemical_AJ0
 company_NN1
 Du_NP0
 Pont_NP0
@@ -21559,7 +21559,7 @@ Pont_NP0
 team_NN1
 and_CJC
 an_AT0
-amateur_AJ0-NN1
+amateur_AJ0
 bicycle_NN1
 racer_NN1
 says_VVZ
@@ -21572,7 +21572,7 @@ has_VHZ
 two_CRD
 drawbacks_NN2
 that_CJT
-drain_VVI
+drain_NN1
 energy_NN1
 from_PRP
 the_AT0
@@ -21600,7 +21600,7 @@ or_CJC
 36_CRD
 has_VHZ
 a_AT0
-drag_VVI
+drag_NN1
 coefficient_NN1
 of_PRF
 1.2_CRD
@@ -21624,7 +21624,7 @@ you_PNP
 can_VM0
 reduce_VVI
 the_AT0
-drag_VVI
+drag_NN1
 coefficient_NN1
 to_TO0
 about_PRP
@@ -21642,7 +21642,7 @@ about_PRP
 10_CRD
 minutes_NN2
 of_PRF
-biking_VVG-NN1
+biking_VVG
 time_NN1
 in_PRP
 a_AT0
@@ -21674,7 +21674,7 @@ an_AT0
 electric_AJ0
 field_NN1
 can_VM0
-switch_VVI
+switch_NN1
 each_DT0
 crystal_NN1
 cell_NN1
@@ -21702,7 +21702,7 @@ the_AT0
 Earth_NN1
 proved_VVN
 expensive_AJ0
-Standing_VVG-NN1
+Standing_NN1
 up_AVP
 to_TO0
 earthquakes_NN2
@@ -21911,7 +21911,7 @@ the_AT0
 Californian_AJ0
 quake_NN1
 has_VHZ
-increased_AJ0
+increased_VVN
 public_AJ0
 interest_NN1
 in_PRP
@@ -21943,7 +21943,7 @@ an_AT0
 entire_AJ0
 building_NN1
 on_PRP
-rubber_AJ0-NN1
+rubber_AJ0
 so_AV0
 that_CJT
 the_AT0
@@ -21997,13 +21997,13 @@ others_NN2
 Each_DT0
 jelly_NN1
 will_VM0
-sway_VVI
+sway_NN1
 back_AVP
 and_CJC
 forth_AV0
 in_PRP
 a_AT0
-characteristic_AJ0-NN1
+characteristic_NN1
 time_NN1
 or_CJC
 period_NN1
@@ -22082,7 +22082,7 @@ of_PRF
 10_CRD
 storeys_NN2
 will_VM0
-sway_VVI
+sway_NN1
 back_AVP
 and_CJC
 forth_AV0
@@ -22143,7 +22143,7 @@ of_PRF
 0.5_CRD
 hertz_NN0
 a_AT0
-five-storey_AJ0-NN1
+five-storey_AJ0
 building_NN1
 has_VHZ
 a_AT0
@@ -22231,16 +22231,16 @@ frames_NN2
 are_VBB
 built_VVN
 to_TO0
-bend_VVI
+bend_NN1
 with_PRP
 the_AT0
 wind_NN1
-Steel_NN1-NP0
+Steel_NP0
 columns_NN2
 and_CJC
 beams_NN2
 and_CJC
-concrete_AJ0-NN1
+concrete_AJ0
 walls_NN2
 reinforced_VVN
 with_PRP
@@ -22302,7 +22302,7 @@ to_TO0
 resonance_NN1
 Those_DT0
 that_CJT
-resonate_VVB-NN1
+resonate_NN1
 with_PRP
 the_AT0
 strongest_AJS
@@ -22347,7 +22347,7 @@ height_NN1
 and_CJC
 begins_VVZ
 to_TO0
-drop_VVI
+drop_NN1
 you_PNP
 add_VVI
 energy_NN1
@@ -22379,7 +22379,7 @@ vibrations_NN2
 are_VBB
 0.5_CRD
 seconds_NN2
-five-storey_AJ0-NN1
+five-storey_AJ0
 structures_NN2
 will_VM0
 be_VBI
@@ -22419,7 +22419,7 @@ buildings_NN2
 set_VVN
 in_PRP
 rows_NN2
-present_AJ0-NN1
+present_AJ0
 another_DT0
 threat_NN1
 to_TO0
@@ -22433,7 +22433,7 @@ a_AT0
 building_NN1
 abutting_VVG
 a_AT0
-three-storey_AJ0-NN1
+three-storey_AJ0
 structure_NN1
 The_AT0
 periods_NN2
@@ -22594,7 +22594,7 @@ Foundations_NN2
 call_VVI
 the_AT0
 tune_NN1
-Soil_NN1-VVB
+Soil_NN1
 too_AV0
 has_VHZ
 its_DPS
@@ -22688,17 +22688,17 @@ Edmund_NP0
 Booth_NP0
 an_AT0
 earthquake_NN1
-specialist_NN1-AJ0
+specialist_NN1
 with_PRP
 Ove_NP0
-Arup_NP0-NN1
+Arup_NN1
 and_CJC
 Partners_NN2
 a_AT0
 large_AJ0
 firm_NN1
 of_PRF
-consulting_AJ0-VVG
+consulting_VVG
 engineers_NN2
 based_VVN
 in_PRP
@@ -23044,7 +23044,7 @@ material_NN1
 will_VM0
 become_VVI
 denser_AJC
-Shaking_VVG-AJ0
+Shaking_VVG
 saturated_AJ0
 soil_NN1
 is_VBZ
@@ -23157,7 +23157,7 @@ buildings_NN2
 from_PRP
 the_AT0
 ground_NN1
-Driving_VVG-AJ0
+Driving_VVG
 piles_NN2
 or_CJC
 draining_VVG
@@ -23176,7 +23176,7 @@ to_TO0
 engineers_NN2
 at_PRP
 Ove_NP0
-Arup_NP0-NN1
+Arup_NN1
 For_PRP
 the_AT0
 Rangoon_NP0
@@ -23191,7 +23191,7 @@ loose_AJ0
 sandy_AJ0
 soil_NN1
 Ove_NP0
-Arup_NP0-NN1
+Arup_NN1
 proposes_VVZ
 to_TO0
 solve_VVI
@@ -23260,7 +23260,7 @@ It_PNP
 was_VBD
 the_AT0
 Malaysia_NP0
-Rubber_AJ0-NN1
+Rubber_AJ0
 Producers_NN2
 '_POS
 Research_NN1
@@ -23282,7 +23282,7 @@ the_AT0
 University_NN1
 of_PRF
 California_NP0
-Base_NN1-VVB
+Base_NN1
 isolation_NN1
 is_VBZ
 a_AT0
@@ -23318,7 +23318,7 @@ frequency_NN1
 is_VBZ
 lowered_VVD
 or_CJC
-detuned_VVN-VVD
+detuned_VVN
 below_AV0
 the_AT0
 earthquake_NN1
@@ -23376,7 +23376,7 @@ Kelly_NP0
 and_CJC
 the_AT0
 Malaysian_AJ0
-rubber_AJ0-NN1
+rubber_AJ0
 industry_NN1
 with_PRP
 the_AT0
@@ -23391,7 +23391,7 @@ Research_NN1
 Center_NN1
 began_VVD
 testing_NN1
-rubber_AJ0-NN1
+rubber_AJ0
 base_NN1
 isolators_NN2
 inside_PRP
@@ -23444,7 +23444,7 @@ table_NN1
 is_VBZ
 a_AT0
 50-tonne_NN1
-concrete_AJ0-NN1
+concrete_AJ0
 plate_NN1
 set_VVN
 horizontally_AV0
@@ -23453,7 +23453,7 @@ a_AT0
 hole_NN1
 in_PRP
 a_AT0
-concrete_AJ0-NN1
+concrete_AJ0
 floor_NN1
 with_PRP
 several_DT0
@@ -23493,7 +23493,7 @@ in_PRP
 the_AT0
 cellar_NN1
 is_VBZ
-compressed_AJ0
+compressed_VVN
 to_TO0
 3_CRD
 pounds_NN2
@@ -23559,7 +23559,7 @@ Kelly_NP0
 and_CJC
 Robert_NP0
 Rigney_NP0
-chief_AJ0-NN1
+chief_NN1
 administrative_AJ0
 officer_NN1
 of_PRF
@@ -23617,7 +23617,7 @@ in_PRP
 1986_CRD
 as_CJS
 the_AT0
-Foothill_NP0-NN1
+Foothill_NP0
 Communities_NN2
 Law_NN1
 and_CJC
@@ -23634,7 +23634,7 @@ The_AT0
 building_NN1
 's_POS
 98_CRD
-rubber_AJ0-NN1
+rubber_AJ0
 bearings_NN2
 each_DT0
 between_PRP
@@ -23758,7 +23758,7 @@ storey_NN1
 which_DTQ
 can_VM0
 cause_NN1
-interstorey_NN1-AJ0
+interstorey_NN1
 drift_NN1
 that_CJT
 can_VM0
@@ -23774,7 +23774,7 @@ structures_NN2
 were_VBD
 stacks_NN2
 of_PRF
-sliced_AJ0
+sliced_VVN
 bread_NN1
 Nuclear_AJ0
 power_NN1
@@ -23790,7 +23790,7 @@ drift_NN1
 which_DTQ
 can_VM0
 damage_NN1
-piping_VVG-NN1
+piping_NN1
 Kelly_NP0
 has_VHZ
 several_DT0
@@ -23826,7 +23826,7 @@ foundations_NN2
 are_VBB
 fitted_VVN
 with_PRP
-rubber_AJ0-NN1
+rubber_AJ0
 bearings_NN2
 exist_VVI
 elsewhere_AV0
@@ -23946,7 +23946,7 @@ steel_NN1
 rods_NN2
 inside_PRP
 the_AT0
-rubber_AJ0-NN1
+rubber_AJ0
 bearings_NN2
 to_TO0
 prevent_VVI
@@ -23992,7 +23992,7 @@ building_NN1
 built_VVN
 by_PRP
 the_AT0
-Ohbayashi_AJ0-NN1
+Ohbayashi_AJ0
 Corporation_NN1
 The_AT0
 acceleration_NN1
@@ -24016,7 +24016,7 @@ roof_NN1
 acceleration_NN1
 was_VBD
 5.9_CRD
-Rubber_AJ0-NN1
+Rubber_AJ0
 bearings_NN2
 are_VBB
 not_XX0
@@ -24071,7 +24071,7 @@ think_VVB
 of_PRF
 a_AT0
 pestle_NN1
-scraping_VVG-AJ0
+scraping_VVG
 along_AVP
 the_AT0
 bottom_NN1
@@ -24095,7 +24095,7 @@ the_AT0
 concave_AJ0
 surface_NN1
 Michael_NP0
-Constantinou_NN1-NP0
+Constantinou_NP0
 of_PRF
 the_AT0
 National_AJ0
@@ -24166,7 +24166,7 @@ contents_NN2
 alone_AJ0
 says_VVZ
 Kelly_NP0
-Base_NN1-VVB
+Base_NN1
 isolation_NN1
 though_CJS
 has_VHZ
@@ -24176,12 +24176,12 @@ Loring_NP0
 Wylie_NP0
 chairman_NN1
 of_PRF
-Degenkolb_NP0-NN1
+Degenkolb_NP0
 Associates_NN2
 a_AT0
 firm_NN1
 of_PRF
-consulting_AJ0-VVG
+consulting_VVG
 engineers_NN2
 based_VVN
 in_PRP
@@ -24265,7 +24265,7 @@ much_DT0
 movement_NN1
 Also_AV0
 if_CJS
-rubber_AJ0-NN1
+rubber_AJ0
 bearings_NN2
 do_VDB
 not_XX0
@@ -24538,7 +24538,7 @@ the_AT0
 eastern_AJ0
 fault_NN1
 lines_NN2
-lie_VVI
+lie_VVB
 deep_AJ0
 and_CJC
 undetected_AJ0
@@ -24597,9 +24597,9 @@ walls_NN2
 made_VVN
 of_PRF
 reinforced_VVN
-concrete_AJ0-NN1
+concrete_AJ0
 and_CJC
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 the_AT0
 building_NN1
@@ -24636,7 +24636,7 @@ very_AV0
 fine_AJ0
 wire_NN1
 mesh_NN1
-riveted_VVN-VVD
+riveted_VVD
 to_TO0
 the_AT0
 walls_NN2
@@ -24663,7 +24663,7 @@ weak_AJ0
 link_NN1
 the_AT0
 mortar_NN1
-Mortar_VVB-NN1
+Mortar_NN1
 can_VM0
 support_NN1
 vertical_AJ0
@@ -24692,7 +24692,7 @@ shaking_VVG
 table_NN1
 are_VBB
 quite_AV0
-astounding_AJ0-VVG
+astounding_AJ0
 Other_AJ0
 measures_NN2
 can_VM0
@@ -24807,7 +24807,7 @@ made_VVN
 using_VVG
 inadequately_AV0
 reinforced_VVN
-concrete_AJ0-NN1
+concrete_AJ0
 The_AT0
 engineers_NN2
 at_PRP
@@ -24896,7 +24896,7 @@ cards_NN2
 Taller_AJC
 columns_NN2
 will_VM0
-sway_VVI
+sway_NN1
 more_AV0
 at_PRP
 the_AT0
@@ -24911,7 +24911,7 @@ Then_AV0
 there_EX0
 are_VBB
 the_AT0
-cast-iron_AJ0-NN1
+cast-iron_AJ0
 pipes_NN2
 that_CJT
 supply_NN1
@@ -24991,7 +24991,7 @@ and_CJC
 gas_NN1
 pipelines_NN2
 that_CJT
-feed_VVI
+feed_NN1
 the_AT0
 eastern_AJ0
 cities_NN2
@@ -25013,7 +25013,7 @@ of_PRF
 them_PNP
 is_VBZ
 the_AT0
-Capline_NP0-NN1
+Capline_NP0
 System_NN1
 a_AT0
 3-metre_NN1
@@ -25033,13 +25033,13 @@ centre_NN1
 of_PRF
 the_AT0
 country_NN1
-Soil_NN1-VVB
+Soil_NN1
 deformation_NN1
 during_PRP
 a_AT0
 quake_NN1
 could_VM0
-bend_VVI
+bend_NN1
 pipelines_NN2
 as_CJS
 though_CJS
@@ -25114,7 +25114,7 @@ was_VBD
 no_AT0
 wind_NN1
 to_TO0
-spread_NN1
+spread_VVN
 fires_NN2
 and_CJC
 conditions_NN2
@@ -25286,12 +25286,12 @@ simply_AV0
 strengthening_VVG
 its_DPS
 new_AJ0
-11-storey_AJ0-NN1
+11-storey_NN1
 office_NN1
 building_NN1
 conventionally_AV0
 the_AT0
-Kajima_NP0-NN1
+Kajima_NN1
 company_NN1
 one_CRD
 of_PRF
@@ -25318,10 +25318,10 @@ pockets_NN2
 Japan_NP0
 has_VHZ
 both_AV0
-Kajima_NP0-NN1
+Kajima_NN1
 's_POS
 Kyobashi_NP0
-Seiwa_NP0-NN1
+Seiwa_NP0
 building_NN1
 will_VM0
 look_VVI
@@ -25429,7 +25429,7 @@ sixth_ORD
 floor_NN1
 and_CJC
 roof_NN1
-feed_VVI
+feed_NN1
 data_NN0
 on_PRP
 the_AT0
@@ -25457,7 +25457,7 @@ and_CJC
 by_PRP
 how_AVQ
 much_DT0
-Kajima_NP0-NN1
+Kajima_NN1
 calls_VVZ
 the_AT0
 system_NN1
@@ -25469,7 +25469,7 @@ Edmund_NP0
 Booth_NP0
 of_PRF
 Ove_NP0
-Arup_NP0-NN1
+Arup_NN1
 likens_VVZ
 the_AT0
 physics_NN1
@@ -25516,7 +25516,7 @@ to_TO0
 Booth_NP0
 's_POS
 analogy_NN1
-Steel_NN1-NP0
+Steel_NP0
 arms_NN2
 called_VVN
 tendons_NN2
@@ -25538,7 +25538,7 @@ Controlled_VVN
 by_PRP
 computer_NN1
 and_CJC
-battery-powered_AJ0
+battery-powered_NN1
 hydraulics_NN1
 they_PNP
 push_VVI
@@ -25608,7 +25608,7 @@ Fires_NN2
 falling_VVG
 masonry_NN1
 and_CJC
-ruptured_VVD-AJ0
+ruptured_VVD
 services_NN2
 are_VBB
 among_PRP
@@ -25621,7 +25621,7 @@ protecting_VVG
 property_NN1
 against_PRP
 earthquakes_NN2
-Reinforced_VVN-AJ0
+Reinforced_AJ0
 coatings_NN2
 may_VM0
 strengthen_VVI
@@ -26305,7 +26305,7 @@ thing_NN1
 when_CJS
 fertility_NN1
 genes_NN2
-abscond_VVB-NN1
+abscond_NN1
 with_PRP
 neighbouring_AJ0
 DNA_NN1
@@ -26405,7 +26405,7 @@ silencing_VVG
 genes_NN2
 They_PNP
 are_VBB
-present_AJ0-NN1
+present_AJ0
 in_PRP
 plasmids_NN2
 too_AV0
@@ -26520,7 +26520,7 @@ the_AT0
 calculation_NN1
 is_VBZ
 the_AT0
-average_AJ0-NN1
+average_AJ0
 mutation_NN1
 rate_NN1
 For_PRP
@@ -26538,7 +26538,7 @@ are_VBB
 more_AV0
 frequent_AJ0
 than_CJS
-average_AJ0-NN1
+average_AJ0
 and_CJC
 stable_AJ0
 zones_NN2
@@ -26686,7 +26686,7 @@ any_DT0
 survival_NN1
 advantages_NN2
 on_PRP
-gut-dwelling_AJ0-NN1
+gut-dwelling_AJ0
 microbes_NN2
 Different_AJ0
 guts_NN2
@@ -26896,7 +26896,7 @@ of_PRF
 course_NN1
 A_AT0
 close_AJ0
-relative_AJ0-NN1
+relative_AJ0
 of_PRF
 E._NP0
 coli_NN2
@@ -27102,7 +27102,7 @@ Using_VVG
 this_DT0
 marker_NN1
 Howard_NP0
-Ochman_NP0-NN1
+Ochman_NN1
 and_CJC
 Allan_NP0
 Wilson_NP0
@@ -27196,7 +27196,7 @@ true_AJ0
 of_PRF
 other_AJ0
 eubacteria_NN1
-Archaebacteria_NN1-NP0
+Archaebacteria_NP0
 which_DTQ
 inhabit_VVB
 extreme_AJ0
@@ -27268,7 +27268,7 @@ transformed_VVN
 by_PRP
 raw_AJ0
 DNA_NN1
-Transduction_NN1-NP0
+Transduction_NN1
 of_PRF
 genetic_AJ0
 information_NN1
@@ -27342,7 +27342,7 @@ their_DPS
 DNA_NN1
 codes_NN2
 for_PRP
-Rhizobia_NN1-NP0
+Rhizobia_NP0
 the_AT0
 nitrogen-fixing_AJ0
 symbionts_NN2
@@ -27403,7 +27403,7 @@ plants_NN2
 The_AT0
 plant_NN1
 pathogen_NN1
-Agrobacterium_NP0-NN1
+Agrobacterium_NN1
 for_PRP
 example_NN1
 carries_VVZ
@@ -27418,7 +27418,7 @@ Some_DT0
 microbiologists_NN2
 believe_VVB
 that_CJT
-Agrobacterium_NP0-NN1
+Agrobacterium_NN1
 's_POS
 chromosome_NN1
 is_VBZ
@@ -27440,7 +27440,7 @@ in_PRP
 their_DPS
 plasmid_NN1
 complement_VVI
-Azotobacter_NN1-NP0
+Azotobacter_NN1
 chroococcum_NN1
 a_AT0
 free-living_AJ0
@@ -27508,7 +27508,7 @@ as_CJS
 well_AV0
 as_CJS
 plasmids_NN2
-coding_VVG-NN1
+coding_VVG
 for_PRP
 drug_NN1
 resistance_NN1
@@ -27533,7 +27533,7 @@ or_CJC
 distantly_AV0
 related_VVN
 bacteria_NN2
-Armed_VVN-AJ0
+Armed_AJ0
 with_PRP
 transposons_NN2
 and_CJC
@@ -27566,7 +27566,7 @@ microbes_NN2
 from_PRP
 Proteus_NP0
 and_CJC
-Azotobacter_NN1-NP0
+Azotobacter_NN1
 to_TO0
 E._NP0
 coli_NN2
@@ -27625,7 +27625,7 @@ in_PRP
 the_AT0
 natural_AJ0
 environment_NN1
-Transduction_NN1-NP0
+Transduction_NN1
 seems_VVZ
 to_TO0
 be_VBI
@@ -27711,7 +27711,7 @@ E._NP0
 coli_NN2
 Although_CJS
 some_DT0
-yield_VVI
+yield_NN1
 mutants_NN2
 less_AV0
 readily_AV0
@@ -27771,7 +27771,7 @@ as_CJS
 many_DT0
 mutations_NN2
 as_CJS
-afflict_NN1-VVB
+afflict_NN1
 the_AT0
 world_NN1
 's_POS
@@ -27834,7 +27834,7 @@ a_AT0
 communal_AJ0
 gene_NN1
 pool_NN1
-Advances_NN2-VVZ
+Advances_NN2
 in_PRP
 molecular_AJ0
 genetics_NN1
@@ -28135,7 +28135,7 @@ the_AT0
 cells_NN2
 attacked_VVN
 will_VM0
-succumb_VVI
+succumb_VVB
 to_TO0
 the_AT0
 infection_NN1
@@ -28208,7 +28208,7 @@ nevertheless_AV0
 modify_VVI
 genes_NN2
 already_AV0
-present_AJ0-NN1
+present_AJ0
 in_PRP
 the_AT0
 recipient_NN1
@@ -28280,7 +28280,7 @@ Conjugation_NN1
 E._NP0
 coli_NN2
 only_AV0
-conjugate_VVB-NN1
+conjugate_NN1
 when_CJS
 one_CRD
 of_PRF
@@ -28412,7 +28412,7 @@ kinds_NN2
 of_PRF
 plasmid_NN1
 are_VBB
-present_AJ0-NN1
+present_AJ0
 in_PRP
 a_AT0
 given_VVN
@@ -28554,7 +28554,7 @@ substances_NN2
 Global_AJ0
 mutations_NN2
 THE_AT0
-BACTERIUM_NP0-NN1
+BACTERIUM_NN1
 E._NP0
 coli_NN2
 above_PRP
@@ -28564,7 +28564,7 @@ a_AT0
 phenomenal_AJ0
 rate_NN1
 An_AT0
-average_AJ0-NN1
+average_AJ0
 human_AJ0
 might_VM0
 discharge_NN1
@@ -28775,7 +28775,7 @@ the_AT0
 University_NN1
 of_PRF
 Sussex_NP0
-Transduction_NN1-NP0
+Transduction_NN1
 a_AT0
 bacteriophage_NN1
 attacks_NN2
@@ -29052,7 +29052,7 @@ me_PNP
 from_PRP
 retreating_AJ0
 into_PRP
-ultraspecialist_NN1-AJ0
+ultraspecialist_NN1
 activities_NN2
 A_AT0
 striking_AJ0
@@ -29065,7 +29065,7 @@ is_VBZ
 this_DT0
 willingness_NN1
 to_TO0
-cross_VVI
+cross_NN1
 cultures_NN2
 and_CJC
 boundaries_NN2
@@ -29107,7 +29107,7 @@ cell_NN1
 biology_NN1
 at_PRP
 the_AT0
-Gustave-Roussy_AJ0-NN1
+Gustave-Roussy_AJ0
 Institute_NN1
 in_PRP
 Paris_NP0
@@ -29115,7 +29115,7 @@ under_PRP
 Maurice_NP0
 Tubiana_NP0
 who_PNQ
-retired_AJ0
+retired_VVD
 last_ORD
 year_NN1
 The_AT0
@@ -29205,7 +29205,7 @@ and_CJC
 drawing_NN1
 up_AVP
 an_AT0
-initial_AJ0-NN1
+initial_AJ0
 draft_NN1
 of_PRF
 his_DPS
@@ -29243,7 +29243,7 @@ the_AT0
 poorest_AJS
 work_NN1
 John_NP0
-Galloway_NP0-NN1
+Galloway_NP0
 at_PRP
 the_AT0
 Cancer_NN1
@@ -29462,7 +29462,7 @@ funds_NN2
 that_CJT
 are_VBB
 already_AV0
-present_AJ0-NN1
+present_AJ0
 in_PRP
 the_AT0
 NHS_NP0
@@ -29536,7 +29536,7 @@ minister_NN1
 William_NP0
 Waldegrave_NP0
 to_TO0
-present_AJ0-NN1
+present_AJ0
 him_PNP
 with_PRP
 a_AT0
@@ -29720,14 +29720,14 @@ so_AV0
 that_CJT
 he_PNP
 can_VM0
-present_AJ0-NN1
+present_AJ0
 it_PNP
 succinctly_AV0
 to_TO0
 boardrooms_NN2
 and_CJC
 to_TO0
-nonspecialist_NN1-AJ0
+nonspecialist_NN1
 health_NN1
 professionals_NN2
 such_DT0
@@ -29973,7 +29973,7 @@ example_NN1
 by_PRP
 the_AT0
 UK_NP0
-Coordinating_VVG-AJ0
+Coordinating_AJ0
 Committee_NN1
 for_PRP
 Cancer_NN1
@@ -30007,7 +30007,7 @@ advisory_AJ0
 groups_NN2
 that_CJT
 would_VM0
-act_VVI
+act_NN1
 as_CJS
 think_VVB
 tanks_NN2
@@ -30182,7 +30182,7 @@ project_NN1
 was_VBD
 ill-considered_AJ0
 and_CJC
-ill-supervised_NN1-AJ0
+ill-supervised_AJ0
 Peckham_NP0
 is_VBZ
 critical_AJ0
@@ -30505,7 +30505,7 @@ France_NP0
 immersed_VVN
 him_PNP
 in_PRP
-French_AJ0-NN1
+French_AJ0
 culture_NN1
 which_DTQ
 takes_VVZ
@@ -30550,7 +30550,7 @@ some_DT0
 study_NN1
 should_VM0
 be_VBI
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 this_DT0
 On_PRP
@@ -30616,7 +30616,7 @@ the_AT0
 complementary_AJ0
 therapy_NN1
 of_PRF
-chiropractic_NN1-AJ0
+chiropractic_AJ0
 was_VBD
 compared_VVN
 with_PRP
@@ -30706,7 +30706,7 @@ after_PRP
 a_AT0
 bit_NN1
 of_PRF
-dancing_VVG
+dancing_NN1
 while_CJS
 on_PRP
 holiday_NN1
@@ -30831,7 +30831,7 @@ clinical_AJ0
 research_NN1
 at_PRP
 the_AT0
-Gustave-Roussy_AJ0-NN1
+Gustave-Roussy_AJ0
 after_PRP
 seeing_VVG
 the_AT0
@@ -30965,7 +30965,7 @@ London_NP0
 who_PNQ
 is_VBZ
 currently_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 a_AT0
 major_AJ0
@@ -31197,7 +31197,7 @@ he_PNP
 do_VDB
 for_PRP
 fun_NN1
-Paint_VVB-NN1
+Paint_NN1
 and_CJC
 draw_VVI
 all_DT0
@@ -31256,7 +31256,7 @@ Christopher_NP0
 Hull_NP0
 Gallery_NN1
 off_AVP
-Belgrave_VVB-NN1
+Belgrave_NN1
 Square_NP0
 but_CJC
 he_PNP
@@ -31288,7 +31288,7 @@ his_DPS
 medicine_NN1
 But_CJC
 the_AT0
-act_VVI
+act_NN1
 of_PRF
 confronting_VVG
 a_AT0
@@ -31446,7 +31446,7 @@ the_AT0
 water_NN1
 cycle_NN1
 Michael_NP0
-Price_NP0-NN1
+Price_NP0
 WATER_NN1
 is_VBZ
 one_CRD
@@ -31951,12 +31951,12 @@ the_AT0
 rocks_NN2
 are_VBB
 so_AV0
-compressed_AJ0
+compressed_VVN
 that_CJT
 the_AT0
 pores_NN2
 are_VBB
-closed_VVD
+closed_VVN
 Water_NN1
 can_VM0
 not_XX0
@@ -32148,7 +32148,7 @@ Kufra_NP0
 in_PRP
 the_AT0
 Libyan_AJ0
-Desert_NN1-VVB
+Desert_NN1
 for_PRP
 example_NN1
 water_NN1
@@ -32410,7 +32410,7 @@ important_AJ0
 when_CJS
 an_AT0
 aquifer_NN1
-dips_VVZ-NN2
+dips_VVZ
 beneath_PRP
 another_DT0
 layer_NN1
@@ -32467,7 +32467,7 @@ below_AV0
 it_PNP
 If_CJS
 you_PNP
-drill_VVI
+drill_NN1
 a_AT0
 borehole_NN1
 into_PRP
@@ -32672,7 +32672,7 @@ ground_NN1
 level_NN1
 If_CJS
 we_PNP
-drill_VVI
+drill_NN1
 a_AT0
 borehole_NN1
 into_PRP
@@ -32696,7 +32696,7 @@ borehole_NN1
 is_VBZ
 called_VVN
 an_AT0
-artesian_AJ0-NN1
+artesian_AJ0
 well_AV0
 But_CJC
 the_AT0
@@ -32722,7 +32722,7 @@ surface_NN1
 Otherwise_AV0
 it_PNP
 will_VM0
-yield_VVI
+yield_NN1
 little_AJ0
 or_CJC
 no_AT0
@@ -32746,7 +32746,7 @@ availability_NN1
 of_PRF
 water_NN1
 from_PRP
-artesian_AJ0-NN1
+artesian_AJ0
 wells_NN2
 makes_VVZ
 agriculture_NN1
@@ -32756,7 +32756,7 @@ Australia_NP0
 many_DT0
 ranches_NN2
 use_NN1
-artesian_AJ0-NN1
+artesian_AJ0
 wells_NN2
 which_DTQ
 can_VM0
@@ -32786,7 +32786,7 @@ South_NN1
 Dakota_NP0
 even_AV0
 used_VVN
-artesian_AJ0-NN1
+artesian_AJ0
 wells_NN2
 to_TO0
 power_NN1
@@ -32827,7 +32827,7 @@ flows_VVZ
 out_AVP
 from_PRP
 an_AT0
-artesian_AJ0-NN1
+artesian_AJ0
 well_AV0
 in_PRP
 a_AT0
@@ -32855,7 +32855,7 @@ a_AT0
 confined_VVN
 aquifer_NN1
 is_VBZ
-compressed_AJ0
+compressed_VVN
 elastically_AV0
 rather_AV0
 like_PRP
@@ -32908,7 +32908,7 @@ a_AT0
 lot_NN1
 of_PRF
 water_NN1
-compressed_AJ0
+compressed_VVN
 in_PRP
 this_DT0
 way_NN1
@@ -33128,7 +33128,7 @@ layers_NN2
 it_PNP
 may_VM0
 be_VBI
-compressed_AJ0
+compressed_VVN
 and_CJC
 the_AT0
 ground_NN1
@@ -33417,7 +33417,7 @@ as_CJS
 the_AT0
 Sahara_NP0
 at_PRP
-present_AJ0-NN1
+present_AJ0
 but_CJC
 there_EX0
 are_VBB
@@ -33494,7 +33494,7 @@ resource_NN1
 that_CJT
 is_VBZ
 not_XX0
-replenished_VVN-AJ0
+replenished_AJ0
 Some_DT0
 of_PRF
 the_AT0
@@ -33655,7 +33655,7 @@ water_NN1
 that_CJT
 will_VM0
 not_XX0
-drain_VVI
+drain_NN1
 from_PRP
 small_AJ0
 pore_NN1
@@ -33885,7 +33885,7 @@ water_NN1
 But_CJC
 this_DT0
 time_NN1
-lag_NN1-VVB
+lag_NN1
 combined_VVN
 with_PRP
 dilution_NN1
@@ -33899,7 +33899,7 @@ means_NN0
 that_CJT
 if_CJS
 a_AT0
-pollutant_NN1-AJ0
+pollutant_NN1
 enters_VVZ
 the_AT0
 ground_NN1
@@ -33949,7 +33949,7 @@ in_PRP
 an_AT0
 aquifer_NN1
 One_CRD
-pollutant_NN1-AJ0
+pollutant_NN1
 that_CJT
 has_VHZ
 raised_VVN
@@ -34032,7 +34032,7 @@ threat_NN1
 to_TO0
 groundwater_NN1
 quality_NN1
-Aquifers_NN2-VVZ
+Aquifers_NN2
 in_PRP
 action_NN1
 wet_AJ0
@@ -34049,7 +34049,7 @@ a_AT0
 towel_NN1
 or_CJC
 a_AT0
-capillary_AJ0-NN1
+capillary_AJ0
 tube_NN1
 with_PRP
 its_DPS
@@ -34100,7 +34100,7 @@ water_NN1
 Water_NN1
 will_VM0
 not_XX0
-drain_VVI
+drain_NN1
 from_PRP
 the_AT0
 fabric_NN1
@@ -34126,7 +34126,7 @@ the_AT0
 water_NN1
 in_PRP
 the_AT0
-capillary_AJ0-NN1
+capillary_AJ0
 tube_NN1
 or_CJC
 in_PRP
@@ -34163,20 +34163,20 @@ top_NN1
 of_PRF
 your_DPS
 suspended_VVN
-capillary_AJ0-NN1
+capillary_AJ0
 tube_NN1
 or_CJC
 towel_NN1
 water_NN1
 will_VM0
-drain_VVI
+drain_NN1
 from_PRP
 the_AT0
 bottom_NN1
 until_CJS
 equilibrium_NN1
 is_VBZ
-regained_VVD
+regained_VVN
 Water_NN1
 in_PRP
 the_AT0
@@ -34212,7 +34212,7 @@ pressures_NN2
 less_AV0
 than_CJS
 atmospheric_AJ0
-Left_AJ0-NN1
+Left_AJ0
 to_TO0
 itself_PNX
 water_NN1
@@ -34233,7 +34233,7 @@ the_AT0
 water_NN1
 in_PRP
 the_AT0
-capillary_AJ0-NN1
+capillary_AJ0
 tube_NN1
 or_CJC
 the_AT0
@@ -34331,7 +34331,7 @@ the_AT0
 top_NN1
 of_PRF
 the_AT0
-capillary_AJ0-NN1
+capillary_AJ0
 tube_NN1
 or_CJC
 towel_NN1
@@ -34471,7 +34471,7 @@ to_TO0
 replenish_VVI
 the_AT0
 aquifer_NN1
-Recharge_VVB-NN1
+Recharge_VVB
 normally_AV0
 happens_VVZ
 in_PRP
@@ -34536,7 +34536,7 @@ but_CJC
 may_VM0
 continue_VVI
 to_TO0
-fall_VVI
+fall_NN1
 as_CJS
 summer_NN1
 approaches_NN2
@@ -34631,7 +34631,7 @@ levels_NN2
 in_PRP
 wells_NN2
 The_AT0
-Ogallala_NP0-NN1
+Ogallala_NP0
 aquifer_NN1
 which_DTQ
 supplies_NN2
@@ -34677,9 +34677,9 @@ South-east_NN1
 England_NP0
 for_PRP
 example_NN1
-stems_VVZ-NN2
+stems_NN2
 from_PRP
-increased_AJ0
+increased_VVN
 demand_NN1
 for_PRP
 water_NN1
@@ -34900,7 +34900,7 @@ for_PRP
 about_PRP
 a_AT0
 day_NN1
-Pumping_NN1-VVG
+Pumping_VVG
 water_NN1
 from_PRP
 an_AT0
@@ -35115,7 +35115,7 @@ relatively_AV0
 easy_AJ0
 to_TO0
 understand_VVI
-Aquifers_NN2-VVZ
+Aquifers_NN2
 hold_VVI
 an_AT0
 enormous_AJ0
@@ -35195,7 +35195,7 @@ recharge_NN1
 to_TO0
 aquifers_NN2
 FURTHER_AJC
-READING_NN1-NP0
+READING_NP0
 For_PRP
 a_AT0
 more_AV0
@@ -35209,7 +35209,7 @@ Introducing_VVG
 Groundwater_NN1
 by_PRP
 Michael_NP0
-Price_NP0-NN1
+Price_NP0
 George_NP0
 Allen_NP0
 and_CJC
@@ -35290,7 +35290,7 @@ rock_NN1
 is_VBZ
 saturated_AJ0
 Michael_NP0
-Price_NP0-NN1
+Price_NP0
 is_VBZ
 hydrogeologist_NN1
 at_PRP
@@ -35328,7 +35328,7 @@ the_AT0
 potentiometric_AJ0
 surface_NN1
 will_VM0
-yield_VVI
+yield_NN1
 water_NN1
 And_CJC
 water_NN1
@@ -35338,7 +35338,7 @@ without_PRP
 pumping_VVG
 in_PRP
 an_AT0
-artesian_AJ0-NN1
+artesian_AJ0
 well_AV0
 if_CJS
 the_AT0
@@ -35458,7 +35458,7 @@ to_TO0
 the_AT0
 atmosphere_NN1
 could_VM0
-drop_VVI
+drop_NN1
 quickly_AV0
 enough_AV0
 to_TO0
@@ -35614,12 +35614,12 @@ growth_NN1
 or_CJC
 accept_VVI
 a_AT0
-drop_VVI
+drop_NN1
 in_PRP
 standards_NN2
 of_PRF
 living_VVG
-Developing_AJ0-VVG
+Developing_AJ0
 countries_NN2
 have_VHB
 a_AT0
@@ -35836,7 +35836,7 @@ was_VBD
 convened_VVD
 by_PRP
 Graeme_NP0
-Pearman_NP0-NN1
+Pearman_NP0
 an_AT0
 atmospheric_AJ0
 chemist_NN1
@@ -35871,7 +35871,7 @@ ways_NN2
 of_PRF
 living_VVG
 that_CJT
-drop_VVI
+drop_NN1
 carbon_NN1
 dioxide_NN1
 emissions_NN2
@@ -35908,7 +35908,7 @@ Principally_AV0
 they_PNP
 concern_NN1
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 energy_NN1
 efficiency_NN1
@@ -35955,7 +35955,7 @@ carbon_NN1
 dioxide_NN1
 we_PNP
 currently_AV0
-emit_VVI
+emit_VVB
 We_PNP
 do_VDB
 not_XX0
@@ -36126,18 +36126,18 @@ out_AVP
 what_DTQ
 your_DPS
 existing_AJ0
-matching_VVG
+matching_AJ0
 consumes_VVZ
 from_PRP
 a_AT0
-quarterly_AJ0-NN1
+quarterly_AJ0
 electricity_NN1
 bill_NN1
 Clearly_AV0
 labelled_VVN
 appliances_NN2
 frequent_AJ0
-itemised_AJ0-VVD
+itemised_VVD
 bills_NN2
 and_CJC
 smart_AJ0
@@ -36252,7 +36252,7 @@ increase_NN1
 economic_AJ0
 growth_NN1
 while_CJS
-diminishing_AJ0-VVG
+diminishing_AJ0
 carbon_NN1
 dioxide_NN1
 output_NN1
@@ -36375,7 +36375,7 @@ less_AV0
 to_TO0
 maintain_VVI
 Lee_NP0
-Schipper_NN1-NP0
+Schipper_NP0
 an_AT0
 energy_NN1
 demand_NN1
@@ -36431,7 +36431,7 @@ If_CJS
 you_PNP
 approach_NN1
 energy_NN1
-conservation_AJ0-NN1
+conservation_NN1
 as_CJS
 an_AT0
 energy_NN1
@@ -36445,10 +36445,10 @@ comes_VVZ
 from_PRP
 pushing_VVG
 profitability_NN1
-Schipper_NN1-NP0
+Schipper_NP0
 favours_VVZ
 a_AT0
-back-door_AJ0-NN1
+back-door_AJ0
 approach_NN1
 appealing_AJ0
 to_TO0
@@ -36553,7 +36553,7 @@ or_CJC
 chickens_NN2
 says_VVZ
 Lovins_NP0
-Cutting_VVG-NN1
+Cutting_VVG
 stone_NN1
 needs_VVZ
 power_NN1
@@ -36599,7 +36599,7 @@ of_PRF
 its_DPS
 role_NN1
 in_PRP
-diminishing_AJ0-VVG
+diminishing_AJ0
 carbon_NN1
 dioxide_NN1
 emissions_NN2
@@ -36699,7 +36699,7 @@ n't_XX0
 fit_VVI
 your_DPS
 best_AJS
-lampshade_NN1-VVB
+lampshade_NN1
 onto_PRP
 them_PNP
 even_AV0
@@ -36781,7 +36781,7 @@ in_PRP
 sight_NN1
 were_VBD
 the_AT0
-high-efficiency_AJ0-NN1
+high-efficiency_AJ0
 versions_NN2
 If_CJS
 you_PNP
@@ -36839,7 +36839,7 @@ the_AT0
 public_AJ0
 that_CJT
 energy_NN1
-saving_NN1
+saving_VVG
 is_VBZ
 worthwhile_AJ0
 for_PRP
@@ -36885,7 +36885,7 @@ consumers_NN2
 balance_NN1
 a_AT0
 greater_AJC
-initial_AJ0-NN1
+initial_AJ0
 cost_NN1
 with_PRP
 savings_NN2
@@ -37226,7 +37226,7 @@ a_AT0
 potent_AJ0
 status_NN1
 symbol_NN1
-Public_AJ0-NN1
+Public_AJ0
 transport_NN1
 in_PRP
 contrast_NN1
@@ -37251,7 +37251,7 @@ of_PRF
 some_DT0
 European_AJ0
 cities_NN2
-Schipper_NN1-NP0
+Schipper_NP0
 pointed_VVD
 out_AVP
 that_CJT
@@ -37311,7 +37311,7 @@ want_VVB
 fewer_DT0
 people_NN0
 to_TO0
-drive_VVI
+drive_NN1
 Speeding_VVG
 up_AVP
 urban_AJ0
@@ -37437,7 +37437,7 @@ cut_VVN
 down_AVP
 on_PRP
 travel_NN1
-overall_AJ0-NN1
+overall_AJ0
 Transport_NN1
 is_VBZ
 an_AT0
@@ -37499,7 +37499,7 @@ produce_VVI
 some_DT0
 strange_AJ0
 solutions_NN2
-Converted_AJ0-VVN
+Converted_AJ0
 tractors_NN2
 are_VBB
 increasingly_AV0
@@ -37618,7 +37618,7 @@ of_PRF
 different_AJ0
 societies_NN2
 matter_NN1
-Access_NN1-VVB
+Access_NN1
 to_TO0
 information_NN1
 is_VBZ
@@ -37668,7 +37668,7 @@ centres_NN2
 to_TO0
 provide_VVI
 information_NN1
-act_VVI
+act_NN1
 as_CJS
 contact_NN1
 points_NN2
@@ -37693,7 +37693,7 @@ Bill_NP0
 Chandler_NP0
 of_PRF
 the_AT0
-Batelle_NP0-NN1
+Batelle_NN1
 Memorial_NN1
 Institute_NN1
 's_POS
@@ -37716,7 +37716,7 @@ to_TO0
 bring_VVI
 the_AT0
 best_AJS
-energy-saving_AJ0-NN1
+energy-saving_AJ0
 technology_NN1
 into_PRP
 everyday_AJ0
@@ -37823,7 +37823,7 @@ Fund_NN1
 for_PRP
 Nature_NN1
 's_POS
-conservation_AJ0-NN1
+conservation_NN1
 fund_NN1
 Dennis_NP0
 Tirpak_NP0
@@ -37864,7 +37864,7 @@ foundations_NN2
 and_CJC
 industries_NN2
 Chandler_NP0
-stressed_VVD
+stressed_VVN
 that_CJT
 the_AT0
 centres_NN2
@@ -37915,7 +37915,7 @@ the_AT0
 basis_NN1
 for_PRP
 energy_NN1
-conservation_AJ0-NN1
+conservation_NN1
 throughout_PRP
 industry_NN1
 transport_NN1
@@ -37971,7 +37971,7 @@ to_TO0
 Chandler_NP0
 delays_NN2
 in_PRP
-saving_NN1
+saving_VVG
 energy_NN1
 arise_VVI
 mainly_AV0
@@ -37994,7 +37994,7 @@ those_DT0
 gaps_NN2
 they_PNP
 will_VM0
-act_VVI
+act_NN1
 as_CJS
 information_NN1
 banks_NN2
@@ -38147,7 +38147,7 @@ suitable_AJ0
 product_NN1
 locally_AV0
 At_PRP
-present_AJ0-NN1
+present_AJ0
 these_DT0
 materials_NN2
 have_VHB
@@ -38178,7 +38178,7 @@ industry_NN1
 to_TO0
 support_NN1
 energy_NN1
-conservation_AJ0-NN1
+conservation_NN1
 The_AT0
 role_NN1
 of_PRF
@@ -38216,7 +38216,7 @@ local_AJ0
 industries_NN2
 setting_VVG
 up_AVP
-car-care_AJ0-NN1
+car-care_NN1
 centres_NN2
 to_TO0
 tune_NN1
@@ -38321,7 +38321,7 @@ needed_VVN
 to_TO0
 save_VVI
 energy_NN1
-fast_AV0-AJ0
+fast_AJ0
 Hospitals_NN2
 are_VBB
 not_XX0
@@ -38405,7 +38405,7 @@ such_DT0
 centres_NN2
 could_VM0
 help_VVI
-spread_NN1
+spread_VVN
 the_AT0
 message_NN1
 that_CJT
@@ -38531,7 +38531,7 @@ another_DT0
 extreme_AJ0
 takes_VVZ
 little_AJ0
-notice_VVI
+notice_NN1
 of_PRF
 our_DPS
 presence_NN1
@@ -38561,7 +38561,7 @@ businesses_NN2
 and_CJC
 governments_NN2
 who_PNQ
-feel_VVI
+feel_VVB
 more_AV0
 at_PRP
 home_NN1
@@ -38575,7 +38575,7 @@ the_AT0
 gaps_NN2
 in_PRP
 understanding_NN1
-lie_VVI
+lie_VVB
 in_PRP
 nebulous_AJ0
 areas_NN2
@@ -38674,9 +38674,9 @@ you_PNP
 're_VBB
 at_PRP
 CLIMATE_NN1
-CHANGE_NN1-VVB
+CHANGE_NN1
 QUIT_VVB
-SMOKING_NN1-AJ0
+SMOKING_AJ0
 Energy_NN1
 answers_NN2
 for_PRP
@@ -38823,7 +38823,7 @@ new_AJ0
 power_NN1
 plants_NN2
 that_CJT
-burn_VVI
+burn_NN1
 coal_NN1
 or_CJC
 oil_NN1
@@ -38974,7 +38974,7 @@ or_CJC
 destroying_VVG
 the_AT0
 environment_NN1
-Cost_VVB-NN1
+Cost_NN1
 and_CJC
 the_AT0
 fair_AJ0
@@ -39458,7 +39458,7 @@ efficiency_NN1
 of_PRF
 the_AT0
 bulbs_NN2
-increased_AJ0
+increased_VVN
 and_CJC
 he_PNP
 could_VM0
@@ -39874,7 +39874,7 @@ TWh_NN2
 by_PRP
 2010_CRD
 a_AT0
-drop_VVI
+drop_NN1
 in_PRP
 power_NN1
 requirements_NN2
@@ -39960,7 +39960,7 @@ chose_VVD
 energy_NN1
 sources_NN2
 that_CJT
-minimised_VVN-AJ0
+minimised_VVN
 the_AT0
 production_NN1
 of_PRF
@@ -39997,7 +39997,7 @@ CO_NN1
 in_PRP
 the_AT0
 atmosphere_NN1
-Vatenfall_VVB-NN1
+Vatenfall_NN1
 the_AT0
 Swedish_AJ0
 energy_NN1
@@ -40069,7 +40069,7 @@ to_TO0
 fuel_NN1
 highly_AV0
 efficient_AJ0
-cogenerating_AJ0-NN1
+cogenerating_NN1
 power_NN1
 stations_NN2
 where_AVQ
@@ -40100,7 +40100,7 @@ TWh_NN2
 of_PRF
 wind_NN1
 power_NN1
-Vatenfall_VVB-NN1
+Vatenfall_NN1
 thinks_VVZ
 could_VM0
 be_VBI
@@ -40132,7 +40132,7 @@ levels_NN2
 of_PRF
 efficiency_NN1
 efficiency_NN1
-improved_AJ0
+improved_VVN
 only_AV0
 by_PRP
 market_NN1
@@ -40176,12 +40176,12 @@ price_NN1
 between_PRP
 scenarios_NN2
 which_DTQ
-optimised_AJ0-VVD
+optimised_AJ0
 costs_NN2
 and_CJC
 those_DT0
 that_CJT
-optimised_AJ0-VVD
+optimised_AJ0
 CO_NN1
 2_CRD
 All_DT0
@@ -40308,7 +40308,7 @@ its_DPS
 targets_NN2
 unless_CJS
 its_DPS
-overall_AJ0-NN1
+overall_AJ0
 energy_NN1
 needs_VVZ
 are_VBB
@@ -40346,7 +40346,7 @@ maximum_AJ0
 biomass_NN1
 carbon_NN1
 emissions_NN2
-drop_VVI
+drop_NN1
 to_TO0
 2.7_CRD
 million_CRD
@@ -40483,7 +40483,7 @@ of_PRF
 energy_NN1
 under_PRP
 these_DT0
-low-CO_AJ0-NN1
+low-CO_AJ0
 2_CRD
 scenarios_NN2
 and_CJC
@@ -40536,7 +40536,7 @@ the_AT0
 investment_NN1
 needed_VVN
 to_TO0
-switch_VVI
+switch_NN1
 to_TO0
 biomass_NN1
 production_NN1
@@ -40725,7 +40725,7 @@ in_PRP
 order_NN1
 with_PRP
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 of_PRF
 CO_NN1
 2_CRD
@@ -40873,7 +40873,7 @@ size_NN1
 of_PRF
 the_AT0
 planned_VVN
-Kaiga_NP0-NN1
+Kaiga_NP0
 nuclear_AJ0
 power_NN1
 plant_NN1
@@ -41024,7 +41024,7 @@ per_UNC
 cent_UNC
 of_PRF
 the_AT0
-present_AJ0-NN1
+present_AJ0
 power_NN1
 supply_NN1
 in_PRP
@@ -41118,7 +41118,7 @@ They_PNP
 speeded_VVN
 up_AVP
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 electricity_NN1
 until_CJS
@@ -41128,7 +41128,7 @@ were_VBD
 connected_VVN
 And_CJC
 they_PNP
-shut_VVB
+shut_VVN
 the_AT0
 aluminium_NN1
 smelter_NN1
@@ -41228,7 +41228,7 @@ where_AVQ
 the_AT0
 least_AV0
 environmentally_AV0
-damaging_VVG-AJ0
+damaging_AJ0
 happens_VVZ
 to_TO0
 be_VBI
@@ -41321,7 +41321,7 @@ the_AT0
 model_NN1
 its_DPS
 name_NN1
-Defendus_NP0-NN1
+Defendus_NP0
 It_PNP
 is_VBZ
 the_AT0
@@ -41333,11 +41333,11 @@ defend_VVI
 us_PNP
 in_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 crisis_NN1
 says_VVZ
 Reddy_NP0
-Defendus_NP0-NN1
+Defendus_NP0
 came_VVD
 up_AVP
 with_PRP
@@ -41422,7 +41422,7 @@ to_TO0
 muster_VVI
 the_AT0
 political_AJ0
-clout_NN1-VVB
+clout_NN1
 it_PNP
 takes_VVZ
 to_TO0
@@ -41497,7 +41497,7 @@ the_AT0
 World_NN1
 Bank_NP0
 are_VBB
-listening_VVG-NN1
+listening_VVG
 to_TO0
 Reddy_NP0
 They_PNP
@@ -41609,7 +41609,7 @@ current_AJ0
 emissions_NN2
 by_PRP
 2000_CRD
-Defendus_NP0-NN1
+Defendus_NP0
 would_VM0
 increase_NN1
 emissions_NN2
@@ -41656,7 +41656,7 @@ begged_VVD
 by_PRP
 all_DT0
 these_DT0
-glowing_AJ0-VVG
+glowing_AJ0
 predictions_NN2
 is_VBZ
 whether_CJS
@@ -41692,7 +41692,7 @@ promoting_VVG
 efficient_AJ0
 technology_NN1
 At_PRP
-present_AJ0-NN1
+present_AJ0
 by_PRP
 cooperating_VVG
 uncritically_AV0
@@ -41715,7 +41715,7 @@ It_PNP
 could_VM0
 profit_NN1
 from_PRP
-increased_AJ0
+increased_VVN
 efficiency_NN1
 as_CJS
 long_AJ0
@@ -41809,7 +41809,7 @@ the_AT0
 middle_NN1
 class_NN1
 in_PRP
-industrialising_VVG-AJ0
+industrialising_VVG
 countries_NN2
 such_DT0
 as_CJS
@@ -41840,7 +41840,7 @@ energy_NN1
 users_NN2
 pressure_NN1
 to_TO0
-switch_VVI
+switch_NN1
 to_TO0
 more_AV0
 people-oriented_AJ0
@@ -41851,7 +41851,7 @@ Reddy_NP0
 's_POS
 could_VM0
 mount_VVI
-Developing_AJ0-VVG
+Developing_AJ0
 countries_NN2
 are_VBB
 afraid_AJ0
@@ -41946,7 +41946,7 @@ GET_VVB
 IN_PRP
 SHAPE_NN1
 CLIMATE_NN1
-CHANGE_NN1-VVB
+CHANGE_NN1
 Costing_VVG
 the_AT0
 Earth_NN1
@@ -41992,7 +41992,7 @@ than_CJS
 to_TO0
 ignore_VVI
 them_PNP
-REVIEW_VVB-NN1
+REVIEW_NN1
 Minamata_NP0
 and_CJC
 the_AT0
@@ -42010,7 +42010,7 @@ Minamata_NP0
 Disease_NN1
 by_PRP
 Michiko_NP0
-Ishimure_NP0-NN1
+Ishimure_NN1
 translated_VVN
 from_PRP
 Japanese_AJ0
@@ -42120,7 +42120,7 @@ tragedy_NN1
 is_VBZ
 available_AJ0
 in_PRP
-English_AJ0-NN1
+English_AJ0
 Paradise_NN1
 in_PRP
 the_AT0
@@ -42301,7 +42301,7 @@ as_CJS
 human_AJ0
 beings_NN2
 Mercifully_AV0
-Ishimure_NP0-NN1
+Ishimure_NN1
 leaves_VVZ
 to_TO0
 our_DPS
@@ -42315,7 +42315,7 @@ The_AT0
 little_AJ0
 details_NN2
 she_PNP
-slips_NN2
+slips_VVZ
 in_PRP
 become_VVI
 almost_AV0
@@ -42381,7 +42381,7 @@ into_PRP
 beautiful_AJ0
 and_CJC
 economical_AJ0
-English_AJ0-NN1
+English_AJ0
 lives_NN2
 up_AVP
 to_TO0
@@ -42446,7 +42446,7 @@ because_CJS
 of_PRF
 the_AT0
 principle_NN1
-involved_AJ0
+involved_VVN
 The_AT0
 official_AJ0
 responsible_AJ0
@@ -42519,7 +42519,7 @@ Then_AV0
 go_VVI
 for_PRP
 a_AT0
-walk_VVI
+walk_NN1
 and_CJC
 let_VVB
 the_AT0
@@ -42740,7 +42740,7 @@ issues_NN2
 and_CJC
 the_AT0
 science_NN1
-involved_AJ0
+involved_VVN
 The_AT0
 book_NN1
 simply_AV0
@@ -42763,12 +42763,12 @@ Gender_NN1
 1800\xe2\x80\x931929_CRD
 by_PRP
 Ornella_NP0
-Moscucci_NP0-NN1
+Moscucci_NP0
 Cambridge_NP0
 pp_NN2
 278_CRD
 \xc2\xa335_NN0
-Ludmilla_NP0-NN1
+Ludmilla_NP0
 Jordanova_NP0
 IN_PRP
 THE_AT0
@@ -42808,7 +42808,7 @@ Science_NN1
 of_PRF
 Woman_NN1
 Ornella_NP0
-Moscucci_NP0-NN1
+Moscucci_NP0
 explores_VVZ
 the_AT0
 heated_AJ0
@@ -42836,7 +42836,7 @@ Once_AV0
 new_AJ0
 fields_NN2
 are_VBB
-delineated_AJ0-VVD
+delineated_VVD
 they_PNP
 come_VVI
 to_TO0
@@ -43024,7 +43024,7 @@ their_DPS
 concerns_NN2
 and_CJC
 interests_NN2
-Moscucci_NP0-NN1
+Moscucci_NP0
 further_AJC
 argues_VVZ
 that_CJT
@@ -43235,7 +43235,7 @@ this_DT0
 is_VBZ
 precisely_AV0
 that_CJT
-enunciated_VVN
+enunciated_VVD
 by_PRP
 Barnes_NP0
 that_CJT
@@ -43248,7 +43248,7 @@ reproductive_AJ0
 organs_NN2
 According_VVG
 to_TO0
-Moscucci_NP0-NN1
+Moscucci_NP0
 this_DT0
 claim_NN1
 commanded_VVN
@@ -43306,8 +43306,8 @@ practitioners_NN2
 who_PNQ
 should_VM0
 be_VBI
-involved_AJ0
-Moscucci_NP0-NN1
+involved_VVN
+Moscucci_NP0
 claims_NN2
 that_CJT
 women_NN2
@@ -43367,7 +43367,7 @@ aspects_NN2
 of_PRF
 medical_AJ0
 practice_NN1
-Moscucci_NP0-NN1
+Moscucci_NP0
 also_AV0
 reveals_VVZ
 the_AT0
@@ -43395,7 +43395,7 @@ way_NN1
 she_PNP
 indicates_VVZ
 the_AT0
-intellectual_AJ0-NN1
+intellectual_AJ0
 vitality_NN1
 and_CJC
 the_AT0
@@ -43427,7 +43427,7 @@ laboratories_NN2
 educational_AJ0
 institutions_NN2
 and_CJC
-consulting_AJ0-VVG
+consulting_VVG
 rooms_NN2
 They_PNP
 wish_VVB
@@ -43455,7 +43455,7 @@ ideas_NN2
 The_AT0
 value_NN1
 of_PRF
-Moscucci_NP0-NN1
+Moscucci_NP0
 's_POS
 approach_NN1
 is_VBZ
@@ -43511,7 +43511,7 @@ New_AJ0
 South_NN1
 Wales_NP0
 University_NN1
-Press_NN1-VVB
+Press_NN1
 pp_NN2
 195_CRD
 A$14.95_UNC
@@ -43550,7 +43550,7 @@ feeling_NN1
 to_TO0
 things_NN2
 that_CJT
-feel_VVI
+feel_VVB
 recognising_VVG
 ethics_NN0
 as_CJS
@@ -43652,7 +43652,7 @@ ladder_NN1
 than_CJS
 is_VBZ
 at_PRP
-present_AJ0-NN1
+present_AJ0
 commonly_AV0
 imagined_VVD
 a_AT0
@@ -43723,7 +43723,7 @@ starting_VVG
 point_NN1
 is_VBZ
 I_PNP
-feel_VVI
+feel_VVB
 therefore_AV0
 I_PNP
 am_VBB
@@ -43970,7 +43970,7 @@ Whitehead_NP0
 's_POS
 words_NN2
 the_AT0
-fellow-sufferer_NN1-AJ0
+fellow-sufferer_NN1
 who_PNQ
 understands_VVZ
 I_PNP
@@ -44206,14 +44206,14 @@ more_AV0
 than_CJS
 a_AT0
 starter_NN1
-Public_AJ0-NN1
+Public_AJ0
 understanding_NN1
 of_PRF
 technology_NN1
-Levitating_VVG-AJ0
+Levitating_AJ0
 Trains_NN2
 and_CJC
-Kamikaze_VVB-NN1
+Kamikaze_NN1
 Genes_NN2
 Technological_AJ0
 Literacy_NN1
@@ -44276,7 +44276,7 @@ into_PRP
 beneficial_AJ0
 effects_NN2
 I_PNP
-regret_VVI
+regret_NN1
 that_CJT
 this_DT0
 is_VBZ
@@ -44299,7 +44299,7 @@ labels_NN2
 are_VBB
 smeared_VVN
 with_PRP
-neutralising_VVG-AJ0
+neutralising_AJ0
 cream_NN1
 and_CJC
 stored_VVN
@@ -44390,7 +44390,7 @@ on_PRP
 the_AT0
 cult_NN1
 beliefs_NN2
-unproven_AJ0-VVN
+unproven_VVN
 theories_NN2
 ignorant_AJ0
 superstitions_NN2
@@ -44407,7 +44407,7 @@ to_TO0
 the_AT0
 hard_AJ0
 work_NN1
-involved_AJ0
+involved_VVN
 in_PRP
 becoming_VVG
 technologically_AV0
@@ -44429,7 +44429,7 @@ obscure_AJ0
 and_CJC
 aimed_VVN
 at_PRP
-specialist_NN1-AJ0
+specialist_NN1
 readers_NN2
 Condensed_AJ0
 encyclopaedias_NN2
@@ -44807,7 +44807,7 @@ areas_NN2
 where_AVQ
 descriptions_NN2
 are_VBB
-skimped_VVN-AJ0
+skimped_AJ0
 for_PRP
 instance_NN1
 of_PRF
@@ -44876,7 +44876,7 @@ million_CRD
 Doubtless_AV0
 others_NN2
 with_PRP
-specialist_NN1-AJ0
+specialist_NN1
 knowledge_NN1
 will_VM0
 spot_NN1
@@ -44934,7 +44934,7 @@ K._NP0
 Jaffe_NP0
 and_CJC
 A._NP0
-Cedano_NP0-NN1
+Cedano_NN1
 Westview_NP0
 pp_NN2
 741_CRD
@@ -45005,7 +45005,7 @@ species_NN0
 Belonging_VVG
 to_TO0
 the_AT0
-hymenopteran_AJ0-NN1
+hymenopteran_NN1
 family_NN1
 Formicidae_NP0
 they_PNP
@@ -45054,8 +45054,8 @@ the_AT0
 major_AJ0
 predators_NN2
 scavengers_NN2
-herbivores_NN2-VVZ
-granivores_NN2-VVZ
+herbivores_NN2
+granivores_NN2
 seed_NN1
 dispersers_NN2
 soil_NN1
@@ -45107,10 +45107,10 @@ living_VVG
 species_NN0
 Only_AV0
 termites_NN2
-leafcutter_VVB-NN1
+leafcutter_NN1
 ants_NN2
 tribe_NN1
-Attini_NN1-NP0
+Attini_NN1
 and_CJC
 some_DT0
 social_AJ0
@@ -45141,7 +45141,7 @@ A_AT0
 single_AJ0
 hectare_NN1
 of_PRF
-Amazon_NP0-NN1
+Amazon_NP0
 rainforest_NN1
 soil_NN1
 can_VM0
@@ -45211,7 +45211,7 @@ in_PRP
 the_AT0
 realm_NN1
 of_PRF
-rotting_AJ0-VVG
+rotting_AJ0
 vegetation_NN1
 on_PRP
 the_AT0
@@ -45387,7 +45387,7 @@ Both_DT0
 volumes_NN2
 are_VBB
 largely_AV0
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 the_AT0
 two_CRD
@@ -45400,7 +45400,7 @@ so-called_AJ0
 fire_NN1
 ants_NN2
 and_CJC
-leafcutting_VVG-AJ0
+leafcutting_AJ0
 ants_NN2
 The_AT0
 fire_NN1
@@ -45408,7 +45408,7 @@ ants_NN2
 largely_AV0
 the_AT0
 genus_NN1
-Solenopsis_NN1-NP0
+Solenopsis_NP0
 are_VBB
 noted_VVN
 for_PRP
@@ -45420,11 +45420,11 @@ alkaloidal_AJ0
 venoms_NN2
 while_CJS
 the_AT0
-leafcutting_VVG-AJ0
+leafcutting_AJ0
 group_NN1
 of_PRF
 the_AT0
-attine_AJ0-NN1
+attine_AJ0
 genera_NN2
 are_VBB
 severe_AJ0
@@ -45446,7 +45446,7 @@ value_NN1
 of_PRF
 leafcutters_NN2
 in_PRP
-channelling_VVG-AJ0
+channelling_VVG
 nutrients_NN2
 through_PRP
 tropical_AJ0
@@ -45499,7 +45499,7 @@ a_AT0
 study_NN1
 of_PRF
 the_AT0
-foraging_AJ0-VVG
+foraging_VVG
 activity_NN1
 of_PRF
 a_AT0
@@ -45517,7 +45517,7 @@ immense_AJ0
 carpenter_NN1
 ant_NN1
 genus_NN1
-Camponotus_NN1-NP0
+Camponotus_NP0
 and_CJC
 unique_AJ0
 insights_NN2
@@ -45539,17 +45539,17 @@ the_AT0
 underlying_AJ0
 physical_AJ0
 and_CJC
-chemical_AJ0-NN1
+chemical_AJ0
 factors_NN2
 controlling_VVG
 leaf_NN1
 selection_NN1
-herbivory_NN1-AJ0
+herbivory_NN1
 by_PRP
 the_AT0
-attine_AJ0-NN1
+attine_AJ0
 genus_NN1
-Acromyrmex_NN1-NP0
+Acromyrmex_NP0
 and_CJC
 a_AT0
 novel_NN1
@@ -45558,11 +45558,11 @@ unique_AJ0
 investigation_NN1
 into_PRP
 the_AT0
-foraging_AJ0-VVG
+foraging_VVG
 patterns_NN2
 of_PRF
 the_AT0
-Argentine_AJ0-NN1
+Argentine_AJ0
 ant_NN1
 Iridomyrmex_NP0
 humilis_NN1
@@ -45576,7 +45576,7 @@ researcher_NN1
 explores_VVZ
 how_AVQ
 the_AT0
-foraging_AJ0-VVG
+foraging_VVG
 patterns_NN2
 develop_VVI
 in_PRP
@@ -45609,7 +45609,7 @@ on_PRP
 the_AT0
 granivorous_AJ0
 genus_NN1
-Pogonomyrmex_NN1-NP0
+Pogonomyrmex_NP0
 and_CJC
 the_AT0
 exciting_AJ0
@@ -45620,7 +45620,7 @@ colony_NN1
 foundation_NN1
 in_PRP
 Atta_NP0
-leafcutting_VVG-AJ0
+leafcutting_AJ0
 ants_NN2
 While_CJS
 I_PNP
@@ -45634,7 +45634,7 @@ World_NN1
 Perspective_NN1
 to_TO0
 the_AT0
-average_AJ0-NN1
+average_AJ0
 armchair_NN1
 naturalist_NN1
 it_PNP
@@ -45649,7 +45649,7 @@ with_PRP
 fire_NN1
 ants_NN2
 and_CJC
-leafcutting_VVG-AJ0
+leafcutting_AJ0
 ants_NN2
 especially_AV0
 in_PRP
@@ -45699,7 +45699,7 @@ and_CJC
 21_CRD
 February_NP0
 William_NP0
-Bown_NP0-NN1
+Bown_NP0
 AN_AT0
 UNUSUAL_AJ0
 performance_NN1
@@ -45756,9 +45756,9 @@ India_NP0
 that_CJT
 has_VHZ
 historically_AV0
-prized_VVN-AJ0
+prized_AJ0
 mathematics_NN1
-Self-taught_NN1-AJ0
+Self-taught_AJ0
 he_PNP
 worked_VVD
 as_CJS
@@ -45862,7 +45862,7 @@ realm_NN1
 of_PRF
 infinity_NN1
 The_AT0
-dancing_VVG
+dancing_NN1
 combines_VVZ
 the_AT0
 traditional_AJ0
@@ -45944,7 +45944,7 @@ round_AVP
 each_DT0
 other_AJ0
 sometimes_AV0
-interacting_VVG-AJ0
+interacting_VVG
 sometimes_AV0
 separate_AJ0
 Watching_VVG
@@ -45986,7 +45986,7 @@ you_PNP
 are_VBB
 rewinding_VVG
 or_CJC
-forwarding_VVG-AJ0
+forwarding_AJ0
 Ramanujan_NP0
 invoked_VVN
 the_AT0
@@ -46004,7 +46004,7 @@ is_VBZ
 echoed_VVN
 by_PRP
 the_AT0
-dancing_VVG
+dancing_NN1
 itself_PNX
 originally_AV0
 religious_AJ0
@@ -46162,7 +46162,7 @@ Maidstone_NP0
 Grammar_NN1
 School_NN1
 Kent_NP0
-Ludmilla_NP0-NN1
+Ludmilla_NP0
 Jordanova_NP0
 is_VBZ
 a_AT0
@@ -46234,7 +46234,7 @@ PLANT_NN1
 PROTECTION_NN1
 Plants_NN2
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 source_NN1
 of_PRF
 medicinal_AJ0
@@ -46263,7 +46263,7 @@ IN_PRP
 SYNTHETIC_AJ0
 CHEMICALS_NN2
 HAVE_VHB
-DEVELOPED_VVN-AJ0
+DEVELOPED_AJ0
 NATIONS_NN2
 BROKEN_VVN
 THEIR_DPS
@@ -46302,13 +46302,13 @@ MECHANISMS_NN2
 EG_AV0
 IN_PRP
 DRUG_NN1
-TESTING_NN1-VVG
+TESTING_NN1
 &_CJC
 DEVELOPMENT_NN1
 3_CRD
-CHEMICAL_AJ0-NN1
+CHEMICAL_NN1
 COMPOUNDS_NN2
-USED_VVN-VVD
+USED_VVN
 AS_CJS
 BLUEPRINTS_NN2
 FOR_PRP
@@ -46341,7 +46341,7 @@ AROUND_PRP
 PLANT-DERIVED_AJ0
 MEDICINAL_AJ0
 COMPOUNDS_NN2
-USED_VVN-VVD
+USED_VVN
 IN_PRP
 WESTERN_AJ0
 MEDICINE_NN1
@@ -46369,7 +46369,7 @@ JUST_AV0
 95_CRD
 SPECIES_NN0
 MANY_DT0
-KNOWN_VVN-AJ0
+KNOWN_AJ0
 FOR_PRP
 CENTURIES_NN2
 POISONOUS_AJ0
@@ -46377,17 +46377,17 @@ HENBANE_NN1
 SOURCE_NN1
 OF_PRF
 ALKALOIDS_NN2
-HYOSCYAMINE_VVB-NN1
+HYOSCYAMINE_NN1
 &_CJC
-HYOSCINE_NP0-NN1
+HYOSCINE_NP0
 ARE_VBB
 ACTIVE_AJ0
 ALONG_PRP
 WITH_PRP
 DEADLY_AJ0
-NIGHTSHADE_NN1-NP0
+NIGHTSHADE_NN1
 'S_POS
-ATROPINE_NN1-NP0
+ATROPINE_NP0
 AGAINST_PRP
 STOMACH_NN1
 &_CJC
@@ -46395,7 +46395,7 @@ DUODENAL_AJ0
 ULCERS_NN2
 IN_PRP
 OPHTHALMOLOGY_NN1
-TRAVEL_VVB-NN1
+TRAVEL_NN1
 SICKNESS_NN1
 PILL_NN1
 &_CJC
@@ -46420,8 +46420,8 @@ with_PRP
 catmint_NN1
 WHITE_AJ0
 WILLOW_NN1
-BARK_NN1-VVB
-USED_VVN-VVD
+BARK_VVB
+USED_VVN
 SINCE_PRP
 ANCIENT_AJ0
 TIMES_NN2
@@ -46435,19 +46435,19 @@ IN_PRP
 ITS_DPS
 ACTIVE_AJ0
 INGREDIENT_NN1
-SALICIN_NP0-NN1
+SALICIN_NP0
 WAS_VBD
-ISOLATED_VVN-AJ0
+ISOLATED_VVN
 &_CJC
 WITH_PRP
-MEADOWSWEET_NP0-NN1
+MEADOWSWEET_NN1
 'S_POS
 SIMILAR_AJ0
-SALICYLIC_AJ0-NN1
+SALICYLIC_NN1
 ACID_NN1
 PROVIDED_CJS
 THE_AT0
-CHEMICAL_AJ0-NN1
+CHEMICAL_NN1
 BLUEPRINT_NN1
 FOR_PRP
 ASPIRIN_NN0
@@ -46493,13 +46493,13 @@ CODEINE_NN1
 SOME_DT0
 SPECIES_NN0
 OF_PRF
-CLIMBING_VVG-NN1
-YAM_NN1-NP0
+CLIMBING_VVG
+YAM_NN1
 CONTAINING_VVG
 HIGH_AJ0
 LEVELS_NN2
 OF_PRF
-DIOSGENIN_NP0-NN1
+DIOSGENIN_NP0
 NOW_AV0
 MOSTLY_AV0
 SYNTHESISED_AJ0
@@ -46512,7 +46512,7 @@ BASIS_NN1
 OF_PRF
 THE_AT0
 ORAL_AJ0
-CONTRACEPTIVE_AJ0-NN1
+CONTRACEPTIVE_AJ0
 INDUSTRY_NN1
 Failing_VVG
 that_CJT
@@ -46523,7 +46523,7 @@ throw_VVI
 COTTONSEED_NP0
 OIL_NN1
 CONTAINING_VVG
-GOSSYPOL_NP0-NN1
+GOSSYPOL_NN1
 COULD_VM0
 BE_VBI
 A_AT0
@@ -46544,20 +46544,20 @@ make_VVI
 them_PNP
 take_VVI
 it_PNP
-OVER_AV0
+OVER_PRP
 100_CRD
 ALKALOIDS_NN2
 HAVE_VHB
 BEEN_VBN
-ISOLATED_VVN-AJ0
+ISOLATED_VVN
 IN_PRP
 THE_AT0
 ROSY_AJ0
-PERIWINKLE_NN1-NP0
+PERIWINKLE_NP0
 INCLUDING_PRP
-VINBLASTINE_NP0-NN1
+VINBLASTINE_NN1
 &_CJC
-VINCRISTINE_NP0-NN1
+VINCRISTINE_NP0
 SUBSTANCES_NN2
 WHICH_DTQ
 HAVE_VHB
@@ -46585,13 +46585,13 @@ of_PRF
 000_CRD
 QUININE_NN1
 THE_AT0
-CLASSIC_AJ0-NN1
+CLASSIC_NN1
 MALARIA_NN1
-REMEDY_NN1-VVB
+REMEDY_VVB
 60%_NN0
 OF_PRF
 PRODUCTION_NN1
-USED_VVN-VVD
+USED_VVN
 IN_PRP
 MEDICATION_NN1
 40%_NN0
@@ -46615,7 +46615,7 @@ A_AT0
 PREVIOUSLY_AV0
 UNDETECTED_AJ0
 SUGAR_NN1
-MIMIC_NN1-VVB
+MIMIC_VVB
 ALKALOID_NN1
 CASTASPERMINE_NP0
 WAS_VBD
@@ -46672,13 +46672,13 @@ THEM_PNP
 LEAVING_VVG
 THE_AT0
 VIRUS_NN1
-NON-INFECTIVE_AJ0-NN1
+NON-INFECTIVE_NN1
 Next_ORD
 Week_NN1
 THINGS_NN2
 THAT_CJT
 GO_VVI
-JUMP_NN1-VVB
+JUMP_NN1
 IN_PRP
 THE_AT0
 NIGHT_NN1
@@ -46703,7 +46703,7 @@ post-Copernican_AJ0
 thinking_VVG
 EVER_AV0
 since_CJS
-Copernicus_NP0-NN1
+Copernicus_NP0
 removed_VVN
 the_AT0
 Earth_NN1
@@ -46712,7 +46712,7 @@ the_AT0
 centre_NN1
 of_PRF
 the_AT0
-Solar_AJ0-NN1
+Solar_AJ0
 System_NN1
 scientists_NN2
 and_CJC
@@ -46751,7 +46751,7 @@ the_AT0
 centre_NN1
 of_PRF
 the_AT0
-Solar_AJ0-NN1
+Solar_AJ0
 System_NN1
 the_AT0
 Sun_NN1
@@ -46785,7 +46785,7 @@ years_NN2
 later_AV0
 when_CJS
 Edwin_NP0
-Hubble_NP0-NN1
+Hubble_NP0
 found_VVD
 that_CJT
 nearly_AV0
@@ -46814,7 +46814,7 @@ centre_NN1
 of_PRF
 the_AT0
 Universe_NN1
-Hubble_NP0-NN1
+Hubble_NP0
 argues_VVZ
 instead_AV0
 that_CJT
@@ -46852,7 +46852,7 @@ the_AT0
 centre_NN1
 of_PRF
 the_AT0
-Solar_AJ0-NN1
+Solar_AJ0
 System_NN1
 or_CJC
 the_AT0
@@ -46930,7 +46930,7 @@ ways_NN2
 far_AV0
 above_PRP
 the_AT0
-average_AJ0-NN1
+average_AJ0
 Take_VVB
 the_AT0
 Sun_NN1
@@ -46961,7 +46961,7 @@ calls_VVZ
 the_AT0
 Sun_NN1
 an_AT0
-average_AJ0-NN1
+average_AJ0
 star_NN1
 Science_NN1
 popularisers_NN2
@@ -47057,7 +47057,7 @@ the_AT0
 Galaxy_NN1
 Nothing_PNI
 very_AV0
-average_AJ0-NN1
+average_AJ0
 or_CJC
 run-of-the-mill_AJ0
 or_CJC
@@ -47173,7 +47173,7 @@ the_AT0
 Sun_NN1
 is_VBZ
 hardly_AV0
-average_AJ0-NN1
+average_AJ0
 And_CJC
 neither_AV0
 is_VBZ
@@ -47238,8 +47238,8 @@ only_AV0
 one_CRD
 the_AT0
 giant_AJ0
-spiral_AJ0-NN1
-Andromeda_NP0-NN1
+spiral_NN1
+Andromeda_NP0
 is_VBZ
 bigger_AJC
 than_CJS
@@ -47255,7 +47255,7 @@ our_DPS
 Galaxy_NN1
 is_VBZ
 an_AT0
-average_AJ0-NN1
+average_AJ0
 representative_NN1
 of_PRF
 its_DPS
@@ -47333,13 +47333,13 @@ our_DPS
 Sun_NN1
 is_VBZ
 above_PRP
-average_AJ0-NN1
+average_AJ0
 and_CJC
 our_DPS
 Galaxy_NN1
 is_VBZ
 above_PRP
-average_AJ0-NN1
+average_AJ0
 why_AVQ
 ca_VM0
 n't_XX0
@@ -47347,7 +47347,7 @@ our_DPS
 planet_NN1
 be_VBI
 above_PRP
-average_AJ0-NN1
+average_AJ0
 too_AV0
 Maybe_AV0
 the_AT0
@@ -47474,7 +47474,7 @@ the_AT0
 suburbs_NN2
 anyway_AV0
 The_AT0
-Ppound_NN1-NP0
+Ppound_NN1
 in_PRP
 your_DPS
 pocket_NN1
@@ -47594,7 +47594,7 @@ at_PRP
 Ten_CRD
 with_PRP
 your_DPS
-now-sensitised_AJ0-NN1
+now-sensitised_AJ0
 ears_NN2
 you_PNP
 'll_VM0
@@ -47680,7 +47680,7 @@ ears_NN2
 with_PRP
 an_AT0
 audible_AJ0
-splat_NN1-VVB
+splat_NN1
 Testing_NN1
 again_AV0
 My_DPS
@@ -47695,15 +47695,15 @@ trade_NN1
 balance_NN1
 is_VBZ
 One_CRD
-BILL_NP0-NN1
-ION_NN1-NP0
+BILL_NP0
+ION_NN1
 Pounds_NN2
 in_PRP
 the_AT0
 red_AJ0
 pronounced_AJ0
 bill_NN1
--yun_NN1-AJ0
+-yun_NN1
 with_PRP
 a_AT0
 strange_AJ0
@@ -47720,7 +47720,7 @@ Leslie_NP0
 Crowther_NP0
 A_AT0
 bill_NN1
--yun_NN1-AJ0
+-yun_NN1
 pounds_NN2
 come_VVI
 on_PRP
@@ -47730,7 +47730,7 @@ effects_NN2
 are_VBB
 inadequate_AJ0
 The_AT0
-sing-song_NN1-AJ0
+sing-song_NN1
 voice_NN1
 the_AT0
 perverse_AJ0
@@ -47797,7 +47797,7 @@ mean_VVI
 anything_PNI
 do_VDB
 they_PNP
-Zillion_NN1-NP0
+Zillion_NP0
 would_VM0
 do_VDB
 equally_AV0
@@ -47851,7 +47851,7 @@ an_AT0
 additional_AJ0
 FIFTY_CRD
 MILL_NN1
-ION_NN1-NP0
+ION_NN1
 Pounds_NN2
 Friends_NN2
 if_CJS
@@ -47956,12 +47956,12 @@ the_AT0
 concept_NN1
 of_PRF
 the_AT0
-Ppound_NN1-NP0
+Ppound_NN1
 One_CRD
-Ppound_NN1-NP0
+Ppound_NN1
 Personal_AJ0
 pound_NN1
-symbolised_VVD-VVN
+symbolised_VVN
 by_PRP
 P\xc2\xa3_UNC
 is_VBZ
@@ -48005,7 +48005,7 @@ is_VBZ
 a_AT0
 derivative_NN1
 the_AT0
-Ppenny_NP0-NN1
+Ppenny_NP0
 Pp_NN1
 which_DTQ
 is_VBZ
@@ -48023,16 +48023,16 @@ the_AT0
 invention_NN1
 of_PRF
 the_AT0
-Pecu_NN1-NP0
+Pecu_NN1
 the_AT0
 Personal_AJ0
 European_AJ0
 Currency_NN1
 Unit_NN1
 Coincidentally_AV0
-p\xc3\xa9cule_NN1-VVB
+p\xc3\xa9cule_NN1
 is_VBZ
-French_AJ0-NN1
+French_AJ0
 for_PRP
 savings_NN2
 You_PNP
@@ -48044,7 +48044,7 @@ pecuniary_AJ0
 value_NN1
 of_PRF
 one_CRD
-Pecu_NN1-NP0
+Pecu_NN1
 as_CJS
 an_AT0
 exercise_NN1
@@ -48071,7 +48071,7 @@ a_AT0
 sum_NN1
 of_PRF
 one_CRD
-Ppound_NN1-NP0
+Ppound_NN1
 in_PRP
 the_AT0
 same_DT0
@@ -48085,7 +48085,7 @@ ordinary_AJ0
 pound_NN1
 After_PRP
 all_DT0
-spread_NN1
+spread_VVN
 around_PRP
 that_CJT
 's_POS
@@ -48121,7 +48121,7 @@ earth_NN1
 The_AT0
 fabulous_AJ0
 MILL_NN1
-ION_NN1-NP0
+ION_NN1
 becomes_VVZ
 a_AT0
 paltry_AJ0
@@ -48134,8 +48134,8 @@ equal_AJ0
 because_CJS
 equally_AV0
 incomprehensible_AJ0
-BILL_NP0-NN1
-ION_NN1-NP0
+BILL_NP0
+ION_NN1
 becomes_VVZ
 one_CRD
 thousand_CRD
@@ -48289,7 +48289,7 @@ than_CJS
 a_AT0
 mortgage_NN1
 The_AT0
-Public_AJ0-NN1
+Public_AJ0
 Sector_NN1
 Borrowing_VVG
 Requirement_NN1
@@ -48457,7 +48457,7 @@ be_VBI
 bailed_VVN
 out_AVP
 thus_AV0
-Saving_NN1-VVG
+Saving_VVG
 British_AJ0
 Science_NN1
 for_PRP
@@ -48543,7 +48543,7 @@ high-speed_AJ0
 rail_NN1
 link_NN1
 The_AT0
-much-publicised_AJ0-NN1
+much-publicised_AJ0
 government_NN1
 bungle_VVB
 over_PRP
@@ -48614,7 +48614,7 @@ never_AV0
 really_AV0
 worth_PRP
 the_AT0
-saving_NN1
+saving_VVG
 in_PRP
 the_AT0
 first_ORD
@@ -48625,7 +48625,7 @@ let_VVB
 the_AT0
 lawn_NN1
 grow_VVI
-knee-deep_AV0-AJ0
+knee-deep_AV0
 ignore_VVI
 the_AT0
 leaky_AJ0
@@ -48680,7 +48680,7 @@ European_AJ0
 Space_NN1
 Centre_NN1
 in_PRP
-French_AJ0-NN1
+French_AJ0
 Guiana_NP0
 to_TO0
 put_VVI
@@ -48786,7 +48786,7 @@ satellites_NN2
 will_VM0
 let_VVB
 Astra_NP0
-broadcast_VVN
+broadcast_NN1
 48_CRD
 channels_NN2
 from_PRP
@@ -48849,7 +48849,7 @@ marketplace_NN1
 for_PRP
 two_CRD
 directly_AV0
-competing_VVG-AJ0
+competing_AJ0
 but_CJC
 incompatible_AJ0
 systems_NN2
@@ -48905,7 +48905,7 @@ can_VM0
 be_VBI
 used_VVN
 to_TO0
-broadcast_VVN
+broadcast_NN1
 wide-screen_AJ0
 pictures_NN2
 for_PRP
@@ -48959,7 +48959,7 @@ are_VBB
 in_PRP
 the_AT0
 new_AJ0
-MAC_NP0-NN1
+MAC_NN1
 system_NN1
 which_DTQ
 gives_VVZ
@@ -48970,7 +48970,7 @@ digital_AJ0
 sound_NN1
 Most_DT0
 importantly_AV0
-MAC_NP0-NN1
+MAC_NN1
 was_VBD
 engineered_VVN
 from_PRP
@@ -48988,7 +48988,7 @@ and_CJC
 wide-screen_AJ0
 TV_NN1
 With_PRP
-MAC_NP0-NN1
+MAC_NN1
 viewers_NN2
 with_PRP
 conventionally_AV0
@@ -49038,7 +49038,7 @@ Thomson_NP0
 of_PRF
 France_NP0
 were_VBD
-scheduled_VVN-AJ0
+scheduled_VVN
 to_TO0
 go_VVI
 on_PRP
@@ -49050,7 +49050,7 @@ on_PRP
 February_NP0
 They_PNP
 receive_VVI
-MAC_NP0-NN1
+MAC_NN1
 transmissions_NN2
 from_PRP
 France_NP0
@@ -49118,7 +49118,7 @@ broadcasting_NN1
 the_AT0
 end_NN1
 of_PRF
-MAC_NP0-NN1
+MAC_NN1
 in_PRP
 Britain_NP0
 and_CJC
@@ -49145,7 +49145,7 @@ manufacturers_NN2
 of_PRF
 BSB_NP0
 's_POS
-MAC_NP0-NN1
+MAC_NN1
 receivers_NN2
 the_AT0
 traders_NN2
@@ -49171,7 +49171,7 @@ the_AT0
 whole_AJ0
 business_NN1
 of_PRF
-MAC_NP0-NN1
+MAC_NN1
 Marcopolo_NP0
 and_CJC
 31\xc2\xb0_NN0
@@ -49218,7 +49218,7 @@ worth_PRP
 nearly_AV0
 \xc2\xa3400_NN0
 are_VBB
-gathering_NN1
+gathering_VVG
 dust_NN1
 in_PRP
 stockrooms_NN2
@@ -49280,7 +49280,7 @@ limited_AJ0
 reassurance_NN1
 from_PRP
 the_AT0
-Independent_AJ0
+Independent_NN1
 Television_NN1
 Commission_NN1
 that_CJT
@@ -49314,13 +49314,13 @@ in_PRP
 providing_VVG
 a_AT0
 new_AJ0
-broad-appeal_AJ0-NN1
+broad-appeal_AJ0
 service_NN1
 in_PRP
-MAC_NP0-NN1
+MAC_NN1
 from_PRP
 Marcopolo_NP0
-Worthy_NN1-AJ0
+Worthy_AJ0
 talk_VVI
 of_PRF
 ethnic_AJ0
@@ -49340,7 +49340,7 @@ only_AV0
 real_AJ0
 hope_VVB
 for_PRP
-MAC_NP0-NN1
+MAC_NN1
 is_VBZ
 for_PRP
 Rupert_NP0
@@ -49374,7 +49374,7 @@ Astra_NP0
 simultaneously_AV0
 available_AJ0
 in_PRP
-MAC_NP0-NN1
+MAC_NN1
 from_PRP
 Marcopolo_NP0
 The_AT0
@@ -49426,14 +49426,14 @@ won_VVD
 the_AT0
 contract_NN1
 to_TO0
-broadcast_VVN
+broadcast_NN1
 from_PRP
 31\xc2\xb0_NN0
 West_NP0
 signed_VVN
 to_TO0
 use_NN1
-MAC_NP0-NN1
+MAC_NN1
 These_DT0
 companies_NN2
 could_VM0
@@ -49450,7 +49450,7 @@ BSB_NP0
 previously_AV0
 offered_VVN
 The_AT0
-MAC_NP0-NN1
+MAC_NN1
 system_NN1
 was_VBD
 designed_VVN
@@ -49506,7 +49506,7 @@ and_CJC
 trade_NN1
 distrust_NN1
 of_PRF
-MAC_NP0-NN1
+MAC_NN1
 and_CJC
 Marcopolo_NP0
 by_PRP
@@ -49523,7 +49523,7 @@ with_PRP
 the_AT0
 bonus_NN1
 of_PRF
-improved_AJ0
+improved_VVN
 picture_NN1
 and_CJC
 sound_NN1
@@ -49579,7 +49579,7 @@ the_AT0
 signal_NN1
 was_VBD
 in_PRP
-MAC_NP0-NN1
+MAC_NN1
 instead_AV0
 of_PRF
 PAL_NN1
@@ -49602,8 +49602,8 @@ Rupert_NP0
 Murdoch_NP0
 and_CJC
 BSkyB_NP0
-act_VVI
-fast_AV0-AJ0
+act_NN1
+fast_AJ0
 to_TO0
 compensate_VVI
 the_AT0
@@ -49645,7 +49645,7 @@ a_AT0
 second_ORD
 chance_NN1
 on_PRP
-MAC_NP0-NN1
+MAC_NN1
 wide-screen_AJ0
 and_CJC
 HDTV_NP0
@@ -49672,7 +49672,7 @@ taken_VVN
 whether_CJS
 to_TO0
 use_NN1
-MAC_NP0-NN1
+MAC_NN1
 or_CJC
 stretched_VVD
 PAL_NN1
@@ -49689,7 +49689,7 @@ service_NN1
 from_PRP
 Marcopolo_NP0
 in_PRP
-MAC_NP0-NN1
+MAC_NN1
 would_VM0
 give_VVI
 the_AT0
@@ -49702,7 +49702,7 @@ incentive_NN1
 to_TO0
 continue_VVI
 developing_VVG
-MAC_NP0-NN1
+MAC_NN1
 technology_NN1
 and_CJC
 the_AT0
@@ -49715,7 +49715,7 @@ depends_VVZ
 The_AT0
 rise_NN1
 and_CJC
-fall_VVI
+fall_NN1
 of_PRF
 the_AT0
 British_AJ0
@@ -49813,7 +49813,7 @@ encroachment_NN1
 of_PRF
 reed_NN1
 and_CJC
-sedge_NN1-VVB
+sedge_NN1
 alder_NN1
 and_CJC
 willow_NN1
@@ -49861,7 +49861,7 @@ table_NN1
 there_EX0
 was_VBD
 a_AT0
-switch_VVI
+switch_NN1
 to_TO0
 acid_NN1
 bog_NN1
@@ -49885,7 +49885,7 @@ the_AT0
 peat_NN1
 surface_NN1
 the_AT0
-acid-loving_AJ0-NN1
+acid-loving_AJ0
 sphagnum_NN1
 began_VVD
 to_TO0
@@ -50314,7 +50314,7 @@ greater_AJC
 delicacy_NN1
 than_CJS
 the_AT0
-present_AJ0-NN1
+present_AJ0
 JCBs_NP0
 can_VM0
 offer_VVI
@@ -50371,7 +50371,7 @@ reorganisation_NN1
 of_PRF
 the_AT0
 Nature_NN1
-Conservancy_NN1-NP0
+Conservancy_NN1
 Council_NN1
 which_DTQ
 was_VBD
@@ -50411,7 +50411,7 @@ for_PRP
 all_DT0
 archaeological_AJ0
 survey_NN1
-conservation_AJ0-NN1
+conservation_NN1
 and_CJC
 management_NN1
 All_DT0
@@ -50471,7 +50471,7 @@ they_PNP
 were_VBD
 n't_XX0
 warned_VVD
-Comment_VVB-NN1
+Comment_NN1
 from_PRP
 Westminster_NP0
 by_PRP
@@ -50484,7 +50484,7 @@ so_AV0
 is_VBZ
 the_AT0
 least_AV0
-edifying_AJ0-VVG
+edifying_AJ0
 of_PRF
 attitudes_NN2
 between_PRP
@@ -50530,7 +50530,7 @@ the_AT0
 waters_NN2
 of_PRF
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 If_CJS
 I_PNP
 regurgitate_VVB
@@ -50606,12 +50606,12 @@ be_VBI
 going_VVG
 to_TO0
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 how_AVQ
 many_DT0
 people_NN0
 were_VBD
-involved_AJ0
+involved_VVN
 and_CJC
 what_DTQ
 experience_NN1
@@ -50648,7 +50648,7 @@ already_AV0
 exist_VVI
 in_PRP
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 area_NN1
 as_CJS
 a_AT0
@@ -50762,7 +50762,7 @@ there_EX0
 are_VBB
 in_PRP
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 both_AV0
 the_AT0
 largest_AJS
@@ -50833,7 +50833,7 @@ spills_VVZ
 including_PRP
 in_PRP
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 Too_AV0
 little_AJ0
 too_AV0
@@ -50873,7 +50873,7 @@ hard_AJ0
 work_NN1
 to_TO0
 be_VBI
-chief_AJ0-NN1
+chief_NN1
 metallurgist_NN1
 of_PRF
 the_AT0
@@ -50884,14 +50884,14 @@ and_CJC
 chairman_NN1
 of_PRF
 British_AJ0
-Steel_NN1-NP0
+Steel_NP0
 Ministers_NN2
 with_PRP
 whom_PNQ
 he_PNP
 dealt_VVN
 have_VHB
-varying_AJ0-VVG
+varying_AJ0
 views_NN2
 of_PRF
 this_DT0
@@ -50914,7 +50914,7 @@ qualified_AJ0
 admirer_NN1
 Yet_AV0
 his_DPS
-drive_VVI
+drive_NN1
 and_CJC
 energy_NN1
 for_PRP
@@ -50932,12 +50932,12 @@ acrimonious_AJ0
 meeting_NN1
 of_PRF
 British_AJ0
-Steel_NN1-NP0
+Steel_NP0
 where_AVQ
 he_PNP
 was_VBD
 much_DT0
-name-called_NN1-AJ0
+name-called_AJ0
 for_PRP
 closures_NN2
 Well_AV0
@@ -51004,7 +51004,7 @@ the_AT0
 talk_VVI
 about_PRP
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 it_PNP
 has_VHZ
 passed_VVN
@@ -51132,7 +51132,7 @@ oil_NN1
 fires_NN2
 in_PRP
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 Ken_NP0
 Croswell_NP0
 is_VBZ
@@ -51312,18 +51312,18 @@ winner_NN1
 of_PRF
 Enigma_NN1
 597_CRD
-Break-uprithmetic_AJ0-NN1
+Break-uprithmetic_AJ0
 was_VBD
 J._NP0
 Hayes_NP0
 of_PRF
 Reading_NP0
 Berkshire_NP0
-Answer_VVB-NN1
+Answer_VVB
 to_TO0
 Enigma_NN1
 597_CRD
-Break-uprithmetic_AJ0-NN1
+Break-uprithmetic_AJ0
 Enigma_NN1
 595c_UNC
 Sharp-eyed_AJ0
@@ -51420,7 +51420,7 @@ was_VBD
 quoted_VVN
 in_PRP
 the_AT0
-Independent_AJ0
+Independent_NN1
 on_PRP
 Sunday_NP0
 as_CJS
@@ -51495,7 +51495,7 @@ telephone_NN1
 service_NN1
 Just_AV0
 dial_NN1
-HOL_NN1-NP0
+HOL_NN1
 3434_CRD
 and_CJC
 you_PNP
@@ -51516,7 +51516,7 @@ Said_VVD
 Dr_NP0
 J._NP0
 S._NP0
-Farquharson_NP0-NN1
+Farquharson_NP0
 of_PRF
 the_AT0
 Weather_NN1
@@ -51560,7 +51560,7 @@ streets_NN2
 the_AT0
 rain_NN1
 will_VM0
-fall_VVI
+fall_NN1
 in_PRP
 showery_AJ0
 weather_NN1
@@ -51645,7 +51645,7 @@ the_AT0
 committee_NN1
 's_POS
 headed_VVN
-notepaper_NN1-VVB
+notepaper_NN1
 And_CJC
 just_AV0
 in_PRP
@@ -51778,8 +51778,8 @@ million_CRD
 for_PRP
 a_AT0
 Large_AJ0
-Hadron_NN1-NP0
-Collider_NN1-NP0
+Hadron_NN1
+Collider_NN1
 there_EX0
 One_CRD
 of_PRF
@@ -51806,7 +51806,7 @@ as_CJS
 the_AT0
 LEP_NN1
 thus_AV0
-saving_NN1
+saving_VVG
 massively_AV0
 on_PRP
 the_AT0
@@ -51858,10 +51858,10 @@ begging_VVG
 bowl_NN1
 for_PRP
 the_AT0
-VEC_NN1-NP0
+VEC_NN1
 Very_AV0
 Expensive_AJ0
-Collider_NN1-NP0
+Collider_NN1
 MEANWHILE_AV0
 the_AT0
 bureaucrats_NN2
@@ -51895,7 +51895,7 @@ NIMBY_NN1
 they_PNP
 reply_NN1
 soothingly_AV0
-NIMTOO_NP0-NN1
+NIMTOO_NP0
 Apparently_AV0
 it_PNP
 stands_VVZ
@@ -51933,7 +51933,7 @@ the_AT0
 future_NN1
 in_PRP
 our_DPS
-day-care_AJ0-NN1
+day-care_AJ0
 centre_NN1
 The_AT0
 company_NN1
@@ -52039,7 +52039,7 @@ the_AT0
 islands_NN2
 of_PRF
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 CONGRATULATIONS_NN2
 to_TO0
 the_AT0
@@ -52099,7 +52099,7 @@ of_PRF
 the_AT0
 dangers_NN2
 of_PRF
-Chlamydia_NN1-NP0
+Chlamydia_NP0
 psittaci_NN2
 an_AT0
 organism_NN1
@@ -52113,7 +52113,7 @@ pregnant_AJ0
 ewes_NN2
 to_TO0
 abort_VVI
-Expectant_AJ0-NN1
+Expectant_AJ0
 mothers_NN2
 who_PNQ
 come_VVI
@@ -52156,7 +52156,7 @@ to_TO0
 pregnant_AJ0
 women_NN2
 during_PRP
-lambing_NN1-AJ0
+lambing_AJ0
 periods_NN2
 COMPETITION_NN1
 time_NN1
@@ -52255,7 +52255,7 @@ idea_NN1
 of_PRF
 the_AT0
 creature_NN1
-involved_AJ0
+involved_VVN
 ARIADNE_NP0
 TWO_CRD
 researchers_NN2
@@ -52421,7 +52421,7 @@ potato_NN1
 onion_NN1
 carrot_NN1
 and_CJC
-aubergine_NN1-VVB
+aubergine_NN1
 but_CJC
 interestingly_AV0
 as_CJS
@@ -52635,7 +52635,7 @@ for_PRP
 the_AT0
 enclosed_AJ0
 green_AJ0
-Wallet_NN1-NP0
+Wallet_NP0
 now_AV0
 and_CJC
 four_CRD
@@ -52774,7 +52774,7 @@ is_VBZ
 in_PRP
 fact_NN1
 the_AT0
-English_AJ0-NN1
+English_AJ0
 language_NN1
 and_CJC
 knowing_VVG
@@ -52831,7 +52831,7 @@ that_CJT
 in_PRP
 n_XX0
 it_PNP
-Noter_NN1-NP0
+Noter_NN1
 mean_VVI
 NEVER_AV0
 before_PRP
@@ -52940,7 +52940,7 @@ and_CJC
 a_AT0
 tendency_NN1
 to_TO0
-hop_VVI
+hop_NN1
 about_PRP
 the_AT0
 place_NN1
@@ -52954,7 +52954,7 @@ as_CJS
 a_AT0
 case_NN1
 of_PRF
-galloping_VVG-AJ0
+galloping_AJ0
 boggle_VVB
 For_PRP
 once_AV0
@@ -52983,7 +52983,7 @@ riveting_AJ0
 as_CJS
 those_DT0
 in_PRP
-English_AJ0-NN1
+English_AJ0
 ones_NN2
 You_PNP
 can_VM0
@@ -53000,7 +53000,7 @@ York_NP0
 and_CJC
 a_AT0
 Resource_NN1
-Guide_NN1-VVB
+Guide_NN1
 for_PRP
 the_AT0
 Responsible_AJ0
@@ -53089,7 +53089,7 @@ is_VBZ
 the_AT0
 advice_NN1
 from_PRP
-Wildwood_NP0-NN1
+Wildwood_NP0
 NJ_NP0
 Relocation_NN1
 astrology_NN1
@@ -53162,7 +53162,7 @@ name_NN1
 Another_DT0
 and_CJC
 widely_AV0
-spread_NN1
+spread_VVN
 practice_NN1
 is_VBZ
 for_PRP
@@ -53200,7 +53200,7 @@ Cooper_NP0
 's_POS
 novel_NN1
 The_AT0
-Struggles_NN2-VVZ
+Struggles_NN2
 of_PRF
 Albert_NP0
 Woods_NP0

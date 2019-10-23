@@ -114,7 +114,7 @@ or_CJC
 more_AV0
 You_PNP
 would_VM0
-laugh_VVI
+laugh_NN1
 knowing_VVG
 that_CJT
 the_AT0
@@ -133,7 +133,7 @@ might_VM0
 be_VBI
 careful_AJ0
 to_TO0
-plumb_VVI
+plumb_NN1
 that_CJT
 machine_NN1
 in_PRP
@@ -207,7 +207,7 @@ we_PNP
 overload_NN1
 it_PNP
 and_CJC
-mistreat_VVI
+mistreat_VVB
 it_PNP
 and_CJC
 yet_AV0
@@ -338,7 +338,7 @@ had_VHD
 some_DT0
 sort_NN1
 of_PRF
-ache_VVI
+ache_NN1
 or_CJC
 pain_NN1
 or_CJC
@@ -373,7 +373,7 @@ that_CJT
 we_PNP
 do_VDB
 not_XX0
-feel_VVI
+feel_VVB
 as_CJS
 well_AV0
 as_CJS
@@ -420,7 +420,7 @@ possible_AJ0
 Once_AV0
 you_PNP
 have_VHB
-assured_VVD
+assured_VVN
 yourself_PNX
 that_CJT
 you_PNP
@@ -444,7 +444,7 @@ causes_NN2
 if_CJS
 you_PNP
 still_AV0
-feel_VVI
+feel_VVB
 generally_AV0
 unfit_AJ0
 or_CJC
@@ -453,7 +453,7 @@ a_AT0
 zest_NN1
 for_PRP
 life_NN1
-EATING_NN1-VVG
+EATING_NN1
 AND_CJC
 NUTRITION_NN1
 There_EX0
@@ -532,7 +532,7 @@ has_VHZ
 had_VHD
 enough_AV0
 and_CJC
-walk_VVI
+walk_NN1
 away_AV0
 from_PRP
 the_AT0
@@ -556,7 +556,7 @@ humans_NN2
 who_PNQ
 take_VVI
 more_AV0
-notice_VVI
+notice_NN1
 of_PRF
 the_AT0
 time_NN1
@@ -1204,7 +1204,7 @@ many_DT0
 people_NN0
 you_PNP
 simply_AV0
-feel_VVI
+feel_VVB
 that_CJT
 you_PNP
 are_VBB
@@ -1396,7 +1396,7 @@ sensation_NN1
 of_PRF
 eating_VVG
 I_PNP
-feel_VVI
+feel_VVB
 miserable_AJ0
 We_PNP
 're_VBB
@@ -1414,8 +1414,8 @@ have_VHB
 something_PNI
 special_AJ0
 I_PNP
-feel_VVI
-deprived_AJ0
+feel_VVB
+deprived_VVN
 if_CJS
 I_PNP
 ca_VM0
@@ -1436,7 +1436,7 @@ between_PRP
 being_VBG
 hungry_AJ0
 and_CJC
-wanting_VVG-AJ0
+wanting_VVG
 food_NN1
 I_PNP
 'm_VBB
@@ -1558,7 +1558,7 @@ Annette_NP0
 was_VBD
 a_AT0
 typical_AJ0
-worry-eater_NN1-AJ0
+worry-eater_NN1
 If_CJS
 her_DPS
 husband_NN1
@@ -1650,7 +1650,7 @@ not_XX0
 been_VBN
 too_AV0
 badly_AV0
-hurt_VVI
+hurt_VVN
 but_CJC
 he_PNP
 did_VDD
@@ -1900,7 +1900,7 @@ within_PRP
 her_DPS
 Once_AV0
 a_AT0
-worry-eater_NN1-AJ0
+worry-eater_NN1
 usually_AV0
 a_AT0
 woman_NN1
@@ -2021,7 +2021,7 @@ we_PNP
 do_VDB
 not_XX0
 even_AV0
-notice_VVI
+notice_NN1
 what_DTQ
 it_PNP
 tastes_NN2
@@ -2134,7 +2134,7 @@ you_PNP
 even_AV0
 think_VVB
 of_PRF
-tasting_VVG-AJ0
+tasting_VVG
 it_PNP
 pick_VVI
 it_PNP
@@ -2153,7 +2153,7 @@ smells_NN2
 Take_VVB
 a_AT0
 small_AJ0
-bite_VVI
+bite_NN1
 and_CJC
 think_VVB
 about_PRP
@@ -2187,7 +2187,7 @@ you_PNP
 swallow_VVI
 it_PNP
 6_CRD
-Pause_NN1-VVB
+Pause_NN1
 for_PRP
 a_AT0
 few_DT0
@@ -2468,7 +2468,7 @@ your_DPS
 mother_NN1
 told_VVD
 you_PNP
-Finishing_VVG-AJ0
+Finishing_VVG
 every_AT0
 last_ORD
 morsel_NN1
@@ -2567,7 +2567,7 @@ need_VVB
 for_PRP
 us_PNP
 to_TO0
-act_VVI
+act_NN1
 like_PRP
 hedgehogs_NN2
 eating_VVG
@@ -2641,10 +2641,10 @@ may_VM0
 even_AV0
 have_VHB
 been_VBN
-deprived_AJ0
+deprived_VVN
 of_PRF
 your_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 goodies_NN2
 as_CJS
 a_AT0
@@ -2659,7 +2659,7 @@ is_VBZ
 stored_VVN
 in_PRP
 the_AT0
-subconscious_AJ0-NN1
+subconscious_NN1
 memory_NN1
 and_CJC
 the_AT0
@@ -2764,7 +2764,7 @@ of_PRF
 sweets_NN2
 hot-dogs_NN2
 or_CJC
-popcorn_NN1-VVB
+popcorn_NN1
 They_PNP
 are_VBB
 not_XX0
@@ -2884,7 +2884,7 @@ enjoy_VVI
 a_AT0
 bag_NN1
 of_PRF
-popcorn_NN1-VVB
+popcorn_NN1
 when_CJS
 you_PNP
 go_VVI
@@ -2941,7 +2941,7 @@ stress_NN1
 or_CJC
 if_CJS
 we_PNP
-feel_VVI
+feel_VVB
 that_CJT
 we_PNP
 need_VVB
@@ -2984,7 +2984,7 @@ contain_VVB
 caffeine_NN1
 and_CJC
 other_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 stimulants_NN2
 which_DTQ
 are_VBB
@@ -2995,7 +2995,7 @@ the_AT0
 bloodstream_NN1
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 that_CJT
 you_PNP
 want_VVB
@@ -3110,7 +3110,7 @@ completely_AV0
 in_PRP
 one_CRD
 fell_VVD
-swoop_VVI
+swoop_NN1
 Such_DT0
 symptoms_NN2
 are_VBB
@@ -3143,7 +3143,7 @@ people_NN0
 alcohol_NN1
 does_VDZ
 not_XX0
-present_AJ0-NN1
+present_AJ0
 too_AV0
 great_AJ0
 a_AT0
@@ -3423,7 +3423,7 @@ you_PNP
 ever_AV0
 forgive_VVI
 yourself_PNX
-Picture_NN1-VVB
+Picture_NN1
 the_AT0
 surface_NN1
 of_PRF
@@ -3477,7 +3477,7 @@ lorry_NN1
 after_PRP
 another_DT0
 to_TO0
-drive_VVI
+drive_NN1
 along_AVP
 That_DT0
 road_NN1
@@ -3657,7 +3657,7 @@ them_PNP
 I_PNP
 do_VDB
 not_XX0
-feel_VVI
+feel_VVB
 equal_AJ0
 sympathy_NN1
 for_PRP
@@ -3864,7 +3864,7 @@ to_TO0
 you_PNP
 ACTIVITY_NN1
 AND_CJC
-EXERCISE_NN1-VVB
+EXERCISE_VVB
 How_AVQ
 our_DPS
 lives_NN2
@@ -3919,7 +3919,7 @@ and_CJC
 partly_AV0
 because_CJS
 of_PRF
-increased_AJ0
+increased_VVN
 affluence_NN1
 many_DT0
 children_NN2
@@ -4013,7 +4013,7 @@ and_CJC
 even_AV0
 an_AT0
 electronic_AJ0
-handset_NN1-VVB
+handset_VVB
 to_TO0
 save_VVI
 them_PNP
@@ -4123,7 +4123,7 @@ craze_NN1
 whether_CJS
 it_PNP
 is_VBZ
-jogging_VVG-NN1
+jogging_NN1
 aerobics_NN2
 or_CJC
 weight_NN1
@@ -4186,7 +4186,7 @@ could_VM0
 go_VVI
 for_PRP
 a_AT0
-walk_VVI
+walk_NN1
 each_DT0
 day_NN1
 with_PRP
@@ -4384,7 +4384,7 @@ however_AV0
 full_AJ0
 busy_AJ0
 or_CJC
-stressed_VVD
+stressed_VVN
 your_DPS
 life_NN1
 may_VM0
@@ -4401,7 +4401,7 @@ counteracting_VVG
 the_AT0
 tension_NN1
 caused_VVN
-Exercise_VVB-NN1
+Exercise_VVB
 also_AV0
 reduces_VVZ
 the_AT0
@@ -4555,7 +4555,7 @@ to_TO0
 get_VVI
 up_AVP
 and_CJC
-walk_VVI
+walk_NN1
 again_AV0
 That_DT0
 may_VM0
@@ -4610,7 +4610,7 @@ a_AT0
 form_NN1
 of_PRF
 mobile_AJ0
-weight-training_AJ0-NN1
+weight-training_NN1
 apparatus_NN1
 to_TO0
 old_AJ0
@@ -4644,10 +4644,10 @@ in_PRP
 wheelchairs_NN2
 unable_AJ0
 to_TO0
-walk_VVI
+walk_NN1
 at_PRP
 all_DT0
-Starting_VVG-NN1
+Starting_VVG
 very_AV0
 gradually_AV0
 they_PNP
@@ -4694,7 +4694,7 @@ their_DPS
 physical_AJ0
 strength_NN1
 has_VHZ
-improved_AJ0
+improved_VVN
 considerably_AV0
 Indeed_AV0
 one_CRD
@@ -4715,7 +4715,7 @@ presenter_NN1
 I_PNP
 can_VM0
 now_AV0
-walk_VVI
+walk_NN1
 faster_AV0
 than_CJS
 my_DPS
@@ -4729,7 +4729,7 @@ Lose_VVB
 weight_NN1
 or_CJC
 inches_NN2
-Exercise_VVB-NN1
+Exercise_VVB
 alone_AJ0
 is_VBZ
 unlikely_AJ0
@@ -4818,7 +4818,7 @@ you_PNP
 that_CJT
 they_PNP
 always_AV0
-feel_VVI
+feel_VVB
 exhilarated_AJ0
 at_PRP
 the_AT0
@@ -4951,7 +4951,7 @@ high_AJ0
 level_NN1
 of_PRF
 stress_NN1
-Increase_VVI
+Increase_VVB
 your_DPS
 mental_AJ0
 ability_NN1
@@ -5043,7 +5043,7 @@ may_VM0
 simply_AV0
 decide_VVI
 to_TO0
-walk_VVI
+walk_NN1
 to_TO0
 work_NN1
 instead_AV0
@@ -5242,7 +5242,7 @@ regular_AJ0
 exercise_NN1
 routine_NN1
 2_CRD
-Start_VVB-NN1
+Start_NN1
 slowly_AV0
 When_CJS
 the_AT0
@@ -5271,7 +5271,7 @@ aerobics_NN2
 weight_NN1
 training_NN1
 or_CJC
-jogging_VVG-NN1
+jogging_NN1
 with_PRP
 the_AT0
 result_NN1
@@ -5311,7 +5311,7 @@ a_AT0
 gentle_AJ0
 stretching_VVG
 and_CJC
-warming-up_NN1-AJ0
+warming-up_NN1
 routine_NN1
 Even_AV0
 when_CJS
@@ -5363,7 +5363,7 @@ or_CJC
 leave_VVI
 you_PNP
 feeling_NN1
-exhausted_VVN-AJ0
+exhausted_VVN
 If_CJS
 you_PNP
 find_VVI
@@ -5385,7 +5385,7 @@ it_PNP
 4_CRD
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 any_DT0
 pain_NN1
 or_CJC
@@ -5516,7 +5516,7 @@ and_CJC
 mental_AJ0
 well-being_NN1
 8_CRD
-Exercise_VVB-NN1
+Exercise_VVB
 for_PRP
 yourself_PNX
 rather_AV0
@@ -5574,7 +5574,7 @@ body_NN1
 allow_VVI
 yourself_PNX
 to_TO0
-feel_VVI
+feel_VVB
 joy_NN1
 in_PRP
 your_DPS
@@ -5584,7 +5584,7 @@ without_PRP
 always_AV0
 having_VHG
 to_TO0
-feel_VVI
+feel_VVB
 that_CJT
 it_PNP
 must_VM0
@@ -5720,7 +5720,7 @@ by_PRP
 the_AT0
 competitive_AJ0
 element_NN1
-involved_AJ0
+involved_VVN
 they_PNP
 relate_VVI
 simply_AV0
@@ -5728,8 +5728,8 @@ to_TO0
 the_AT0
 physical_AJ0
 benefits_NN2
-SLEEP_VVB-NN1
-Sleep_VVB-NN1
+SLEEP_VVB
+Sleep_NN1
 is_VBZ
 a_AT0
 natural_AJ0
@@ -5878,7 +5878,7 @@ finds_VVZ
 it_PNP
 easy_AJ0
 to_TO0
-fall_VVI
+fall_NN1
 asleep_AJ0
 You_PNP
 go_VVI
@@ -6020,7 +6020,7 @@ this_DT0
 You_PNP
 do_VDB
 n't_XX0
-feel_VVI
+feel_VVB
 that_CJT
 you_PNP
 sleep_VVI
@@ -6044,7 +6044,7 @@ hours_NN2
 we_PNP
 should_VM0
 be_VBI
-sleeping_VVG
+sleeping_NN1
 indeed_AV0
 it_PNP
 varies_VVZ
@@ -6058,7 +6058,7 @@ you_PNP
 know_VVI
 that_CJT
 you_PNP
-feel_VVI
+feel_VVB
 fit_VVI
 and_CJC
 well_AV0
@@ -6097,7 +6097,7 @@ bed_NN1
 Ignore_VVB
 how_AVQ
 you_PNP
-feel_VVI
+feel_VVB
 when_CJS
 you_PNP
 first_ORD
@@ -6109,7 +6109,7 @@ instead_AV0
 of_PRF
 how_AVQ
 you_PNP
-feel_VVI
+feel_VVB
 after_PRP
 you_PNP
 have_VHB
@@ -6212,7 +6212,7 @@ is_VBZ
 natural_AJ0
 to_TO0
 find_VVI
-sleeping_VVG
+sleeping_NN1
 difficult_AJ0
 if_CJS
 you_PNP
@@ -6246,7 +6246,7 @@ and_CJC
 be_VBI
 aware_AJ0
 that_CJT
-sleeping_VVG
+sleeping_NN1
 difficulties_NN2
 are_VBB
 temporary_AJ0
@@ -6283,7 +6283,7 @@ be_VBI
 causing_VVG
 you_PNP
 to_TO0
-feel_VVI
+feel_VVB
 unsettled_AJ0
 It_PNP
 may_VM0
@@ -6350,7 +6350,7 @@ the_AT0
 following_AJ0
 Do_VDB
 something_PNI
-relaxing_VVG-AJ0
+relaxing_VVG
 last_ORD
 thing_NN1
 before_PRP
@@ -6414,7 +6414,7 @@ and_CJC
 you_PNP
 will_VM0
 find_VVI
-sleeping_VVG
+sleeping_NN1
 even_AV0
 more_AV0
 difficult_AJ0
@@ -6433,7 +6433,7 @@ night_NN1
 as_CJS
 these_DT0
 can_VM0
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 stimulant_NN1
@@ -6517,7 +6517,7 @@ a_AT0
 pattern_NN1
 in_PRP
 the_AT0
-subconscious_AJ0-NN1
+subconscious_NN1
 mind_NN1
 so_AV0
 that_CJT
@@ -6620,13 +6620,13 @@ for_PRP
 nightclothes_NN2
 avoid_VVI
 anything_PNI
-constricting_VVG-AJ0
+constricting_AJ0
 Try_VVB
 using_VVG
 one_CRD
 of_PRF
 the_AT0
-audio_AJ0-NN1
+audio_AJ0
 cassettes_NN2
 specially_AV0
 designed_VVN
@@ -6664,7 +6664,7 @@ Close_NP0
 your_DPS
 eyes_NN2
 and_CJC
-lie_VVI
+lie_VVB
 in_PRP
 a_AT0
 comfortable_AJ0
@@ -6847,7 +6847,7 @@ suspect_VVB
 Oh_ITJ
 you_PNP
 may_VM0
-notice_VVI
+notice_NN1
 that_CJT
 you_PNP
 get_VVI
@@ -7096,7 +7096,7 @@ It_PNP
 can_VM0
 assist_VVI
 in_PRP
-diminishing_AJ0-VVG
+diminishing_AJ0
 the_AT0
 effects_NN2
 of_PRF
@@ -7172,7 +7172,7 @@ nature_NN1
 and_CJC
 you_PNP
 will_VM0
-feel_VVI
+feel_VVB
 better_AJC
 for_PRP
 it_PNP
@@ -7196,7 +7196,7 @@ how_AVQ
 your_DPS
 breathing_VVG
 should_VM0
-feel_VVI
+feel_VVB
 If_CJS
 you_PNP
 practise_VVI
@@ -7212,7 +7212,7 @@ will_VM0
 soon_AV0
 begin_VVI
 to_TO0
-notice_VVI
+notice_NN1
 the_AT0
 difference_NN1
 Lie_VVB
@@ -7292,7 +7292,7 @@ should_VM0
 be_VBI
 able_AJ0
 to_TO0
-feel_VVI
+feel_VVB
 your_DPS
 ribcage_NN1
 expand_VVI
@@ -7458,7 +7458,7 @@ or_CJC
 pursuing_VVG
 any_DT0
 so-called_AJ0
-relaxing_VVG-AJ0
+relaxing_VVG
 activity_NN1
 What_DTQ
 about_PRP
@@ -7471,7 +7471,7 @@ your_DPS
 body_NN1
 Can_VM0
 you_PNP
-feel_VVI
+feel_VVB
 tension_NN1
 in_PRP
 your_DPS
@@ -7541,7 +7541,7 @@ that_CJT
 tension_NN1
 is_VBZ
 being_VBG
-transmitted_AJ0-VVN
+transmitted_VVN
 to_TO0
 the_AT0
 rest_NN1
@@ -7725,7 +7725,7 @@ you_PNP
 will_VM0
 begin_VVI
 to_TO0
-feel_VVI
+feel_VVB
 the_AT0
 benefit_NN1
 within_PRP
@@ -7797,7 +7797,7 @@ is_VBZ
 slow_AJ0
 and_CJC
 rhythmic_AJ0
-Beginning_VVG-NN1
+Beginning_VVG
 with_PRP
 your_DPS
 feet_NN2
@@ -7838,8 +7838,8 @@ your_DPS
 mind_NN1
 on_PRP
 a_AT0
-walk_VVI
-Picture_NN1-VVB
+walk_NN1
+Picture_NN1
 a_AT0
 beautiful_AJ0
 scene_NN1
@@ -7880,7 +7880,7 @@ might_VM0
 hear_VVI
 As_CJS
 you_PNP
-walk_VVI
+walk_NN1
 along_AVP
 the_AT0
 scene_NN1
@@ -7931,7 +7931,7 @@ experience_NN1
 Then_AV0
 when_CJS
 you_PNP
-feel_VVI
+feel_VVB
 ready_AJ0
 open_AJ0
 your_DPS
@@ -7957,7 +7957,7 @@ an_AT0
 occasion_NN1
 when_CJS
 you_PNP
-feel_VVI
+feel_VVB
 tension_NN1
 mounting_VVG
 within_PRP
@@ -8014,14 +8014,14 @@ permanently_AV0
 there_EX0
 in_PRP
 your_DPS
-subconscious_AJ0-NN1
+subconscious_NN1
 mind_NN1
 you_PNP
 will_VM0
 immediately_AV0
 begin_VVI
 to_TO0
-feel_VVI
+feel_VVB
 more_AV0
 peaceful_AJ0
 both_AV0
@@ -8058,7 +8058,7 @@ of_PRF
 suffering_VVG
 from_PRP
 such_DT0
-stress-induced_AJ0-NN1
+stress-induced_NN1
 illnesses_NN2
 as_CJS
 strokes_NN2
@@ -8093,7 +8093,7 @@ I_PNP
 have_VHB
 shown_VVN
 that_CJT
-caring_VVG-NN1
+caring_NN1
 for_PRP
 your_DPS
 physical_AJ0
@@ -8376,7 +8376,7 @@ in_PRP
 turn_NN1
 make_VVI
 you_PNP
-feel_VVI
+feel_VVB
 even_AV0
 more_AV0
 miserable_AJ0
@@ -8624,7 +8624,7 @@ Simply_AV0
 going_VVG
 for_PRP
 a_AT0
-walk_VVI
+walk_NN1
 can_VM0
 relax_VVI
 the_AT0
@@ -8893,7 +8893,7 @@ work_NN1
 in_PRP
 the_AT0
 air-conditioned_AJ0
-centrally-heated_NN1-AJ0
+centrally-heated_NN1
 artificially-lit_AJ0
 atmosphere_NN1
 found_VVD
@@ -9184,7 +9184,7 @@ Aware_AJ0
 of_PRF
 how_AVQ
 you_PNP
-feel_VVI
+feel_VVB
 and_CJC
 what_DTQ
 your_DPS
@@ -9228,7 +9228,7 @@ that_CJT
 you_PNP
 do_VDB
 not_XX0
-feel_VVI
+feel_VVB
 hungry_AJ0
 do_VDB
 n't_XX0
@@ -9247,7 +9247,7 @@ those_DT0
 with_PRP
 families_NN2
 to_TO0
-feed_VVI
+feed_NN1
 It_PNP
 's_POS
 the_AT0
@@ -9266,7 +9266,7 @@ n't_XX0
 have_VHB
 time_NN1
 to_TO0
-cook_VVI
+cook_NN1
 several_DT0
 different_AJ0
 meals_NN2
@@ -9314,7 +9314,7 @@ later_AV0
 when_CJS
 you_PNP
 do_VDB
-feel_VVI
+feel_VVB
 hungry_AJ0
 What_DTQ
 about_PRP
@@ -9337,7 +9337,7 @@ that_CJT
 you_PNP
 do_VDB
 not_XX0
-feel_VVI
+feel_VVB
 tired_AJ0
 try_VVI
 staying_VVG
@@ -9367,7 +9367,7 @@ tonight_AV0
 you_PNP
 find_VVI
 yourself_PNX
-yawning_VVG-AJ0
+yawning_AJ0
 at_PRP
 9.30_CRD
 why_AVQ
@@ -9406,7 +9406,7 @@ the_AT0
 better_AJC
 you_PNP
 will_VM0
-feel_VVI
+feel_VVB
 Are_VBB
 your_DPS
 clothes_NN2
@@ -9414,7 +9414,7 @@ comfortable_AJ0
 If_CJS
 your_DPS
 shoes_NN2
-pinch_VVI
+pinch_NN1
 take_VVI
 them_PNP
 off_AVP
@@ -9456,10 +9456,10 @@ some_DT0
 weight_NN1
 Do_VDB
 you_PNP
-feel_VVI
+feel_VVB
 happy_AJ0
 Then_AV0
-laugh_VVI
+laugh_NN1
 Are_VBB
 you_PNP
 weary_AJ0
@@ -9481,7 +9481,7 @@ make_VVI
 you_PNP
 tearful_AJ0
 Then_AV0
-cry_VVI
+cry_NN1
 do_VDB
 n't_XX0
 try_VVI
@@ -9500,7 +9500,7 @@ it_PNP
 be_VBI
 silly_AJ0
 to_TO0
-feel_VVI
+feel_VVB
 deeply_AV0
 4_CRD
 Do_VDB
@@ -9581,7 +9581,7 @@ that_CJT
 the_AT0
 effect_NN1
 of_PRF
-sleeping_VVG
+sleeping_NN1
 pills_NN2
 can_VM0
 last_ORD
@@ -9609,7 +9609,7 @@ that_CJT
 you_PNP
 should_VM0
 not_XX0
-drive_VVI
+drive_NN1
 for_PRP
 some_DT0
 hours_NN2
@@ -9820,7 +9820,7 @@ complementary_AJ0
 practitioner_NN1
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 the_AT0
 need_VVB
 to_TO0
@@ -9898,7 +9898,7 @@ There_EX0
 are_VBB
 many_DT0
 other_AJ0
-self-help_AJ0-NN1
+self-help_AJ0
 methods_NN2
 available_AJ0
 some_DT0
@@ -10259,7 +10259,7 @@ involving_VVG
 the_AT0
 insertion_NN1
 of_PRF
-specially-made_AJ0-NN1
+specially-made_AJ0
 needles_NN2
 into_PRP
 specific_AJ0
@@ -10291,7 +10291,7 @@ that_CJT
 it_PNP
 does_VDZ
 not_XX0
-hurt_VVI
+hurt_VVN
 The_AT0
 needles_NN2
 are_VBB
@@ -10579,10 +10579,10 @@ other_AJ0
 methods_NN2
 including_PRP
 capsules_NN2
-poultices_NN2-VVZ
+poultices_NN2
 and_CJC
 oils_NN2
-Homoeopathy_NP0-NN1
+Homoeopathy_NP0
 developed_VVN
 from_PRP
 the_AT0
@@ -10590,7 +10590,7 @@ natural_AJ0
 law_NN1
 similia_NN1
 similibus_NN1
-curantur_NN1-VVB
+curantur_VVB
 like_PRP
 should_VM0
 be_VBI
@@ -10655,12 +10655,12 @@ dislikes_VVZ
 and_CJC
 so_AV0
 on_PRP
-Hypnotherapy_NP0-NN1
+Hypnotherapy_NP0
 involving_VVG
 the_AT0
 state_NN1
 of_PRF
-heightened_AJ0
+heightened_VVN
 suggestibility_NN1
 brought_VVN
 about_PRP
@@ -10847,7 +10847,7 @@ towards_PRP
 effecting_VVG
 a_AT0
 cure_NN1
-Massage_VVB-NN1
+Massage_NN1
 therapeutic_AJ0
 massage_NN1
 is_VBZ
@@ -10906,7 +10906,7 @@ toxins_NN2
 which_DTQ
 may_VM0
 have_VHB
-accumulated_AJ0
+accumulated_VVN
 There_EX0
 are_VBB
 also_AV0
@@ -10929,7 +10929,7 @@ another_DT0
 person_NN1
 's_POS
 hands_NN2
-Naturopathy_NP0-NN1
+Naturopathy_NP0
 a_AT0
 system_NN1
 of_PRF
@@ -11175,7 +11175,7 @@ can_VM0
 be_VBI
 used_VVN
 in_PRP
-varying_AJ0-VVG
+varying_AJ0
 degrees_NN2
 on_PRP
 anyone_PNI
@@ -11206,7 +11206,7 @@ by_PRP
 an_AT0
 experienced_VVN
 therapist_NN1
-Yoga_NP0-NN1
+Yoga_NP0
 yoga_NN1
 therapy_NN1
 is_VBZ
@@ -11342,7 +11342,7 @@ you_PNP
 will_VM0
 not_XX0
 only_AV0
-feel_VVI
+feel_VVB
 better_AJC
 physically_AV0
 but_CJC
@@ -11462,7 +11462,7 @@ anger_NN1
 trembling_VVG
 with_PRP
 fear_NN1
-glowing_AJ0-VVG
+glowing_AJ0
 with_PRP
 satisfaction_NN1
 and_CJC
@@ -11594,11 +11594,11 @@ show_VVI
 what_DTQ
 they_PNP
 really_AV0
-feel_VVI
+feel_VVB
 sometimes_AV0
 not_XX0
 even_AV0
-admitting_VVG-AJ0
+admitting_VVG
 those_DT0
 feelings_NN2
 to_TO0
@@ -11781,7 +11781,7 @@ people_NN0
 embarrasses_VVZ
 me_PNP
 I_PNP
-feel_VVI
+feel_VVB
 guilty_AJ0
 if_CJS
 I_PNP
@@ -11813,7 +11813,7 @@ where_AVQ
 possible_AJ0
 I_PNP
 often_AV0
-feel_VVI
+feel_VVB
 impatient_AJ0
 or_CJC
 frustrated_AJ0
@@ -11822,7 +11822,7 @@ find_VVI
 it_PNP
 hard_AJ0
 to_TO0
-laugh_VVI
+laugh_NN1
 out_AVP
 loud_AJ0
 Making_VVG
@@ -11831,11 +11831,11 @@ is_VBZ
 very_AV0
 difficult_AJ0
 I_PNP
-feel_VVI
+feel_VVB
 stupid_AJ0
 if_CJS
 I_PNP
-cry_VVI
+cry_NN1
 at_PRP
 an_AT0
 emotional_AJ0
@@ -11882,7 +11882,7 @@ my_DPS
 philosophy_NN1
 I_PNP
 sometimes_AV0
-feel_VVI
+feel_VVB
 like_PRP
 running_VVG
 away_AV0
@@ -12071,7 +12071,7 @@ When_CJS
 you_PNP
 relax_VVI
 and_CJC
-switch_VVI
+switch_NN1
 off_AVP
 this_DT0
 tension_NN1
@@ -12160,7 +12160,7 @@ and_CJC
 emotional_AJ0
 that_CJT
 you_PNP
-feel_VVI
+feel_VVB
 This_DT0
 is_VBZ
 the_AT0
@@ -12362,10 +12362,10 @@ your_DPS
 life_NN1
 ELIMINATE_VVB
 THE_AT0
-NEGATIVE_AJ0-NN1
+NEGATIVE_NN1
 1_CRD
-Anger_VVB-NN1
-Anger_VVB-NN1
+Anger_NN1
+Anger_NN1
 is_VBZ
 a_AT0
 natural_AJ0
@@ -12483,7 +12483,7 @@ about_PRP
 anger_NN1
 When_CJS
 you_PNP
-feel_VVI
+feel_VVB
 anger_NN1
 welling_VVG
 up_AVP
@@ -12499,7 +12499,7 @@ is_VBZ
 justified_VVN
 It_PNP
 you_PNP
-feel_VVI
+feel_VVB
 that_CJT
 it_PNP
 is_VBZ
@@ -12511,7 +12511,7 @@ injustice_NN1
 or_CJC
 a_AT0
 hurtful_AJ0
-act_VVI
+act_NN1
 do_VDB
 something_PNI
 about_PRP
@@ -12596,7 +12596,7 @@ the_AT0
 day_NN1
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 that_CJT
 your_DPS
 anger_NN1
@@ -12707,7 +12707,7 @@ about_PRP
 it_PNP
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 anger_NN1
 growing_AJ0
 inside_PRP
@@ -12749,7 +12749,7 @@ aggression_NN1
 you_PNP
 will_VM0
 probably_AV0
-hurt_VVI
+hurt_VVN
 your_DPS
 hand_NN1
 But_CJC
@@ -12786,7 +12786,7 @@ the_AT0
 cat_NN1
 you_PNP
 will_VM0
-feel_VVI
+feel_VVB
 much_DT0
 better_AJC
 for_PRP
@@ -12806,7 +12806,7 @@ your_DPS
 life_NN1
 when_CJS
 you_PNP
-feel_VVI
+feel_VVB
 sad_AJ0
 or_CJC
 unhappy_AJ0
@@ -12819,7 +12819,7 @@ is_VBZ
 perfectly_AV0
 natural_AJ0
 to_TO0
-cry_VVI
+cry_NN1
 Unfortunately_AV0
 many_DT0
 people_NN0
@@ -12847,7 +12847,7 @@ it_PNP
 is_VBZ
 babyish_AJ0
 to_TO0
-cry_VVI
+cry_NN1
 Little_AJ0
 boys_NN2
 in_PRP
@@ -12888,7 +12888,7 @@ bang_VVB
 your_DPS
 head_NN1
 or_CJC
-shut_VVB
+shut_VVN
 your_DPS
 finger_NN1
 in_PRP
@@ -12933,7 +12933,7 @@ the_AT0
 circumstances_NN2
 many_DT0
 people_NN0
-feel_VVI
+feel_VVB
 much_DT0
 calmer_AJC
 and_CJC
@@ -12947,7 +12947,7 @@ situation_NN1
 after_PRP
 a_AT0
 good_AJ0
-cry_VVI
+cry_NN1
 Shedding_VVG
 tears_NN2
 is_VBZ
@@ -12970,7 +12970,7 @@ we_PNP
 are_VBB
 babies_NN2
 we_PNP
-cry_VVI
+cry_NN1
 so_AV0
 that_CJT
 our_DPS
@@ -13022,12 +13022,12 @@ body_NN1
 of_PRF
 potentially_AV0
 harmful_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 wastes_NN2
 If_CJS
 you_PNP
 never_AV0
-cry_VVI
+cry_NN1
 you_PNP
 will_VM0
 simply_AV0
@@ -13047,11 +13047,11 @@ you_PNP
 are_VBB
 sad_AJ0
 and_CJC
-feel_VVI
+feel_VVB
 the_AT0
 need_VVB
 to_TO0
-cry_VVI
+cry_NN1
 go_VVI
 ahead_AV0
 and_CJC
@@ -13141,7 +13141,7 @@ a_AT0
 stage_NN1
 where_AVQ
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 have_VHB
 got_VVN
@@ -13300,7 +13300,7 @@ sizes_NN2
 One_CRD
 person_NN1
 may_VM0
-feel_VVI
+feel_VVB
 guilty_AJ0
 because_CJS
 I_PNP
@@ -13326,7 +13326,7 @@ to_TO0
 another_DT0
 person_NN1
 We_PNP
-feel_VVI
+feel_VVB
 guilty_AJ0
 about_PRP
 sins_NN2
@@ -13381,7 +13381,7 @@ time_NN1
 causing_VVG
 us_PNP
 to_TO0
-feel_VVI
+feel_VVB
 that_CJT
 we_PNP
 may_VM0
@@ -13428,7 +13428,7 @@ can_VM0
 cause_NN1
 you_PNP
 to_TO0
-feel_VVI
+feel_VVB
 that_CJT
 you_PNP
 are_VBB
@@ -13497,7 +13497,7 @@ second_ORD
 marriage_NN1
 a_AT0
 confident_AJ0
-second-test_AJ0-NN1
+second-test_AJ0
 driver_NN1
 or_CJC
 a_AT0
@@ -13713,7 +13713,7 @@ past_NN1
 which_DTQ
 you_PNP
 now_AV0
-regret_VVI
+regret_NN1
 and_CJC
 would_VM0
 do_VDB
@@ -14026,12 +14026,12 @@ they_PNP
 be_VBI
 made_VVN
 to_TO0
-feel_VVI
+feel_VVB
 guilty_AJ0
 for_PRP
 a_AT0
 little_AJ0
-self-indulgence_NN1-AJ0
+self-indulgence_NN1
 Guilt_NN1
 or_CJC
 constantly_AV0
@@ -14081,7 +14081,7 @@ the_AT0
 toddler_NN1
 learning_NN1
 to_TO0
-walk_VVI
+walk_NN1
 and_CJC
 how_AVQ
 often_AV0
@@ -14130,7 +14130,7 @@ for_PRP
 guilt_NN1
 in_PRP
 our_DPS
-present_AJ0-NN1
+present_AJ0
 civilisation_NN1
 Whether_CJS
 to_TO0
@@ -14176,7 +14176,7 @@ look_VVI
 after_PRP
 an_AT0
 aged_PRP
-relative_AJ0-NN1
+relative_AJ0
 the_AT0
 problems_NN2
 for_PRP
@@ -14240,7 +14240,7 @@ is_VBZ
 both_AV0
 sensitive_AJ0
 and_CJC
-caring_VVG-NN1
+caring_NN1
 who_PNQ
 is_VBZ
 made_VVN
@@ -14388,7 +14388,7 @@ them_PNP
 again_AV0
 Many_DT0
 people_NN0
-feel_VVI
+feel_VVB
 guilty_AJ0
 after_PRP
 the_AT0
@@ -14554,7 +14554,7 @@ justified_VVN
 If_CJS
 you_PNP
 truly_AV0
-feel_VVI
+feel_VVB
 that_CJT
 it_PNP
 is_VBZ
@@ -14671,7 +14671,7 @@ children_NN2
 are_VBB
 made_VVN
 to_TO0
-feel_VVI
+feel_VVB
 guilty_AJ0
 by_PRP
 outsiders_NN2
@@ -15117,7 +15117,7 @@ life_NN1
 of_PRF
 the_AT0
 sufferer_NN1
-Phobia_NN1-NP0
+Phobia_NP0
 sufferers_NN2
 often_AV0
 find_VVI
@@ -15203,7 +15203,7 @@ about_PRP
 anxiety_NN1
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 inadequate_AJ0
 or_CJC
 less_AV0
@@ -15351,7 +15351,7 @@ same_DT0
 attributes_NN2
 you_PNP
 would_VM0
-feel_VVI
+feel_VVB
 they_PNP
 must_VM0
 be_VBI
@@ -15374,7 +15374,7 @@ see_VVI
 which_DTQ
 the_AT0
 points_NN2
-listed_AJ0
+listed_VVN
 there_EX0
 are_VBB
 changeable_AJ0
@@ -15466,7 +15466,7 @@ it_PNP
 should_VM0
 help_VVI
 you_PNP
-feel_VVI
+feel_VVB
 more_AV0
 positive_AJ0
 Are_VBB
@@ -15525,7 +15525,7 @@ to_TO0
 help_VVI
 that_CJT
 person_NN1
-feel_VVI
+feel_VVB
 more_AV0
 comfortable_AJ0
 Sometimes_AV0
@@ -15536,7 +15536,7 @@ you_PNP
 are_VBB
 doing_VDG
 something_PNI
-concrete_AJ0-NN1
+concrete_AJ0
 to_TO0
 help_VVI
 someone_PNI
@@ -15572,7 +15572,7 @@ learn_VVI
 a_AT0
 new_AJ0
 skill_NN1
-rekindle_VVI
+rekindle_VVB
 an_AT0
 interest_NN1
 in_PRP
@@ -15590,7 +15590,7 @@ girl_NN1
 at_PRP
 the_AT0
 office_NN1
-feel_VVI
+feel_VVB
 more_AV0
 at_PRP
 ease_NN1
@@ -15897,7 +15897,7 @@ onto_PRP
 the_AT0
 street_NN1
 or_CJC
-walk_VVI
+walk_NN1
 out_AVP
 on_PRP
 a_AT0
@@ -15955,7 +15955,7 @@ The_AT0
 young_AJ0
 mother_NN1
 may_VM0
-feel_VVI
+feel_VVB
 that_CJT
 she_PNP
 has_VHZ
@@ -15989,7 +15989,7 @@ redundant_AJ0
 may_VM0
 begin_VVI
 to_TO0
-feel_VVI
+feel_VVB
 that_CJT
 life_NN1
 is_VBZ
@@ -16028,7 +16028,7 @@ trying_VVG
 to_TO0
 cram_VVI
 200_CRD
-hours-worth_AJ0-NN1
+hours-worth_NN1
 of_PRF
 activity_NN1
 into_PRP
@@ -16113,7 +16113,7 @@ to_TO0
 go_VVI
 for_PRP
 a_AT0
-walk_VVI
+walk_NN1
 work_NN1
 in_PRP
 the_AT0
@@ -16287,7 +16287,7 @@ new_AJ0
 world_NN1
 Should_VM0
 you_PNP
-feel_VVI
+feel_VVB
 that_CJT
 you_PNP
 are_VBB
@@ -16323,7 +16323,7 @@ your_DPS
 job_NN1
 Do_VDB
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 need_VVB
 a_AT0
@@ -16358,7 +16358,7 @@ stage_NN1
 in_PRP
 a_AT0
 local_AJ0
-amateur_AJ0-NN1
+amateur_AJ0
 production_NN1
 or_CJC
 jump_VVI
@@ -16377,7 +16377,7 @@ it_PNP
 If_CJS
 you_PNP
 really_AV0
-feel_VVI
+feel_VVB
 that_CJT
 there_EX0
 is_VBZ
@@ -16414,7 +16414,7 @@ the_AT0
 past_NN1
 not_XX0
 with_PRP
-regret_VVI
+regret_NN1
 but_CJC
 with_PRP
 pleasure_NN1
@@ -16699,7 +16699,7 @@ water_NN1
 causes_NN2
 ripples_NN2
 to_TO0
-spread_NN1
+spread_VVN
 far_AV0
 and_CJC
 wide_AJ0
@@ -16718,7 +16718,7 @@ How_AVQ
 to_TO0
 increase_NN1
 optimism_NN1
-Start_VVB-NN1
+Start_NN1
 at_PRP
 the_AT0
 very_AV0
@@ -16858,7 +16858,7 @@ viewpoint_NN1
 If_CJS
 you_PNP
 are_VBB
-stuck_AJ0
+stuck_VVN
 in_PRP
 a_AT0
 boring_AJ0
@@ -16926,7 +16926,7 @@ weather_NN1
 while_CJS
 others_NN2
 are_VBB
-shut_VVB
+shut_VVN
 in_PRP
 stuffy_AJ0
 offices_NN2
@@ -17012,7 +17012,7 @@ yourself_PNX
 misery_NN1
 in_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 if_CJS
 you_PNP
 concentrate_VVI
@@ -17046,7 +17046,7 @@ from_PRP
 the_AT0
 window_NN1
 your_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 radio_NN1
 programme_NN1
 Do_VDB
@@ -17137,7 +17137,7 @@ touching_VVG
 them_PNP
 playing_VVG
 their_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 music_NN1
 Mere_AJ0
 are_VBB
@@ -17155,7 +17155,7 @@ is_VBZ
 the_AT0
 love_NN1
 we_PNP
-feel_VVI
+feel_VVB
 for_PRP
 a_AT0
 husband_NN1
@@ -17373,7 +17373,7 @@ that_CJT
 children_NN2
 who_PNQ
 are_VBB
-deprived_AJ0
+deprived_VVN
 of_PRF
 physical_AJ0
 demonstrations_NN2
@@ -17888,12 +17888,12 @@ and_CJC
 make_VVI
 you_PNP
 joyful_AJ0
-Start_VVB-NN1
+Start_NN1
 now_AV0
 Live_VVB
 for_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 and_CJC
 the_AT0
 good_AJ0
@@ -17936,7 +17936,7 @@ too_AV0
 many_DT0
 people_NN0
 who_PNQ
-feel_VVI
+feel_VVB
 guilty_AJ0
 if_CJS
 they_PNP
@@ -17951,7 +17951,7 @@ many_DT0
 who_PNQ
 seem_VVI
 to_TO0
-feel_VVI
+feel_VVB
 guilty_AJ0
 if_CJS
 they_PNP
@@ -18046,7 +18046,7 @@ joy_NN1
 and_CJC
 laughter_NN1
 which_DTQ
-abounded_VVN-VVD
+abounded_VVD
 among_PRP
 both_AV0
 patients_NN2
@@ -18096,7 +18096,7 @@ return_NN1
 Live_VVB
 in_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 You_PNP
 can_VM0
 not_XX0
@@ -18404,10 +18404,10 @@ settles_VVZ
 of_PRF
 its_DPS
 own_DT0
-accord_VVI
+accord_NN1
 Should_VM0
 she_PNP
-feed_VVI
+feed_NN1
 her_DPS
 child_NN1
 on_PRP
@@ -18861,7 +18861,7 @@ Of_PRF
 course_NN1
 he_PNP
 will_VM0
-feel_VVI
+feel_VVB
 jealous_AJ0
 when_CJS
 a_AT0
@@ -18961,7 +18961,7 @@ The_AT0
 young_AJ0
 child_NN1
 will_VM0
-feel_VVI
+feel_VVB
 that_CJT
 he_PNP
 is_VBZ
@@ -19025,7 +19025,7 @@ he_PNP
 may_VM0
 begin_VVI
 to_TO0
-feel_VVI
+feel_VVB
 that_CJT
 he_PNP
 is_VBZ
@@ -19271,7 +19271,7 @@ in_PRP
 the_AT0
 child_NN1
 's_POS
-subconscious_AJ0-NN1
+subconscious_NN1
 mind_NN1
 and_CJC
 will_VM0
@@ -19320,7 +19320,7 @@ influence_NN1
 of_PRF
 his_DPS
 family_NN1
-dwindles_NN2-VVZ
+dwindles_NN2
 the_AT0
 effect_NN1
 upon_PRP
@@ -19394,7 +19394,7 @@ with_PRP
 alcohol_NN1
 drugs_NN2
 and_CJC
-glue-sniffing_NN1-VVG
+glue-sniffing_VVG
 Teenagers_NN2
 frequently_AV0
 appear_VVI
@@ -19517,7 +19517,7 @@ or_CJC
 woman_NN1
 may_VM0
 become_VVI
-involved_AJ0
+involved_VVN
 in_PRP
 love_NN1
 affairs_NN2
@@ -19859,7 +19859,7 @@ parents_NN2
 on_PRP
 whom_PNQ
 you_PNP
-depended_VVN-VVD
+depended_VVD
 all_DT0
 those_DT0
 years_NN2
@@ -20119,7 +20119,7 @@ perceives_VVZ
 it_PNP
 on_PRP
 a_AT0
-subconscious_AJ0-NN1
+subconscious_NN1
 level_NN1
 THE_AT0
 RELATIONSHIP_NN1
@@ -20315,7 +20315,7 @@ of_PRF
 child_NN1
 you_PNP
 are_VBB
-Answer_VVB-NN1
+Answer_VVB
 yes_ITJ
 or_CJC
 no_AT0
@@ -20410,7 +20410,7 @@ never_AV0
 get_VVI
 done_VDN
 6_CRD
-Punishing_AJ0-VVG
+Punishing_VVG
 children_NN2
 is_VBZ
 harmful_AJ0
@@ -20792,7 +20792,7 @@ ability_NN1
 to_TO0
 make_VVI
 me_PNP
-feel_VVI
+feel_VVB
 guilty_AJ0
 if_CJS
 I_PNP
@@ -20830,7 +20830,7 @@ best_AJS
 5_CRD
 I_PNP
 often_AV0
-feel_VVI
+feel_VVB
 that_CJT
 they_PNP
 are_VBB
@@ -21385,7 +21385,7 @@ others_NN2
 he_PNP
 does_VDZ
 not_XX0
-feel_VVI
+feel_VVB
 that_CJT
 he_PNP
 has_VHZ
@@ -21393,14 +21393,14 @@ to_TO0
 put_VVI
 on_PRP
 an_AT0
-act_VVI
+act_NN1
 to_TO0
 impress_VVI
 yet_AV0
 neither_AV0
 does_VDZ
 he_PNP
-feel_VVI
+feel_VVB
 superior_AJ0
 to_TO0
 those_DT0
@@ -21525,14 +21525,14 @@ who_PNQ
 nevertheless_AV0
 manages_VVZ
 to_TO0
-present_AJ0-NN1
+present_AJ0
 a_AT0
 confident_AJ0
 exterior_NN1
 will_VM0
 often_AV0
-feel_VVI
-self-contempt_AJ0-NN1
+feel_VVB
+self-contempt_AJ0
 because_CJS
 he_PNP
 feels_VVZ
@@ -21541,7 +21541,7 @@ he_PNP
 is_VBZ
 living_VVG
 a_AT0
-lie_VVI
+lie_VVB
 and_CJC
 that_CJT
 one_CRD
@@ -21568,7 +21568,7 @@ even_AV0
 though_CJS
 he_PNP
 may_VM0
-feel_VVI
+feel_VVB
 he_PNP
 is_VBZ
 doing_VDG
@@ -21715,11 +21715,11 @@ you_PNP
 know_VVI
 your_DPS
 own_DT0
-Faces_NN2-VVZ
+Faces_NN2
 Try_VVB
 this_DT0
 experiment_NN1
-List_VVB-NN1
+List_NN1
 all_DT0
 the_AT0
 characteristics_NN2
@@ -21805,14 +21805,14 @@ you_PNP
 What_DTQ
 do_VDB
 you_PNP
-feel_VVI
+feel_VVB
 they_PNP
 think_VVB
 of_PRF
 you_PNP
 The_AT0
 characteristics_NN2
-listed_AJ0
+listed_VVN
 here_AV0
 may_VM0
 be_VBI
@@ -21929,7 +21929,7 @@ whom_PNQ
 you_PNP
 do_VDB
 not_XX0
-feel_VVI
+feel_VVB
 at_PRP
 all_DT0
 dose_NN1
@@ -22078,7 +22078,7 @@ between_PRP
 your_DPS
 own_DT0
 three_CRD
-Faces_NN2-VVZ
+Faces_NN2
 you_PNP
 are_VBB
 more_AV0
@@ -22368,7 +22368,7 @@ seem_VVI
 to_TO0
 be_VBI
 permanently_AV0
-stuck_AJ0
+stuck_VVN
 with_PRP
 such_DT0
 a_AT0
@@ -22402,7 +22402,7 @@ course_NN1
 most_AV0
 of_PRF
 us_PNP
-feel_VVI
+feel_VVB
 more_AV0
 confident_AJ0
 in_PRP
@@ -22490,7 +22490,7 @@ improve_VVI
 matters_NN2
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 for_PRP
 example_NN1
 that_CJT
@@ -22572,7 +22572,7 @@ you_PNP
 in_PRP
 order_NN1
 to_TO0
-feel_VVI
+feel_VVB
 happier_AJC
 with_PRP
 the_AT0
@@ -22802,7 +22802,7 @@ and_CJC
 probably_AV0
 will_VM0
 not_XX0
-notice_VVI
+notice_NN1
 if_CJS
 your_DPS
 home_NN1
@@ -22943,7 +22943,7 @@ inferior_AJ0
 She_PNP
 did_VDD
 not_XX0
-feel_VVI
+feel_VVB
 it_PNP
 would_VM0
 be_VBI
@@ -23017,7 +23017,7 @@ and_CJC
 it_PNP
 can_VM0
 not_XX0
-hurt_VVI
+hurt_VVN
 her_DPS
 as_CJS
 it_PNP
@@ -23045,7 +23045,7 @@ have_VHB
 led_VVD
 her_DPS
 to_TO0
-feel_VVI
+feel_VVB
 guilty_AJ0
 and_CJC
 therefore_AV0
@@ -23136,7 +23136,7 @@ organised_VVN
 I_PNP
 'm_VBB
 a_AT0
-caring_VVG-NN1
+caring_NN1
 person_NN1
 and_CJC
 so_AV0
@@ -23283,8 +23283,8 @@ like_PRP
 Go_VVB
 for_PRP
 a_AT0
-walk_VVI
-lie_VVI
+walk_NN1
+lie_VVB
 in_PRP
 the_AT0
 bath_NN1
@@ -23323,7 +23323,7 @@ rather_AV0
 than_CJS
 something_PNI
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 should_VM0
 do_VDB
@@ -23420,7 +23420,7 @@ affirmations_NN2
 to_TO0
 help_VVI
 you_PNP
-feel_VVI
+feel_VVB
 better_AJC
 Whether_CJS
 you_PNP
@@ -23541,7 +23541,7 @@ Know_VVB
 Your_DPS
 Own_DT0
 Mind_VVB
-LEFT_AJ0-VVD
+LEFT_AJ0
 BRAIN/RIGHT_NN1
 BRAIN_NN1
 Did_VDD
@@ -23750,7 +23750,7 @@ of_PRF
 the_AT0
 human_AJ0
 brain_NN1
-Left_AJ0-NN1
+Left_AJ0
 brain_NN1
 connected_VVN
 to_TO0
@@ -23954,7 +23954,7 @@ with_PRP
 one_CRD
 eye_NN1
 permanently_AV0
-closed_VVD
+closed_VVN
 or_CJC
 trying_VVG
 to_TO0
@@ -23982,7 +23982,7 @@ while_CJS
 with_PRP
 one_CRD
 eye_NN1
-closed_VVD
+closed_VVN
 or_CJC
 one_CRD
 hand_NN1
@@ -24102,7 +24102,7 @@ capacity_NN1
 Professor_NP0
 Robert_NP0
 E._NP0
-Ornstein_NP0-NN1
+Ornstein_NP0
 of_PRF
 the_AT0
 University_NN1
@@ -24148,7 +24148,7 @@ level_NN1
 MENTAL_AJ0
 ABILITY_NN1
 AND_CJC
-AGE_NN1-VVB
+AGE_NN1
 At_PRP
 one_CRD
 time_NN1
@@ -24587,7 +24587,7 @@ to_TO0
 include_VVI
 Perhaps_AV0
 Food/drink_NN1
-Exercise_VVB-NN1
+Exercise_VVB
 Medicines_NN2
 Treatment_NN1
 Attitudes_NN2
@@ -24596,7 +24596,7 @@ then_AV0
 you_PNP
 might_VM0
 get_VVI
-stuck_AJ0
+stuck_VVN
 The_AT0
 problem_NN1
 with_PRP
@@ -24842,7 +24842,7 @@ the_AT0
 world_NN1
 Dr_NP0
 E._NP0
-Tournod_NP0-NN1
+Tournod_NP0
 of_PRF
 the_AT0
 World_NN1
@@ -24974,7 +24974,7 @@ personality_NN1
 changes_NN2
 Dr_NP0
 Hartwell_NP0
-Schulman_NN1-NP0
+Schulman_NP0
 of_PRF
 the_AT0
 Institute_NN1
@@ -25060,7 +25060,7 @@ heat_NN1
 may_VM0
 make_VVI
 us_PNP
-feel_VVI
+feel_VVB
 stupid_AJ0
 and_CJC
 unable_AJ0
@@ -25602,7 +25602,7 @@ performance_NN1
 in_PRP
 school_NN1
 3_CRD
-Drink_VVB-NN1
+Drink_VVB
 It_PNP
 is_VBZ
 well-known_AJ0
@@ -25919,7 +25919,7 @@ of_PRF
 the_AT0
 brain_NN1
 4_CRD
-Smoking_NN1-VVG
+Smoking_VVG
 Many_DT0
 reasons_NN2
 are_VBB
@@ -26103,7 +26103,7 @@ the_AT0
 individual_AJ0
 should_VM0
 not_XX0
-drive_VVI
+drive_NN1
 or_CJC
 operate_VVI
 machinery_NN1
@@ -26475,7 +26475,7 @@ anyone_PNI
 who_PNQ
 regularly_AV0
 runs_VVZ
-jogs_NN2-VVZ
+jogs_NN2
 or_CJC
 swims_VVZ
 and_CJC
@@ -26503,7 +26503,7 @@ though_CJS
 their_DPS
 muscles_NN2
 may_VM0
-ache_VVI
+ache_NN1
 Tests_NN2
 have_VHB
 been_VBN
@@ -27192,8 +27192,8 @@ more_AV0
 important_AJ0
 than_CJS
 that_CJT
-Stress_NN1-VVB
-Stress_NN1-VVB
+Stress_NN1
+Stress_NN1
 and_CJC
 tension_NN1
 can_VM0
@@ -27215,7 +27215,7 @@ remember_VVI
 his_DPS
 first_ORD
 line_NN1
-Picture_NN1-VVB
+Picture_NN1
 the_AT0
 nervous_AJ0
 speaker_NN1
@@ -27463,7 +27463,7 @@ later_AV0
 when_CJS
 we_PNP
 are_VBB
-relaxing_VVG-AJ0
+relaxing_VVG
 and_CJC
 thinking_VVG
 of_PRF
@@ -27619,7 +27619,7 @@ a_AT0
 comfortable_AJ0
 chair_NN1
 or_CJC
-lie_VVI
+lie_VVB
 on_PRP
 a_AT0
 bed_NN1
@@ -27657,7 +27657,7 @@ become_VVI
 easier_AJC
 as_CJS
 you_PNP
-feel_VVI
+feel_VVB
 the_AT0
 tension_NN1
 flow_NN1
@@ -27802,7 +27802,7 @@ player_NN1
 Now_AV0
 sit_VVI
 or_CJC
-lie_VVI
+lie_VVB
 comfortably_AV0
 as_CJS
 before_PRP
@@ -27816,7 +27816,7 @@ a_AT0
 few_DT0
 moments_NN2
 on_PRP
-relaxing_VVG-AJ0
+relaxing_VVG
 your_DPS
 body_NN1
 in_PRP
@@ -27917,7 +27917,7 @@ mental_AJ0
 ability_NN1
 will_VM0
 be_VBI
-increased_AJ0
+increased_VVN
 In_PRP
 the_AT0
 following_AJ0
@@ -28092,7 +28092,7 @@ would_VM0
 do_VDB
 well_AV0
 to_TO0
-notice_VVI
+notice_NN1
 However_AV0
 everything_PNI
 you_PNP
@@ -28107,7 +28107,7 @@ lodged_VVN
 safely_AV0
 in_PRP
 your_DPS
-subconscious_AJ0-NN1
+subconscious_NN1
 and_CJC
 can_VM0
 be_VBI
@@ -28190,7 +28190,7 @@ observation_NN1
 of_PRF
 the_AT0
 people_NN0
-present_AJ0-NN1
+present_AJ0
 Although_CJS
 there_EX0
 was_VBD
@@ -28226,7 +28226,7 @@ had_VHD
 no_AT0
 objection_NN1
 were_VBD
-hypnotised_VVN-AJ0
+hypnotised_AJ0
 and_CJC
 while_CJS
 in_PRP
@@ -28275,7 +28275,7 @@ had_VHD
 registered_VVN
 in_PRP
 their_DPS
-subconscious_AJ0-NN1
+subconscious_NN1
 mind_NN1
 without_PRP
 them_PNP
@@ -28550,7 +28550,7 @@ is_VBZ
 like_PRP
 sitting_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 to_TO0
 a_AT0
 boring_AJ0
@@ -28619,7 +28619,7 @@ the_AT0
 rest_NN1
 If_CJS
 you_PNP
-walk_VVI
+walk_NN1
 into_PRP
 a_AT0
 room_NN1
@@ -28692,7 +28692,7 @@ just_AV0
 three_CRD
 of_PRF
 them_PNP
-Exercise_VVB-NN1
+Exercise_VVB
 1_CRD
 Try_VVB
 playing_VVG
@@ -28831,7 +28831,7 @@ his_DPS
 role_NN1
 parrot_NN1
 fashion_NN1
-Exercise_VVB-NN1
+Exercise_VVB
 2_CRD
 Pretend_VVB
 that_CJT
@@ -28953,7 +28953,7 @@ had_VHD
 n't_XX0
 bargained_VVD
 for_PRP
-Exercise_VVB-NN1
+Exercise_VVB
 3_CRD
 Tip_NP0
 out_AVP
@@ -29092,7 +29092,7 @@ the_AT0
 doorpost_NN1
 or_CJC
 to_TO0
-cross_VVI
+cross_NN1
 a_AT0
 room_NN1
 without_PRP
@@ -29205,7 +29205,7 @@ try_VVI
 it_PNP
 while_CJS
 driving_VVG
-READING_NN1-NP0
+READING_NP0
 Here_AV0
 your_DPS
 eyes_NN2
@@ -29249,7 +29249,7 @@ difference_NN1
 between_PRP
 slow_AJ0
 and_CJC
-fast_AV0-AJ0
+fast_AJ0
 readers_NN2
 has_VHZ
 been_VBN
@@ -29292,7 +29292,7 @@ The_AT0
 eyes_NN2
 of_PRF
 the_AT0
-fast_AV0-AJ0
+fast_AJ0
 reader_NN1
 will_VM0
 travel_NN1
@@ -29309,7 +29309,7 @@ time_NN1
 they_PNP
 stop_VVI
 The_AT0
-average_AJ0-NN1
+average_AJ0
 reading_NN1
 speed_NN1
 at_PRP
@@ -29937,7 +29937,7 @@ remember_VVI
 what_DTQ
 you_PNP
 read_VVI
-divide_VVI
+divide_NN1
 the_AT0
 material_NN1
 into_PRP
@@ -30140,7 +30140,7 @@ n't_XX0
 worry_VVI
 if_CJS
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 are_VBB
 splitting_VVG
@@ -30330,9 +30330,9 @@ the_AT0
 section_NN1
 on_PRP
 memory_NN1
-WRITING_NN1-VVG
+WRITING_NN1
 The_AT0
-average_AJ0-NN1
+average_AJ0
 person_NN1
 writes_VVZ
 25_CRD
@@ -30397,7 +30397,7 @@ comfortable_AJ0
 and_CJC
 that_CJT
 you_PNP
-feel_VVI
+feel_VVB
 relaxed_AJ0
 Does_VDZ
 your_DPS
@@ -30438,7 +30438,7 @@ chair_NN1
 or_CJC
 even_AV0
 to_TO0
-cross_VVI
+cross_NN1
 your_DPS
 feet_NN2
 or_CJC
@@ -30460,7 +30460,7 @@ deep_AJ0
 breaths_NN2
 have_VHB
 a_AT0
-stretch_VVI
+stretch_NN1
 and_CJC
 make_VVI
 sure_AJ0
@@ -30525,7 +30525,7 @@ possible_AJ0
 so_AV0
 try_VVI
 using_VVG
-looped_VVN-AJ0
+looped_AJ0
 tails_NN2
 on_PRP
 your_DPS
@@ -30845,7 +30845,7 @@ from_PRP
 my_DPS
 book_NN1
 Managing_AJ0
-Stress_NN1-VVB
+Stress_NN1
 and_CJC
 you_PNP
 will_VM0
@@ -30899,7 +30899,7 @@ A_AT0
 DAY_NN1
 HABIT_NN1
 MORNING_NN1
-END_NN1-VVB
+END_NN1
 OF_PRF
 DAY_NN1
 Using_VVG
@@ -30908,7 +30908,7 @@ heading_VVG
 and_CJC
 the_AT0
 eleven_CRD
-listed_AJ0
+listed_VVN
 words_NN2
 you_PNP
 could_VM0
@@ -31242,7 +31242,7 @@ think_VVB
 of_PRF
 the_AT0
 calculations_NN2
-involved_AJ0
+involved_VVN
 when_CJS
 a_AT0
 fielder_NN1
@@ -31273,7 +31273,7 @@ the_AT0
 ball_NN1
 is_VBZ
 how_AVQ
-fast_AV0-AJ0
+fast_AJ0
 it_PNP
 is_VBZ
 travelling_VVG
@@ -31304,7 +31304,7 @@ taps_NN2
 filling_VVG
 baths_NN2
 at_PRP
-varying_AJ0-VVG
+varying_AJ0
 speeds_NN2
 seem_VVI
 easy_AJ0
@@ -31480,7 +31480,7 @@ those_DT0
 same_DT0
 numbers_NN2
 1_CRD
-Divide_VVB-NN1
+Divide_VVB
 them_PNP
 into_PRP
 groups_NN2
@@ -31563,7 +31563,7 @@ make_VVI
 up_AVP
 a_AT0
 ten_CRD
-cross_VVI
+cross_NN1
 it_PNP
 out_AVP
 and_CJC
@@ -31574,7 +31574,7 @@ is_VBZ
 and_CJC
 so_AV0
 on_PRP
-Subtraction_NP0-NN1
+Subtraction_NP0
 Working_VVG
 on_PRP
 the_AT0
@@ -31861,7 +31861,7 @@ number_NN1
 two_CRD
 So_AV0
 simply_AV0
-divide_VVI
+divide_NN1
 by_PRP
 100_CRD
 by_PRP
@@ -31892,7 +31892,7 @@ the_AT0
 memory_NN1
 which_DTQ
 the_AT0
-subconscious_AJ0-NN1
+subconscious_NN1
 mind_NN1
 has_VHZ
 created_VVN
@@ -31927,7 +31927,7 @@ with_PRP
 in_PRP
 another_DT0
 book_NN1
-Hypnosis_NP0-NN1
+Hypnosis_NN1
 Regression_NN1
 Therapy_NN1
 What_DTQ
@@ -31990,9 +31990,9 @@ of_PRF
 that_CJT
 clock_NN1
 bear_VVI
-Roman_AJ0-NN1
+Roman_AJ0
 or_CJC
-Arabic_NN1-AJ0
+Arabic_AJ0
 numerals_NN2
 or_CJC
 does_VDZ
@@ -32072,7 +32072,7 @@ you_PNP
 were_VBD
 right_NN1
 STOP_VVB
-READING_NN1-NP0
+READING_NP0
 HERE_AV0
 Well_AV0
 were_VBD
@@ -32282,7 +32282,7 @@ learn_VVI
 to_TO0
 think_VVB
 differently_AV0
-Learning_VVG-NN1
+Learning_NN1
 parrot_NN1
 fashion_NN1
 is_VBZ
@@ -32317,7 +32317,7 @@ night_NN1
 and_CJC
 learning_NN1
 the_AT0
-English_AJ0-NN1
+English_AJ0
 crib_NN1
 of_PRF
 Caesar_NP0
@@ -32418,7 +32418,7 @@ able_AJ0
 to_TO0
 bring_VVI
 your_DPS
-right-brain_AJ0-NN1
+right-brain_AJ0
 skills_NN2
 into_PRP
 it_PNP
@@ -32618,7 +32618,7 @@ local_AJ0
 telephone_NN1
 directory_NN1
 and_CJC
-listed_AJ0
+listed_VVN
 them_PNP
 together_AV0
 with_PRP
@@ -33065,14 +33065,14 @@ you_PNP
 did_VDD
 with_PRP
 the_AT0
-missing_VVG-AJ0
+missing_VVG
 object_NN1
 Remembering_VVG
 facts_NN2
 There_EX0
 are_VBB
 two_CRD
-principal_AJ0-NN1
+principal_AJ0
 methods_NN2
 of_PRF
 making_VVG
@@ -33272,8 +33272,8 @@ where_AVQ
 the_AT0
 tried_VVD
 and_CJC
-trusted_VVD
-Peg_NP0-NN1
+trusted_AJ0
+Peg_NN1
 System_NN1
 comes_VVZ
 into_PRP
@@ -33747,7 +33747,7 @@ A_AT0
 big_AJ0
 brown_AJ0
 hen_NN1
-nesting_VVG-NN1
+nesting_VVG
 happily_AV0
 inside_PRP
 an_AT0
@@ -33924,7 +33924,7 @@ taking_VVG
 part_NN1
 in_PRP
 a_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 sport_NN1
 without_PRP
 either_AV0
@@ -34130,7 +34130,7 @@ is_VBZ
 able_AJ0
 to_TO0
 offer_VVI
-concrete_AJ0-NN1
+concrete_AJ0
 proof_NN1
 one_CRD
 way_NN1
@@ -34183,7 +34183,7 @@ of_PRF
 human_AJ0
 existence_NN1
 I_PNP
-feel_VVI
+feel_VVB
 it_PNP
 would_VM0
 also_AV0
@@ -34296,7 +34296,7 @@ reincarnation_NN1
 not_XX0
 in_PRP
 the_AT0
-flamboyant_AJ0-NN1
+flamboyant_AJ0
 almost_AV0
 show-biz_NN1
 way_NN1
@@ -34877,7 +34877,7 @@ TAKING_VVG
 RESPONSIBILITY_NN1
 FOR_PRP
 YOURSELF_PNX
-Becoming_VVG-AJ0
+Becoming_VVG
 aware_AJ0
 means_NN0
 taking_VVG
@@ -35389,7 +35389,7 @@ to_TO0
 the_AT0
 complete_AJ0
 sexual_AJ0
-act_VVI
+act_NN1
 There_EX0
 is_VBZ
 today_AV0
@@ -35491,7 +35491,7 @@ for_PRP
 the_AT0
 individual_AJ0
 to_TO0
-feel_VVI
+feel_VVB
 that_CJT
 his_DPS
 or_CJC
@@ -35586,7 +35586,7 @@ responsibility_NN1
 for_PRP
 how_AVQ
 we_PNP
-feel_VVI
+feel_VVB
 about_PRP
 ourselves_PNX
 and_CJC
@@ -35739,7 +35739,7 @@ senses_NN2
 Seeing_VVG
 As_CJS
 you_PNP
-walk_VVI
+walk_NN1
 along_AVP
 the_AT0
 street_NN1
@@ -35791,7 +35791,7 @@ at_PRP
 them_PNP
 Notice_VVB
 the_AT0
-varying_AJ0-VVG
+varying_AJ0
 colours_NN2
 of_PRF
 the_AT0
@@ -35963,7 +35963,7 @@ to_TO0
 listen_VVI
 to_TO0
 it_PNP
-Touching_VVG-AJ0
+Touching_VVG
 We_PNP
 all_DT0
 know_VVI
@@ -36010,7 +36010,7 @@ cat_NN1
 or_CJC
 dog_NN1
 or_CJC
-lie_VVI
+lie_VVB
 between_PRP
 cool_AJ0
 sheets_NN2
@@ -36035,7 +36035,7 @@ how_AVQ
 it_PNP
 makes_VVZ
 you_PNP
-feel_VVI
+feel_VVB
 what_DTQ
 memories_NN2
 it_PNP
@@ -36089,7 +36089,7 @@ and_CJC
 cause_NN1
 us_PNP
 to_TO0
-feel_VVI
+feel_VVB
 happy_AJ0
 or_CJC
 sad_AJ0
@@ -36137,7 +36137,7 @@ know_VVI
 what_DTQ
 to_TO0
 avoid_VVI
-Tasting_NN1-VVG
+Tasting_VVG
 The_AT0
 fact_NN1
 that_CJT
@@ -36217,7 +36217,7 @@ being_VBG
 together_AV0
 talking_VVG
 and_CJC
-relaxing_VVG-AJ0
+relaxing_VVG
 is_VBZ
 often_AV0
 eaten_VVN
@@ -36335,7 +36335,7 @@ reason_NN1
 that_CJT
 we_PNP
 often_AV0
-feel_VVI
+feel_VVB
 isolated_AJ0
 in_PRP
 our_DPS
@@ -36684,7 +36684,7 @@ emotional_AJ0
 distress_NN1
 you_PNP
 will_VM0
-feel_VVI
+feel_VVB
 it_PNP
 deeply_AV0
 at_PRP
@@ -36852,9 +36852,9 @@ to_TO0
 undertake_VVI
 during_PRP
 your_DPS
-present_AJ0-NN1
+present_AJ0
 lifetime_NN1
-Forgiveness_NN1-NP0
+Forgiveness_NP0
 One_CRD
 can_VM0
 not_XX0
@@ -36959,7 +36959,7 @@ them_PNP
 in_PRP
 the_AT0
 long-term_AJ0
-DEALING_VVG-NN1
+DEALING_VVG
 WITH_PRP
 DEATH_NN1
 Is_VBZ
@@ -37185,7 +37185,7 @@ deeds_NN2
 undone_VVN
 or_CJC
 words_NN2
-unsaid_VVN-VVD
+unsaid_VVD
 and_CJC
 of_PRF
 course_NN1
@@ -37290,7 +37290,7 @@ you_PNP
 realise_VVI
 that_CJT
 you_PNP
-cry_VVI
+cry_NN1
 only_AV0
 for_PRP
 yourself_PNX
@@ -37951,7 +37951,7 @@ Live_VVB
 fully_AV0
 in_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 do_VDB
 n't_XX0
 waste_NN1
@@ -38071,7 +38071,7 @@ that_CJT
 harmful_AJ0
 thoughts_NN2
 will_VM0
-hurt_VVI
+hurt_VVN
 you_PNP
 and_CJC
 let_VVB
@@ -38166,7 +38166,7 @@ person_NN1
 is_VBZ
 to_TO0
 be_VBI
-Fear_NN1-VVB
+Fear_NN1
 can_VM0
 not_XX0
 be_VBI
@@ -38197,7 +38197,7 @@ yourself_PNX
 By_PRP
 choosing_VVG
 to_TO0
-feel_VVI
+feel_VVB
 love_NN1
 you_PNP
 have_VHB

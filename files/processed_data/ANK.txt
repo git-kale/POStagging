@@ -1,6 +1,6 @@
 HIGHWAYMEN_NN2
 OF_PRF
-BROADMOOR_NP0-NN1
+BROADMOOR_NN1
 The_AT0
 green_AJ0
 and_CJC
@@ -56,7 +56,7 @@ its_DPS
 most_AV0
 famous_AJ0
 feature_NN1
-Broadmoor_NP0-NN1
+Broadmoor_NN1
 The_AT0
 moor_NN1
 was_VBD
@@ -436,7 +436,7 @@ of_PRF
 righteousness_NN1
 to_TO0
 his_DPS
-devoted_AJ0-VVN
+devoted_AJ0
 flock_NN1
 by_PRP
 day_NN1
@@ -477,7 +477,7 @@ shot_NN1
 The_AT0
 parson_NN1
 fled_VVD
-emptyhanded_AJ0-VVD
+emptyhanded_VVD
 He_PNP
 was_VBD
 ridden_VVN
@@ -550,14 +550,14 @@ there_EX0
 were_VBD
 others_NN2
 of_PRF
-varying_AJ0-VVG
+varying_AJ0
 degrees_NN2
 of_PRF
 notoriety_NN1
 There_EX0
 was_VBD
 Captain_NP0
-Show_NN1-VVB
+Show_NN1
 a_AT0
 seemingly_AV0
 respectable_AJ0
@@ -574,7 +574,7 @@ area_NN1
 of_PRF
 the_AT0
 moor_NN1
-Snows_NP0
+Snows_NN2
 Ride_NN1
 a_AT0
 local_AJ0
@@ -654,7 +654,7 @@ Windsor_NP0
 Forest_NN1
 bordered_VVN
 on_PRP
-Broadmoor_NP0-NN1
+Broadmoor_NN1
 and_CJC
 Bagshot_NP0
 Heath_NN1
@@ -902,7 +902,7 @@ to_TO0
 be_VBI
 their_DPS
 undoing_VVG
-Local_NN1-AJ0
+Local_AJ0
 gentry_NN0
 and_CJC
 landowners_NN2
@@ -1301,7 +1301,7 @@ been_VBN
 baited_VVN
 set_VVN
 and_CJC
-closed_VVD
+closed_VVN
 Under_PRP
 the_AT0
 persuasion_NN1
@@ -1337,7 +1337,7 @@ the_AT0
 forest_NN1
 After_PRP
 a_AT0
-pitched_AJ0
+pitched_VVD
 battle_NN1
 no_AT0
 less_AV0
@@ -1468,7 +1468,7 @@ lodge_NN1
 near_PRP
 Caesar_NP0
 's_POS
-Camp_NP0-NN1
+Camp_NN1
 for_PRP
 several_DT0
 hours_NN2
@@ -1557,7 +1557,7 @@ intersection_NN1
 of_PRF
 the_AT0
 moor_NN1
-Wishmoor_NP0-NN1
+Wishmoor_NP0
 Cross_NP0
 where_AVQ
 three_CRD
@@ -1567,7 +1567,7 @@ four_CRD
 parishes_NN2
 meet_VVI
 THE_AT0
-READING_NN1-NP0
+READING_NP0
 AND_CJC
 LONDON_NP0
 COACH_NN1
@@ -1583,12 +1583,12 @@ JARMAN_NP0
 EQUIPMENT_NN1
 AT_PRP
 THE_AT0
-OSTRICH_NN1-NP0
+OSTRICH_NP0
 THE_AT0
-LONDON-BATH_AJ0-NN1
+LONDON-BATH_AJ0
 ROAD_NN1
 THROUGH_PRP
-MAIDENHEAD_NP0-NN1
+MAIDENHEAD_NN1
 THICKET_NN1
 IN_PRP
 PATERSON_NP0
@@ -1612,7 +1612,7 @@ COLNBROOK_NP0
 TILTING_AJ0
 BED_NN1
 The_AT0
-Ostrich_NP0-NN1
+Ostrich_NP0
 Inn_NN1
 still_AV0
 stands_VVZ
@@ -1643,7 +1643,7 @@ before_PRP
 that_CJT
 on_PRP
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 London_NP0
 to_TO0
 Bath_NP0
@@ -1668,7 +1668,7 @@ Middle_AJ0
 Ages_NN2
 The_AT0
 name_NN1
-Ostrich_NP0-NN1
+Ostrich_NP0
 is_VBZ
 in_PRP
 all_DT0
@@ -1719,7 +1719,7 @@ monarch_NN1
 at_PRP
 Windsor_NP0
 The_AT0
-Ostrich_NP0-NN1
+Ostrich_NP0
 first_ORD
 came_VVD
 to_TO0
@@ -1790,7 +1790,7 @@ late_AJ0
 1500s_CRD
 so_AV0
 the_AT0
-Ostrich_NP0-NN1
+Ostrich_NP0
 has_VHZ
 the_AT0
 distinction_NN1
@@ -1819,7 +1819,7 @@ first_ORD
 mentioned_VVN
 in_PRP
 an_AT0
-English_AJ0-NN1
+English_AJ0
 novel_NN1
 Deloney_NP0
 's_POS
@@ -1886,7 +1886,7 @@ the_AT0
 landlord_NN1
 of_PRF
 the_AT0
-Ostrich_NP0-NN1
+Ostrich_NP0
 probably_AV0
 in_PRP
 the_AT0
@@ -1913,7 +1913,7 @@ drink_NN1
 until_CJS
 he_PNP
 was_VBD
-besozzled_VVN-AJ0
+besozzled_VVN
 and_CJC
 then_AV0
 lead_VVI
@@ -2022,7 +2022,7 @@ and_CJC
 clothes_NN2
 to_TO0
 the_AT0
-taciturn_VVB-NN1
+taciturn_NN1
 gypsies_NN2
 that_CJT
 wandered_VVD
@@ -2189,7 +2189,7 @@ lad_NN1
 heard_VVN
 curses_NN2
 and_CJC
-hollering_VVG-NN1
+hollering_VVG
 coming_VVG
 from_PRP
 the_AT0
@@ -2214,7 +2214,7 @@ in_PRP
 pain_NN1
 and_CJC
 rubbing_VVG
-spattered_VVN-VVD
+spattered_VVN
 fat_AJ0
 from_PRP
 his_DPS
@@ -2293,7 +2293,7 @@ fifteen_CRD
 and_CJC
 twenty_CRD
 THE_AT0
-OSTRICH_NN1-NP0
+OSTRICH_NP0
 INN_NN1
 COLNBROOK_NP0
 NEWGATE_NP0
@@ -2311,7 +2311,7 @@ BURIED_VVN
 BELOW_AV0
 THE_AT0
 FLOGGING_NN1
-WARD_NN1-NP0
+WARD_NP0
 AND_CJC
 THE_AT0
 CHAIN_NN1
@@ -2319,7 +2319,7 @@ CUPBOARD_NN1
 PS_NN1
 THE_AT0
 1870_CRD
-MAIDENHEAD_NP0-NN1
+MAIDENHEAD_NN1
 AND_CJC
 MARLOW_NP0
 POST_NN1
@@ -2338,8 +2338,8 @@ WERE_VBD
 CAUGHT_VVN
 THE_AT0
 GREAT_AJ0
-MAIDENHEAD_NP0-NN1
-MAIL_NN1-VVB
+MAIDENHEAD_NN1
+MAIL_NN1
 ROBBERY_NN1
 On_PRP
 a_AT0
@@ -2358,7 +2358,7 @@ the_AT0
 Royal_AJ0
 Mail_NN1
 They_PNP
-stamped_AJ0
+stamped_VVD
 their_DPS
 feet_NN2
 and_CJC
@@ -2563,7 +2563,7 @@ from_PRP
 the_AT0
 case_NN1
 The_AT0
-frost-bitten_AJ0-NN1
+frost-bitten_NN1
 Weston_NP0
 brothers_NN2
 were_VBD
@@ -2618,7 +2618,7 @@ done_VDN
 credit_NN1
 to_TO0
 the_AT0
-swashbuckling_AJ0-NN1
+swashbuckling_AJ0
 imagination_NN1
 of_PRF
 a_AT0
@@ -2701,7 +2701,7 @@ him_PNP
 promotion_NN1
 to_TO0
 a_AT0
-trusted_VVD
+trusted_AJ0
 position_NN1
 where_AVQ
 he_PNP
@@ -2788,7 +2788,7 @@ of_PRF
 gambling_NN1
 drinking_VVG
 and_CJC
-womanising_NN1-VVG
+womanising_VVG
 got_VVN
 the_AT0
 brothers_NN2
@@ -2908,7 +2908,7 @@ living_VVG
 as_CJS
 a_AT0
 part-time_AJ0
-thespian_AJ0-NN1
+thespian_NN1
 and_CJC
 also_AV0
 as_CJS
@@ -2922,7 +2922,7 @@ wealthy_AJ0
 clients_NN2
 Neither_DT0
 profession_NN1
-yielded_VVD-VVN
+yielded_VVD
 sufficient_AJ0
 funds_NN2
 for_PRP
@@ -2991,7 +2991,7 @@ when_CJS
 he_PNP
 was_VBD
 noticed_VVD
-pawning_VVG-AJ0
+pawning_AJ0
 stolen_VVN
 articles_NN2
 by_PRP
@@ -3032,7 +3032,7 @@ making_VVG
 a_AT0
 lucrative_AJ0
 living_VVG
-rustling_VVG-NN1
+rustling_NN1
 horses_NN2
 cattle_NN2
 and_CJC
@@ -3181,7 +3181,7 @@ nefarious_AJ0
 practices_NN2
 then_AV0
 they_PNP
-faded_AJ0
+faded_VVN
 into_PRP
 the_AT0
 night_NN1
@@ -3244,7 +3244,7 @@ arrested_VVN
 Quickly_AV0
 tried_VVD
 and_CJC
-convicted_VVN-AJ0
+convicted_VVN
 he_PNP
 was_VBD
 sentenced_VVN
@@ -3274,7 +3274,7 @@ felonious_AJ0
 talents_NN2
 to_TO0
 the_AT0
-smuggling_NN1-VVG
+smuggling_VVG
 trade_NN1
 They_PNP
 had_VHD
@@ -3300,7 +3300,7 @@ from_PRP
 Folkestone_NP0
 to_TO0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 coast_NN1
 dealing_VVG
 in_PRP
@@ -3421,7 +3421,7 @@ and_CJC
 back_AVP
 over_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 border_NN1
 The_AT0
 Westons_NP0
@@ -3559,7 +3559,7 @@ down_AVP
 and_CJC
 rob_VVI
 the_AT0
-drowsing_AJ0-NN1
+drowsing_AJ0
 boy_NN1
 while_CJS
 Joseph_NP0
@@ -3629,7 +3629,7 @@ shake_VVI
 and_CJC
 scream_NN1
 his_DPS
-shrieking_VVG-AJ0
+shrieking_VVG
 voice_NN1
 piercing_VVG
 the_AT0
@@ -3730,8 +3730,8 @@ Bristol_NP0
 and_CJC
 Bath_NP0
 Their_DPS
-cornucopian_AJ0-NN1
-haul_VVI
+cornucopian_AJ0
+haul_NN1
 was_VBD
 to_TO0
 realise_VVI
@@ -3760,7 +3760,7 @@ sheer_AJ0
 size_NN1
 of_PRF
 the_AT0
-haul_VVI
+haul_NN1
 that_CJT
 was_VBD
 to_TO0
@@ -3803,7 +3803,7 @@ a_AT0
 law_NN1
 enforcer_NN1
 by_PRP
-tracking_VVG
+tracking_AJ0
 down_AVP
 and_CJC
 executing_VVG
@@ -3829,7 +3829,7 @@ a_AT0
 reputation_NN1
 for_PRP
 never_AV0
-smiling_VVG-AJ0
+smiling_VVG
 and_CJC
 always_AV0
 getting_VVG
@@ -3948,13 +3948,13 @@ brothers_NN2
 had_VHD
 money_NN1
 to_TO0
-burn_VVI
+burn_NN1
 and_CJC
 they_PNP
 were_VBD
 often_AV0
 in_PRP
-disguise_VVI
+disguise_NN1
 George_NP0
 specialising_VVG
 in_PRP
@@ -3993,7 +3993,7 @@ network_NN1
 of_PRF
 spies_NN2
 would_VM0
-ferret_NN1-VVB
+ferret_NN1
 them_PNP
 out_AVP
 He_PNP
@@ -4107,7 +4107,7 @@ the_AT0
 genteel_AJ0
 town_NN1
 of_PRF
-Winchelsea_NP0-NN1
+Winchelsea_NP0
 They_PNP
 had_VHD
 hired_VVN
@@ -4167,7 +4167,7 @@ that_CJT
 could_VM0
 not_XX0
 be_VBI
-slaked_VVN
+slaked_AJ0
 He_PNP
 had_VHD
 adorned_VVN
@@ -4175,7 +4175,7 @@ his_DPS
 new_AJ0
 abode_NN1
 at_PRP
-Winchelsea_NP0-NN1
+Winchelsea_NP0
 with_PRP
 the_AT0
 finest_AJS
@@ -4213,7 +4213,7 @@ contacted_VVN
 the_AT0
 Sheriff_NN1
 of_PRF
-Rye_NP0-NN1
+Rye_NP0
 to_TO0
 collect_VVI
 the_AT0
@@ -4228,7 +4228,7 @@ approached_VVD
 the_AT0
 brothers_NN2
 at_PRP
-Winchelsea_NP0-NN1
+Winchelsea_NP0
 they_PNP
 found_VVD
 them_PNP
@@ -4288,7 +4288,7 @@ across_PRP
 the_AT0
 quicksands_NN2
 to_TO0
-Rye_NP0-NN1
+Rye_NP0
 where_AVQ
 they_PNP
 left_VVN
@@ -4490,7 +4490,7 @@ ground_NN1
 below_AV0
 More_AV0
 runners_NN2
-converged_VVN-VVD
+converged_VVN
 on_PRP
 them_PNP
 and_CJC
@@ -4611,7 +4611,7 @@ year_NN1
 by_PRP
 the_AT0
 Gordon_NP0
-Riots_NN2-VVZ
+Riots_NN2
 At_PRP
 that_CJT
 time_NN1
@@ -4632,7 +4632,7 @@ building_NN1
 was_VBD
 still_AV0
 in_PRP
-disrepair_NN1-VVB
+disrepair_NN1
 when_CJS
 the_AT0
 brothers_NN2
@@ -4810,7 +4810,7 @@ him_PNP
 unconscious_AJ0
 and_CJC
 then_AV0
-gathering_NN1
+gathering_VVG
 his_DPS
 keys_NN2
 made_VVN
@@ -4899,7 +4899,7 @@ most_AV0
 incensed_AJ0
 at_PRP
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 simplicity_NN1
 with_PRP
 which_DTQ
@@ -4986,7 +4986,7 @@ to_TO0
 kill_VVI
 Both_DT0
 were_VBD
-convicted_VVN-AJ0
+convicted_VVN
 and_CJC
 sentenced_VVN
 to_TO0
@@ -5068,7 +5068,7 @@ THE_AT0
 WESTONS_NP0
 SETTLED_VVN
 IN_PRP
-RYE_NP0-NN1
+RYE_NP0
 WHICH_DTQ
 LOOKED_VVD
 LIKE_PRP
@@ -5081,17 +5081,17 @@ ELIZABETH_NP0
 'S_POS
 EFFIGY_NN1
 THE_AT0
-HOBY_NN1-NP0
+HOBY_NN1
 MEMORIAL_NN1
 AT_PRP
-BISHAM_NP0-NN1
+BISHAM_NP0
 CHURCH_NN1
 TM_NP0
-BISHAM_NP0-NN1
+BISHAM_NP0
 'S_POS
 HEARTLESS_AJ0
 LADY_NN1
-Bisham_NP0-NN1
+Bisham_NP0
 's_POS
 medieval_AJ0
 Abbey_NN1
@@ -5220,7 +5220,7 @@ order_NN1
 Anne_NP0
 to_TO0
 exchange_NN1
-Bisham_NP0-NN1
+Bisham_NP0
 Abbey_NN1
 for_PRP
 a_AT0
@@ -5256,13 +5256,13 @@ Hoby_NP0
 family_NN1
 became_VVD
 firmly_AV0
-entrenched_AJ0
+entrenched_VVN
 as_CJS
 Lords_NP0
 and_CJC
 owners_NN2
 of_PRF
-Bisham_NP0-NN1
+Bisham_NP0
 Philip_NP0
 Hoby_NP0
 died_VVD
@@ -5336,7 +5336,7 @@ youngest_AJS
 Elizabeth_NP0
 came_VVD
 to_TO0
-Bisham_NP0-NN1
+Bisham_NP0
 as_CJS
 Lady_NP0
 Hoby_NP0
@@ -5397,7 +5397,7 @@ a_AT0
 virtual_AJ0
 prisoner_NN1
 at_PRP
-Bisham_NP0-NN1
+Bisham_NP0
 before_PRP
 succeeding_AJ0
 to_TO0
@@ -5549,7 +5549,7 @@ did_VDD
 not_XX0
 have_VHB
 the_AT0
-intellectual_AJ0-NN1
+intellectual_AJ0
 capabilities_NN2
 of_PRF
 his_DPS
@@ -5596,7 +5596,7 @@ soundly_AV0
 thrashed_VVD
 by_PRP
 his_DPS
-exasperated_AJ0
+exasperated_VVN
 mother_NN1
 As_CJS
 to_TO0
@@ -5938,7 +5938,7 @@ longevity_NN1
 Her_DPS
 memorial_NN1
 in_PRP
-Bisham_NP0-NN1
+Bisham_NP0
 Church_NN1
 is_VBZ
 one_CRD
@@ -5988,16 +5988,16 @@ THE_AT0
 CORONER_NN1
 'S_POS
 COURT_NN1
-BISHAM_NP0-NN1
+BISHAM_NP0
 ABBEY_NN1
 THEN_AV0
 AND_CJC
 NOW_AV0
 CB_UNC
 THE_AT0
-READING_NN1-NP0
+READING_NP0
 CASH-KILLING_NN1
-Ascot_NP0-NN1
+Ascot_NP0
 and_CJC
 Windsor_NP0
 race_NN1
@@ -6031,7 +6031,7 @@ spirits_NN2
 and_CJC
 unsuccessful_AJ0
 ones_NN2
-drowning_NN1-VVG
+drowning_VVG
 their_DPS
 sorrows_NN2
 brought_VVN
@@ -6058,7 +6058,7 @@ vendors_NN2
 pickpockets_NN2
 women_NN2
 of_PRF
-ill-repute_NN1-AJ0
+ill-repute_NN1
 and_CJC
 down-and-outs_NN2
 of_PRF
@@ -6421,7 +6421,7 @@ happened_VVD
 she_PNP
 enquired_VVD
 My_DPS
-dear_ITJ
+dear_NN1
 I_PNP
 do_VDB
 not_XX0
@@ -6466,7 +6466,7 @@ the_AT0
 road_NN1
 to_TO0
 the_AT0
-Welcome_VVB-NN1
+Welcome_NN1
 Caf\xc3\xa9_NN1
 owned_VVN
 by_PRP
@@ -6583,7 +6583,7 @@ by_PRP
 a_AT0
 local_AJ0
 man_NN1
-Chief_NP0
+Chief_NN1
 Constable_NP0
 Thomas_NP0
 Burrows_NP0
@@ -6594,7 +6594,7 @@ afternoon_NN1
 Scotland_NP0
 Yard_NN1
 was_VBD
-involved_AJ0
+involved_VVN
 Two_CRD
 of_PRF
 their_DPS
@@ -6610,7 +6610,7 @@ way_NN1
 down_AVP
 from_PRP
 Paddington_NP0
-Chief_NP0
+Chief_NN1
 Inspector_NP0
 James_NP0
 Berret_NP0
@@ -6731,7 +6731,7 @@ by_PRP
 two_CRD
 uniformed_AJ0
 officers_NN2
-Pope_NP0-NN1
+Pope_NP0
 and_CJC
 Knight_NP0
 and_CJC
@@ -6742,7 +6742,7 @@ to_TO0
 Valpy_NP0
 Street_NP0
 where_AVQ
-Chief_NP0
+Chief_NN1
 Constable_NP0
 Thomas_NP0
 Burrows_NP0
@@ -6867,14 +6867,14 @@ and_CJC
 only_AV0
 bearded_AJ0
 detective_NN1
-retired_AJ0
+retired_VVD
 to_TO0
 a_AT0
 tiny_AJ0
 room_NN1
 at_PRP
 the_AT0
-Blagrave_NP0-NN1
+Blagrave_NP0
 Arms_NN2
 There_EX0
 with_PRP
@@ -6929,7 +6929,7 @@ Yard_NN1
 's_POS
 fingerprint_NN1
 bureau_NN1
-Chief_NP0
+Chief_NN1
 Inspector_NP0
 Harry_NP0
 Battley_NP0
@@ -6937,7 +6937,7 @@ and_CJC
 a_AT0
 photographic_AJ0
 expert_NN1
-Chief_NP0
+Chief_NN1
 Inspector_NP0
 William_NP0
 McBride_NP0
@@ -7017,7 +7017,7 @@ the_AT0
 man_NN1
 He_PNP
 was_VBD
-flurried_VVN-AJ0
+flurried_AJ0
 middle-aged_AJ0
 but_CJC
 smartly_AV0
@@ -7286,7 +7286,7 @@ witness_NN1
 was_VBD
 Arthur_NP0
 William_NP0
-Crouch_NN1-VVB
+Crouch_VVB
 Oliver_NP0
 's_POS
 brother-in-law_NN1
@@ -7308,7 +7308,7 @@ James_NP0
 Leonard_NP0
 Joyce_NP0
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 at_PRP
 the_AT0
 Royal_AJ0
@@ -7386,7 +7386,7 @@ reported_VVN
 that_CJT
 the_AT0
 patient_NN1
-alternated_VVN-VVD
+alternated_VVD
 between_PRP
 the_AT0
 conscious_AJ0
@@ -7663,7 +7663,7 @@ door_NN1
 of_PRF
 the_AT0
 nearby_AJ0
-Bull_NP0-NN1
+Bull_NP0
 public_AJ0
 house_NN1
 He_PNP
@@ -7694,7 +7694,7 @@ cleared_VVN
 A_AT0
 Mrs_NP0
 Dorothy_NP0
-Shepherd_NP0-NN1
+Shepherd_NP0
 described_VVN
 a_AT0
 middle-aged_AJ0
@@ -7721,7 +7721,7 @@ may_VM0
 possibly_AV0
 have_VHB
 been_VBN
-bleeding_VVG-AJ0
+bleeding_AJ0
 A_AT0
 Mrs_NP0
 Loxton_NP0
@@ -7895,7 +7895,7 @@ man_NN1
 in_PRP
 an_AT0
 Isleworth_NP0
-doss_VVI
+doss_NN1
 house_NN1
 who_PNQ
 was_VBD
@@ -8052,7 +8052,7 @@ Candy_NN1
 Candy_NN1
 a_AT0
 travelling_VVG
-tinker_NN1-VVB
+tinker_NN1
 was_VBD
 arrested_VVN
 on_PRP
@@ -8061,7 +8061,7 @@ July_NP0
 for_PRP
 attempting_VVG
 to_TO0
-slash_VVI
+slash_NN1
 a_AT0
 man_NN1
 with_PRP
@@ -8077,7 +8077,7 @@ He_PNP
 mentioned_VVN
 to_TO0
 Sergeant_NP0
-Pope_NP0-NN1
+Pope_NP0
 that_CJT
 he_PNP
 knew_VVD
@@ -8126,7 +8126,7 @@ on_PRP
 22_CRD
 June_NP0
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 named_VVN
 Mike_NP0
 whom_PNQ
@@ -8149,7 +8149,7 @@ Candy_NN1
 refused_VVD
 and_CJC
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 had_VHD
 wandered_VVD
 off_AVP
@@ -8161,7 +8161,7 @@ do_VDB
 it_PNP
 alone_AJ0
 The_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 was_VBD
 soon_AV0
 traced_VVN
@@ -8199,7 +8199,7 @@ he_PNP
 had_VHD
 been_VBN
 at_PRP
-Ascot_NP0-NN1
+Ascot_NP0
 Races_NN2
 His_DPS
 evening_NN1
@@ -8229,7 +8229,7 @@ witnesses_NN2
 Thus_AV0
 Mike_NP0
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 was_VBD
 cleared_VVN
 but_CJC
@@ -8257,7 +8257,7 @@ Inspector_NP0
 Berret_NP0
 's_POS
 suspicions_NN2
-intensified_VVD-VVN
+intensified_VVD
 when_CJS
 Alice_NP0
 James_NP0
@@ -8277,7 +8277,7 @@ forward_AV0
 a_AT0
 witness_NN1
 who_PNQ
-assured_VVD
+assured_VVN
 police_NN2
 he_PNP
 had_VHD
@@ -8311,7 +8311,7 @@ reluctantly_AV0
 let_VVB
 the_AT0
 wayward_AJ0
-tinker_NN1-VVB
+tinker_NN1
 go_VVI
 about_PRP
 his_DPS
@@ -8505,7 +8505,7 @@ came_VVD
 into_PRP
 the_AT0
 frame_NN1
-Chief_NP0
+Chief_NN1
 Constable_NP0
 Burrows_NP0
 was_VBD
@@ -8627,7 +8627,7 @@ Reading_NP0
 and_CJC
 Sergeant_NP0
 Harris_NP0
-awaited_VVD
+awaited_VVN
 the_AT0
 result_NN1
 of_PRF
@@ -8795,7 +8795,7 @@ pressure_NN1
 Drew_NP0
 's_POS
 disposition_NN1
-alternated_VVN-VVD
+alternated_VVD
 to_TO0
 extremes_NN2
 Sometimes_AV0
@@ -8837,7 +8837,7 @@ on_PRP
 2_CRD
 October_NP0
 1929_CRD
-Chief_NP0
+Chief_NN1
 Inspector_NP0
 Berret_NP0
 continued_VVD
@@ -8956,7 +8956,7 @@ He_PNP
 was_VBD
 carrying_VVG
 something_PNI
-wrapped_VVN-VVD
+wrapped_VVN
 in_PRP
 newspaper_NN1
 At_PRP
@@ -8989,7 +8989,7 @@ taken_VVN
 half_DT0
 an_AT0
 hour_NN1
-Chief_NP0
+Chief_NN1
 Inspector_NP0
 Berret_NP0
 was_VBD
@@ -9109,13 +9109,13 @@ with_PRP
 a_AT0
 man_NN1
 named_VVN
-Blaney_NP0-NN1
+Blaney_NP0
 and_CJC
 Young_NP0
 Buffalo_NP0
 was_VBD
 born_VVN
-Blaney_NP0-NN1
+Blaney_NP0
 was_VBD
 writing_NN1
 an_AT0
@@ -9135,7 +9135,7 @@ to_TO0
 be_VBI
 the_AT0
 star_NN1
-Blaney_NP0-NN1
+Blaney_NP0
 traced_VVN
 many_DT0
 famous_AJ0
@@ -9167,7 +9167,7 @@ him_PNP
 a_AT0
 natural_AJ0
 choice_NN1
-Blaney_NP0-NN1
+Blaney_NP0
 's_POS
 success_NN1
 in_PRP
@@ -9222,7 +9222,7 @@ cattle_NN2
 rustlers_NN2
 enthralled_VVD
 an_AT0
-English_AJ0-NN1
+English_AJ0
 public_AJ0
 it_PNP
 brought_VVN
@@ -9340,7 +9340,7 @@ Hollywood_NP0
 but_CJC
 finding_VVG
 this_DT0
-unfulfilling_VVG-NN1
+unfulfilling_VVG
 returned_VVD
 to_TO0
 his_DPS
@@ -9353,7 +9353,7 @@ his_DPS
 rapport_NN1
 with_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 and_CJC
 a_AT0
 penchant_NN1
@@ -9374,7 +9374,7 @@ back_AVP
 in_PRP
 the_AT0
 West_NP0
-End_NP0
+End_NN1
 in_PRP
 a_AT0
 play_VVI
@@ -9796,7 +9796,7 @@ man_NN1
 5\xe2\x80\xb28\xe2\x80\xb3-5\xe2\x80\xb29\xe2\x80\xb3_UNC
 tall_AJ0
 clean-shaven_AJ0
-full-featured_NN1-AJ0
+full-featured_AJ0
 wearing_VVG
 a_AT0
 navy_NN1
@@ -9896,7 +9896,7 @@ Ratcliff_NP0
 a_AT0
 solicitor_NN1
 of_PRF
-Blagrave_NP0-NN1
+Blagrave_NP0
 Street_NP0
 The_AT0
 following_AJ0
@@ -10068,7 +10068,7 @@ Among_PRP
 them_PNP
 was_VBD
 John_NP0
-Ingram_NP0-NN1
+Ingram_NP0
 who_PNQ
 said_VVD
 that_CJT
@@ -10129,7 +10129,7 @@ Mrs_NP0
 Taylor_NP0
 from_PRP
 the_AT0
-Welcome_VVB-NN1
+Welcome_NN1
 Caf\xc3\xa9_NN1
 whose_DTQ
 husband_NN1
@@ -10171,7 +10171,7 @@ had_VHD
 been_VBN
 belligerent_AJ0
 and_CJC
-overpowering_AJ0-VVG
+overpowering_VVG
 and_CJC
 had_VHD
 left_VVN
@@ -10217,7 +10217,7 @@ about_PRP
 Cross_NP0
 Street_NP0
 at_PRP
-varying_AJ0-VVG
+varying_AJ0
 times_NN2
 on_PRP
 the_AT0
@@ -10495,7 +10495,7 @@ he_PNP
 came_VVD
 into_PRP
 her_DPS
-dressing_VVG
+dressing_NN1
 room_NN1
 to_TO0
 ask_VVI
@@ -10695,7 +10695,7 @@ Drew_NP0
 landlady_NN1
 Mrs_NP0
 Mary_NP0
-Goodhall_NP0-NN1
+Goodhall_NP0
 of_PRF
 9_CRD
 Kings_NN2
@@ -10778,7 +10778,7 @@ rationalise_VVI
 them_PNP
 He_PNP
 had_VHD
-paced_VVD
+paced_VVN
 all_DT0
 the_AT0
 possible_AJ0
@@ -11221,7 +11221,7 @@ a_AT0
 gun_NN1
 had_VHD
 gone_VVN
-missing_VVG-AJ0
+missing_VVG
 from_PRP
 the_AT0
 stage_NN1
@@ -11320,7 +11320,7 @@ sixty_CRD
 witnesses_NN2
 all_DT0
 giving_VVG
-varying_AJ0-VVG
+varying_AJ0
 times_NN2
 of_PRF
 sightings_NN2
@@ -11349,7 +11349,7 @@ shoppers_NN2
 and_CJC
 tramdrivers_NN2
 gave_VVD
-varying_AJ0-VVG
+varying_AJ0
 accounts_NN2
 of_PRF
 witnessing_VVG
@@ -11432,7 +11432,7 @@ the_AT0
 tour_NN1
 Later_AV0
 Harris_NP0
-clashed_VVN-VVD
+clashed_VVN
 with_PRP
 the_AT0
 abrasive_AJ0
@@ -11447,7 +11447,7 @@ actor_NN1
 hair_NN1
 had_VHD
 been_VBN
-dyed_AJ0
+dyed_VVN
 or_CJC
 not_XX0
 Harris_NP0
@@ -11551,7 +11551,7 @@ his_DPS
 memory_NN1
 or_CJC
 his_DPS
-thespian_AJ0-NN1
+thespian_NN1
 ability_NN1
 He_PNP
 was_VBD
@@ -11607,7 +11607,7 @@ over-zealous_AJ0
 coroner_NN1
 once_AV0
 more_AV0
-closed_VVD
+closed_VVN
 the_AT0
 proceedings_NN2
 On_PRP
@@ -11689,7 +11689,7 @@ a_AT0
 drink_NN1
 at_PRP
 the_AT0
-Bull_NP0-NN1
+Bull_NP0
 situated_VVN
 at_PRP
 the_AT0
@@ -12008,7 +12008,7 @@ Wells_NP0
 who_PNQ
 worked_VVD
 for_PRP
-Geary_NP0-NN1
+Geary_NP0
 's_POS
 at_PRP
 22_CRD
@@ -12069,7 +12069,7 @@ police_NN2
 and_CJC
 in_PRP
 a_AT0
-public-spirited_AJ0-NN1
+public-spirited_AJ0
 way_NN1
 had_VHD
 volunteered_VVN
@@ -12157,7 +12157,7 @@ was_VBD
 breakfasting_VVG
 in_PRP
 the_AT0
-Welcome_VVB-NN1
+Welcome_NN1
 Caf\xc3\xa9_NN1
 in_PRP
 Cross_NP0
@@ -12393,7 +12393,7 @@ not_XX0
 remember_VVI
 doing_VDG
 so_AV0
-Chief_NP0
+Chief_NN1
 Constable_NP0
 Burrows_NP0
 was_VBD
@@ -12409,7 +12409,7 @@ any_DT0
 light_NN1
 on_PRP
 the_AT0
-missing_VVG-AJ0
+missing_VVG
 statement_NN1
 Burrows_NP0
 stated_VVD
@@ -12450,7 +12450,7 @@ of_PRF
 detectives_NN2
 sat_VVD
 The_AT0
-missing_VVG-AJ0
+missing_VVG
 statement_NN1
 was_VBD
 handed_VVD
@@ -12520,7 +12520,7 @@ and_CJC
 his_DPS
 entourage_NN1
 were_VBD
-glowing_AJ0-VVG
+glowing_AJ0
 with_PRP
 potential_NN1
 satisfaction_NN1
@@ -12698,7 +12698,7 @@ Nottingham_NP0
 also_AV0
 of_PRF
 Mrs_NP0
-Shepherd_NP0-NN1
+Shepherd_NP0
 of_PRF
 Cross_NP0
 Street_NP0
@@ -12765,7 +12765,7 @@ After_PRP
 2\xc2\xbe_CRD
 hours_NN2
 of_PRF
-nailbiting_VVG-AJ0
+nailbiting_VVG
 frustration_NN1
 the_AT0
 foreman_NN1
@@ -12907,7 +12907,7 @@ thanked_VVD
 the_AT0
 jury_NN1
 and_CJC
-closed_VVD
+closed_VVN
 the_AT0
 inquest_NN1
 on_PRP
@@ -13092,7 +13092,7 @@ after_PRP
 encore_NN1
 until_CJS
 the_AT0
-thinning_VVG-AJ0
+thinning_VVG
 crowd_NN1
 finally_AV0
 disappeared_VVD
@@ -13105,7 +13105,7 @@ Nobody_PNI
 was_VBD
 ever_AV0
 officially_AV0
-convicted_VVN-AJ0
+convicted_VVN
 for_PRP
 the_AT0
 murder_NN1
@@ -13276,12 +13276,12 @@ in_PRP
 a_AT0
 public_AJ0
 grave_NN1
-LEFT_AJ0-VVD
+LEFT_AJ0
 THE_AT0
 FORMIDABLE_AJ0
 DETECTIVE_NN1
 INSPECTOR_NN1
-BERRET_NN1-NP0
+BERRET_NN1
 AND_CJC
 RIGHT_AV0
 MR_NP0
@@ -13292,7 +13292,7 @@ MURDERED_AJ0
 NEWSAGENT_NN1
 BROAD_AJ0
 STREET_NN1
-READING_NN1-NP0
+READING_NP0
 IN_PRP
 THE_AT0
 '20s_CRD
@@ -13328,7 +13328,7 @@ the_AT0
 Norfolk_NP0
 village_NN1
 of_PRF
-Aledby_NP0-NN1
+Aledby_NN1
 some_DT0
 200_CRD
 years_NN2
@@ -13361,7 +13361,7 @@ Lowestoft_NP0
 The_AT0
 widow_NN1
 a_AT0
-Quaker_AJ0-NN1
+Quaker_AJ0
 would_VM0
 seem_VVI
 to_TO0
@@ -13441,7 +13441,7 @@ was_VBD
 a_AT0
 charmer_NN1
 an_AT0
-opportunist_AJ0
+opportunist_NN1
 a_AT0
 socialite_NN1
 and_CJC
@@ -13463,7 +13463,7 @@ writing_NN1
 to_TO0
 a_AT0
 young_AJ0
-Quaker_AJ0-NN1
+Quaker_AJ0
 girl_NN1
 in_PRP
 Norwich_NP0
@@ -13515,7 +13515,7 @@ same_DT0
 year_NN1
 John_NP0
 unfortunately_AV0
-impregnated_AJ0-VVD
+impregnated_VVD
 an_AT0
 Ipswich_NP0
 barmaid_NN1
@@ -13588,7 +13588,7 @@ endured_VVD
 John_NP0
 did_VDD
 not_XX0
-fall_VVI
+fall_NN1
 foul_AJ0
 of_PRF
 the_AT0
@@ -13631,12 +13631,12 @@ and_CJC
 dress_NN1
 of_PRF
 a_AT0
-Quaker_AJ0-NN1
+Quaker_AJ0
 the_AT0
 bank_NN1
 manager_NN1
 a_AT0
-Quaker_AJ0-NN1
+Quaker_AJ0
 himself_PNX
 was_VBD
 somewhat_AV0
@@ -14194,10 +14194,10 @@ Once_AV0
 again_AV0
 the_AT0
 lady_NN1
-involved_AJ0
+involved_VVN
 was_VBD
 a_AT0
-Quaker_AJ0-NN1
+Quaker_AJ0
 For_PRP
 some_DT0
 obscure_AJ0
@@ -14678,7 +14678,7 @@ described_VVN
 him_PNP
 as_CJS
 a_AT0
-Quaker_AJ0-NN1
+Quaker_AJ0
 he_PNP
 set_VVN
 out_AVP
@@ -14820,11 +14820,11 @@ before_PRP
 he_PNP
 returned_VVD
 to_TO0
-Quaker_AJ0-NN1
+Quaker_AJ0
 's_POS
 lodgings_NN2
 at_PRP
-Cheapside_NP0-NN1
+Cheapside_NN1
 Williams_NP0
 certain_AJ0
 that_CJT
@@ -14843,7 +14843,7 @@ confident_AJ0
 that_CJT
 Tawell_NP0
 had_VHD
-retired_AJ0
+retired_VVD
 for_PRP
 the_AT0
 night_NN1
@@ -14870,7 +14870,7 @@ known_VVN
 to_TO0
 be_VBI
 a_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 haunt_VVI
 Tawell_NP0
 who_PNQ
@@ -14965,7 +14965,7 @@ already_AV0
 been_VBN
 dubbed_VVN
 the_AT0
-Quaker_AJ0-NN1
+Quaker_AJ0
 murderer_NN1
 It_PNP
 started_VVD
@@ -15166,7 +15166,7 @@ the_AT0
 subject_NN1
 of_PRF
 an_AT0
-increased_AJ0
+increased_VVN
 allowance_NN1
 for_PRP
 her_DPS
@@ -15516,19 +15516,19 @@ IN_PRP
 THE_AT0
 SLOUGH_NP0
 KILLING_VVG
-CASE_NP0-NN1
+CASE_NN1
 CB_UNC
 LITTLECOTE_NP0
 HOUSE_NN1
 LITTLECOTE_NP0
 'S_POS
-BURNING_VVG-AJ0
+BURNING_AJ0
 BABE_NN1
 The_AT0
 Tudor_NP0
 facade_NN1
 of_PRF
-Littlecote_NP0-NN1
+Littlecote_NN1
 is_VBZ
 to_TO0
 say_VVI
@@ -15561,7 +15561,7 @@ was_VBD
 owned_VVN
 by_PRP
 the_AT0
-Darrel_NP0-NN1
+Darrel_NP0
 family_NN1
 The_AT0
 last_ORD
@@ -15575,7 +15575,7 @@ lineage_NN1
 was_VBD
 Wild_AJ0
 William_NP0
-Darrel_NP0-NN1
+Darrel_NP0
 Our_DPS
 story_NN1
 really_AV0
@@ -15723,7 +15723,7 @@ One_CRD
 was_VBD
 a_AT0
 tall_AJ0
-large-featured_AJ0-NN1
+large-featured_AJ0
 and_CJC
 forbidding_AJ0
 man_NN1
@@ -15786,7 +15786,7 @@ the_AT0
 fire_NN1
 he_PNP
 commanded_VVN
-Horrorstruck_VVB-NN1
+Horrorstruck_VVB
 she_PNP
 refused_VVD
 Place_NP0
@@ -15803,7 +15803,7 @@ refused_VVD
 At_PRP
 this_DT0
 point_NN1
-Darrel_NP0-NN1
+Darrel_NP0
 snatched_VVD
 the_AT0
 child_NN1
@@ -15853,7 +15853,7 @@ Other_AJ0
 accounts_NN2
 have_VHB
 her_DPS
-dying_VVG-AJ0
+dying_AJ0
 a_AT0
 week_NN1
 or_CJC
@@ -15862,7 +15862,7 @@ later_AV0
 While_CJS
 Wild_AJ0
 Will_VM0
-Darrel_NP0-NN1
+Darrel_NP0
 summoned_VVN
 his_DPS
 servants_NN2
@@ -15895,14 +15895,14 @@ in_PRP
 the_AT0
 room_NN1
 This_DT0
-act_VVI
+act_NN1
 was_VBD
 almost_AV0
 the_AT0
 downfall_NN1
 of_PRF
 Will_VM0
-Darrel_NP0-NN1
+Darrel_NP0
 Mrs_NP0
 Barnes_NP0
 returned_VVD
@@ -15973,7 +15973,7 @@ that_CJT
 the_AT0
 house_NN1
 was_VBD
-Littlecote_NP0-NN1
+Littlecote_NN1
 and_CJC
 the_AT0
 perpetrator_NN1
@@ -15982,7 +15982,7 @@ this_DT0
 heinous_AJ0
 crime_NN1
 was_VBD
-Darrel_NP0-NN1
+Darrel_NP0
 Did_VDD
 she_PNP
 find_VVI
@@ -16086,7 +16086,7 @@ had_VHD
 no_AT0
 love_NN1
 for_PRP
-Darrel_NP0-NN1
+Darrel_NP0
 at_PRP
 all_DT0
 There_EX0
@@ -16100,7 +16100,7 @@ between_PRP
 the_AT0
 two_CRD
 since_CJS
-Darrel_NP0-NN1
+Darrel_NP0
 had_VHD
 composed_VVN
 a_AT0
@@ -16109,7 +16109,7 @@ ridiculing_VVG
 Sir_NP0
 John_NP0
 's_POS
-mock-Italian_AJ0-NN1
+mock-Italian_NN1
 attempts_NN2
 at_PRP
 his_DPS
@@ -16149,7 +16149,7 @@ Henry_NP0
 Knyvett_NP0
 another_DT0
 of_PRF
-Darrel_NP0-NN1
+Darrel_NP0
 's_POS
 antagonists_NN2
 wrote_VVD
@@ -16281,7 +16281,7 @@ between_PRP
 the_AT0
 lady_NN1
 and_CJC
-Darrel_NP0-NN1
+Darrel_NP0
 for_PRP
 some_DT0
 time_NN1
@@ -16295,7 +16295,7 @@ the_AT0
 extensive_AJ0
 grounds_NN2
 of_PRF
-Littlecote_NP0-NN1
+Littlecote_NN1
 and_CJC
 also_AV0
 in_PRP
@@ -16320,7 +16320,7 @@ of_PRF
 rumour_NN1
 enhanced_VVN
 Will_VM0
-Darrel_NP0-NN1
+Darrel_NP0
 in_PRP
 Sir_NP0
 Henry_NP0
@@ -16342,7 +16342,7 @@ the_AT0
 most_AV0
 likely_AJ0
 is_VBZ
-Darrel_NP0-NN1
+Darrel_NP0
 's_POS
 sister_NN1
 Ada_NP0
@@ -16361,7 +16361,7 @@ at_PRP
 the_AT0
 time_NN1
 that_CJT
-Darrel_NP0-NN1
+Darrel_NP0
 was_VBD
 having_VHG
 some_DT0
@@ -16464,7 +16464,7 @@ had_VHD
 the_AT0
 young_AJ0
 mother_NN1
-dying_VVG-AJ0
+dying_AJ0
 in_PRP
 childbirth_NN1
 for_PRP
@@ -16497,7 +16497,7 @@ in_PRP
 those_DT0
 days_NN2
 and_CJC
-Darrel_NP0-NN1
+Darrel_NP0
 would_VM0
 have_VHB
 been_VBN
@@ -16538,7 +16538,7 @@ from_PRP
 the_AT0
 drapes_NN2
 of_PRF
-Littlecote_NP0-NN1
+Littlecote_NN1
 incidentally_AV0
 the_AT0
 cutting_VVG
@@ -16571,7 +16571,7 @@ Brooks_NP0
 tried_VVD
 to_TO0
 charge_NN1
-Darrel_NP0-NN1
+Darrel_NP0
 in_PRP
 court_NN1
 Here_AV0
@@ -16580,7 +16580,7 @@ reports_NN2
 vary_VVB
 Some_DT0
 say_VVI
-Darrel_NP0-NN1
+Darrel_NP0
 was_VBD
 tried_VVD
 and_CJC
@@ -16612,7 +16612,7 @@ that_CJT
 he_PNP
 was_VBD
 never_AV0
-convicted_VVN-AJ0
+convicted_VVN
 Another_DT0
 character_NN1
 turns_VVZ
@@ -16631,11 +16631,11 @@ Judge_NN1
 Sir_NP0
 John_NP0
 Popham_NP0
-Darrel_NP0-NN1
+Darrel_NP0
 had_VHD
 mysteriously_AV0
 signed_VVN
-Littlecote_NP0-NN1
+Littlecote_NN1
 over_PRP
 to_TO0
 Sir_NP0
@@ -16673,7 +16673,7 @@ gallows_NN2
 Probably_AV0
 so_AV0
 for_PRP
-Darrel_NP0-NN1
+Darrel_NP0
 was_VBD
 already_AV0
 deeply_AV0
@@ -16686,7 +16686,7 @@ the_AT0
 debts_NN2
 and_CJC
 took_VVD
-Littlecote_NP0-NN1
+Littlecote_NN1
 There_EX0
 is_VBZ
 a_AT0
@@ -16743,7 +16743,7 @@ enjoyed_VVD
 the_AT0
 ownership_NN1
 of_PRF
-Littlecote_NP0-NN1
+Littlecote_NN1
 for_PRP
 many_DT0
 years_NN2
@@ -16759,7 +16759,7 @@ of_PRF
 a_AT0
 fat_AJ0
 and_CJC
-overpowering_AJ0-VVG
+overpowering_VVG
 Sir_NP0
 John_NP0
 is_VBZ
@@ -16792,7 +16792,7 @@ what_DTQ
 of_PRF
 Wild_AJ0
 Will_VM0
-Darrel_NP0-NN1
+Darrel_NP0
 It_PNP
 seems_VVZ
 that_CJT
@@ -16857,7 +16857,7 @@ the_AT0
 border_NN1
 of_PRF
 the_AT0
-Littlecote_NP0-NN1
+Littlecote_NN1
 estate_NN1
 stood_VVD
 a_AT0
@@ -16869,7 +16869,7 @@ area_NN1
 is_VBZ
 known_VVN
 as_CJS
-Darrel_NP0-NN1
+Darrel_NP0
 's_POS
 stile_NN1
 In_PRP
@@ -16906,7 +16906,7 @@ The_AT0
 horse_NN1
 shied_VVD
 throwing_VVG
-Darrel_NP0-NN1
+Darrel_NP0
 from_PRP
 his_DPS
 saddle_NN1
@@ -16924,7 +16924,7 @@ was_VBD
 dead_AJ0
 If_CJS
 you_PNP
-drive_VVI
+drive_NN1
 along_AVP
 the_AT0
 A338_UNC
@@ -16947,7 +16947,7 @@ that_CJT
 once_AV0
 was_VBD
 a_AT0
-Roman_AJ0-NN1
+Roman_AJ0
 road_NN1
 that_CJT
 crosses_VVZ
@@ -16972,7 +16972,7 @@ spectre_NN1
 of_PRF
 Wild_AJ0
 Will_VM0
-Darrel_NP0-NN1
+Darrel_NP0
 on_PRP
 a_AT0
 black_AJ0
@@ -17011,7 +17011,7 @@ READINGS_NN2
 BABY_NN1
 FARMER_NN1
 THE_AT0
-READING_NN1-NP0
+READING_NP0
 BABY_NN1
 FARMER_NN1
 In_PRP
@@ -17033,7 +17033,7 @@ a_AT0
 daughter_NN1
 named_VVN
 Doris_NP0
-Marmon_NP0-NN1
+Marmon_NP0
 The_AT0
 mother_NN1
 was_VBD
@@ -17114,13 +17114,13 @@ reply_NN1
 bearing_VVG
 the_AT0
 postmark_NN1
-Caversham_NP0-NN1
+Caversham_NP0
 The_AT0
 writer_NN1
 professed_VVD
 to_TO0
 be_VBI
-church-going_NN1-AJ0
+church-going_NN1
 happily_AV0
 married_AJ0
 to_TO0
@@ -17316,7 +17316,7 @@ Stanfield_NP0
 had_VHD
 returned_VVD
 to_TO0
-Caversham_NP0-NN1
+Caversham_NP0
 the_AT0
 God-fearing_AJ0
 people_NN0
@@ -17334,7 +17334,7 @@ were_VBD
 appearing_VVG
 on_PRP
 their_DPS
-stretch_VVI
+stretch_NN1
 of_PRF
 the_AT0
 river_NN1
@@ -17386,7 +17386,7 @@ Meadow_NP0
 another_DT0
 in_PRP
 the_AT0
-Kennet_NN1-NP0
+Kennet_NN1
 and_CJC
 a_AT0
 further_AJC
@@ -17496,7 +17496,7 @@ closest_AJS
 the_AT0
 body_NN1
 the_AT0
-smudged_AJ0-VVN
+smudged_AJ0
 but_CJC
 still_AV0
 discernible_AJ0
@@ -17544,7 +17544,7 @@ only_AV0
 as_CJS
 far_AV0
 as_CJS
-Caversham_NP0-NN1
+Caversham_NP0
 He_PNP
 thoroughly_AV0
 searched_VVD
@@ -17608,7 +17608,7 @@ trace_NN1
 Mrs_NP0
 Dyer_NP0
 to_TO0
-Caversham_NP0-NN1
+Caversham_NP0
 where_AVQ
 she_PNP
 was_VBD
@@ -17826,7 +17826,7 @@ murder_NN1
 of_PRF
 little_AJ0
 Edith_NP0
-Marmon_NP0-NN1
+Marmon_NP0
 one_CRD
 of_PRF
 the_AT0
@@ -17910,7 +17910,7 @@ If_CJS
 he_PNP
 was_VBD
 not_XX0
-involved_AJ0
+involved_VVN
 then_AV0
 he_PNP
 must_VM0
@@ -18041,7 +18041,7 @@ dawn_NN1
 upon_PRP
 an_AT0
 outraged_AJ0
-Public_AJ0-NN1
+Public_AJ0
 They_PNP
 were_VBD
 out_AVP
@@ -18058,8 +18058,8 @@ crowded_AJ0
 courtroom_NN1
 of_PRF
 Evalina_NP0
-Marmon_NP0-NN1
-weeping_AJ0-NN1
+Marmon_NP0
+weeping_NN1
 over_PRP
 her_DPS
 murdered_VVN
@@ -18073,7 +18073,7 @@ of_PRF
 the_AT0
 other_AJ0
 witnesses_NN2
-sensationalised_VVN-AJ0
+sensationalised_VVN
 by_PRP
 the_AT0
 media_NN0
@@ -18265,7 +18265,7 @@ close_AJ0
 friend_NN1
 of_PRF
 another_DT0
-convicted_VVN-AJ0
+convicted_VVN
 baby_NN1
 farmer_NN1
 Margaret_NP0
@@ -18381,12 +18381,12 @@ executioner_NN1
 a_AT0
 man_NN1
 named_VVN
-Billington_NN1-NP0
+Billington_NP0
 was_VBD
 that_CJT
 the_AT0
 now_AV0
-quivering_AJ0-VVG
+quivering_VVG
 bulk_NN1
 of_PRF
 a_AT0
@@ -18411,7 +18411,7 @@ trip_NN1
 through_PRP
 the_AT0
 trapdoor_NN1
-Billington_NN1-NP0
+Billington_NP0
 however_AV0
 was_VBD
 a_AT0
@@ -18452,7 +18452,7 @@ AT_PRP
 45_CRD
 KENSINGTON_NP0
 ROAD_NN1
-READING_NN1-NP0
+READING_NP0
 MRS_NP0
 DYER_NP0
 'S_POS
@@ -18924,11 +18924,11 @@ Newbury_NP0
 accompanied_VVN
 by_PRP
 Sergeant_NP0
-Bull_NP0-NN1
+Bull_NP0
 had_VHD
 found_VVD
 a_AT0
-hiking_NN1-AJ0
+hiking_AJ0
 stick_NN1
 belonging_VVG
 to_TO0
@@ -18958,7 +18958,7 @@ the_AT0
 Superintendent_NN1
 and_CJC
 Sergeant_NP0
-Bull_NP0-NN1
+Bull_NP0
 called_VVN
 on_PRP
 William_NP0
@@ -19015,12 +19015,12 @@ he_PNP
 also_AV0
 had_VHD
 trousers_NN2
-soaked_AJ0
+soaked_VVN
 in_PRP
 red_AJ0
 lead_VVI
 Footprints_NN2
-matching_VVG
+matching_AJ0
 the_AT0
 shoes_NN2
 of_PRF
@@ -19225,9 +19225,9 @@ Henry_NP0
 Henry_NP0
 Jones_NP0
 a_AT0
-game-keeper_NN1-AJ0
+game-keeper_AJ0
 identified_VVN
-ferret_NN1-VVB
+ferret_NN1
 lines_NN2
 found_VVD
 in_PRP
@@ -19247,7 +19247,7 @@ point_NN1
 Mr_NP0
 G._NP0
 C._NP0
-Cherry_NP0-NN1
+Cherry_NP0
 presiding_VVG
 adjourned_VVN
 the_AT0
@@ -19312,7 +19312,7 @@ the_AT0
 Tidburys_NP0
 '_POS
 clothing_NN1
-Damning_VVG-AJ0
+Damning_VVG
 evidence_NN1
 indeed_AV0
 When_CJS
@@ -19554,7 +19554,7 @@ his_DPS
 front_NN1
 gate_NN1
 before_PRP
-retiring_VVG-AJ0
+retiring_VVG
 In_PRP
 answer_NN1
 to_TO0
@@ -19581,7 +19581,7 @@ could_VM0
 not_XX0
 explain_VVI
 the_AT0
-bloodstains_NN2-VVZ
+bloodstains_NN2
 on_PRP
 his_DPS
 trousers_NN2
@@ -19614,7 +19614,7 @@ been_VBN
 in_PRP
 any_DT0
 way_NN1
-involved_AJ0
+involved_VVN
 In_PRP
 quick_AJ0
 succession_NN1
@@ -19700,7 +19700,7 @@ had_VHD
 ever_AV0
 used_VVN
 a_AT0
-hiking_NN1-AJ0
+hiking_AJ0
 stick_NN1
 Henry_NP0
 returned_VVD
@@ -19710,7 +19710,7 @@ seat_NN1
 with_PRP
 an_AT0
 arrogant_AJ0
-shrug_VVI
+shrug_NN1
 of_PRF
 his_DPS
 shoulders_NN2
@@ -19765,7 +19765,7 @@ he_PNP
 repeated_VVN
 word_NN1
 for_PRP
-faltering_VVG-AJ0
+faltering_AJ0
 word_NN1
 everything_PNI
 his_DPS
@@ -20010,7 +20010,7 @@ They_PNP
 warned_VVD
 him_PNP
 with_PRP
-veiled_AJ0
+veiled_VVN
 threats_NN2
 against_PRP
 mentioning_VVG
@@ -20079,7 +20079,7 @@ an_AT0
 unexpected_AJ0
 source_NN1
 PC_NP0
-Butcher_NP0-NN1
+Butcher_NP0
 a_AT0
 constable_NN1
 at_PRP
@@ -20114,7 +20114,7 @@ of_PRF
 the_AT0
 constable_NN1
 PC_NP0
-Butcher_NP0-NN1
+Butcher_NP0
 referred_VVN
 to_TO0
 his_DPS
@@ -20190,11 +20190,11 @@ not_XX0
 taking_VVG
 the_AT0
 bloody_AJ0
-drop_VVI
+drop_NN1
 for_PRP
 them_PNP
 PC_NP0
-Butcher_NP0-NN1
+Butcher_NP0
 stated_VVD
 that_CJT
 while_CJS
@@ -20309,7 +20309,7 @@ done_VDN
 his_DPS
 best_AJS
 to_TO0
-abet_VVI
+abet_NN1
 them_PNP
 after_PRP
 the_AT0
@@ -20353,7 +20353,7 @@ up_AVP
 in_PRP
 which_DTQ
 he_PNP
-swelt_VVB-NN1
+swelt_VVB
 on_PRP
 the_AT0
 viciousness_NN1
@@ -20443,7 +20443,7 @@ up_AVP
 and_CJC
 the_AT0
 jury_NN1
-retired_AJ0
+retired_VVD
 They_PNP
 returned_VVD
 two_CRD
@@ -20572,7 +20572,7 @@ Tidbury_NP0
 could_VM0
 not_XX0
 be_VBI
-convicted_VVN-AJ0
+convicted_VVN
 of_PRF
 aiding_VVG
 and_CJC
@@ -20626,12 +20626,12 @@ outraged_AJ0
 at_PRP
 the_AT0
 brutality_NN1
-involved_AJ0
+involved_VVN
 it_PNP
 carried_VVN
 little_AJ0
 weight_NN1
-Public_AJ0-NN1
+Public_AJ0
 sympathy_NN1
 was_VBD
 more_AV0
@@ -20731,7 +20731,7 @@ not_XX0
 four_CRD
 men_NN2
 were_VBD
-involved_AJ0
+involved_VVN
 Henry_NP0
 Tidbury_NP0
 admitted_VVN
@@ -20764,7 +20764,7 @@ judge_VVI
 they_PNP
 were_VBD
 never_AV0
-involved_AJ0
+involved_VVN
 At_PRP
 Reading_NP0
 Gaol_NN1
@@ -20775,7 +20775,7 @@ on_PRP
 12_CRD
 March_NP0
 executioner_NN1
-Marwood_NP0-NN1
+Marwood_NN1
 did_VDD
 his_DPS
 duty_NN1
@@ -20841,7 +20841,7 @@ THOMAS_NP0
 SHORTER_AJC
 INSPECTOR_NN1
 JOSEPH_NP0
-DREWER_NP0-NN1
+DREWER_NN1
 THE_AT0
 MEMORIAL_NN1
 TO_PRP
@@ -20855,7 +20855,7 @@ NEARBY_AV0
 THE_AT0
 19TH_ORD
 CENTURY_NN1
-READING_NN1-NP0
+READING_NP0
 GAOL_NN1
 WHERE_AVQ
 WILDE_NP0
@@ -20878,11 +20878,11 @@ WOOLRIDGE_NP0
 'S_POS
 WINDSOR_NP0
 IN_PRP
-PEASCOD_NP0-NN1
+PEASCOD_NN1
 STREET_NN1
 RS_NP0
 A_AT0
-CLEWER_NN1-VVB
+CLEWER_NN1
 CRIME_NN1
 OF_PRF
 PASSION_NN1
@@ -21491,7 +21491,7 @@ Laura_NP0
 inert_AJ0
 and_CJC
 profusely_AV0
-bleeding_VVG-AJ0
+bleeding_AJ0
 body_NN1
 by_PRP
 the_AT0
@@ -21644,7 +21644,7 @@ conclusion_NN1
 he_PNP
 was_VBD
 unanimously_AV0
-convicted_VVN-AJ0
+convicted_VVN
 There_EX0
 was_VBD
 an_AT0
@@ -21774,7 +21774,7 @@ He_PNP
 met_VVD
 his_DPS
 sentence_NN1
-smiling_VVG-AJ0
+smiling_VVG
 and_CJC
 waving_VVG
 to_TO0
@@ -21842,7 +21842,7 @@ July_NP0
 the_AT0
 famous_AJ0
 hangman_NN1
-Billington_NN1-NP0
+Billington_NP0
 in_PRP
 charge_NN1
 of_PRF
@@ -21880,16 +21880,16 @@ a_AT0
 razor_NN1
 A_AT0
 POLICEMAN_NN1
-PAUSES_VVZ-NN2
+PAUSES_NN2
 IN_PRP
-PEASCOD_NP0-NN1
+PEASCOD_NN1
 STREET_NN1
 WINDSOR_NP0
 WHERE_AVQ
 SHILL_NP0
 'S_POS
 LANDLADY_NN1
-SOUGHT_VVD-VVN
+SOUGHT_VVN
 HELP_VVI
 RS_NP0
 TROOPER_NN1
@@ -21908,7 +21908,7 @@ GWR_NP0
 STATION_NN1
 CB_UNC
 THE_AT0
-MISSING_VVG
+MISSING_AJ0
 WIFE_NN1
 OF_PRF
 WINDSOR_NP0
@@ -22217,7 +22217,7 @@ She_PNP
 knew_VVD
 she_PNP
 was_VBD
-missing_VVG-AJ0
+missing_VVG
 something_PNI
 even_AV0
 if_CJS
@@ -22820,7 +22820,7 @@ Shill_NP0
 from_PRP
 behind_PRP
 the_AT0
-closed_VVD
+closed_VVN
 door_NN1
 Jane_NP0
 Holt_NP0
@@ -22906,7 +22906,7 @@ rest_NN1
 of_PRF
 the_AT0
 children_NN2
-scurried_VVD-VVN
+scurried_VVD
 about_PRP
 the_AT0
 house_NN1
@@ -22930,7 +22930,7 @@ Shill_NP0
 mother_NN1
 She_PNP
 had_VHD
-disapproved_VVD-VVN
+disapproved_VVN
 of_PRF
 Shill_NP0
 from_PRP
@@ -23161,7 +23161,7 @@ room_NN1
 unless_CJS
 Joseph_NP0
 was_VBD
-present_AJ0-NN1
+present_AJ0
 No_ITJ
 he_PNP
 did_VDD
@@ -23229,7 +23229,7 @@ children_NN2
 out_AVP
 for_PRP
 a_AT0
-walk_VVI
+walk_NN1
 He_PNP
 returned_VVD
 at_PRP
@@ -23340,7 +23340,7 @@ William_NP0
 threatened_VVN
 Have_VHB
 you_PNP
-hurt_VVI
+hurt_VVN
 her_DPS
 you_PNP
 humpbacked_AJ0
@@ -23381,7 +23381,7 @@ blows_NN2
 to_TO0
 the_AT0
 head_NN1
-Left_AJ0-NN1
+Left_AJ0
 and_CJC
 right_NN1
 hooks_NN2
@@ -23470,10 +23470,10 @@ Misty_AJ0
 Hayes_NP0
 and_CJC
 a_AT0
-missing_VVG-AJ0
+missing_VVG
 person_NN1
 enquiry_NN1
-commenced_VVD-VVN
+commenced_VVD
 On_PRP
 Monday_NP0
 22_CRD
@@ -23804,7 +23804,7 @@ with_PRP
 it_PNP
 Superintendent_NN1
 Hayes_NP0
-sealed_AJ0
+sealed_VVN
 the_AT0
 bedroom_NN1
 leaving_VVG
@@ -23933,7 +23933,7 @@ dishevelled_AJ0
 hunchback_NN1
 made_VVN
 his_DPS
-faltering_VVG-AJ0
+faltering_AJ0
 way_NN1
 towards_PRP
 them_PNP
@@ -24234,7 +24234,7 @@ person_NN1
 attempted_VVN
 suicide_NN1
 by_PRP
-bashing_VVG-NN1
+bashing_NN1
 his_DPS
 head_NN1
 with_PRP
@@ -24320,7 +24320,7 @@ possible_AJ0
 verdict_NN1
 The_AT0
 jury_NN1
-retired_AJ0
+retired_VVD
 at_PRP
 5.50_CRD
 and_CJC
@@ -24344,7 +24344,7 @@ BROTHERS_NN2
 AND_CJC
 LES_NP0
 WILLIAMS_NP0
-SQUARED_VVD-VVN
+SQUARED_VVN
 UP_AVP
 TO_PRP
 JOSEPH_NP0
@@ -24359,7 +24359,7 @@ THE_AT0
 ASSIZES_NN2
 WINDSOR_NP0
 'S_POS
-GUILDHALL_NP0-NN1
+GUILDHALL_NP0
 PROVIDED_CJS
 THE_AT0
 COURTROOM_NN1
@@ -24370,15 +24370,15 @@ YEAR_NN1
 LATER_AV0
 RS_NP0
 OLD_AJ0
-WATCHFIELD_NP0-NN1
+WATCHFIELD_NP0
 IS_VBZ
 LITTLE_AJ0
 CHANGED_VVN
 SINCE_PRP
 THE_AT0
-CARTER_NN1-NP0
+CARTER_NN1
 KILLING_VVG
-WATCHFIELD_NP0-NN1
+WATCHFIELD_NP0
 'S_POS
 WIFE-KILLER_NN1
 At_PRP
@@ -24402,7 +24402,7 @@ room_NN1
 below_AV0
 his_DPS
 Thomas_NP0
-Land_NP0-NN1
+Land_NN1
 his_DPS
 five-year-old_NN1
 brother_NN1
@@ -24523,7 +24523,7 @@ and_CJC
 then_AV0
 the_AT0
 distinct_AJ0
-cry_VVI
+cry_NN1
 from_PRP
 Rhoda_NP0
 No_ITJ
@@ -24633,7 +24633,7 @@ or_CJC
 of_PRF
 the_AT0
 prong_NN1
-pitchfork_NN1-VVB
+pitchfork_VVB
 and_CJC
 shovel_NN1
 that_CJT
@@ -24676,7 +24676,7 @@ was_VBD
 her_DPS
 habit_NN1
 to_TO0
-drop_VVI
+drop_NN1
 in_PRP
 and_CJC
 see_VVI
@@ -24782,7 +24782,7 @@ trance_NN1
 but_CJC
 he_PNP
 soon_AV0
-regained_VVD
+regained_VVN
 his_DPS
 composure_NN1
 He_PNP
@@ -24822,7 +24822,7 @@ see_VVI
 her_DPS
 sister_NN1
 at_PRP
-Eastleech_NP0-NN1
+Eastleech_NN1
 came_VVD
 the_AT0
 reply_NN1
@@ -24924,7 +24924,7 @@ or_CJC
 two_CRD
 maybe_AV0
 He_PNP
-closed_VVD
+closed_VVN
 the_AT0
 smithy_NN1
 door_NN1
@@ -24949,7 +24949,7 @@ his_DPS
 lunch_NN1
 and_CJC
 was_VBD
-Packed_VVN-AJ0
+Packed_AJ0
 off_AVP
 to_TO0
 school_NN1
@@ -24980,7 +24980,7 @@ see_VVI
 your_DPS
 aunt_NN1
 in_PRP
-Eastleech_NP0-NN1
+Eastleech_NN1
 for_PRP
 a_AT0
 couple_NN1
@@ -25172,7 +25172,7 @@ enquired_VVD
 Anne_NP0
 Up_AVP
 at_PRP
-Eastleech_NP0-NN1
+Eastleech_NN1
 and_CJC
 away_AV0
 from_PRP
@@ -25257,7 +25257,7 @@ see_VVI
 her_DPS
 sister_NN1
 in_PRP
-Eastleech_NP0-NN1
+Eastleech_NN1
 surely_AV0
 she_PNP
 would_VM0
@@ -25352,7 +25352,7 @@ Anne_NP0
 Butler_NP0
 that_CJT
 morning_NN1
-Smoke_NN1-VVB
+Smoke_NN1
 was_VBD
 again_AV0
 billowing_VVG
@@ -25538,7 +25538,7 @@ Dave_NP0
 Titcombe_NP0
 went_VVD
 to_TO0
-Eastleech_NP0-NN1
+Eastleech_NN1
 to_TO0
 see_VVI
 if_CJS
@@ -25683,7 +25683,7 @@ right_NN1
 now_AV0
 What_DTQ
 was_VBD
-Eastleech_NP0-NN1
+Eastleech_NN1
 now_AV0
 Fifteen_CRD
 miles_NN2
@@ -25691,7 +25691,7 @@ thirty_CRD
 miles_NN2
 round_AVP
 trip_NN1
-cross-country_AJ0-NN1
+cross-country_AJ0
 on_PRP
 a_AT0
 bike_NN1
@@ -25816,7 +25816,7 @@ her_DPS
 sister_NN1
 's_POS
 at_PRP
-Eastleech_NP0-NN1
+Eastleech_NN1
 He_PNP
 once_AV0
 again_AV0
@@ -25975,7 +25975,7 @@ I_PNP
 Spent_VVD
 yesterday_AV0
 at_PRP
-Eastleech_NP0-NN1
+Eastleech_NN1
 Highworth_NP0
 and_CJC
 Letchlade_NP0
@@ -26154,7 +26154,7 @@ had_VHD
 sufficient_AJ0
 evidence_NN1
 a_AT0
-missing_VVG-AJ0
+missing_VVG
 wife_NN1
 a_AT0
 husband_NN1
@@ -26290,7 +26290,7 @@ the_AT0
 throat_NN1
 was_VBD
 terribly_AV0
-bruised_VVN-AJ0
+bruised_VVN
 and_CJC
 there_EX0
 had_VHD
@@ -26298,7 +26298,7 @@ been_VBN
 attempts_NN2
 to_TO0
 both_AV0
-burn_VVI
+burn_NN1
 and_CJC
 boil_VVI
 the_AT0
@@ -26367,7 +26367,7 @@ some_DT0
 four_CRD
 years_NN2
 previously_AV0
-Local_NN1-AJ0
+Local_AJ0
 villagers_NN2
 had_VHD
 been_VBN
@@ -26380,11 +26380,11 @@ would_VM0
 a_AT0
 young_AJ0
 woman_NN1
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 her_DPS
 children_NN2
-walk_VVI
+walk_NN1
 out_AVP
 on_PRP
 a_AT0
@@ -26450,12 +26450,12 @@ an_AT0
 area_NN1
 known_VVN
 as_CJS
-Burnt_VVN-AJ0
-Leaze_NP0-NN1
+Burnt_VVN
+Leaze_NN1
 which_DTQ
 was_VBD
 a_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 walking_VVG
 place_NN1
 of_PRF
@@ -26501,7 +26501,7 @@ not_XX0
 guilty_AJ0
 Mr_NP0
 Justice_NP0
-Cave_NP0-NN1
+Cave_NP0
 presided_VVD
 for_PRP
 the_AT0
@@ -26741,7 +26741,7 @@ Macarthy_NP0
 opinion_NN1
 Mr_NP0
 Justice_NP0
-Cave_NP0-NN1
+Cave_NP0
 in_PRP
 his_DPS
 summing_VVG
@@ -26876,20 +26876,20 @@ wives_NN2
 John_NP0
 Carter_NP0
 WANTAGE_NP0
-MARKET_NN1-VVB
+MARKET_NN1
 SQUARE_NN1
 HERE_AV0
-CARTER_NN1-NP0
+CARTER_NN1
 CONFESSED_VVD
 TO_PRP
 HIS_DPS
 BROTHER_NN1
-WATCHFIELD_NP0-NN1
+WATCHFIELD_NP0
 IS_VBZ
 ON_PRP
 THE_AT0
 EXTREME_AJ0
-LEFT_AJ0-VVD
+LEFT_AJ0
 EDGE_NN1
 IN_PRP
 THIS_DT0
@@ -26907,7 +26907,7 @@ VICTIM_NN1
 OF_PRF
 A_AT0
 PUB_NN1
-AFFRAY_NN1-NP0
+AFFRAY_NP0
 CHARLTON_NP0
 'S_POS
 ASSAILANTS_NN2
@@ -26921,7 +26921,7 @@ AT_PRP
 HARWELL_NP0
 It_PNP
 was_VBD
-Eastertide_NN1-NP0
+Eastertide_NP0
 in_PRP
 the_AT0
 small_AJ0
@@ -26954,7 +26954,7 @@ Chequers_NN2
 was_VBD
 doing_VDG
 a_AT0
-roaring_VVG
+roaring_AJ0
 trade_NN1
 The_AT0
 customers_NN2
@@ -27010,7 +27010,7 @@ trouble_NN1
 His_DPS
 concern_NN1
 was_VBD
-heightened_AJ0
+heightened_VVN
 when_CJS
 he_PNP
 saw_VVD
@@ -27031,7 +27031,7 @@ who_PNQ
 travelled_VVD
 the_AT0
 vicinity_NN1
-sleeping_VVG
+sleeping_NN1
 rough_AJ0
 and_CJC
 doing_VDG
@@ -27442,7 +27442,7 @@ every_AT0
 word_NN1
 and_CJC
 thinly_AV0
-veiled_AJ0
+veiled_VVN
 intimidation_NN1
 in_PRP
 every_AT0
@@ -27607,7 +27607,7 @@ The_AT0
 situation_NN1
 was_VBD
 momentarily_AV0
-defused_VVN-VVD
+defused_VVD
 The_AT0
 landlord_NN1
 joined_VVD
@@ -27697,7 +27697,7 @@ Slatter_NP0
 and_CJC
 James_NP0
 were_VBD
-involved_AJ0
+involved_VVN
 Hewett_NP0
 despatched_VVN
 Charlton_NP0
@@ -27934,7 +27934,7 @@ the_AT0
 same_DT0
 treatment_NN1
 A_AT0
-pitched_AJ0
+pitched_VVD
 battle_NN1
 followed_VVN
 between_PRP
@@ -27977,7 +27977,7 @@ to_TO0
 watch_VVI
 the_AT0
 spectacle_NN1
-jeering_VVG-AJ0
+jeering_AJ0
 and_CJC
 shouting_VVG
 and_CJC
@@ -28022,7 +28022,7 @@ Then_AV0
 Hewett_NP0
 noticed_VVD
 James_NP0
-Bosley_NN1-NP0
+Bosley_NP0
 the_AT0
 local_AJ0
 coalmerchant_NN1
@@ -28042,7 +28042,7 @@ cuffs_NN2
 from_PRP
 the_AT0
 bar_NN1
-Bosley_NN1-NP0
+Bosley_NP0
 disappeared_VVD
 returning_VVG
 with_PRP
@@ -28108,7 +28108,7 @@ and_CJC
 knocked_VVD
 him_PNP
 out_AVP
-Bosley_NN1-NP0
+Bosley_NP0
 and_CJC
 Hughes_NP0
 knelt_VVD
@@ -28259,7 +28259,7 @@ day_NN1
 before_PRP
 Mr_NP0
 Bromley_NP0
-Challenor_NN1-NP0
+Challenor_NP0
 of_PRF
 Abingdon_NP0
 Many_DT0
@@ -28278,7 +28278,7 @@ at_PRP
 the_AT0
 Chequers_NN2
 Mr_NP0
-Rice_NN1-NP0
+Rice_NN1
 a_AT0
 surgeon_NN1
 stated_VVD
@@ -28431,14 +28431,14 @@ the_AT0
 other_AJ0
 would_VM0
 be_VBI
-incapacitated_VVN-AJ0
+incapacitated_VVN
 for_PRP
 months_NN2
 to_TO0
 come_VVI
 The_AT0
 coroner_NN1
-closed_VVD
+closed_VVN
 the_AT0
 court_NN1
 and_CJC
@@ -28454,7 +28454,7 @@ made_VVN
 a_AT0
 brief_AJ0
 and_CJC
-taciturn_VVB-NN1
+taciturn_NN1
 appearance_NN1
 at_PRP
 Wantage_NP0
@@ -28505,7 +28505,7 @@ with_PRP
 a_AT0
 sheath_NN1
 knife_NN1
-Bosley_NN1-NP0
+Bosley_NP0
 Hughes_NP0
 and_CJC
 the_AT0
@@ -28522,7 +28522,7 @@ heard_VVN
 Slatter_NP0
 screaming_VVG
 repeatedly_AV0
-Stick_VVB-NN1
+Stick_VVB
 the_AT0
 with_PRP
 your_DPS
@@ -28734,10 +28734,10 @@ would_VM0
 surface_NN1
 in_PRP
 either_AV0
-Ipsden_NP0-NN1
+Ipsden_NN1
 or_CJC
 Stoke_NP0
-Row_NN1-VVB
+Row_NN1
 two_CRD
 tiny_AJ0
 neighbouring_AJ0
@@ -28767,14 +28767,14 @@ noticed_VVD
 a_AT0
 scruffy_AJ0
 individual_AJ0
-walk_VVI
+walk_NN1
 into_PRP
 the_AT0
 Oak_NN1
 public_AJ0
 house_NN1
 Stoke_NP0
-Row_NN1-VVB
+Row_NN1
 The_AT0
 arrest_NN1
 was_VBD
@@ -28914,7 +28914,7 @@ Messrs_NP0
 Nash_NP0
 and_CJC
 Mordaunt_NP0
-Snagge_NP0-NN1
+Snagge_NP0
 for_PRP
 the_AT0
 prosecution_NN1
@@ -29031,7 +29031,7 @@ where_AVQ
 they_PNP
 had_VHD
 been_VBN
-involved_AJ0
+involved_VVN
 in_PRP
 an_AT0
 argument_NN1
@@ -29073,7 +29073,7 @@ opinion_NN1
 drunk_AJ0
 arrogant_AJ0
 and_CJC
-overpowering_AJ0-VVG
+overpowering_VVG
 The_AT0
 fight_VVI
 that_CJT
@@ -29093,7 +29093,7 @@ was_VBD
 arrested_VVN
 at_PRP
 Stoke_NP0
-Row_NN1-VVB
+Row_NN1
 that_CJT
 the_AT0
 unfortunate_AJ0
@@ -29145,7 +29145,7 @@ was_VBD
 obviously_AV0
 a_AT0
 blatant_AJ0
-lie_VVI
+lie_VVB
 that_CJT
 he_PNP
 had_VHD
@@ -29364,7 +29364,7 @@ CROSSED_VVD
 THE_AT0
 THAMES_NP0
 AT_PRP
-STREATLEY_NP0-NN1
+STREATLEY_NN1
 CB_UNC
 EAST_NN1
 HENDRED_NP0
@@ -29382,7 +29382,7 @@ AND_CJC
 GALLOWS_NN2
 VDMC_NP0
 AMY_NP0
-ROBSART_NP0-NN1
+ROBSART_NN1
 AND_CJC
 THE_AT0
 EARL_NN1
@@ -29392,7 +29392,7 @@ MC_NN0
 THE_AT0
 SPIRIT_NN1
 OF_PRF
-CUMNOR_NP0-NN1
+CUMNOR_NP0
 Little_AJ0
 remains_VVZ
 of_PRF
@@ -29408,7 +29408,7 @@ Robert_NP0
 Dudley_NP0
 and_CJC
 Amy_NP0
-Robsart_NP0-NN1
+Robsart_NP0
 All_DT0
 that_CJT
 exists_VVZ
@@ -29541,7 +29541,7 @@ to_TO0
 Robert_NP0
 Dudley_NP0
 Amy_NP0
-Robsart_NP0-NN1
+Robsart_NP0
 daughter_NN1
 of_PRF
 a_AT0
@@ -29650,7 +29650,7 @@ Robert_NP0
 Dudley_NP0
 and_CJC
 Her_DPS
-Sovereign_AJ0-NN1
+Sovereign_NN1
 Majesty_NN1
 Elizabeth_NP0
 1_CRD
@@ -29694,7 +29694,7 @@ ignored_VVN
 the_AT0
 rumours_NN2
 as_CJS
-tittle-tattle_AJ0-NN1
+tittle-tattle_AJ0
 and_CJC
 gossip_NN1
 She_PNP
@@ -29787,7 +29787,7 @@ insisted_VVD
 they_PNP
 go_VVI
 She_PNP
-assured_VVD
+assured_VVN
 her_DPS
 staff_NN0
 that_CJT
@@ -29830,7 +29830,7 @@ third_ORD
 a_AT0
 Mrs_NP0
 Owen_NP0
-dined_VVD-VVN
+dined_VVD
 with_PRP
 the_AT0
 attractive_AJ0
@@ -29841,7 +29841,7 @@ left_VVN
 about_PRP
 9pm_AV0
 Amy_NP0
-assured_VVD
+assured_VVN
 the_AT0
 concerned_AJ0
 woman_NN1
@@ -29945,7 +29945,7 @@ old_AJ0
 question_NN1
 did_VDD
 she_PNP
-fall_VVI
+fall_NN1
 or_CJC
 was_VBD
 she_PNP
@@ -30000,7 +30000,7 @@ his_DPS
 actions_NN2
 unfathomable_AJ0
 The_AT0
-devoted_AJ0-VVN
+devoted_AJ0
 husband_NN1
 did_VDD
 not_XX0
@@ -30014,7 +30014,7 @@ his_DPS
 cousin_NN1
 Sir_NP0
 Thomas_NP0
-Blount_NP0-NN1
+Blount_NP0
 to_TO0
 investigate_VVI
 Also_AV0
@@ -30043,7 +30043,7 @@ expenses_NN2
 were_VBD
 immense_AJ0
 for_PRP
-Elizabethan_AJ0-NN1
+Elizabethan_AJ0
 times_NN2
 and_CJC
 yet_AV0
@@ -30074,7 +30074,7 @@ of_PRF
 Europe_NP0
 Dudley_NP0
 had_VHD
-plotted_VVN
+plotted_VVD
 with_PRP
 Elizabeth_NP0
 They_PNP
@@ -30104,7 +30104,7 @@ the_AT0
 fatal_AJ0
 evening_NN1
 Amy_NP0
-Robsart_NP0-NN1
+Robsart_NP0
 had_VHD
 enjoyed_VVD
 the_AT0
@@ -30200,7 +30200,7 @@ supply_NN1
 one_CRD
 Sir_NP0
 Thomas_NP0
-Blount_NP0-NN1
+Blount_NP0
 's_POS
 half-hearted_AJ0
 investigation_NN1
@@ -30238,7 +30238,7 @@ and_CJC
 embarrassing_AJ0
 his_DPS
 master_NN1
-Blount_NP0-NN1
+Blount_NP0
 met_VVD
 with_PRP
 a_AT0
@@ -30369,7 +30369,7 @@ also_AV0
 noted_VVN
 that_CJT
 both_AV0
-Blount_NP0-NN1
+Blount_NP0
 and_CJC
 Dudley_NP0
 had_VHD
@@ -30398,7 +30398,7 @@ through_PRP
 bribes_NN2
 by_PRP
 both_AV0
-Blount_NP0-NN1
+Blount_NP0
 and_CJC
 Dudley_NP0
 so_AV0
@@ -30430,7 +30430,7 @@ was_VBD
 dropped_VVN
 Of_PRF
 Amy_NP0
-Robsart_NP0-NN1
+Robsart_NP0
 's_POS
 death_NN1
 there_EX0
@@ -30482,7 +30482,7 @@ of_PRF
 Lord_NP0
 Howard_NP0
 of_PRF
-Effingham_NP0-NN1
+Effingham_NN1
 When_CJS
 Elizabeth_NP0
 discovered_VVN
@@ -30517,7 +30517,7 @@ her_DPS
 the_AT0
 whole_AJ0
 Amy_NP0
-Robsart_NP0-NN1
+Robsart_NP0
 affair_NN1
 flared_VVD
 up_AVP
@@ -30544,7 +30544,7 @@ His_DPS
 still_AV0
 close_AJ0
 but_CJC
-strained_AJ0
+strained_VVN
 relationship_NN1
 with_PRP
 his_DPS
@@ -30707,7 +30707,7 @@ his_DPS
 unsuccessful_AJ0
 siege_NN1
 of_PRF
-Zutphen_NP0-NN1
+Zutphen_NN1
 in_PRP
 which_DTQ
 his_DPS
@@ -30767,7 +30767,7 @@ his_DPS
 way_NN1
 he_PNP
 visited_VVD
-Rycote_NP0-NN1
+Rycote_NP0
 House_NN1
 in_PRP
 Oxfordshire_NP0
@@ -30819,7 +30819,7 @@ the_AT0
 shade_NN1
 of_PRF
 Amy_NP0
-Robsart_NP0-NN1
+Robsart_NP0
 He_PNP
 returned_VVD
 to_TO0
@@ -30840,7 +30840,7 @@ is_VBZ
 doubtful_AJ0
 that_CJT
 Amy_NP0
-Robsart_NP0-NN1
+Robsart_NP0
 's_POS
 spirit_NN1
 appeared_VVD
@@ -30874,7 +30874,7 @@ the_AT0
 death_NN1
 of_PRF
 Amy_NP0
-Robsart_NP0-NN1
+Robsart_NP0
 and_CJC
 the_AT0
 death_NN1
@@ -31011,7 +31011,7 @@ and_CJC
 then_AV0
 fell_VVD
 into_PRP
-disrepair_NN1-VVB
+disrepair_NN1
 In_PRP
 1814_CRD
 Cumnor_NP0
@@ -31072,7 +31072,7 @@ stairwell_NN1
 at_PRP
 Cumnor_NP0
 Place_NP0
-CUMNOR_NP0-NN1
+CUMNOR_NP0
 PLACE_NN1
 WAS_VBD
 HOME_NN1
@@ -31101,22 +31101,22 @@ AMY_NP0
 DIE_VVB
 CB_UNC
 JOHN_NP0
-HUTT_NN1-NP0
+HUTT_NP0
 'S_POS
-VILLAGE_NN1-NP0
+VILLAGE_NN1
 BRAY_VVB
 EARLY_AJ0
 THIS_DT0
 CENTURY_NN1
 CB_UNC
 THE_AT0
-END_NN1-VVB
+END_NN1
 OF_PRF
 THE_AT0
 ROAD_NN1
 FOR_PRP
-HUTT_NN1-NP0
-READING_NN1-NP0
+HUTT_NP0
+READING_NP0
 HERE_AV0
 IN_PRP
 1823_CRD
@@ -31124,9 +31124,9 @@ CB_UNC
 TRAGEDY_NN1
 AT_PRP
 TOUCHEN_AJ0
-END_NN1-VVB
+END_NN1
 Touchen_AJ0
-End_NP0
+End_NN1
 is_VBZ
 a_AT0
 small_AJ0
@@ -31177,7 +31177,7 @@ obtained_VVN
 building_NN1
 permission_NN1
 Touchen_AJ0
-End_NP0
+End_NN1
 has_VHZ
 as_CJS
 yet_AV0
@@ -31196,12 +31196,12 @@ baker_NN1
 shop_NN1
 in_PRP
 Touchen_AJ0
-End_NP0
+End_NN1
 Its_DPS
 proprietor_NN1
 was_VBD
 Thomas_NP0
-Pearman_NP0-NN1
+Pearman_NP0
 Thomas_NP0
 was_VBD
 a_AT0
@@ -31323,7 +31323,7 @@ until_CJS
 when_CJS
 Ann_NP0
 would_VM0
-cook_VVI
+cook_NN1
 breakfast_NN1
 and_CJC
 awaken_VVI
@@ -31479,7 +31479,7 @@ been_VBN
 opened_VVD
 after_PRP
 Ann_NP0
-Pearman_NP0-NN1
+Pearman_NP0
 's_POS
 brief_AJ0
 lunchbreak_NN1
@@ -31547,7 +31547,7 @@ the_AT0
 other_AJ0
 hurried_VVD
 as_CJS
-fast_AV0-AJ0
+fast_AJ0
 as_CJS
 her_DPS
 advancing_AJ0
@@ -31568,7 +31568,7 @@ listened_VVD
 intently_AV0
 at_PRP
 the_AT0
-Pearman_NP0-NN1
+Pearman_NP0
 's_POS
 door_NN1
 for_PRP
@@ -31604,7 +31604,7 @@ went_VVD
 quickly_AV0
 to_TO0
 the_AT0
-Pearman_NP0-NN1
+Pearman_NP0
 's_POS
 stable_AJ0
 found_VVD
@@ -31658,7 +31658,7 @@ of_PRF
 the_AT0
 small_AJ0
 Touchen_AJ0
-End_NP0
+End_NN1
 baker_NN1
 's_POS
 shop_NN1
@@ -31695,7 +31695,7 @@ he_PNP
 waited_VVD
 for_PRP
 Thomas_NP0
-Pearman_NP0-NN1
+Pearman_NP0
 to_TO0
 depart_VVI
 on_PRP
@@ -31729,7 +31729,7 @@ John_NP0
 's_POS
 fate_NN1
 was_VBD
-sealed_AJ0
+sealed_VVN
 The_AT0
 prosecution_NN1
 laboured_VVD
@@ -31740,7 +31740,7 @@ amount_NN1
 of_PRF
 time_NN1
 the_AT0
-whittling_VVG-AJ0
+whittling_AJ0
 had_VHD
 taken_VVN
 which_DTQ
@@ -31831,7 +31831,7 @@ this_DT0
 inconvenience_NN1
 by_PRP
 robbing_VVG
-Pearman_NP0-NN1
+Pearman_NP0
 's_POS
 bakery_NN1
 His_DPS
@@ -31840,7 +31840,7 @@ was_VBD
 to_TO0
 wait_VVI
 until_CJS
-Pearman_NP0-NN1
+Pearman_NP0
 had_VHD
 left_VVN
 and_CJC
@@ -31910,7 +31910,7 @@ sweating_VVG
 profusely_AV0
 as_CJS
 he_PNP
-closed_VVD
+closed_VVN
 in_PRP
 on_PRP
 his_DPS
@@ -32035,7 +32035,7 @@ village_NN1
 main_AJ0
 street_NN1
 narrowly_AV0
-missing_VVG-AJ0
+missing_VVG
 two_CRD
 elderly_AJ0
 ladies_NN2
@@ -32050,7 +32050,7 @@ the_AT0
 discovery_NN1
 of_PRF
 Ann_NP0
-Pearman_NP0-NN1
+Pearman_NP0
 can_VM0
 well_AV0
 be_VBI
@@ -32084,7 +32084,7 @@ of_PRF
 the_AT0
 blows_NN2
 had_VHD
-splashed_VVN-VVD
+splashed_VVN
 blood_NN1
 on_PRP
 the_AT0
@@ -32128,7 +32128,7 @@ a_AT0
 constable_NN1
 Both_DT0
 arrived_VVD
-poste-haste_NN1-AJ0
+poste-haste_AJ0
 but_CJC
 there_EX0
 was_VBD
@@ -32138,7 +32138,7 @@ doctor_NN1
 could_VM0
 do_VDB
 Ann_NP0
-Pearman_NP0-NN1
+Pearman_NP0
 was_VBD
 carried_VVN
 to_TO0
@@ -32193,7 +32193,7 @@ an_AT0
 extremely_AV0
 florid_AJ0
 complexion_NN1
-Added_VVN-AJ0
+Added_AJ0
 to_TO0
 this_DT0
 was_VBD
@@ -32205,7 +32205,7 @@ white_AJ0
 hair_NN1
 verging_VVG
 on_PRP
-albino_NN1-AJ0
+albino_AJ0
 There_EX0
 were_VBD
 not_XX0
@@ -32396,7 +32396,7 @@ hour_NN1
 trial_NN1
 the_AT0
 jury_NN1
-retired_AJ0
+retired_VVD
 for_PRP
 a_AT0
 further_AJC
@@ -32448,7 +32448,7 @@ Hutt_NP0
 's_POS
 termination_NN1
 was_VBD
-scheduled_VVN-AJ0
+scheduled_VVN
 for_PRP
 6_CRD
 March_NP0
@@ -32466,7 +32466,7 @@ the_AT0
 corpse_NN1
 be_VBI
 publicly_AV0
-dissected_AJ0
+dissected_VVN
 at_PRP
 Reading_NP0
 Town_NN1
@@ -32482,7 +32482,7 @@ the_AT0
 murder_NN1
 of_PRF
 Ann_NP0
-Pearman_NP0-NN1
+Pearman_NP0
 COMBE_NP0
 GIBBET_NN1
 BERKSHIRE_NP0
@@ -32533,7 +32533,7 @@ Day_NN1
 The_AT0
 bequest_NN1
 financed_VVN
-bullbaiting_VVG
+bullbaiting_NN1
 for_PRP
 162_CRD
 years_NN2
@@ -32543,7 +32543,7 @@ was_VBD
 outlawed_VVN
 in_PRP
 1823_CRD
-Bullbaiting_NP0-NN1
+Bullbaiting_NP0
 was_VBD
 a_AT0
 cruel_AJ0
@@ -32627,7 +32627,7 @@ that_CJT
 at_PRP
 the_AT0
 annual_AJ0
-bullbaiting_VVG
+bullbaiting_NN1
 A_AT0
 body_NN1
 of_PRF
@@ -32654,7 +32654,7 @@ take_VVI
 place_NN1
 at_PRP
 the_AT0
-Cockpit_NN1-NP0
+Cockpit_NP0
 often_AV0
 witnessed_VVN
 by_PRP
@@ -32664,7 +32664,7 @@ the_AT0
 council_NN1
 During_PRP
 the_AT0
-bullbaiting_VVG
+bullbaiting_NN1
 thousands_CRD
 tore_VVD
 through_PRP
@@ -32731,11 +32731,11 @@ was_VBD
 found_VVD
 dead_AJ0
 terribly_AV0
-bruised_VVN-AJ0
+bruised_VVN
 the_AT0
 morning_NN1
 after_PRP
-bullbaiting_VVG
+bullbaiting_NN1
 The_AT0
 Coroner_NN1
 with_PRP
@@ -32772,12 +32772,12 @@ who_PNQ
 died_VVD
 after_PRP
 being_VBG
-hurt_VVI
+hurt_VVN
 by_PRP
 Wokingham_NP0
 Fighters_NN2
 '_POS
-bullbaiting_VVG
+bullbaiting_NN1
 in_PRP
 1808_CRD
 There_EX0
@@ -32854,13 +32854,13 @@ attended_VVN
 a_AT0
 party_NN1
 at_PRP
-Playhatch_NP0-NN1
+Playhatch_NP0
 some_DT0
 two_CRD
 miles_NN2
 north-east_NN1
 of_PRF
-Caversham_NP0-NN1
+Caversham_NP0
 Louisa_NP0
 an_AT0
 attractive_AJ0
@@ -32941,7 +32941,7 @@ in_PRP
 conjunction_NN1
 with_PRP
 Grannie_NN1
-Patin_NP0-NN1
+Patin_NN1
 a_AT0
 self-appointed_AJ0
 cure-all_DT0
@@ -33030,7 +33030,7 @@ that_CJT
 they_PNP
 consulted_VVN
 Granny_NN1
-Patin_NP0-NN1
+Patin_NN1
 concerning_PRP
 the_AT0
 wording_NN1
@@ -33073,7 +33073,7 @@ on_PRP
 my_DPS
 grave_NN1
 now_AV0
-cast_VVN
+cast_NN1
 an_AT0
 eye_NN1
 Beware_VVB
@@ -33109,7 +33109,7 @@ in_PRP
 the_AT0
 little_AJ0
 village_NN1
-Local_NN1-AJ0
+Local_AJ0
 people_NN0
 found_VVD
 the_AT0
@@ -33222,7 +33222,7 @@ Victorian_AJ0
 times_NN2
 and_CJC
 the_AT0
-present_AJ0-NN1
+present_AJ0
 house_NN1
 erected_VVN
 The_AT0
@@ -33253,9 +33253,9 @@ man_NN1
 with_PRP
 local_AJ0
 townsfolk_NN2
-Bullying_VVG-NN1
+Bullying_VVG
 and_CJC
-overpowering_AJ0-VVG
+overpowering_VVG
 he_PNP
 believed_VVD
 that_CJT
@@ -33271,7 +33271,7 @@ stood_VVD
 in_PRP
 his_DPS
 way_NN1
-Feared_VVN-AJ0
+Feared_VVN
 as_CJS
 he_PNP
 was_VBD
@@ -33420,7 +33420,7 @@ nearby_AJ0
 Lambourn_NP0
 Woods_NP0
 were_VBD
-excavated_AJ0
+excavated_VVN
 by_PRP
 the_AT0
 townsfolk_NN2
@@ -33696,7 +33696,7 @@ and_CJC
 one_CRD
 of_PRF
 its_DPS
-initial_AJ0-NN1
+initial_AJ0
 duties_NN2
 was_VBD
 to_TO0
@@ -33710,7 +33710,7 @@ popular_AJ0
 local_AJ0
 farmer_NN1
 Jonathon_NP0
-Blagrave_NP0-NN1
+Blagrave_NP0
 It_PNP
 was_VBD
 a_AT0
@@ -33720,7 +33720,7 @@ in_PRP
 February_NP0
 and_CJC
 Jonathon_NP0
-Blagrave_NP0-NN1
+Blagrave_NP0
 had_VHD
 done_VDN
 well_AV0
@@ -33745,7 +33745,7 @@ prosperous_AJ0
 farm_NN1
 in_PRP
 Upper_AJ0
-Caversham_NP0-NN1
+Caversham_NP0
 some_DT0
 four_CRD
 miles_NN2
@@ -33768,7 +33768,7 @@ now_AV0
 returning_VVG
 home_NN1
 to_TO0
-Blagrave_NP0-NN1
+Blagrave_NP0
 Farm_NN1
 Jon_NP0
 was_VBD
@@ -33828,11 +33828,11 @@ became_VVD
 a_AT0
 fortune_NN1
 Jonathon_NP0
-Blagrave_NP0-NN1
+Blagrave_NP0
 had_VHD
 inflicted_VVN
 his_DPS
-extrovert_NN1-AJ0
+extrovert_AJ0
 and_CJC
 yet_AV0
 popular_AJ0
@@ -33847,7 +33847,7 @@ that_CJT
 evening_NN1
 before_PRP
 crossing_VVG
-Caversham_NP0-NN1
+Caversham_NP0
 Bridge_NN1
 on_PRP
 his_DPS
@@ -33926,10 +33926,10 @@ and_CJC
 inhibitions_NN2
 retreated_VVD
 Farmer_NN1
-Blagrave_NP0-NN1
+Blagrave_NP0
 's_POS
 boasting_VVG
-increased_AJ0
+increased_VVN
 the_AT0
 price_NN1
 he_PNP
@@ -33939,7 +33939,7 @@ his_DPS
 corn_NN1
 became_VVD
 more_AV0
-exaggerated_AJ0
+exaggerated_VVN
 and_CJC
 an_AT0
 Appreciative_AJ0
@@ -33950,14 +33950,14 @@ on_PRP
 He_PNP
 slapped_VVD
 his_DPS
-jingling_AJ0-NN1
+jingling_AJ0
 pocket_NN1
 Nobody_PNI
 makes_VVZ
 profit_NN1
 like_PRP
 Jonathan_NP0
-Blagrave_NP0-NN1
+Blagrave_NP0
 he_PNP
 shouted_VVD
 Unnoticed_AJ0
@@ -34001,7 +34001,7 @@ an_AT0
 easy_AJ0
 way_NN1
 out_AVP
-Blagrave_NP0-NN1
+Blagrave_NP0
 left_VVN
 the_AT0
 Griffin_NP0
@@ -34041,7 +34041,7 @@ the_AT0
 Thames_NP0
 directly_AV0
 towards_PRP
-Blagrave_NP0-NN1
+Blagrave_NP0
 Farm_NN1
 It_PNP
 was_VBD
@@ -34068,7 +34068,7 @@ but_CJC
 he_PNP
 managed_VVD
 to_TO0
-drag_VVI
+drag_NN1
 himself_PNX
 to_TO0
 the_AT0
@@ -34120,14 +34120,14 @@ the_AT0
 other_AJ0
 two_CRD
 people_NN0
-involved_AJ0
+involved_VVN
 or_CJC
 whether_CJS
 or_CJC
 not_XX0
 they_PNP
 were_VBD
-convicted_VVN-AJ0
+convicted_VVN
 an_AT0
 Tyler_NP0
 's_POS
@@ -34156,7 +34156,7 @@ more_AV0
 in_PRP
 keeping_VVG
 with_PRP
-Tilehurst_NP0-NN1
+Tilehurst_NN1
 the_AT0
 other_AJ0
 side_NN1
@@ -34426,7 +34426,7 @@ farm_NN1
 labourer_NN1
 from_PRP
 East_NN1
-Woodhay_NP0-NN1
+Woodhay_NN1
 a_AT0
 nearby_AJ0
 village_NN1
@@ -34440,7 +34440,7 @@ thrifty_AJ0
 man_NN1
 who_PNQ
 was_VBD
-saving_NN1
+saving_VVG
 to_TO0
 buy_VVI
 a_AT0
@@ -34461,7 +34461,7 @@ and_CJC
 plain_AJ0
 She_PNP
 was_VBD
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 her_DPS
 husband_NN1
@@ -34651,7 +34651,7 @@ He_PNP
 and_CJC
 Dorothy_NP0
 would_VM0
-lie_VVI
+lie_VVB
 in_PRP
 wait_VVI
 the_AT0
@@ -34666,7 +34666,7 @@ He_PNP
 would_VM0
 report_NN1
 her_DPS
-missing_VVG-AJ0
+missing_VVG
 and_CJC
 the_AT0
 crime_NN1
@@ -34751,7 +34751,7 @@ Broomham_NP0
 also_AV0
 stood_VVD
 there_EX0
-riveted_VVN-VVD
+riveted_VVD
 to_TO0
 the_AT0
 spot_NN1
@@ -34841,7 +34841,7 @@ to_TO0
 the_AT0
 authorities_NN2
 This_DT0
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 the_AT0
 gossip_NN1
@@ -34940,7 +34940,7 @@ the_AT0
 source_NN1
 of_PRF
 constant_AJ0
-bickering_NN1-VVG
+bickering_VVG
 between_PRP
 the_AT0
 Berkshire_NP0
@@ -35000,7 +35000,7 @@ under_PRP
 the_AT0
 auspices_NN2
 of_PRF
-Chief_NP0
+Chief_NN1
 Constable_NP0
 Henry_NP0
 Peck_NP0
@@ -35035,7 +35035,7 @@ he_PNP
 was_VBD
 confronted_VVN
 by_PRP
-Chief_NP0
+Chief_NN1
 Constable_NP0
 Peck_NP0
 The_AT0
@@ -35068,7 +35068,7 @@ and_CJC
 address_NN1
 After_PRP
 this_DT0
-timewasting_AJ0-NN1
+timewasting_AJ0
 procedure_NN1
 George_NP0
 Shackel_NP0
@@ -35125,12 +35125,12 @@ your_DPS
 man_NN1
 is_VBZ
 seriously_AV0
-hurt_VVI
+hurt_VVN
 or_CJC
 a_AT0
 policeman_NN1
 is_VBZ
-present_AJ0-NN1
+present_AJ0
 as_CJS
 a_AT0
 witness_NN1
@@ -35148,7 +35148,7 @@ and_CJC
 complain_VVI
 about_PRP
 the_AT0
-Chief_NP0
+Chief_NN1
 Constable_NP0
 's_POS
 attitude_NN1
@@ -35204,7 +35204,7 @@ man_NN1
 they_PNP
 wanted_VVD
 for_PRP
-Chief_NP0
+Chief_NN1
 Constable_NP0
 There_EX0
 was_VBD
@@ -35266,7 +35266,7 @@ keep_VVI
 his_DPS
 job_NN1
 as_CJS
-Chief_NP0
+Chief_NN1
 Constable_NP0
 until_CJS
 he_PNP
@@ -35301,7 +35301,7 @@ away_AV0
 of_PRF
 their_DPS
 own_DT0
-accord_VVI
+accord_NN1
 Two_CRD
 local_AJ0
 men_NN2
@@ -35572,7 +35572,7 @@ of_PRF
 her_DPS
 newborn_AJ0
 child_NN1
-wrapped_VVN-VVD
+wrapped_VVN
 in_PRP
 the_AT0
 bedclothes_NN2
@@ -35614,7 +35614,7 @@ Jane_NP0
 finally_AV0
 spoke_VVD
 a_AT0
-weeping_AJ0-NN1
+weeping_NN1
 voice_NN1
 begging_VVG
 forgiveness_NN1
@@ -35646,7 +35646,7 @@ PC_NP0
 Hudson_NP0
 arrested_VVN
 the_AT0
-weeping_AJ0-NN1
+weeping_NN1
 girl_NN1
 straightaway_AV0
 and_CJC
@@ -35724,7 +35724,7 @@ and_CJC
 discharged_VVN
 There_EX0
 are_VBB
-varying_AJ0-VVG
+varying_AJ0
 reports_NN2
 as_CJS
 to_TO0
@@ -35764,7 +35764,7 @@ finished_VVN
 her_DPS
 days_NN2
 in_PRP
-Broadmoor_NP0-NN1
+Broadmoor_NN1
 BULLBAITING_VVG
 IN_PRP
 WOKINGHAM_NP0

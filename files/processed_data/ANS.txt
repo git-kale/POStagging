@@ -35,7 +35,7 @@ programmes_NN2
 of_PRF
 study_NN1
 for_PRP
-English_AJ0-NN1
+English_AJ0
 The_AT0
 Group_NN1
 was_VBD
@@ -49,7 +49,7 @@ Its_DPS
 first_ORD
 report_NN1
 on_PRP
-English_AJ0-NN1
+English_AJ0
 5_CRD
 to_TO0
 11_CRD
@@ -77,7 +77,7 @@ targets_NN2
 and_CJC
 programmes_NN2
 in_PRP
-English_AJ0-NN1
+English_AJ0
 for_PRP
 key_AJ0
 stage_NN1
@@ -241,7 +241,7 @@ are_VBB
 grateful_AJ0
 to_TO0
 the_AT0
-English_AJ0-NN1
+English_AJ0
 Working_VVG
 Group_NN1
 for_PRP
@@ -256,7 +256,7 @@ issues_NN2
 We_PNP
 are_VBB
 asking_VVG
-SEAC_NP0-NN1
+SEAC_NN1
 to_TO0
 take_VVI
 these_DT0
@@ -275,10 +275,10 @@ specifying_VVG
 assessment_NN1
 arrangements_NN2
 covering_VVG
-English_AJ0-NN1
+English_AJ0
 But_CJC
 our_DPS
-present_AJ0-NN1
+present_AJ0
 proposals_NN2
 relate_VVI
 only_AV0
@@ -322,7 +322,7 @@ teacher_NN1
 training_NN1
 implications_NN2
 for_PRP
-English_AJ0-NN1
+English_AJ0
 in_PRP
 the_AT0
 National_AJ0
@@ -455,7 +455,7 @@ five_CRD
 attainment_NN1
 targets_NN2
 in_PRP
-English_AJ0-NN1
+English_AJ0
 for_PRP
 pupils_NN2
 in_PRP
@@ -485,7 +485,7 @@ components_NN2
 for_PRP
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 attainment_NN1
 target_NN1
 1_CRD
@@ -836,7 +836,7 @@ the_AT0
 attainment_NN1
 targets_NN2
 for_PRP
-English_AJ0-NN1
+English_AJ0
 in_PRP
 key_AJ0
 stage_NN1
@@ -857,7 +857,7 @@ been_VBN
 included_VVD
 in_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 programmes_NN2
 of_PRF
 study_NN1
@@ -961,12 +961,12 @@ Summary_NN1
 of_PRF
 attainment_NN1
 targets_NN2
-Profile_NN1-VVB
+Profile_NN1
 Component_NN1
 1_CRD
 Speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 Attainment_NN1
 target_NN1
 1_CRD
@@ -993,9 +993,9 @@ variety_NN1
 of_PRF
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 activities_NN2
-matching_VVG
+matching_AJ0
 style_NN1
 and_CJC
 response_NN1
@@ -1003,7 +1003,7 @@ to_TO0
 audience_NN1
 and_CJC
 purpose_NN1
-Profile_NN1-VVB
+Profile_NN1
 Component_NN1
 2_CRD
 Reading_NP0
@@ -1038,10 +1038,10 @@ the_AT0
 purposes_NN2
 of_PRF
 study_NN1
-Profile_NN1-VVB
+Profile_NN1
 Component_NN1
 3_CRD
-Writing_VVG-NN1
+Writing_NN1
 Attainment_NN1
 target_NN1
 3_CRD
@@ -1056,7 +1056,7 @@ meaning_NN1
 in_PRP
 written_VVN
 language_NN1
-matching_VVG
+matching_AJ0
 style_NN1
 to_TO0
 audience_NN1
@@ -1065,7 +1065,7 @@ purpose_NN1
 Attainment_NN1
 target_NN1
 4_CRD
-Spelling_NN1-VVG
+Spelling_NN1
 up_AVP
 to_TO0
 level_NN1
@@ -1088,7 +1088,7 @@ and_CJC
 above_PRP
 Speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 Where_AVQ
 children_NN2
 are_VBB
@@ -1149,14 +1149,14 @@ creation_NN1
 of_PRF
 many_DT0
 and_CJC
-varied_AJ0
+varied_VVN
 circumstances_NN2
 to_TO0
 which_DTQ
 both_AV0
 speech_NN1
 and_CJC
-listening_VVG-NN1
+listening_VVG
 are_VBB
 the_AT0
 natural_AJ0
@@ -1194,7 +1194,7 @@ lot_NN1
 easier_AJC
 than_CJS
 going_VVG
-solo_NN1-AJ0
+solo_NN1
 but_CJC
 arguing_VVG
 brought_VVN
@@ -1208,7 +1208,7 @@ inclusion_NN1
 of_PRF
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 as_CJS
 a_AT0
 separate_AJ0
@@ -1260,7 +1260,7 @@ accepted_VVN
 For_PRP
 instance_NN1
 the_AT0
-Cockcroft_NN1-NP0
+Cockcroft_NP0
 Report_NN1
 1982_CRD
 on_PRP
@@ -1299,12 +1299,12 @@ for_PRP
 the_AT0
 Teaching_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 as_CJS
 well_AV0
 as_CJS
 by_PRP
-cross-subject_NN1-AJ0
+cross-subject_NN1
 movements_NN2
 such_DT0
 as_CJS
@@ -1413,7 +1413,7 @@ central_AJ0
 to_TO0
 children_NN2
 's_POS
-overall_AJ0-NN1
+overall_AJ0
 language_NN1
 development_NN1
 In_PRP
@@ -1421,7 +1421,7 @@ In_PRP
 and_CJC
 1983_CRD
 the_AT0
-APU_NP0-NN1
+APU_NP0
 carried_VVN
 out_AVP
 surveys_NN2
@@ -1440,7 +1440,7 @@ theoretical_AJ0
 framework_NN1
 underlying_AJ0
 the_AT0
-APU_NP0-NN1
+APU_NP0
 's_POS
 oracy_NN1
 tests_NN2
@@ -1520,7 +1520,7 @@ importance_NN1
 of_PRF
 talking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 both_AV0
 in_PRP
 obtaining_VVG
@@ -1663,7 +1663,7 @@ accomplishments_NN2
 in_PRP
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 Employment_NN1
 apart_AV0
 there_EX0
@@ -1686,7 +1686,7 @@ competence_NN1
 in_PRP
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 Through_PRP
 such_DT0
 media_NN0
@@ -1765,7 +1765,7 @@ how_AVQ
 to_TO0
 judge_VVI
 or_CJC
-present_AJ0-NN1
+present_AJ0
 a_AT0
 spoken_VVN
 case_NN1
@@ -1827,7 +1827,7 @@ or_CJC
 protect_VVI
 their_DPS
 interests_NN2
-English_AJ0-NN1
+English_AJ0
 departments_NN2
 in_PRP
 secondary_AJ0
@@ -1967,7 +1967,7 @@ spoken_VVN
 language_NN1
 in_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 curriculum_NN1
 is_VBZ
 concerned_AJ0
@@ -2247,14 +2247,14 @@ lasting_AJ0
 value_NN1
 Talking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 skills_NN2
 The_AT0
 effectiveness_NN1
 of_PRF
 talking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 is_VBZ
 determined_VVN
 not_XX0
@@ -2450,7 +2450,7 @@ able_AJ0
 to_TO0
 use_NN1
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 when_CJS
 it_PNP
 is_VBZ
@@ -2483,7 +2483,7 @@ the_AT0
 accent_NN1
 known_VVN
 as_CJS
-Received_VVN-AJ0
+Received_VVN
 Pronunciation_NN1
 Development_NN1
 of_PRF
@@ -2495,7 +2495,7 @@ oral_AJ0
 skills_NN2
 will_VM0
 involve_VVI
-increased_AJ0
+increased_VVN
 sensitivity_NN1
 to_TO0
 the_AT0
@@ -2616,7 +2616,7 @@ others_NN2
 in_PRP
 a_AT0
 discussion_NN1
-listening_VVG-NN1
+listening_VVG
 to_TO0
 and_CJC
 giving_VVG
@@ -2768,7 +2768,7 @@ for_PRP
 the_AT0
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 profile_NN1
 component_NN1
 The_AT0
@@ -2794,9 +2794,9 @@ variety_NN1
 of_PRF
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 activities_NN2
-matching_VVG
+matching_AJ0
 style_NN1
 and_CJC
 response_NN1
@@ -2822,7 +2822,7 @@ possible_AJ0
 grouped_VVN
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 skills_NN2
 into_PRP
 broad_AJ0
@@ -2858,7 +2858,7 @@ and_CJC
 to_TO0
 assimilate_VVI
 and_CJC
-act_VVI
+act_NN1
 appropriately_AV0
 on_PRP
 information_NN1
@@ -3089,7 +3089,7 @@ of_PRF
 performance_NN1
 for_PRP
 spoken_VVN
-English_AJ0-NN1
+English_AJ0
 as_CJS
 a_AT0
 whole_AJ0
@@ -3183,7 +3183,7 @@ challenges_NN2
 of_PRF
 talking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 may_VM0
 increase_NN1
 as_CJS
@@ -3213,7 +3213,7 @@ about_PRP
 our_DPS
 audience_NN1
 can_VM0
-present_AJ0-NN1
+present_AJ0
 other_AJ0
 dimensions_NN2
 of_PRF
@@ -3235,7 +3235,7 @@ business_NN1
 of_PRF
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 readers_NN2
 will_VM0
 easily_AV0
@@ -3280,12 +3280,12 @@ reinforce_VVI
 the_AT0
 links_NN2
 between_PRP
-English_AJ0-NN1
+English_AJ0
 and_CJC
 drama_NN1
 and_CJC
 between_PRP
-English_AJ0-NN1
+English_AJ0
 and_CJC
 media_NN0
 education_NN1
@@ -3307,7 +3307,7 @@ and_CJC
 9._CRD
 We_PNP
 see_VVI
-role-play_NN1-AJ0
+role-play_AJ0
 as_CJS
 a_AT0
 valuable_AJ0
@@ -3420,9 +3420,9 @@ presented_VVN
 ATTAINMENT_NN1
 TARGET_NN1
 1_CRD
-SPEAKING_VVG-AJ0
+SPEAKING_VVG
 AND_CJC
-LISTENING_NN1-VVG
+LISTENING_VVG
 The_AT0
 development_NN1
 of_PRF
@@ -3446,9 +3446,9 @@ variety_NN1
 of_PRF
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 activities_NN2
-matching_VVG
+matching_AJ0
 style_NN1
 and_CJC
 response_NN1
@@ -3464,7 +3464,7 @@ should_VM0
 be_VBI
 using_VVG
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 wherever_AVQ
 appropriate_AJ0
 to_TO0
@@ -3552,7 +3552,7 @@ talk_VVI
 about_PRP
 them_PNP
 iv_CRD
-Talk_VVB-NN1
+Talk_NN1
 with_PRP
 the_AT0
 teacher_NN1
@@ -3615,7 +3615,7 @@ iii_CRD
 Listen_VVB
 with_PRP
 an_AT0
-increased_AJ0
+increased_VVN
 span_NN1
 of_PRF
 concentration_NN1
@@ -3696,7 +3696,7 @@ respond_VVI
 to_TO0
 questions_NN2
 with_PRP
-increased_AJ0
+increased_VVN
 confidence_NN1
 in_PRP
 a_AT0
@@ -3833,7 +3833,7 @@ scene_NN1
 or_CJC
 play_VVI
 v_PRP
-Talk_VVB-NN1
+Talk_NN1
 about_PRP
 variations_NN2
 in_PRP
@@ -3847,7 +3847,7 @@ groups_NN2
 eg_AV0
 dialect_NN1
 vocabulary_NN1
-specialist_NN1-AJ0
+specialist_NN1
 terms_NN2
 6_CRD
 i_CRD
@@ -3913,7 +3913,7 @@ with_PRP
 some_DT0
 fluency_NN1
 iv_CRD
-Talk_VVB-NN1
+Talk_NN1
 about_PRP
 some_DT0
 grammatical_AJ0
@@ -3921,7 +3921,7 @@ differences_NN2
 between_PRP
 spoken_VVN
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 and_CJC
 a_AT0
 non-standard_AJ0
@@ -4001,7 +4001,7 @@ argument_NN1
 in_PRP
 hand_NN1
 iv_CRD
-Talk_VVB-NN1
+Talk_NN1
 about_PRP
 appropriateness_NN1
 in_PRP
@@ -4092,7 +4092,7 @@ evaluate_VVI
 arguments_NN2
 effectively_AV0
 iv_CRD
-Talk_VVB-NN1
+Talk_NN1
 about_PRP
 the_AT0
 contribution_NN1
@@ -4168,7 +4168,7 @@ group_NN1
 discussion_NN1
 displaying_VVG
 sensitivity_NN1
-listening_VVG-NN1
+listening_VVG
 critically_AV0
 eg_AV0
 to_TO0
@@ -4179,7 +4179,7 @@ and_CJC
 being_VBG
 self-critical_AJ0
 iii_CRD
-Talk_VVB-NN1
+Talk_NN1
 about_PRP
 ways_NN2
 in_PRP
@@ -4239,7 +4239,7 @@ by_PRP
 taking_VVG
 the_AT0
 chair_NN1
-listening_VVG-NN1
+listening_VVG
 with_PRP
 concentration_NN1
 and_CJC
@@ -4257,7 +4257,7 @@ formulating_VVG
 a_AT0
 consensus_NN1
 iii_CRD
-Talk_VVB-NN1
+Talk_NN1
 about_PRP
 some_DT0
 of_PRF
@@ -4278,9 +4278,9 @@ PROGRAMMES_NN2
 OF_PRF
 STUDY_NN1
 FOR_PRP
-SPEAKING_VVG-AJ0
+SPEAKING_VVG
 AND_CJC
-LISTENING_NN1-VVG
+LISTENING_VVG
 General_AJ0
 provisions_NN2
 for_PRP
@@ -4316,11 +4316,11 @@ confidence_NN1
 in_PRP
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 irrespective_AJ0
 of_PRF
 their_DPS
-initial_AJ0-NN1
+initial_AJ0
 competence_NN1
 or_CJC
 home_NN1
@@ -4343,7 +4343,7 @@ involving_VVG
 discussion_NN1
 with_PRP
 others_NN2
-listening_VVG-NN1
+listening_VVG
 to_TO0
 and_CJC
 giving_VVG
@@ -4368,7 +4368,7 @@ views_NN2
 expressed_VVN
 development_NN1
 of_PRF
-listening_VVG-NN1
+listening_VVG
 and_CJC
 as_CJS
 appropriate_AJ0
@@ -4381,7 +4381,7 @@ development_NN1
 of_PRF
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 skills_NN2
 both_AV0
 when_CJS
@@ -4462,7 +4462,7 @@ pupils_NN2
 '_POS
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 their_DPS
 grasp_NN1
 of_PRF
@@ -4515,7 +4515,7 @@ and_CJC
 contexts_NN2
 and_CJC
 when_CJS
-listening_VVG-NN1
+listening_VVG
 to_TO0
 others_NN2
 to_TO0
@@ -4644,7 +4644,7 @@ and_CJC
 listen_VVI
 should_VM0
 include_VVI
-listening_VVG-NN1
+listening_VVG
 and_CJC
 responding_VVG
 to_TO0
@@ -4687,7 +4687,7 @@ telephone_NN1
 making_VVG
 use_NN1
 of_PRF
-audio_AJ0-NN1
+audio_AJ0
 and_CJC
 video_NN1
 recordings_NN2
@@ -4820,7 +4820,7 @@ increasing_AJ0
 precision_NN1
 and_CJC
 discrimination_NN1
-present_AJ0-NN1
+present_AJ0
 their_DPS
 ideas_NN2
 experiences_NN2
@@ -4858,7 +4858,7 @@ complex_AJ0
 instructions_NN2
 and_CJC
 questions_NN2
-present_AJ0-NN1
+present_AJ0
 factual_AJ0
 information_NN1
 in_PRP
@@ -4942,7 +4942,7 @@ understand_VVI
 the_AT0
 use_NN1
 of_PRF
-role-play_NN1-AJ0
+role-play_AJ0
 in_PRP
 an_AT0
 increasingly_AV0
@@ -4987,7 +4987,7 @@ small_AJ0
 and_CJC
 large_AJ0
 groups_NN2
-listening_VVG-NN1
+listening_VVG
 to_TO0
 and_CJC
 taking_VVG
@@ -4998,7 +4998,7 @@ views_NN2
 of_PRF
 others_NN2
 and_CJC
-negotiating_VVG
+negotiating_NN1
 a_AT0
 consensus_NN1
 as_CJS
@@ -5044,7 +5044,7 @@ language_NN1
 through_PRP
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 which_DTQ
 should_VM0
 start_NN1
@@ -5062,7 +5062,7 @@ and_CJC
 social_AJ0
 variations_NN2
 in_PRP
-English_AJ0-NN1
+English_AJ0
 accents_NN2
 and_CJC
 dialects_NN2
@@ -5086,7 +5086,7 @@ functions_NN2
 of_PRF
 spoken_VVN
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 15.31_CRD
 Pupils_NN2
 should_VM0
@@ -5099,7 +5099,7 @@ proficiency_NN1
 in_PRP
 spoken_VVN
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 in_PRP
 contexts_NN2
 where_AVQ
@@ -5160,7 +5160,7 @@ in_PRP
 single_AJ0
 sex_NN1
 and_CJC
-mixed_AJ0
+mixed_VVN
 groups_NN2
 of_PRF
 various_AJ0
@@ -5211,7 +5211,7 @@ activities_NN2
 should_VM0
 be_VBI
 widely_AV0
-varied_AJ0
+varied_VVN
 including_PRP
 the_AT0
 preparations_NN2
@@ -5320,7 +5320,7 @@ presentations_NN2
 eg_AV0
 dramatic_AJ0
 improvisation_NN1
-role-play_NN1-AJ0
+role-play_AJ0
 activities_NN2
 or_CJC
 scripted_AJ0
@@ -5373,7 +5373,7 @@ as_CJS
 bairn_NN1
 cf_VVB
 child_NN1
-baps_NN2-VVZ
+baps_VVZ
 cf_VVB
 rolls_NN2
 outwith_PRP
@@ -5397,7 +5397,7 @@ certain_AJ0
 occupations_NN2
 eg_AV0
 the_AT0
-specialist_NN1-AJ0
+specialist_NN1
 terms_NN2
 and_CJC
 acronyms_NN2
@@ -5515,7 +5515,7 @@ school_NN1
 or_CJC
 local_AJ0
 community_NN1
-role-play_NN1-AJ0
+role-play_AJ0
 and_CJC
 simulation_NN1
 work_NN1
@@ -5557,7 +5557,7 @@ use_NN1
 of_PRF
 spoken_VVN
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 in_PRP
 public_AJ0
 or_CJC
@@ -5626,7 +5626,7 @@ area_NN1
 and_CJC
 spoken_VVN
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 eg_AV0
 in_PRP
 verb_NN1
@@ -5648,7 +5648,7 @@ participate_VVI
 extensively_AV0
 in_PRP
 widely_AV0
-varied_AJ0
+varied_VVN
 group_NN1
 work_NN1
 in_PRP
@@ -5859,7 +5859,7 @@ pompous_AJ0
 or_CJC
 inept_AJ0
 or_CJC
-impertinent_AJ0-NN1
+impertinent_AJ0
 or_CJC
 rude_AJ0
 Pupils_NN2
@@ -5867,7 +5867,7 @@ should_VM0
 learn_VVI
 that_CJT
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 is_VBZ
 the_AT0
 language_NN1
@@ -5909,7 +5909,7 @@ varieties_NN2
 rather_AV0
 than_CJS
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 eg_AV0
 in_PRP
 speech_NN1
@@ -5951,7 +5951,7 @@ to_TO0
 use_NN1
 spoken_VVN
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 and_CJC
 in_PRP
 particular_AJ0
@@ -5980,7 +5980,7 @@ they_PNP
 can_VM0
 use_NN1
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 with_PRP
 confidence_NN1
 15.39_CRD
@@ -5993,7 +5993,7 @@ to_TO0
 10_CRD
 should_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 in_PRP
 much_DT0
 the_AT0
@@ -6009,7 +6009,7 @@ level_NN1
 but_CJC
 will_VM0
 need_VVB
-increased_AJ0
+increased_VVN
 opportunities_NN2
 where_AVQ
 feasible_AJ0
@@ -6087,7 +6087,7 @@ which_DTQ
 helps_VVZ
 them_PNP
 to_TO0
-act_VVI
+act_NN1
 with_PRP
 increasing_AJ0
 confidence_NN1
@@ -6196,7 +6196,7 @@ that_CJT
 attitudes_NN2
 to_TO0
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 and_CJC
 to_TO0
 non-standard_AJ0
@@ -6301,7 +6301,7 @@ in_PRP
 individual_AJ0
 areas_NN2
 through_PRP
-SATs_NP0
+SATs_NN2
 will_VM0
 necessarily_AV0
 be_VBI
@@ -6309,7 +6309,7 @@ a_AT0
 sampling_NN1
 process_NN1
 The_AT0
-SATs_NP0
+SATs_NN2
 should_VM0
 nevertheless_AV0
 include_VVI
@@ -6317,7 +6317,7 @@ as_CJS
 much_DT0
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 in_PRP
 as_CJS
 wide_AJ0
@@ -6337,7 +6337,7 @@ assessment_NN1
 in_PRP
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 should_VM0
 be_VBI
 conducted_VVN
@@ -6351,7 +6351,7 @@ common_AJ0
 format_NN1
 devised_VVN
 by_PRP
-SEAC_NP0-NN1
+SEAC_NN1
 in_PRP
 consultation_NN1
 with_PRP
@@ -6403,7 +6403,7 @@ assessment_NN1
 of_PRF
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 should_VM0
 where_AVQ
 possible_AJ0
@@ -6446,7 +6446,7 @@ not_XX0
 in_PRP
 line_NN1
 with_PRP
-TGAT_NP0-NN1
+TGAT_NN1
 recommendations_NN2
 Given_VVN
 the_AT0
@@ -6459,7 +6459,7 @@ such_DT0
 a_AT0
 method_NN1
 would_VM0
-present_AJ0-NN1
+present_AJ0
 in_PRP
 many_DT0
 classrooms_NN2
@@ -6475,7 +6475,7 @@ recommend_VVI
 that_CJT
 tape_NN1
 recording_NN1
-audio_AJ0-NN1
+audio_AJ0
 or_CJC
 video_NN1
 should_VM0
@@ -6490,7 +6490,7 @@ of_PRF
 oral_AJ0
 performance_NN1
 for_PRP
-SATs_NP0
+SATs_NN2
 though_CJS
 it_PNP
 may_VM0
@@ -6553,7 +6553,7 @@ widespread_AJ0
 non-reciprocal_AJ0
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 situations_NN2
 such_DT0
 as_CJS
@@ -6567,14 +6567,14 @@ lectures_NN2
 the_AT0
 processes_NN2
 of_PRF
-listening_VVG-NN1
+listening_VVG
 and_CJC
 speaking_VVG
 are_VBB
 primarily_AV0
 reciprocal_AJ0
 and_CJC
-integrated_AJ0
+integrated_VVN
 The_AT0
 ability_NN1
 of_PRF
@@ -6599,7 +6599,7 @@ speak_VVI
 plainly_AV0
 Tests_NN2
 of_PRF
-listening_VVG-NN1
+listening_VVG
 which_DTQ
 by_PRP
 their_DPS
@@ -6689,7 +6689,7 @@ own_DT0
 expectations_NN2
 may_VM0
 vary_VVB
-End_NP0
+End_NN1
 note_NN1
 15.44_CRD
 We_PNP
@@ -6738,7 +6738,7 @@ assessment_NN1
 of_PRF
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 and_CJC
 in_PRP
 moderation_NN1
@@ -6881,7 +6881,7 @@ much_DT0
 more_AV0
 than_CJS
 the_AT0
-decoding_NN1
+decoding_VVG
 of_PRF
 black_AJ0
 marks_NN2
@@ -6979,7 +6979,7 @@ of_PRF
 this_DT0
 imaginative_AJ0
 experience_NN1
-stems_VVZ-NN2
+stems_NN2
 from_PRP
 literature_NN1
 whose_DTQ
@@ -7131,7 +7131,7 @@ total_AJ0
 reading_NN1
 programme_NN1
 in_PRP
-English_AJ0-NN1
+English_AJ0
 it_PNP
 is_VBZ
 not_XX0
@@ -7145,12 +7145,12 @@ necessary_AJ0
 it_PNP
 can_VM0
 be_VBI
-integrated_AJ0
+integrated_VVN
 into_PRP
 other_AJ0
 classroom_NN1
 activities_NN2
-Independent_AJ0
+Independent_NN1
 reading_NN1
 need_VVB
 not_XX0
@@ -7283,7 +7283,7 @@ continuing_AJ0
 popularity_NN1
 of_PRF
 programmes_NN2
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 this_DT0
 on_PRP
@@ -7785,7 +7785,7 @@ will_VM0
 be_VBI
 shown_VVN
 by_PRP
-increased_AJ0
+increased_VVN
 fluency_NN1
 an_AT0
 increase_NN1
@@ -7964,7 +7964,7 @@ schooling_NN1
 We_PNP
 have_VHB
 already_AV0
-stressed_VVD
+stressed_VVN
 the_AT0
 importance_NN1
 of_PRF
@@ -8066,7 +8066,7 @@ method_NN1
 of_PRF
 conveying_VVG
 meaning_NN1
-Learning_VVG-NN1
+Learning_NN1
 to_TO0
 read_VVI
 involves_VVZ
@@ -8123,7 +8123,7 @@ of_PRF
 the_AT0
 importance_NN1
 of_PRF
-refining_VVG-NN1
+refining_VVG
 and_CJC
 substantiating_VVG
 their_DPS
@@ -8153,7 +8153,7 @@ abilities_NN2
 in_PRP
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 and_CJC
 in_PRP
 writing_NN1
@@ -8342,7 +8342,7 @@ heart_NN1
 of_PRF
 work_NN1
 in_PRP
-English_AJ0-NN1
+English_AJ0
 because_CJS
 of_PRF
 the_AT0
@@ -8782,7 +8782,7 @@ to_TO0
 ATTAINMENT_NN1
 TARGET_NN1
 2_CRD
-READING_NN1-NP0
+READING_NP0
 The_AT0
 development_NN1
 of_PRF
@@ -8850,7 +8850,7 @@ in_PRP
 familiar_AJ0
 contexts_NN2
 iii_CRD
-Show_NN1-VVB
+Show_NN1
 signs_NN2
 of_PRF
 a_AT0
@@ -8859,7 +8859,7 @@ interest_NN1
 in_PRP
 reading_NN1
 iv_CRD
-Talk_VVB-NN1
+Talk_NN1
 in_PRP
 simple_AJ0
 terms_NN2
@@ -8988,7 +8988,7 @@ stories_NN2
 talk_VVI
 about_PRP
 settings_NN2
-story-line_AJ0-NN1
+story-line_NN1
 and_CJC
 characters_NN2
 and_CJC
@@ -9317,7 +9317,7 @@ in_PRP
 imaginative_AJ0
 uses_NN2
 of_PRF
-English_AJ0-NN1
+English_AJ0
 6_CRD
 i_CRD
 Read_VVB
@@ -9455,7 +9455,7 @@ identify_VVI
 key_AJ0
 points_NN2
 v_PRP
-Talk_VVB-NN1
+Talk_NN1
 about_PRP
 examples_NN2
 from_PRP
@@ -9523,7 +9523,7 @@ from_PRP
 different_AJ0
 cultures_NN2
 ii_CRD
-Talk_VVB-NN1
+Talk_NN1
 and_CJC
 write_VVI
 about_PRP
@@ -9630,9 +9630,9 @@ using_VVG
 techniques_NN2
 such_DT0
 as_CJS
-skim-reading_NN1-AJ0
+skim-reading_AJ0
 and_CJC
-synthesise_VVB-NN1
+synthesise_VVB
 information_NN1
 from_PRP
 different_AJ0
@@ -9644,7 +9644,7 @@ or_CJC
 different_AJ0
 texts_NN2
 v_PRP
-Talk_VVB-NN1
+Talk_NN1
 about_PRP
 some_DT0
 of_PRF
@@ -9668,7 +9668,7 @@ in_PRP
 imaginative_AJ0
 uses_NN2
 of_PRF
-English_AJ0-NN1
+English_AJ0
 8_CRD
 i_CRD
 Read_VVB
@@ -9716,7 +9716,7 @@ organisation_NN1
 or_CJC
 language_NN1
 ii_CRD
-Talk_VVB-NN1
+Talk_NN1
 and_CJC
 write_VVI
 about_PRP
@@ -9836,10 +9836,10 @@ using_VVG
 techniques_NN2
 such_DT0
 as_CJS
-skim-reading_NN1-AJ0
+skim-reading_AJ0
 evaluate_VVI
 and_CJC
-synthesise_VVB-NN1
+synthesise_VVB
 information_NN1
 from_PRP
 different_AJ0
@@ -9868,7 +9868,7 @@ in_PRP
 the_AT0
 grammar_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 over_PRP
 time_NN1
 eg_AV0
@@ -10032,7 +10032,7 @@ style_NN1
 and_CJC
 content_NN1
 to_TO0
-targeted_AJ0
+targeted_VVD
 audiences_NN2
 iv_CRD
 Make_VVB
@@ -10055,10 +10055,10 @@ using_VVG
 techniques_NN2
 such_DT0
 as_CJS
-skim-reading_NN1-AJ0
+skim-reading_AJ0
 evaluate_VVI
 and_CJC
-synthesise_VVB-NN1
+synthesise_VVB
 information_NN1
 from_PRP
 different_AJ0
@@ -10198,7 +10198,7 @@ characterisation_NN1
 or_CJC
 style_NN1
 iii_CRD
-Show_NN1-VVB
+Show_NN1
 that_CJT
 they_PNP
 are_VBB
@@ -10244,10 +10244,10 @@ using_VVG
 techniques_NN2
 such_DT0
 as_CJS
-skim-reading_NN1-AJ0
+skim-reading_AJ0
 evaluate_VVI
 and_CJC
-synthesise_VVB-NN1
+synthesise_VVB
 information_NN1
 from_PRP
 different_AJ0
@@ -10283,7 +10283,7 @@ PROGRAMMES_NN2
 OF_PRF
 STUDY_NN1
 FOR_PRP
-READING_NN1-NP0
+READING_NP0
 Programme_NN1
 of_PRF
 study_NN1
@@ -10614,7 +10614,7 @@ in_PRP
 the_AT0
 context_NN1
 of_PRF
-role-play_NN1-AJ0
+role-play_AJ0
 and_CJC
 dramatic_AJ0
 play_VVI
@@ -10681,7 +10681,7 @@ and_CJC
 individual_AJ0
 words_NN2
 eg_AV0
-Exit_NN1-VVB
+Exit_NN1
 which_DTQ
 pupils_NN2
 can_VM0
@@ -10714,7 +10714,7 @@ eg_AV0
 guide_NN1
 books_NN2
 instructions_NN2
-favourite_AJ0-NN1
+favourite_AJ0
 poems_NN2
 or_CJC
 stories_NN2
@@ -10735,7 +10735,7 @@ have_VHB
 been_VBN
 reading_NN1
 or_CJC
-listening_VVG-NN1
+listening_VVG
 to_TO0
 widen_VVI
 their_DPS
@@ -10772,7 +10772,7 @@ or_CJC
 read_VVI
 how_AVQ
 characters_NN2
-feel_VVI
+feel_VVB
 their_DPS
 motives_NN2
 the_AT0
@@ -10817,13 +10817,13 @@ which_DTQ
 they_PNP
 recognise_VVI
 and_CJC
-notice_VVI
+notice_NN1
 how_AVQ
 words_NN2
 are_VBB
 constructed_VVN
 and_CJC
-spelled_VVD-VVN
+spelled_VVD
 refer_VVI
 to_TO0
 information_NN1
@@ -10869,7 +10869,7 @@ do_VDB
 not_XX0
 simply_AV0
 copy_NN1
-verbatim_AV0-AJ0
+verbatim_AJ0
 talk_VVI
 about_PRP
 the_AT0
@@ -11345,7 +11345,7 @@ to_TO0
 literature_NN1
 written_VVN
 in_PRP
-English_AJ0-NN1
+English_AJ0
 from_PRP
 different_AJ0
 countries_NN2
@@ -11386,11 +11386,11 @@ been_VBN
 most_AV0
 influential_AJ0
 in_PRP
-shaping_VVG-AJ0
+shaping_VVG
 and_CJC
-refining_VVG-NN1
+refining_VVG
 the_AT0
-English_AJ0-NN1
+English_AJ0
 language_NN1
 and_CJC
 its_DPS
@@ -11460,7 +11460,7 @@ with_PRP
 others_NN2
 their_DPS
 own_DT0
-favourite_AJ0-NN1
+favourite_AJ0
 reading_NN1
 16.33_CRD
 Pupils_NN2
@@ -11558,8 +11558,8 @@ newspapers_NN2
 and_CJC
 magazines_NN2
 dictionaries_NN2
-thesauruses_NN2-VVZ
-atlases_NN2-VVZ
+thesauruses_NN2
+atlases_NN2
 and_CJC
 encyclopaedias_NN2
 Pupils_NN2
@@ -11648,7 +11648,7 @@ the_AT0
 ways_NN2
 in_PRP
 which_DTQ
-English_AJ0-NN1
+English_AJ0
 is_VBZ
 constantly_AV0
 changing_VVG
@@ -11909,7 +11909,7 @@ grandparents_NN2
 eg_AV0
 wireless_NN1
 radio_NN1
-tranny_NN1-AJ0
+tranny_AJ0
 receiver_NN1
 and_CJC
 new_AJ0
@@ -11920,7 +11920,7 @@ become_VVI
 part_NN1
 of_PRF
 the_AT0
-English_AJ0-NN1
+English_AJ0
 vocabulary_NN1
 during_PRP
 the_AT0
@@ -11994,7 +11994,7 @@ languages_NN2
 such_DT0
 as_CJS
 glasnost_NN1
-coinages_NN2-VVZ
+coinages_NN2
 acronyms_NN2
 etc_AV0
 16.40_CRD
@@ -12218,7 +12218,7 @@ be_VBI
 taught_VVN
 how_AVQ
 to_TO0
-scrutinise_NN1-VVB
+scrutinise_NN1
 a_AT0
 text_NN1
 for_PRP
@@ -12353,7 +12353,7 @@ the_AT0
 major_AJ0
 changes_NN2
 in_PRP
-English_AJ0-NN1
+English_AJ0
 grammar_NN1
 over_PRP
 the_AT0
@@ -12633,7 +12633,7 @@ poetry_NN1
 eg_AV0
 nursery_NN1
 rhymes_NN2
-concrete_AJ0-NN1
+concrete_AJ0
 poetry_NN1
 haiku_NN1
 limericks_NN2
@@ -12725,7 +12725,7 @@ the_AT0
 extent_NN1
 to_TO0
 which_DTQ
-English_AJ0-NN1
+English_AJ0
 has_VHZ
 changed_VVN
 since_CJS
@@ -12838,7 +12838,7 @@ in_PRP
 the_AT0
 form_NN1
 of_PRF
-SATs_NP0
+SATs_NN2
 should_VM0
 generally_AV0
 be_VBI
@@ -12864,7 +12864,7 @@ enjoyable_AJ0
 for_PRP
 pupils_NN2
 and_CJC
-accord_VVI
+accord_NN1
 with_PRP
 good_AJ0
 classroom_NN1
@@ -12891,7 +12891,7 @@ employed_VVN
 We_PNP
 recommend_VVI
 that_CJT
-SEAC_NP0-NN1
+SEAC_NN1
 in_PRP
 consultation_NN1
 with_PRP
@@ -13046,11 +13046,11 @@ from_PRP
 a_AT0
 selection_NN1
 of_PRF
-varying_AJ0-VVG
+varying_AJ0
 levels_NN2
 of_PRF
 difficulty_NN1
-Miscue_VVB-NN1
+Miscue_VVB
 analysis_NN1
 entails_VVZ
 a_AT0
@@ -13120,7 +13120,7 @@ with_PRP
 the_AT0
 teacher_NN1
 marking_VVG
-miscues_VVZ-NN2
+miscues_NN2
 on_PRP
 a_AT0
 duplicate_AJ0
@@ -13247,7 +13247,7 @@ many_DT0
 existing_AJ0
 tests_NN2
 are_VBB
-decontextualised_AJ0-VVN
+decontextualised_AJ0
 approaches_NN2
 which_DTQ
 do_VDB
@@ -13288,7 +13288,7 @@ tests_NN2
 and_CJC
 of_PRF
 the_AT0
-APU_NP0-NN1
+APU_NP0
 's_POS
 work_NN1
 but_CJC
@@ -13588,7 +13588,7 @@ and_CJC
 We_PNP
 recommend_VVI
 that_CJT
-SEAC_NP0-NN1
+SEAC_NN1
 be_VBI
 invited_VVN
 to_TO0
@@ -13627,7 +13627,7 @@ that_CJT
 the_AT0
 SAT_VVN
 or_CJC
-SATs_NP0
+SATs_NN2
 at_PRP
 key_AJ0
 stages_NN2
@@ -13736,7 +13736,7 @@ best_AJS
 of_PRF
 GCSE_NN1
 practice_NN1
-Writing_VVG-NN1
+Writing_NN1
 The_AT0
 evidence_NN1
 gathered_VVN
@@ -13834,7 +13834,7 @@ over_PRP
 some_DT0
 of_PRF
 the_AT0
-proof-reading_NN1-AJ0
+proof-reading_NN1
 aspects_NN2
 of_PRF
 writing_NN1
@@ -13963,7 +13963,7 @@ clarifying_VVG
 and_CJC
 supporting_VVG
 thought_VVD
-Spoken_AJ0-VVN
+Spoken_AJ0
 language_NN1
 also_AV0
 allows_VVZ
@@ -14093,7 +14093,7 @@ and_CJC
 features_NN2
 of_PRF
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 in_PRP
 work_NN1
 which_DTQ
@@ -14192,7 +14192,7 @@ the_AT0
 forms_NN2
 of_PRF
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 to_TO0
 their_DPS
 own_DT0
@@ -14208,7 +14208,7 @@ their_DPS
 mother_NN1
 tongue_NN1
 to_TO0
-English_AJ0-NN1
+English_AJ0
 In_PRP
 each_DT0
 case_NN1
@@ -14241,7 +14241,7 @@ never_AV0
 used_VVN
 in_PRP
 spoken_VVN
-English_AJ0-NN1
+English_AJ0
 since_CJS
 written_VVN
 language_NN1
@@ -14305,7 +14305,7 @@ paragraph_NN1
 17.24_CRD
 below_AV0
 17.8_CRD
-Spoken_AJ0-VVN
+Spoken_AJ0
 and_CJC
 written_VVN
 language_NN1
@@ -14316,7 +14316,7 @@ both_AV0
 developmentally_AV0
 and_CJC
 theoretically_AV0
-Spoken_AJ0-VVN
+Spoken_AJ0
 language_NN1
 tends_VVZ
 to_TO0
@@ -14599,7 +14599,7 @@ words_NN2
 represented_VVN
 by_PRP
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 letter_NN1
 or_CJC
 by_PRP
@@ -14624,7 +14624,7 @@ be_VBI
 recognised_VVN
 as_CJS
 an_AT0
-initial_AJ0-NN1
+initial_AJ0
 achievement_NN1
 and_CJC
 children_NN2
@@ -15025,9 +15025,9 @@ reading_NN1
 and_CJC
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 We_PNP
-stressed_VVD
+stressed_VVN
 the_AT0
 need_VVB
 in_PRP
@@ -15076,7 +15076,7 @@ study_NN1
 for_PRP
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 reading_NN1
 and_CJC
 writing_NN1
@@ -15103,7 +15103,7 @@ language_NN1
 through_PRP
 reading_NN1
 or_CJC
-listening_VVG-NN1
+listening_VVG
 to_TO0
 works_NN0
 in_PRP
@@ -15200,7 +15200,7 @@ long_AJ0
 has_VHZ
 dominated_VVN
 the_AT0
-English_AJ0-NN1
+English_AJ0
 language_NN1
 and_CJC
 literature_NN1
@@ -15241,7 +15241,7 @@ of_PRF
 coursework_NN1
 in_PRP
 all_DT0
-English_AJ0-NN1
+English_AJ0
 examination_NN1
 syllabuses_NN2
 have_VHB
@@ -15400,7 +15400,7 @@ adults_NN2
 Much_DT0
 writing_NN1
 in_PRP
-English_AJ0-NN1
+English_AJ0
 will_VM0
 be_VBI
 attempts_NN2
@@ -15420,7 +15420,7 @@ importance_NN1
 Through_PRP
 discussion_NN1
 or_CJC
-role-play_NN1-AJ0
+role-play_AJ0
 teachers_NN2
 should_VM0
 seek_VVI
@@ -15479,10 +15479,10 @@ and_CJC
 be_VBI
 used_VVN
 for_PRP
-note-making_NN1-AJ0
+note-making_NN1
 collecting_VVG
 and_CJC
-shaping_VVG-AJ0
+shaping_VVG
 information_NN1
 etc_AV0
 Equally_AV0
@@ -15554,7 +15554,7 @@ information_NN1
 and_CJC
 misinformation_NN1
 in_PRP
-varying_AJ0-VVG
+varying_AJ0
 proportions_NN2
 from_PRP
 among_PRP
@@ -15785,7 +15785,7 @@ meaning_NN1
 in_PRP
 written_VVN
 language_NN1
-matching_VVG
+matching_AJ0
 style_NN1
 to_TO0
 audience_NN1
@@ -15794,7 +15794,7 @@ purpose_NN1
 Attainment_NN1
 target_NN1
 4_CRD
-Spelling_NN1-VVG
+Spelling_NN1
 levels_NN2
 1_CRD
 to_TO0
@@ -15847,7 +15847,7 @@ possible_AJ0
 to_TO0
 predict_VVI
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 difficulty_NN1
 of_PRF
 a_AT0
@@ -15888,7 +15888,7 @@ the_AT0
 subject_NN1
 matter_NN1
 is_VBZ
-concrete_AJ0-NN1
+concrete_AJ0
 rather_AV0
 than_CJS
 abstract_AJ0
@@ -15941,7 +15941,7 @@ The_AT0
 other_AJ0
 distinctions_NN2
 are_VBB
-relative_AJ0-NN1
+relative_AJ0
 rather_AV0
 than_CJS
 absolute_AJ0
@@ -16086,7 +16086,7 @@ view_NN1
 of_PRF
 the_AT0
 National_AJ0
-Writing_VVG-NN1
+Writing_NN1
 Project_NN1
 that_CJT
 To_TO0
@@ -16139,7 +16139,7 @@ proposed_AJ0
 in_PRP
 this_DT0
 chapter_NN1
-fall_VVI
+fall_NN1
 into_PRP
 two_CRD
 main_AJ0
@@ -16620,7 +16620,7 @@ on_PRP
 the_AT0
 stages_NN2
 of_PRF
-story-writing_NN1-AJ0
+story-writing_NN1
 through_PRP
 which_DTQ
 young_AJ0
@@ -16796,7 +16796,7 @@ because_CJS
 we_PNP
 do_VDB
 not_XX0
-feel_VVI
+feel_VVB
 that_CJT
 any_DT0
 pupil_NN1
@@ -17122,7 +17122,7 @@ use_NN1
 language_NN1
 that_CJT
 is_VBZ
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 writing_NN1
 rather_AV0
@@ -17157,7 +17157,7 @@ an_AT0
 increasing_AJ0
 proficiency_NN1
 in_PRP
-re-reading_NN1-VVG
+re-reading_VVG
 and_CJC
 revising_VVG
 or_CJC
@@ -17252,7 +17252,7 @@ recognise_VVI
 those_DT0
 aspects_NN2
 of_PRF
-English_AJ0-NN1
+English_AJ0
 spelling_NN1
 that_CJT
 are_VBB
@@ -17294,14 +17294,14 @@ unaided_AJ0
 spelling_NN1
 of_PRF
 any_DT0
-English_AJ0-NN1
+English_AJ0
 there_EX0
 are_VBB
 too_AV0
 many_DT0
 words_NN2
 in_PRP
-English_AJ0-NN1
+English_AJ0
 that_CJT
 can_VM0
 catch_VVI
@@ -17329,7 +17329,7 @@ be_VBI
 achieved_VVN
 by_PRP
 the_AT0
-average_AJ0-NN1
+average_AJ0
 16_CRD
 year_NN1
 old_AJ0
@@ -17363,7 +17363,7 @@ absurd_AJ0
 ATTAINMENT_NN1
 TARGET_NN1
 3_CRD
-WRITING_NN1-VVG
+WRITING_NN1
 A_AT0
 growing_AJ0
 ability_NN1
@@ -17375,7 +17375,7 @@ meaning_NN1
 in_PRP
 written_VVN
 language_NN1
-matching_VVG
+matching_AJ0
 style_NN1
 to_TO0
 audience_NN1
@@ -17415,7 +17415,7 @@ sentences_NN2
 some_DT0
 of_PRF
 them_PNP
-demarcated_VVD-VVN
+demarcated_VVN
 with_PRP
 capital_NN1
 letters_NN2
@@ -17476,7 +17476,7 @@ using_VVG
 complete_AJ0
 sentences_NN2
 mainly_AV0
-demarcated_VVD-VVN
+demarcated_VVN
 with_PRP
 capital_NN1
 letters_NN2
@@ -17566,7 +17566,7 @@ consistent_AJ0
 use_NN1
 of_PRF
 past_NN1
-tenses_NN2-VVZ
+tenses_NN2
 and_CJC
 pronouns_NN2
 4_CRD
@@ -17583,7 +17583,7 @@ a_AT0
 rudimentary_AJ0
 attempt_NN1
 to_TO0
-present_AJ0-NN1
+present_AJ0
 simple_AJ0
 subject_NN1
 matter_NN1
@@ -17683,7 +17683,7 @@ in_PRP
 orderly_AJ0
 ways_NN2
 iv_CRD
-Show_NN1-VVB
+Show_NN1
 some_DT0
 competence_NN1
 in_PRP
@@ -17692,7 +17692,7 @@ structures_NN2
 of_PRF
 written_VVN
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 and_CJC
 begin_VVI
 to_TO0
@@ -17705,7 +17705,7 @@ from_PRP
 those_DT0
 which_DTQ
 are_VBB
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 speech_NN1
 eg_AV0
@@ -17783,7 +17783,7 @@ more_AV0
 successful_AJ0
 attempt_NN1
 to_TO0
-present_AJ0-NN1
+present_AJ0
 simple_AJ0
 subject_NN1
 matter_NN1
@@ -17795,7 +17795,7 @@ eg_AV0
 by_PRP
 layout_NN1
 headings_NN2
-paragraphing_VVG-NN1
+paragraphing_VVG
 verse_NN1
 structure_NN1
 in_PRP
@@ -17839,7 +17839,7 @@ iii_CRD
 Write_VVB
 in_PRP
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 except_CJS
 in_PRP
 contexts_NN2
@@ -17917,7 +17917,7 @@ revise_VVI
 as_CJS
 necessary_AJ0
 v_PRP
-Talk_VVB-NN1
+Talk_NN1
 about_PRP
 variations_NN2
 in_PRP
@@ -17960,7 +17960,7 @@ showing_VVG
 some_DT0
 ability_NN1
 to_TO0
-present_AJ0-NN1
+present_AJ0
 subject_NN1
 matter_NN1
 differently_AV0
@@ -18065,7 +18065,7 @@ when_CJS
 required_VVN
 using_VVG
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 except_CJS
 in_PRP
 contexts_NN2
@@ -18086,7 +18086,7 @@ story_NN1
 or_CJC
 playscript_NN1
 iv_CRD
-Show_NN1-VVB
+Show_NN1
 some_DT0
 ability_NN1
 to_TO0
@@ -18125,7 +18125,7 @@ between_PRP
 spoken_VVN
 and_CJC
 written_VVN
-English_AJ0-NN1
+English_AJ0
 7_CRD
 i_CRD
 Write_VVB
@@ -18231,7 +18231,7 @@ iii_CRD
 Make_VVB
 a_AT0
 more_AV0
-assured_VVD
+assured_VVN
 and_CJC
 selective_AJ0
 use_NN1
@@ -18244,7 +18244,7 @@ grammatical_AJ0
 and_CJC
 lexical_AJ0
 features_NN2
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 different_AJ0
 styles_NN2
@@ -18282,7 +18282,7 @@ or_CJC
 emotions_NN2
 Use_VVB
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 except_CJS
 in_PRP
 contexts_NN2
@@ -18303,9 +18303,9 @@ story_NN1
 or_CJC
 playscript_NN1
 iv_CRD
-Show_NN1-VVB
+Show_NN1
 an_AT0
-increased_AJ0
+increased_VVN
 awareness_NN1
 that_CJT
 a_AT0
@@ -18323,7 +18323,7 @@ which_DTQ
 the_AT0
 material_NN1
 is_VBZ
-cast_VVN
+cast_NN1
 eg_AV0
 from_PRP
 a_AT0
@@ -18354,7 +18354,7 @@ choice_NN1
 of_PRF
 vocabulary_NN1
 v_PRP
-Comment_VVB-NN1
+Comment_NN1
 on_PRP
 examples_NN2
 of_PRF
@@ -18388,7 +18388,7 @@ forms_NN2
 with_PRP
 a_AT0
 more_AV0
-assured_VVD
+assured_VVN
 sense_NN1
 of_PRF
 purpose_NN1
@@ -18441,7 +18441,7 @@ that_CJT
 the_AT0
 function_NN1
 of_PRF
-paragraphing_VVG-NN1
+paragraphing_VVG
 ie_AV0
 to_TO0
 separate_AJ0
@@ -18474,7 +18474,7 @@ iii_CRD
 Make_VVB
 a_AT0
 more_AV0
-assured_VVD
+assured_VVN
 and_CJC
 selective_AJ0
 use_NN1
@@ -18509,7 +18509,7 @@ connectives_NN2
 and_CJC
 of_PRF
 a_AT0
-varied_AJ0
+varied_VVN
 and_CJC
 appropriate_AJ0
 vocabulary_NN1
@@ -18522,7 +18522,7 @@ or_CJC
 figurative_AJ0
 Use_VVB
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 except_CJS
 in_PRP
 contexts_NN2
@@ -18553,7 +18553,7 @@ between_PRP
 spoken_VVN
 and_CJC
 written_VVN
-English_AJ0-NN1
+English_AJ0
 9_CRD
 i_CRD
 Write_VVB
@@ -18565,13 +18565,13 @@ of_PRF
 forms_NN2
 with_PRP
 an_AT0
-assured_VVD
+assured_VVN
 sense_NN1
 of_PRF
 purpose_NN1
 and_CJC
 audience_NN1
-Show_NN1-VVB
+Show_NN1
 some_DT0
 ability_NN1
 to_TO0
@@ -18584,13 +18584,13 @@ a_AT0
 given_VVN
 task_NN1
 ii_CRD
-Show_NN1-VVB
+Show_NN1
 some_DT0
 ability_NN1
 to_TO0
 organise_VVI
 and_CJC
-present_AJ0-NN1
+present_AJ0
 complex_AJ0
 subject_NN1
 matter_NN1
@@ -18633,7 +18633,7 @@ reader_NN1
 iii_CRD
 Make_VVB
 an_AT0
-assured_VVD
+assured_VVN
 and_CJC
 selective_AJ0
 use_NN1
@@ -18687,7 +18687,7 @@ clauses_NN2
 and_CJC
 of_PRF
 a_AT0
-varied_AJ0
+varied_VVN
 and_CJC
 appropriate_AJ0
 vocabulary_NN1
@@ -18705,7 +18705,7 @@ style_NN1
 consistently_AV0
 Use_VVB
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 except_CJS
 in_PRP
 contexts_NN2
@@ -18766,7 +18766,7 @@ of_PRF
 forms_NN2
 with_PRP
 an_AT0
-assured_VVD
+assured_VVN
 sense_NN1
 of_PRF
 purpose_NN1
@@ -18801,7 +18801,7 @@ helpfully_AV0
 signalled_VVD
 by_PRP
 appropriate_AJ0
-connective_AJ0-NN1
+connective_NN1
 words_NN2
 or_CJC
 phrases_NN2
@@ -18821,7 +18821,7 @@ reader_NN1
 iii_CRD
 Make_VVB
 an_AT0
-assured_VVD
+assured_VVN
 selective_AJ0
 and_CJC
 appropriate_AJ0
@@ -18879,7 +18879,7 @@ personal_AJ0
 style_NN1
 Use_VVB
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 except_CJS
 in_PRP
 contexts_NN2
@@ -18927,7 +18927,7 @@ etc_AV0
 ATTAINMENT_NN1
 TARGET_NN1
 4_CRD
-SPELLING_NN1-VVG
+SPELLING_NN1
 LEVEL_AJ0
 DESCRIPTION_NN1
 Pupils_NN2
@@ -19002,7 +19002,7 @@ of_PRF
 common_AJ0
 words_NN2
 ii_CRD
-Spell_VVB-NN1
+Spell_VVB
 correctly_AV0
 in_PRP
 the_AT0
@@ -19062,7 +19062,7 @@ the_AT0
 alphabet_NN1
 3_CRD
 i_CRD
-Spell_VVB-NN1
+Spell_VVB
 correctly_AV0
 in_PRP
 the_AT0
@@ -19096,7 +19096,7 @@ common_AJ0
 letter_NN1
 strings_NN2
 iii_CRD
-Show_NN1-VVB
+Show_NN1
 a_AT0
 growing_AJ0
 awareness_NN1
@@ -19123,7 +19123,7 @@ their_DPS
 spelling_NN1
 4_CRD
 i_CRD
-Spell_VVB-NN1
+Spell_VVB
 correctly_AV0
 in_PRP
 the_AT0
@@ -19139,7 +19139,7 @@ other_AJ0
 main_AJ0
 patterns_NN2
 in_PRP
-English_AJ0-NN1
+English_AJ0
 spelling_NN1
 including_PRP
 the_AT0
@@ -19198,7 +19198,7 @@ them_PNP
 consistently_AV0
 not_XX0
 randomly_AV0
-mixed_AJ0
+mixed_VVN
 within_PRP
 words_NN2
 ii_CRD
@@ -19210,7 +19210,7 @@ recognisably_AV0
 formed_VVN
 and_CJC
 properly_AV0
-oriented_VVN
+oriented_VVD
 and_CJC
 that_CJT
 have_VHB
@@ -19252,7 +19252,7 @@ able_AJ0
 to_TO0
 5_CRD
 i_CRD
-Spell_VVB-NN1
+Spell_VVB
 correctly_AV0
 in_PRP
 the_AT0
@@ -19271,8 +19271,8 @@ with_PRP
 inflectional_AJ0
 suffixes_NN2
 eg_AV0
--ed_NN1-AJ0
--ing_NN1-AJ0
+-ed_AJ0
+-ing_AJ0
 where_AVQ
 consonant_AJ0
 doubling_VVG
@@ -19350,7 +19350,7 @@ the_AT0
 spelling_NN1
 of_PRF
 a_AT0
-stressed_VVD
+stressed_VVN
 syllable_NN1
 in_PRP
 a_AT0
@@ -19386,7 +19386,7 @@ fluently_AV0
 and_CJC
 legibly_AV0
 iv_CRD
-Show_NN1-VVB
+Show_NN1
 some_DT0
 ability_NN1
 to_TO0
@@ -19403,7 +19403,7 @@ the_AT0
 task_NN1
 eg_AV0
 handwriting_NN1
-typewriting_NN1-VVG
+typewriting_NN1
 computer_NN1
 printout_NN1
 artwork_NN1
@@ -19423,7 +19423,7 @@ and_CJC
 attractively_AV0
 7_CRD
 i_CRD
-Spell_VVB-NN1
+Spell_VVB
 and_CJC
 understand_VVI
 the_AT0
@@ -19445,12 +19445,12 @@ an_AT0
 important_AJ0
 role_NN1
 in_PRP
-word-building_AJ0-NN1
+word-building_NN1
 eg_AV0
-micro-_NN1-AJ0
-psych-_NN1-AJ0
-tele-_NN1-AJ0
-therm-_NN1-AJ0
+micro-_NN1
+psych-_NN1
+tele-_AJ0
+therm-_AJ0
 Recognise_VVB
 that_CJT
 where_AVQ
@@ -19466,8 +19466,8 @@ years_NN2
 there_EX0
 are_VBB
 some_DT0
-characteristic_AJ0-NN1
-sound-symbol_AJ0-NN1
+characteristic_NN1
+sound-symbol_AJ0
 relationships_NN2
 that_CJT
 reflect_VVI
@@ -19476,16 +19476,16 @@ word_NN1
 's_POS
 origin_NN1
 eg_AV0
-ch-_NN1-AJ0
+ch-_AJ0
 in_PRP
-French_AJ0-NN1
+French_AJ0
 words_NN2
 like_PRP
 champagne_NN1
 chauffeur_NN1
 charade_NN1
 and_CJC
-ch-_NN1-AJ0
+ch-_AJ0
 in_PRP
 Greek_AJ0
 words_NN2
@@ -19495,10 +19495,10 @@ chiropody_NN1
 chorus_NN1
 compared_VVN
 with_PRP
-ch-_NN1-AJ0
+ch-_AJ0
 in_PRP
 long-established_AJ0
-English_AJ0-NN1
+English_AJ0
 words_NN2
 like_PRP
 chaff_NN1
@@ -19527,12 +19527,12 @@ fluently_AV0
 and_CJC
 legibly_AV0
 iv_CRD
-Show_NN1-VVB
+Show_NN1
 an_AT0
-increased_AJ0
+increased_VVN
 ability_NN1
 to_TO0
-present_AJ0-NN1
+present_AJ0
 their_DPS
 finished_VVN
 work_NN1
@@ -19544,7 +19544,7 @@ PROGRAMMES_NN2
 OF_PRF
 STUDY_NN1
 FOR_PRP
-WRITING_NN1-VVG
+WRITING_NN1
 Programme_NN1
 of_PRF
 study_NN1
@@ -19642,7 +19642,7 @@ a_AT0
 language_NN1
 other_AJ0
 than_CJS
-English_AJ0-NN1
+English_AJ0
 may_VM0
 have_VHB
 observed_VVN
@@ -19693,7 +19693,7 @@ the_AT0
 functions_NN2
 of_PRF
 the_AT0
-English_AJ0-NN1
+English_AJ0
 writing_NN1
 system_NN1
 iv_CRD
@@ -20131,7 +20131,7 @@ frequently_AV0
 talking_VVG
 about_PRP
 the_AT0
-varied_AJ0
+varied_VVN
 types_NN2
 and_CJC
 purposes_NN2
@@ -20235,7 +20235,7 @@ is_VBZ
 established_VVN
 planning_NN1
 when_CJS
-initial_AJ0-NN1
+initial_AJ0
 thoughts_NN2
 and_CJC
 the_AT0
@@ -20246,7 +20246,7 @@ and_CJC
 ordered_VVD
 drafting_VVG
 when_CJS
-initial_AJ0-NN1
+initial_AJ0
 thoughts_NN2
 are_VBB
 developed_VVN
@@ -20285,7 +20285,7 @@ to_TO0
 convey_VVI
 their_DPS
 meaning_NN1
-tenses_NN2-VVZ
+tenses_NN2
 or_CJC
 pronouns_NN2
 have_VHB
@@ -20307,7 +20307,7 @@ words_NN2
 meaning_NN1
 would_VM0
 be_VBI
-improved_AJ0
+improved_VVN
 by_PRP
 a_AT0
 richer_AJC
@@ -20360,7 +20360,7 @@ should_VM0
 continue_VVI
 to_TO0
 have_VHB
-varied_AJ0
+varied_VVN
 and_CJC
 frequent_AJ0
 opportunities_NN2
@@ -20400,7 +20400,7 @@ their_DPS
 parents_NN2
 or_CJC
 other_AJ0
-trusted_VVD
+trusted_AJ0
 adults_NN2
 In_PRP
 writing_NN1
@@ -20672,7 +20672,7 @@ have_VHB
 opportunities_NN2
 to_TO0
 create_VVI
-polish_VVI
+polish_NN1
 and_CJC
 produce_VVI
 individually_AV0
@@ -20777,7 +20777,7 @@ writers_NN2
 there_EX0
 should_VM0
 be_VBI
-increased_AJ0
+increased_VVN
 attention_NN1
 to_TO0
 the_AT0
@@ -20897,7 +20897,7 @@ paragraph_NN1
 and_CJC
 encouraged_VVN
 to_TO0
-notice_VVI
+notice_NN1
 paragraph_NN1
 divisions_NN2
 in_PRP
@@ -20942,7 +20942,7 @@ should_VM0
 explain_VVI
 how_AVQ
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 has_VHZ
 come_VVI
 to_TO0
@@ -20959,7 +20959,7 @@ be_VBI
 the_AT0
 form_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 most_AV0
 frequently_AV0
 used_VVN
@@ -20991,10 +20991,10 @@ the_AT0
 local_AJ0
 dialect_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 and_CJC
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 recognising_VVG
 that_CJT
 local_AJ0
@@ -21041,7 +21041,7 @@ the_AT0
 forms_NN2
 of_PRF
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 in_PRP
 their_DPS
 writing_NN1
@@ -21111,13 +21111,13 @@ and_CJC
 suffixes_NN2
 eg_AV0
 un-_UNC
-in-_NN1-AJ0
+in-_AJ0
 and_CJC
-im-_NN1-AJ0
-il-_NN1-AJ0
-ir-_NN1-AJ0
+im-_NN1
+il-_AJ0
+ir-_AJ0
 -able_AJ0
--ness_NN1-AJ0
+-ness_AJ0
 -ful_AJ0
 etc_AV0
 v_PRP
@@ -21145,7 +21145,7 @@ reader_NN1
 In_PRP
 revising_VVG
 and_CJC
-proof-reading_NN1-AJ0
+proof-reading_NN1
 they_PNP
 should_VM0
 be_VBI
@@ -21273,7 +21273,7 @@ structures_NN2
 of_PRF
 written_VVN
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 In_PRP
 the_AT0
 context_NN1
@@ -21336,9 +21336,9 @@ inflectional_AJ0
 endings_NN2
 eg_AV0
 bead-ing_NN1
-bead-ed_NN1-AJ0
+bead-ed_AJ0
 bed-d-ing_NN1
-bed-d-ed._NN1-AJ0
+bed-d-ed._AJ0
 iv_CRD
 Teaching_NN1
 should_VM0
@@ -21356,7 +21356,7 @@ to_TO0
 formal_AJ0
 everyday_AJ0
 to_TO0
-specialist_NN1-AJ0
+specialist_NN1
 its_DPS
 use_NN1
 in_PRP
@@ -21393,7 +21393,7 @@ used_VVN
 the_AT0
 need_VVB
 for_PRP
-specialist_NN1-AJ0
+specialist_NN1
 terms_NN2
 and_CJC
 the_AT0
@@ -21403,7 +21403,7 @@ their_DPS
 use_NN1
 outside_PRP
 the_AT0
-specialist_NN1-AJ0
+specialist_NN1
 group_NN1
 Discussion_NN1
 should_VM0
@@ -21464,7 +21464,7 @@ types_NN2
 of_PRF
 text_NN1
 the_AT0
-matching_VVG
+matching_AJ0
 of_PRF
 form_NN1
 to_TO0
@@ -21489,7 +21489,7 @@ of_PRF
 stylistic_AJ0
 features_NN2
 more_AV0
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 writing_NN1
 than_CJS
@@ -21498,7 +21498,7 @@ an_AT0
 increasing_AJ0
 proficiency_NN1
 in_PRP
-re-reading_NN1-VVG
+re-reading_VVG
 and_CJC
 revising_VVG
 or_CJC
@@ -21547,7 +21547,7 @@ meaning_NN1
 to_TO0
 others_NN2
 reporting_VVG
-narrating_VVG-NN1
+narrating_VVG
 persuading_VVG
 arguing_VVG
 describing_VVG
@@ -21936,7 +21936,7 @@ etc._AV0
 vii_CRD
 Through_PRP
 reading_NN1
-listening_VVG-NN1
+listening_VVG
 to_TO0
 and_CJC
 talking_VVG
@@ -21962,14 +21962,14 @@ grammatical_AJ0
 structures_NN2
 that_CJT
 are_VBB
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 written_VVN
 language_NN1
 and_CJC
 an_AT0
 increasingly_AV0
-varied_AJ0
+varied_VVN
 and_CJC
 differentiated_VVN
 vocabulary_NN1
@@ -22004,7 +22004,7 @@ organisation_NN1
 or_CJC
 expression_NN1
 redrafting_VVG
-shaping_VVG-AJ0
+shaping_VVG
 and_CJC
 structuring_NN1
 the_AT0
@@ -22023,7 +22023,7 @@ purpose_NN1
 audience_NN1
 and_CJC
 form_NN1
-rereading_NN1
+rereading_VVG
 and_CJC
 revising_VVG
 making_VVG
@@ -22042,7 +22042,7 @@ vagueness_NN1
 incoherence_NN1
 or_CJC
 irrelevance_NN1
-proof-reading_NN1-AJ0
+proof-reading_NN1
 checking_VVG
 for_PRP
 errors_NN2
@@ -22245,7 +22245,7 @@ sufficient_AJ0
 information_NN1
 iv_CRD
 In_PRP
-proof-reading_NN1-AJ0
+proof-reading_NN1
 any_DT0
 work_NN1
 produced_VVN
@@ -22312,7 +22312,7 @@ speaker_NN1
 and_CJC
 listener_NN1
 are_VBB
-present_AJ0-NN1
+present_AJ0
 it_PNP
 can_VM0
 be_VBI
@@ -22506,7 +22506,7 @@ have_VHB
 been_VBN
 absorbed_VVN
 into_PRP
-English_AJ0-NN1
+English_AJ0
 from_PRP
 other_AJ0
 languages_NN2
@@ -22518,7 +22518,7 @@ familiar_AJ0
 with_PRP
 the_AT0
 common_AJ0
-word-building_AJ0-NN1
+word-building_NN1
 processes_NN2
 and_CJC
 spelling_NN1
@@ -22641,7 +22641,7 @@ be_VBI
 stored_VVN
 and_CJC
 readily_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 across_PRP
 time_NN1
 and_CJC
@@ -22725,7 +22725,7 @@ that_CJT
 at_PRP
 its_DPS
 most_AV0
-characteristic_AJ0-NN1
+characteristic_NN1
 speech_NN1
 is_VBZ
 interactive_AJ0
@@ -22754,7 +22754,7 @@ a_AT0
 more_AV0
 tightly_AV0
 planned_VVN
-overall_AJ0-NN1
+overall_AJ0
 structure_NN1
 signalled_VVD
 both_AV0
@@ -23154,11 +23154,11 @@ competence_NN1
 in_PRP
 drafting_VVG
 redrafting_VVG
-rereading_NN1
+rereading_VVG
 and_CJC
 revising_VVG
 and_CJC
-proof-reading_NN1-AJ0
+proof-reading_NN1
 and_CJC
 should_VM0
 learn_VVI
@@ -23347,13 +23347,13 @@ written_VVN
 texts_NN2
 eg_AV0
 letters_NN2
-tabloid_AJ0-NN1
+tabloid_AJ0
 and_CJC
-broadsheet_VVB-NN1
+broadsheet_NN1
 newspapers_NN2
 teenage_AJ0
 magazines_NN2
-specialist_NN1-AJ0
+specialist_NN1
 hobby_NN1
 periodicals_NN2
 holiday_NN1
@@ -23380,7 +23380,7 @@ the_AT0
 vocabulary_NN1
 and_CJC
 grammar_NN1
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 those_DT0
 styles_NN2
@@ -23396,7 +23396,7 @@ of_PRF
 other_AJ0
 ways_NN2
 of_PRF
-depersonalising_VVG-AJ0
+depersonalising_VVG
 text_NN1
 such_DT0
 as_CJS
@@ -23631,7 +23631,7 @@ some_DT0
 self-assessment_NN1
 should_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 through_PRP
 children_NN2
 's_POS
@@ -23657,7 +23657,7 @@ could_VM0
 use_NN1
 a_AT0
 standard_NN1
-pro_NN1-AJ0
+pro_NN1
 forma_UNC
 to_TO0
 assess_VVI
@@ -23678,7 +23678,7 @@ recommend_VVI
 the_AT0
 development_NN1
 by_PRP
-SEAC_NP0-NN1
+SEAC_NN1
 of_PRF
 a_AT0
 national_AJ0
@@ -23709,7 +23709,7 @@ tasks_NN2
 in_PRP
 external_AJ0
 assessment_NN1
-SATs_NP0
+SATs_NN2
 may_VM0
 also_AV0
 however_AV0
@@ -23736,7 +23736,7 @@ presentation_NN1
 we_PNP
 recommend_VVI
 that_CJT
-SEAC_NP0-NN1
+SEAC_NN1
 should_VM0
 commission_NN1
 development_NN1
@@ -23858,7 +23858,7 @@ should_VM0
 be_VBI
 assessed_VVN
 through_PRP
-decontextualised_AJ0-VVN
+decontextualised_AJ0
 tests_NN2
 or_CJC
 exercises_NN2
@@ -23960,7 +23960,7 @@ have_VHB
 the_AT0
 opportunity_NN1
 to_TO0
-present_AJ0-NN1
+present_AJ0
 an_AT0
 extended_VVN
 piece_NN1
@@ -23981,7 +23981,7 @@ of_PRF
 time_NN1
 17.66_CRD
 The_AT0
-SATs_NP0
+SATs_NN2
 at_PRP
 ages_NN2
 14_CRD
@@ -24063,7 +24063,7 @@ through_PRP
 purposeful_AJ0
 writing_NN1
 activities_NN2
-Marking_VVG-NN1
+Marking_NN1
 policy_NN1
 17.67_CRD
 We_PNP
@@ -24103,7 +24103,7 @@ In_PRP
 this_DT0
 context_NN1
 we_PNP
-feel_VVI
+feel_VVB
 it_PNP
 may_VM0
 be_VBI
@@ -24247,7 +24247,7 @@ important_AJ0
 Such_DT0
 a_AT0
 response_NN1
-nurtures_NN2-VVZ
+nurtures_NN2
 trust_NN1
 in_PRP
 the_AT0
@@ -24261,7 +24261,7 @@ however_AV0
 brief_AJ0
 is_VBZ
 the_AT0
-English_AJ0-NN1
+English_AJ0
 teacher_NN1
 's_POS
 most_AV0
@@ -24291,9 +24291,9 @@ teacher_NN1
 as_CJS
 self-appointed_AJ0
 proof-reader_NN1
-GRowling_VVG-AJ0
+GRowling_VVG
 and_CJC
-SPitting_VVG-AJ0
+SPitting_AJ0
 and_CJC
 hiSSing_VVG
 from_PRP
@@ -24598,7 +24598,7 @@ could_VM0
 well_AV0
 provide_VVI
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 stimulus_NN1
 for_PRP
 a_AT0
@@ -24613,7 +24613,7 @@ task_NN1
 The_AT0
 National_AJ0
 Curriculum_NN1
-English_AJ0-NN1
+English_AJ0
 Working_VVG
 Group_NN1
 was_VBD
@@ -24648,7 +24648,7 @@ associated_VVN
 assessment_NN1
 arrangements_NN2
 for_PRP
-English_AJ0-NN1
+English_AJ0
 in_PRP
 the_AT0
 National_AJ0
@@ -24659,7 +24659,7 @@ period_NN1
 of_PRF
 compulsory_AJ0
 schooling_NN1
-English_AJ0-NN1
+English_AJ0
 was_VBD
 defined_VVN
 as_CJS
@@ -24827,7 +24827,7 @@ programmes_NN2
 of_PRF
 study_NN1
 for_PRP
-English_AJ0-NN1
+English_AJ0
 for_PRP
 the_AT0
 primary_AJ0
@@ -24860,7 +24860,7 @@ comprehensive_AJ0
 Report_NN1
 covering_VVG
 the_AT0
-English_AJ0-NN1
+English_AJ0
 curriculum_NN1
 for_PRP
 the_AT0
@@ -24893,7 +24893,7 @@ secondary_AJ0
 curriculum_NN1
 or_CJC
 to_TO0
-present_AJ0-NN1
+present_AJ0
 our_DPS
 arguments_NN2
 more_AV0
@@ -24916,7 +24916,7 @@ the_AT0
 recommendations_NN2
 of_PRF
 the_AT0
-Kingman_NN1-NP0
+Kingman_NP0
 Committee_NN1
 and_CJC
 of_PRF
@@ -24940,7 +24940,7 @@ submitted_VVN
 evidence_NN1
 they_PNP
 are_VBB
-listed_AJ0
+listed_VVN
 in_PRP
 appendix_NN1
 5_CRD
@@ -24952,10 +24952,10 @@ Group_NN1
 visited_VVD
 Lessons_NN2
 in_PRP
-English_AJ0-NN1
+English_AJ0
 Teaching_NN1
 and_CJC
-Learning_VVG-NN1
+Learning_NN1
 the_AT0
 special_AJ0
 conference_NN1
@@ -24967,7 +24967,7 @@ for_PRP
 the_AT0
 Teaching_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 and_CJC
 Making_VVG
 Changes_NN2
@@ -24979,7 +24979,7 @@ work_NN1
 of_PRF
 the_AT0
 National_AJ0
-Writing_VVG-NN1
+Writing_NN1
 Project_NN1
 Visits_NN2
 were_VBD
@@ -25001,7 +25001,7 @@ was_VBD
 affecting_VVG
 work_NN1
 in_PRP
-English_AJ0-NN1
+English_AJ0
 and_CJC
 to_TO0
 Denmark_NP0
@@ -25015,7 +25015,7 @@ teaching_NN1
 of_PRF
 Danish_AJ0
 and_CJC
-French_AJ0-NN1
+French_AJ0
 respectively_AV0
 and_CJC
 at_PRP
@@ -25070,7 +25070,7 @@ of_PRF
 schools_NN2
 on_PRP
 the_AT0
-Bullock_NP0-NN1
+Bullock_NN1
 and_CJC
 Swann_NP0
 Reports_NN2
@@ -25084,7 +25084,7 @@ Assessment_NN1
 of_PRF
 Performance_NN1
 Unit_NN1
-APU_NP0-NN1
+APU_NP0
 Assessment_NN1
 framework_NN1
 1.5_CRD
@@ -25099,7 +25099,7 @@ the_AT0
 recommendations_NN2
 of_PRF
 the_AT0
-TGAT_NP0-NN1
+TGAT_NN1
 Reports_NN2
 as_CJS
 endorsed_VVN
@@ -25120,14 +25120,14 @@ Examinations_NN2
 and_CJC
 Assessment_NN1
 Council_NN1
-SEAC_NP0-NN1
+SEAC_NN1
 The_AT0
 Government_NN1
 's_POS
 response_NN1
 to_TO0
 the_AT0
-TGAT_NP0-NN1
+TGAT_NN1
 recommendations_NN2
 given_VVN
 in_PRP
@@ -25319,7 +25319,7 @@ set_VVN
 Standard_AJ0
 Assessment_NN1
 Tasks_NN2
-SATs_NP0
+SATs_NN2
 and_CJC
 assessments_NN2
 by_PRP
@@ -25339,7 +25339,7 @@ the_AT0
 results_NN2
 of_PRF
 the_AT0
-SATs_NP0
+SATs_NN2
 and_CJC
 with_PRP
 the_AT0
@@ -25437,7 +25437,7 @@ to_TO0
 be_VBI
 made_VVN
 The_AT0
-TGAT_NP0-NN1
+TGAT_NN1
 Reports_NN2
 made_VVN
 a_AT0
@@ -25477,7 +25477,7 @@ and_CJC
 secondary_AJ0
 schools_NN2
 including_PRP
-SATs_NP0
+SATs_NN2
 and_CJC
 GCSE_NN1
 That_DT0
@@ -25499,7 +25499,7 @@ double_AJ0
 GCSE_NN1
 award_NN1
 in_PRP
-English_AJ0-NN1
+English_AJ0
 In_PRP
 chapters_NN2
 15_CRD
@@ -25526,7 +25526,7 @@ recommendations_NN2
 we_PNP
 have_VHB
 taken_VVN
-heed_VVI
+heed_NN1
 of_PRF
 the_AT0
 point_NN1
@@ -25541,7 +25541,7 @@ is_VBZ
 complex_AJ0
 and_CJC
 non-linear_AJ0
-Profile_NN1-VVB
+Profile_NN1
 components_NN2
 attainment_NN1
 targets_NN2
@@ -25550,7 +25550,7 @@ programmes_NN2
 of_PRF
 study_NN1
 1.7_CRD
-TGAT_NP0-NN1
+TGAT_NN1
 recommended_VVN
 that_CJT
 the_AT0
@@ -25593,7 +25593,7 @@ the_AT0
 language_NN1
 modes_NN2
 speaking_VVG
-listening_VVG-NN1
+listening_VVG
 reading_NN1
 and_CJC
 writing_NN1
@@ -25615,7 +25615,7 @@ as_CJS
 follows_VVZ
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 with_PRP
 one_CRD
 attainment_NN1
@@ -25643,9 +25643,9 @@ variety_NN1
 of_PRF
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 activities_NN2
-matching_VVG
+matching_AJ0
 style_NN1
 and_CJC
 response_NN1
@@ -25706,7 +25706,7 @@ meaning_NN1
 in_PRP
 written_VVN
 language_NN1
-matching_VVG
+matching_AJ0
 style_NN1
 to_TO0
 audience_NN1
@@ -25725,7 +25725,7 @@ with_PRP
 spelling_NN1
 and_CJC
 handwriting_NN1
-merged_VVN-VVD
+merged_VVN
 into_PRP
 an_AT0
 attainment_NN1
@@ -25736,7 +25736,7 @@ We_PNP
 allocated_VVN
 speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 to_TO0
 one_CRD
 profile_NN1
@@ -25746,7 +25746,7 @@ they_PNP
 are_VBB
 essentially_AV0
 reciprocal_AJ0
-interacting_VVG-AJ0
+interacting_VVG
 activities_NN2
 and_CJC
 as_CJS
@@ -25819,10 +25819,10 @@ approximately_AV0
 40:40:20_CRD
 for_PRP
 Reading_NP0
-Writing_VVG-NN1
+Writing_NN1
 Speaking_VVG
 and_CJC
-listening_VVG-NN1
+listening_VVG
 respectively_AV0
 see_VVI
 chapter_NN1
@@ -25929,7 +25929,7 @@ State_NN1
 's_POS
 proposals_NN2
 for_PRP
-English_AJ0-NN1
+English_AJ0
 5_CRD
 to_TO0
 11_CRD
@@ -25978,7 +25978,7 @@ The_AT0
 profile_NN1
 components_NN2
 are_VBB
-interrelated_AJ0-VVN
+interrelated_AJ0
 For_PRP
 example_NN1
 group_NN1
@@ -25994,7 +25994,7 @@ may_VM0
 be_VBI
 collaborative_AJ0
 and_CJC
-listening_VVG-NN1
+listening_VVG
 to_TO0
 stories_NN2
 is_VBZ
@@ -26059,7 +26059,7 @@ necessarily_AV0
 and_CJC
 rightly_AV0
 be_VBI
-integrated_AJ0
+integrated_VVN
 1.11_CRD
 Knowledge_NN1
 about_PRP
@@ -26113,7 +26113,7 @@ for_PRP
 those_DT0
 areas_NN2
 of_PRF
-English_AJ0-NN1
+English_AJ0
 which_DTQ
 we_PNP
 consider_VVI
@@ -26156,7 +26156,7 @@ all_DT0
 the_AT0
 accomplishments_NN2
 in_PRP
-English_AJ0-NN1
+English_AJ0
 that_CJT
 may_VM0
 be_VBI
@@ -26233,7 +26233,7 @@ in_PRP
 and_CJC
 appreciation_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 We_PNP
 have_VHB
 therefore_AV0
@@ -26256,7 +26256,7 @@ skills_NN2
 and_CJC
 understanding_NN1
 within_PRP
-English_AJ0-NN1
+English_AJ0
 that_CJT
 are_VBB
 necessary_AJ0
@@ -26327,7 +26327,7 @@ not_XX0
 wish_VVB
 teachers_NN2
 to_TO0
-feel_VVI
+feel_VVB
 limited_AJ0
 by_PRP
 them_PNP
@@ -26345,7 +26345,7 @@ to_TO0
 the_AT0
 importance_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 and_CJC
 to_TO0
 the_AT0
@@ -26371,7 +26371,7 @@ Mathematics_NN1
 and_CJC
 in_PRP
 the_AT0
-interim_AJ0-NN1
+interim_AJ0
 report_NN1
 of_PRF
 the_AT0
@@ -26384,7 +26384,7 @@ Working_VVG
 Group_NN1
 In_PRP
 England_NP0
-English_AJ0-NN1
+English_AJ0
 is_VBZ
 the_AT0
 language_NN1
@@ -26423,7 +26423,7 @@ to_TO0
 the_AT0
 teaching_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 There_EX0
 is_VBZ
 much_DT0
@@ -26452,14 +26452,14 @@ pupil_NN1
 's_POS
 capability_NN1
 in_PRP
-English_AJ0-NN1
+English_AJ0
 1.16_CRD
 Much_DT0
 has_VHZ
 been_VBN
 written_VVN
 on_PRP
-English_AJ0-NN1
+English_AJ0
 across_PRP
 the_AT0
 curriculum_NN1
@@ -26474,7 +26474,7 @@ an_AT0
 unacceptable_AJ0
 vision_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 reduced_VVN
 to_TO0
 a_AT0
@@ -26501,7 +26501,7 @@ carried_VVN
 by_PRP
 teachers_NN2
 of_PRF
-English_AJ0-NN1
+English_AJ0
 The_AT0
 Reports_NN2
 of_PRF
@@ -26542,7 +26542,7 @@ in_PRP
 the_AT0
 teaching_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 1_CRD
 17_CRD
 Throughout_PRP
@@ -26565,13 +26565,13 @@ number_NN1
 of_PRF
 issues_NN2
 that_CJT
-lie_VVI
+lie_VVB
 at_PRP
 the_AT0
 heart_NN1
 of_PRF
 the_AT0
-English_AJ0-NN1
+English_AJ0
 curriculum_NN1
 and_CJC
 its_DPS
@@ -26606,7 +26606,7 @@ to_TO0
 and_CJC
 elsewhere_AV0
 The_AT0
-Kingman_NN1-NP0
+Kingman_NP0
 Report_NN1
 1.18_CRD
 We_PNP
@@ -26623,7 +26623,7 @@ reference_NN1
 to_TO0
 take_VVI
 the_AT0
-Kingman_NN1-NP0
+Kingman_NP0
 Report_NN1
 into_PRP
 consideration_NN1
@@ -26649,7 +26649,7 @@ underlying_AJ0
 assumptions_NN2
 of_PRF
 the_AT0
-Kingman_NN1-NP0
+Kingman_NP0
 Report_NN1
 and_CJC
 in_PRP
@@ -26677,7 +26677,7 @@ and_CJC
 those_DT0
 of_PRF
 the_AT0
-Kingman_NN1-NP0
+Kingman_NP0
 Committee_NN1
 We_PNP
 deal_NN1
@@ -26685,7 +26685,7 @@ with_PRP
 grammar_NN1
 and_CJC
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 in_PRP
 chapter_NN1
 4_CRD
@@ -26704,7 +26704,7 @@ chapter_NN1
 6_CRD
 1.19_CRD
 The_AT0
-Kingman_NN1-NP0
+Kingman_NP0
 Committee_NN1
 's_POS
 remit_NN1
@@ -26725,7 +26725,7 @@ the_AT0
 elements_NN2
 of_PRF
 the_AT0
-English_AJ0-NN1
+English_AJ0
 curriculum_NN1
 so_AV0
 we_PNP
@@ -26763,7 +26763,7 @@ language_NN1
 aspects_NN2
 of_PRF
 the_AT0
-English_AJ0-NN1
+English_AJ0
 curriculum_NN1
 than_CJS
 with_PRP
@@ -26778,7 +26778,7 @@ such_DT0
 matters_NN2
 as_CJS
 Standard_AJ0
-English_AJ0-NN1
+English_AJ0
 the_AT0
 use_NN1
 of_PRF
@@ -26811,7 +26811,7 @@ of_PRF
 reference_NN1
 of_PRF
 the_AT0
-Kingman_NN1-NP0
+Kingman_NP0
 Committee_NN1
 required_VVN
 it_PNP
@@ -26822,7 +26822,7 @@ a_AT0
 model_NN1
 of_PRF
 the_AT0
-English_AJ0-NN1
+English_AJ0
 language_NN1
 whether_CJS
 spoken_VVN
@@ -26844,7 +26844,7 @@ to_TO0
 understand_VVI
 how_AVQ
 the_AT0
-English_AJ0-NN1
+English_AJ0
 language_NN1
 works_NN0
 ii_CRD
@@ -26855,7 +26855,7 @@ of_PRF
 all_DT0
 aspects_NN2
 of_PRF
-English_AJ0-NN1
+English_AJ0
 teaching_NN1
 2_CRD
 To_TO0
@@ -26909,7 +26909,7 @@ know_VVI
 about_PRP
 how_AVQ
 the_AT0
-English_AJ0-NN1
+English_AJ0
 language_NN1
 works_NN0
 and_CJC
@@ -26936,7 +26936,7 @@ ages_NN2
 and_CJC
 16_CRD
 The_AT0
-Kingman_NN1-NP0
+Kingman_NP0
 Committee_NN1
 had_VHD
 to_TO0
@@ -27013,7 +27013,7 @@ any_DT0
 case_NN1
 as_CJS
 the_AT0
-Kingman_NN1-NP0
+Kingman_NP0
 Report_NN1
 made_VVN
 abundantly_AV0
@@ -27027,7 +27027,7 @@ all_DT0
 aspects_NN2
 of_PRF
 the_AT0
-English_AJ0-NN1
+English_AJ0
 language_NN1
 Literature_NN1
 1.21_CRD
@@ -27047,7 +27047,7 @@ of_PRF
 literature_NN1
 in_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 curriculum_NN1
 5_CRD
 to_TO0
@@ -27106,7 +27106,7 @@ doubt_NN1
 omissions_NN2
 media_NN0
 attention_NN1
-centred_VVN-VVD
+centred_VVN
 on_PRP
 this_DT0
 list_NN1
@@ -27176,7 +27176,7 @@ first_ORD
 language_NN1
 is_VBZ
 not_XX0
-English_AJ0-NN1
+English_AJ0
 1.22_CRD
 We_PNP
 have_VHB
@@ -27194,7 +27194,7 @@ first_ORD
 language_NN1
 is_VBZ
 not_XX0
-English_AJ0-NN1
+English_AJ0
 these_DT0
 are_VBB
 discussed_VVN
@@ -27356,7 +27356,7 @@ or_CJC
 unless_CJS
 the_AT0
 pupils_NN2
-fall_VVI
+fall_NN1
 within_PRP
 any_DT0
 of_PRF
@@ -27411,7 +27411,7 @@ full_AJ0
 range_NN1
 of_PRF
 the_AT0
-English_AJ0-NN1
+English_AJ0
 curriculum_NN1
 but_CJC
 we_PNP
@@ -27432,7 +27432,7 @@ assessment_NN1
 arrangements_NN2
 which_DTQ
 we_PNP
-feel_VVI
+feel_VVB
 may_VM0
 nevertheless_AV0
 be_VBI
@@ -27574,7 +27574,7 @@ and_CJC
 as_CJS
 appropriate_AJ0
 with_PRP
-SEAC_NP0-NN1
+SEAC_NN1
 commission_NN1
 the_AT0
 compilation_NN1

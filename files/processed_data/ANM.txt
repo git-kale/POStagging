@@ -52,7 +52,7 @@ set_VVN
 us_PNP
 a_AT0
 hard_AJ0
-act_VVI
+act_NN1
 to_TO0
 follow_VVI
 We_PNP
@@ -252,7 +252,7 @@ contributors_NN2
 for_PRP
 being_VBG
 so_AV0
-prompt_VVI
+prompt_AJ0
 with_PRP
 all_DT0
 your_DPS
@@ -534,7 +534,7 @@ are_VBB
 in_PRP
 this_DT0
 newsletter_NN1
-MAVA_NP0-NN1
+MAVA_NN1
 Sales_NN0
 offer_VVI
 a_AT0
@@ -552,7 +552,7 @@ going_VVG
 to_TO0
 NCT_NP0
 Their_DPS
-nursing_AJ0-NN1
+nursing_NN1
 bras_NN2
 are_VBB
 recognised_VVN
@@ -565,7 +565,7 @@ Chairperson_NN1
 Hello_ITJ
 and_CJC
 goodbye_NN1
-Welcome_VVB-NN1
+Welcome_NN1
 to_TO0
 Diane_NP0
 Fletcher_NP0
@@ -578,7 +578,7 @@ our_DPS
 new_AJ0
 and_CJC
 dynamic_AJ0
-editorial_AJ0-NN1
+editorial_NN1
 team_NN1
 Many_DT0
 thanks_NN2
@@ -681,7 +681,7 @@ local_AJ0
 hospitals_NN2
 including_PRP
 The_AT0
-Sorrento_NN1-NP0
+Sorrento_NN1
 If_CJS
 the_AT0
 plans_NN2
@@ -749,7 +749,7 @@ requested_VVN
 that_CJT
 we_PNP
 be_VBI
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 next_ORD
@@ -778,7 +778,7 @@ would_VM0
 like_PRP
 to_TO0
 be_VBI
-involved_AJ0
+involved_VVN
 in_PRP
 any_DT0
 way_NN1
@@ -788,13 +788,13 @@ myself_PNX
 of_PRF
 Lynn_NP0
 Inglis_NP0
-Continuing_VVG-AJ0
+Continuing_VVG
 on_PRP
 the_AT0
 subject_NN1
 of_PRF
 getting_VVG
-involved_AJ0
+involved_VVN
 the_AT0
 committee_NN1
 are_VBB
@@ -851,7 +851,7 @@ and_CJC
 that_CJT
 much_DT0
 is_VBZ
-involved_AJ0
+involved_VVN
 and_CJC
 much_DT0
 fundraising_NN1
@@ -1085,7 +1085,7 @@ babies_NN2
 feelings_NN2
 without_PRP
 being_VBG
-present_AJ0-NN1
+present_AJ0
 2_CRD
 the_AT0
 Campaign_NN1
@@ -1118,7 +1118,7 @@ under_PRP
 the_AT0
 Data_NN0
 Protection_NN1
-act_VVI
+act_NN1
 we_PNP
 do_VDB
 have_VHB
@@ -1178,13 +1178,13 @@ be_VBI
 named_VVN
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 have_VHB
 suffered_VVN
 please_AV0
 write_VVI
-ASAP_NP0-NN1
+ASAP_NN1
 to_TO0
 HQ_NN1
 or_CJC
@@ -1317,7 +1317,7 @@ that_CJT
 the_AT0
 office_NN1
 would_VM0
-fall_VVI
+fall_NN1
 apart_AV0
 when_CJS
 I_PNP
@@ -1520,7 +1520,7 @@ being_VBG
 at_PRP
 home_NN1
 and_CJC
-caring_VVG-NN1
+caring_NN1
 for_PRP
 Danielle_NP0
 and_CJC
@@ -1792,7 +1792,7 @@ to_TO0
 shed_NN1
 a_AT0
 single_AJ0
-tear_NN1-VVB
+tear_NN1
 as_CJS
 I_PNP
 walked_VVD
@@ -2096,7 +2096,7 @@ different_AJ0
 such_DT0
 as_CJS
 a_AT0
-childminder_NN1-VVB
+childminder_NN1
 or_CJC
 a_AT0
 nanny_NN1
@@ -2232,7 +2232,7 @@ re-entering_VVG
 the_AT0
 working_VVG
 world_NN1
-Kiddiswop_VVB-NN1
+Kiddiswop_NN1
 What_DTQ
 A_AT0
 sale_NN1
@@ -2332,7 +2332,7 @@ be_VBI
 appreciated_VVN
 How_AVQ
 Please_AV0
-feel_VVI
+feel_VVB
 free_AJ0
 to_TO0
 bring_VVI
@@ -2369,7 +2369,7 @@ would_VM0
 appreciate_VVI
 as_CJS
 much_DT0
-notice_VVI
+notice_NN1
 as_CJS
 possible_AJ0
 please_AV0
@@ -2990,7 +2990,7 @@ groups_NN2
 people_NN0
 do_VDB
 not_XX0
-feel_VVI
+feel_VVB
 the_AT0
 need_VVB
 to_TO0
@@ -3017,7 +3017,7 @@ no_AT0
 one_CRD
 needs_VVZ
 the_AT0
-MiE_NP0-NN1
+MiE_NP0
 group_NN1
 I_PNP
 do_VDB
@@ -3086,7 +3086,7 @@ new_AJ0
 newsletter_NN1
 team_NN1
 and_CJC
-feel_VVI
+feel_VVB
 we_PNP
 could_VM0
 print_NN1
@@ -3290,7 +3290,7 @@ months_NN2
 2_CRD
 Do_VDB
 you_PNP
-feel_VVI
+feel_VVB
 the_AT0
 newsletter_NN1
 should_VM0
@@ -3339,14 +3339,14 @@ of_PRF
 a_AT0
 previous_AJ0
 theme_NN1
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 3_CRD
 These_DT0
 are_VBB
 the_AT0
 things_NN2
 WE_PNP
-feel_VVI
+feel_VVB
 are_VBB
 absolutely_AV0
 essential_AJ0
@@ -3422,7 +3422,7 @@ we_PNP
 want_VVB
 more_AV0
 information_NN1
-Date_NN1-VVB
+Date_NN1
 Weight_NN1
 names_NN2
 of_PRF
@@ -3454,11 +3454,11 @@ by_PRP
 NCT_NP0
 Headquarters_NN0
 b_ZZ0
-Local_NN1-AJ0
+Local_AJ0
 news_NN1
 items_NN2
 e.g._AV0
-Sorrento_NN1-NP0
+Sorrento_NN1
 closure_NN1
 issue_NN1
 c_ZZ0
@@ -3475,7 +3475,7 @@ legal_AJ0
 rights_NN2
 e.g._AV0
 Child_NN1
-Benefit_NN1-VVB
+Benefit_NN1
 etc_AV0
 5_CRD
 Which_DTQ
@@ -3561,17 +3561,17 @@ National_AJ0
 aims_NN2
 activities_NN2
 etc_AV0
-Local_NN1-AJ0
+Local_AJ0
 NCT_NP0
 aims_NN2
-Local_NN1-AJ0
+Local_AJ0
 NCT_NP0
 activities_NN2
-Local_NN1-AJ0
+Local_AJ0
 NCT_NP0
 people_NN0
 committee_NN1
-Local_NN1-AJ0
+Local_AJ0
 NCT_NP0
 people_NN0
 members_NN2
@@ -3595,7 +3595,7 @@ in_PRP
 this_DT0
 issue_NN1
 b_ZZ0
-Printing_VVG-NN1
+Printing_VVG
 the_AT0
 minutes_NN2
 of_PRF
@@ -3603,7 +3603,7 @@ the_AT0
 committee_NN1
 meetings_NN2
 Completely_AV0
-Highlights_NN2-VVZ
+Highlights_NN2
 only_AV0
 8_CRD
 Some_DT0
@@ -3631,7 +3631,7 @@ better_AJC
 Newsletter/Magazine_NN1
 9_CRD
 At_PRP
-present_AJ0-NN1
+present_AJ0
 the_AT0
 newsletter_NN1
 does_VDZ
@@ -3648,7 +3648,7 @@ should_VM0
 Particularly_AV0
 if_CJS
 you_PNP
-feel_VVI
+feel_VVB
 it_PNP
 should_VM0
 come_VVI
@@ -3658,7 +3658,7 @@ often_AV0
 how_AVQ
 do_VDB
 you_PNP
-feel_VVI
+feel_VVB
 we_PNP
 should_VM0
 cover_NN1
@@ -3683,7 +3683,7 @@ willing_AJ0
 to_TO0
 help_VVI
 c_ZZ0
-Start_VVB-NN1
+Start_NN1
 a_AT0
 small_AJ0
 ads_NN2
@@ -3741,7 +3741,7 @@ October_NP0
 26th_ORD
 Usborne_AJ0
 Book_NN1
-Sale_NN1-NP0
+Sale_NP0
 Usborne_AJ0
 describe_VVI
 their_DPS
@@ -3781,7 +3781,7 @@ Thursday_NP0
 November_NP0
 30th_ORD
 Christmas_NN1
-Sale_NN1-NP0
+Sale_NP0
 Come_VVB
 and_CJC
 buy_VVI
@@ -3813,8 +3813,8 @@ meetings_NN2
 at_PRP
 your_DPS
 clinic/toddler_NN1
-group/playgroup/nursery/school_NN1-VVB
-Phone_NN1-VVB
+group/playgroup/nursery/school_VVB
+Phone_VVB
 for_PRP
 more_AV0
 details_NN2
@@ -3830,7 +3830,7 @@ Social_AJ0
 Event_NN1
 The_AT0
 most_AV0
-relaxing_VVG-AJ0
+relaxing_VVG
 way_NN1
 to_TO0
 spend_VVI
@@ -3869,7 +3869,7 @@ then_AV0
 a_AT0
 cool_AJ0
 drink_NN1
-wrapped_VVN-VVD
+wrapped_VVN
 in_PRP
 your_DPS
 personal_AJ0
@@ -3884,7 +3884,7 @@ watching_VVG
 other_AJ0
 people_NN0
 getting_VVG
-pickled_VVD-AJ0
+pickled_AJ0
 If_CJS
 you_PNP
 have_VHB
@@ -3996,7 +3996,7 @@ successful_AJ0
 day_NN1
 trip_NN1
 to_TO0
-Ashend_NP0-NN1
+Ashend_NN1
 House_NN1
 Farm_NN1
 Editors_NN2
@@ -4220,7 +4220,7 @@ inverted_AJ0
 nipples_NN2
 for_PRP
 the_AT0
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 mother_NN1
 WE_PNP
 are_VBB
@@ -4361,7 +4361,7 @@ to_TO0
 have_VHB
 inverted_AJ0
 or_CJC
-non-projectile_AJ0-NN1
+non-projectile_AJ0
 nipples_NN2
 That_DT0
 is_VBZ
@@ -4419,7 +4419,7 @@ for_PRP
 more_AV0
 information_NN1
 Education_NN1
-Update_NN1-VVB
+Update_VVB
 As_CJS
 two_CRD
 newly_AV0
@@ -4429,7 +4429,7 @@ Co-ordinators_NN2
 Parry_NP0
 and_CJC
 I_PNP
-feel_VVI
+feel_VVB
 we_PNP
 have_VHB
 made_VVN
@@ -4567,13 +4567,13 @@ who_PNQ
 wish_VVB
 to_TO0
 be_VBI
-involved_AJ0
+involved_VVN
 in_PRP
 some_DT0
 way_NN1
 Post_NN1
 Natal_AJ0
-Support_NN1-VVB
+Support_NN1
 The_AT0
 post_NN1
 natal_AJ0
@@ -4723,7 +4723,7 @@ Nose_NN1
 Baby_NN1
 4.00_CRD
 a.m_AV0
-Quick_AJ0-AV0
+Quick_AJ0
 get_VVI
 to_TO0
 the_AT0
@@ -4832,7 +4832,7 @@ really_AV0
 work_NN1
 I_PNP
 now_AV0
-feel_VVI
+feel_VVB
 as_CJS
 if_CJS
 I_PNP
@@ -4909,7 +4909,7 @@ properly_AV0
 and_CJC
 makes_VVZ
 me_PNP
-feel_VVI
+feel_VVB
 as_CJS
 if_CJS
 I_PNP
@@ -5108,7 +5108,7 @@ but_CJC
 give_VVI
 up_AVP
 and_CJC
-lie_VVI
+lie_VVB
 down_AVP
 This_DT0
 is_VBZ
@@ -5198,14 +5198,14 @@ I_PNP
 being_VBG
 given_VVN
 an_AT0
-epidural_NN1-AJ0
+epidural_NN1
 Tim_NP0
 's_POS
 dressed_VVN
 in_PRP
 gowns_NN2
 The_AT0
-epidural_NN1-AJ0
+epidural_NN1
 starts_VVZ
 taking_VVG
 effect_NN1
@@ -5298,7 +5298,7 @@ n't_XX0
 know_VVI
 how_AVQ
 I_PNP
-feel_VVI
+feel_VVB
 pleased_AJ0
 it_PNP
 's_POS
@@ -5333,7 +5333,7 @@ fireguards_NN2
 Tel_NP0
 FOR_PRP
 SALE_NN1
-Detached_AJ0-VVN
+Detached_AJ0
 three_CRD
 bed._NN0
 traditional_AJ0
@@ -5381,7 +5381,7 @@ envelope_NN1
 for_PRP
 one_CRD
 example_NN1
-Contact_VVB-NN1
+Contact_VVB
 WANTED_VVN
 a_AT0
 cleaner_NN1
@@ -5404,7 +5404,7 @@ maybe_AV0
 occasional_AJ0
 catering_VVG
 work_NN1
-Contact_VVB-NN1
+Contact_VVB
 We_PNP
 have_VHB
 prepared_AJ0
@@ -5516,7 +5516,7 @@ found_VVD
 a_AT0
 leaflet_NN1
 entitled_VVN
-Weaning_VVG-AJ0
+Weaning_VVG
 Your_DPS
 Baby_NN1
 with_PRP
@@ -5628,7 +5628,7 @@ labels_NN2
 The_AT0
 potty_NN1
 training_NN1
-restarted_VVN-VVD
+restarted_VVN
 and_CJC
 then_AV0
 after_PRP
@@ -5694,7 +5694,7 @@ seemed_VVD
 to_TO0
 be_VBI
 to_TO0
-feed_VVI
+feed_NN1
 a_AT0
 couple_NN1
 of_PRF
@@ -5715,7 +5715,7 @@ I_PNP
 discovered_VVN
 he_PNP
 was_VBD
-teething_AJ0-VVG
+teething_AJ0
 the_AT0
 sucking_VVG
 made_VVN
@@ -5746,7 +5746,7 @@ then_AV0
 just_AV0
 before_PRP
 a_AT0
-feed_VVI
+feed_NN1
 established_VVN
 normal_AJ0
 feeding_VVG
@@ -5768,7 +5768,7 @@ travelling_VVG
 UNRESTRAINED_AJ0
 in_PRP
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 of_PRF
 cars_NN2
 last_ORD
@@ -5787,7 +5787,7 @@ Belts_NN2
 by_PRP
 Children_NN2
 in_PRP
-Rear_AJ0-NN1
+Rear_AJ0
 Seats_NN2
 Regulations_NN2
 1989_CRD
@@ -5808,7 +5808,7 @@ all_DT0
 year_NN1
 olds_NN2
 wear_VVI
-rear_AJ0-NN1
+rear_NN1
 seat_NN1
 belts_NN2
 if_CJS
@@ -5871,7 +5871,7 @@ it_PNP
 has_VHZ
 been_VBN
 outgrown_VVN
-Local_NN1-AJ0
+Local_AJ0
 Membership_NN1
 Membership_NN1
 costs_NN2
@@ -6041,7 +6041,7 @@ child_NN1
 having_VHG
 a_AT0
 problem_NN1
-socialising_VVG-NN1
+socialising_NN1
 See_VVB
 our_DPS
 problem_NN1
@@ -6078,7 +6078,7 @@ everybody_PNI
 individually_AV0
 but_CJC
 do_VDB
-feel_VVI
+feel_VVB
 Lynn_NP0
 deserves_VVZ
 a_AT0
@@ -6247,7 +6247,7 @@ the_AT0
 newsletter_NN1
 as_CJS
 we_PNP
-feel_VVI
+feel_VVB
 fit_VVI
 If_CJS
 you_PNP
@@ -6271,7 +6271,7 @@ send_VVI
 it_PNP
 to_TO0
 us_PNP
-ASAP_NP0-NN1
+ASAP_NN1
 We_PNP
 will_VM0
 be_VBI
@@ -6549,7 +6549,7 @@ are_VBB
 in_PRP
 this_DT0
 newsletter_NN1
-FEEDING_VVG-AJ0
+FEEDING_AJ0
 HELP_VVI
 is_VBZ
 available_AJ0
@@ -6573,7 +6573,7 @@ give_VVI
 mother-to-mother_AJ0
 non-medical_AJ0
 support_NN1
-MAVA_NP0-NN1
+MAVA_NN1
 Sales_NN0
 offer_VVI
 a_AT0
@@ -6591,7 +6591,7 @@ going_VVG
 to_TO0
 NCT_NP0
 Their_DPS
-nursing_AJ0-NN1
+nursing_NN1
 bras_NN2
 are_VBB
 recognised_VVN
@@ -6723,7 +6723,7 @@ years_NN2
 time_NN1
 Unfortunately_AV0
 our_DPS
-present_AJ0-NN1
+present_AJ0
 ante-natal_AJ0
 teacher_NN1
 is_VBZ
@@ -6868,7 +6868,7 @@ catered_VVN
 for_PRP
 at_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 time_NN1
 please_AV0
 let_VVB
@@ -6921,7 +6921,7 @@ you_PNP
 to_TO0
 all_DT0
 whose_DTQ
-involved_AJ0
+involved_VVN
 in_PRP
 their_DPS
 organising_VVG
@@ -7072,7 +7072,7 @@ the_AT0
 newsletter_NN1
 is_VBZ
 due_AJ0
-Welcoming_AJ0-VVG
+Welcoming_VVG
 newcomers_NN2
 Going_VVG
 to_TO0
@@ -7099,7 +7099,7 @@ Central_AJ0
 Branch_NN1
 Please_AV0
 contact_NN1
-retiring_VVG-AJ0
+retiring_VVG
 only_AV0
 because_CJS
 Alex_NP0
@@ -7231,7 +7231,7 @@ women_NN2
 who_PNQ
 are_VBB
 not_XX0
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 and_CJC
 not_XX0
 taking_VVG
@@ -7282,7 +7282,7 @@ member_NN1
 of_PRF
 the_AT0
 campaign_NN1
-Supporting_AJ0-VVG
+Supporting_VVG
 and_CJC
 Supported_VVN
 NCT_NP0
@@ -7337,7 +7337,7 @@ contact_NN1
 then_AV0
 Post_NN1
 Natal_AJ0
-Support_NN1-VVB
+Support_NN1
 Co-ordinator_NN1
 for_PRP
 information_NN1
@@ -7460,7 +7460,7 @@ see_VVI
 if_CJS
 I_PNP
 would_VM0
-act_VVI
+act_NN1
 as_CJS
 supporter_NN1
 for_PRP
@@ -7709,7 +7709,7 @@ old_AJ0
 and_CJC
 we_PNP
 have_VHB
-contrived_VVD
+contrived_VVN
 to_TO0
 get_VVI
 together_AV0
@@ -7722,7 +7722,7 @@ have_VHB
 covered_VVN
 weaning_VVG
 feeding_VVG
-sleeping_VVG
+sleeping_NN1
 and_CJC
 childcare_NN1
 and_CJC
@@ -7810,7 +7810,7 @@ sure_AJ0
 how_AVQ
 I_PNP
 would_VM0
-feel_VVI
+feel_VVB
 with_PRP
 a_AT0
 group_NN1
@@ -7840,7 +7840,7 @@ just_AV0
 about_PRP
 get_VVI
 my_DPS
-act_VVI
+act_NN1
 together_AV0
 sufficiently_AV0
 to_TO0
@@ -8067,11 +8067,11 @@ it_PNP
 From_PRP
 Post_NN1
 Natal_AJ0
-Support_NN1-VVB
+Support_NN1
 Co-ordinator_NN1
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 would_VM0
 like_PRP
@@ -8090,10 +8090,10 @@ you_PNP
 phone_NN1
 me_PNP
 on_PRP
-Kiddiswap_VVB-NN1
+Kiddiswap_NN1
 The_AT0
 last_ORD
-kiddiswap_NN1-VVB
+kiddiswap_NN1
 was_VBD
 very_AV0
 successful_AJ0
@@ -8117,7 +8117,7 @@ how_AVQ
 we_PNP
 could_VM0
 have_VHB
-improved_AJ0
+improved_VVN
 it_PNP
 but_CJC
 we_PNP
@@ -8158,7 +8158,7 @@ much_DT0
 we_PNP
 sold_VVN
 On_PRP
-average_AJ0-NN1
+average_AJ0
 we_PNP
 sold_VVN
 about_PRP
@@ -8241,7 +8241,7 @@ one_CRD
 in_PRP
 April_NP0
 Next_ORD
-Kiddiswap_VVB-NN1
+Kiddiswap_NN1
 Some_DT0
 of_PRF
 the_AT0
@@ -8467,7 +8467,7 @@ Laura_NP0
 Ashley_NP0
 Boys_NN2
 Sailor_NN1
-Suit_VVB-NN1
+Suit_NN1
 Age_NN1
 4_CRD
 Blue_AJ0
@@ -8477,15 +8477,15 @@ trim_NN1
 Worn_VVN
 twice_AV0
 To_TO0
-hire_VVI
+hire_NN1
 \xc2\xa31.50_NN0
 per_UNC
 time_NN1
-Proceeds_NN2-VVZ
+Proceeds_NN2
 to_TO0
 NCT_NP0
 funds_NN2
-Contact_VVB-NN1
+Contact_VVB
 Quantity_NN1
 somewhere_AV0
 between_PRP
@@ -8513,11 +8513,11 @@ have_VHB
 or_CJC
 2_CRD
 pieces_NN2
-missing_VVG-AJ0
+missing_VVG
 \xc2\xa310_NN0
 the_AT0
 lot_NN1
-Contact_VVB-NN1
+Contact_VVB
 Labels_NN2
 PRINTED_VVN
 to_TO0
@@ -8536,7 +8536,7 @@ envelope_NN1
 for_PRP
 one_CRD
 example_NN1
-Contact_VVB-NN1
+Contact_VVB
 Maths_NN1
 Tuition_NN1
 offered_VVN
@@ -8547,7 +8547,7 @@ level_NN1
 \xc2\xa35.00_NN0
 per_UNC
 hour_NN1
-Contact_VVB-NN1
+Contact_VVB
 Anyone_PNI
 expecting_VVG
 a_AT0
@@ -8561,14 +8561,14 @@ and_CJC
 going_VVG
 to_TO0
 the_AT0
-Sorrento_NN1-NP0
+Sorrento_NN1
 who_PNQ
 would_VM0
 like_PRP
 to_TO0
 share_NN1
 the_AT0
-hire_VVI
+hire_NN1
 of_PRF
 a_AT0
 specialised_AJ0
@@ -8578,7 +8578,7 @@ to_TO0
 use_NN1
 in_PRP
 labour_NN1
-Phone_NN1-VVB
+Phone_VVB
 for_PRP
 discussion_NN1
 Would_VM0
@@ -8600,7 +8600,7 @@ the_AT0
 \xc2\xa33_NN0
 published_VVN
 price_NN1
-Phone_NN1-VVB
+Phone_VVB
 \xc2\xa31.50_NN0
 includes_VVZ
 a_AT0
@@ -8658,7 +8658,7 @@ is_VBZ
 due_AJ0
 out_AVP
 mid-March_NP0
-Copydate_VVB-NN1
+Copydate_NN1
 14th_ORD
 February_NP0
 1990_CRD
@@ -8702,7 +8702,7 @@ need_VVB
 to_TO0
 be_VBI
 better_AJC
-publicised_AJ0-VVN
+publicised_VVN
 or_CJC
 at_PRP
 different_AJ0
@@ -8768,7 +8768,7 @@ helped_VVN
 especially_AV0
 Alternative_AJ0
 Post-Natal_AJ0
-Exercise_VVB-NN1
+Exercise_VVB
 I_PNP
 had_VHD
 read_VVI
@@ -8788,7 +8788,7 @@ that_CJT
 would_VM0
 be_VBI
 a_AT0
-laugh_VVI
+laugh_NN1
 wonder_VVB
 if_CJS
 I_PNP
@@ -9215,11 +9215,11 @@ went_VVD
 found_VVD
 it_PNP
 most_AV0
-relaxing_VVG-AJ0
+relaxing_VVG
 Future_NN1
 Events_NN2
 Ash_NP0
-End_NP0
+End_NN1
 House_NN1
 Farm_NN1
 was_VBD
@@ -9251,7 +9251,7 @@ the_AT0
 very_AV0
 popular_AJ0
 Severn_NP0
-Valley_NN1-NP0
+Valley_NN1
 Railway_NN1
 Santa_NP0
 Special_AJ0
@@ -9264,7 +9264,7 @@ reputation_NN1
 and_CJC
 includes_VVZ
 a_AT0
-present_AJ0-NN1
+present_AJ0
 from_PRP
 Santa_NP0
 a_AT0
@@ -9404,7 +9404,7 @@ BUT_CJC
 all_DT0
 the_AT0
 activities_NN2
-centred_VVN-VVD
+centred_VVN
 on_PRP
 Mosely_NP0
 and_CJC
@@ -9497,7 +9497,7 @@ easily_AV0
 apart_AV0
 from_PRP
 stopping_VVG
-wrecking_AJ0-VVG
+wrecking_VVG
 branch_NN1
 libraries_NN2
 because_CJS
@@ -9944,7 +9944,7 @@ meet_VVI
 others_NN2
 can_VM0
 We_PNP
-feel_VVI
+feel_VVB
 it_PNP
 is_VBZ
 important_AJ0
@@ -9960,7 +9960,7 @@ are_VBB
 in_PRP
 any_DT0
 way_NN1
-closed_VVD
+closed_VVN
 Any_DT0
 parent_NN1
 mum_NN1
@@ -10031,7 +10031,7 @@ your_DPS
 child(ren)_NN2
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 would_VM0
 like_PRP
@@ -10041,7 +10041,7 @@ to_TO0
 a_AT0
 group_NN1
 but_CJC
-feel_VVI
+feel_VVB
 uneasy_AJ0
 about_PRP
 going_VVG
@@ -10064,7 +10064,7 @@ you_PNP
 and_CJC
 introduce_VVI
 you_PNP
-Weaning_VVG-AJ0
+Weaning_VVG
 Avoiding_VVG
 Allergy_NN1
 As_CJS
@@ -10075,7 +10075,7 @@ training_NN1
 to_TO0
 become_VVI
 a_AT0
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 counsellor_NN1
 I_PNP
 recently_AV0
@@ -10676,11 +10676,11 @@ modified_VVN
 milks_NN2
 are_VBB
 the_AT0
-whey-based_AJ0-NN1
+whey-based_NN1
 formulas_NN2
 such_DT0
 as_CJS
-SMA_NP0-NN1
+SMA_NP0
 Gold_NN1
 Cap_NN1
 Aptamil_NP0
@@ -10689,7 +10689,7 @@ and_CJC
 Cow_NN1
 &_CJC
 Gate_NN1
-Premium_NN1-AJ0
+Premium_AJ0
 and_CJC
 these_DT0
 are_VBB
@@ -10699,7 +10699,7 @@ to_TO0
 lead_VVI
 to_TO0
 allergy_NN1
-Soya_NN1-NP0
+Soya_NP0
 based_VVN
 formulas_NN2
 should_VM0
@@ -10781,7 +10781,7 @@ with_PRP
 no_AT0
 rush_NN1
 to_TO0
-drop_VVI
+drop_NN1
 feeds_VVZ
 Milk_NN1
 is_VBZ
@@ -10828,7 +10828,7 @@ foods_NN2
 If_CJS
 you_PNP
 are_VBB
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 this_DT0
 means_NN0
 at_PRP
@@ -10840,8 +10840,8 @@ feeds_VVZ
 But_CJC
 do_VDB
 n't_XX0
-feel_VVI
-pressurized_AJ0-VVD
+feel_VVB
+pressurized_AJ0
 to_TO0
 cut_VVN
 down_AVP
@@ -10943,7 +10943,7 @@ to_TO0
 try_VVI
 again_AV0
 later_AV0
-Cooking_VVG-NN1
+Cooking_NN1
 such_DT0
 small_AJ0
 amounts_NN2
@@ -11053,7 +11053,7 @@ baby_NN1
 Milk-free_AJ0
 baby_NN1
 rice_NN1
-mixed_AJ0
+mixed_VVN
 with_PRP
 water_NN1
 expressed_VVN
@@ -11061,22 +11061,22 @@ breastmilk_NN1
 or_CJC
 formula_NN1
 2_CRD
-Pureed_VVB-NN1
+Pureed_NN1
 root_NN1
 vegs_NN2
 potatoes_NN2
 carrots_NN2
-parsnip_VVB-NN1
+parsnip_NN1
 swede_NN1
 3_CRD
-Pureed_VVB-NN1
+Pureed_NN1
 fruits_NN2
 apple_NN1
 pear_NN1
 banana_NN1
 but_CJC
 NO_AT0
-CITRUS_AJ0-NN1
+CITRUS_NN1
 FRUIT_NN0
 before_PRP
 9_CRD
@@ -11098,7 +11098,7 @@ in_PRP
 the_AT0
 following_AJ0
 order_NN1
-Rice_NN1-NP0
+Rice_NN1
 Millet_NN1
 Barley_NN1
 Oats_NN1
@@ -11107,7 +11107,7 @@ after_PRP
 8_CRD
 months_NN2
 Buckwheat_NP0
-Rye_NP0-NN1
+Rye_NP0
 6_CRD
 Lamb_NP0
 turkey_NN1
@@ -11367,7 +11367,7 @@ that_CJT
 they_PNP
 were_VBD
 to_TO0
-feel_VVI
+feel_VVB
 free_AJ0
 to_TO0
 stop_VVI
@@ -11483,7 +11483,7 @@ to_TO0
 other_AJ0
 mums_NN2
 N.B._UNC
-Copydate_VVB-NN1
+Copydate_NN1
 is_VBZ
 14th_ORD
 February_NP0
@@ -11661,7 +11661,7 @@ not_XX0
 a_AT0
 case_NN1
 of_PRF
-wanting_VVG-AJ0
+wanting_VVG
 to_TO0
 return_NN1
 to_TO0
@@ -11985,7 +11985,7 @@ like_PRP
 to_TO0
 share_NN1
 please_AV0
-feel_VVI
+feel_VVB
 free_AJ0
 to_TO0
 write_VVI
@@ -12195,7 +12195,7 @@ couch_NN1
 to_TO0
 have_VHB
 an_AT0
-epidural_NN1-AJ0
+epidural_NN1
 I_PNP
 had_VHD
 agreed_VVD
@@ -12208,7 +12208,7 @@ had_VHD
 to_TO0
 have_VHB
 a_AT0
-Caesarian_NN1-AJ0
+Caesarian_NN1
 I_PNP
 told_VVD
 him_PNP
@@ -12274,7 +12274,7 @@ The_AT0
 anaesthetist_NN1
 put_VVI
 the_AT0
-epidural_NN1-AJ0
+epidural_NN1
 in_PRP
 a_AT0
 while_CJS
@@ -12294,7 +12294,7 @@ thought_VVD
 I_PNP
 may_VM0
 never_AV0
-feel_VVI
+feel_VVB
 the_AT0
 baby_NN1
 moving_VVG
@@ -12391,7 +12391,7 @@ difficult_AJ0
 side_NN1
 I_PNP
 just_AV0
-closed_VVD
+closed_VVN
 my_DPS
 eyes_NN2
 and_CJC
@@ -12455,7 +12455,7 @@ in_PRP
 and_CJC
 had_VHD
 my_DPS
-epidural_NN1-AJ0
+epidural_NN1
 topped_VVN
 up_AVP
 May_NP0
@@ -12470,7 +12470,7 @@ was_VBD
 brilliant_AJ0
 I_PNP
 could_VM0
-feel_VVI
+feel_VVB
 everything_PNI
 but_CJC
 had_VHD
@@ -12532,7 +12532,7 @@ and_CJC
 the_AT0
 midwife_NN1
 would_VM0
-feel_VVI
+feel_VVB
 the_AT0
 buttocks_NN2
 and_CJC
@@ -12654,7 +12654,7 @@ as_CJS
 I_PNP
 could_VM0
 n't_XX0
-feel_VVI
+feel_VVB
 what_DTQ
 I_PNP
 was_VBD
@@ -12764,7 +12764,7 @@ hardly_AV0
 marked_VVN
 just_AV0
 a_AT0
-bruised_VVN-AJ0
+bruised_VVN
 bottom_NN1
 She_PNP
 was_VBD
@@ -12832,7 +12832,7 @@ course_NN1
 Vaginal_AJ0
 Birth_NN1
 After_PRP
-Caesarian_NN1-AJ0
+Caesarian_NN1
 Section_NN1
 is_VBZ
 the_AT0
@@ -12860,7 +12860,7 @@ normal_AJ0
 delivery_NN1
 after_PRP
 caesarian_NN1
-Phone_NN1-VVB
+Phone_VVB
 on_PRP
 for_PRP
 details_NN2
@@ -12894,7 +12894,7 @@ have_VHB
 details_NN2
 The_AT0
 Sponsored_AJ0
-Push_VVB-NN1
+Push_VVB
 It_PNP
 was_VBD
 one_CRD
@@ -12908,7 +12908,7 @@ first_ORD
 mentioned_VVN
 the_AT0
 sponsored_VVN
-walk_VVI
+walk_NN1
 to_TO0
 me_PNP
 when_CJS
@@ -12925,7 +12925,7 @@ to_TO0
 some_DT0
 of_PRF
 the_AT0
-nursing_AJ0-NN1
+nursing_NN1
 staff_NN0
 shortly_AV0
 after_PRP
@@ -12963,7 +12963,7 @@ be_VBI
 given_VVN
 to_TO0
 the_AT0
-Guide_NN1-VVB
+Guide_NN1
 Dogs_NN2
 for_PRP
 the_AT0
@@ -13229,7 +13229,7 @@ at_PRP
 about_PRP
 6.30_CRD
 a.m._AV0
-feed_VVI
+feed_NN1
 and_CJC
 myself_PNX
 and_CJC
@@ -13352,7 +13352,7 @@ part_NN1
 in_PRP
 a_AT0
 sponsored_VVN
-walk_VVI
+walk_NN1
 for_PRP
 many_DT0
 years_NN2
@@ -13365,7 +13365,7 @@ of_PRF
 crossing_VVG
 the_AT0
 long_AJ0
-awaited_VVD
+awaited_VVN
 finishing_VVG
 line_NN1
 it_PNP
@@ -13385,7 +13385,7 @@ raised_VVN
 \xc2\xa343.50_NN0
 for_PRP
 the_AT0
-Guide_NN1-VVB
+Guide_NN1
 Dogs_NN2
 while_CJS
 the_AT0
@@ -13790,7 +13790,7 @@ her_DPS
 hard_AJ0
 work_NN1
 including_PRP
-proof-reading_NN1-AJ0
+proof-reading_NN1
 and_CJC
 now_AV0
 we_PNP
@@ -13923,7 +13923,7 @@ by_PRP
 supporting_VVG
 our_DPS
 advertisers_NN2
-Copy_VVB-NN1
+Copy_NN1
 date_NN1
 for_PRP
 the_AT0
@@ -14180,7 +14180,7 @@ are_VBB
 in_PRP
 this_DT0
 newsletter_NN1
-FEEDING_VVG-AJ0
+FEEDING_AJ0
 HELP_VVI
 is_VBZ
 available_AJ0
@@ -14204,7 +14204,7 @@ give_VVI
 mother-to-mother_AJ0
 non-medical_AJ0
 support_NN1
-MAVA_NP0-NN1
+MAVA_NN1
 Sales_NN0
 offer_VVI
 a_AT0
@@ -14222,7 +14222,7 @@ going_VVG
 to_TO0
 NCT_NP0
 Their_DPS
-nursing_AJ0-NN1
+nursing_NN1
 bras_NN2
 are_VBB
 recognised_VVN
@@ -14292,7 +14292,7 @@ Thanks_NN2
 to_TO0
 all_DT0
 those_DT0
-involved_AJ0
+involved_VVN
 with_PRP
 the_AT0
 planning_NN1
@@ -14572,7 +14572,7 @@ Nappies_NN2
 for_PRP
 handicapped_AJ0
 children_NN2
-Contact_VVB-NN1
+Contact_VVB
 a_AT0
 Family_NN1
 have_VHB
@@ -14618,7 +14618,7 @@ are_VBB
 4_CRD
 or_CJC
 5_CRD
-Contact_VVB-NN1
+Contact_VVB
 a_AT0
 Family_NN1
 want_VVB
@@ -14736,7 +14736,7 @@ for_PRP
 retailers_NN2
 3_CRD
 restrict_VVI
-vending_VVG-AJ0
+vending_VVG
 machines_NN2
 to_TO0
 over-18s_CRD
@@ -14804,7 +14804,7 @@ headed_VVN
 by_PRP
 Prof._NP0
 Peter_NP0
-Howie_NP0-NN1
+Howie_NP0
 Obstetrics_NN1
 have_VHB
 found_VVD
@@ -14842,7 +14842,7 @@ told_VVD
 without_PRP
 ambivalence_NN1
 that_CJT
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 offers_VVZ
 a_AT0
 clear_AJ0
@@ -14850,7 +14850,7 @@ advantage_NN1
 to_TO0
 their_DPS
 babies_NN2
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 for_PRP
 at_PRP
 least_AV0
@@ -14870,7 +14870,7 @@ to_TO0
 a_AT0
 year_NN1
 4_CRD
-Listeriosis_NP0-NN1
+Listeriosis_NP0
 The_AT0
 Commons_NP0
 Social_AJ0
@@ -15033,11 +15033,11 @@ government_NN1
 's_POS
 attention_NN1
 6_CRD
-Guide_NN1-VVB
+Guide_NN1
 to_TO0
 Labour_AJ0
 for_PRP
-Expectant_AJ0-NN1
+Expectant_AJ0
 Parents_NN2
 This_DT0
 leaflet_NN1
@@ -15069,7 +15069,7 @@ how_AVQ
 a_AT0
 woman_NN1
 may_VM0
-feel_VVI
+feel_VVB
 and_CJC
 what_DTQ
 she_PNP
@@ -15288,7 +15288,7 @@ the_AT0
 newsletter_NN1
 is_VBZ
 due_AJ0
-Welcoming_AJ0-VVG
+Welcoming_VVG
 newcomers_NN2
 Going_VVG
 to_TO0
@@ -15357,7 +15357,7 @@ and_CJC
 posting_NN1
 completed_VVN
 newsletters_NN2
-Contact_VVB-NN1
+Contact_VVB
 any_DT0
 newsletter_NN1
 person_NN1
@@ -15428,11 +15428,11 @@ please_AV0
 contact_NN1
 NCT_NP0
 Leaflet_NN1
-Drop_NN1-VVB
+Drop_NN1
 We_PNP
 are_VBB
 joining_VVG
-B'ham_NP0-NN1
+B'ham_NP0
 West_NP0
 in_PRP
 their_DPS
@@ -15449,9 +15449,9 @@ and_CJC
 starting_VVG
 our_DPS
 own_DT0
-drop_VVI
+drop_NN1
 at_PRP
-Sorrento_NN1-NP0
+Sorrento_NN1
 Help_VVB
 us_PNP
 encourage_VVI
@@ -15470,7 +15470,7 @@ to_TO0
 do_VDB
 an_AT0
 occasional_AJ0
-drop_VVI
+drop_NN1
 See_VVB
 page_NN1
 14_CRD
@@ -15485,7 +15485,7 @@ needed_VVN
 regularly_AV0
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 could_VM0
 offer_VVI
@@ -15522,7 +15522,7 @@ contact_NN1
 any_DT0
 committee_NN1
 member_NN1
-Sorrento_NN1-NP0
+Sorrento_NN1
 Milk_NN1
 Bank_NP0
 needs_VVZ
@@ -15536,7 +15536,7 @@ having_VHG
 read_VVI
 this_DT0
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 would_VM0
 like_PRP
@@ -15609,7 +15609,7 @@ much_DT0
 on_PRP
 the_AT0
 people_NN0
-involved_AJ0
+involved_VVN
 but_CJC
 the_AT0
 supporter_NN1
@@ -15650,7 +15650,7 @@ with_PRP
 another_DT0
 mum_NN1
 or_CJC
-feel_VVI
+feel_VVB
 you_PNP
 can_VM0
 offer_VVI
@@ -15659,10 +15659,10 @@ support_NN1
 'phone_NN1
 me_PNP
 on_PRP
-Kiddiswap_VVB-NN1
+Kiddiswap_NN1
 The_AT0
 April_NP0
-kiddiswap_NN1-VVB
+kiddiswap_NN1
 was_VBD
 very_AV0
 successful_AJ0
@@ -15743,7 +15743,7 @@ much_DT0
 we_PNP
 sold_VVN
 On_PRP
-average_AJ0-NN1
+average_AJ0
 we_PNP
 sold_VVN
 about_PRP
@@ -15941,7 +15941,7 @@ offer_VVI
 after_PRP
 the_AT0
 birth_NN1
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 counselling_NN1
 post_NN1
 natal_AJ0
@@ -15955,7 +15955,7 @@ mums_NN2
 before_PRP
 you_PNP
 got_VVN
-involved_AJ0
+involved_VVN
 If_CJS
 you_PNP
 had_VHD
@@ -15995,7 +15995,7 @@ it_PNP
 to_TO0
 BMH_NP0
 and_CJC
-Sorrento_NN1-NP0
+Sorrento_NN1
 reaching_VVG
 mothers_NN2
 we_PNP
@@ -16019,7 +16019,7 @@ volunteers_NN2
 to_TO0
 go_VVI
 to_TO0
-Sorrento_NN1-NP0
+Sorrento_NN1
 and/or_CJC
 BMH_NP0
 once_AV0
@@ -16033,14 +16033,14 @@ leaflet_NN1
 on_PRP
 each_DT0
 bed_NN1
-Sorrento_NN1-NP0
+Sorrento_NN1
 Milk_NN1
 Bank_NP0
 The_AT0
 Milk_NN1
 Bank_NP0
 at_PRP
-Sorrento_NN1-NP0
+Sorrento_NN1
 Maternity_NN1
 Hospital_NN1
 in_PRP
@@ -16059,7 +16059,7 @@ are_VBB
 too_AV0
 weak_AJ0
 to_TO0
-feed_VVI
+feed_NN1
 directly_AV0
 from_PRP
 the_AT0
@@ -16131,7 +16131,7 @@ the_AT0
 Milk_NN1
 Bank_NP0
 at_PRP
-Sorrento_NN1-NP0
+Sorrento_NN1
 A_AT0
 nurse_NN1
 will_VM0
@@ -16185,12 +16185,12 @@ All_DT0
 the_AT0
 milk_NN1
 is_VBZ
-pasteurised_VVN-VVD
+pasteurised_VVN
 and_CJC
 frozen_AJ0
 until_CJS
 needed_VVN
-Sorrento_NN1-NP0
+Sorrento_NN1
 Milk_NN1
 Bank_NP0
 supplies_NN2
@@ -16717,7 +16717,7 @@ talk_VVI
 I_PNP
 did_VDD
 not_XX0
-feel_VVI
+feel_VVB
 up_AVP
 to_TO0
 Thank_VVB
@@ -16736,7 +16736,7 @@ upset_AJ0
 me_PNP
 These_DT0
 were_VBD
-varied_AJ0
+varied_VVN
 but_CJC
 always_AV0
 touching_VVG
@@ -16999,7 +16999,7 @@ felt_VVD
 very_AV0
 panicky_AJ0
 and_CJC
-unready_AJ0-NN1
+unready_AJ0
 to_TO0
 have_VHB
 this_DT0
@@ -17008,7 +17008,7 @@ We_PNP
 phoned_VVD
 a_AT0
 good_AJ0
-dear_ITJ
+dear_NN1
 friend_NN1
 who_PNQ
 as_CJS
@@ -17045,7 +17045,7 @@ in_PRP
 America_NP0
 having_VHG
 their_DPS
-pre-grandchild_AJ0-NN1
+pre-grandchild_NN1
 holiday_NN1
 So_AV0
 we_PNP
@@ -17133,7 +17133,7 @@ kind_NN1
 midwives_NN2
 at_PRP
 the_AT0
-Sorrento_NN1-NP0
+Sorrento_NN1
 It_PNP
 was_VBD
 a_AT0
@@ -17191,7 +17191,7 @@ weeks_NN2
 gestation_NN1
 was_VBD
 awarded_VVN
-Apgar_NN1-NP0
+Apgar_NP0
 scores_NN2
 of_PRF
 9_CRD
@@ -17299,7 +17299,7 @@ and_CJC
 I_PNP
 did_VDD
 n't_XX0
-feel_VVI
+feel_VVB
 that_CJT
 I_PNP
 could_VM0
@@ -17532,7 +17532,7 @@ oxygen_NN1
 and_CJC
 this_DT0
 was_VBD
-piped_VVN
+piped_VVD
 into_PRP
 his_DPS
 incubator_NN1
@@ -17630,7 +17630,7 @@ protect_VVI
 his_DPS
 eyes_NN2
 and_CJC
-lie_VVI
+lie_VVB
 naked_AJ0
 under_PRP
 a_AT0
@@ -17660,7 +17660,7 @@ able_AJ0
 to_TO0
 hold_VVI
 and_CJC
-feed_VVI
+feed_NN1
 him_PNP
 but_CJC
 only_AV0
@@ -17704,7 +17704,7 @@ was_VBD
 n't_XX0
 able_AJ0
 to_TO0
-feed_VVI
+feed_NN1
 for_PRP
 the_AT0
 first_ORD
@@ -17742,7 +17742,7 @@ I_PNP
 was_VBD
 using_VVG
 a_AT0
-hand-pump_NN1-AJ0
+hand-pump_NN1
 and_CJC
 then_AV0
 an_AT0
@@ -17809,7 +17809,7 @@ pumping_VVG
 As_CJS
 a_AT0
 trainee_NN1
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 counsellor_NN1
 I_PNP
 turned_VVD
@@ -17946,7 +17946,7 @@ a_AT0
 minute_NN1
 from_PRP
 the_AT0
-SCBU_NN1-NP0
+SCBU_NN1
 Two_CRD
 days_NN2
 later_AV0
@@ -17997,7 +17997,7 @@ more_AV0
 difficult_AJ0
 to_TO0
 establish_VVI
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 if_CJS
 a_AT0
 baby_NN1
@@ -18010,7 +18010,7 @@ The_AT0
 staff_NN0
 on_PRP
 the_AT0
-SCBU_NN1-NP0
+SCBU_NN1
 were_VBD
 most_AV0
 supportive_AJ0
@@ -18043,8 +18043,8 @@ hard_AJ0
 job_NN1
 yet_AV0
 the_AT0
-Sorrento_NN1-NP0
-SCBU_NN1-NP0
+Sorrento_NN1
+SCBU_NN1
 has_VHZ
 an_AT0
 atmosphere_NN1
@@ -18206,7 +18206,7 @@ Laura_NP0
 Ashley_NP0
 Boys_NN2
 Sailor_NN1
-Suit_VVB-NN1
+Suit_NN1
 Age_NN1
 4_CRD
 Blue_AJ0
@@ -18216,15 +18216,15 @@ trim_NN1
 Worn_VVN
 twice_AV0
 To_TO0
-hire_VVI
+hire_NN1
 \xc2\xa31.50_NN0
 per_UNC
 time_NN1
-Proceeds_NN2-VVZ
+Proceeds_NN2
 to_TO0
 NCT_NP0
 funds_NN2
-Contact_VVB-NN1
+Contact_VVB
 Quantity_NN1
 somewhere_AV0
 between_PRP
@@ -18252,21 +18252,21 @@ have_VHB
 or_CJC
 2_CRD
 pieces_NN2
-missing_VVG-AJ0
+missing_VVG
 \xc2\xa310_NN0
 the_AT0
 lot_NN1
-Contact_VVB-NN1
+Contact_VVB
 Furry_AJ0
 Rocking_AJ0
 Dog_NN1
-Suit_VVB-NN1
+Suit_NN1
 1\xe2\x80\x933_CRD
 year_NN1
 old_AJ0
 \xc2\xa35_NN0
 o.n.o_NN0
-Contact_VVB-NN1
+Contact_VVB
 Labels_NN2
 PRINTED_VVN
 to_TO0
@@ -18285,7 +18285,7 @@ envelope_NN1
 for_PRP
 one_CRD
 example_NN1
-Contact_VVB-NN1
+Contact_VVB
 Would_VM0
 you_PNP
 like_PRP
@@ -18305,7 +18305,7 @@ the_AT0
 \xc2\xa33_NN0
 published_VVN
 price_NN1
-Phone_NN1-VVB
+Phone_VVB
 \xc2\xa31.50_NN0
 includes_VVZ
 a_AT0
@@ -18372,7 +18372,7 @@ do_VDB
 today_AV0
 and_CJC
 your_DPS
-Local_NN1-AJ0
+Local_AJ0
 playgroups_NN2
 list_NN1
 If_CJS
@@ -18474,7 +18474,7 @@ is_VBZ
 due_AJ0
 out_AVP
 mid-September_NP0
-Copydate_VVB-NN1
+Copydate_NN1
 14th_ORD
 August_NP0
 1990_CRD
@@ -18482,7 +18482,7 @@ MOTHERS_NN2
 IN_PRP
 EMPLOYMENT_NN1
 A_AT0
-self-help_AJ0-NN1
+self-help_AJ0
 support_NN1
 group_NN1
 which_DTQ
@@ -18538,7 +18538,7 @@ past_NN1
 year_NN1
 Children_NN2
 and_CJC
-Dentistry_NP0-NN1
+Dentistry_NN1
 by_PRP
 Gill_NP0
 Cottam_NP0
@@ -18563,7 +18563,7 @@ on_PRP
 teeth_NN2
 Interesting_AJ0
 messages_NN2
-fluoride_NN1-VVB
+fluoride_NN1
 leads_VVZ
 to_TO0
 fewer_DT0
@@ -18747,7 +18747,7 @@ choice_NN1
 select_VVI
 creative_AJ0
 child_NN1
-oriented_VVN
+oriented_VVD
 teachers_NN2
 allow_VVI
 the_AT0
@@ -19085,7 +19085,7 @@ business_NN1
 If_CJS
 you_PNP
 are_VBB
-involved_AJ0
+involved_VVN
 in_PRP
 a_AT0
 nanny_NN1
@@ -19108,7 +19108,7 @@ if_CJS
 it_PNP
 does_VDZ
 not_XX0
-feel_VVI
+feel_VVB
 like_PRP
 one_CRD
 Liability_NN1
@@ -19223,7 +19223,7 @@ claim_NN1
 A_AT0
 qualified_AJ0
 nanny_NN1
-NNEB_NP0-NN1
+NNEB_NN1
 and_CJC
 equivalent_AJ0
 can_VM0
@@ -19231,7 +19231,7 @@ join_VVI
 their_DPS
 professional_AJ0
 association_NN1
-PANN_NN1-VVB
+PANN_VVB
 which_DTQ
 automatically_AV0
 gives_VVZ
@@ -19333,7 +19333,7 @@ Camilla_NP0
 Jessel_NP0
 book_NN1
 was_VBD
-present_AJ0-NN1
+present_AJ0
 in_PRP
 our_DPS
 bedroom_NN1
@@ -19497,7 +19497,7 @@ to_TO0
 other_AJ0
 mums_NN2
 N.B._UNC
-Copydate_VVB-NN1
+Copydate_NN1
 is_VBZ
 14th_ORD
 August_NP0
@@ -19520,7 +19520,7 @@ is_VBZ
 he_PNP
 going_VVG
 to_TO0
-feel_VVI
+feel_VVB
 The_AT0
 answer_NN1
 is_VBZ
@@ -19535,7 +19535,7 @@ to_TO0
 hate_VVB
 the_AT0
 baby_NN1
-Missed_VVD-VVN
+Missed_VVD
 it_PNP
 Four_CRD
 weeks_NN2
@@ -19688,7 +19688,7 @@ possible_AJ0
 fathers_NN2
 should_VM0
 be_VBI
-present_AJ0-NN1
+present_AJ0
 at_PRP
 their_DPS
 baby_NN1
@@ -19791,7 +19791,7 @@ help_VVI
 from_PRP
 our_DPS
 excellent_AJ0
-childminder_NN1-VVB
+childminder_NN1
 I_PNP
 look_VVI
 after_PRP
@@ -19887,7 +19887,7 @@ ca_VM0
 n't_XX0
 say_VVI
 the_AT0
-juggling_VVG-AJ0
+juggling_AJ0
 timetables_NN2
 with_PRP
 my_DPS
@@ -19953,7 +19953,7 @@ singing_VVG
 nursery_NN1
 rhymes_NN2
 silly_AJ0
-dancing_VVG
+dancing_NN1
 around_PRP
 the_AT0
 house_NN1
@@ -19961,9 +19961,9 @@ is_VBZ
 included_VVD
 as_CJS
 my_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 therapy_NN1
-Trips_NN2-VVZ
+Trips_NN2
 to_TO0
 the_AT0
 library_NN1
@@ -20075,7 +20075,7 @@ place_NN1
 in_PRP
 this_DT0
 intimate_AJ0
-all-female_AJ0-NN1
+all-female_AJ0
 atmosphere_NN1
 It_PNP
 's_POS
@@ -20114,7 +20114,7 @@ men_NN2
 need_VVB
 space_NN1
 too_AV0
-Challenging_AJ0-VVG
+Challenging_VVG
 traditional_AJ0
 roles_NN2
 is_VBZ
@@ -20208,9 +20208,9 @@ if_CJS
 I_PNP
 ever_AV0
 enter_VVI
-Mastermind_NP0-NN1
+Mastermind_NP0
 my_DPS
-specialist_NN1-AJ0
+specialist_NN1
 subject_NN1
 will_VM0
 be_VBI
@@ -20237,7 +20237,7 @@ has_VHZ
 been_VBN
 unable_AJ0
 to_TO0
-edit_VVI
+edit_NN1
 this_DT0
 issue_NN1
 as_CJS
@@ -20283,7 +20283,7 @@ Autumn_NN1
 's_POS
 Nearly_AV0
 New_AJ0
-Sale_NN1-NP0
+Sale_NP0
 is_VBZ
 being_VBG
 organised_VVN
@@ -20312,7 +20312,7 @@ holding_VVG
 a_AT0
 Grand_AJ0
 Christmas_NN1
-Sale_NN1-NP0
+Sale_NP0
 this_DT0
 year_NN1
 to_TO0
@@ -20396,7 +20396,7 @@ Questionnaire_NN1
 on_PRP
 page_NN1
 24_CRD
-Copy_VVB-NN1
+Copy_NN1
 date_NN1
 for_PRP
 the_AT0
@@ -20653,7 +20653,7 @@ are_VBB
 in_PRP
 this_DT0
 newsletter_NN1
-FEEDING_VVG-AJ0
+FEEDING_AJ0
 HELP_VVI
 is_VBZ
 available_AJ0
@@ -20677,7 +20677,7 @@ give_VVI
 mother-to-mother_AJ0
 non-medical_AJ0
 support_NN1
-MAVA_NP0-NN1
+MAVA_NN1
 Sales_NN0
 offer_VVI
 a_AT0
@@ -20695,7 +20695,7 @@ going_VVG
 to_TO0
 NCT_NP0
 Their_DPS
-nursing_AJ0-NN1
+nursing_NN1
 bras_NN2
 are_VBB
 recognised_VVN
@@ -20978,7 +20978,7 @@ your_DPS
 stubs_NN2
 and_CJC
 cash_NN1
-now\xe2\x80\xa2_NN1-VVB
+now\xe2\x80\xa2_NN1
 HQ_NN1
 News_NN1
 1_CRD
@@ -20986,7 +20986,7 @@ Some_DT0
 hospitals_NN2
 now_AV0
 offer_VVI
-Meptid_NN1-AJ0
+Meptid_NN1
 instead_AV0
 of_PRF
 Pethidine_NP0
@@ -21007,7 +21007,7 @@ via_PRP
 2._CRD
 the_AT0
 Health_NN1
-Educ_NP0-NN1
+Educ_NN1
 Authority_NN1
 and_CJC
 the_AT0
@@ -21065,9 +21065,9 @@ be_VBI
 deciding_VVG
 whether_CJS
 to_TO0
-freeze_VVI
+freeze_NN1
 Child_NN1
-Benefit_NN1-VVB
+Benefit_NN1
 for_PRP
 the_AT0
 4th_ORD
@@ -21094,12 +21094,12 @@ you_PNP
 care_NN1
 about_PRP
 Child_NN1
-Benefit_NN1-VVB
+Benefit_NN1
 tell_VVI
 your_DPS
 MP_NN1
 4_CRD
-B'ham_NP0-NN1
+B'ham_NP0
 West_NP0
 Branch_NN1
 's_POS
@@ -21127,7 +21127,7 @@ price_NN1
 5_CRD
 The_AT0
 NCT_NP0
-Houseswap_NP0-NN1
+Houseswap_NN1
 Register_NN1
 has_VHZ
 been_VBN
@@ -21195,7 +21195,7 @@ you_PNP
 want_VVB
 to_TO0
 be_VBI
-involved_AJ0
+involved_VVN
 with_PRP
 your_DPS
 local_AJ0
@@ -21203,14 +21203,14 @@ school_NN1
 let_VVB
 our_DPS
 Branch_NN1
-Educ_NP0-NN1
+Educ_NN1
 Coordinators_NN2
 know_VVI
 7_CRD
 NCT_NP0
 is_VBZ
 at_PRP
-present_AJ0-NN1
+present_AJ0
 celebrating_VVG
 the_AT0
 Centenary_NN1
@@ -21233,7 +21233,7 @@ classic_AJ0
 book_NN1
 Childbirth_NN1
 Without_PRP
-Fear_NN1-VVB
+Fear_NN1
 is_VBZ
 \xc2\xa34.95_NN0
 plus_PRP
@@ -21280,10 +21280,10 @@ crouching_VVG
 on_PRP
 the_AT0
 dusty_AJ0
-Axminster_NN1-NP0
+Axminster_NN1
 in_PRP
 my_DPS
-faded_AJ0
+faded_VVN
 Laura_NP0
 Ashley_NP0
 smock_NN1
@@ -21491,7 +21491,7 @@ to_TO0
 engage_VVI
 in_PRP
 militant_AJ0
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 in_PRP
 some_DT0
 prominent_AJ0
@@ -21608,7 +21608,7 @@ spearheading_VVG
 the_AT0
 government_NN1
 's_POS
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 policy_NN1
 Who_PNQ
 helped_VVN
@@ -21622,7 +21622,7 @@ write_VVI
 their_DPS
 textbook_NN1
 on_PRP
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 Who_PNQ
 is_VBZ
 going_VVG
@@ -21698,7 +21698,7 @@ why_AVQ
 is_VBZ
 a_AT0
 good_AJ0
-average_AJ0-NN1
+average_AJ0
 for_PRP
 cut_VVN
 or_CJC
@@ -21733,7 +21733,7 @@ every_AT0
 aspect_NN1
 of_PRF
 childbirth_NN1
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 and_CJC
 postnatal_AJ0
 care_NN1
@@ -21789,7 +21789,7 @@ give_VVI
 better_AJC
 antenatal_AJ0
 and_CJC
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 support_NN1
 as_CJS
 well_AV0
@@ -21805,7 +21805,7 @@ its_DPS
 own_DT0
 teachers_NN2
 and_CJC
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 counsellors_NN2
 It_PNP
 is_VBZ
@@ -21818,7 +21818,7 @@ is_VBZ
 all_DT0
 a_AT0
 far_AV0
-cry_VVI
+cry_NN1
 from_PRP
 the_AT0
 cosy_AJ0
@@ -21859,7 +21859,7 @@ during_PRP
 a_AT0
 period_NN1
 of_PRF
-mindbending_VVG-AJ0
+mindbending_VVG
 uncertainty_NN1
 The_AT0
 trouble_NN1
@@ -21980,7 +21980,7 @@ babies_NN2
 We_PNP
 are_VBB
 all_DT0
-involved_AJ0
+involved_VVN
 in_PRP
 this_DT0
 issue_NN1
@@ -22138,7 +22138,7 @@ charity_NN1
 begins_VVZ
 at_PRP
 home_NN1
-AMWAY_NP0-NN1
+AMWAY_NN1
 and_CJC
 ANTENATAL_AJ0
 TEACHING_NN1
@@ -22167,12 +22167,12 @@ more_AV0
 about_PRP
 me_PNP
 and_CJC
-Amway_NN1-NP0
+Amway_NN1
 and_CJC
 NCT_NP0
 I_PNP
 use_NN1
-Amway_NN1-NP0
+Amway_NN1
 cleaning_NN1
 laundry_NN1
 personal_AJ0
@@ -22182,7 +22182,7 @@ products_NN2
 myself_PNX
 because_CJS
 I_PNP
-feel_VVI
+feel_VVB
 that_CJT
 they_PNP
 are_VBB
@@ -22252,7 +22252,7 @@ about_PRP
 billion_CRD
 I_PNP
 sell_VVI
-Amway_NN1-NP0
+Amway_NN1
 products_NN2
 because_CJS
 the_AT0
@@ -22373,7 +22373,7 @@ bad_AJ0
 experiences_NN2
 with_PRP
 other_AJ0
-Amway_NN1-NP0
+Amway_NN1
 people_NN0
 let_VVB
 me_PNP
@@ -22439,7 +22439,7 @@ PLEASE_AV0
 Nearly_AV0
 new_AJ0
 Kiddi_NP0
-Sale_NN1-NP0
+Sale_NP0
 What_DTQ
 A_AT0
 sale_NN1
@@ -22535,7 +22535,7 @@ etc_AV0
 etc_AV0
 etc_AV0
 2_CRD
-Volunteer_VVB-NN1
+Volunteer_NN1
 to_TO0
 help_VVI
 Please_AV0
@@ -22577,7 +22577,7 @@ do_VDB
 I_PNP
 sell_VVI
 Please_AV0
-feel_VVI
+feel_VVB
 free_AJ0
 to_TO0
 bring_VVI
@@ -22616,7 +22616,7 @@ would_VM0
 appreciate_VVI
 as_CJS
 much_DT0
-notice_VVI
+notice_NN1
 as_CJS
 possible_AJ0
 please_AV0
@@ -22806,7 +22806,7 @@ would_VM0
 n't_XX0
 it_PNP
 Branch_NN1
-Noticeboard_NN1-NP0
+Noticeboard_NN1
 We_PNP
 apologise_VVB
 for_PRP
@@ -22868,7 +22868,7 @@ at_PRP
 the_AT0
 branch_NN1
 Christmas_NN1
-Sale_NN1-NP0
+Sale_NP0
 on_PRP
 Nov._NP0
 16th._UNC
@@ -22889,7 +22889,7 @@ has_VHZ
 returned_VVD
 to_TO0
 her_DPS
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 counsellor_NN1
 training_NN1
 after_PRP
@@ -23001,7 +23001,7 @@ any_DT0
 committee_NN1
 member/any_UNC
 group_NN1
-notice_VVI
+notice_NN1
 board_NN1
 see_VVI
 envelope_NN1
@@ -23081,13 +23081,13 @@ tick_VVB
 the_AT0
 jobs_NN2
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 might_VM0
 like_PRP
 to_TO0
 be_VBI
-involved_AJ0
+involved_VVN
 with_PRP
 Attend/host_VVB
 a_AT0
@@ -23389,7 +23389,7 @@ want_VVB
 to_TO0
 get_VVI
 more_AV0
-involved_AJ0
+involved_VVN
 Talking_VVG
 of_PRF
 subscriptions_NN2
@@ -23703,7 +23703,7 @@ are_VBB
 in_PRP
 this_DT0
 newsletter_NN1
-FEEDING_VVG-AJ0
+FEEDING_AJ0
 HELP_VVI
 is_VBZ
 available_AJ0
@@ -23727,7 +23727,7 @@ give_VVI
 mother-to-mother_AJ0
 non-medical_AJ0
 support_NN1
-MAVA_NP0-NN1
+MAVA_NN1
 Sales_NN0
 offer_VVI
 a_AT0
@@ -23745,7 +23745,7 @@ going_VVG
 to_TO0
 NCT_NP0
 Their_DPS
-nursing_AJ0-NN1
+nursing_NN1
 bras_NN2
 are_VBB
 recognised_VVN
@@ -23826,7 +23826,7 @@ members_NN2
 homes_NN2
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 able_AJ0
 to_TO0
 help_VVI
@@ -23857,16 +23857,16 @@ fund_NN1
 raising_VVG
 events_NN2
 a_AT0
-Kiddiswap_VVB-NN1
+Kiddiswap_NN1
 and_CJC
 the_AT0
 Christmas_NN1
-Sale_NN1-NP0
+Sale_NP0
 Many_DT0
 thanks_NN2
 to_TO0
 all_DT0
-involved_AJ0
+involved_VVN
 for_PRP
 working_VVG
 so_AV0
@@ -23977,7 +23977,7 @@ to_TO0
 produce_VVI
 a_AT0
 video_NN1
-Informed_VVD-VVN
+Informed_VVN
 Choice_NN1
 which_DTQ
 has_VHZ
@@ -24053,10 +24053,10 @@ day_NN1
 nursery_NN1
 \xc2\xa33.50_NN0
 from_PRP
-VOLCUF_NP0-NN1
+VOLCUF_NN1
 3_CRD
 Epoch_NN1
-End_NP0
+End_NN1
 Physical_AJ0
 Punishment_NN1
 of_PRF
@@ -24066,7 +24066,7 @@ having_VHG
 a_AT0
 National_AJ0
 No_ITJ
-Smoking_NN1-VVG
+Smoking_VVG
 Week_NN1
 from_PRP
 31st_ORD
@@ -24352,7 +24352,7 @@ that_CJT
 high_AJ0
 levels_NN2
 of_PRF
-Vit_NN1-NP0
+Vit_NP0
 A_AT0
 may_VM0
 cause_NN1
@@ -24365,7 +24365,7 @@ of_PRF
 these_DT0
 worries_NN2
 the_AT0
-Chief_NP0
+Chief_NN1
 Medical_AJ0
 Officer_NN1
 has_VHZ
@@ -24402,7 +24402,7 @@ can_VM0
 be_VBI
 maintained_VVN
 or_CJC
-increased_AJ0
+increased_VVN
 by_PRP
 eating_VVG
 lean_VVI
@@ -24491,7 +24491,7 @@ Massachusetts_NP0
 has_VHZ
 found_VVD
 the_AT0
-average_AJ0-NN1
+average_AJ0
 length_NN1
 of_PRF
 a_AT0
@@ -24528,7 +24528,7 @@ trials_NN2
 have_VHB
 shown_VVN
 that_CJT
-ventouse_VVB-NN1
+ventouse_NN1
 extraction_NN1
 in_PRP
 difficult_AJ0
@@ -24591,7 +24591,7 @@ at_PRP
 very_AV0
 attractively-priced_AJ0
 rates_NN2
-Local_NN1-AJ0
+Local_AJ0
 Subscriptions_NN2
 1991_CRD
 The_AT0
@@ -24670,7 +24670,7 @@ to_TO0
 spend_VVI
 on_PRP
 's_POS
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 counsellor_NN1
 training_NN1
 Penny_NP0
@@ -24885,7 +24885,7 @@ evening_NN1
 before_PRP
 the_AT0
 2nd_ORD
-Estimated_VVN-AJ0
+Estimated_AJ0
 Day_NN1
 Delivery_NN1
 with_PRP
@@ -24967,7 +24967,7 @@ sick_AJ0
 and_CJC
 my_DPS
 waters_NN2
-soaked_AJ0
+soaked_VVN
 the_AT0
 kitchen_NN1
 floor_NN1
@@ -25069,7 +25069,7 @@ too_AV0
 late_AJ0
 for_PRP
 an_AT0
-epidural_NN1-AJ0
+epidural_NN1
 but_CJC
 found_VVD
 the_AT0
@@ -25080,13 +25080,13 @@ did_VDD
 help_VVI
 making_VVG
 me_PNP
-feel_VVI
+feel_VVB
 quite_AV0
 Euphoric_AJ0
 I_PNP
 needed_VVN
 a_AT0
-ventouse_VVB-NN1
+ventouse_NN1
 extraction_NN1
 with_PRP
 my_DPS
@@ -25094,14 +25094,14 @@ first_ORD
 child_NN1
 with_PRP
 the_AT0
-epidural_NN1-AJ0
+epidural_NN1
 and_CJC
 having_VHG
 now_AV0
 delivered_VVN
 without_PRP
 an_AT0
-epidural_NN1-AJ0
+epidural_NN1
 I_PNP
 understand_VVI
 why_AVQ
@@ -25118,7 +25118,7 @@ all_DT0
 wrong_AJ0
 with_PRP
 the_AT0
-epidural_NN1-AJ0
+epidural_NN1
 With_PRP
 two_CRD
 excellent_AJ0
@@ -25130,7 +25130,7 @@ encouragement_NN1
 was_VBD
 born_VVN
 very_AV0
-fast_AV0-AJ0
+fast_AJ0
 and_CJC
 I_PNP
 seemed_VVD
@@ -25189,7 +25189,7 @@ of_PRF
 the_AT0
 bidet_NN1
 helped_VVN
-fast_AV0-AJ0
+fast_AJ0
 healing_NN1
 I_PNP
 was_VBD
@@ -25300,7 +25300,7 @@ lunch_NN1
 time_NN1
 I_PNP
 would_VM0
-trot_VVI
+trot_NN1
 off_AVP
 with_PRP
 my_DPS
@@ -25359,7 +25359,7 @@ with_PRP
 the_AT0
 purple_AJ0
 lid_NN1
-Silence_NN1-VVB
+Silence_NN1
 Did_VDD
 you_PNP
 make_VVI
@@ -25447,7 +25447,7 @@ and_CJC
 turned_VVD
 off_AVP
 the_AT0
-offending_AJ0-NN1
+offending_AJ0
 breast_NN1
 pump_NN1
 Its_DPS
@@ -25894,7 +25894,7 @@ individual_AJ0
 antenatal_AJ0
 teachers_NN2
 or_CJC
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 counsellors_NN2
 the_AT0
 significance_NN1
@@ -25925,7 +25925,7 @@ chat_NN1
 with_PRP
 my_DPS
 local_AJ0
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 counsellor_NN1
 and_CJC
 realised_VVD
@@ -26029,7 +26029,7 @@ I_PNP
 trained_VVN
 as_CJS
 a_AT0
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 counsellor_NN1
 The_AT0
 more_AV0
@@ -26045,7 +26045,7 @@ learnt_VVN
 about_PRP
 pregnancy_NN1
 birth_NN1
-breastfeeding_NN1-AJ0
+breastfeeding_NN1
 motherhood_NN1
 and_CJC
 myself_PNX
@@ -26126,7 +26126,7 @@ just_AV0
 to_TO0
 receive_VVI
 my_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 journal_NN1
 New_AJ0
 Generation_NN1
@@ -26138,7 +26138,7 @@ on_PRP
 contributing_VVG
 to_TO0
 my_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 charity_NN1
 I_PNP
 'm_VBB
@@ -26257,7 +26257,7 @@ can_VM0
 complete_AJ0
 totally_AV0
 unprompted_AJ0
-Q._NP0-NN1
+Q._NP0
 What_DTQ
 noise_NN1
 does_VDZ
@@ -26266,7 +26266,7 @@ sheep_NN0
 make_VVI
 A._NP0
 Baa_NP0
-Q._NP0-NN1
+Q._NP0
 Where_AVQ
 do_VDB
 monks_NN2
@@ -26275,7 +26275,7 @@ nuns_NN2
 live_VVI
 A._NP0
 Abbey_NN1
-Q._NP0-NN1
+Q._NP0
 A_AT0
 polar_AJ0
 what_DTQ
@@ -26286,13 +26286,13 @@ north_NN1
 pole_NN1
 A._NP0
 Bear_NN1
-Q._NP0-NN1
+Q._NP0
 What_DTQ
 are_VBB
 you_PNP
 A._NP0
 Baba_NP0
-Q._NP0-NN1
+Q._NP0
 Where_AVQ
 can_VM0
 you_PNP
@@ -26301,7 +26301,7 @@ drinks_NN2
 A._NP0
 A_AT0
 bar_NN1
-Q._NP0-NN1
+Q._NP0
 What_DTQ
 insect_NN1
 has_VHZ
@@ -26314,7 +26314,7 @@ goes_VVZ
 buzz_UNC
 A._NP0
 Bee_NN1
-Q._NP0-NN1
+Q._NP0
 Complete_AJ0
 this_DT0
 well-known_AJ0
@@ -26329,10 +26329,10 @@ to_TO0
 a_AT0
 goose_NN1
 A._NP0
-Boo_NN1-VVB
-Q._NP0-NN1
+Boo_NN1
+Q._NP0
 Which_DTQ
-Scandinavian_AJ0-NN1
+Scandinavian_NN1
 pop_NN1
 group_NN1
 won_VVD
@@ -26351,7 +26351,7 @@ I_PNP
 mean_VVI
 Nearly_AV0
 New_AJ0
-Sale_NN1-NP0
+Sale_NP0
 A_AT0
 very_AV0
 big_AJ0
@@ -26445,7 +26445,7 @@ all_DT0
 again_AV0
 The_AT0
 Christmas_NN1
-Sale_NN1-NP0
+Sale_NP0
 First_ORD
 of_PRF
 all_DT0
@@ -26540,7 +26540,7 @@ heard_VVN
 of_PRF
 us_PNP
 before_PRP
-Raffle_VVB-NN1
+Raffle_VVB
 prizes_NN2
 went_VVD
 to_TO0
@@ -26627,7 +26627,7 @@ please_AV0
 telephone_NN1
 to_TO0
 discuss_VVI
-asap_NN1-VVB
+asap_NN1
 Mothers_NN2
 in_PRP
 Employment_NN1
@@ -26668,7 +26668,7 @@ the_AT0
 local_AJ0
 contact_NN1
 with_PRP
-WMA_NP0-NN1
+WMA_NN1
 However_AV0
 anyone_PNI
 is_VBZ
@@ -26705,7 +26705,7 @@ a_AT0
 change_NN1
 Post_NN1
 Natal_AJ0
-Support_NN1-VVB
+Support_NN1
 As_CJS
 a_AT0
 branch_NN1
@@ -26734,14 +26734,14 @@ much_DT0
 on_PRP
 the_AT0
 people_NN0
-involved_AJ0
+involved_VVN
 but_CJC
 the_AT0
 supporter_NN1
 is_VBZ
 often_AV0
 a_AT0
-listening_VVG-NN1
+listening_VVG
 ear_NN1
 who_PNQ
 may_VM0
@@ -26776,7 +26776,7 @@ another_DT0
 mum_NN1
 or_CJC
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 can_VM0
 offer_VVI
@@ -26817,7 +26817,7 @@ and_CJC
 will_VM0
 receive_VVI
 the_AT0
-quarterly_AJ0-NN1
+quarterly_AJ0
 journal_NN1
 New_AJ0
 Generation_NN1
@@ -26862,13 +26862,13 @@ member_NN1
 and_CJC
 receive_VVI
 a_AT0
-quarterly_AJ0-NN1
+quarterly_AJ0
 local_AJ0
 newsletter_NN1
 Birmingham_NP0
 Central_AJ0
 Branch_NN1
-Local_NN1-AJ0
+Local_AJ0
 Membership_NN1
 form_NN1
 is_VBZ
@@ -26945,13 +26945,13 @@ tick_VVB
 the_AT0
 jobs_NN2
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 might_VM0
 like_PRP
 to_TO0
 be_VBI
-involved_AJ0
+involved_VVN
 with_PRP
 Attend/host_VVB
 a_AT0
@@ -27027,7 +27027,7 @@ or_CJC
 man_NN1
 the_AT0
 stalls_NN2
-Local_NN1-AJ0
+Local_AJ0
 Membership_NN1
 Membership_NN1
 costs_NN2

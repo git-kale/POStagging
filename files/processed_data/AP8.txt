@@ -12,7 +12,7 @@ Greatniece_NP0
 All_DT0
 of_PRF
 whom_PNQ
-spin_VVI
+spin_NN1
 Keep_VVB
 the_AT0
 Wheels_NN2
@@ -170,7 +170,7 @@ Elizabeth_NP0
 Edwards_NP0
 and_CJC
 Kathleen_NP0
-Drummond_NP0-NN1
+Drummond_NN1
 for_PRP
 advice_NN1
 and_CJC
@@ -253,7 +253,7 @@ furniture_NN1
 in_PRP
 the_AT0
 villages_NN2
-Brathay_NP0
+Brathay_VVB
 Women_NN2
 's_POS
 Institute_NN1
@@ -261,7 +261,7 @@ decided_VVD
 to_TO0
 work_NN1
 on_PRP
-Spinning_VVG-AJ0
+Spinning_VVG
 Galleries_NN2
 and_CJC
 as_CJS
@@ -283,7 +283,7 @@ the_AT0
 Institute_NN1
 I_PNP
 became_VVD
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 search_NN1
@@ -514,7 +514,7 @@ graded_AJ0
 Furness_NP0
 wool_NN1
 was_VBD
-listed_AJ0
+listed_VVN
 as_CJS
 worst_AJS
 medium_NN1
@@ -567,7 +567,7 @@ village_NN1
 and_CJC
 collected_VVN
 the_AT0
-spun_VVD
+spun_VVN
 yarn_NN1
 and_CJC
 woven_AJ0
@@ -631,8 +631,8 @@ by_PRP
 ductile_AJ0
 wool_NN1
 and_CJC
-flax_NN1-VVB
-Yarne_NN1-NP0
+flax_NN1
+Yarne_NP0
 is_VBZ
 an_AT0
 income_NN1
@@ -772,7 +772,7 @@ long_AJ0
 length_NN1
 had_VHD
 been_VBN
-spun_VVD
+spun_VVN
 it_PNP
 was_VBD
 wound_NN1
@@ -796,7 +796,7 @@ was_VBD
 the_AT0
 Great_AJ0
 or_CJC
-Walking_VVG-NN1
+Walking_VVG
 Wheel_NN1
 which_DTQ
 required_VVN
@@ -805,7 +805,7 @@ for_PRP
 the_AT0
 spinner_NN1
 to_TO0
-walk_VVI
+walk_NN1
 to_TO0
 and_CJC
 fro_AV0
@@ -861,7 +861,7 @@ has_VHZ
 a_AT0
 higher_AJC
 than_CJS
-average_AJ0-NN1
+average_AJ0
 rainfall_NN1
 and_CJC
 in_PRP
@@ -931,7 +931,7 @@ twisting_AJ0
 of_PRF
 fleece_NN1
 or_CJC
-flax_NN1-VVB
+flax_NN1
 to_TO0
 produce_VVI
 thread_NN1
@@ -943,7 +943,7 @@ of_PRF
 prepared_AJ0
 fleece_NN1
 or_CJC
-flax_NN1-VVB
+flax_NN1
 from_PRP
 which_DTQ
 the_AT0
@@ -960,7 +960,7 @@ foot_NN1
 rod_NN1
 often_AV0
 beautifully_AV0
-carved_AJ0
+carved_VVN
 as_CJS
 a_AT0
 love_NN1
@@ -988,7 +988,7 @@ woman_NN1
 The_AT0
 spindle_NN1
 spinner_NN1
-tucked_VVN-VVD
+tucked_VVD
 it_PNP
 into_PRP
 her_DPS
@@ -1002,7 +1002,7 @@ both_AV0
 hands_NN2
 free_AJ0
 to_TO0
-spin_VVI
+spin_NN1
 Distaffs_NN2
 may_VM0
 also_AV0
@@ -1021,7 +1021,7 @@ sufficient_AJ0
 yarn_NN1
 has_VHZ
 been_VBN
-spun_VVD
+spun_VVN
 on_PRP
 spindle_NN1
 or_CJC
@@ -1072,7 +1072,7 @@ on_PRP
 his_DPS
 heavy_AJ0
 wooden_AJ0
-loom_NN1-VVB
+loom_NN1
 With_PRP
 the_AT0
 Dissolution_NN1
@@ -1104,7 +1104,7 @@ known_VVN
 for_PRP
 ermines_NN2
 coatings_NN2
-duffel_NN1-VVB
+duffel_NN1
 blankets_NN2
 and_CJC
 much_DT0
@@ -1184,7 +1184,7 @@ was_VBD
 taken_VVN
 from_PRP
 the_AT0
-loom_NN1-VVB
+loom_NN1
 it_PNP
 was_VBD
 loose_AJ0
@@ -1196,7 +1196,7 @@ and_CJC
 needed_VVN
 to_TO0
 be_VBI
-fulled_VVN-AJ0
+fulled_VVN
 or_CJC
 shrunk_VVN
 to_TO0
@@ -1242,7 +1242,7 @@ the_AT0
 industry_NN1
 of_PRF
 men_NN2
-Anon_AV0-AJ0
+Anon_AJ0
 By_PRP
 the_AT0
 14th_ORD
@@ -1252,7 +1252,7 @@ great_AJ0
 revolution_NN1
 of_PRF
 the_AT0
-fulling_NN1-AJ0
+fulling_NN1
 mill_NN1
 had_VHD
 caused_VVN
@@ -1281,7 +1281,7 @@ and_CJC
 cloth_NN1
 to_TO0
 be_VBI
-fulled_VVN-AJ0
+fulled_VVN
 came_VVD
 to_TO0
 the_AT0
@@ -1298,7 +1298,7 @@ animal_NN1
 fat_AJ0
 and_CJC
 lime_NN1
-mixed_AJ0
+mixed_VVN
 with_PRP
 potash_NN1
 derived_VVN
@@ -1309,7 +1309,7 @@ of_PRF
 green_AJ0
 bracken_NN1
 The_AT0
-fulling_NN1-AJ0
+fulling_NN1
 mill_NN1
 had_VHD
 a_AT0
@@ -1334,7 +1334,7 @@ in_PRP
 soapy_AJ0
 water_NN1
 After_PRP
-fulling_NN1-AJ0
+fulling_NN1
 the_AT0
 cloth_NN1
 was_VBD
@@ -1398,7 +1398,7 @@ the_AT0
 word_NN1
 tenter_NN1
 The_AT0
-fulling_NN1-AJ0
+fulling_NN1
 and_CJC
 corn_NN1
 mills_NN2
@@ -1429,7 +1429,7 @@ nap_NN1
 and_CJC
 sheared_VVN
 and_CJC
-dyed_AJ0
+dyed_VVN
 by_PRP
 the_AT0
 shearmen_NN2
@@ -1442,7 +1442,7 @@ famous_AJ0
 in_PRP
 Tudor_NP0
 times_NN2
-Genista_NN1-NP0
+Genista_NP0
 tinctoria_NN1
 yellow_AJ0
 overdyed_VVD
@@ -1456,7 +1456,7 @@ to_TO0
 which_DTQ
 Shakespeare_NP0
 's_POS
-Falstaff_VVB
+Falstaff_NP0
 referred_VVN
 in_PRP
 Henry_NP0
@@ -1467,14 +1467,14 @@ knaves_NN2
 in_PRP
 Kendal_NP0
 Green_AJ0
-Falstaff_VVB
+Falstaff_NP0
 being_VBG
 one_CRD
 Not_XX0
 all_DT0
 wool_NN1
 was_VBD
-dyed_AJ0
+dyed_VVN
 The_AT0
 fleeces_NN2
 from_PRP
@@ -1500,11 +1500,11 @@ the_AT0
 song_NN1
 about_PRP
 John_NP0
-Peel_NP0-NN1
-D'ye_VVB-NN1
-ken_NN1-VVB
+Peel_NP0
+D'ye_VVB
+ken_VVB
 John_NP0
-Peel_NP0-NN1
+Peel_NP0
 with_PRP
 his_DPS
 cote_NN1
@@ -1695,7 +1695,7 @@ From_PRP
 The_AT0
 Clothiers_NN2
 Delight_NN1
-Broadsheet_NP0-NN1
+Broadsheet_NN1
 Combers_NP0
 weavers_NN2
 spinners_NN2
@@ -1722,7 +1722,7 @@ We_PNP
 'll_VM0
 make_VVI
 them_PNP
-spin_VVI
+spin_NN1
 three_CRD
 pounds_NN2
 instead_AV0
@@ -1747,7 +1747,7 @@ will_VM0
 not_XX0
 them_PNP
 maintain_VVI
-Anon_AV0-AJ0
+Anon_AJ0
 The_AT0
 history_NN1
 of_PRF
@@ -1806,7 +1806,7 @@ the_AT0
 fells_NN2
 with_PRP
 their_DPS
-heafing_AJ0-NN1
+heafing_AJ0
 property_NN1
 of_PRF
 returning_VVG
@@ -1822,7 +1822,7 @@ the_AT0
 Century_NN1
 the_AT0
 name_NN1
-Herdwyke_NP0-NN1
+Herdwyke_NN1
 previously_AV0
 referring_VVG
 to_TO0
@@ -1910,7 +1910,7 @@ frequently_AV0
 referred_VVN
 to_TO0
 as_CJS
-Spinning_VVG-AJ0
+Spinning_VVG
 Galleries_NN2
 could_VM0
 better_AJC
@@ -1958,7 +1958,7 @@ witness_NN1
 Sedgwick_NP0
 born_VVN
 in_PRP
-Dent_NN1-NP0
+Dent_NN1
 in_PRP
 1785_CRD
 and_CJC
@@ -1983,7 +1983,7 @@ describes_VVZ
 the_AT0
 galleries_NN2
 of_PRF
-Dent_NN1-NP0
+Dent_NN1
 vividly_AV0
 and_CJC
 delightfully_AV0
@@ -2209,7 +2209,7 @@ date_NN1
 stones_NN2
 and_CJC
 the_AT0
-carved_AJ0
+carved_VVN
 fitted_VVN
 cupboards_NN2
 in_PRP
@@ -2355,12 +2355,12 @@ reverse_NN1
 the_AT0
 wheel_NN1
 and_CJC
-walk_VVI
+walk_NN1
 back_AVP
 to_TO0
 wind_NN1
 the_AT0
-spun_VVD
+spun_VVN
 yarn_NN1
 on_PRP
 the_AT0
@@ -2428,7 +2428,7 @@ sit_VVI
 with_PRP
 her_DPS
 tiny_AJ0
-flax_NN1-VVB
+flax_NN1
 wheel_NN1
 The_AT0
 usual_AJ0
@@ -2474,7 +2474,7 @@ Ulverston_NP0
 Ambleside_NP0
 Kirkby_NP0
 Stephen_NP0
-Dent_NN1-NP0
+Dent_NN1
 and_CJC
 Sedbergh_NP0
 all_DT0
@@ -2484,7 +2484,7 @@ where_AVQ
 prospective_AJ0
 purchasers_NN2
 could_VM0
-walk_VVI
+walk_NN1
 around_PRP
 to_TO0
 view_NN1
@@ -2601,7 +2601,7 @@ for_PRP
 display_NN1
 purposes_NN2
 also_AV0
-Finished_VVN-AJ0
+Finished_VVN
 cloth_NN1
 and_CJC
 yarn_NN1
@@ -2628,18 +2628,18 @@ countryside_NN1
 in_PRP
 search_NN1
 of_PRF
-spun_VVD
+spun_VVN
 yarn_NN1
 and_CJC
 woven_AJ0
 cloth_NN1
-Village_NN1-NP0
+Village_NN1
 inns_NN2
 such_DT0
 as_CJS
 the_AT0
 Black_AJ0
-Swan_NP0-NN1
+Swan_NP0
 at_PRP
 Ravenstonedale_NP0
 were_VBD
@@ -2686,7 +2686,7 @@ well_AV0
 How_AVQ
 the_AT0
 name_NN1
-Spinning_VVG-AJ0
+Spinning_VVG
 Gallery_NN1
 so_AV0
 often_AV0
@@ -2762,7 +2762,7 @@ facing_VVG
 galleries_NN2
 including_PRP
 a_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 one_CRD
 that_CJT
 they_PNP
@@ -2873,7 +2873,7 @@ penning_VVG
 the_AT0
 sheep_NN0
 At_PRP
-clipping_NN1
+clipping_VVG
 time_NN1
 the_AT0
 sheep_NN0
@@ -2913,7 +2913,7 @@ a_AT0
 well-known_AJ0
 fact_NN1
 that_CJT
-clipping_NN1
+clipping_VVG
 is_VBZ
 done_VDN
 in_PRP
@@ -2940,7 +2940,7 @@ the_AT0
 days_NN2
 of_PRF
 electric_AJ0
-clipping_NN1
+clipping_VVG
 This_DT0
 practice_NN1
 has_VHZ
@@ -2953,7 +2953,7 @@ years_NN2
 at_PRP
 High_AJ0
 Bridge_NN1
-End_NP0
+End_NN1
 St._NP0
 John_NP0
 's_POS
@@ -2964,7 +2964,7 @@ and_CJC
 until_CJS
 recently_AV0
 at_PRP
-Adamthwaite_NN1-AJ0
+Adamthwaite_AJ0
 in_PRP
 the_AT0
 Howgills_NP0
@@ -2982,7 +2982,7 @@ system_NN1
 was_VBD
 used_VVN
 the_AT0
-clipping_NN1
+clipping_VVG
 and_CJC
 storing_VVG
 of_PRF
@@ -3048,7 +3048,7 @@ dialect_NN1
 was_VBD
 called_VVN
 The_AT0
-CLIPPING_NN1-AJ0
+CLIPPING_AJ0
 TREE_NN1
 a_AT0
 name_NN1
@@ -3067,7 +3067,7 @@ of_PRF
 the_AT0
 compass_NN1
 when_CJS
-clipping_NN1
+clipping_VVG
 was_VBD
 in_PRP
 progress_NN1
@@ -3107,7 +3107,7 @@ gone_VVN
 and_CJC
 their_DPS
 references_NN2
-listed_AJ0
+listed_VVN
 with_PRP
 them_PNP
 YEW_NN1
@@ -3127,7 +3127,7 @@ is_VBZ
 a_AT0
 cupboard_NN1
 here_AV0
-inscribed_AJ0
+inscribed_VVN
 G._NP0
 W._NP0
 1685_CRD
@@ -3275,7 +3275,7 @@ for_PRP
 the_AT0
 spinner_NN1
 to_TO0
-walk_VVI
+walk_NN1
 to_TO0
 and_CJC
 fro_AV0
@@ -3321,7 +3321,7 @@ farm_NN1
 lies_VVZ
 at_PRP
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 of_PRF
 the_AT0
 farmhouse_NN1
@@ -3367,7 +3367,7 @@ fell_VVD
 in_PRP
 1896_CRD
 LOW_AJ0
-TILBERTHWAITE_NN1-NP0
+TILBERTHWAITE_NP0
 Near_PRP
 Coniston_NP0
 Facing_VVG
@@ -3378,7 +3378,7 @@ Property_NN1
 There_EX0
 is_VBZ
 a_AT0
-carved_AJ0
+carved_VVN
 cupboard_NN1
 here_AV0
 dated_VVN
@@ -3508,7 +3508,7 @@ the_AT0
 galleries_NN2
 using_VVG
 their_DPS
-drop_VVI
+drop_NN1
 spindles_NN2
 over_PRP
 the_AT0
@@ -3561,7 +3561,7 @@ and_CJC
 School_NN1
 of_PRF
 the_AT0
-Carita_NP0-NN1
+Carita_NP0
 by_PRP
 Canaletto_NP0
 in_PRP
@@ -3579,7 +3579,7 @@ with_PRP
 a_AT0
 distaff_NN1
 and_CJC
-spun_VVD
+spun_VVN
 thread_NN1
 in_PRP
 her_DPS
@@ -3592,7 +3592,7 @@ to_TO0
 the_AT0
 idea_NN1
 BOON_NN1
-CRAG_NN1-NP0
+CRAG_NN1
 Monk_NP0
 Coniston_NP0
 High_AJ0
@@ -3603,7 +3603,7 @@ South_NN1
 National_AJ0
 Trust_NN1
 Property_NN1
-Date_NN1-VVB
+Date_NN1
 Late_AV0
 17th_ORD
 Century_NN1
@@ -3614,7 +3614,7 @@ well-known_AJ0
 family_NN1
 engaged_VVN
 in_PRP
-flax_NN1-VVB
+flax_NN1
 spinning_VVG
 lived_VVD
 here_AV0
@@ -3664,7 +3664,7 @@ responsible_AJ0
 for_PRP
 creating_VVG
 Tarn_NN1
-Hows_NN2-VVZ
+Hows_NN2
 They_PNP
 also_AV0
 introduced_VVN
@@ -3723,7 +3723,7 @@ a_AT0
 quarter_NN1
 acre_NN1
 of_PRF
-flax_NN1-VVB
+flax_NN1
 for_PRP
 one_CRD
 acre_NN1
@@ -3742,7 +3742,7 @@ show_VVI
 records_NN2
 for_PRP
 fleece_NN1
-flax_NN1-VVB
+flax_NN1
 and_CJC
 hemp_NN1
 in_PRP
@@ -3791,7 +3791,7 @@ blocks_NN2
 joined_VVD
 by_PRP
 a_AT0
-cross_VVI
+cross_NN1
 wing_NN1
 giving_VVG
 the_AT0
@@ -3897,8 +3897,8 @@ and_CJC
 a_AT0
 court_NN1
 cupboard_NN1
-DUBBER_VVB-NN1
-BECK_NP0-NN1
+DUBBER_VVB
+BECK_NP0
 Oxen_NN2
 Park_NN1
 Inside_AV0
@@ -3990,7 +3990,7 @@ in_PRP
 the_AT0
 beck_NN1
 before_PRP
-clipping_NN1
+clipping_VVG
 There_EX0
 are_VBB
 very_AV0
@@ -4014,10 +4014,10 @@ condition_NN1
 COLTON_NP0
 OLD_AJ0
 HALL_NN1
-Bouth_NP0-NN1
+Bouth_NP0
 Facing_VVG
 North_NN1
-Date_NN1-VVB
+Date_NN1
 17th_ORD
 Century_NN1
 The_AT0
@@ -4027,7 +4027,7 @@ to_TO0
 the_AT0
 west_NN1
 below_AV0
-Bouth_NP0-NN1
+Bouth_NP0
 village_NN1
 Colton_NP0
 was_VBD
@@ -4090,7 +4090,7 @@ the_AT0
 Sandys_NP0
 family_NN1
 LIND_NP0
-END_NN1-VVB
+END_NN1
 Broughton_NP0
 Mills_NP0
 Facing_VVG
@@ -4145,7 +4145,7 @@ oak_NN1
 bannister_NN1
 and_CJC
 strange_AJ0
-beehive-shaped_AJ0-NN1
+beehive-shaped_AJ0
 cupboards_NN2
 possibly_AV0
 ovens_NN2
@@ -4268,14 +4268,14 @@ shippen_VVB
 The_AT0
 Township_NN1
 of_PRF
-Torver_NP0-NN1
+Torver_NN1
 was_VBD
 worked_VVD
 in_PRP
 four_CRD
 quarters_NN2
 and_CJC
-Stable_AJ0-NN1
+Stable_NN1
 Harvey_NP0
 was_VBD
 one_CRD
@@ -4296,12 +4296,12 @@ the_AT0
 18th_ORD
 Century_NN1
 STOTT_NP0
-PARK_NN1-NP0
+PARK_NP0
 FARM_NN1
-Finsthwaite_NN1-AJ0
+Finsthwaite_AJ0
 Facing_VVG
 East_NN1
-Attached_AJ0-VVN
+Attached_AJ0
 to_TO0
 Stott_NP0
 Park_NN1
@@ -4489,7 +4489,7 @@ to_TO0
 sit_VVI
 out_AVP
 and_CJC
-spin_VVI
+spin_NN1
 in_PRP
 summer_NN1
 weather_NN1
@@ -4664,13 +4664,13 @@ Hawkshead_NP0
 was_VBD
 famous_AJ0
 for_PRP
-linsey_NN1-AJ0
+linsey_AJ0
 woolsey_NN1
 petticoats_NN2
 made_VVN
 from_PRP
 a_AT0
-mixed_AJ0
+mixed_VVN
 cloth_NN1
 of_PRF
 linen_NN1
@@ -4681,7 +4681,7 @@ the_AT0
 name_NN1
 suggests_VVZ
 A_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 colour_NN1
 was_VBD
 red_AJ0
@@ -4775,7 +4775,7 @@ accounts_NN2
 of_PRF
 1792_CRD
 record_NN1
-duffel_NN1-VVB
+duffel_NN1
 serge_NN1
 kersey_NN1
 and_CJC
@@ -4784,7 +4784,7 @@ cloths_NN2
 In_PRP
 1737_CRD
 a_AT0
-fulling_NN1-AJ0
+fulling_NN1
 mill_NN1
 is_VBZ
 recorded_VVN
@@ -4801,7 +4801,7 @@ in_PRP
 their_DPS
 cottages_NN2
 to_TO0
-spin_VVI
+spin_NN1
 and_CJC
 knit_VVI
 the_AT0
@@ -4827,7 +4827,7 @@ across_PRP
 the_AT0
 country_NN1
 at_PRP
-Dent_NN1-NP0
+Dent_NN1
 Going_VVG
 further_AJC
 North_NN1
@@ -4842,7 +4842,7 @@ evening_NN1
 we_PNP
 had_VHD
 a_AT0
-Rockin'_VVG-AJ0
+Rockin'_AJ0
 To_TO0
 ca'_VVI
 the_AT0
@@ -4998,7 +4998,7 @@ with_PRP
 that_CJT
 of_PRF
 Kendal_NP0
-Looms_NN2-VVZ
+Looms_VVZ
 and_CJC
 spinning_VVG
 wheels_NN2
@@ -5028,13 +5028,13 @@ to_TO0
 an_AT0
 end_NN1
 ATTWOOD_NP0
-Outgate_NP0-NN1
+Outgate_NP0
 Facing_VVG
 East_NN1
 The_AT0
 practice_NN1
 of_PRF
-clipping_NN1
+clipping_VVG
 below_AV0
 the_AT0
 gallery_NN1
@@ -5060,7 +5060,7 @@ was_VBD
 lost_VVN
 during_PRP
 alterations_NN2
-WALTHWAITE_NP0-NN1
+WALTHWAITE_NP0
 Chapel_NN1
 Stile_NN1
 Langdale_NP0
@@ -5083,7 +5083,7 @@ galleries_NN2
 in_PRP
 the_AT0
 area_NN1
-Walthwaite_NN1-NP0
+Walthwaite_NP0
 is_VBZ
 the_AT0
 best_AJS
@@ -5126,7 +5126,7 @@ Some_DT0
 of_PRF
 the_AT0
 original_AJ0
-spun_VVD
+spun_VVN
 and_CJC
 woven_AJ0
 linen_NN1
@@ -5135,7 +5135,7 @@ treasured_AJ0
 here_AV0
 a_AT0
 family_NN1
-heirloom_NN1-VVB
+heirloom_NN1
 The_AT0
 house_NN1
 has_VHZ
@@ -5153,7 +5153,7 @@ Another_DT0
 gallery_NN1
 at_PRP
 THE_AT0
-BIELD_NN1-NP0
+BIELD_NN1
 Little_AJ0
 Langdale_NP0
 was_VBD
@@ -5174,7 +5174,7 @@ some_DT0
 years_NN2
 at_PRP
 The_AT0
-Bield_NN1-NP0
+Bield_NP0
 spoke_VVD
 of_PRF
 the_AT0
@@ -5183,7 +5183,7 @@ up_AVP
 of_PRF
 fleeces_NN2
 during_PRP
-clipping_NN1
+clipping_VVG
 to_TO0
 a_AT0
 helper_NN1
@@ -5192,7 +5192,7 @@ the_AT0
 gallery_NN1
 At_PRP
 Skelwith_NP0
-Fold_NN1-VVB
+Fold_NN1
 THE_AT0
 OLD_AJ0
 MANOR_NP0
@@ -5236,12 +5236,12 @@ and_CJC
 he_PNP
 told_VVD
 the_AT0
-present_AJ0-NN1
+present_AJ0
 owner_NN1
 of_PRF
 his_DPS
 recollections_NN2
-Spinning_VVG-AJ0
+Spinning_VVG
 by_PRP
 the_AT0
 village_NN1
@@ -5373,7 +5373,7 @@ but_CJC
 William_NP0
 Green_AJ0
 's_POS
-etching_NN1-VVG
+etching_NN1
 of_PRF
 the_AT0
 market_NN1
@@ -5392,7 +5392,7 @@ the_AT0
 entrance_NN1
 to_TO0
 The_AT0
-Slack_AJ0-NN1
+Slack_NN1
 In_PRP
 1778_CRD
 he_PNP
@@ -5426,7 +5426,7 @@ in_PRP
 1800_CRD
 when_CJS
 he_PNP
-retired_AJ0
+retired_VVD
 from_PRP
 surveying_VVG
 and_CJC
@@ -5616,13 +5616,13 @@ Clappersgate_NP0
 There_EX0
 was_VBD
 a_AT0
-fulling_NN1-AJ0
+fulling_NN1
 mill_NN1
 where_AVQ
 the_AT0
-Rothay_NN1-NP0
+Rothay_NN1
 and_CJC
-Brathay_NP0
+Brathay_VVB
 join_VVI
 and_CJC
 the_AT0
@@ -5630,7 +5630,7 @@ flat_AJ0
 lands_NN2
 beside_PRP
 the_AT0
-Rothay_NN1-NP0
+Rothay_NN1
 were_VBD
 used_VVN
 as_CJS
@@ -5638,10 +5638,10 @@ tentergrounds_NN2
 Ambleside_NP0
 had_VHD
 three_CRD
-fulling_NN1-AJ0
+fulling_NN1
 mills_NN2
 above_PRP
-Stock_NP0-NN1
+Stock_NN1
 at_PRP
 this_DT0
 time_NN1
@@ -5723,8 +5723,8 @@ by_PRP
 William_NP0
 Green_AJ0
 1760\xe2\x80\x931823_CRD
-Photograph_NN1-VVB
-Photograph_NN1-VVB
+Photograph_NN1
+Photograph_NN1
 of_PRF
 original_AJ0
 porch_NN1
@@ -5739,7 +5739,7 @@ Cartmel_NP0
 Fell_NN1
 Facing_VVG
 North_NN1
-Date_NN1-VVB
+Date_NN1
 14th_ORD
 Century_NN1
 The_AT0
@@ -5792,7 +5792,7 @@ her_DPS
 small_AJ0
 wheel_NN1
 to_TO0
-spin_VVI
+spin_NN1
 The_AT0
 original_AJ0
 Deeds_NN2
@@ -5806,7 +5806,7 @@ in_PRP
 1560_CRD
 by_PRP
 the_AT0
-Philipson_NP0-NN1
+Philipson_NN1
 family_NN1
 and_CJC
 further_AJC
@@ -5910,7 +5910,7 @@ gallery_NN1
 The_AT0
 most_AV0
 famous_AJ0
-Philipson_NP0-NN1
+Philipson_NN1
 was_VBD
 Robin_NP0
 the_AT0
@@ -5936,7 +5936,7 @@ who_PNQ
 besieged_VVN
 him_PNP
 on_PRP
-Longholme_NP0-NN1
+Longholme_NP0
 Windermere_NP0
 Belle_NP0
 Isle_NP0
@@ -5983,7 +5983,7 @@ his_DPS
 enemy_NN1
 was_VBD
 not_XX0
-present_AJ0-NN1
+present_AJ0
 A_AT0
 helmet_NN1
 the_AT0
@@ -6011,7 +6011,7 @@ Scott_NP0
 in_PRP
 his_DPS
 novel_NN1
-Rokeby_NP0-NN1
+Rokeby_NP0
 The_AT0
 door_NN1
 was_VBD
@@ -6024,7 +6024,7 @@ did_VDD
 ride_VVI
 In_PRP
 his_DPS
-clanking_AJ0-NN1
+clanking_VVG
 gear_NN1
 so_AV0
 gay_AJ0
@@ -6053,7 +6053,7 @@ of_PRF
 his_DPS
 prowess_NN1
 The_AT0
-Philipson_NP0-NN1
+Philipson_NN1
 coat_NN1
 of_PRF
 arms_NN2
@@ -6089,7 +6089,7 @@ a_AT0
 strong_AJ0
 tradition_NN1
 of_PRF
-smuggling_NN1-VVG
+smuggling_VVG
 from_PRP
 the_AT0
 nearby_AJ0
@@ -6107,7 +6107,7 @@ Cartmel_NP0
 Fell_NN1
 Facing_VVG
 East_NN1
-Date_NN1-VVB
+Date_NN1
 1677_CRD
 Pool_NN1
 Bank_NP0
@@ -6194,7 +6194,7 @@ this_DT0
 case_NN1
 On_PRP
 the_AT0
-studded_VVN
+studded_AJ0
 front_NN1
 door_NN1
 is_VBZ
@@ -6281,7 +6281,7 @@ a_AT0
 strong_AJ0
 tradition_NN1
 of_PRF
-smuggling_NN1-VVG
+smuggling_VVG
 illicit_AJ0
 goods_NN2
 being_VBG
@@ -6321,7 +6321,7 @@ There_EX0
 are_VBB
 tales_NN2
 of_PRF
-clanking_AJ0-NN1
+clanking_VVG
 chains_NN2
 and_CJC
 doors_NN2
@@ -6383,7 +6383,7 @@ spinsters_NN2
 and_CJC
 produced_VVN
 wool_NN1
-flax_NN1-VVB
+flax_NN1
 and_CJC
 silk_NN1
 on_PRP
@@ -6394,7 +6394,7 @@ to_TO0
 their_DPS
 needs_VVZ
 The_AT0
-present_AJ0-NN1
+present_AJ0
 owners_NN2
 of_PRF
 Pool_NN1
@@ -6439,7 +6439,7 @@ GROUND_NN1
 Winster_NP0
 Facing_VVG
 East_NN1
-Date_NN1-VVB
+Date_NN1
 1760_CRD
 This_DT0
 is_VBZ
@@ -6553,7 +6553,7 @@ Facing_VVG
 South_NN1
 and_CJC
 East_NN1
-Date_NN1-VVB
+Date_NN1
 1691_CRD
 The_AT0
 property_NN1
@@ -6562,12 +6562,12 @@ jointly_AV0
 owned_VVN
 by_PRP
 the_AT0
-Matson_NP0-NN1
+Matson_NN1
 Ground_NN1
 Estate_NN1
 and_CJC
 the_AT0
-Pattinson_NP0-NN1
+Pattinson_NN1
 Estate_NN1
 The_AT0
 gallery_NN1
@@ -6590,8 +6590,8 @@ of_PRF
 the_AT0
 property_NN1
 THE_AT0
-SPINNERY_NN1-NP0
-Bowness_NP0-NN1
+SPINNERY_NP0
+Bowness_NP0
 The_AT0
 late_AJ0
 Mrs_NP0
@@ -6799,7 +6799,7 @@ house_NN1
 was_VBD
 at_PRP
 Fairfield_NP0
-Bowness_NP0-NN1
+Bowness_NP0
 the_AT0
 dower_NN1
 house_NN1
@@ -6892,7 +6892,7 @@ Germany_NP0
 and_CJC
 America_NP0
 The_AT0
-present_AJ0-NN1
+present_AJ0
 Spinnery_NN1
 was_VBD
 the_AT0
@@ -6971,14 +6971,14 @@ in_PRP
 linen_NN1
 was_VBD
 being_VBG
-spun_VVD
+spun_VVN
 and_CJC
 woven_AJ0
 again_AV0
 in_PRP
 the_AT0
 Langdale_NP0
-Valley_NN1-NP0
+Valley_NN1
 Miss_NP0
 Twelves_CRD
 moved_VVD
@@ -7010,7 +7010,7 @@ employing_VVG
 women_NN2
 at_PRP
 the_AT0
-Flax_NN1-NP0
+Flax_NP0
 Home_NN1
 Industry_NN1
 House_NN1
@@ -7033,12 +7033,12 @@ Handspinning_NP0
 Windermere_NP0
 Industry_NN1
 1905_CRD
-Spinning_VVG-AJ0
+Spinning_VVG
 Notes_NN2
 1913_CRD
 TROUTBECK_NP0
 AREA_NN1
-Troutbeck_NP0-NN1
+Troutbeck_NN1
 has_VHZ
 more_AV0
 galleries_NN2
@@ -7063,7 +7063,7 @@ and_CJC
 five_CRD
 remain_VVI
 TOWN_NN1
-END_NN1-VVB
+END_NN1
 may_VM0
 be_VBI
 seen_VVN
@@ -7127,7 +7127,7 @@ each_DT0
 end_NN1
 wings_NN2
 provided_VVN
-sleeping_VVG
+sleeping_NN1
 quarters_NN2
 for_PRP
 the_AT0
@@ -7163,7 +7163,7 @@ who_PNQ
 lived_VVD
 in_PRP
 Town_NN1
-End_NP0
+End_NN1
 at_PRP
 that_CJT
 time_NN1
@@ -7193,7 +7193,7 @@ barn_NN1
 was_VBD
 important_AJ0
 at_PRP
-winnowing_VVG-AJ0
+winnowing_VVG
 time_NN1
 when_CJS
 the_AT0
@@ -7243,7 +7243,7 @@ much_DT0
 more_AV0
 likely_AJ0
 to_TO0
-spin_VVI
+spin_NN1
 outside_PRP
 her_DPS
 door_NN1
@@ -7353,7 +7353,7 @@ upright_AV0
 This_DT0
 is_VBZ
 a_AT0
-Norse_NN1-NP0
+Norse_NN1
 custom_NN1
 and_CJC
 provides_VVZ
@@ -7396,11 +7396,11 @@ in_PRP
 the_AT0
 Survey_NN1
 LOW_AJ0
-FOLD_NN1-VVB
+FOLD_VVB
 FARM_NN1
 1_CRD
 North_NN1
-Fold_NN1-VVB
+Fold_NN1
 near_PRP
 the_AT0
 Post_NN1
@@ -7472,7 +7472,7 @@ Dr_NP0
 Brunskill_NP0
 in_PRP
 his_DPS
-Vernacular_AJ0-NN1
+Vernacular_AJ0
 Architecture_NN1
 of_PRF
 the_AT0
@@ -7513,7 +7513,7 @@ Green_AJ0
 complex_AJ0
 near_PRP
 the_AT0
-Mortal_AJ0-NN1
+Mortal_NN1
 Man_NN1
 Inn_NN1
 There_EX0
@@ -7563,7 +7563,7 @@ a_AT0
 long_AJ0
 gallery_NN1
 now_AV0
-glassed_VVD-VVN
+glassed_VVN
 in_PRP
 facing_VVG
 east_NN1
@@ -7587,7 +7587,7 @@ years_NN2
 The_AT0
 installations_NN2
 of_PRF
-Troutbeck_NP0-NN1
+Troutbeck_NN1
 's_POS
 folk_NN0
 mayors_NN2
@@ -7613,7 +7613,7 @@ held_VVN
 here_AV0
 LONGMIRE_NP0
 HOUSE_NN1
-Applethwaite_NN1-AJ0
+Applethwaite_NN1
 lies_VVZ
 across_PRP
 the_AT0
@@ -7680,9 +7680,9 @@ be_VBI
 died_VVD
 1868_CRD
 in_PRP
-Troutbeck_NP0-NN1
+Troutbeck_NN1
 village_NN1
-Auld_NN1-NP0
+Auld_NP0
 Jackie_NP0
 Longmire_NP0
 was_VBD
@@ -7778,7 +7778,7 @@ WHICH_DTQ
 HAVE_VHB
 GONE_VVN
 WHITE_AJ0
-CRAG_NN1-NP0
+CRAG_NN1
 once_AV0
 Townhead_NP0
 HIGHFIELD_NP0
@@ -7843,10 +7843,10 @@ with_PRP
 long_AJ0
 associations_NN2
 with_PRP
-Troutbeck_NP0-NN1
+Troutbeck_NN1
 HIGH_AJ0
 BRIDGE_NN1
-END_NN1-VVB
+END_NN1
 St._NP0
 John_NP0
 's_POS
@@ -7931,7 +7931,7 @@ a_AT0
 usual_AJ0
 practice_NN1
 at_PRP
-clipping_NN1
+clipping_VVG
 time_NN1
 when_CJS
 fleeces_NN2
@@ -7964,7 +7964,7 @@ of_PRF
 the_AT0
 county_NN1
 at_PRP
-Adamthwaite_NN1-AJ0
+Adamthwaite_AJ0
 in_PRP
 the_AT0
 Howgills_NP0
@@ -7978,7 +7978,7 @@ Recently_AV0
 divers_NN2
 working_VVG
 in_PRP
-Thirlmere_NP0-NN1
+Thirlmere_NP0
 have_VHB
 found_VVD
 the_AT0
@@ -7994,14 +7994,14 @@ disappeared_VVD
 when_CJS
 two_CRD
 lakes_NN2
-Thirlmere_NP0-NN1
+Thirlmere_NP0
 and_CJC
-Wytheburn_NP0-NN1
+Wytheburn_NP0
 were_VBD
 flooded_VVN
 to_TO0
 become_VVI
-Thirlmere_NP0-NN1
+Thirlmere_NP0
 HARTSOP_NP0
 AREA_NN1
 Come_VVB
@@ -8009,7 +8009,7 @@ over_PRP
 Kirkstone_NP0
 Pass_NN1
 towards_PRP
-Ullswater_NP0-NN1
+Ullswater_NN1
 and_CJC
 on_PRP
 reaching_VVG
@@ -8025,7 +8025,7 @@ the_AT0
 little_AJ0
 village_NN1
 of_PRF
-Hartsop_NP0-NN1
+Hartsop_NP0
 a_AT0
 quiet_AJ0
 place_NN1
@@ -8075,7 +8075,7 @@ of_PRF
 which_DTQ
 two_CRD
 remain_VVI
-THORN_NP0-NN1
+THORN_NN1
 HOUSE_NN1
 North_NN1
 facing_VVG
@@ -8118,7 +8118,7 @@ steps_NN2
 lead_VVI
 to_TO0
 the_AT0
-closed_VVD
+closed_VVN
 end_NN1
 The_AT0
 house_NN1
@@ -8140,7 +8140,7 @@ restored_VVN
 in_PRP
 1920_CRD
 The_AT0
-present_AJ0-NN1
+present_AJ0
 kitchen_NN1
 was_VBD
 the_AT0
@@ -8169,14 +8169,14 @@ barn_NN1
 alongside_PRP
 sheep_NN0
 were_VBD
-salved_VVN-AJ0
+salved_AJ0
 and_CJC
 it_PNP
 was_VBD
 known_VVN
 as_CJS
 the_AT0
-salving_AJ0-NN1
+salving_AJ0
 barn_NN1
 Outside_PRP
 a_AT0
@@ -8188,7 +8188,7 @@ filled_VVN
 for_PRP
 the_AT0
 sheep_NN0
-dipping_VVG-NN1
+dipping_VVG
 The_AT0
 main_AJ0
 living_VVG
@@ -8196,7 +8196,7 @@ room_NN1
 was_VBD
 used_VVN
 for_PRP
-Quaker_AJ0-NN1
+Quaker_AJ0
 meetings_NN2
 for_PRP
 many_DT0
@@ -8206,7 +8206,7 @@ is_VBZ
 a_AT0
 fine_AJ0
 oak_NN1
-carved_AJ0
+carved_VVN
 overmantel_NN1
 and_CJC
 an_AT0
@@ -8235,7 +8235,7 @@ could_VM0
 be_VBI
 penned_VVN
 for_PRP
-clipping_NN1
+clipping_VVG
 a_AT0
 tar_NN1
 costel_NN1
@@ -8246,7 +8246,7 @@ hold_VVI
 the_AT0
 Stockholm_NP0
 tar_NN1
-Walking_VVG-NN1
+Walking_VVG
 up_AVP
 the_AT0
 village_NN1
@@ -8366,7 +8366,7 @@ in_PRP
 search_NN1
 of_PRF
 stock_NN1
-Spun_AJ0-VVN
+Spun_VVN
 wool_NN1
 and_CJC
 woven_AJ0
@@ -8414,11 +8414,11 @@ by_PRP
 the_AT0
 feet_NN2
 to_TO0
-shrink_VVI
+shrink_NN1
 the_AT0
 material_NN1
 before_PRP
-fulling_NN1-AJ0
+fulling_NN1
 mills_NN2
 were_VBD
 used_VVN
@@ -8430,7 +8430,7 @@ law_NN1
 after_PRP
 1377_CRD
 when_CJS
-fulling_NN1-AJ0
+fulling_NN1
 mills_NN2
 were_VBD
 in_PRP
@@ -8443,7 +8443,7 @@ on_PRP
 the_AT0
 fells_NN2
 above_PRP
-Ullswater_NP0-NN1
+Ullswater_NN1
 as_CJS
 they_PNP
 do_VDB
@@ -8482,7 +8482,7 @@ where_AVQ
 there_EX0
 was_VBD
 a_AT0
-spiral_AJ0-NN1
+spiral_NN1
 stone_NN1
 stair_NN1
 SIMPSONS_NN2
@@ -8554,7 +8554,7 @@ a_AT0
 Churchwarden_NN1
 's_POS
 remark_NN1
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 the_AT0
 sturdy_AJ0
@@ -8583,7 +8583,7 @@ time_NN1
 we_PNP
 had_VHD
 a_AT0
-Beggar_NN1-VVB
+Beggar_NN1
 GALLERY_NN1
 WHICH_DTQ
 HAS_VHZ
@@ -8682,12 +8682,12 @@ to_TO0
 advertise_VVI
 their_DPS
 politics_NN1
-ADAMTHWAITE_NP0-NN1
+ADAMTHWAITE_NN1
 Near_PRP
 Ravenstonedale_NP0
 Facing_VVG
 East_NN1
-Date_NN1-VVB
+Date_NN1
 1684_CRD
 The_AT0
 date_NN1
@@ -8715,7 +8715,7 @@ the_AT0
 source_NN1
 of_PRF
 the_AT0
-Lune_NP0-NN1
+Lune_NP0
 The_AT0
 road_NN1
 ends_NN2
@@ -8753,7 +8753,7 @@ pen_NN1
 the_AT0
 sheep_NN0
 for_PRP
-clipping_NN1
+clipping_VVG
 and_CJC
 for_PRP
 the_AT0
@@ -8788,7 +8788,7 @@ followed_VVN
 at_PRP
 High_AJ0
 Bridge_NN1
-End_NP0
+End_NN1
 St._NP0
 John_NP0
 's_POS
@@ -8802,7 +8802,7 @@ also_AV0
 at_PRP
 Langdale_NP0
 and_CJC
-Outgate_NP0-NN1
+Outgate_NP0
 The_AT0
 barn_NN1
 is_VBZ
@@ -8841,7 +8841,7 @@ the_AT0
 farm_NN1
 house_NN1
 and_CJC
-clipping_NN1
+clipping_VVG
 and_CJC
 storage_NN1
 is_VBZ
@@ -8865,11 +8865,11 @@ spinners_NN2
 in_PRP
 wool_NN1
 and_CJC
-flax_NN1-VVB
+flax_NN1
 who_PNQ
 lived_VVD
 at_PRP
-Adamthwaite_NN1-AJ0
+Adamthwaite_AJ0
 BETSY_NP0
 CROFT_NP0
 Newbiggin-on-Lune_NP0
@@ -9024,7 +9024,7 @@ initials_NN2
 I.H._NP0
 TOWER_NN1
 HOUSE_NN1
-Brownber_NP0-NN1
+Brownber_NN1
 Newbiggin-on-Lune_NP0
 Facing_VVG
 South_NN1
@@ -9106,7 +9106,7 @@ here_AV0
 was_VBD
 Mary_NP0
 Elizabeth_NP0
-Gaunt_NP0
+Gaunt_AJ0
 born_VVN
 daughter_NN1
 of_PRF
@@ -9123,10 +9123,10 @@ James_NP0
 Burton_NP0
 who_PNQ
 was_VBD
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
-Rye_NP0-NN1
+Rye_NP0
 House_NN1
 Plot_NN1
 and_CJC
@@ -9264,7 +9264,7 @@ THE_AT0
 SHAMBLES_NN1
 Kirkby_NP0
 Stephen_NP0
-Faces_NN2-VVZ
+Faces_NN2
 East_NN1
 1719_CRD
 Deeds_NN2
@@ -9323,7 +9323,7 @@ has_VHZ
 gone_VVN
 and_CJC
 the_AT0
-present_AJ0-NN1
+present_AJ0
 roof_NN1
 is_VBZ
 clad_VVN
@@ -9375,7 +9375,7 @@ it_PNP
 in_PRP
 his_DPS
 Northern_NP0
-Tour_NN1-VVB
+Tour_NN1
 1724_CRD
 There_EX0
 is_VBZ
@@ -9388,7 +9388,7 @@ dated_VVN
 1817_CRD
 showing_VVG
 the_AT0
-Stocking_VVG-NN1
+Stocking_NN1
 Market_NN1
 and_CJC
 the_AT0
@@ -9422,7 +9422,7 @@ an_AT0
 area_NN1
 where_AVQ
 everyone_PNI
-knitted_AJ0
+knitted_VVD
 men_NN2
 women_NN2
 and_CJC
@@ -9505,7 +9505,7 @@ behind_PRP
 the_AT0
 main_AJ0
 street_NN1
-Access_NN1-VVB
+Access_NN1
 is_VBZ
 by_PRP
 a_AT0
@@ -9567,7 +9567,7 @@ is_VBZ
 unfortunate_AJ0
 that_CJT
 recent_AJ0
-re-building_VVG-NN1
+re-building_NN1
 has_VHZ
 destroyed_VVN
 the_AT0
@@ -9706,12 +9706,12 @@ to_TO0
 that_CJT
 of_PRF
 neighbouring_AJ0
-Dent_NN1-NP0
+Dent_NN1
 Town_NN1
 p_ZZ0
 46_CRD
 BANTY_NP0
-GHYLL_NP0-NN1
+GHYLL_NP0
 Howgill_NP0
 Facing_VVG
 South_NN1
@@ -9761,7 +9761,7 @@ the_AT0
 original_AJ0
 buildings_NN2
 At_PRP
-present_AJ0-NN1
+present_AJ0
 there_EX0
 are_VBB
 two_CRD
@@ -9778,11 +9778,11 @@ is_VBZ
 from_PRP
 a_AT0
 window_NN1
-Clipping_VVG-NN1
+Clipping_NN1
 at_PRP
 Thorn_NP0
 House_NN1
-Hartsop_NP0-NN1
+Hartsop_NP0
 1910_CRD
 Old_AJ0
 Gallery_NN1
@@ -9795,7 +9795,7 @@ by_PRP
 Rev._NP0
 Thomas_NP0
 Austin_NP0
-DENT_NN1-VVB
+DENT_NN1
 TOWN_NN1
 AND_CJC
 AREA_NN1
@@ -9861,7 +9861,7 @@ in_PRP
 a_AT0
 year_NN1
 the_AT0
-hand-knitted_AJ0-NN1
+hand-knitted_NN1
 work_NN1
 being_VBG
 mostly_AV0
@@ -9908,7 +9908,7 @@ the_AT0
 terrible_AJ0
 knitters_NN2
 'e_PNP
-Dent_NN1-NP0
+Dent_NN1
 in_PRP
 The_AT0
 Doctor_NP0
@@ -9924,7 +9924,7 @@ by_PRP
 the_AT0
 phrase_NN1
 Everyone_PNI
-knitted_AJ0
+knitted_VVD
 men_NN2
 women_NN2
 and_CJC
@@ -9935,7 +9935,7 @@ method_NN1
 which_DTQ
 produced_VVN
 very_AV0
-fast_AV0-AJ0
+fast_AJ0
 knitting_NN1
 was_VBD
 called_VVN
@@ -9976,7 +9976,7 @@ knitting_NN1
 sheath_NN1
 a_AT0
 traditional_AJ0
-carved_AJ0
+carved_VVN
 stick_NN1
 which_DTQ
 held_VVN
@@ -9995,7 +9995,7 @@ Sheaths_NN2
 were_VBD
 often_AV0
 lovingly_AV0
-carved_AJ0
+carved_VVN
 and_CJC
 given_VVN
 as_CJS
@@ -10005,7 +10005,7 @@ or_CJC
 dowry_NN1
 gifts_NN2
 They_PNP
-varied_AJ0
+varied_VVN
 in_PRP
 design_NN1
 from_PRP
@@ -10086,7 +10086,7 @@ Tudor_NP0
 caps_NN2
 were_VBD
 also_AV0
-knitted_AJ0
+knitted_VVD
 In_PRP
 1571_CRD
 there_EX0
@@ -10112,7 +10112,7 @@ Days_NN2
 when_CJS
 not_XX0
 on_PRP
-travell_NN1-VVB
+travell_NN1
 a_AT0
 wooden_AJ0
 knit_VVI
@@ -10128,7 +10128,7 @@ day_NN1
 The_AT0
 spinners_NN2
 of_PRF
-Dent_NN1-NP0
+Dent_NN1
 have_VHB
 been_VBN
 immortalised_VVN
@@ -10139,7 +10139,7 @@ He_PNP
 was_VBD
 born_VVN
 in_PRP
-Dent_NN1-NP0
+Dent_NN1
 in_PRP
 1785_CRD
 and_CJC
@@ -10151,7 +10151,7 @@ father_NN1
 was_VBD
 Vicar_NN1
 of_PRF
-Dent_NN1-NP0
+Dent_NN1
 and_CJC
 Adam_NP0
 spent_VVN
@@ -10194,7 +10194,7 @@ of_PRF
 the_AT0
 people_NN0
 of_PRF
-Dent_NN1-NP0
+Dent_NN1
 their_DPS
 homes_NN2
 and_CJC
@@ -10207,7 +10207,7 @@ of_PRF
 the_AT0
 galleries_NN2
 of_PRF
-Dent_NN1-NP0
+Dent_NN1
 on_PRP
 either_AV0
 side_NN1
@@ -10228,7 +10228,7 @@ their_DPS
 undoubted_AJ0
 presence_NN1
 I_PNP
-regret_VVI
+regret_NN1
 the_AT0
 loss_NN1
 of_PRF
@@ -10254,7 +10254,7 @@ parts_NN2
 of_PRF
 them_PNP
 almost_AV0
-shut_VVB
+shut_VVN
 out_AVP
 the_AT0
 sight_NN1
@@ -10404,13 +10404,13 @@ before_PRP
 the_AT0
 fire_NN1
 to_TO0
-spin_VVI
+spin_NN1
 in_PRP
 a_AT0
 neighbour_NN1
 's_POS
 house_NN1
-accords_VVZ-NN2
+accords_NN2
 with_PRP
 that_CJT
 in_PRP
@@ -10434,7 +10434,7 @@ England_NP0
 wrote_VVD
 of_PRF
 the_AT0
-Dent_NN1-NP0
+Dent_NN1
 knitters_NN2
 The_AT0
 knitting_NN1
@@ -10444,7 +10444,7 @@ with_PRP
 unremitting_AJ0
 speed_NN1
 they_PNP
-burn_VVI
+burn_NN1
 no_AT0
 candle_NN1
 but_CJC
@@ -10487,7 +10487,7 @@ there_EX0
 was_VBD
 a_AT0
 great_AJ0
-slump_NN1-VVB
+slump_NN1
 in_PRP
 the_AT0
 trade_NN1
@@ -10508,7 +10508,7 @@ Hawes_NP0
 Water_NN1
 Facing_VVG
 North_NN1
-Date_NN1-VVB
+Date_NN1
 Late_AV0
 16th_ORD
 Century_NN1
@@ -10550,7 +10550,7 @@ have_VHB
 been_VBN
 changes_NN2
 at_PRP
-Naddle_NP0-NN1
+Naddle_NN1
 too_AV0
 There_EX0
 is_VBZ
@@ -10600,9 +10600,9 @@ one_CRD
 being_VBG
 at_PRP
 Low_AJ0
-Hartsop_NP0-NN1
+Hartsop_NP0
 The_AT0
-Naddle_NP0-NN1
+Naddle_NN1
 flocks_NN2
 of_PRF
 Herdwicks_NP0
@@ -10619,7 +10619,7 @@ The_AT0
 ancient_AJ0
 Forest_NN1
 of_PRF
-Naddle_NP0-NN1
+Naddle_NN1
 with_PRP
 deciduous_AJ0
 trees_NN2
@@ -10664,7 +10664,7 @@ this_DT0
 gallery_NN1
 was_VBD
 North-facing_AJ0
-DALE_NN1-NP0
+DALE_NN1
 HEAD_NN1
 Martindale_NP0
 GREENROW_NP0
@@ -10679,12 +10679,12 @@ western_AJ0
 edge_NN1
 of_PRF
 Little_AJ0
-Mell_NP0-NN1
+Mell_NN1
 Fell_NN1
 overlooking_VVG
 the_AT0
 Matterdale_NP0
-Valley_NN1-NP0
+Valley_NN1
 The_AT0
 original_AJ0
 part_NN1
@@ -10743,7 +10743,7 @@ by_PRP
 the_AT0
 original_AJ0
 stair_NN1
-Greenrow_NN1-VVB
+Greenrow_NN1
 is_VBZ
 one_CRD
 of_PRF
@@ -10789,7 +10789,7 @@ the_AT0
 name_NN1
 given_VVN
 to_TO0
-Lending_NN1-VVG
+Lending_VVG
 Inns_NN2
 where_AVQ
 customers_NN2
@@ -10863,7 +10863,7 @@ woodwork_NN1
 has_VHZ
 been_VBN
 replaced_VVN
-Wandering_VVG-AJ0
+Wandering_VVG
 players_NN2
 performed_VVN
 in_PRP
@@ -10898,7 +10898,7 @@ weavers_NN2
 fullers_NN2
 dyers_NN2
 etc._AV0
-gathering_NN1
+gathering_VVG
 together_AV0
 for_PRP
 their_DPS
@@ -11034,7 +11034,7 @@ The_AT0
 property_NN1
 at_PRP
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 where_AVQ
 the_AT0
 gallery_NN1
@@ -11159,7 +11159,7 @@ for_PRP
 penning_VVG
 sheep_NN0
 for_PRP
-clipping_NN1
+clipping_VVG
 There_EX0
 are_VBB
 fine_AJ0
@@ -11226,7 +11226,7 @@ the_AT0
 East_NN1
 of_PRF
 the_AT0
-present_AJ0-NN1
+present_AJ0
 building_NN1
 The_AT0
 Pele_NP0
@@ -11241,7 +11241,7 @@ be_VBI
 14th_ORD
 Century_NN1
 The_AT0
-present_AJ0-NN1
+present_AJ0
 building_NN1
 was_VBD
 bought_VVN
@@ -11437,7 +11437,7 @@ at_PRP
 that_CJT
 time_NN1
 was_VBD
-grassed_VVN-AJ0
+grassed_VVN
 and_CJC
 the_AT0
 barmkin_NN1
@@ -11452,7 +11452,7 @@ on_PRP
 the_AT0
 gallery_NN1
 to_TO0
-spin_VVI
+spin_NN1
 and_CJC
 watch_VVI
 When_CJS
@@ -11578,7 +11578,7 @@ found_VVD
 in_PRP
 the_AT0
 Survey_NN1
-Spinning_VVG-AJ0
+Spinning_VVG
 Gallery_NN1
 location_NN1
 unknown_AJ0

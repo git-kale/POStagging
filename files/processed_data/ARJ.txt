@@ -41,7 +41,7 @@ hormones_NN2
 BRITAIN_NP0
 IN_PRP
 THE_AT0
-DOGHOUSE_NP0-NN1
+DOGHOUSE_NN1
 Canine_AJ0
 controversy_NN1
 WILL_VM0
@@ -62,7 +62,7 @@ him_PNP
 By_PRP
 Myron_NP0
 Brenton_NP0
-CLASH_NN1-VVB
+CLASH_NN1
 OF_PRF
 THE_AT0
 TARTANS_NP0
@@ -75,7 +75,7 @@ AN_AT0
 AUDIENCE_NN1
 WITH_PRP
 DAME_NN1
-EDNA_NP0-NN1
+EDNA_NN1
 Bill_NP0
 Williamson_NP0
 discovers_VVZ
@@ -94,7 +94,7 @@ A_AT0
 SUCCESSFUL_AJ0
 SHORT_AJ0
 STORY_NN1
-Expert_NN1-AJ0
+Expert_NN1
 advice_NN1
 SCHOOL_NN1
 FOR_PRP
@@ -136,7 +136,7 @@ Liz_NP0
 Hodgkinson_NP0
 QUICK_AJ0
 QUICK_AJ0
-SNOW_NN1-NP0
+SNOW_NN1
 Top_NN1
 ski_NN1
 resorts_NN2
@@ -168,12 +168,12 @@ scandal_NN1
 and_CJC
 life_NN1
 after_PRP
-Norm_NN1-NP0
+Norm_NN1
 the_AT0
 not_XX0
 so_AV0
 Everage_NP0
-housewife-turned-megastar_NN1-AJ0
+housewife-turned-megastar_AJ0
 from_PRP
 Down_NP0
 Under_PRP
@@ -257,7 +257,7 @@ columnist_NN1
 Page_NN1
 8_CRD
 Totally_AV0
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 you_PNP
 Or_CJC
@@ -286,7 +286,7 @@ family_NN1
 from_PRP
 taking_VVG
 a_AT0
-bite_VVI
+bite_NN1
 at_PRP
 the_AT0
 poisoned_AJ0
@@ -329,7 +329,7 @@ most_AV0
 unfussy_AJ0
 eater_NN1
 must_VM0
-feel_VVI
+feel_VVB
 uneasy_AJ0
 about_PRP
 the_AT0
@@ -368,7 +368,7 @@ effect_NN1
 of_PRF
 years_NN2
 of_PRF
-chemical_AJ0-NN1
+chemical_AJ0
 bombardment_NN1
 on_PRP
 our_DPS
@@ -708,9 +708,9 @@ and_CJC
 Liz_NP0
 Hodgkinson_NP0
 SHE_PNP
-MAIL_NN1-VVB
+MAIL_NN1
 SHE_PNP
-MAIL_NN1-VVB
+MAIL_NN1
 is_VBZ
 a_AT0
 forum_NN1
@@ -836,7 +836,7 @@ hospital_NN1
 in_PRP
 a_AT0
 plaster_NN1
-cast_VVN
+cast_NN1
 the_AT0
 trauma_NN1
 of_PRF
@@ -1144,7 +1144,7 @@ managing_VVG
 So_AV0
 if_CJS
 you_PNP
-feel_VVI
+feel_VVB
 like_PRP
 giving_VVG
 up_AVP
@@ -1195,7 +1195,7 @@ prey_NN1
 to_TO0
 the_AT0
 office_NN1
-gossips_VVZ-NN2
+gossips_NN2
 not_XX0
 only_AV0
 is_VBZ
@@ -1214,7 +1214,7 @@ as_CJS
 well_AV0
 as_CJS
 emotional_AJ0
-hurt_VVI
+hurt_VVN
 but_CJC
 also_AV0
 bad_AJ0
@@ -1238,7 +1238,7 @@ everywhere_AV0
 K_ZZ0
 Bailey_NP0
 Essex_NP0
-DRIVES_NN2-VVZ
+DRIVES_VVZ
 ME_PNP
 CRAZY_AJ0
 Now_AV0
@@ -1344,7 +1344,7 @@ In_PRP
 conversation_NN1
 with_PRP
 my_DPS
-French_AJ0-NN1
+French_AJ0
 boyfriend_NN1
 the_AT0
 other_AJ0
@@ -1411,7 +1411,7 @@ Lara_NP0
 Fossi_NP0
 Llandudno_NP0
 THE_AT0
-WAITING_AJ0-NN1
+WAITING_AJ0
 GAME_NN1
 After_PRP
 reading_NN1
@@ -1635,7 +1635,7 @@ The_AT0
 teaching_NN1
 of_PRF
 proper_AJ0
-English_AJ0-NN1
+English_AJ0
 really_AV0
 has_VHZ
 made_VVN
@@ -1744,7 +1744,7 @@ our_DPS
 heritage_NN1
 our_DPS
 beautiful_AJ0
-English_AJ0-NN1
+English_AJ0
 language_NN1
 Barbara_NP0
 Cantrell_NP0
@@ -1917,7 +1917,7 @@ Berkshire_NP0
 earrings_NN2
 \xc2\xa35.95_NN0
 chunky_AJ0
-bangle_NN1-VVB
+bangle_NN1
 \xc2\xa38.95_NN0
 both_AV0
 Accessorize_VVB
@@ -2080,7 +2080,7 @@ but_CJC
 they_PNP
 are_VBB
 clearly_AV0
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 each_DT0
 other_AJ0
@@ -2168,7 +2168,7 @@ machine_NN1
 He_PNP
 is_VBZ
 the_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 of_PRF
 so_AV0
 many_DT0
@@ -2195,7 +2195,7 @@ to_TO0
 him_PNP
 and_CJC
 I_PNP
-feel_VVI
+feel_VVB
 that_CJT
 responsibility_NN1
 We_PNP
@@ -2224,7 +2224,7 @@ Black_AJ0
 and_CJC
 White_AJ0
 Minstrel_NN1
-Show_NN1-VVB
+Show_NN1
 during_PRP
 the_AT0
 70s_CRD
@@ -2576,7 +2576,7 @@ her_DPS
 inches_NN2
 seem_VVI
 to_TO0
-stretch_VVI
+stretch_NN1
 up_AVP
 just_AV0
 a_AT0
@@ -2694,7 +2694,7 @@ one_CRD
 of_PRF
 Christine_NP0
 's_POS
-favourite_AJ0-NN1
+favourite_AJ0
 occupations_NN2
 I_PNP
 hate_VVB
@@ -2805,7 +2805,7 @@ a_AT0
 woman_NN1
 shop_NN1
 that_CJT
-fast_AV0-AJ0
+fast_AJ0
 It_PNP
 was_VBD
 on_PRP
@@ -2820,7 +2820,7 @@ was_VBD
 drafted_VVN
 in_PRP
 to_TO0
-co-present_VVI
+co-present_NN1
 a_AT0
 twice-weekly_AJ0
 medical_AJ0
@@ -3132,7 +3132,7 @@ hospital_NN1
 I_PNP
 was_VBD
 so_AV0
-exhausted_VVN-AJ0
+exhausted_VVN
 Then_AV0
 I_PNP
 took_VVD
@@ -3151,7 +3151,7 @@ did_VDD
 my_DPS
 usual_AJ0
 tap_NN1
-dancing_VVG
+dancing_NN1
 on_PRP
 the_AT0
 table_NN1
@@ -3172,7 +3172,7 @@ Norwich_NP0
 I_PNP
 started_VVD
 to_TO0
-cry_VVI
+cry_NN1
 And_CJC
 I_PNP
 cried_VVD
@@ -3378,7 +3378,7 @@ Gym_NN1
 Finalise_VVB
 script_NN1
 hair_NN1
-wash_VVI
+wash_NN1
 make-up_NN1
 6.30_CRD
 Programme_NN1
@@ -3428,7 +3428,7 @@ novel_NN1
 Jumper_NN1
 \xc2\xa369.99_NN0
 Blanc_NP0
-Bleu_NN1-NP0
+Bleu_NN1
 Above_PRP
 for_PRP
 TV_NN1
@@ -3444,7 +3444,7 @@ both_AV0
 Alistair_NP0
 Blair_NP0
 for_PRP
-Jaeger_NN1-NP0
+Jaeger_NP0
 top_NN1
 \xc2\xa341_NN0
 Mondi_NP0
@@ -3474,7 +3474,7 @@ and_CJC
 Mayor_NP0
 Robert_NP0
 Ellwood_NP0
-Jaquard_NN1-NP0
+Jaquard_NN1
 jacket_NN1
 \xc2\xa3159_NN0
 skirt_NN1
@@ -3583,7 +3583,7 @@ but_CJC
 after_PRP
 David_NP0
 's_POS
-well-publicised_AJ0-NN1
+well-publicised_AJ0
 vasectomy_NN1
 that_CJT
 's_POS
@@ -3591,7 +3591,7 @@ not_XX0
 a_AT0
 possibility_NN1
 I_PNP
-regret_VVI
+regret_NN1
 it_PNP
 but_CJC
 if_CJS
@@ -4172,7 +4172,7 @@ on_PRP
 toast_NN1
 and_CJC
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 nutritional_AJ0
 merits_NN2
 of_PRF
@@ -4181,7 +4181,7 @@ spaghetti_NN1
 sauces_NN2
 But_CJC
 this_DT0
-caring_VVG-NN1
+caring_NN1
 quintet_NN1
 are_VBB
 anything_PNI
@@ -4234,7 +4234,7 @@ about_PRP
 the_AT0
 pesticides_NN2
 and_CJC
-herbicides_NN2-VVZ
+herbicides_NN2
 making_VVG
 their_DPS
 way_NN1
@@ -4310,11 +4310,11 @@ is_VBZ
 chatting_VVG
 to_TO0
 the_AT0
-devoted_AJ0-VVN
+devoted_AJ0
 mother_NN1
 of_PRF
 Andreas_NP0
-Taran_NP0-NN1
+Taran_NN1
 and_CJC
 Charlotte_NP0
 Francesca_NP0
@@ -4325,12 +4325,12 @@ and_CJC
 Jessie_NP0
 's_POS
 mum_NN1
-listening_VVG-NN1
+listening_VVG
 intently_AV0
 she_PNP
 's_POS
 Jean_NP0
-Boht_NP0-NN1
+Boht_NP0
 who_PNQ
 stars_NN2
 in_PRP
@@ -4343,7 +4343,7 @@ Lara_NP0
 's_POS
 ma_NN1
 Rula_NP0
-Lenska_NP0-NN1
+Lenska_NP0
 has_VHZ
 to_TO0
 rush_NN1
@@ -4357,7 +4357,7 @@ the_AT0
 photo_NN1
 session_NN1
 's_POS
-wrapped_VVN-VVD
+wrapped_VVN
 up_AVP
 But_CJC
 like_PRP
@@ -4396,7 +4396,7 @@ has_VHZ
 made_VVN
 the_AT0
 interesting_AJ0
-switch_VVI
+switch_NN1
 from_PRP
 being_VBG
 outrageous_AJ0
@@ -4438,7 +4438,7 @@ last_ORD
 year_NN1
 's_POS
 frightening_AJ0
-food-related_AJ0-NN1
+food-related_NN1
 newspaper_NN1
 headlines_NN2
 First_ORD
@@ -4559,7 +4559,7 @@ in_PRP
 all_DT0
 innocence_NN1
 Rula_NP0
-Lenska_NP0-NN1
+Lenska_NP0
 agrees_VVZ
 Having_VHG
 always_AV0
@@ -4674,7 +4674,7 @@ followed_VVN
 Pamela_NP0
 's_POS
 debut_NN1
-broadcast_VVN
+broadcast_NN1
 on_PRP
 the_AT0
 subject_NN1
@@ -4712,7 +4712,7 @@ is_VBZ
 therefore_AV0
 impossible_AJ0
 to_TO0
-wash_VVI
+wash_NN1
 off_AVP
 A_AT0
 British_AJ0
@@ -4805,7 +4805,7 @@ one_CRD
 too_AV0
 many_DT0
 One_CRD
-principal_AJ0-NN1
+principal_AJ0
 target_NN1
 of_PRF
 this_DT0
@@ -4849,7 +4849,7 @@ seems_VVZ
 ludicrous_AJ0
 declares_VVZ
 Jean_NP0
-Boht_NP0-NN1
+Boht_NP0
 that_CJT
 E_ZZ0
 or_CJC
@@ -4893,7 +4893,7 @@ the_AT0
 use_NN1
 of_PRF
 any_DT0
-chemical_AJ0-NN1
+chemical_AJ0
 fertilisers_NN2
 fungicides_NN2
 or_CJC
@@ -4905,7 +4905,7 @@ those_DT0
 packaged_VVN
 with_PRP
 The_AT0
-Soil_NN1-VVB
+Soil_NN1
 Association_NN1
 's_POS
 organic_AJ0
@@ -4955,7 +4955,7 @@ their_DPS
 support_NN1
 to_TO0
 the_AT0
-Soil_NN1-VVB
+Soil_NN1
 Association_NN1
 's_POS
 efforts_NN2
@@ -5048,7 +5048,7 @@ more_AV0
 to_TO0
 make_VVI
 the_AT0
-switch_VVI
+switch_NN1
 It_PNP
 's_POS
 naive_AJ0
@@ -5065,7 +5065,7 @@ organic_AJ0
 overnight_AV0
 adds_VVZ
 Jean_NP0
-Boht_NP0-NN1
+Boht_NP0
 But_CJC
 ultimately_AV0
 if_CJS
@@ -5272,7 +5272,7 @@ six_CRD
 and_CJC
 that_CJT
 's_POS
-pre-irradiation_AJ0-NN1
+pre-irradiation_NN1
 with_PRP
 its_DPS
 own_DT0
@@ -5283,7 +5283,7 @@ the_AT0
 childless_AJ0
 or_CJC
 single_AJ0
-feel_VVI
+feel_VVB
 left_VVN
 out_AVP
 by_PRP
@@ -5322,7 +5322,7 @@ other_AJ0
 campaigners_NN2
 have_VHB
 funded_VVN
-initial_AJ0-NN1
+initial_AJ0
 research_NN1
 from_PRP
 their_DPS
@@ -5399,7 +5399,7 @@ products_NN2
 which_DTQ
 have_VHB
 been_VBN
-publicised_AJ0-VVN
+publicised_VVN
 as_CJS
 Alar-free_AJ0
 by_PRP
@@ -5452,7 +5452,7 @@ help_VVI
 themselves_PNX
 says_VVZ
 Jean_NP0
-Boht_NP0-NN1
+Boht_NP0
 But_CJC
 PFSF_NP0
 readily_AV0
@@ -5489,7 +5489,7 @@ did_VDD
 nothing_PNI
 else_AV0
 but_CJC
-cook_VVI
+cook_NN1
 our_DPS
 food_NN1
 her_DPS
@@ -5529,7 +5529,7 @@ work_NN1
 too_AV0
 So_AV0
 the_AT0
-fast_AV0-AJ0
+fast_AJ0
 food_NN1
 industry_NN1
 emerged_VVD
@@ -5539,7 +5539,7 @@ got_VVN
 used_VVN
 to_TO0
 not_XX0
-scraping_VVG-AJ0
+scraping_VVG
 and_CJC
 washing_NN1
 vegetables_NN2
@@ -5674,7 +5674,7 @@ They_PNP
 predict_VVI
 that_CJT
 ultimately_AV0
-increased_AJ0
+increased_VVN
 demand_NN1
 for_PRP
 organic_AJ0
@@ -5682,7 +5682,7 @@ produce_VVI
 will_VM0
 result_NN1
 in_PRP
-ready-prepared_NN1-AJ0
+ready-prepared_AJ0
 time-saving_AJ0
 but_CJC
 safe_AJ0
@@ -5699,7 +5699,7 @@ available_AJ0
 Meanwhile_AV0
 the_AT0
 collective_AJ0
-clout_NN1-VVB
+clout_NN1
 of_PRF
 famous_AJ0
 names_NN2
@@ -5725,7 +5725,7 @@ Kanawa_NP0
 Ben_NP0
 Kingsley_NP0
 Ringo_NP0
-Starr_NP0-NN1
+Starr_NN1
 and_CJC
 Barbara_NP0
 Bach_NP0
@@ -5799,7 +5799,7 @@ Pamela_NP0
 Every_AT0
 housewife_NN1
 can_VM0
-feel_VVI
+feel_VVB
 confident_AJ0
 in_PRP
 her_DPS
@@ -5817,7 +5817,7 @@ prepared_AJ0
 and_CJC
 sold_VVN
 The_AT0
-average_AJ0-NN1
+average_AJ0
 housewife_NN1
 at_PRP
 last_ORD
@@ -5828,7 +5828,7 @@ And_CJC
 when_CJS
 I_PNP
 say_VVI
-average_AJ0-NN1
+average_AJ0
 I_PNP
 include_VVI
 all_DT0
@@ -5864,7 +5864,7 @@ important_AJ0
 to_TO0
 scrub_NN1
 and_CJC
-peel_VVI
+peel_NN1
 the_AT0
 vegetables_NN2
 maybe_AV0
@@ -5893,7 +5893,7 @@ Scarlett_NP0
 one_CRD
 Amy_NP0
 two_CRD
-Daisy_NP0-NN1
+Daisy_NP0
 five_CRD
 Photographs_NN2
 by_PRP
@@ -5943,14 +5943,14 @@ full_AJ0
 of_PRF
 Cobalt-60_CRD
 or_CJC
-Caesium_NP0-NN1
+Caesium_NN1
 137_CRD
 both_AV0
 radioactive_AJ0
 substances_NN2
 These_DT0
 substances_NN2
-emit_VVI
+emit_VVB
 gamma_NN1
 rays_NN2
 which_DTQ
@@ -5963,7 +5963,7 @@ kill_VVI
 most_AV0
 things_NN2
 including_PRP
-yeasts_NN2-VVZ
+yeasts_NN2
 moulds_NN2
 and_CJC
 most_AV0
@@ -6053,7 +6053,7 @@ been_VBN
 exported_VVN
 irradiated_AJ0
 abroad_AV0
-re-imported_AJ0-VVN
+re-imported_AJ0
 and_CJC
 later_AV0
 sold_VVN
@@ -6114,7 +6114,7 @@ leakages_NN2
 and_CJC
 the_AT0
 deliberate_AJ0
-dumping_NN1
+dumping_VVG
 of_PRF
 radioactive_AJ0
 material_NN1
@@ -6267,7 +6267,7 @@ mention_VVI
 of_PRF
 all_DT0
 agrochemicals_NN2
-Support_NN1-VVB
+Support_NN1
 those_DT0
 organisations_NN2
 which_DTQ
@@ -6302,7 +6302,7 @@ father_NN1
 is_VBZ
 of_PRF
 him_PNP
-galloping_VVG-AJ0
+galloping_AJ0
 down_AVP
 a_AT0
 field_NN1
@@ -6382,19 +6382,19 @@ sometimes_AV0
 impatient_AJ0
 with_PRP
 our_DPS
-toddling_AJ0-NN1
+toddling_AJ0
 footsteps_NN2
 I_PNP
 ca_VM0
 n't_XX0
-walk_VVI
+walk_NN1
 slowly_AV0
 he_PNP
 'd_VM0
 say_VVI
 I_PNP
 'll_VM0
-fall_VVI
+fall_NN1
 over_PRP
 He_PNP
 liked_VVD
@@ -6576,7 +6576,7 @@ short_AJ0
 canter_NN1
 he_PNP
 was_VBD
-winded_VVN-AJ0
+winded_VVN
 and_CJC
 scared_AJ0
 with_PRP
@@ -6640,7 +6640,7 @@ but_CJC
 I_PNP
 'll_VM0
 soon_AV0
-trot_VVI
+trot_NN1
 out_AVP
 sound_NN1
 In_PRP
@@ -6672,7 +6672,7 @@ his_DPS
 life_NN1
 He_PNP
 was_VBD
-dying_VVG-AJ0
+dying_AJ0
 The_AT0
 illness_NN1
 was_VBD
@@ -6745,7 +6745,7 @@ was_VBD
 fit_VVI
 enough_AV0
 to_TO0
-fly_VVI
+fly_NN1
 back_AVP
 to_TO0
 Jersey_NP0
@@ -7037,10 +7037,10 @@ see_VVI
 him_PNP
 suffering_VVG
 I_PNP
-feel_VVI
+feel_VVB
 like_PRP
 a_AT0
-whipped_VVN
+whipped_VVD
 dog_NN1
 he_PNP
 said_VVD
@@ -7078,7 +7078,7 @@ and_CJC
 went_VVD
 for_PRP
 a_AT0
-drive_VVI
+drive_NN1
 when_CJS
 I_PNP
 had_VHD
@@ -7214,7 +7214,7 @@ and_CJC
 I_PNP
 saw_VVD
 that_CJT
-whipped_VVN
+whipped_VVD
 dog_NN1
 look_VVI
 This_DT0
@@ -7234,7 +7234,7 @@ case_NN1
 several_DT0
 things_NN2
 made_VVN
-caring_VVG-NN1
+caring_NN1
 for_PRP
 my_DPS
 father_NN1
@@ -7319,7 +7319,7 @@ had_VHD
 fallen_VVN
 and_CJC
 would_VM0
-fall_VVI
+fall_NN1
 once_AV0
 again_AV0
 took_VVD
@@ -7343,7 +7343,7 @@ spend_VVI
 years_NN2
 and_CJC
 years_NN2
-caring_VVG-NN1
+caring_NN1
 for_PRP
 parents_NN2
 they_PNP
@@ -7412,8 +7412,8 @@ Duty_NN1
 Is_VBZ
 n't_XX0
 It_PNP
-Souvenir_NN1-NP0
-Press_NN1-VVB
+Souvenir_NN1
+Press_NN1
 \xc2\xa37.95_NN0
 on_PRP
 the_AT0
@@ -7538,7 +7538,7 @@ and_CJC
 amount_NN1
 of_PRF
 care_NN1
-involved_AJ0
+involved_VVN
 there_EX0
 is_VBZ
 suddenly_AV0
@@ -7556,15 +7556,15 @@ the_AT0
 point_NN1
 of_PRF
 full-time_AJ0
-caring_VVG-NN1
+caring_NN1
 The_AT0
 practical_AJ0
 difficulties_NN2
 of_PRF
-nursing_AJ0-NN1
+nursing_NN1
 a_AT0
 sick_AJ0
-relative_AJ0-NN1
+relative_AJ0
 can_VM0
 be_VBI
 very_AV0
@@ -7707,7 +7707,7 @@ Another_DT0
 upsetting_AJ0
 aspect_NN1
 of_PRF
-caring_VVG-NN1
+caring_NN1
 for_PRP
 some_DT0
 offspring_NN0
@@ -8009,7 +8009,7 @@ the_AT0
 house_NN1
 with_PRP
 big_AJ0
-bulges_NN2-VVZ
+bulges_NN2
 all_DT0
 over_PRP
 it_PNP
@@ -8032,7 +8032,7 @@ senile_AJ0
 Sometimes_AV0
 he_PNP
 'd_VM0
-cry_VVI
+cry_NN1
 about_PRP
 this_DT0
 she_PNP
@@ -8138,7 +8138,7 @@ he_PNP
 went_VVD
 into_PRP
 a_AT0
-nursing_AJ0-NN1
+nursing_NN1
 home_NN1
 nearby_AJ0
 The_AT0
@@ -8178,7 +8178,7 @@ a_AT0
 long_AJ0
 time_NN1
 I_PNP
-walk_VVI
+walk_NN1
 the_AT0
 dog_NN1
 up_AVP
@@ -8189,7 +8189,7 @@ a_AT0
 week_NN1
 I_PNP
 can_VM0
-walk_VVI
+walk_NN1
 in_PRP
 there_EX0
 at_PRP
@@ -8239,7 +8239,7 @@ made_VVN
 the_AT0
 experience_NN1
 of_PRF
-caring_VVG-NN1
+caring_NN1
 for_PRP
 the_AT0
 sick_AJ0
@@ -8464,7 +8464,7 @@ led_VVD
 the_AT0
 sort_NN1
 of_PRF
-varied_AJ0
+varied_VVN
 life_NN1
 that_CJT
 gives_VVZ
@@ -8486,7 +8486,7 @@ married_AJ0
 young_AJ0
 and_CJC
 was_VBD
-divorced_AJ0
+divorced_VVN
 when_CJS
 her_DPS
 children_NN2
@@ -8535,7 +8535,7 @@ Sunday_NP0
 Times_NN2
 and_CJC
 The_AT0
-Independent_AJ0
+Independent_NN1
 In_PRP
 1979_CRD
 she_PNP
@@ -8830,7 +8830,7 @@ psychological_AJ0
 quirks_NN2
 like_PRP
 an_AT0
-entrenched_AJ0
+entrenched_VVN
 hatred_NN1
 of_PRF
 men_NN2
@@ -8867,7 +8867,7 @@ are_VBB
 no_AT0
 hard_AJ0
 and_CJC
-fast_AV0-AJ0
+fast_AJ0
 criteria_NN2
 but_CJC
 they_PNP
@@ -8885,7 +8885,7 @@ adopting_VVG
 So_AV0
 provided_VVN
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 could_VM0
 give_VVI
@@ -8924,7 +8924,7 @@ the_AT0
 cost_NN1
 of_PRF
 someone_PNI
-caring_VVG-NN1
+caring_NN1
 for_PRP
 the_AT0
 child_NN1
@@ -8964,7 +8964,7 @@ instance_NN1
 The_AT0
 address_NN1
 is_VBZ
-MEA_NP0-NN1
+MEA_NP0
 house_NN1
 Ellison_NP0
 Place_NP0
@@ -9007,7 +9007,7 @@ it_PNP
 makes_VVZ
 me_PNP
 so_AV0
-cross_VVI
+cross_NN1
 He_PNP
 says_VVZ
 simply_AV0
@@ -9083,7 +9083,7 @@ tells_VVZ
 me_PNP
 not_XX0
 to_TO0
-fret_VVI
+fret_VVB
 How_AVQ
 can_VM0
 I_PNP
@@ -9151,7 +9151,7 @@ yearly_AJ0
 raise_VVI
 But_CJC
 you_PNP
-feel_VVI
+feel_VVB
 slighted_AJ0
 and_CJC
 frustrated_AJ0
@@ -9412,7 +9412,7 @@ and_CJC
 though_CJS
 I_PNP
 still_AV0
-feel_VVI
+feel_VVB
 sorry_AJ0
 for_PRP
 her_DPS
@@ -9453,7 +9453,7 @@ I_PNP
 'd_VM0
 never_AV0
 become_VVI
-involved_AJ0
+involved_VVN
 A_AT0
 She_PNP
 sounds_VVZ
@@ -9466,7 +9466,7 @@ using_VVG
 you_PNP
 as_CJS
 a_AT0
-substitute_NN1-AJ0
+substitute_NN1
 for_PRP
 her_DPS
 lost_VVN
@@ -9754,7 +9754,7 @@ often_AV0
 one_CRD
 ceases_VVZ
 to_TO0
-notice_VVI
+notice_NN1
 them_PNP
 and_CJC
 it_PNP
@@ -9771,7 +9771,7 @@ another_DT0
 person_NN1
 in_PRP
 thrall_NN1
-Start_VVB-NN1
+Start_NN1
 believing_VVG
 more_AV0
 in_PRP
@@ -9827,7 +9827,7 @@ and_CJC
 I_PNP
 have_VHB
 very_AV0
-strait-laced_AJ0-NN1
+strait-laced_AJ0
 parents_NN2
 Since_CJS
 we_PNP
@@ -10012,7 +10012,7 @@ does_VDZ
 n't_XX0
 move_VVI
 on_PRP
-fizzles_VVZ-NN2
+fizzles_VVZ
 out_AVP
 as_CJS
 time_NN1
@@ -10070,7 +10070,7 @@ yourself_PNX
 Do_VDB
 n't_XX0
 sound_NN1
-moony_NN1-AJ0
+moony_NN1
 If_CJS
 he_PNP
 responds_VVZ
@@ -10247,7 +10247,7 @@ only_AV0
 companions_NN2
 I_PNP
 still_AV0
-freeze_VVI
+freeze_NN1
 if_CJS
 people_NN0
 talk_VVI
@@ -10293,7 +10293,7 @@ hear_VVI
 the_AT0
 most_AV0
 extraordinarily_AV0
-extrovert_NN1-AJ0
+extrovert_AJ0
 people_NN0
 being_VBG
 interviewed_VVN
@@ -10534,7 +10534,7 @@ are_VBB
 bound_VVN
 to_TO0
 be_VBI
-plastered_VVD
+plastered_VVN
 all_DT0
 over_PRP
 your_DPS
@@ -10591,7 +10591,7 @@ common_AJ0
 with_PRP
 Shula_NP0
 Archer_NP0
-Endometriosis_NN1-NP0
+Endometriosis_NN1
 is_VBZ
 the_AT0
 answer_NN1
@@ -10770,7 +10770,7 @@ refer_VVI
 them_PNP
 to_TO0
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 who_PNQ
 can_VM0
 do_VDB
@@ -10780,7 +10780,7 @@ for_PRP
 them_PNP
 However_AV0
 The_AT0
-Endometriosis_NN1-NP0
+Endometriosis_NN1
 Society_NN1
 has_VHZ
 tackled_VVN
@@ -10822,8 +10822,8 @@ belong_VVB
 to_TO0
 the_AT0
 society_NN1
-Understanding_VVG-NN1
-Endometriosis_NN1-NP0
+Understanding_NN1
+Endometriosis_NN1
 by_PRP
 Caroline_NP0
 Hawkridge_NP0
@@ -10837,7 +10837,7 @@ and_CJC
 costs_NN2
 \xc2\xa35.99_NN0
 The_AT0
-Endometriosis_NN1-NP0
+Endometriosis_NN1
 Society_NN1
 can_VM0
 be_VBI
@@ -10936,7 +10936,7 @@ has_VHZ
 been_VBN
 a_AT0
 dramatic_AJ0
-shift_NN1-VVB
+shift_NN1
 towards_PRP
 defensive_AJ0
 medicine_NN1
@@ -11104,7 +11104,7 @@ produced_VVN
 This_DT0
 causes_NN2
 temporary_AJ0
-softening_NN1
+softening_VVG
 of_PRF
 the_AT0
 ligaments_NN2
@@ -11118,7 +11118,7 @@ much_DT0
 strain_NN1
 on_PRP
 the_AT0
-relaxin-softened_AJ0-NN1
+relaxin-softened_AJ0
 tissue_NN1
 can_VM0
 cause_NN1
@@ -11357,7 +11357,7 @@ off_AVP
 anti-violence_AJ0
 wavelengths_NN2
 The_AT0
-Amarant_AJ0-NN1
+Amarant_AJ0
 Trust_NN1
 has_VHZ
 a_AT0
@@ -11407,7 +11407,7 @@ say_VVI
 passion_NN1
 has_VHZ
 a_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 formula_NN1
 Anne-Marie_NP0
 Smith_NP0
@@ -11446,7 +11446,7 @@ when_CJS
 I_PNP
 do_VDB
 n't_XX0
-feel_VVI
+feel_VVB
 like_PRP
 it_PNP
 And_CJC
@@ -11468,7 +11468,7 @@ of_PRF
 recognition_NN1
 around_PRP
 the_AT0
-all-female_AJ0-NN1
+all-female_AJ0
 table_NN1
 One_CRD
 the_AT0
@@ -11600,7 +11600,7 @@ curls_NN2
 up_AVP
 in_PRP
 a_AT0
-limp_VVI
+limp_NN1
 ball_NN1
 and_CJC
 refuses_VVZ
@@ -11630,7 +11630,7 @@ It_PNP
 the_AT0
 rise_NN1
 and_CJC
-fall_VVI
+fall_NN1
 in_PRP
 these_DT0
 hormone_NN1
@@ -11639,7 +11639,7 @@ which_DTQ
 govern_VVI
 when_CJS
 you_PNP
-feel_VVI
+feel_VVB
 attracted_VVN
 to_TO0
 someone_PNI
@@ -11690,7 +11690,7 @@ their_DPS
 oestrogen_NN1
 they_PNP
 experienced_VVN
-increased_AJ0
+increased_VVN
 sexual_AJ0
 desire_NN1
 and_CJC
@@ -11927,7 +11927,7 @@ evidence_NN1
 shows_VVZ
 that_CJT
 women_NN2
-feel_VVI
+feel_VVB
 more_AV0
 inhibited_VVN
 by_PRP
@@ -11967,7 +11967,7 @@ by_PRP
 candlelight_NN1
 Rather_AV0
 than_CJS
-enticing_VVG-AJ0
+enticing_VVG
 your_DPS
 man_NN1
 its_DPS
@@ -11979,7 +11979,7 @@ that_CJT
 it_PNP
 makes_VVZ
 you_PNP
-feel_VVI
+feel_VVB
 sexier_AJC
 and_CJC
 therefore_AV0
@@ -12174,7 +12174,7 @@ likely_AJ0
 to_TO0
 become_VVI
 pregnant_AJ0
-Added_VVN-AJ0
+Added_AJ0
 testosterone_NN1
 as_CJS
 a_AT0
@@ -12192,7 +12192,7 @@ however_AV0
 Dr_NP0
 Andrew_NP0
 Macleod_NP0
-specialist_NN1-AJ0
+specialist_NN1
 in_PRP
 endocrinology_NN1
 at_PRP
@@ -12206,7 +12206,7 @@ It_PNP
 is_VBZ
 known_VVN
 that_CJT
-increased_AJ0
+increased_VVN
 testosterone_NN1
 improves_VVZ
 the_AT0
@@ -12248,7 +12248,7 @@ with_PRP
 testosterone_NN1
 would_VM0
 get_VVI
-increased_AJ0
+increased_VVN
 facial_AJ0
 hair_NN1
 and_CJC
@@ -12289,7 +12289,7 @@ are_VBB
 generally_AV0
 considered_VVN
 to_TO0
-lie_VVI
+lie_VVB
 in_PRP
 our_DPS
 hormones_NN2
@@ -12338,7 +12338,7 @@ low_AJ0
 libido_NN1
 Passion_NN1
 killer_NN1
-Stress_NN1-VVB
+Stress_NN1
 as_CJS
 everyone_PNI
 knows_VVZ
@@ -12484,7 +12484,7 @@ hormones_NN2
 it_PNP
 begins_VVZ
 to_TO0
-inhibit_VVI
+inhibit_VVB
 sex_NN1
 hormone_NN1
 secretions_NN2
@@ -12495,7 +12495,7 @@ desire_NN1
 Pheromones_NN2
 are_VBB
 another_DT0
-chemical_AJ0-NN1
+chemical_AJ0
 influence_NN1
 on_PRP
 our_DPS
@@ -12557,7 +12557,7 @@ explains_VVZ
 that_CJT
 these_DT0
 are_VBB
-chemical_AJ0-NN1
+chemical_AJ0
 substances_NN2
 emitted_VVD
 by_PRP
@@ -12567,7 +12567,7 @@ or_CJC
 person_NN1
 and_CJC
 they_PNP
-act_VVI
+act_NN1
 via_PRP
 the_AT0
 sense_NN1
@@ -12702,7 +12702,7 @@ Cutler_NP0
 director_NN1
 of_PRF
 the_AT0
-Athena_NP0-NN1
+Athena_NP0
 Institute_NN1
 for_PRP
 Women_NN2
@@ -12775,7 +12775,7 @@ that_CJT
 's_POS
 why_AVQ
 sexual_AJ0
-drive_VVI
+drive_NN1
 seems_VVZ
 to_TO0
 accelerate_VVI
@@ -12891,7 +12891,7 @@ and_CJC
 hormone_NN1
 levels_NN2
 may_VM0
-drop_VVI
+drop_NN1
 because_CJS
 they_PNP
 are_VBB
@@ -12958,7 +12958,7 @@ It_PNP
 's_POS
 all_DT0
 a_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 reaction_NN1
 SHE_PNP
 PERFORMANCE_NN1
@@ -13076,7 +13076,7 @@ palely_AV0
 gorgeous_AJ0
 in_PRP
 a_AT0
-sable_AJ0-NN1
+sable_AJ0
 coat_NN1
 You_PNP
 see_VVI
@@ -13175,7 +13175,7 @@ attacks_NN2
 US_NP0
 institutions_NN2
 in_PRP
-Talk_VVB-NN1
+Talk_NN1
 Radio_NN1
 18_CRD
 Outspoken_AJ0
@@ -13203,7 +13203,7 @@ legendary_AJ0
 blues_NN2
 singer_NN1
 in_PRP
-Ma_NP0-NN1
+Ma_NP0
 Rainey_NP0
 's_POS
 Black_AJ0
@@ -13238,7 +13238,7 @@ amusing_AJ0
 variations_NN2
 on_PRP
 the_AT0
-perennial_AJ0-NN1
+perennial_AJ0
 theme_NN1
 of_PRF
 marital_AJ0
@@ -13246,9 +13246,9 @@ discord_NN1
 occur_VVI
 in_PRP
 Sex_NN1
-Lies_NN2-VVZ
+Lies_NN2
 and_CJC
-Videotape_NP0-NN1
+Videotape_NP0
 the_AT0
 winner_NN1
 of_PRF
@@ -13331,9 +13331,9 @@ flies_NN2
 Funny_AJ0
 sophisticated_AJ0
 Sex_NN1
-Lies_NN2-VVZ
+Lies_NN2
 and_CJC
-Videotape_NP0-NN1
+Videotape_NP0
 18_CRD
 opened_VVD
 in_PRP
@@ -13342,7 +13342,7 @@ on_PRP
 September_NP0
 8_CRD
 WHEELER_NP0
-DEALING_VVG-NN1
+DEALING_VVG
 It_PNP
 may_VM0
 be_VBI
@@ -13375,21 +13375,21 @@ the_AT0
 City_NN1
 of_PRF
 London_NP0
-fall_VVI
+fall_NN1
 is_VBZ
 a_AT0
 rash_NN1
 of_PRF
 slightly_AV0
 dated_VVN
-fast-lane_AJ0-NN1
+fast-lane_NN1
 brokerage_NN1
 dramas_NN2
 Paul_NP0
 McCann_NP0
 and_CJC
 Rebecca_NP0
-DeMornay_NP0-NN1
+DeMornay_NN1
 are_VBB
 already_AV0
 doing_VDG
@@ -13467,7 +13467,7 @@ Capital_NN1
 City_NN1
 is_VBZ
 a_AT0
-13-part_AJ0-NN1
+13-part_AJ0
 ITV_NP0
 series_NN0
 starting_VVG
@@ -13518,7 +13518,7 @@ Joseph_NP0
 Ackerley_NP0
 the_AT0
 great_AJ0
-divide_VVI
+divide_NN1
 comes_VVZ
 between_PRP
 the_AT0
@@ -13650,10 +13650,10 @@ video_NN1
 right_NN1
 Branagh_NP0
 SHE_PNP
-DIET_NN1-VVB
+DIET_NN1
 NEWS_NN1
 DOES_VDZ
-FAT_AJ0-NN1
+FAT_NN1
 RUN_NN1
 IN_PRP
 THE_AT0
@@ -13707,7 +13707,7 @@ a_AT0
 slight_AJ0
 genetic_AJ0
 factor_NN1
-involved_AJ0
+involved_VVN
 meaning_NN1
 that_CJT
 if_CJS
@@ -13742,7 +13742,7 @@ rate_NN1
 at_PRP
 which_DTQ
 you_PNP
-burn_VVI
+burn_NN1
 up_AVP
 energy_NN1
 varies_VVZ
@@ -13879,7 +13879,7 @@ you_PNP
 can_VM0
 not_XX0
 safely_AV0
-ginger_AJ0-NN1
+ginger_AJ0
 up_AVP
 your_DPS
 metabolic_AJ0
@@ -13902,7 +13902,7 @@ is_VBZ
 to_TO0
 try_VVI
 to_TO0
-burn_VVI
+burn_NN1
 up_AVP
 more_AV0
 energy_NN1
@@ -13934,7 +13934,7 @@ out_AVP
 Women_NN2
 have_VHB
 on_PRP
-average_AJ0-NN1
+average_AJ0
 about_PRP
 25%_NN0
 fat_AJ0
@@ -13954,7 +13954,7 @@ to_TO0
 lose_VVI
 BANGERS_NN2
 AND_CJC
-TRASH_NP0-NN1
+TRASH_NN1
 Eating_VVG
 sausages_NN2
 means_NN0
@@ -13971,7 +13971,7 @@ colourings_NN2
 says_VVZ
 Dr_NP0
 Tim_NP0
-Lobstein_NP0-NN1
+Lobstein_NN1
 of_PRF
 the_AT0
 London_NP0
@@ -13988,7 +13988,7 @@ to_TO0
 cut_VVN
 back_AVP
 on_PRP
-fatty_AJ0-NN1
+fatty_AJ0
 foods_NN2
 yet_AV0
 here_AV0
@@ -14032,7 +14032,7 @@ leading_AJ0
 brands_NN2
 found_VVD
 their_DPS
-average_AJ0-NN1
+average_AJ0
 fat_AJ0
 level_NN1
 was_VBD
@@ -14054,7 +14054,7 @@ only_AV0
 59%_NN0
 lean_VVI
 meat_NN1
-FATTENING_VVG-AJ0
+FATTENING_AJ0
 HABITS_NN2
 Losing_VVG
 weight_NN1
@@ -14121,7 +14121,7 @@ Those_DT0
 persistent_AJ0
 but_CJC
 slightly_AV0
-fattening_VVG-AJ0
+fattening_VVG
 habits_NN2
 which_DTQ
 are_VBB
@@ -14176,7 +14176,7 @@ and_CJC
 sugar_NN1
 and_CJC
 not_XX0
-expending_VVG-AJ0
+expending_VVG
 energy_NN1
 with_PRP
 exercise_NN1
@@ -14206,7 +14206,7 @@ choice_NN1
 is_VBZ
 always_AV0
 welcome_AJ0
-Hellmann_NP0-NN1
+Hellmann_NP0
 's_POS
 have_VHB
 introduced_VVN
@@ -14231,7 +14231,7 @@ is_VBZ
 good_AJ0
 news_NN1
 as_CJS
-mayonnaises_NN2-VVZ
+mayonnaises_VVZ
 and_CJC
 salad_NN1
 dressings_NN2
@@ -14254,7 +14254,7 @@ to_TO0
 sandwiches_NN2
 pancake_NN1
 fillings_NN2
-dips_VVZ-NN2
+dips_VVZ
 jacket_NN1
 potato_NN1
 toppings_NN2
@@ -14280,7 +14280,7 @@ But_CJC
 one_CRD
 tablespoon_NN1
 of_PRF
-Hellmann_NP0-NN1
+Hellmann_NP0
 's_POS
 new_AJ0
 range_NN1
@@ -14327,7 +14327,7 @@ and_CJC
 peppers_NN2
 and_CJC
 Blue_AJ0
-Royale_NP0-NN1
+Royale_NP0
 blue_AJ0
 cheese_NN1
 with_PRP
@@ -14339,7 +14339,7 @@ They_PNP
 cost_NN1
 75p_NN0
 each_DT0
-CHANGE_NN1-VVB
+CHANGE_NN1
 FOR_PRP
 THE_AT0
 BETTER_AV0
@@ -14379,7 +14379,7 @@ Utah_NP0
 University_NN1
 lost_VVN
 an_AT0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 13_CRD
 lbs_NN2
@@ -14404,7 +14404,7 @@ they_PNP
 still_AV0
 ate_VVD
 an_AT0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 400_CRD
 calories_NN2
@@ -14528,7 +14528,7 @@ afford_VVI
 In_PRP
 London_NP0
 Dave_NP0
-Prowse_NP0-NN1
+Prowse_NP0
 the_AT0
 six_CRD
 foot_NN1
@@ -14568,7 +14568,7 @@ the_AT0
 newly_AV0
 opened_VVD
 Club_NN1
-Royale_NP0-NN1
+Royale_NP0
 at_PRP
 11_CRD
 Whitehorse_NP0
@@ -14582,7 +14582,7 @@ or_CJC
 at_PRP
 The_AT0
 Dave_NP0
-Prowse_NP0-NN1
+Prowse_NP0
 Fitness_NN1
 Centre_NN1
 12_CRD
@@ -14594,7 +14594,7 @@ Tel_NP0
 01\xe2\x80\x93407_CRD
 5650_CRD
 Jamie_NP0
-Addicoat_NP0-NN1
+Addicoat_NP0
 who_PNQ
 manages_VVZ
 the_AT0
@@ -14675,7 +14675,7 @@ about_PRP
 qualifications_NN2
 DANGER_NN1
 DRUGS_NN2
-Slimming_VVG-NN1
+Slimming_NN1
 pills_NN2
 containing_VVG
 high_AJ0
@@ -14736,7 +14736,7 @@ in_PRP
 which_DTQ
 the_AT0
 pills_NN2
-swelled_VVN-VVD
+swelled_VVD
 in_PRP
 the_AT0
 throat_NN1
@@ -14832,7 +14832,7 @@ with_PRP
 extra_AJ0
 oat_NN1
 bran_NN1
-Quaker_AJ0-NN1
+Quaker_AJ0
 Oats_NN1
 which_DTQ
 gives_VVZ
@@ -14866,7 +14866,7 @@ skimmed_VVN
 milk_NN1
 and_CJC
 use_NN1
-granulated_AJ0-VVD
+granulated_AJ0
 sweetener_NN1
 instead_AV0
 of_PRF
@@ -14878,7 +14878,7 @@ calories_NN2
 and_CJC
 you_PNP
 will_VM0
-feel_VVI
+feel_VVB
 so_AV0
 replete_AJ0
 you_PNP
@@ -14936,7 +14936,7 @@ than_CJS
 just_AV0
 relying_VVG
 on_PRP
-improved_AJ0
+improved_VVN
 dental_AJ0
 hygiene_NN1
 In_PRP
@@ -14985,7 +14985,7 @@ just_AV0
 fear_NN1
 of_PRF
 the_AT0
-drill_VVI
+drill_NN1
 California_NP0
 dentist_NN1
 James_NP0
@@ -15133,7 +15133,7 @@ and_CJC
 mineral_NN1
 supplement_VVI
 called_VVN
-Ultra-Detoxi_NN1-AJ0
+Ultra-Detoxi_AJ0
 for_PRP
 the_AT0
 Nature_NN1
@@ -15146,7 +15146,7 @@ for_PRP
 days_NN2
 '_POS
 supply_NN1
-CLEAN_VVB
+CLEAN_AJ0
 LIVING_NN1
 We_PNP
 're_VBB
@@ -15208,7 +15208,7 @@ milk_NN1
 fish_NN0
 and_CJC
 eggs_NN2
-Grazing_AJ0-VVG
+Grazing_NN1
 animals_NN2
 ingest_AJS
 dioxins_NN2
@@ -15251,7 +15251,7 @@ babies_NN2
 consume_VVB
 large_AJ0
 quantities_NN2
-relative_AJ0-NN1
+relative_AJ0
 to_TO0
 their_DPS
 body_NN1
@@ -15308,7 +15308,7 @@ non-chlorine_AJ0
 bleached_VVN
 paper_NN1
 packaging_NN1
-Cutting_VVG-NN1
+Cutting_VVG
 levels_NN2
 of_PRF
 dioxins_NN2
@@ -15334,12 +15334,12 @@ relatively_AV0
 small_AJ0
 contribution_NN1
 to_TO0
-overall_AJ0-NN1
+overall_AJ0
 levels_NN2
 they_PNP
 do_VDB
 man_NN1
-increased_AJ0
+increased_VVN
 exposure_NN1
 for_PRP
 the_AT0
@@ -15404,7 +15404,7 @@ T_ZZ0
 sawyer_AJC
 whose_DTQ
 company_NN1
-Biopharm_NN1-VVB
+Biopharm_NN1
 in_PRP
 Swansea_NP0
 has_VHZ
@@ -15463,7 +15463,7 @@ They_PNP
 cost_NN1
 \xc2\xa34.50_NN0
 each_DT0
-Biopharm_NN1-VVB
+Biopharm_NN1
 can_VM0
 get_VVI
 leech_NN1
@@ -15479,18 +15479,18 @@ They_PNP
 're_VBB
 also_AV0
 developing_VVG
-Hementin_NP0-NN1
+Hementin_NN1
 an_AT0
 enzyme_NN1
 which_DTQ
 can_VM0
 dissolve_VVI
 blood_NN1
-clots_NN2-VVZ
+clots_VVZ
 derived_VVN
 from_PRP
 the_AT0
-Amazon_NP0-NN1
+Amazon_NP0
 leech_NN1
 which_DTQ
 is_VBZ
@@ -15518,7 +15518,7 @@ book_NN1
 Royal_AJ0
 Jelly_NN1
 the_AT0
-Guide_NN1-VVB
+Guide_NN1
 to_TO0
 the_AT0
 World_NN1
@@ -15629,8 +15629,8 @@ try_VVI
 waxing_VVG
 bleaching_VVG
 and_CJC
-shaving_VVG-AJ0
-Electrolysis_NN1-NP0
+shaving_VVG
+Electrolysis_NN1
 is_VBZ
 the_AT0
 only_AV0
@@ -15720,7 +15720,7 @@ Joan_NP0
 Collins_NP0
 and_CJC
 Ursula_NP0
-Andress_NP0-NN1
+Andress_NP0
 This_DT0
 new_AJ0
 spirituality_NN1
@@ -15731,7 +15731,7 @@ Guerlain_NP0
 's_POS
 new_AJ0
 perfume_NN1
-Samsara_NP0-NN1
+Samsara_NP0
 left_VVN
 which_DTQ
 is_VBZ
@@ -15778,7 +15778,7 @@ its_DPS
 theme_NN1
 from_PRP
 a_AT0
-dancing_VVG
+dancing_NN1
 Buddhist_AJ0
 goddess_NN1
 It_PNP
@@ -15802,7 +15802,7 @@ Guerlain_NP0
 's_POS
 other_AJ0
 fragrances_NN2
-Samsara_NP0-NN1
+Samsara_NP0
 should_VM0
 become_VVI
 one_CRD
@@ -15842,7 +15842,7 @@ anti-ageing_AJ0
 properties_NN2
 Vitamin_NN1
 A_AT0
-Palmitate_NP0-NN1
+Palmitate_NN1
 shows_VVZ
 promising_AJ0
 results_NN2
@@ -15852,7 +15852,7 @@ products_NN2
 Tests_NN2
 show_VVI
 less_AV0
-wrinkling_VVG
+wrinkling_NN1
 and_CJC
 repair_NN1
 to_TO0
@@ -15890,14 +15890,14 @@ Some_DT0
 suntan_NN1
 products_NN2
 including_PRP
-Coppertone_NP0-NN1
+Coppertone_NP0
 RoC_NP0
 and_CJC
-Biotherm_NP0-NN1
+Biotherm_NP0
 contain_VVB
 it_PNP
 Panthenol_NP0
-Provitamin_NP0-NN1
+Provitamin_NN1
 B5_UNC
 benefits_NN2
 hair_NN1
@@ -15927,7 +15927,7 @@ build_VVI
 up_AVP
 and_CJC
 reduces_VVZ
-tangling_VVG-NN1
+tangling_VVG
 Acts_NN2
 as_CJS
 a_AT0
@@ -15941,7 +15941,7 @@ especially_AV0
 with_PRP
 sunburn_NN1
 BROWNIE_NN1
-POINTS_NN2-VVZ
+POINTS_NN2
 A_AT0
 new_AJ0
 autumn_NN1
@@ -16153,7 +16153,7 @@ by_PRP
 Rimmel_NP0
 's_POS
 Heather_NP0
-Shimmer_NN1-VVB
+Shimmer_VVB
 and_CJC
 third_ORD
 comes_VVZ
@@ -16203,7 +16203,7 @@ and_CJC
 pout_NN1
 1_CRD
 LIP_NN1
-CARE_NN1-VVB
+CARE_NN1
 Extreme_AJ0
 weather_NN1
 is_VBZ
@@ -16221,7 +16221,7 @@ the_AT0
 elements_NN2
 with_PRP
 lip_NN1
-salves_NN2-VVZ
+salves_NN2
 and_CJC
 creams_NN2
 For_PRP
@@ -16231,10 +16231,10 @@ from_PRP
 chapped_AJ0
 lips_NN2
 try_VVI
-Blisteze_NP0-NN1
+Blisteze_NN1
 89p_NN0
 a_AT0
-medicated_AJ0-VVN
+medicated_AJ0
 cream_NN1
 Cold_AJ0
 sores_NN2
@@ -16305,7 +16305,7 @@ to_TO0
 perfectly_AV0
 applied_VVN
 lipstick_NN1
-Outline_VVB-NN1
+Outline_VVB
 using_VVG
 a_AT0
 sharp_AJ0
@@ -16332,7 +16332,7 @@ pencil-line_NN1
 does_VDZ
 n't_XX0
 show_VVI
-Blot_VVB-NN1
+Blot_VVB
 with_PRP
 a_AT0
 tissue_NN1
@@ -16363,7 +16363,7 @@ technologically_AV0
 advanced_AJ0
 ranges_NN2
 include_VVI
-Clinique_NP0-NN1
+Clinique_NN1
 's_POS
 Super_AJ0
 Lipsticks_NN2
@@ -16391,7 +16391,7 @@ lipstick_NN1
 wardrobe_NN1
 try_VVI
 a_AT0
-pinky/brown_NN1-AJ0
+pinky/brown_AJ0
 this_DT0
 will_VM0
 go_VVI
@@ -16399,7 +16399,7 @@ with_PRP
 anything_PNI
 a_AT0
 sheer_AJ0
-mid-apricot_NN1-AJ0
+mid-apricot_NN1
 to_TO0
 match_VVI
 warm_AJ0
@@ -16451,8 +16451,8 @@ Boots_NP0
 '_POS
 No._NN1
 7_CRD
-French_AJ0-NN1
-Almond_NN1-NP0
+French_AJ0
+Almond_NP0
 \xe2\x80\x931.95_NN0
 Sensiq_NP0
 's_POS
@@ -16465,20 +16465,20 @@ Charade_NN1
 \xc2\xa32.95_NN0
 Chanel_NP0
 's_POS
-Rouge_NN1-AJ0
+Rouge_NN1
 Marquise_NN1
 \xc2\xa37.75_NN0
 and_CJC
-Shiseido_NP0-NN1
+Shiseido_NP0
 's_POS
 Golden_AJ0
-Sienna_NP0-NN1
+Sienna_NN1
 \xc2\xa37.50_NN0
 Est\xc3\xa9e_NP0
 Lauder_NP0
 's_POS
 Perfect_AJ0
-Garnet_NP0-NN1
+Garnet_NP0
 and_CJC
 Guerlain_NP0
 's_POS
@@ -16525,10 +16525,10 @@ our_DPS
 article_NN1
 about_PRP
 dog_NN1
-licensing_NN1-VVG
+licensing_NN1
 and_CJC
 welfare_NN1
-License_VVB-NN1
+License_NN1
 to_TO0
 Kill_VVB
 and_CJC
@@ -16575,7 +16575,7 @@ in_PRP
 dog_NN1
 control_NN1
 The_AT0
-RSPCA_NN1-NP0
+RSPCA_NN1
 confidently_AV0
 state_NN1
 that_CJT
@@ -16593,7 +16593,7 @@ society_NN1
 along_AVP
 with_PRP
 other_AJ0
-allied_AJ0
+allied_VVN
 organisations_NN2
 and_CJC
 the_AT0
@@ -16695,7 +16695,7 @@ right_NN1
 to_TO0
 throw_VVI
 your_DPS
-Alsatian_NN1-AJ0
+Alsatian_NN1
 out_AVP
 onto_PRP
 the_AT0
@@ -16724,7 +16724,7 @@ down_AVP
 daily_AJ0
 by_PRP
 the_AT0
-RSPCA_NN1-NP0
+RSPCA_NN1
 or_CJC
 58,000_CRD
 road_NN1
@@ -16770,7 +16770,7 @@ reads_VVZ
 of_PRF
 the_AT0
 horrific_AJ0
-savaging_NN1
+savaging_VVG
 and_CJC
 killing_VVG
 of_PRF
@@ -16828,7 +16828,7 @@ Continent_NN1
 It_PNP
 costs_NN2
 the_AT0
-French_AJ0-NN1
+French_AJ0
 \xc2\xa320_NN0
 million_CRD
 a_AT0
@@ -16899,7 +16899,7 @@ based_VVN
 on_PRP
 tattooing_VVG
 or_CJC
-branding_VVG-NN1
+branding_VVG
 a_AT0
 scheme_NN1
 favoured_VVN
@@ -16938,7 +16938,7 @@ marking_VVG
 a_AT0
 dog_NN1
 would_VM0
-hurt_VVI
+hurt_VVN
 but_CJC
 because_CJS
 they_PNP
@@ -16952,7 +16952,7 @@ remove_VVI
 the_AT0
 mark_NN1
 before_PRP
-dumping_NN1
+dumping_VVG
 an_AT0
 unwanted_AJ0
 pet_NN1
@@ -17005,11 +17005,11 @@ or_CJC
 to_TO0
 use_NN1
 a_AT0
-drop_VVI
+drop_NN1
 of_PRF
 acid_NN1
 to_TO0
-burn_VVI
+burn_NN1
 off_AVP
 a_AT0
 brand_NN1
@@ -17070,11 +17070,11 @@ and_CJC
 controlled_VVN
 under_PRP
 one_CRD
-act_VVI
+act_NN1
 of_PRF
 Parliament_NN1
 At_PRP
-present_AJ0-NN1
+present_AJ0
 anyone_PNI
 who_PNQ
 is_VBZ
@@ -17150,7 +17150,7 @@ pressure_NN1
 group_NN1
 like_PRP
 the_AT0
-RSPCA_NN1-NP0
+RSPCA_NN1
 who_PNQ
 can_VM0
 afford_VVI
@@ -17158,7 +17158,7 @@ to_TO0
 spend_VVI
 thousands_CRD
 on_PRP
-shock-tactic_AJ0-NN1
+shock-tactic_AJ0
 campaigns_NN2
 but_CJC
 we_PNP
@@ -17282,10 +17282,10 @@ registration_NN1
 system_NN1
 relies_VVZ
 at_PRP
-present_AJ0-NN1
+present_AJ0
 on_PRP
 collar_NN1
-tags_NN2-VVZ
+tags_NN2
 although_CJS
 they_PNP
 are_VBB
@@ -17360,7 +17360,7 @@ operate_VVI
 a_AT0
 24-hour_AJ0
 365-day-a-year_AJ0
-computer-search_AJ0-NN1
+computer-search_AJ0
 service_NN1
 to_TO0
 reunite_VVI
@@ -17490,7 +17490,7 @@ one_CRD
 of_PRF
 the_AT0
 highest_AJS
-re-homing_AJ0-NN1
+re-homing_NN1
 rates_NN2
 in_PRP
 the_AT0
@@ -17507,7 +17507,7 @@ of_PRF
 strays_NN2
 unlike_PRP
 the_AT0
-RSPCA_NN1-NP0
+RSPCA_NN1
 and_CJC
 every_AT0
 stray_AJ0
@@ -17532,7 +17532,7 @@ not_XX0
 that_CJT
 easy_AJ0
 to_TO0
-walk_VVI
+walk_NN1
 away_AV0
 with_PRP
 a_AT0
@@ -17556,7 +17556,7 @@ large_AJ0
 dogs_NN2
 make_VVI
 an_AT0
-initial_AJ0-NN1
+initial_AJ0
 visit_NN1
 to_TO0
 make_VVI
@@ -17602,7 +17602,7 @@ aspect_NN1
 of_PRF
 pet_NN1
 care_NN1
-Contact_VVB-NN1
+Contact_VVB
 Wood_NP0
 Green_AJ0
 Animal_NN1
@@ -17788,7 +17788,7 @@ dogs_NN2
 92%_NN0
 thought_VVD
 the_AT0
-RSPCA_NN1-NP0
+RSPCA_NN1
 's_POS
 advertising_NN1
 campaign_NN1
@@ -17877,7 +17877,7 @@ idea_NN1
 of_PRF
 what_DTQ
 is_VBZ
-involved_AJ0
+involved_VVN
 ONE_CRD
 VET_NN1
 'S_POS
@@ -17908,7 +17908,7 @@ practising_VVG
 veterinary_AJ0
 surgeon_NN1
 Kendal_NP0
-Shepherd_NP0-NN1
+Shepherd_NP0
 I_PNP
 am_VBB
 a_AT0
@@ -17920,7 +17920,7 @@ years_NN2
 '_POS
 experience_NN1
 and_CJC
-feel_VVI
+feel_VVB
 strongly_AV0
 about_PRP
 the_AT0
@@ -17932,7 +17932,7 @@ I_PNP
 support_NN1
 fully_AV0
 the_AT0
-RSPCA_NN1-NP0
+RSPCA_NN1
 campaign_NN1
 and_CJC
 their_DPS
@@ -17941,7 +17941,7 @@ of_PRF
 shock_NN1
 tactics_NN2
 I_PNP
-feel_VVI
+feel_VVB
 that_CJT
 the_AT0
 horrifying_AJ0
@@ -17957,7 +17957,7 @@ no_AT0
 more_AV0
 likely_AJ0
 to_TO0
-stir_VVI
+stir_VVB
 people_NN0
 to_TO0
 action_NN1
@@ -18013,7 +18013,7 @@ sleep_VVI
 weekly_AJ0
 by_PRP
 the_AT0
-RSPCA_NN1-NP0
+RSPCA_NN1
 it_PNP
 must_VM0
 be_VBI
@@ -18092,11 +18092,11 @@ the_AT0
 owner_NN1
 or_CJC
 offer_VVI
-rehoming_VVG-NN1
+rehoming_VVG
 Back_AVP
 to_TO0
 the_AT0
-RSPCA_NN1-NP0
+RSPCA_NN1
 campaign_NN1
 while_CJS
 admirable_AJ0
@@ -18113,7 +18113,7 @@ destroyed_VVN
 daily_AJ0
 are_VBB
 all_DT0
-good-tempered_AJ0-NN1
+good-tempered_NN1
 potentially_AV0
 healthy_AJ0
 young_AJ0
@@ -18224,7 +18224,7 @@ to_TO0
 be_VBI
 humanely_AV0
 destroyed_VVN
-Rescue_NN1-VVB
+Rescue_NN1
 societies_NN2
 should_VM0
 play_VVI
@@ -18233,7 +18233,7 @@ of_PRF
 a_AT0
 part_NN1
 in_PRP
-matching_VVG
+matching_AJ0
 dogs_NN2
 to_TO0
 owners_NN2
@@ -18370,7 +18370,7 @@ to_TO0
 explaining_VVG
 why_AVQ
 the_AT0
-human-dog_AJ0-NN1
+human-dog_AJ0
 relationship_NN1
 is_VBZ
 so_AV0
@@ -18430,7 +18430,7 @@ and_CJC
 time_NN1
 needed_VVN
 to_TO0
-feed_VVI
+feed_NN1
 train_NN1
 groom_NN1
 and_CJC
@@ -18491,12 +18491,12 @@ in_PRP
 print_NN1
 breeders_NN2
 are_VBB
-undeserving_NN1-VVG
+undeserving_VVG
 of_PRF
 attack_NN1
 by_PRP
 the_AT0
-RSPCA_NN1-NP0
+RSPCA_NN1
 then_AV0
 why_AVQ
 have_VHB
@@ -18594,11 +18594,11 @@ vet_NN1
 fees_NN2
 An_AT0
 Old_AJ0
-English_AJ0-NN1
-Sheepdog_NN1-VVB
+English_AJ0
+Sheepdog_VVB
 needing_VVG
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 of_PRF
 an_AT0
 hour_NN1
@@ -18715,7 +18715,7 @@ by_PRP
 permanent_AJ0
 marking_VVG
 by_PRP
-branding_VVG-NN1
+branding_VVG
 or_CJC
 tattooing_VVG
 as_CJS
@@ -18798,7 +18798,7 @@ killed_VVN
 weekly_AJ0
 by_PRP
 the_AT0
-RSPCA_NN1-NP0
+RSPCA_NN1
 We_PNP
 vaccinate_VVB
 new_AJ0
@@ -19024,7 +19024,7 @@ could_VM0
 expect_VVI
 a_AT0
 huge_AJ0
-increased_AJ0
+increased_VVN
 revenue_NN1
 they_PNP
 in_PRP
@@ -19138,7 +19138,7 @@ concern_NN1
 for_PRP
 dog_NN1
 welfare_NN1
-LICENCE_VVB-NN1
+LICENCE_VVB
 TO_PRP
 KILL_VVI
 The_AT0
@@ -19150,7 +19150,7 @@ for_PRP
 mercy_NN1
 killings_NN2
 are_VBB
-varied_AJ0
+varied_VVN
 Except_CJS
 for_PRP
 cases_NN2
@@ -19258,12 +19258,12 @@ from_PRP
 the_AT0
 pet_NN1
 e_ZZ0
-Destructiveness_NN1-NP0
+Destructiveness_NN1
 in_PRP
 the_AT0
 home_NN1
 f_ZZ0
-Wandering_VVG-AJ0
+Wandering_VVG
 leading_AJ0
 to_TO0
 the_AT0
@@ -19337,7 +19337,7 @@ mod_NN1
 with_PRP
 trad_NN1
 for_PRP
-eyecatching_VVG-AJ0
+eyecatching_VVG
 results_NN2
 and_CJC
 maximum_AJ0
@@ -19345,7 +19345,7 @@ flexibility_NN1
 LOOK_VVB
 SHE_PNP
 'S_POS
-GUIDE_NN1-VVB
+GUIDE_NN1
 TO_PRP
 WORK_NN1
 LIFE_NN1
@@ -19445,7 +19445,7 @@ reward_NN1
 than_CJS
 a_AT0
 cheaper_AJC
-ex-pool_AJ0-NN1
+ex-pool_NN1
 car_NN1
 good_AJ0
 quality_NN1
@@ -19669,7 +19669,7 @@ try_VVI
 our_DPS
 SHE_PNP
 Fresh_AJ0
-Start_VVB-NN1
+Start_NN1
 courses_NN2
 launched_VVN
 by_PRP
@@ -19697,7 +19697,7 @@ on_PRP
 hair_NN1
 make-up_NN1
 and_CJC
-dressing_VVG
+dressing_NN1
 for_PRP
 work_NN1
 Each_DT0
@@ -19737,7 +19737,7 @@ Southampton_NP0
 Write_VVB
 to_TO0
 Fresh_AJ0
-Start_VVB-NN1
+Start_NN1
 SHE_PNP
 Magazine_NN1
 National_AJ0
@@ -19749,7 +19749,7 @@ Street_NP0
 London_NP0
 W1V_UNC
 2BP_UNC
-BOTTOM_AJ0
+BOTTOM_NN1
 OF_PRF
 THE_AT0
 CLASS_NN1
@@ -19846,7 +19846,7 @@ under_PRP
 fives_CRD
 work_NN1
 an_AT0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 30_CRD
 hours_NN2
@@ -19890,7 +19890,7 @@ nurseries_NN2
 for_PRP
 their_DPS
 staff_NN0
-RING_VVB-NN1
+RING_NN1
 FOR_PRP
 ACTION_NN1
 COULD_VM0
@@ -19993,7 +19993,7 @@ free_AJ0
 details_NN2
 from_PRP
 the_AT0
-Talentmark_NN1-NP0
+Talentmark_NP0
 agency_NN1
 LOOK_VVB
 AT_PRP
@@ -20041,7 +20041,7 @@ Pendle_NP0
 Consultants_NN2
 Ltd_AJ0
 the_AT0
-Yorkshire-based_AJ0-NN1
+Yorkshire-based_NN1
 training_NN1
 and_CJC
 recruitment_NN1
@@ -20462,15 +20462,15 @@ a_AT0
 saleswoman_NN1
 Aggressive_AJ0
 Assertive_AJ0
-Cool_VVB
+Cool_AJ0
 Sympathetic_AJ0
 Generous_AJ0
-Understanding_VVG-NN1
-Determined_VVN-AJ0
+Understanding_NN1
+Determined_AJ0
 Knowledgeable_AJ0
 Memorable_AJ0
 Good-looking_AJ0
-Quick_AJ0-AV0
+Quick_AJ0
 Outgoing_AJ0
 Reliable_AJ0
 Honest_AJ0
@@ -20479,7 +20479,7 @@ Helpful_AJ0
 Friendly_AJ0
 Colourful_AJ0
 Warm_AJ0
-Beguiling_AJ0-VVG
+Beguiling_AJ0
 Persuasive_AJ0
 Genuine_AJ0
 Articulate_VVB
@@ -20543,11 +20543,11 @@ a_AT0
 weekend_NN1
 course_NN1
 in_PRP
-Listening_VVG-NN1
+Listening_VVG
 Techniques_NN2
 at_PRP
 the_AT0
-Earnley_NP0-NN1
+Earnley_NP0
 Concourse_NN1
 in_PRP
 Sussex_NP0
@@ -20564,7 +20564,7 @@ who_PNQ
 specialises_VVZ
 in_PRP
 teaching_NN1
-listening_VVG-NN1
+listening_VVG
 and_CJC
 other_AJ0
 skills_NN2
@@ -20574,7 +20574,7 @@ in_PRP
 industry_NN1
 and_CJC
 education_NN1
-Listening_VVG-NN1
+Listening_VVG
 is_VBZ
 the_AT0
 first_ORD
@@ -20586,12 +20586,12 @@ life_NN1
 and_CJC
 is_VBZ
 our_DPS
-principal_AJ0-NN1
+principal_AJ0
 method_NN1
 of_PRF
 communication_NN1
 Kathryn_NP0
-stressed_VVD
+stressed_VVN
 Yet_AV0
 it_PNP
 is_VBZ
@@ -20617,7 +20617,7 @@ build_VVI
 blocks_NN2
 to_TO0
 good_AJ0
-listening_VVG-NN1
+listening_VVG
 such_DT0
 as_CJS
 allowing_VVG
@@ -20852,11 +20852,11 @@ two_CRD
 or_CJC
 three_CRD
 details_NN2
-Contact_VVB-NN1
+Contact_VVB
 The_AT0
-Earnley_NP0-NN1
+Earnley_NP0
 Concourse_NN1
-Earnley_NP0-NN1
+Earnley_NP0
 Chichester_NP0
 Sussex_NP0
 PO20_UNC
@@ -20942,7 +20942,7 @@ Lamplugh_NP0
 Trust_NN1
 has_VHZ
 been_VBN
-involved_AJ0
+involved_VVN
 in_PRP
 a_AT0
 scheme_NN1
@@ -20995,7 +20995,7 @@ emphasises_VVZ
 that_CJT
 if_CJS
 you_PNP
-feel_VVI
+feel_VVB
 frightened_AJ0
 you_PNP
 should_VM0
@@ -21066,7 +21066,7 @@ cat_NN1
 LOOK_VVB
 AT_PRP
 LIFE_NN1
-DIVIDE_VVB-NN1
+DIVIDE_NN1
 AND_CJC
 CONQUER_VVB
 Are_VBB
@@ -21230,7 +21230,7 @@ the_AT0
 divider_NN1
 cards_NN2
 headings_NN2
-Snacks_NN2-VVZ
+Snacks_VVZ
 Starters_NN2
 Main_AJ0
 Meals_NN2
@@ -21247,7 +21247,7 @@ I_PNP
 noted_VVN
 all_DT0
 their_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 foods_NN2
 and_CJC
 mine_PNP
@@ -21347,7 +21347,7 @@ whatever_DTQ
 other_AJ0
 information_NN1
 you_PNP
-feel_VVI
+feel_VVB
 would_VM0
 be_VBI
 helpful_AJ0
@@ -21383,8 +21383,8 @@ a_AT0
 new_AJ0
 section_NN1
 headed_VVN
-Freezer_NP0-NN1
-Stock_NP0-NN1
+Freezer_NN1
+Stock_NN1
 and_CJC
 compiled_VVN
 and_CJC
@@ -21434,8 +21434,8 @@ items_NN2
 not_XX0
 covered_VVN
 by_PRP
-Freezer_NP0-NN1
-Stock_NP0-NN1
+Freezer_NN1
+Stock_NN1
 I_PNP
 calculated_VVN
 their_DPS
@@ -21541,7 +21541,7 @@ on_PRP
 shopping_NN1
 day_NN1
 I_PNP
-tear_NN1-VVB
+tear_NN1
 out_AVP
 the_AT0
 first_ORD
@@ -21573,7 +21573,7 @@ back_AVP
 to_TO0
 the_AT0
 shops_NN2
-Granted_VVN-VVD
+Granted_VVN
 this_DT0
 system_NN1
 takes_VVZ
@@ -21663,22 +21663,22 @@ a_AT0
 refreshing_AJ0
 change_NN1
 SUNDAY_NP0
-STROLL_VVB-NN1
+STROLL_NN1
 Take_VVB
 the_AT0
 family_NN1
 for_PRP
 a_AT0
-walk_VVI
+walk_NN1
 on_PRP
 the_AT0
 wild_AJ0
 size_NN1
 Heinz_NP0
 Wildlife_NN1
-Walks_NN2-VVZ
+Walks_NN2
 Ebury_NP0
-Press_NN1-VVB
+Press_NN1
 \xc2\xa35.95_NN0
 is_VBZ
 being_VBG
@@ -21700,7 +21700,7 @@ Ring_NN1
 04868_CRD
 27269_CRD
 EASY_AJ0
-READING_NN1-NP0
+READING_NP0
 If_CJS
 a_AT0
 book_NN1
@@ -22002,7 +22002,7 @@ doing_VDG
 housework_NN1
 shopping_NN1
 and_CJC
-laundering_NN1-VVG
+laundering_NN1
 No_ITJ
 evening_NN1
 classes_NN2
@@ -22064,7 +22064,7 @@ appointments_NN2
 department_NN1
 booking_NN1
 car_NN1
-hire_VVI
+hire_NN1
 or_CJC
 reserving_VVG
 hotel_NN1
@@ -22093,7 +22093,7 @@ service_NN1
 or_CJC
 as_CJS
 a_AT0
-nursing_AJ0-NN1
+nursing_NN1
 aide_NN1
 If_CJS
 you_PNP
@@ -22155,7 +22155,7 @@ for_PRP
 a_AT0
 SHE_PNP
 Fresh_AJ0
-Start_VVB-NN1
+Start_NN1
 Course_NN1
 See_VVB
 Information_NN1
@@ -22335,7 +22335,7 @@ You_PNP
 'll_VM0
 need_VVB
 to_TO0
-spread_NN1
+spread_VVN
 your_DPS
 talents_NN2
 if_CJS
@@ -22358,7 +22358,7 @@ to_TO0
 Make_VVB
 Money_NN1
 From_PRP
-Writing_VVG-NN1
+Writing_NN1
 by_PRP
 Jennie_NP0
 Hawthorne_NP0
@@ -22679,7 +22679,7 @@ professional_AJ0
 exams_NN2
 If_CJS
 you_PNP
-feel_VVI
+feel_VVB
 you_PNP
 'd_VM0
 like_PRP
@@ -22704,7 +22704,7 @@ credits_NN2
 needed_VVN
 for_PRP
 a_AT0
-BA_NP0-NN1
+BA_NN1
 degree_NN1
 for_PRP
 people_NN0
@@ -22751,7 +22751,7 @@ areas_NN2
 for_PRP
 any_DT0
 reason_NN1
-Continuing_VVG-AJ0
+Continuing_VVG
 a_AT0
 correspondence_NN1
 course_NN1
@@ -22826,14 +22826,14 @@ at_PRP
 your_DPS
 local_AJ0
 college_NN1
-Jobcentre_NP0-NN1
+Jobcentre_NP0
 or_CJC
 educational_AJ0
 guidance_NN1
 centre_NN1
 SHE_PNP
 Fresh_AJ0
-Start_VVB-NN1
+Start_NN1
 Courses_NN2
 Write_VVB
 now_AV0
@@ -22841,7 +22841,7 @@ to_TO0
 SHE_PNP
 Magazine_NN1
 Fresh_AJ0
-Start_VVB-NN1
+Start_NN1
 72_CRD
 Broadwick_NP0
 Street_NP0
@@ -22849,7 +22849,7 @@ London_NP0
 W1V_UNC
 2BP_UNC
 Accountancy_NN1
-Approved_VVN
+Approved_AJ0
 Courses_NN2
 for_PRP
 Accountancy_NN1
@@ -22966,7 +22966,7 @@ most_AV0
 of_PRF
 us_PNP
 hold_VVI
-dear_ITJ
+dear_NN1
 Even_AV0
 when_CJS
 the_AT0
@@ -23181,7 +23181,7 @@ for_PRP
 your_DPS
 mate_NN1
 to_TO0
-feel_VVI
+feel_VVB
 and_CJC
 express_VVI
 feelings_NN2
@@ -23234,7 +23234,7 @@ one_CRD
 's_POS
 emotions_NN2
 often_AV0
-stems_VVZ-NN2
+stems_NN2
 from_PRP
 unresolved_AJ0
 childhood_NN1
@@ -23319,7 +23319,7 @@ attitudes_NN2
 towards_PRP
 extra-marital_AJ0
 sex_NN1
-relative_AJ0-NN1
+relative_AJ0
 to_TO0
 the_AT0
 size_NN1
@@ -23533,7 +23533,7 @@ him_PNP
 Does_VDZ
 your_DPS
 mate_NN1
-feel_VVI
+feel_VVB
 secure_VVI
 in_PRP
 himself_PNX
@@ -23568,7 +23568,7 @@ to_TO0
 himself_PNX
 Husbands_NN2
 who_PNQ
-feel_VVI
+feel_VVB
 insecure_AJ0
 about_PRP
 their_DPS
@@ -23910,15 +23910,15 @@ outside_PRP
 partners_NN2
 when_CJS
 they_PNP
-feel_VVI
+feel_VVB
 emotionally_AV0
-deprived_AJ0
+deprived_VVN
 men_NN2
 when_CJS
 they_PNP
-feel_VVI
+feel_VVB
 sexually_AV0
-deprived_AJ0
+deprived_VVN
 Husband_NN1
 and_CJC
 wife_NN1
@@ -23990,7 +23990,7 @@ Evans_NP0
 A_AT0
 partner_NN1
 may_VM0
-feel_VVI
+feel_VVB
 that_CJT
 an_AT0
 affair_NN1
@@ -24277,14 +24277,14 @@ is_VBZ
 important_AJ0
 Some_DT0
 couples_NN2
-dodge_VVB-NN1
+dodge_VVB
 the_AT0
 whole_AJ0
 issue_NN1
 of_PRF
 fidelity_NN1
 they_PNP
-feel_VVI
+feel_VVB
 uncomfortable_AJ0
 talking_VVG
 about_PRP
@@ -24452,7 +24452,7 @@ words_NN2
 make_VVI
 your_DPS
 partner_NN1
-feel_VVI
+feel_VVB
 important_AJ0
 and_CJC
 special_AJ0
@@ -24537,7 +24537,7 @@ revitalised_VVN
 and_CJC
 thoughts_NN2
 of_PRF
-straying_VVG-NN1
+straying_VVG
 are_VBB
 n't_XX0
 likely_AJ0
@@ -24617,7 +24617,7 @@ the_AT0
 TARTANS_NP0
 Plates_NN2
 tiles_NN2
-carpeting_VVG-NN1
+carpeting_VVG
 chairs_NN2
 everything_PNI
 in_PRP
@@ -24658,7 +24658,7 @@ the_AT0
 outside_PRP
 The_AT0
 old_AJ0
-faded_AJ0
+faded_VVN
 lettering_NN1
 on_PRP
 its_DPS
@@ -24851,7 +24851,7 @@ winding_AJ0
 staircase_NN1
 is_VBZ
 an_AT0
-orangey_NN1-AJ0
+orangey_NN1
 red_AJ0
 the_AT0
 kitchen_NN1
@@ -24905,7 +24905,7 @@ with_PRP
 a_AT0
 glaze_NN1
 and_CJC
-drag_VVI
+drag_NN1
 it_PNP
 over_PRP
 an_AT0
@@ -24915,7 +24915,7 @@ When_CJS
 dry_AJ0
 it_PNP
 is_VBZ
-sealed_AJ0
+sealed_VVN
 with_PRP
 a_AT0
 coat_NN1
@@ -24973,12 +24973,12 @@ at_PRP
 windows_NN2
 and_CJC
 even_AV0
-stretch_VVI
+stretch_NN1
 across_PRP
 the_AT0
 floor_NN1
 as_CJS
-carpeting_VVG-NN1
+carpeting_VVG
 Not_XX0
 an_AT0
 unusual_AJ0
@@ -25023,14 +25023,14 @@ the_AT0
 marks_NN2
 left_VVN
 by_PRP
-wee_AJ0-NN1
-Lachie_NP0-NN1
+wee_AJ0
+Lachie_NN1
 the_AT0
 Stewarts_NP0
 '_POS
 three-year-old_AJ0
 son_NN1
-Flying_AJ0-VVG
+Flying_VVG
 Colours_NN2
 Anne_NP0
 's_POS
@@ -25186,8 +25186,8 @@ her_DPS
 living_VVG
 room_NN1
 with_PRP
-wee_AJ0-NN1
-Lachie_NP0-NN1
+wee_AJ0
+Lachie_NN1
 just_AV0
 crawling_VVG
 out_AVP
@@ -25218,7 +25218,7 @@ made_VVN
 from_PRP
 Anta_NP0
 fabrics_NN2
-Left_AJ0-NN1
+Left_AJ0
 to_TO0
 tile_NN1
 a_AT0
@@ -25257,7 +25257,7 @@ tartan_AJ0
 floor_NN1
 Above_PRP
 Wee_VVB
-Lachie_NP0-NN1
+Lachie_NN1
 in_PRP
 the_AT0
 kitchen_NN1
@@ -25265,7 +25265,7 @@ where_AVQ
 a_AT0
 deliberately_AV0
 random_AJ0
-wash_VVI
+wash_NN1
 of_PRF
 blue_AJ0
 glaze_NN1
@@ -25355,7 +25355,7 @@ are_VBB
 on_PRP
 the_AT0
 mantelpiece_NN1
-Highland_NN1-NP0
+Highland_NN1
 THINGS_NN2
 If_CJS
 you_PNP
@@ -25376,7 +25376,7 @@ suggestions_NN2
 for_PRP
 your_DPS
 home_NN1
-SHOPPING_VVG-NN1
+SHOPPING_VVG
 FOR_PRP
 STYLE_NN1
 CHILD_NN1
@@ -25445,7 +25445,7 @@ BOIL_NN1
 For_PRP
 those_DT0
 who_PNQ
-shun_VVI
+shun_VVB
 the_AT0
 electric_AJ0
 jug_NN1
@@ -25534,7 +25534,7 @@ on_PRP
 789721_CRD
 CRAFTS_NN2
 ON_PRP
-SHOW_NN1-VVB
+SHOW_NN1
 Ceramics_NN2
 jewellery_NN1
 glass_NN1
@@ -25547,7 +25547,7 @@ of_PRF
 Britain_NP0
 's_POS
 top_NN1
-craftspeople_VVB-NN1
+craftspeople_NN1
 will_VM0
 be_VBI
 on_PRP
@@ -25643,7 +25643,7 @@ but_CJC
 elegant_AJ0
 There_EX0
 are_VBB
-carved_AJ0
+carved_VVN
 wooden_AJ0
 picture_NN1
 frames_NN2
@@ -25835,7 +25835,7 @@ measures_NN2
 by_PRP
 105cm_NN0
 Tempted_VVN
-Turn_VVB-NN1
+Turn_VVB
 to_TO0
 page_NN1
 183_CRD
@@ -25915,7 +25915,7 @@ trendiness_NN1
 SHE_PNP
 FASHION_NN1
 AUTUMN_NN1
-Sonata_NP0-NN1
+Sonata_NP0
 Autumn_NN1
 is_VBZ
 a_AT0
@@ -25976,7 +25976,7 @@ SISTER_NN1
 Folds_NN2
 of_PRF
 rich_AJ0
-berry-coloured_AJ0-NN1
+berry-coloured_NN1
 tweed_NN1
 make_VVI
 a_AT0
@@ -25986,7 +25986,7 @@ for_PRP
 autumn_NN1
 style_NN1
 This_DT0
-shawl-collared_AJ0-NN1
+shawl-collared_AJ0
 swing_NN1
 coat_NN1
 falls_VVZ
@@ -26033,7 +26033,7 @@ with_PRP
 autumnal_AJ0
 browns_NN2
 A_AT0
-cropped_AJ0
+cropped_VVN
 and_CJC
 fitted_VVN
 jacket_NN1
@@ -26060,7 +26060,7 @@ is_VBZ
 this_DT0
 season_NN1
 's_POS
-re-discovered_AJ0-VVN
+re-discovered_VVN
 fabric_NN1
 Here_AV0
 softest_AJS
@@ -26114,7 +26114,7 @@ palette_NN1
 with_PRP
 shades_NN2
 of_PRF
-citrus_NN1-AJ0
+citrus_AJ0
 and_CJC
 spice_NN1
 then_AV0
@@ -26264,7 +26264,7 @@ THE_AT0
 GREENWOOD_NP0
 TREE_NN1
 The_AT0
-English_AJ0-NN1
+English_AJ0
 country_NN1
 look_VVI
 is_VBZ
@@ -26276,7 +26276,7 @@ fitted_VVN
 suit_NN1
 with_PRP
 its_DPS
-Edwardian-style_AJ0-NN1
+Edwardian-style_AJ0
 walking_VVG
 skirt_NN1
 topped_VVN
@@ -26334,7 +26334,7 @@ for_PRP
 town_NN1
 ENTERTAINING_AJ0
 PEOPLE_NN0
-TALK_NN1-VVB
+TALK_NN1
 TO_PRP
 SHE_PNP
 AN_AT0
@@ -26427,7 +26427,7 @@ smaller_AJC
 than_CJS
 Versailles_NP0
 and_CJC
-banked_AJ0
+banked_VVD
 by_PRP
 more_AV0
 floral_AJ0
@@ -26444,7 +26444,7 @@ that_CJT
 the_AT0
 Dorchester_NP0
 is_VBZ
-closed_VVD
+closed_VVN
 for_PRP
 redecoration_NN1
 Like_PRP
@@ -26483,7 +26483,7 @@ than_CJS
 a_AT0
 trial_NN1
 Madge_NP0
-Allsop_NP0-NN1
+Allsop_NP0
 had_VHD
 just_AV0
 crept_VVD
@@ -26526,7 +26526,7 @@ Edna_NP0
 glaring_AJ0
 after_PRP
 she_PNP
-closed_VVD
+closed_VVN
 the_AT0
 door_NN1
 and_CJC
@@ -26657,7 +26657,7 @@ back_AVP
 on_PRP
 the_AT0
 streets_NN2
-Heaving_VVG-AJ0
+Heaving_VVG
 bosom_NN1
 Dame_NP0
 Edna_NP0
@@ -26686,7 +26686,7 @@ pursed_VVD
 her_DPS
 lips_NN2
 the_AT0
-Coalport_NN1-NP0
+Coalport_NN1
 cup_NN1
 of_PRF
 Earl_NN1
@@ -26695,7 +26695,7 @@ halfway_AV0
 to_TO0
 her_DPS
 vermilioned_AJ0
-slash_VVI
+slash_NN1
 of_PRF
 a_AT0
 mouth_NN1
@@ -26807,7 +26807,7 @@ I_PNP
 had_VHD
 also_AV0
 just_AV0
-complimented_VVD
+complimented_VVN
 her_DPS
 on_PRP
 her_DPS
@@ -26817,7 +26817,7 @@ she_PNP
 said_VVD
 you_PNP
 'll_VM0
-notice_VVI
+notice_NN1
 I_PNP
 'm_VBB
 wearing_VVG
@@ -26841,7 +26841,7 @@ a_AT0
 beautiful_AJ0
 cr\xc3\xaape_NN1
 de_NP0
-chine_NN1-VVB
+chine_NN1
 with_PRP
 a_AT0
 ruffled_VVD
@@ -26879,7 +26879,7 @@ back_AVP
 and_CJC
 I_PNP
 just_AV0
-float_VVI
+float_VVB
 about_PRP
 the_AT0
 place_NN1
@@ -27000,10 +27000,10 @@ mere_AJ0
 Commonwealth_NN1
 ties_NN2
 A_AT0
-dear_ITJ
+dear_NN1
 little_AJ0
 woman_NN1
-Touching_VVG-AJ0
+Touching_VVG
 really_AV0
 Just_AV0
 a_AT0
@@ -27036,7 +27036,7 @@ we_PNP
 discussed_VVN
 Diana_NP0
 's_POS
-stretch_VVI
+stretch_NN1
 marks_NN2
 I_PNP
 make_VVI
@@ -27045,7 +27045,7 @@ my_DPS
 own_DT0
 recipe_NN1
 for_PRP
-stretch_VVI
+stretch_NN1
 mark_NN1
 ointment_NN1
 and_CJC
@@ -27061,11 +27061,11 @@ Funny_AJ0
 thing_NN1
 is_VBZ
 Madge_NP0
-Allsop_NP0-NN1
+Allsop_NP0
 is_VBZ
 covered_VVN
 in_PRP
-stretch_VVI
+stretch_NN1
 marks_NN2
 and_CJC
 she_PNP
@@ -27096,17 +27096,17 @@ in_PRP
 my_DPS
 problems_NN2
 with_PRP
-Valmay_NP0-NN1
+Valmay_NN1
 Dame_NP0
 Edna_NP0
 's_POS
 radical_AJ0
 thinking_VVG
 daughter_NN1
-Valmay_NP0-NN1
+Valmay_NN1
 is_VBZ
 a_AT0
-DELINQUENT_NN1-AJ0
+DELINQUENT_NN1
 no_AT0
 doubt_NN1
 about_PRP
@@ -27115,7 +27115,7 @@ and_CJC
 many_DT0
 women_NN2
 will_VM0
-feel_VVI
+feel_VVB
 sorry_AJ0
 for_PRP
 me_PNP
@@ -27165,7 +27165,7 @@ little_AJ0
 friend_NN1
 Mohammed_NP0
 Al_NP0
-Fayed_VVD-AJ0
+Fayed_AJ0
 who_PNQ
 has_VHZ
 a_AT0
@@ -27445,7 +27445,7 @@ you_PNP
 're_VBB
 supposed_AJ0
 to_TO0
-feel_VVI
+feel_VVB
 this_DT0
 or_CJC
 that_CJT
@@ -27543,7 +27543,7 @@ were_VBD
 filled_VVN
 with_PRP
 tears_NN2
-Filled_VVD-AJ0
+Filled_AJ0
 with_PRP
 tears_NN2
 I_PNP
@@ -27706,7 +27706,7 @@ foremost_AJS
 she_PNP
 is_VBZ
 a_AT0
-caring_VVG-NN1
+caring_NN1
 sharing_VVG
 woman_NN1
 She_PNP
@@ -27754,7 +27754,7 @@ spelt_VVN
 with_PRP
 a_AT0
 k_ZZ0
-dear_ITJ
+dear_NN1
 and_CJC
 we_PNP
 were_VBD
@@ -27833,7 +27833,7 @@ a_AT0
 way_NN1
 I_PNP
 was_VBD
-dressing_VVG
+dressing_NN1
 the_AT0
 Prime_AJ0
 Minister_NN1
@@ -27843,7 +27843,7 @@ Mrs_NP0
 Lawson_NP0
 Her_DPS
 First_ORD
-Experience_NN1-VVB
+Experience_NN1
 Then_AV0
 Kenny_NP0
 arrived_VVD
@@ -27869,7 +27869,7 @@ was_VBD
 lying_VVG
 there_EX0
 I_PNP
-feel_VVI
+feel_VVB
 Dame_NP0
 Edna_NP0
 I_PNP
@@ -27925,7 +27925,7 @@ and_CJC
 about_PRP
 her_DPS
 First_ORD
-Experience_NN1-VVB
+Experience_NN1
 I_PNP
 'll_VM0
 say_VVI
@@ -27938,7 +27938,7 @@ she_PNP
 remembered_VVD
 it_PNP
 vividly_AV0
-Remembered_VVD-VVN
+Remembered_VVN
 it_PNP
 VIVIDLY_AV0
 as_CJS
@@ -28044,7 +28044,7 @@ for_PRP
 the_AT0
 Dame_NP0
 Poor_AJ0
-Norm_NN1-NP0
+Norm_NN1
 's_POS
 passing_VVG
 was_VBD
@@ -28057,7 +28057,7 @@ found_VVD
 shocking_AJ0
 goings-on_NN2
 at_PRP
-Dunraven_NP0-NN1
+Dunraven_NN1
 the_AT0
 Twilight_NN1
 Home_NN1
@@ -28174,17 +28174,17 @@ It_PNP
 's_POS
 like_PRP
 some_DT0
-clip_NN1-VVB
+clip_NN1
 from_PRP
 Prisoner_NN1
 Cell_NN1
-Block_NN1-VVB
+Block_NN1
 H_NP0
 This_DT0
 odd_AJ0
 couple_NN1
 Thelma_NP0
-Choate_NP0-NN1
+Choate_NN1
 and_CJC
 her_DPS
 friend_NN1
@@ -28238,7 +28238,7 @@ He_PNP
 was_VBD
 called_VVN
 the_AT0
-Butcher_NP0-NN1
+Butcher_NP0
 of_PRF
 Borneo_NP0
 during_PRP
@@ -28547,7 +28547,7 @@ was_VBD
 talking_VVG
 to_TO0
 Ursula_NP0
-Andress_NP0-NN1
+Andress_NP0
 the_AT0
 other_AJ0
 day_NN1
@@ -28627,7 +28627,7 @@ even_AV0
 a_AT0
 person_NN1
 totally_AV0
-incapacitated_VVN-AJ0
+incapacitated_VVN
 because_CJS
 at_PRP
 least_AV0
@@ -28653,7 +28653,7 @@ two_CRD
 yourself_PNX
 I_PNP
 bought_VVN
-Norm_NN1-NP0
+Norm_NN1
 the_AT0
 most_AV0
 beautiful_AJ0
@@ -28684,7 +28684,7 @@ bought_VVN
 him_PNP
 those_DT0
 Janet_NP0
-Reger_NP0-NN1
+Reger_NN1
 nighties_NN2
 but_CJC
 I_PNP
@@ -28698,7 +28698,7 @@ chance_NN1
 to_TO0
 wear_VVI
 them_PNP
-Norm_NN1-NP0
+Norm_NN1
 's_POS
 pyjamas_NN2
 We_PNP
@@ -28731,7 +28731,7 @@ bedclothes_NN2
 somewhere_AV0
 When_CJS
 my_DPS
-Norm_NN1-NP0
+Norm_NN1
 passed_VVN
 people_NN0
 descended_VVN
@@ -28743,7 +28743,7 @@ locusts_NN2
 I_PNP
 think_VVB
 probably_AV0
-Norm_NN1-NP0
+Norm_NN1
 's_POS
 pyjamas_NN2
 will_VM0
@@ -28780,7 +28780,7 @@ their_DPS
 who_PNQ
 lacked_VVD
 her_DPS
-drive_VVI
+drive_NN1
 to_TO0
 embark_VVI
 on_PRP
@@ -28820,8 +28820,8 @@ a_AT0
 social_AJ0
 anthropologist_NN1
 swami_NN1
-diseuse_VVB-NN1
-chanteuse_VVB-NN1
+diseuse_VVB
+chanteuse_VVB
 children_NN2
 's_POS
 book_NN1
@@ -28850,14 +28850,14 @@ flung_VVD
 them_PNP
 in_PRP
 the_AT0
-marbleised_VVN-AJ0
+marbleised_AJ0
 pedal_NN1
 bin_NN1
 well_AV0
 it_PNP
 was_VBD
 n't_XX0
-marbleised_VVN-AJ0
+marbleised_AJ0
 then_AV0
 but_CJC
 it_PNP
@@ -28971,15 +28971,15 @@ a_AT0
 beautiful_AJ0
 home_NN1
 in_PRP
-Montreux_NP0-NN1
+Montreux_NN1
 a_AT0
 villa_NN1
 in_PRP
-Mustique_NP0-NN1
+Mustique_NN1
 a_AT0
 mansion_NN1
 in_PRP
-Malibu_NP0-NN1
+Malibu_NN1
 and_CJC
 of_PRF
 course_NN1
@@ -29003,7 +29003,7 @@ women_NN2
 reading_NN1
 this_DT0
 to_TO0
-feel_VVI
+feel_VVB
 there_EX0
 is_VBZ
 hope_VVB
@@ -29060,17 +29060,17 @@ anything_PNI
 other_AJ0
 than_CJS
 an_AT0
-amateur_AJ0-NN1
+amateur_AJ0
 And_CJC
 I_PNP
-feel_VVI
+feel_VVB
 that_CJT
 's_POS
 part_NN1
 of_PRF
 my_DPS
 charm_NN1
-Show_NN1-VVB
+Show_NN1
 me_PNP
 a_AT0
 professional_AJ0
@@ -29147,7 +29147,7 @@ with_PRP
 Madge_NP0
 People_NN0
 who_PNQ
-feel_VVI
+feel_VVB
 sorry_AJ0
 for_PRP
 my_DPS
@@ -29286,7 +29286,7 @@ Spanish_AJ0
 From_PRP
 Andalucia_NP0
 Purification_NN1
-Lorca_NP0-NN1
+Lorca_NP0
 after_PRP
 the_AT0
 poet_NN1
@@ -29327,7 +29327,7 @@ said_VVD
 the_AT0
 megastar_NN1
 of_PRF
-Moonee_NN1-NP0
+Moonee_NP0
 Ponds_NN2
 Life_NN1
 's_POS
@@ -29358,7 +29358,7 @@ Macmillan_NP0
 \xc2\xa312.95_NN0
 A_AT0
 revolutionary_AJ0
-French_AJ0-NN1
+French_AJ0
 number_NN1
 with_PRP
 a_AT0
@@ -29434,7 +29434,7 @@ stretch-mark_AJ0
 ointment_NN1
 but_CJC
 I_PNP
-feel_VVI
+feel_VVB
 I_PNP
 have_VHB
 to_TO0
@@ -29624,7 +29624,7 @@ Perriam_NP0
 Ruth_NP0
 Rendell_NP0
 Maeve_NP0
-Binchy_NP0-NN1
+Binchy_NP0
 Malcolm_NP0
 Bradbury_NP0
 et_UNC
@@ -29762,7 +29762,7 @@ few_DT0
 stories_NN2
 by_PRP
 your_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 authors_NN2
 before_PRP
 you_PNP
@@ -29875,7 +29875,7 @@ is_VBZ
 completely_AV0
 different_AJ0
 Sylvia_NP0
-Plath_NP0-NN1
+Plath_NN1
 once_AV0
 said_VVD
 that_CJT
@@ -29951,7 +29951,7 @@ best_AJS
 current_AJ0
 practitioners_NN2
 KINGSLEY_NP0
-AMIS_NP0-NN1
+AMIS_NN1
 Novelist_NN1
 Lucky_AJ0
 Jim_NP0
@@ -30079,7 +30079,7 @@ a_AT0
 short_AJ0
 story_NN1
 is_VBZ
-self-indulgence_NN1-AJ0
+self-indulgence_NN1
 One_CRD
 simple_AJ0
 rule_NN1
@@ -30407,7 +30407,7 @@ KATE_NP0
 PULLINGER_NN1
 Twenty-seven_CRD
 Canadian_AJ0
-enfant_UNC
+enfant_AJ0
 terrible_AJ0
 who_PNQ
 came_VVD
@@ -30422,13 +30422,13 @@ smell_NN1
 and_CJC
 the_AT0
 dirt_NN1
-history-dirt_NN1-AJ0
+history-dirt_NN1
 Author_NN1
 of_PRF
 the_AT0
 collection_NN1
 Tiny_AJ0
-Lies_NN2-VVZ
+Lies_NN2
 Cape_NP0
 \xc2\xa39.95_NN0
 Kate_NP0
@@ -30553,7 +30553,7 @@ the_AT0
 short_AJ0
 story_NN1
 I_PNP
-feel_VVI
+feel_VVB
 the_AT0
 short_AJ0
 story_NN1
@@ -30677,7 +30677,7 @@ Good_AJ0
 copy_NN1
 too_AV0
 MAEVE_NP0
-BINCHY_NP0-NN1
+BINCHY_NP0
 Best-selling_AJ0
 novelist_NN1
 short_AJ0
@@ -30891,16 +30891,16 @@ they_PNP
 do_VDB
 how_AVQ
 they_PNP
-feel_VVI
+feel_VVB
 My_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 story_NN1
 of_PRF
 my_DPS
 own_DT0
 is_VBZ
 Father_NN1
-Hurley_NN1
+Hurley_NP0
 from_PRP
 Civil_AJ0
 Weddings_NN2
@@ -30988,7 +30988,7 @@ well_AV0
 as_CJS
 the_AT0
 long_AJ0
-haul_VVI
+haul_NN1
 Ruth_NP0
 is_VBZ
 famous_AJ0
@@ -31000,7 +31000,7 @@ and_CJC
 crime-plus_AJ0
 novels_NN2
 Her_DPS
-Collected_VVN-VVD
+Collected_AJ0
 Short_AJ0
 Stories_NN2
 are_VBB
@@ -31154,7 +31154,7 @@ the_AT0
 garden_NN1
 path_NN1
 In_PRP
-Dying_VVG-AJ0
+Dying_AJ0
 Happy_AJ0
 which_DTQ
 is_VBZ
@@ -31516,12 +31516,12 @@ Literary_AJ0
 Editor_NN1
 of_PRF
 the_AT0
-Independent_AJ0
+Independent_NN1
 Kate_NP0
 Figes_NP0
 from_PRP
 Pandora_NP0
-Press_NN1-VVB
+Press_NN1
 and_CJC
 SHE_PNP
 's_POS
@@ -31903,12 +31903,12 @@ Master_NN1
 in_PRP
 Schoolgirl_NN1
 Sex_NN1
-Romps_NN2-VVZ
+Romps_VVZ
 is_VBZ
 a_AT0
 hardly_AV0
-tabloid_AJ0-NN1
-perennial_AJ0-NN1
+tabloid_AJ0
+perennial_AJ0
 But_CJC
 the_AT0
 shock_NN1
@@ -32156,7 +32156,7 @@ would_VM0
 have_VHB
 a_AT0
 quick_AJ0
-feel_VVI
+feel_VVB
 while_CJS
 helping_VVG
 girls_NN2
@@ -32176,9 +32176,9 @@ against_PRP
 girls_NN2
 and_CJC
 generally_AV0
-leer_VVB-NN1
+leer_NN1
 and_CJC
-lech_NN1-VVB
+lech_NN1
 There_EX0
 were_VBD
 cases_NN2
@@ -32286,7 +32286,7 @@ pushed_VVD
 under_PRP
 the_AT0
 carpet_NN1
-Fear_NN1-VVB
+Fear_NN1
 of_PRF
 retribution_NN1
 It_PNP
@@ -32307,7 +32307,7 @@ to_TO0
 surface_NN1
 publicly_AV0
 Most_DT0
-Chief_NP0
+Chief_NN1
 Education_NN1
 Officers_NN2
 say_VVI
@@ -32394,7 +32394,7 @@ to_TO0
 account_NN1
 Practically_AV0
 everybody_PNI
-involved_AJ0
+involved_VVN
 has_VHZ
 a_AT0
 vested_VVN
@@ -32403,7 +32403,7 @@ in_PRP
 making_VVG
 the_AT0
 child_NN1
-drop_VVI
+drop_NN1
 her_DPS
 claim_NN1
 The_AT0
@@ -32573,7 +32573,7 @@ this_DT0
 stage_NN1
 more_AV0
 girls_NN2
-drop_VVI
+drop_NN1
 out_AVP
 for_PRP
 fear_NN1
@@ -32596,7 +32596,7 @@ claims_NN2
 In_PRP
 a_AT0
 straight_AV0
-word-against-word_AJ0-NN1
+word-against-word_NN1
 contest_NN1
 the_AT0
 girls_NN2
@@ -32628,7 +32628,7 @@ the_AT0
 ear_NN1
 of_PRF
 the_AT0
-offending_AJ0-NN1
+offending_AJ0
 master_NN1
 Depending_VVG
 on_PRP
@@ -32654,11 +32654,11 @@ elsewhere_AV0
 Only_AV0
 when_CJS
 the_AT0
-Chief_NP0
+Chief_NN1
 Education_NN1
 Officer_NN1
 becomes_VVZ
-involved_AJ0
+involved_VVN
 does_VDZ
 the_AT0
 case_NN1
@@ -32710,7 +32710,7 @@ national_AJ0
 newspapers_NN2
 included_VVD
 a_AT0
-French_AJ0-NN1
+French_AJ0
 master_NN1
 who_PNQ
 had_VHD
@@ -32778,7 +32778,7 @@ and_CJC
 libidinous_AJ0
 practices_NN2
 against_PRP
-ten-_NN1-AJ0
+ten-_NN1
 and_CJC
 11-year_AJ0
 old_AJ0
@@ -33172,7 +33172,7 @@ his_DPS
 car_NN1
 The_AT0
 gymslip_NN1
-Lolita_NP0-NN1
+Lolita_NP0
 is_VBZ
 not_XX0
 entirely_AV0
@@ -33210,7 +33210,7 @@ become_VVI
 a_AT0
 devastating_AJ0
 problem_NN1
-PAT_NN1-NP0
+PAT_NP0
 officials_NN2
 say_VVI
 the_AT0
@@ -33351,7 +33351,7 @@ and_CJC
 his_DPS
 colleagues_NN2
 in_PRP
-PAT_NN1-NP0
+PAT_NP0
 seem_VVI
 to_TO0
 think_VVB
@@ -33907,7 +33907,7 @@ selection_NN1
 from_PRP
 the_AT0
 very_AV0
-varied_AJ0
+varied_VVN
 past-life_AJ0
 experiences_NN2
 of_PRF
@@ -33960,7 +33960,7 @@ that_CJT
 there_EX0
 was_VBD
 a_AT0
-missing_VVG-AJ0
+missing_VVG
 link_NN1
 which_DTQ
 meant_VVD
@@ -34021,7 +34021,7 @@ that_CJT
 I_PNP
 cam_NN1
 to_TO0
-feel_VVI
+feel_VVB
 that_CJT
 humans_NN2
 were_VBD
@@ -34067,7 +34067,7 @@ had_VHD
 These_DT0
 were_VBD
 very_AV0
-varied_AJ0
+varied_VVN
 According_VVG
 to_TO0
 these_DT0
@@ -34344,7 +34344,7 @@ in_PRP
 one_CRD
 of_PRF
 the_AT0
-Balkan_AJ0-NN1
+Balkan_AJ0
 countries_NN2
 where_AVQ
 slaves_NN2
@@ -34377,7 +34377,7 @@ One_CRD
 poor_AJ0
 man_NN1
 was_VBD
-bleeding_VVG-AJ0
+bleeding_AJ0
 to_TO0
 death_NN1
 and_CJC
@@ -34442,7 +34442,7 @@ onto_PRP
 a_AT0
 sickle_NN1
 This_DT0
-ruptured_VVD-AJ0
+ruptured_VVD
 my_DPS
 left_VVN
 kidney_NN1
@@ -34558,7 +34558,7 @@ consulted_VVN
 in_PRP
 Canterbury_NP0
 After_PRP
-consulting_AJ0-VVG
+consulting_VVG
 this_DT0
 same_DT0
 healer_NN1
@@ -34595,7 +34595,7 @@ past_NN1
 which_DTQ
 are_VBB
 blocking_VVG
-present_AJ0-NN1
+present_AJ0
 progress_NN1
 or_CJC
 happiness_NN1
@@ -34693,13 +34693,13 @@ talking_VVG
 about_PRP
 her_DPS
 friend_NN1
-Dohti_NP0-NN1
+Dohti_NN1
 Mrs_NP0
 Herbert_NP0
 naturally_AV0
 thought_VVD
 that_CJT
-Dohti_NP0-NN1
+Dohti_NN1
 was_VBD
 an_AT0
 imaginary_AJ0
@@ -34746,7 +34746,7 @@ she_PNP
 told_VVD
 us_PNP
 that_CJT
-Dohti_NP0-NN1
+Dohti_NN1
 lives_NN2
 in_PRP
 a_AT0
@@ -34784,7 +34784,7 @@ carried_VVN
 on_PRP
 talking_VVG
 about_PRP
-Dohti_NP0-NN1
+Dohti_NN1
 for_PRP
 around_PRP
 six_CRD
@@ -34821,7 +34821,7 @@ gypsies_NN2
 and_CJC
 discovered_VVN
 that_CJT
-Dohti_NP0-NN1
+Dohti_NN1
 was_VBD
 an_AT0
 old_AJ0
@@ -34859,7 +34859,7 @@ doctor_NN1
 still_AV0
 vaguely_AV0
 remembers_VVZ
-Dohti_NP0-NN1
+Dohti_NN1
 and_CJC
 according_VVG
 to_TO0
@@ -34914,7 +34914,7 @@ and_CJC
 reincarnation_NN1
 A_AT0
 sad_AJ0
-yearning_VVG
+yearning_NN1
 Kathryn_NP0
 Cullen_NP0
 of_PRF
@@ -34969,7 +34969,7 @@ turns_VVZ
 over_PRP
 and_CJC
 I_PNP
-feel_VVI
+feel_VVB
 quite_AV0
 depressed_AJ0
 When_CJS
@@ -35056,13 +35056,13 @@ that_CJT
 at_PRP
 times_NN2
 I_PNP
-feel_VVI
+feel_VVB
 restless_AJ0
 a_AT0
 sort_NN1
 of_PRF
 sad_AJ0
-yearning_VVG
+yearning_NN1
 for_PRP
 what_DTQ
 could_VM0
@@ -35455,12 +35455,12 @@ published_VVN
 on_PRP
 September_NP0
 28_CRD
-Piatkus_NP0-NN1
+Piatkus_NP0
 Books_NN2
 \xc2\xa310.95_NN0
 THE_AT0
 EARTH_NN1
-MOVED_VVN-VVD
+MOVED_VVD
 PACO_NP0
 RABANNE_NP0
 below_AV0
@@ -35480,7 +35480,7 @@ two_CRD
 lives_NN2
 in_PRP
 his_DPS
-present_AJ0-NN1
+present_AJ0
 incarnation_NN1
 that_CJT
 of_PRF
@@ -35829,8 +35829,8 @@ Rabanne_NP0
 but_CJC
 Fransisco_NP0
 Rabaneda_NP0
-Cuervo_NP0-NN1
-Cuervo_NP0-NN1
+Cuervo_NP0
+Cuervo_NP0
 is_VBZ
 the_AT0
 Spanish_AJ0
@@ -36023,7 +36023,7 @@ was_VBD
 good_AJ0
 news_NN1
 for_PRP
-START_VVI
+START_NN1
 Skin_NN1
 Treatment_NN1
 and_CJC
@@ -36039,7 +36039,7 @@ a_AT0
 donation_NN1
 to_TO0
 help_VVI
-START_VVI
+START_NN1
 in_PRP
 their_DPS
 research_NN1
@@ -36178,15 +36178,15 @@ of_PRF
 your_DPS
 hand_NN1
 and_CJC
-pat_VVI
+pat_NN1
 the_AT0
 powder_NN1
 puff_NN1
 into_PRP
 it_PNP
-Press_NN1-VVB
+Press_NN1
 and_CJC
-pat_VVI
+pat_NN1
 onto_PRP
 the_AT0
 face_NN1
@@ -36351,7 +36351,7 @@ are_VBB
 good_AJ0
 for_PRP
 day_NN1
-Cover_VVB-NN1
+Cover_NN1
 the_AT0
 lid_NN1
 with_PRP
@@ -36534,7 +36534,7 @@ Daly_NP0
 centre_NN1
 surrounded_VVN
 by_PRP
-clockwise_AV0-AJ0
+clockwise_AJ0
 from_PRP
 top_NN1
 right_NN1
@@ -36616,7 +36616,7 @@ with_PRP
 heated_AJ0
 appliances_NN2
 harsh_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 processes_NN2
 and_CJC
 using_VVG
@@ -36813,7 +36813,7 @@ right_NN1
 proportions_NN2
 Technology_NN1
 has_VHZ
-improved_AJ0
+improved_VVN
 our_DPS
 hairstyles_NN2
 but_CJC
@@ -36861,7 +36861,7 @@ an_AT0
 attachment_NN1
 such_DT0
 as_CJS
-Braun_NP0-NN1
+Braun_NP0
 's_POS
 DIF2_UNC
 Diffuser_NN1
@@ -36998,7 +36998,7 @@ cause_NN1
 the_AT0
 hair_NN1
 to_TO0
-fall_VVI
+fall_NN1
 out_AVP
 it_PNP
 will_VM0
@@ -37125,7 +37125,7 @@ her_DPS
 hair_NN1
 has_VHZ
 been_VBN
-thinning_VVG-AJ0
+thinning_VVG
 this_DT0
 can_VM0
 be_VBI
@@ -37167,9 +37167,9 @@ of_PRF
 hormones_NN2
 particularly_AV0
 oestrogen_NN1
-Scalp_NN1-VVB
+Scalp_VVB
 conditions_NN2
-Scalp_NN1-VVB
+Scalp_VVB
 conditions_NN2
 can_VM0
 range_NN1
@@ -37209,7 +37209,7 @@ one_CRD
 cause_NN1
 is_VBZ
 stress_NN1
-Stress_NN1-VVB
+Stress_NN1
 is_VBZ
 always_AV0
 responsible_AJ0
@@ -37326,7 +37326,7 @@ eggs_NN2
 nuts_NN2
 bananas_NN2
 and_CJC
-fatty_AJ0-NN1
+fatty_AJ0
 foods_NN2
 Perms_NN2
 The_AT0
@@ -37387,7 +37387,7 @@ part_NN1
 of_PRF
 the_AT0
 process_NN1
-Perming_VVG-AJ0
+Perming_AJ0
 long_AJ0
 hair_NN1
 can_VM0
@@ -37408,7 +37408,7 @@ it_PNP
 should_VM0
 only_AV0
 be_VBI
-permed_VVN
+permed_AJ0
 when_CJS
 twisted_VVD
 and_CJC
@@ -37532,7 +37532,7 @@ a_AT0
 specialised_AJ0
 range_NN1
 for_PRP
-permed_VVN
+permed_AJ0
 hair_NN1
 such_DT0
 as_CJS
@@ -37540,7 +37540,7 @@ Lamaur_NP0
 or_CJC
 L'Or\xc3\xa9al_NP0
 's_POS
-Energance_NP0-NN1
+Energance_NN1
 Conditioners_NN2
 All_DT0
 types_NN2
@@ -37568,7 +37568,7 @@ are_VBB
 made_VVN
 up_AVP
 or_CJC
-waxes_NN2-VVZ
+waxes_NN2
 oils_NN2
 and_CJC
 polymers_NN2
@@ -37701,7 +37701,7 @@ the_AT0
 cuticles_NN2
 making_VVG
 them_PNP
-lie_VVI
+lie_VVB
 flat_AJ0
 to_TO0
 reflect_VVI
@@ -37709,7 +37709,7 @@ more_AV0
 light_NN1
 and_CJC
 add_VVI
-shine_VVI
+shine_NN1
 It_PNP
 also_AV0
 lubricates_VVZ
@@ -37738,11 +37738,11 @@ the_AT0
 natural_AJ0
 strength_NN1
 and_CJC
-shine_VVI
+shine_NN1
 of_PRF
 your_DPS
 hair_NN1
-Neutrogena_NN1-NP0
+Neutrogena_NN1
 offer_VVI
 a_AT0
 simple_AJ0
@@ -37751,7 +37751,7 @@ after_PRP
 rinsing_VVG
 off_AVP
 conditioner_NN1
-squeeze_VVI
+squeeze_NN1
 out_AVP
 excess_NN1
 moisture_NN1
@@ -37887,7 +37887,7 @@ thus_AV0
 causing_VVG
 friction_NN1
 and_CJC
-frizz_NN1-VVB
+frizz_NN1
 Silicone_NN1
 cancels_VVZ
 out_AVP
@@ -37909,7 +37909,7 @@ adding_VVG
 smoothness_NN1
 and_CJC
 promoting_VVG
-shine_VVI
+shine_NN1
 Conventional_AJ0
 conditioners_NN2
 tend_VVB
@@ -38009,7 +38009,7 @@ the_AT0
 hair_NN1
 making_VVG
 it_PNP
-feel_VVI
+feel_VVB
 softer_AJC
 but_CJC
 it_PNP
@@ -38030,7 +38030,7 @@ necessarily_AV0
 need_VVB
 a_AT0
 frequent_AJ0
-wash_VVI
+wash_NN1
 shampoo_NN1
 As_CJS
 a_AT0
@@ -38056,7 +38056,7 @@ standard_NN1
 that_CJT
 you_PNP
 can_VM0
-wash_VVI
+wash_NN1
 your_DPS
 hair_NN1
 daily_AJ0
@@ -38080,7 +38080,7 @@ and_CJC
 fact_NN1
 sheets_NN2
 available_AJ0
-Contact_VVB-NN1
+Contact_VVB
 him_PNP
 at_PRP
 Philip_NP0
@@ -38110,7 +38110,7 @@ provide_VVI
 special_AJ0
 aftercare_NN1
 for_PRP
-permed_VVN
+permed_AJ0
 and_CJC
 coloured_AJ0
 hair_NN1
@@ -38159,7 +38159,7 @@ whether_CJS
 your_DPS
 hair_NN1
 is_VBZ
-permed_VVN
+permed_AJ0
 or_CJC
 coloured_AJ0
 to_TO0
@@ -38212,7 +38212,7 @@ to_TO0
 counteract_VVI
 the_AT0
 problem_NN1
-Selsun_VVB-NN1
+Selsun_NN1
 long_AJ0
 renowned_AJ0
 for_PRP
@@ -38234,7 +38234,7 @@ have_VHB
 1000_CRD
 bottles_NN2
 of_PRF
-Selsun_VVB-NN1
+Selsun_NN1
 Soft_AJ0
 Conditioner_NN1
 to_TO0
@@ -38450,7 +38450,7 @@ for_PRP
 supper_NN1
 you_PNP
 gaily_AV0
-cry_VVI
+cry_NN1
 not_XX0
 wishing_VVG
 to_TO0
@@ -38524,7 +38524,7 @@ last_ORD
 year_NN1
 's_POS
 Christmas_NN1
-hamper_VVI
+hamper_NN1
 Before_PRP
 this_DT0
 happens_VVZ
@@ -38555,7 +38555,7 @@ meals_NN2
 without_PRP
 having_VHG
 to_TO0
-drive_VVI
+drive_NN1
 miles_NN2
 to_TO0
 the_AT0
@@ -38570,7 +38570,7 @@ salt_NN1
 is_VBZ
 ever_AV0
 without_PRP
-Italian_AJ0-NN1
+Italian_AJ0
 tomatoes_NN2
 top_NN1
 of_PRF
@@ -38594,7 +38594,7 @@ laboriously_AV0
 removing_VVG
 bitter_AJ0
 seeds_NN2
-Heat_NN1-VVB
+Heat_NN1
 up_AVP
 a_AT0
 tin_NN1
@@ -38613,7 +38613,7 @@ or_CJC
 white_AJ0
 wine_NN1
 a_AT0
-pinch_VVI
+pinch_NN1
 of_PRF
 dried_AJ0
 oregano_NN1
@@ -38640,7 +38640,7 @@ few_DT0
 dried_AJ0
 wild_AJ0
 mushrooms_NN2
-soaked_AJ0
+soaked_VVN
 for_PRP
 20_CRD
 minutes_NN2
@@ -38685,7 +38685,7 @@ sweet_AJ0
 red_AJ0
 peppers_NN2
 and_CJC
-artichoke_VVB-NN1
+artichoke_NN1
 hearts_NN2
 see_VVI
 recipe_NN1
@@ -38712,7 +38712,7 @@ olive_AJ0
 oil_NN1
 and_CJC
 a_AT0
-squeeze_VVI
+squeeze_NN1
 of_PRF
 lemon_NN1
 Do_VDB
@@ -38720,7 +38720,7 @@ n't_XX0
 forget_VVI
 the_AT0
 classic_AJ0
-Italian_AJ0-NN1
+Italian_AJ0
 combination_NN1
 of_PRF
 tuna_NN0
@@ -38797,7 +38797,7 @@ create_VVI
 your_DPS
 own_DT0
 instant_AJ0
-stir-_AJ0-NN1
+stir-_NN1
 fries_NN2
 Oyster_NN1
 and_CJC
@@ -38816,22 +38816,22 @@ standbys_NN2
 add_VVI
 either_AV0
 to_TO0
-stir-fried_AJ0-NN1
-shredded_VVD-VVN
-ginger_AJ0-NN1
+stir-fried_AJ0
+shredded_VVN
+ginger_AJ0
 root_NN1
 garlic_NN1
 canned_AJ0
 water_NN1
 chestnut_NN1
 baby_NN1
-sweetcorn_NN1-VVB
+sweetcorn_NN1
 bamboo_NN1
 shoots_VVZ
 and_CJC
 a_AT0
 few_DT0
-soaked_AJ0
+soaked_VVN
 Chinese_AJ0
 dried_AJ0
 mushrooms_NN2
@@ -38840,7 +38840,7 @@ on_PRP
 a_AT0
 bed_NN1
 of_PRF
-noodles_NN2-VVZ
+noodles_NN2
 or_CJC
 rice_NN1
 and_CJC
@@ -38876,7 +38876,7 @@ cooking_NN1
 simply_AV0
 soak_VVI
 it_PNP
-Mix_VVB-NN1
+Mix_VVB
 with_PRP
 red_AJ0
 peppers_NN2
@@ -38913,7 +38913,7 @@ a_AT0
 more_AV0
 exotic_AJ0
 effect_NN1
-Mix_VVB-NN1
+Mix_VVB
 one_CRD
 part_NN1
 wild_AJ0
@@ -38938,7 +38938,7 @@ sultanas_NN2
 Cinnamon_NN1
 sticks_NN2
 and_CJC
-cardamom_VVB-NN1
+cardamom_NN1
 seeds_NN2
 complete_AJ0
 the_AT0
@@ -38976,14 +38976,14 @@ onion_NN1
 and_CJC
 garlic_NN1
 and_CJC
-toss_VVI
+toss_NN1
 with_PRP
 a_AT0
 lemon_NN1
 and_CJC
 mint_NN1
-dressing_VVG
-Garnish_VVB-NN1
+dressing_NN1
+Garnish_VVB
 with_PRP
 strips_NN2
 of_PRF
@@ -38998,7 +38998,7 @@ needs_VVZ
 minimal_AJ0
 embellishment_NN1
 garlic_NN1
-Parmesan_NN1-NP0
+Parmesan_NN1
 and_CJC
 nutty_AJ0
 butter_NN1
@@ -39036,7 +39036,7 @@ with_PRP
 useful_AJ0
 stores_NN2
 Pesto_NN1
-Italian_AJ0-NN1
+Italian_AJ0
 basil_NN1
 and_CJC
 pine_NN1
@@ -39053,14 +39053,14 @@ it_PNP
 makes_VVZ
 a_AT0
 useful_AJ0
-substitute_NN1-AJ0
+substitute_NN1
 for_PRP
 fresh_AJ0
 basil_NN1
 in_PRP
 a_AT0
 vinaigrette_NN1
-dressing_VVG
+dressing_NN1
 Once_AV0
 opened_VVD
 a_AT0
@@ -39110,7 +39110,7 @@ a_AT0
 piece_NN1
 of_PRF
 fresh_AJ0
-ginger_AJ0-NN1
+ginger_AJ0
 root_NN1
 to_TO0
 impart_VVI
@@ -39129,12 +39129,12 @@ a_AT0
 vacuum-packed_AJ0
 bresaola_NN1
 an_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 cured_VVN
 beef_NN1
 or_CJC
 prosciutto_NN1
-Drizzle_NN1-VVB
+Drizzle_VVB
 with_PRP
 olive_AJ0
 oil_NN1
@@ -39144,7 +39144,7 @@ with_PRP
 flakes_NN2
 of_PRF
 fresh_AJ0
-Parmesan_NN1-NP0
+Parmesan_NN1
 for_PRP
 an_AT0
 elegant_AJ0
@@ -39180,7 +39180,7 @@ or_CJC
 perform_VVI
 magic_NN1
 when_CJS
-mixed_AJ0
+mixed_VVN
 with_PRP
 lemon_NN1
 garlic_NN1
@@ -39193,7 +39193,7 @@ pasta_NN1
 see_VVI
 recipe_NN1
 for_PRP
-Fettucine_NP0-NN1
+Fettucine_NP0
 with_PRP
 sun-dried_AJ0
 tomatoes_NN2
@@ -39253,13 +39253,13 @@ cream_NN1
 from_PRP
 your_DPS
 well-stocked_AJ0
-freeze_VVI
+freeze_NN1
 naturally_AV0
 and_CJC
 a_AT0
 few_DT0
-crumbled_VVD-VVN
-Amaretti_AJ0-NN1
+crumbled_VVN
+Amaretti_AJ0
 biscuits_NN2
 Or_CJC
 use_NN1
@@ -39289,13 +39289,13 @@ stock_NN1
 you_PNP
 have_VHB
 p\xc3\xa2tisserie_NN1
-Layer_NN1-VVB
+Layer_VVB
 nuts_NN2
 and/or_CJC
 fruit_NN0
 glaze_NN1
 with_PRP
-apricot_AJ0-NN1
+apricot_NN1
 and_CJC
 redcurrant_AJ0
 jam_NN1
@@ -39333,11 +39333,11 @@ leaves_VVZ
 oregano_NN1
 thyme_NN1
 or_CJC
-mixed_AJ0
+mixed_VVN
 herbs_NN2
 paprika_NN1
 cinnamon_NN1
-coriander_VVB-NN1
+coriander_VVB
 sea_NN1
 salt_NN1
 and_CJC
@@ -39348,7 +39348,7 @@ tins_NN2
 tomatoes_NN2
 tuna_NN0
 apricots_NN2
-mixed_AJ0
+mixed_VVN
 beans_NN2
 plus_PRP
 sultanas_NN2
@@ -39367,7 +39367,7 @@ Preparation_NN1
 time_NN1
 8_CRD
 minutes_NN2
-Cooking_VVG-NN1
+Cooking_NN1
 time_NN1
 10_CRD
 minutes_NN2
@@ -39375,13 +39375,13 @@ Serves_VVZ
 4_CRD
 4oz_NN0
 100g_NN0
-fettucine_VVB-NN1
+fettucine_NN1
 or_CJC
 other_AJ0
 pasta_NN1
 2_CRD
 tbsps_NN2
-virgin_NN1-AJ0
+virgin_AJ0
 olive_AJ0
 oil_NN1
 2_CRD
@@ -39390,7 +39390,7 @@ cloves_NN2
 peeled_VVN
 and_CJC
 thinly_AV0
-sliced_AJ0
+sliced_VVN
 3_CRD
 tbsps_NN2
 dry_AJ0
@@ -39407,7 +39407,7 @@ chopped_VVN
 oz._NN0
 25g_NN0
 thinly-sliced_AJ0
-Italian_AJ0-NN1
+Italian_AJ0
 salami_NN1
 1_CRD
 small_AJ0
@@ -39419,7 +39419,7 @@ removed_VVN
 finely_AV0
 chopped_VVN
 Fresh_AJ0
-Parmesan_NN1-NP0
+Parmesan_NN1
 to_TO0
 serve_VVI
 Bring_VVB
@@ -39434,7 +39434,7 @@ the_AT0
 boil_VVI
 add_VVI
 the_AT0
-fettucine_VVB-NN1
+fettucine_NN1
 or_CJC
 whatever_DTQ
 pasta_NN1
@@ -39452,7 +39452,7 @@ minutes_NN2
 until_CJS
 al_UNC
 dente_UNC
-Saut\xc3\xa9_VVB-NN1
+Saut\xc3\xa9_NN1
 garlic_NN1
 in_PRP
 olive_AJ0
@@ -39478,7 +39478,7 @@ with_PRP
 a_AT0
 slotted_VVN
 spoon_NN1
-Pare_VVB-NN1
+Pare_VVB
 4_CRD
 strips_NN2
 of_PRF
@@ -39495,7 +39495,7 @@ the_AT0
 wine_NN1
 and_CJC
 lemon_NN1
-peel_VVI
+peel_NN1
 to_TO0
 the_AT0
 olive_AJ0
@@ -39514,11 +39514,11 @@ chilli_NN1
 and_CJC
 thinly-sliced_AJ0
 salami_NN1
-Drain_VVB-NN1
+Drain_NN1
 the_AT0
 pasta_NN1
 and_CJC
-toss_VVI
+toss_NN1
 well_AV0
 in_PRP
 the_AT0
@@ -39539,11 +39539,11 @@ generous_AJ0
 amounts_NN2
 of_PRF
 fresh_AJ0
-Parmesan_NN1-NP0
+Parmesan_NN1
 either_AV0
 grated_VVD
 or_CJC
-flaked_VVN-VVD
+flaked_AJ0
 with_PRP
 a_AT0
 knife_NN1
@@ -39553,7 +39553,7 @@ Preparation_NN1
 time_NN1
 10_CRD
 minutes_NN2
-Cooking_VVG-NN1
+Cooking_NN1
 time_NN1
 5_CRD
 minutes_NN2
@@ -39572,7 +39572,7 @@ lunch_NN1
 14oz_NN0
 397g_NN0
 can_VM0
-artichoke_VVB-NN1
+artichoke_NN1
 hearts_NN2
 drained_VVN
 3_CRD
@@ -39596,7 +39596,7 @@ small_AJ0
 onion_NN1
 peeled_VVN
 and_CJC
-sliced_AJ0
+sliced_VVN
 2oz_NN0
 50g_NN0
 black_AJ0
@@ -39633,7 +39633,7 @@ down_AVP
 on_PRP
 absorbent_AJ0
 paper_NN1
-Saut\xc3\xa9_VVB-NN1
+Saut\xc3\xa9_NN1
 in_PRP
 1_CRD
 tbsp_NN0
@@ -39663,7 +39663,7 @@ artichokes_NN2
 onion_NN1
 and_CJC
 olives_NN2
-Crumble_NN1-VVB
+Crumble_VVB
 over_PRP
 the_AT0
 feta_NN1
@@ -39672,7 +39672,7 @@ Blend_VVB
 vinegar_NN1
 and_CJC
 seasoning_NN1
-stir_VVI
+stir_VVB
 in_PRP
 the_AT0
 finely_AV0
@@ -39689,7 +39689,7 @@ Waitrose_NP0
 own_DT0
 label_NN1
 extra_AJ0
-virgin_NN1-AJ0
+virgin_AJ0
 olive_AJ0
 oil_NN1
 is_VBZ
@@ -39699,20 +39699,20 @@ Pour_VVB
 over_PRP
 the_AT0
 salad_NN1
-toss_VVI
+toss_NN1
 well_AV0
 Serve_VVB
 with_PRP
 crusty_AJ0
 bread_NN1
-PINE_NN1-VVB
+PINE_NN1
 NUT_NN1
 TART_NN1
 Preparation_NN1
 time_NN1
 15_CRD
 minutes_NN2
-Cooking_VVG-NN1
+Cooking_NN1
 time_NN1
 30_CRD
 minutes_NN2
@@ -39753,7 +39753,7 @@ softened_VVN
 2_CRD
 tbsps_NN2
 low-sugar_AJ0
-apricot_AJ0-NN1
+apricot_NN1
 jam_NN1
 3oz_NN0
 75g_NN0
@@ -39775,7 +39775,7 @@ an_AT0
 fluted_AJ0
 flan_NN1
 tin_NN1
-Chill_NN1-VVB
+Chill_NN1
 Blend_VVB
 the_AT0
 almonds_NN2
@@ -39797,7 +39797,7 @@ they_PNP
 are_VBB
 evenly_AV0
 combined_VVN
-Spread_NN1-VVB
+Spread_VVB
 the_AT0
 pastry_NN1
 base_NN1
@@ -39832,11 +39832,11 @@ brown_AJ0
 Allow_VVB
 to_TO0
 cool_AJ0
-Dust_NN1-VVB
+Dust_NN1
 with_PRP
 a_AT0
 little_AJ0
-icing_VVG
+icing_NN1
 sugar_NN1
 and_CJC
 serve_VVI
@@ -39883,7 +39883,7 @@ the_AT0
 norm_NN1
 SHE_PNP
 AFTERWORK_NP0
-COOK_NP0-NN1
+COOK_NN1
 Top_NN1
 of_PRF
 the_AT0
@@ -39893,7 +39893,7 @@ stage_NN1
 singer_NN1
 Sheila_NP0
 Ferguson_NP0
-cooks_NN2-VVZ
+cooks_NN2
 up_AVP
 a_AT0
 soul_NN1
@@ -39912,7 +39912,7 @@ It_PNP
 's_POS
 big_AJ0
 healthy_AJ0
-hunks_VVZ-NN2
+hunks_NN2
 of_PRF
 wholesome_AJ0
 home_NN1
@@ -39922,7 +39922,7 @@ to_TO0
 a_AT0
 joyous_AJ0
 family_NN1
-gathering_NN1
+gathering_VVG
 It_PNP
 's_POS
 juice_NN1
@@ -39955,7 +39955,7 @@ over-processed_AJ0
 bland_AJ0
 convenience_NN1
 foods_NN2
-cardboard_NN1-AJ0
+cardboard_AJ0
 crispbreads_NN2
 and_CJC
 diet_NN1
@@ -40072,7 +40072,7 @@ They_PNP
 are_VBB
 growing_AJ0
 up_AVP
-missing_VVG-AJ0
+missing_VVG
 half_DT0
 their_DPS
 heritage_NN1
@@ -40091,7 +40091,7 @@ and_CJC
 chips_NN2
 were_VBD
 their_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 food_NN1
 But_CJC
 what_DTQ
@@ -40125,8 +40125,8 @@ knew_VVD
 I_PNP
 had_VHD
 to_TO0
-act_VVI
-fast_AV0-AJ0
+act_NN1
+fast_AJ0
 Fortunately_AV0
 the_AT0
 old_AJ0
@@ -40191,7 +40191,7 @@ rations_NN2
 of_PRF
 corn_NN1
 molasses_NN1
-buttermilk_NN1-VVB
+buttermilk_VVB
 and_CJC
 a_AT0
 few_DT0
@@ -40275,7 +40275,7 @@ contribution_NN1
 of_PRF
 black_AJ0
 slave_NN1
-cooks_NN2-VVZ
+cooks_NN2
 And_CJC
 I_PNP
 've_VHB
@@ -40320,7 +40320,7 @@ of_PRF
 historical_AJ0
 interest_NN1
 only_AV0
-Cooking_VVG-NN1
+Cooking_NN1
 soul_NN1
 food_NN1
 is_VBZ
@@ -40349,7 +40349,7 @@ uses_NN2
 all_DT0
 the_AT0
 senses_NN2
-listening_VVG-NN1
+listening_VVG
 to_TO0
 the_AT0
 sizzling_AJ0
@@ -40390,7 +40390,7 @@ Sheila_NP0
 I_PNP
 've_VHB
 been_VBN
-tasting_VVG-AJ0
+tasting_VVG
 bits_NN2
 all_DT0
 day_NN1
@@ -40472,7 +40472,7 @@ gravy_NN1
 is_VBZ
 a_AT0
 firm_NN1
-favourite_AJ0-NN1
+favourite_AJ0
 When_CJS
 she_PNP
 left_VVN
@@ -40719,7 +40719,7 @@ the_AT0
 house_NN1
 I_PNP
 can_VM0
-feel_VVI
+feel_VVB
 them_PNP
 getting_VVG
 hungrier_AJC
@@ -40733,7 +40733,7 @@ down_AVP
 to_TO0
 eat_VVI
 or_CJC
-greeze_VVB-NN1
+greeze_VVB
 as_CJS
 they_PNP
 say_VVI
@@ -40768,7 +40768,7 @@ American_AJ0
 breakfast_NN1
 pancakes_NN2
 ham_NN1
-waffles_VVZ-NN2
+waffles_NN2
 with_PRP
 maple_NN1
 syrup_NN1
@@ -40785,7 +40785,7 @@ sit_VVI
 down_AVP
 to_TO0
 an_AT0
-English_AJ0-NN1
+English_AJ0
 roast_AJ0
 I_PNP
 like_PRP
@@ -40834,7 +40834,7 @@ of_PRF
 my_DPS
 family_NN1
 I_PNP
-feel_VVI
+feel_VVB
 fulfilled_VVN
 as_CJS
 a_AT0
@@ -40932,7 +40932,7 @@ go_VVI
 hungry_AJ0
 all_DT0
 day_NN1
-saving_NN1
+saving_VVG
 calories_NN2
 for_PRP
 one_CRD
@@ -41098,7 +41098,7 @@ I_PNP
 just_AV0
 signed_VVN
 with_PRP
-Stock_NP0-NN1
+Stock_NN1
 Aitken_NP0
 and_CJC
 Waterman_NP0
@@ -41140,7 +41140,7 @@ on_PRP
 September_NP0
 14_CRD
 by_PRP
-Weidenfeld_NP0-NN1
+Weidenfeld_NP0
 &_CJC
 Nicholson_NP0
 \xc2\xa312.95_NN0
@@ -41154,8 +41154,8 @@ potatoes_NN2
 3_CRD
 large_AJ0
 eggs_NN2
-8\xe2\x80\x9312oz_VVB-NN1
-250\xe2\x80\x93375g_NN1-VVB
+8\xe2\x80\x9312oz_VVB
+250\xe2\x80\x93375g_VVB
 sugar_NN1
 depending_VVG
 on_PRP
@@ -41210,7 +41210,7 @@ tender_AJ0
 about_PRP
 20_CRD
 minutes_NN2
-Peel_NP0-NN1
+Peel_NP0
 them_PNP
 while_CJS
 they_PNP
@@ -41245,7 +41245,7 @@ in_PRP
 the_AT0
 cream_NN1
 and_CJC
-stir_VVI
+stir_VVB
 well_AV0
 Give_VVB
 one_CRD
@@ -41254,7 +41254,7 @@ beating_VVG
 for_PRP
 good_AJ0
 measure_NN1
-Turn_VVB-NN1
+Turn_VVB
 your_DPS
 mixture_NN1
 into_PRP
@@ -41314,7 +41314,7 @@ ice_NN1
 cream_NN1
 PHILADELPHIA_NP0
 ICE_NN1
-CREAM_NN1-AJ0
+CREAM_NN1
 Now_AV0
 this_DT0
 is_VBZ
@@ -41420,7 +41420,7 @@ completely_AV0
 Cook_NP0
 slightly_AV0
 then_AV0
-freeze_VVI
+freeze_NN1
 in_PRP
 your_DPS
 ice-cream_NN1
@@ -41448,7 +41448,7 @@ it_PNP
 will_VM0
 go_VVI
 and_CJC
-freeze_VVI
+freeze_NN1
 the_AT0
 mixture_NN1
 in_PRP
@@ -41614,7 +41614,7 @@ Gas_NN1
 5_CRD
 Combine_VVB
 egg_NN1
-yolks_NN2-VVZ
+yolks_VVZ
 oil_NN1
 sugar_NN1
 vanilla_NN1
@@ -41659,7 +41659,7 @@ batter_NN1
 into_PRP
 a_AT0
 generously_AV0
-greased_VVN-AJ0
+greased_AJ0
 and_CJC
 floured_VVD
 10in/25cm_NN0
@@ -41711,11 +41711,11 @@ onto_PRP
 a_AT0
 wire_NN1
 cake_NN1
-rack_NN1-VVB
+rack_NN1
 to_TO0
 cool_AJ0
 thoroughly_AV0
-CREAM_NN1-AJ0
+CREAM_NN1
 CHEESE_NN1
 FROSTING_NN1
 This_DT0
@@ -41745,13 +41745,13 @@ hard_AJ0
 to_TO0
 keep_VVI
 from_PRP
-tasting_VVG-AJ0
+tasting_VVG
 it_PNP
 to_TO0
 death_NN1
 7oz_NN0
 22g_NN0
-icing_VVG
+icing_NN1
 sugar_NN1
 \xc2\xbd_UNC
 tsp_NN0
@@ -41828,8 +41828,8 @@ sauce_NN1
 Oooo_ITJ
 makes_VVZ
 me_PNP
-feel_VVI
-downright_AV0-AJ0
+feel_VVB
+downright_AJ0
 sanctified_AJ0
 just_AV0
 thinking_VVG
@@ -41927,7 +41927,7 @@ dry_AJ0
 white_AJ0
 wine_NN1
 optional_AJ0
-Heat_NN1-VVB
+Heat_NN1
 the_AT0
 fat_AJ0
 in_PRP
@@ -42019,7 +42019,7 @@ of_PRF
 hours_NN2
 turning_VVG
 often_AV0
-Wipe_VVB-NN1
+Wipe_VVB
 off_AVP
 excess_NN1
 sauce_NN1
@@ -42065,7 +42065,7 @@ celery_NN1
 medium_NN1
 onion_NN1
 finely_AV0
-minced_VVN-AJ0
+minced_VVN
 1oz_NN0
 30g_NN0
 finely_AV0
@@ -42136,7 +42136,7 @@ peppers_NN2
 salts_NN2
 and_CJC
 pepper_NN1
-Mix_VVB-NN1
+Mix_VVB
 the_AT0
 mayonnaise_NN1
 and_CJC
@@ -42148,11 +42148,11 @@ smooth_AJ0
 Pour_VVB
 on_PRP
 the_AT0
-dressing_VVG
+dressing_NN1
 and_CJC
 mix_NN1
 well_AV0
-Cover_VVB-NN1
+Cover_NN1
 and_CJC
 refrigerate_VVB
 overnight_AV0
@@ -42476,10 +42476,10 @@ readers_NN2
 but_CJC
 most_AV0
 UK_NP0
-cooks_NN2-VVZ
+cooks_NN2
 do_VDB
 n't_XX0
-cook_VVI
+cook_NN1
 metric_AJ0
 Even_AV0
 most_AV0
@@ -42503,7 +42503,7 @@ us_PNP
 on_PRP
 a_AT0
 postcard_NN1
-Vote_NN1-VVB
+Vote_VVB
 either_AV0
 for_PRP
 Metric_AJ0
@@ -42544,7 +42544,7 @@ London_NP0
 W1V_UNC
 2BP_UNC
 DEAR_AJ0
-MARGE_NP0-NN1
+MARGE_NP0
 When_CJS
 you_PNP
 wheel_NN1
@@ -42599,7 +42599,7 @@ to_TO0
 invent_VVI
 a_AT0
 butter_NN1
-substitute_NN1-AJ0
+substitute_NN1
 to_TO0
 help_VVI
 Europe_NP0
@@ -42688,7 +42688,7 @@ any_DT0
 butter_NN1
 margarine_NN1
 or_CJC
-spread_NN1
+spread_VVN
 have_VHB
 put_VVI
 the_AT0
@@ -42886,7 +42886,7 @@ least_AV0
 more_AV0
 than_CJS
 other_AJ0
-stoneground_NN1-VVB
+stoneground_NN1
 wholemeal_AJ0
 loaves_NN2
 This_DT0
@@ -43034,7 +43034,7 @@ SHE_PNP
 food_NN1
 expert_NN1
 Miriam_NP0
-Polunin_NP0-NN1
+Polunin_NP0
 is_VBZ
 a_AT0
 well-respected_AJ0
@@ -43054,7 +43054,7 @@ to_TO0
 Eat_VVB
 J_NP0
 M_ZZ0
-Dent_NN1-NP0
+Dent_NN1
 \xc2\xa32.50_NN0
 The_AT0
 Wholemeal_AJ0
@@ -43066,11 +43066,11 @@ The_AT0
 New_AJ0
 Cookbook_NN1
 SHE_PNP
-TRAVEL_VVB-NN1
+TRAVEL_NN1
 QUICK_AJ0
 QUICK_AJ0
-SNOW_NN1-NP0
-Ski_VVB-NN1
+SNOW_NN1
+Ski_NN1
 fever_NN1
 Our_DPS
 comprehensive_AJ0
@@ -43147,10 +43147,10 @@ only_AV0
 time_NN1
 Check_VVB
 for_PRP
-English_AJ0-NN1
+English_AJ0
 speaking_VVG
 instructors_NN2
-Austrian_AJ0-NN1
+Austrian_AJ0
 yokel_NN1
 speak_VVI
 is_VBZ
@@ -43178,7 +43178,7 @@ crime_NN1
 of_PRF
 crimes_NN2
 for_PRP
-bruised_VVN-AJ0
+bruised_VVN
 and_CJC
 weary_AJ0
 limbs_NN2
@@ -43235,7 +43235,7 @@ stimulate_VVI
 a_AT0
 desire_NN1
 to_TO0
-pinch_VVI
+pinch_NN1
 a_AT0
 schoolgirl_NN1
 's_POS
@@ -43260,7 +43260,7 @@ warm_AJ0
 and_CJC
 rousing_AJ0
 welcome_AJ0
-Resorts_NN2-VVZ
+Resorts_NN2
 St_NP0
 Anton_NP0
 stands_VVZ
@@ -43272,7 +43272,7 @@ relies_VVZ
 on_PRP
 traditional_AJ0
 grandeur_NN1
-Obertauern_NP0-NN1
+Obertauern_NP0
 is_VBZ
 purpose-built_AJ0
 with_PRP
@@ -43293,9 +43293,9 @@ choices_NN2
 include_VVI
 Alpbach_NP0
 Lech_NP0
-Mayerhofen_NP0-NN1
+Mayerhofen_NP0
 Seefeld_NP0
-Niederau_NP0-NN1
+Niederau_NP0
 and_CJC
 Westendorf_NP0
 SWITZERLAND_NP0
@@ -43365,7 +43365,7 @@ no_AT0
 means_NN0
 the_AT0
 most_AV0
-integrated_AJ0
+integrated_VVN
 lift_NN1
 systems_NN2
 the_AT0
@@ -43375,7 +43375,7 @@ mountains_NN2
 the_AT0
 Eiger_NP0
 the_AT0
-Matterhorn_NN1-NP0
+Matterhorn_NN1
 the_AT0
 best_AJS
 lunch_NN1
@@ -43387,7 +43387,7 @@ albeit_CJS
 expensive_AJ0
 wine_NN1
 Dloe_NP0
-Fendent_NP0-NN1
+Fendent_NN1
 Except_CJS
 in_PRP
 the_AT0
@@ -43399,8 +43399,8 @@ the_AT0
 nightlife_NN1
 is_VBZ
 underwhelming_VVG
-Resorts_NN2-VVZ
-French_AJ0-NN1
+Resorts_NN2
+French_AJ0
 speaking_VVG
 Verbier_NN1
 can_VM0
@@ -43428,7 +43428,7 @@ addicts_NN2
 must_VM0
 visit_NN1
 Zermatt_NP0
-Grindelwald_NP0-NN1
+Grindelwald_NP0
 /Wengen/Murren_NN1
 and_CJC
 Davos/Klosters_NN2
@@ -43449,7 +43449,7 @@ for_PRP
 intermediates_NN2
 as_CJS
 is_VBZ
-Champery_NP0-NN1
+Champery_NP0
 a_AT0
 pretty_AV0
 village_NN1
@@ -43485,7 +43485,7 @@ you_PNP
 must_VM0
 FRANCE_NP0
 The_AT0
-French_AJ0-NN1
+French_AJ0
 invented_VVN
 factory_NN1
 skiing_NN1
@@ -43508,7 +43508,7 @@ brutalist_NN1
 architecture_NN1
 stacked_VVN
 rabbit_NN1
-hutches_NN2-VVZ
+hutches_NN2
 reaching_VVG
 into_PRP
 the_AT0
@@ -43597,7 +43597,7 @@ if_CJS
 you_PNP
 ask_VVI
 around_PRP
-Resorts_NN2-VVZ
+Resorts_NN2
 L'Espace_NP0
 Killy_NP0
 Val_NP0
@@ -43617,7 +43617,7 @@ intermediate_AJ0
 and_CJC
 expert_NN1
 skiers_NN2
-Chamonix_NP0-NN1
+Chamonix_NP0
 and_CJC
 neighbouring_AJ0
 Argentiere_NN1
@@ -43658,7 +43658,7 @@ the_AT0
 day_NN1
 or_CJC
 night_NN1
-Valmorel_NP0-NN1
+Valmorel_NN1
 is_VBZ
 also_AV0
 recommended_VVN
@@ -43668,7 +43668,7 @@ category_NN1
 as_CJS
 is_VBZ
 futuristic_AJ0
-Avoriaz_NP0-NN1
+Avoriaz_NP0
 a_AT0
 major_AJ0
 crossroads_NN1
@@ -43729,7 +43729,7 @@ uniformity_NN1
 the_AT0
 runs_VVZ
 are_VBB
-carved_AJ0
+carved_VVN
 out_AVP
 of_PRF
 the_AT0
@@ -43827,12 +43827,12 @@ life_NN1
 in_PRP
 most_AV0
 resorts_NN2
-Resorts_NN2-VVZ
+Resorts_NN2
 star_NN1
 spotters_NN2
 head_NN1
 for_PRP
-Aspen_NP0-NN1
+Aspen_NN1
 Colorado_NP0
 which_DTQ
 has_VHZ
@@ -43859,7 +43859,7 @@ large_AJ0
 and_CJC
 more_AV0
 youth_NN1
-oriented_VVN
+oriented_VVD
 experts_NN2
 on_PRP
 and_CJC
@@ -43891,7 +43891,7 @@ family_NN1
 alternative_AJ0
 mogul_NN1
 maniacs_NN2
-bash_VVI
+bash_VVB
 the_AT0
 hell_NN1
 out_AVP
@@ -43909,7 +43909,7 @@ silver_NN1
 mining_NN1
 town_NN1
 of_PRF
-Telluride_NN1-NP0
+Telluride_NP0
 ANDORRA_NP0
 Andorra_NP0
 has_VHZ
@@ -43949,7 +43949,7 @@ duty_NN1
 free_AJ0
 and_CJC
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 prices_NN2
 are_VBB
 the_AT0
@@ -43960,7 +43960,7 @@ The_AT0
 skiing_NN1
 does_VDZ
 n't_XX0
-stretch_VVI
+stretch_NN1
 even_AV0
 as_CJS
 far_AV0
@@ -43974,7 +43974,7 @@ dedicated_VVN
 tuition_NN1
 in_PRP
 perfect_AJ0
-English_AJ0-NN1
+English_AJ0
 and_CJC
 high_AJ0
 sunshine_NN1
@@ -44051,10 +44051,10 @@ speak_VVI
 the_AT0
 appropriate_AJ0
 language_NN1
-Resorts_NN2-VVZ
-Soldeu_NP0-NN1
+Resorts_NN2
+Soldeu_NP0
 Arsinal_NP0
-Arcalis_NP0-NN1
+Arcalis_NN1
 and_CJC
 Pal_NN1
 represent_VVI
@@ -44199,7 +44199,7 @@ North_NN1
 Tatras_NP0
 for_PRP
 beginners_NN2
-Resorts_NN2-VVZ
+Resorts_NN2
 Kranjska_NP0
 Gora_NP0
 just_AV0
@@ -44235,7 +44235,7 @@ with_PRP
 pistes_NN2
 20_CRD
 minutes_NN2
-drive_VVI
+drive_NN1
 away_AV0
 Bohinj_NP0
 is_VBZ
@@ -44363,7 +44363,7 @@ suggest_VVI
 in_PRP
 rival_AJ0
 countries_NN2
-Resorts_NN2-VVZ
+Resorts_NN2
 Cortina_NP0
 is_VBZ
 international_AJ0
@@ -44371,9 +44371,9 @@ jet_NN1
 set_VVN
 glamour_NN1
 and_CJC
-glitz_NN1-VVB
+glitz_NN1
 Cervinia_NP0
-Courmayeur_NP0-NN1
+Courmayeur_NP0
 and_CJC
 neighbouring_AJ0
 La_NP0
@@ -44385,20 +44385,20 @@ range_NN1
 of_PRF
 intermediate_AJ0
 pistes_NN2
-Gresonnay_NP0-NN1
+Gresonnay_NN1
 and_CJC
 Champoluc_NP0
 also_AV0
 in_PRP
 the_AT0
-Aosta_NP0-NN1
-Valley_NN1-NP0
+Aosta_NN1
+Valley_NN1
 make_VVI
 tranquil_AJ0
 alternatives_NN2
 for_PRP
 adventurous_AJ0
-Italian_AJ0-NN1
+Italian_AJ0
 speaking_VVG
 beginners_NN2
 and_CJC
@@ -44427,7 +44427,7 @@ that_CJT
 it_PNP
 makes_VVZ
 Switzerland_NP0
-feel_VVI
+feel_VVB
 like_PRP
 Andorra_NP0
 and_CJC
@@ -44442,7 +44442,7 @@ of_PRF
 the_AT0
 slopes_NN2
 are_VBB
-floodlit_VVN-AJ0
+floodlit_AJ0
 to_TO0
 avoid_VVI
 disappointment_NN1
@@ -44512,7 +44512,7 @@ destinations_NN2
 in_PRP
 their_DPS
 programmes_NN2
-Resorts_NN2-VVZ
+Resorts_NN2
 Voss_NP0
 and_CJC
 Geilo_NP0
@@ -44527,7 +44527,7 @@ Trysil_NP0
 Oppdal_NP0
 and_CJC
 Hemsedal_NP0
-SKI_VVB-NN1
+SKI_NN1
 TRIPS_NN2
 On_PRP
 an_AT0
@@ -44537,7 +44537,7 @@ Ali_NP0
 Ross_NP0
 a_AT0
 small_AJ0
-feisty_AJ0-NN1
+feisty_AJ0
 Scotsman_NN1
 promises_NN2
 to_TO0
@@ -44554,7 +44554,7 @@ beyond_PRP
 His_DPS
 courses_NN2
 in_PRP
-Wengen_NP0-NN1
+Wengen_NP0
 and_CJC
 Tignes_NP0
 can_VM0
@@ -44565,14 +44565,14 @@ through_PRP
 Supertravel_NP0
 01\xe2\x80\x93584_CRD
 5060_CRD
-Ski_VVB-NN1
+Ski_NN1
 Scott_NP0
 Dunn_NP0
 brought_VVN
 informal_AJ0
 luxury_NN1
 to_TO0
-Champery_NP0-NN1
+Champery_NP0
 three_CRD
 years_NN2
 ago_AV0
@@ -44590,7 +44590,7 @@ into_PRP
 Zermatt_NP0
 01\xe2\x80\x93602_CRD
 8029_CRD
-Ski_VVB-NN1
+Ski_NN1
 better_AJC
 each_DT0
 winter_NN1
@@ -44633,7 +44633,7 @@ Book_NN1
 through_PRP
 Tailor_NN1
 Made_VVN
-Ski_VVB-NN1
+Ski_NN1
 Tours_NN2
 0225_CRD
 859598_CRD
@@ -44644,7 +44644,7 @@ and_CJC
 Jean_NP0
 Zimmer_NN1
 gorgeous_AJ0
-English_AJ0-NN1
+English_AJ0
 speaking_VVG
 ex_UNC
 racing_VVG
@@ -44655,7 +44655,7 @@ will_VM0
 revolutionise_VVI
 your_DPS
 powder_NN1
-burn_VVI
+burn_NN1
 and_CJC
 your_DPS
 confidence_NN1
@@ -44667,7 +44667,7 @@ in_PRP
 Val_NP0
 D'Isere_NP0
 Top_NN1
-Ski_VVB-NN1
+Ski_NN1
 79.06.11.80_CRD
 Many_DT0
 believe_VVB
@@ -44693,7 +44693,7 @@ Sean_NP0
 O'Beirne_NP0
 's_POS
 company_NN1
-Collineige_VVB-NN1
+Collineige_NN1
 with_PRP
 a_AT0
 luxury_NN1
@@ -44706,24 +44706,24 @@ be_VBI
 run_VVI
 as_CJS
 an_AT0
-English_AJ0-NN1
+English_AJ0
 chalet_NN1
 which_DTQ
 sounds_VVZ
 in_PRP
 intriguing_AJ0
 combination_NN1
-Collineige_VVB-NN1
+Collineige_NN1
 also_AV0
 offer_VVI
 Euroradical_AJ0
 in_PRP
-Chamonix_NP0-NN1
+Chamonix_NP0
 and_CJC
 Argentiere_NN1
 0276_CRD
 691996_CRD
-Ski_VVB-NN1
+Ski_NN1
 free_AJ0
 in_PRP
 France_NP0
@@ -44743,8 +44743,8 @@ each_DT0
 day_NN1
 Air_NN1
 France_NP0
-fly_VVI
-drive_VVI
+fly_NN1
+drive_NN1
 programmes_NN2
 through_PRP
 Lyons_NP0
@@ -44765,11 +44765,11 @@ and_CJC
 St_NP0
 Johann_NP0
 in_PRP
-Tyrol_NP0-NN1
+Tyrol_NN1
 in_PRP
 Austria_NP0
 and_CJC
-Risoul_VVB-NN1
+Risoul_NN1
 in_PRP
 France_NP0
 offers_VVZ
@@ -44780,7 +44780,7 @@ to_TO0
 play_VVI
 with_PRP
 your_DPS
-pre-ski_AJ0-NN1
+pre-ski_AJ0
 children_NN2
 while_CJS
 you_PNP
@@ -44789,13 +44789,13 @@ the_AT0
 slopes_NN2
 01\xe2\x80\x93435_CRD
 8431_CRD
-Ski_VVB-NN1
+Ski_NN1
 test_NN1
 if_CJS
 you_PNP
 book_NN1
 a_AT0
-Ski_VVB-NN1
+Ski_NN1
 Enterprise_NN1
 holiday_NN1
 in_PRP
@@ -44818,7 +44818,7 @@ from_PRP
 leading_AJ0
 sports_NN2
 manufacturers_NN2
-Ski_VVB-NN1
+Ski_NN1
 start_NN1
 the_AT0
 major_AJ0
@@ -44844,7 +44844,7 @@ your_DPS
 local_AJ0
 travel_NN1
 agent_NN1
-Hire_VVB-NN1
+Hire_VVB
 boots_NN2
 in_PRP
 the_AT0
@@ -44933,7 +44933,7 @@ be_VBI
 flexible_AJ0
 book_NN1
 late_AJ0
-scan_NN1-VVB
+scan_NN1
 the_AT0
 ads_NN2
 in_PRP
@@ -44959,7 +44959,7 @@ Moritz_NP0
 Arosa_NP0
 Kitzbuhel_NP0
 Zermatt_NP0
-Chamonix_NP0-NN1
+Chamonix_NP0
 or_CJC
 Cortina_NP0
 Still_AV0
@@ -44969,7 +44969,7 @@ to_TO0
 the_AT0
 Daily_AJ0
 Mail_NN1
-Ski_VVB-NN1
+Ski_NN1
 shows_VVZ
 at_PRP
 the_AT0
@@ -45026,7 +45026,7 @@ Switzerland_NP0
 sexy_AJ0
 stylish_AJ0
 Italy_NP0
-star-struck_AJ0-NN1
+star-struck_NN1
 Colorado_NP0
 our_DPS
 run-down_AJ0
@@ -45078,9 +45078,9 @@ all_DT0
 British_AJ0
 skiing_NN1
 addicts_NN2
-Picture_NN1-VVB
+Picture_NN1
 book_NN1
-Aspen_NP0-NN1
+Aspen_NN1
 or_CJC
 perhaps_AV0
 that_CJT
@@ -45108,7 +45108,7 @@ a_AT0
 price_NN1
 the_AT0
 SHE_PNP
-ELANCYL_NP0-NN1
+ELANCYL_NN1
 CELLULITE_NN1
 project_NN1
 Whether_CJS
@@ -45136,7 +45136,7 @@ unsightly_AJ0
 pockets_NN2
 of_PRF
 dimpled_AJ0
-orange-peel_AJ0-NN1
+orange-peel_AJ0
 skin_NN1
 Slim_AJ0
 women_NN2
@@ -45150,9 +45150,9 @@ on_PRP
 a_AT0
 diet_NN1
 often_AV0
-feel_VVI
+feel_VVB
 deeply_AV0
-disheartened_VVD-VVN
+disheartened_VVD
 by_PRP
 the_AT0
 fact_NN1
@@ -45189,7 +45189,7 @@ have_VHB
 of_PRF
 being_VBG
 successful_AJ0
-French_AJ0-NN1
+French_AJ0
 cosmetic_AJ0
 scientists_NN2
 believe_VVB
@@ -45319,12 +45319,12 @@ extracts_NN2
 That_DT0
 's_POS
 where_AVQ
-Elancyl_NP0-NN1
+Elancyl_NN1
 comes_VVZ
 in_PRP
 The_AT0
 traditional_AJ0
-Elancyl_NP0-NN1
+Elancyl_NN1
 treatment_NN1
 involves_VVZ
 the_AT0
@@ -45332,7 +45332,7 @@ green_AJ0
 massage_NN1
 glove_NN1
 containing_VVG
-Elancyl_NP0-NN1
+Elancyl_NN1
 soap_NN1
 with_PRP
 ivy_NN1
@@ -45382,7 +45382,7 @@ to_TO0
 stimulate_VVI
 circulation_NN1
 and_CJC
-mateine_NN1-VVB
+mateine_VVB
 believed_VVD
 by_PRP
 Frenchwomen_NP0
@@ -45407,7 +45407,7 @@ treatment_NN1
 That_DT0
 's_POS
 where_AVQ
-Elancyl_NP0-NN1
+Elancyl_NN1
 MP24_UNC
 comes_VVZ
 in_PRP
@@ -45420,7 +45420,7 @@ butcher_NN1
 's_POS
 broom_NN1
 and_CJC
-mateine_NN1-VVB
+mateine_VVB
 it_PNP
 has_VHZ
 Vitamin_NN1
@@ -45465,7 +45465,7 @@ to_TO0
 do_VDB
 is_VBZ
 to_TO0
-hand-massage_NN1-AJ0
+hand-massage_AJ0
 MP24_UNC
 lightly_AV0
 over_PRP
@@ -45475,7 +45475,7 @@ and_CJC
 thighs_NN2
 While_CJS
 the_AT0
-French_AJ0-NN1
+French_AJ0
 have_VHB
 long_AJ0
 been_VBN
@@ -45565,7 +45565,7 @@ month_NN1
 's_POS
 supply_NN1
 of_PRF
-Elancyl_NP0-NN1
+Elancyl_NN1
 MP24_UNC
 or_CJC
 an_AT0
@@ -45598,7 +45598,7 @@ out_AVP
 six_CRD
 readers_NN2
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 the_AT0
 stars_NN2
@@ -45643,7 +45643,7 @@ involving_VVG
 the_AT0
 use_NN1
 of_PRF
-Elancyl_NP0-NN1
+Elancyl_NN1
 One_CRD
 month_NN1
 later_AV0
@@ -45724,7 +45724,7 @@ the_AT0
 experience_NN1
 of_PRF
 using_VVG
-Elancyl_NP0-NN1
+Elancyl_NN1
 It_PNP
 's_POS
 an_AT0
@@ -45819,7 +45819,7 @@ Thomas_NP0
 Crapper_NP0
 asserts_VVZ
 Wallace_NP0
-Reyburn_NP0-NN1
+Reyburn_NN1
 in_PRP
 his_DPS
 lively_AJ0
@@ -45974,7 +45974,7 @@ was_VBD
 to_TO0
 invent_VVI
 the_AT0
-pull-chain_AJ0-NN1
+pull-chain_NN1
 foolproof_AJ0
 flush_NN1
 He_PNP
@@ -45990,7 +45990,7 @@ the_AT0
 noisy_AJ0
 cistern_NN1
 As_CJS
-Reyburn_NP0-NN1
+Reyburn_NN1
 observes_VVZ
 Sensitive_AJ0
 females_NN2
@@ -46113,7 +46113,7 @@ is_VBZ
 still_AV0
 with_PRP
 us_PNP
-Reyburn_NP0-NN1
+Reyburn_NN1
 tells_VVZ
 about_PRP
 the_AT0
@@ -46123,7 +46123,7 @@ the_AT0
 coronation_NN1
 of_PRF
 the_AT0
-present_AJ0-NN1
+present_AJ0
 Queen_NN1
 when_CJS
 the_AT0
@@ -46245,7 +46245,7 @@ along_AVP
 the_AT0
 WCs_NN2
 and_CJC
-flushed_VVN
+flushed_VVD
 in_PRP
 unison_NN1
 Happily_AV0
@@ -46254,7 +46254,7 @@ sound_NN1
 did_VDD
 n't_XX0
 carry_VVI
-Reyburn_NP0-NN1
+Reyburn_NN1
 's_POS
 book_NN1
 is_VBZ
@@ -46289,7 +46289,7 @@ Britain_NP0
 that_CJT
 uses_NN2
 Bronco_NP0
-medicated_AJ0-VVN
+medicated_AJ0
 hard_AJ0
 toilet_NN1
 tissue_NN1
@@ -46331,10 +46331,10 @@ sight_NN1
 of_PRF
 a_AT0
 pampas_NN2
-plug-flush_NN1-AJ0
+plug-flush_NN1
 low-level_AJ0
 siphonic_AJ0
-Reyburn_NP0-NN1
+Reyburn_NN1
 describes_VVZ
 watching_VVG
 a_AT0
@@ -46369,7 +46369,7 @@ with_PRP
 a_AT0
 whoosh_NN1
 As_CJS
-Reyburn_NP0-NN1
+Reyburn_NN1
 observes_VVZ
 Of_PRF
 course_NN1
@@ -46425,7 +46425,7 @@ the_AT0
 dreaded_AJ0
 slipping_VVG
 seat_NN1
-Reyburn_NP0-NN1
+Reyburn_NN1
 even_AV0
 suggests_VVZ
 a_AT0
@@ -46453,12 +46453,12 @@ the_AT0
 matter_NN1
 their_DPS
 attention_NN1
-Flushed_VVN-AJ0
+Flushed_AJ0
 with_PRP
 Pride_NN1
 by_PRP
 Wallace_NP0
-Reyburn_NP0-NN1
+Reyburn_NN1
 Pavilion_NN1
 \xc2\xa35.99_NN0
 SHELF_NN1
@@ -46578,7 +46578,7 @@ and_CJC
 fifty_CRD
 years_NN2
 ago_AV0
-Daguerre_NP0-NN1
+Daguerre_NP0
 in_PRP
 Paris_NP0
 and_CJC
@@ -46594,8 +46594,8 @@ The_AT0
 Art_NN1
 of_PRF
 the_AT0
-Daguerrotype_NN1-NP0
-Viking_NN1-AJ0
+Daguerrotype_NN1
+Viking_NN1
 \xc2\xa320_NN0
 contains_VVZ
 65_CRD
@@ -46686,7 +46686,7 @@ foolproof_AJ0
 flush_NN1
 Below_AV0
 the_AT0
-Daguerrotype_NN1-NP0
+Daguerrotype_NN1
 photograph_NN1
 is_VBZ
 150_CRD
@@ -46702,7 +46702,7 @@ SHE_PNP
 Val_NP0
 Hennessy_NP0
 is_VBZ
-chief_AJ0-NN1
+chief_NN1
 book_NN1
 reviewer_NN1
 for_PRP
@@ -46731,7 +46731,7 @@ eating_VVG
 SHE_PNP
 GOOD_AJ0
 READ_VVB
-GUIDE_NN1-VVB
+GUIDE_NN1
 TENSE_VVB
 PAST_AV0
 Gillian_NP0
@@ -46745,14 +46745,14 @@ is_VBZ
 a_AT0
 novel_NN1
 that_CJT
-inserts_NN2-VVZ
+inserts_NN2
 itself_PNX
 under_PRP
 your_DPS
 skin_NN1
 leaving_VVG
 you_PNP
-wanting_VVG-AJ0
+wanting_VVG
 more_AV0
 Joanna_NP0
 trying_VVG
@@ -46841,16 +46841,16 @@ disabled_AJ0
 Irish_AJ0
 writers_NN2
 like_PRP
-Christy_NP0-NN1
+Christy_NP0
 Brown_NP0
 and_CJC
-Christy_NP0-NN1
+Christy_NP0
 Nolan_NP0
 in_PRP
 The_AT0
 God_NP0
 Squad_NN1
-Corgi_NP0-NN1
+Corgi_NN1
 \xc2\xa33.99_NN0
 As_CJS
 a_AT0
@@ -47056,13 +47056,13 @@ to_TO0
 different_AJ0
 eras_NN2
 June_NP0
-Barraclough_NP0-NN1
+Barraclough_NP0
 's_POS
 A_AT0
 Time_NN1
 to_TO0
 Love_NN1
-Methuen_NP0-NN1
+Methuen_NP0
 \xc2\xa312.95_NN0
 spans_VVZ
 both_AV0
@@ -47099,7 +47099,7 @@ the_AT0
 in_PRP
 Like_PRP
 We_PNP
-Used_VVN-AJ0
+Used_VVN
 To_TO0
 Be_VBB
 Macmillan_NP0
@@ -47168,7 +47168,7 @@ Ian_NP0
 Beck_NP0
 The_AT0
 Teddy_NP0
-Robber_NP0-NN1
+Robber_NN1
 \xc2\xa36.95_NN0
 is_VBZ
 a_AT0
@@ -47229,7 +47229,7 @@ ages_NN2
 Tom_NP0
 's_POS
 Rainbow_NN1
-Walk_NN1-VVB
+Walk_VVB
 by_PRP
 Catherine_NP0
 Anholt_NP0
@@ -47253,7 +47253,7 @@ for_PRP
 his_DPS
 new_AJ0
 jumper_NN1
-Left_AJ0-NN1
+Left_AJ0
 in_PRP
 Carol_NP0
 Birch_NP0
@@ -47272,7 +47272,7 @@ adult_NN1
 Below_AV0
 The_AT0
 Teddy_NP0
-Robber_NP0-NN1
+Robber_NN1
 has_VHZ
 a_AT0
 soft_AJ0
@@ -47651,7 +47651,7 @@ moving_VVG
 in_PRP
 for_PRP
 a_AT0
-close-up_NN1-AJ0
+close-up_NN1
 No_ITJ
 you_PNP
 just_AV0
@@ -47870,7 +47870,7 @@ up_AVP
 outside_PRP
 a_AT0
 large_AJ0
-concrete_AJ0-NN1
+concrete_AJ0
 hotel_NN1
 not_XX0
 quite_AV0
@@ -47878,7 +47878,7 @@ finished_VVN
 incorporating_VVG
 a_AT0
 long_AJ0
-cruelly-lit_AJ0-NN1
+cruelly-lit_NN1
 restaurant_NN1
 almost_AV0
 empty_AJ0
@@ -47896,7 +47896,7 @@ towards_PRP
 the_AT0
 hotel_NN1
 Let's_VM0
-drive_VVI
+drive_NN1
 off_AVP
 and_CJC
 leave_VVI
@@ -48020,7 +48020,7 @@ age_NN1
 Enrico_NP0
 makes_VVZ
 me_PNP
-feel_VVI
+feel_VVB
 like_PRP
 a_AT0
 child_NN1
@@ -48054,7 +48054,7 @@ girl_NN1
 coming_VVG
 towards_PRP
 him_PNP
-Ready_AJ0-AV0
+Ready_AV0
 when_CJS
 you_PNP
 are_VBB
@@ -48124,7 +48124,7 @@ I_PNP
 wrecked_AJ0
 after_PRP
 that_CJT
-drive_VVI
+drive_NN1
 I_PNP
 think_VVB
 I_PNP
@@ -48245,7 +48245,7 @@ fumble_VVB
 about_PRP
 for_PRP
 the_AT0
-switch_VVI
+switch_NN1
 to_TO0
 the_AT0
 bedside_NN1
@@ -48324,7 +48324,7 @@ turned_VVD
 away_AV0
 from_PRP
 him_PNP
-yawning_VVG-AJ0
+yawning_AJ0
 Do_VDB
 n't_XX0
 be_VBI
@@ -48354,7 +48354,7 @@ It_PNP
 's_POS
 on_PRP
 the_AT0
-dressing_VVG
+dressing_NN1
 table_NN1
 Instead_AV0
 of_PRF
@@ -48367,7 +48367,7 @@ went_VVD
 out_AVP
 for_PRP
 a_AT0
-walk_VVI
+walk_NN1
 down_AVP
 the_AT0
 road_NN1
@@ -48728,7 +48728,7 @@ fell_VVD
 There_EX0
 's_POS
 a_AT0
-doo-dah_NN1-AJ0
+doo-dah_NN1
 under_PRP
 the_AT0
 pillow_NN1
@@ -48831,7 +48831,7 @@ him_PNP
 Why_AVQ
 does_VDZ
 it_PNP
-hurt_VVI
+hurt_VVN
 It_PNP
 's_POS
 only_AV0
@@ -49541,13 +49541,13 @@ I_PNP
 ca_VM0
 n't_XX0
 just_AV0
-walk_VVI
+walk_NN1
 out_AVP
 on_PRP
 her_DPS
 I_PNP
 'd_VM0
-walk_VVI
+walk_NN1
 now_AV0
 if_CJS
 I_PNP
@@ -49688,7 +49688,7 @@ tell_VVI
 her_DPS
 he_PNP
 said_VVD
-Sighing_VVG-AJ0
+Sighing_AJ0
 the_AT0
 girl_NN1
 hoisted_VVD
@@ -49835,7 +49835,7 @@ decided_VVD
 that_CJT
 she_PNP
 should_VM0
-drive_VVI
+drive_NN1
 during_PRP
 the_AT0
 morning_NN1
@@ -50021,7 +50021,7 @@ and_CJC
 no_AT0
 longer_AV0
 a_AT0
-people-pleaser_NN1-AJ0
+people-pleaser_NN1
 You_PNP
 please_AV0
 yourself_PNX
@@ -50252,7 +50252,7 @@ you_PNP
 have_VHB
 an_AT0
 enormous_AJ0
-yearning_VVG
+yearning_NN1
 to_TO0
 give_VVI
 while_CJS
@@ -50466,7 +50466,7 @@ particular_AJ0
 the_AT0
 New_AJ0
 Moon_NN1
-present_AJ0-NN1
+present_AJ0
 in_PRP
 your_DPS
 own_DT0
@@ -50549,7 +50549,7 @@ what_DTQ
 really_AV0
 seems_VVZ
 to_TO0
-hurt_VVI
+hurt_VVN
 and_CJC
 rankle_VVI
 you_PNP
@@ -50581,7 +50581,7 @@ the_AT0
 14th_ORD
 will_VM0
 prove_VVI
-challenging_VVG-AJ0
+challenging_VVG
 and_CJC
 even_AV0
 emotionally_AV0
@@ -50988,7 +50988,7 @@ like_PRP
 things_NN2
 possesses_VVZ
 and_CJC
-harping_VVG-NN1
+harping_VVG
 endlessly_AV0
 on_PRP
 about_PRP
@@ -51133,7 +51133,7 @@ offer_VVI
 elsewhere_AV0
 ARIES_NP0
 Mar_NP0
-21-Apr_NN1-AJ0
+21-Apr_AJ0
 20_CRD
 The_AT0
 situation_NN1
@@ -51203,7 +51203,7 @@ is_VBZ
 put_VVI
 up_AVP
 and_CJC
-shut_VVB
+shut_VVN
 up_AVP
 in_PRP
 the_AT0
@@ -51234,7 +51234,7 @@ should_VM0
 certainly_AV0
 be_VBI
 an_AT0
-eye-opener_NN1-AJ0
+eye-opener_AJ0
 for_PRP
 what_DTQ
 can_VM0
@@ -51332,7 +51332,7 @@ you_PNP
 are_VBB
 likely_AJ0
 to_TO0
-feel_VVI
+feel_VVB
 under_PRP
 par_NN1
 under_PRP
@@ -51431,7 +51431,7 @@ or_CJC
 doing_VDG
 something_PNI
 more_AV0
-challenging_VVG-AJ0
+challenging_VVG
 now_AV0
 and_CJC
 therefore_AV0
@@ -51685,7 +51685,7 @@ you_PNP
 in_PRP
 turn_NN1
 should_VM0
-feel_VVI
+feel_VVB
 decidedly_AV0
 more_AV0
 buoyant_AJ0
@@ -51700,7 +51700,7 @@ is_VBZ
 likely_AJ0
 to_TO0
 remain_VVI
-strained_AJ0
+strained_VVN
 during_PRP
 the_AT0
 first_ORD
@@ -51868,13 +51868,13 @@ you_PNP
 are_VBB
 bound_VVN
 to_TO0
-feel_VVI
+feel_VVB
 thwarted_VVN
 frustrated_AJ0
 as_CJS
 well_AV0
 as_CJS
-exhausted_VVN-AJ0
+exhausted_VVN
 at_PRP
 the_AT0
 moment_NN1
@@ -52142,7 +52142,7 @@ SHE_PNP
 's_POS
 forecaster_NN1
 Justin_NP0
-Toper_NP0-NN1
+Toper_NN1
 is_VBZ
 a_AT0
 Libran_NN1
@@ -52162,7 +52162,7 @@ talents_NN2
 were_VBD
 spotted_VVD
 by_PRP
-veteran_AJ0-NN1
+veteran_NN1
 astrologer_NN1
 Patrick_NP0
 Walker_NP0
@@ -52184,7 +52184,7 @@ years_NN2
 He_PNP
 wo_VM0
 n't_XX0
-cast_VVN
+cast_NN1
 his_DPS
 own_DT0
 horoscope_NN1
@@ -52230,7 +52230,7 @@ your_DPS
 philosophy_NN1
 Call_VVB
 Justin_NP0
-Toper_NP0-NN1
+Toper_NN1
 on_PRP
 your_DPS
 SHE_PNP
@@ -52268,7 +52268,7 @@ SHE_PNP
 's_POS
 Dr_NP0
 Delvin_NP0
-Sample_NN1-VVB
+Sample_VVB
 this_DT0
 crucial_AJ0
 guide_NN1
@@ -52496,7 +52496,7 @@ when_CJS
 males_NN2
 and_CJC
 females_NN2
-perspire_VVB-NN1
+perspire_NN1
 they_PNP
 give_VVI
 off_AVP
@@ -52646,7 +52646,7 @@ poked_VVD
 something_PNI
 up_AVP
 his_DPS
-rear_AJ0-NN1
+rear_NN1
 end_NN1
 Q_ZZ0
 I_PNP
@@ -52710,7 +52710,7 @@ reckon_VVB
 you_PNP
 should_VM0
 just_AV0
-lie_VVI
+lie_VVB
 back_AVP
 and_CJC
 enjoy_VVI
@@ -52733,7 +52733,7 @@ told_VVD
 me_PNP
 he_PNP
 likes_VVZ
-dressing_VVG
+dressing_NN1
 up_AVP
 in_PRP
 women_NN2
@@ -52902,7 +52902,7 @@ abnormal_AJ0
 when_CJS
 I_PNP
 first_ORD
-ejaculated_VVN
+ejaculated_VVD
 at_PRP
 a_AT0
 climax_NN1
@@ -53010,7 +53010,7 @@ a_AT0
 secretion_NN1
 which_DTQ
 is_VBZ
-ejaculated_VVN
+ejaculated_VVD
 from_PRP
 a_AT0
 man_NN1
@@ -53039,7 +53039,7 @@ US_NP0
 research_NN1
 on_PRP
 the_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 nature_NN1
 of_PRF
 this_DT0
@@ -53427,7 +53427,7 @@ abnormality_NN1
 of_PRF
 the_AT0
 penis_NN1
-present_AJ0-NN1
+present_AJ0
 in_PRP
 about_PRP
 one_CRD
@@ -53468,7 +53468,7 @@ slight_AJ0
 blockage_NN1
 in_PRP
 the_AT0
-urinary_AJ0-NN1
+urinary_AJ0
 pipe_NN1
 for_PRP
 a_AT0
@@ -54014,8 +54014,8 @@ immediately_AV0
 after_PRP
 orgasm_NN1
 a_AT0
-sedative_AJ0-NN1
-chemical_AJ0-NN1
+sedative_AJ0
+chemical_AJ0
 floods_NN2
 through_PRP
 a_AT0
@@ -54120,7 +54120,7 @@ n't_XX0
 let_VVB
 him_PNP
 Some_DT0
-urinary_AJ0-NN1
+urinary_AJ0
 games_NN2
 are_VBB
 fairly_AV0
@@ -54166,14 +54166,14 @@ for_PRP
 payable_AJ0
 to_TO0
 Ebury_NP0
-Press_NN1-VVB
+Press_NN1
 PO_NN1
 Box_NN1
 50_CRD
 Harlow_NP0
 Essex_NP0
 CM17_UNC
-ODZ_NN1-NP0
+ODZ_NN1
 For_PRP
 Access/Visa_NN1
 users_NN2
@@ -54188,7 +54188,7 @@ OF_PRF
 THE_AT0
 MONTH_NN1
 STADE_NP0
-FRANCAIS_NP0-NN1
+FRANCAIS_NN1
 If_CJS
 you_PNP
 have_VHB
@@ -54208,14 +54208,14 @@ to_TO0
 make_VVI
 sex_NN1
 more_AV0
-varied_AJ0
+varied_VVN
 Stade_NP0
-Fran\xc3\xa7ais_NP0-NN1
+Fran\xc3\xa7ais_NN1
 could_VM0
 be_VBI
 the_AT0
 answer_NN1
-Standing_VVG-NN1
+Standing_NN1
 sex_NN1
 has_VHZ
 had_VHD
@@ -54314,7 +54314,7 @@ the_AT0
 dreaded_AJ0
 knee_NN1
 trembler_NN1
-Racing_VVG-AJ0
+Racing_VVG
 Club_NN1
 is_VBZ
 another_DT0
@@ -54360,7 +54360,7 @@ humour_NN1
 but_CJC
 do_VDB
 n't_XX0
-fall_VVI
+fall_NN1
 backwards_AV0
 this_DT0
 could_VM0
@@ -54434,7 +54434,7 @@ of_PRF
 snowflake_NN1
 pattern_NN1
 jumpers_NN2
-Knitted_VVN-AJ0
+Knitted_VVN
 in_PRP
 Patons_NP0
 Pure_AJ0
@@ -54622,7 +54622,7 @@ in_PRP
 Archer_NP0
 Road_NP0
 an_AT0
-average_AJ0-NN1
+average_AJ0
 sort_NN1
 of_PRF
 street_NN1
@@ -54871,12 +54871,12 @@ well_AV0
 be_VBI
 a_AT0
 little_AJ0
-rose-tinted_AJ0-NN1
+rose-tinted_AJ0
 but_CJC
 that_CJT
 weighty_AJ0
 bulldog_NN1
-clip-around-the-nose_NN1-AJ0
+clip-around-the-nose_AJ0
 sensation_NN1
 appears_VVZ
 to_TO0
@@ -55002,7 +55002,7 @@ Elder_NN1
 brother_NN1
 Geoffrey_NP0
 the_AT0
-Paragon_NN1-NP0
+Paragon_NP0
 blond_AJ0
 brainy_AJ0
 sporting_VVG
@@ -55119,7 +55119,7 @@ now_AV0
 sported_VVD
 by_PRP
 your_DPS
-average_AJ0-NN1
+average_AJ0
 Yuppie_NN1
 but_CJC
 which_DTQ
@@ -55138,7 +55138,7 @@ the_AT0
 owl_NN1
 specs_NN2
 with_PRP
-Elastoplast_NP0-NN1
+Elastoplast_NP0
 all_DT0
 over_PRP
 one_CRD
@@ -55174,7 +55174,7 @@ I_PNP
 should_VM0
 have_VHB
 been_VBN
-Elastoplasted_VVN-AJ0
+Elastoplasted_AJ0
 all_DT0
 over_PRP
 At_PRP
@@ -55335,7 +55335,7 @@ too_AV0
 shortsighted_AJ0
 himself_PNX
 to_TO0
-notice_VVI
+notice_NN1
 Or_CJC
 maybe_AV0
 love_NN1
@@ -55398,7 +55398,7 @@ banged_VVD
 glasses_NN2
 together_AV0
 in_PRP
-mid-kiss_NN1-VVB
+mid-kiss_VVB
 I_PNP
 just_AV0
 knew_VVD
@@ -55446,7 +55446,7 @@ gown_NN1
 when_CJS
 I_PNP
 always_AV0
-feel_VVI
+feel_VVB
 decidedly_AV0
 Everage_NP0
 My_DPS
@@ -55490,7 +55490,7 @@ other_AJ0
 down_AVP
 the_AT0
 Holborn_NP0
-Public_AJ0-NN1
+Public_AJ0
 Baths_NN2
 Back_AVP
 came_VVD
@@ -55624,8 +55624,8 @@ And_CJC
 the_AT0
 winner_NN1
 is_VBZ
-Dustman_NP0-NN1
-Hoffbin_NP0-NN1
+Dustman_NP0
+Hoffbin_NN1
 During_PRP
 a_AT0
 run_VVI
@@ -55642,7 +55642,7 @@ lenses_NN2
 which_DTQ
 made_VVN
 my_DPS
-cry_VVI
+cry_NN1
 continuously_AV0
 This_DT0
 was_VBD
@@ -55663,7 +55663,7 @@ his_DPS
 lines_NN2
 Pink-eyed_AJ0
 and_CJC
-lachrymose_NN1-VVB
+lachrymose_NN1
 I_PNP
 returned_VVD
 to_TO0
@@ -55779,7 +55779,7 @@ if_CJS
 you_PNP
 wear_VVI
 your_DPS
-flatmate_NN1-AJ0
+flatmate_NN1
 's_POS
 instead_AV0
 of_PRF
@@ -55902,7 +55902,7 @@ since_CJS
 puberty_NN1
 You_PNP
 simply_AV0
-freeze_VVI
+freeze_NN1
 with_PRP
 the_AT0
 shock_NN1
@@ -55915,14 +55915,14 @@ my_DPS
 case_NN1
 the_AT0
 old_AJ0
-Mirrored_AJ0-VVN
+Mirrored_AJ0
 lifts_VVZ
 are_VBB
 the_AT0
 worse_AJC
 No_ITJ
 I_PNP
-lie_VVI
+lie_VVB
 Marks_NP0
 &_CJC
 Spencer_NP0

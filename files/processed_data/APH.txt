@@ -145,7 +145,7 @@ explained_VVD
 The_AT0
 suggestion_NN1
 that_CJT
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 a_AT0
 stimulus_NN1
@@ -241,7 +241,7 @@ vigorous_AJ0
 CR_NP0
 may_VM0
 be_VBI
-increased_AJ0
+increased_VVN
 What_DTQ
 we_PNP
 have_VHB
@@ -252,7 +252,7 @@ p._NN0
 24_CRD
 is_VBZ
 that_CJT
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 to-be-CS_NP0
@@ -320,7 +320,7 @@ mechanisms_NN2
 other_AJ0
 than_CJS
 those_DT0
-involved_AJ0
+involved_VVN
 in_PRP
 habituation_NN1
 The_AT0
@@ -344,7 +344,7 @@ response_NN1
 UR_NP0
 produced_VVN
 by_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 to-be-CS_NP0
@@ -434,7 +434,7 @@ than_CJS
 that_CJT
 seen_VVN
 in_PRP
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 subjects_NN2
 for_PRP
 whom_PNQ
@@ -537,7 +537,7 @@ acquired_VVN
 the_AT0
 CR_NP0
 which_DTQ
-involved_AJ0
+involved_VVN
 an_AT0
 increase_NN1
 in_PRP
@@ -546,7 +546,7 @@ more_AV0
 rapidly_AV0
 than_CJS
 did_VDD
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 subjects_NN2
 A_AT0
 somewhat_AV0
@@ -570,7 +570,7 @@ considering_VVG
 the_AT0
 role_NN1
 of_PRF
-orienting_AJ0-NN1
+orienting_AJ0
 responses_NN2
 ORs_NN2
 Pavlov_NP0
@@ -616,7 +616,7 @@ might_VM0
 be_VBI
 expected_VVN
 that_CJT
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 CS_NP0
@@ -667,7 +667,7 @@ processing_NN1
 of_PRF
 environmental_AJ0
 information_NN1
-Conditioning_NN1-AJ0
+Conditioning_AJ0
 with_PRP
 an_AT0
 habituated_AJ0
@@ -725,7 +725,7 @@ has_VHZ
 been_VBN
 habituated_AJ0
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 tends_VVZ
 to_TO0
 reappear_VVI
@@ -825,7 +825,7 @@ that_CJT
 had_VHD
 not_XX0
 received_VVD
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 Fig._NN1
 3.1_CRD
 lower_AJC
@@ -929,10 +929,10 @@ the_AT0
 low_AJ0
 level_NN1
 of_PRF
-orienting_AJ0-NN1
+orienting_AJ0
 in_PRP
 the_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 subjects_NN2
 was_VBD
 responsible_AJ0
@@ -975,7 +975,7 @@ the_AT0
 OR_CJC
 in_PRP
 the_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 group_NN1
 might_VM0
 retard_VVI
@@ -1065,7 +1065,7 @@ OR_CJC
 that_CJT
 habituates_VVZ
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 but_CJC
 there_EX0
 is_VBZ
@@ -1097,7 +1097,7 @@ Siegel_NP0
 1972_CRD
 reports_NN2
 that_CJT
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 a_AT0
 tone_NN1
@@ -1160,7 +1160,7 @@ rats_NN2
 were_VBD
 recorded_VVN
 as_CJS
-orienting_AJ0-NN1
+orienting_AJ0
 to_TO0
 a_AT0
 light_NN1
@@ -1172,7 +1172,7 @@ conditioned_AJ0
 response_NN1
 CR_NP0
 The_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 and_CJC
 control_NN1
 groups_NN2
@@ -1184,7 +1184,7 @@ in_PRP
 the_AT0
 second_ORD
 stage_NN1
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 subjects_NN2
 experienced_VVN
 non-reinforced_AJ0
@@ -1199,7 +1199,7 @@ The_AT0
 partial_AJ0
 group_NN1
 received_VVD
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 in_PRP
 which_DTQ
 the_AT0
@@ -1438,7 +1438,7 @@ Later_AV0
 sections_NN2
 of_PRF
 the_AT0
-present_AJ0-NN1
+present_AJ0
 chapter_NN1
 discuss_VVI
 this_DT0
@@ -1451,7 +1451,7 @@ and_CJC
 latent_AJ0
 inhibition_NN1
 a_AT0
-Cross-experiment_AJ0-NN1
+Cross-experiment_NN1
 comparisons_NN2
 If_CJS
 latent_AJ0
@@ -1515,10 +1515,10 @@ of_PRF
 latent_AJ0
 inhibition_NN1
 e.g._AV0
-Lubow_NP0-NN1
+Lubow_NP0
 1965_CRD
-Lubow_NP0-NN1
-Markman_NP0-NN1
+Lubow_NP0
+Markman_NN1
 and_CJC
 Allen_NP0
 1968_CRD
@@ -1535,7 +1535,7 @@ from_PRP
 that_CJT
 used_VVN
 for_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 produces_VVZ
 generalization_NN1
 decrement_NN1
@@ -1593,7 +1593,7 @@ more_AV0
 profound_AJ0
 when_CJS
 the_AT0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 trials_NN2
 are_VBB
 relatively_AV0
@@ -1603,7 +1603,7 @@ Lantz_NP0
 1973_CRD
 Schnur_NP0
 and_CJC
-Lubow_NP0-NN1
+Lubow_NP0
 1976_CRD
 but_CJC
 see_VVI
@@ -1644,7 +1644,7 @@ Lantz_NP0
 1976_CRD
 Schnur_NP0
 and_CJC
-Lubow_NP0-NN1
+Lubow_NP0
 1976_CRD
 A_AT0
 further_AJC
@@ -1683,7 +1683,7 @@ Gemberling_NP0
 1977_CRD
 McIntosh_NP0
 and_CJC
-Tarpy_NP0-NN1
+Tarpy_NP0
 1977_CRD
 Westbrook_NP0
 Provost_NP0
@@ -1775,8 +1775,8 @@ in_PRP
 latent_AJ0
 inhibition_NN1
 see_VVI
-Lubow_NP0-NN1
-Weiner_NP0-NN1
+Lubow_NP0
+Weiner_NN1
 and_CJC
 Schnur_NP0
 1981_CRD
@@ -1826,7 +1826,7 @@ the_AT0
 last_ORD
 trial_NN1
 of_PRF
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 James_NP0
 '_POS
 1971_CRD
@@ -1994,7 +1994,7 @@ habituation_NN1
 was_VBD
 made_VVN
 by_PRP
-Weiss_NP0-NN1
+Weiss_NP0
 Friedman_NP0
 and_CJC
 McGregor_NP0
@@ -2041,7 +2041,7 @@ water-licking_AJ0
 response_NN1
 but_CJC
 equivalent_AJ0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 produced_VVN
 no_AT0
 latent_AJ0
@@ -2087,7 +2087,7 @@ from_PRP
 Gallagher_NP0
 Meagher_NP0
 and_CJC
-Bostock_NP0-NN1
+Bostock_NN1
 1987_CRD
 who_PNQ
 investigated_VVN
@@ -2111,7 +2111,7 @@ that_CJT
 received_VVD
 infusions_NN2
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 sessions_NN2
 showed_VVD
 normal_AJ0
@@ -2119,7 +2119,7 @@ habituation_NN1
 of_PRF
 the_AT0
 UR_NP0
-heart-rate_AJ0-NN1
+heart-rate_NN1
 deceleration_NN1
 evoked_VVN
 by_PRP
@@ -2143,7 +2143,7 @@ h_ZZ0
 after_PRP
 the_AT0
 last_ORD
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 session_NN1
 but_CJC
 when_CJS
@@ -2172,8 +2172,8 @@ Generalized_AJ0
 effects_NN2
 of_PRF
 flavour_NN1
-pre-exposure_NN1-AJ0
-Pre-exposure_NN1-AJ0
+pre-exposure_NN1
+Pre-exposure_AJ0
 to_TO0
 a_AT0
 novel_NN1
@@ -2206,7 +2206,7 @@ flavour-aversion_AJ0
 conditioning_NN1
 If_CJS
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 exposure_NN1
 is_VBZ
 given_VVN
@@ -2232,7 +2232,7 @@ Siegel_NP0
 and_CJC
 latent_AJ0
 inhibition_NN1
-Tarpy_NP0-NN1
+Tarpy_NP0
 and_CJC
 McIntosh_NP0
 1977_CRD
@@ -2258,7 +2258,7 @@ extent_NN1
 to_TO0
 which_DTQ
 the_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 flavour_NN1
 and_CJC
 the_AT0
@@ -2298,7 +2298,7 @@ in_PRP
 an_AT0
 experiment_NN1
 by_PRP
-Braveman_NP0-NN1
+Braveman_NN1
 and_CJC
 Jarvis_NP0
 1978_CRD
@@ -2306,7 +2306,7 @@ see_VVI
 also_AV0
 Miller_NP0
 and_CJC
-Holzman_NP0-NN1
+Holzman_NP0
 1981_CRD
 Gilley_NP0
 and_CJC
@@ -2331,7 +2331,7 @@ different_AJ0
 groups_NN2
 of_PRF
 subjects_NN2
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 either_AV0
 to_TO0
 saline_AJ0
@@ -2347,7 +2347,7 @@ The_AT0
 flavours_NN2
 used_VVN
 are_VBB
-listed_AJ0
+listed_VVN
 in_PRP
 Fig._NN1
 3.2_CRD
@@ -2375,12 +2375,12 @@ shows_VVZ
 only_AV0
 the_AT0
 subjects_NN2
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 to_TO0
 water_NN1
 showed_VVD
 neophobia_NN1
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 any_DT0
 of_PRF
@@ -2436,7 +2436,7 @@ is_VBZ
 evident_AJ0
 that_CJT
 only_AV0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 saline_AJ0
 itself_PNX
@@ -2456,14 +2456,14 @@ all_DT0
 other_AJ0
 conditions_NN2
 of_PRF
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 On_PRP
 the_AT0
 basis_NN1
 of_PRF
 their_DPS
 findings_NN2
-Braveman_NP0-NN1
+Braveman_NN1
 and_CJC
 Jarvis_NP0
 1978_CRD
@@ -2491,7 +2491,7 @@ CS_NP0
 and_CJC
 thus_AV0
 requires_VVZ
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 that_CJT
 very_AV0
@@ -2526,9 +2526,9 @@ novel_NN1
 event_NN1
 see_VVI
 also_AV0
-Braveman_NP0-NN1
+Braveman_NN1
 1978_CRD
-Support_NN1-VVB
+Support_NN1
 for_PRP
 this_DT0
 interpretation_NN1
@@ -2546,7 +2546,7 @@ which_DTQ
 subjects_NN2
 are_VBB
 given_VVN
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 a_AT0
 variety_NN1
@@ -2608,7 +2608,7 @@ confirmed_VVN
 by_PRP
 Miller_NP0
 and_CJC
-Holzman_NP0-NN1
+Holzman_NP0
 1981_CRD
 fig.3.3_UNC
 *_UNC
@@ -2622,7 +2622,7 @@ solution_NN1
 consumed_VVN
 by_PRP
 rats_NN2
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 to_TO0
 water_NN1
 W_NP0
@@ -2687,9 +2687,9 @@ by_PRP
 an_AT0
 injection_NN1
 of_PRF
-LiCl_NN1-NP0
+LiCl_NP0
 From_PRP
-Braveman_NP0-NN1
+Braveman_NN1
 and_CJC
 Jarvis_NP0
 1978_CRD
@@ -2739,7 +2739,7 @@ shows_VVZ
 the_AT0
 dose_NN1
 of_PRF
-LiCl_NN1-NP0
+LiCl_NP0
 used_VVN
 was_VBD
 sufficient_AJ0
@@ -2781,14 +2781,14 @@ the_AT0
 test_NN1
 see_VVI
 also_AV0
-Misanin_NP0-NN1
+Misanin_NN1
 Blatt_NP0
 and_CJC
 Hindenliter_AJC
 1985_CRD
 And_CJC
 indeed_AV0
-Tarpy_NP0-NN1
+Tarpy_NP0
 and_CJC
 McIntosh_NP0
 1977_CRD
@@ -2830,7 +2830,7 @@ before_PRP
 conditioning_NN1
 Miller_NP0
 and_CJC
-Holzman_NP0-NN1
+Holzman_NP0
 1981_CRD
 were_VBD
 aware_AJ0
@@ -2852,7 +2852,7 @@ a_AT0
 smaller_AJC
 dose_NN1
 of_PRF
-LiCl_NN1-NP0
+LiCl_NP0
 was_VBD
 used_VVN
 as_CJS
@@ -2868,7 +2868,7 @@ between_PRP
 subjects_NN2
 given_VVN
 no_AT0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 and_CJC
 those_DT0
 exposed_VVN
@@ -2923,7 +2923,7 @@ aversion_NN1
 e.g._AV0
 Bond_NP0
 and_CJC
-DiGiusto_NP0-NN1
+DiGiusto_NN1
 1975_CRD
 Once_AV0
 it_PNP
@@ -2940,7 +2940,7 @@ various_AJ0
 studies_NN2
 of_PRF
 flavour_NN1
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 might_VM0
 have_VHB
 used_VVN
@@ -2967,7 +2967,7 @@ and_CJC
 latent_AJ0
 inhibition_NN1
 Indeed_AV0
-Braveman_NP0-NN1
+Braveman_NN1
 and_CJC
 Jarvis_NP0
 1978_CRD
@@ -3079,7 +3079,7 @@ which_DTQ
 they_PNP
 had_VHD
 been_VBN
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 others_NN2
 in_PRP
 a_AT0
@@ -3119,12 +3119,12 @@ the_AT0
 light_NN1
 during_PRP
 the_AT0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 phase_NN1
 Those_DT0
 that_CJT
 received_VVD
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 and_CJC
 conditioning_NN1
 in_PRP
@@ -3220,7 +3220,7 @@ Preston_NP0
 and_CJC
 Mackintosh_NP0
 1984_CRD
-Swartzentruber_NP0-NN1
+Swartzentruber_NN1
 and_CJC
 Bouton_NP0
 1986_CRD
@@ -3595,7 +3595,7 @@ by_PRP
 Bouton_NP0
 Okun_NP0
 and_CJC
-Swartzentruber_NP0-NN1
+Swartzentruber_NN1
 which_DTQ
 used_VVN
 closely_AV0
@@ -3727,7 +3727,7 @@ reverse_NN1
 effect_NN1
 Hall_NN1
 and_CJC
-Schachtman_NP0-NN1
+Schachtman_NN1
 1987_CRD
 have_VHB
 demonstrated_VVN
@@ -3741,7 +3741,7 @@ the_AT0
 last_ORD
 session_NN1
 of_PRF
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 stimulus_NN1
@@ -3787,7 +3787,7 @@ received_VVD
 16_CRD
 days_NN2
 of_PRF
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 presentation_NN1
 of_PRF
@@ -3862,7 +3862,7 @@ that_CJT
 went_VVD
 straight_AV0
 from_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 conditioning_NN1
 without_PRP
@@ -3933,7 +3933,7 @@ in_PRP
 the_AT0
 Hall_NN1
 and_CJC
-Schachtman_NP0-NN1
+Schachtman_NN1
 1987_CRD
 study_NN1
 as_CJS
@@ -3959,7 +3959,7 @@ forward_AV0
 by_PRP
 Hall_NN1
 and_CJC
-Schachtman_NP0-NN1
+Schachtman_NN1
 was_VBD
 that_CJT
 the_AT0
@@ -3983,7 +3983,7 @@ to_TO0
 match_VVI
 but_CJC
 rather_AV0
-depended_VVN-VVD
+depended_VVD
 on_PRP
 a_AT0
 change_NN1
@@ -4025,10 +4025,10 @@ the_AT0
 context_NN1
 is_VBZ
 generally_AV0
-arousing_VVG-AJ0
+arousing_AJ0
 cf._VVB
 the_AT0
-dual-process_AJ0-NN1
+dual-process_NN1
 theory_NN1
 of_PRF
 Groves_NP0
@@ -4055,7 +4055,7 @@ to_TO0
 restore_VVI
 the_AT0
 lost_VVN
-arousing_VVG-AJ0
+arousing_AJ0
 properties_NN2
 of_PRF
 a_AT0
@@ -4100,7 +4100,7 @@ a_AT0
 weak_AJ0
 tendency_NN1
 to_TO0
-emit_VVI
+emit_VVB
 this_DT0
 UR_NP0
 can_VM0
@@ -4139,7 +4139,7 @@ to_TO0
 the_AT0
 effects_NN2
 of_PRF
-heightened_AJ0
+heightened_VVN
 arousal_NN1
 Table_NN1
 3.1_CRD
@@ -4163,7 +4163,7 @@ provides_VVZ
 support_NN1
 for_PRP
 this_DT0
-dual-process_AJ0-NN1
+dual-process_NN1
 interpretation_NN1
 Two_CRD
 groups_NN2
@@ -4317,7 +4317,7 @@ hand_NN1
 the_AT0
 effects_NN2
 of_PRF
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 test_NN1
@@ -4364,7 +4364,7 @@ It_PNP
 seems_VVZ
 that_CJT
 the_AT0
-arousing_VVG-AJ0
+arousing_AJ0
 properties_NN2
 of_PRF
 a_AT0
@@ -4586,7 +4586,7 @@ used_VVN
 by_PRP
 Hall_NN1
 and_CJC
-Schachtman_NP0-NN1
+Schachtman_NN1
 1987_CRD
 Taken_VVN
 together_AV0
@@ -4618,7 +4618,7 @@ it_PNP
 is_VBZ
 enough_AV0
 to_TO0
-prompt_VVI
+prompt_AJ0
 the_AT0
 tentative_AJ0
 conclusion_NN1
@@ -5240,7 +5240,7 @@ examination_NN1
 of_PRF
 its_DPS
 two_CRD
-chief_AJ0-NN1
+chief_NN1
 predictions_NN2
 about_PRP
 latent_AJ0
@@ -5345,7 +5345,7 @@ h_ZZ0
 between_PRP
 the_AT0
 last_ORD
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 trial_NN1
 and_CJC
 the_AT0
@@ -5479,7 +5479,7 @@ as_CJS
 the_AT0
 interval_NN1
 is_VBZ
-increased_AJ0
+increased_VVN
 and_CJC
 the_AT0
 short-term_AJ0
@@ -5593,7 +5593,7 @@ Siegel_NP0
 but_CJC
 see_VVI
 also_AV0
-Lubow_NP0-NN1
+Lubow_NP0
 et_UNC
 al_UNC
 1968_CRD
@@ -5713,7 +5713,7 @@ by_PRP
 an_AT0
 injection_NN1
 of_PRF
-LiCl_NN1-NP0
+LiCl_NP0
 It_PNP
 is_VBZ
 apparent_AJ0
@@ -5747,7 +5747,7 @@ when_CJS
 the_AT0
 interval_NN1
 was_VBD
-increased_AJ0
+increased_VVN
 *_UNC
 An_AT0
 attenuation_NN1
@@ -5771,7 +5771,7 @@ even_AV0
 in_PRP
 flavour-aversion_AJ0
 learning_NN1
-Nachman_NP0-NN1
+Nachman_NN1
 and_CJC
 Jones_NP0
 1974_CRD
@@ -5823,7 +5823,7 @@ the_AT0
 subjects_NN2
 on_PRP
 the_AT0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 trial_NN1
 Best_AJS
 and_CJC
@@ -5854,7 +5854,7 @@ by_PRP
 Westbrook_NP0
 Bond_NP0
 and_CJC
-Feyer_NP0-NN1
+Feyer_NN1
 1981_CRD
 by_PRP
 Bond_NP0
@@ -5874,11 +5874,11 @@ the_AT0
 duration_NN1
 of_PRF
 the_AT0
-initial_AJ0-NN1
-pre-exposure_NN1-AJ0
+initial_AJ0
+pre-exposure_NN1
 trial_NN1
 was_VBD
-varied_AJ0
+varied_VVN
 All_DT0
 three_CRD
 studies_NN2
@@ -5901,7 +5901,7 @@ found_VVD
 that_CJT
 more_AV0
 prolonged_AJ0
-initial_AJ0-NN1
+initial_AJ0
 exposure_NN1
 generated_VVN
 latent_AJ0
@@ -5909,7 +5909,7 @@ inhibition_NN1
 both_AV0
 when_CJS
 the_AT0
-exposure-conditioning_AJ0-NN1
+exposure-conditioning_NN1
 interval_NN1
 was_VBD
 short_AJ0
@@ -6057,7 +6057,7 @@ the_AT0
 target_NN1
 stimulus_NN1
 in_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 that_CJT
 is_VBZ
 they_PNP
@@ -6157,11 +6157,11 @@ effect_NN1
 induced_VVN
 by_PRP
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 exposure_NN1
 phase_NN1
 is_VBZ
-increased_AJ0
+increased_VVN
 An_AT0
 implication_NN1
 of_PRF
@@ -6173,7 +6173,7 @@ that_CJT
 even_AV0
 when_CJS
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 exposure_NN1
 to_TO0
 the_AT0
@@ -6183,7 +6183,7 @@ been_VBN
 prolonged_AJ0
 or_CJC
 has_VHZ
-involved_AJ0
+involved_VVN
 repeated_VVN
 presentations_NN2
 it_PNP
@@ -6263,7 +6263,7 @@ versus_PRP
 days_NN2
 McIntosh_NP0
 and_CJC
-Tarpy_NP0-NN1
+Tarpy_NP0
 1977_CRD
 and_CJC
 of_PRF
@@ -6305,7 +6305,7 @@ procedure_NN1
 e.g._AV0
 Baker_NP0
 and_CJC
-Mercier_NP0-NN1
+Mercier_NP0
 1982b_UNC
 who_PNQ
 compared_VVN
@@ -6419,7 +6419,7 @@ et_UNC
 al_UNC
 1981_CRD
 with_PRP
-mixed_AJ0
+mixed_VVN
 results_NN2
 They_PNP
 argue_VVI
@@ -6555,7 +6555,7 @@ the_AT0
 context_NN1
 alone_AJ0
 between_PRP
-initial_AJ0-NN1
+initial_AJ0
 exposure_NN1
 to_TO0
 the_AT0
@@ -6600,7 +6600,7 @@ inhibition_NN1
 produced_VVN
 by_PRP
 lengthy_AJ0
-initial_AJ0-NN1
+initial_AJ0
 exposure_NN1
 both_AV0
 at4_UNC
@@ -6622,7 +6622,7 @@ h_ZZ0
 produced_VVN
 by_PRP
 brief_AJ0
-initial_AJ0-NN1
+initial_AJ0
 exposure_NN1
 Interpretation_NN1
 of_PRF
@@ -6696,7 +6696,7 @@ at_PRP
 h_ZZ0
 after_PRP
 lengthy_AJ0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 is_VBZ
 supposed_AJ0
 to_TO0
@@ -6951,7 +6951,7 @@ Anderson_NP0
 O'Farrell_NP0
 Formica_NN1
 and_CJC
-Caponigri_NP0-NN1
+Caponigri_NP0
 1969_CRD
 Anderson_NP0
 Wolf_NP0
@@ -6974,7 +6974,7 @@ should_VM0
 be_VBI
 diminished_VVN
 when_CJS
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 and_CJC
 conditioning_NN1
 take_VVI
@@ -7200,7 +7200,7 @@ the_AT0
 retarding_AJ0
 effect_NN1
 of_PRF
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 stimulus_NN1
@@ -7209,8 +7209,8 @@ of_PRF
 these_DT0
 predictions_NN2
 has_VHZ
-yielded_VVD-VVN
-mixed_AJ0
+yielded_VVD
+mixed_VVN
 results_NN2
 We_PNP
 have_VHB
@@ -7268,7 +7268,7 @@ this_DT0
 conclusion_NN1
 Baker_NP0
 and_CJC
-Mercier_NP0-NN1
+Mercier_NP0
 1982b_UNC
 found_VVD
 evidence_NN1
@@ -7339,7 +7339,7 @@ those_DT0
 of_PRF
 Baker_NP0
 and_CJC
-Mercier_NP0-NN1
+Mercier_NP0
 1982b_UNC
 found_VVD
 no_AT0
@@ -7417,7 +7417,7 @@ clear_AJ0
 effect_NN1
 was_VBD
 observed_VVN
-Pre-exposure_NN1-AJ0
+Pre-exposure_AJ0
 to_TO0
 the_AT0
 stimulus_NN1
@@ -7481,7 +7481,7 @@ c_ZZ0
 interpreted_VVN
 their_DPS
 context_NN1
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 effect_NN1
 as_CJS
 being_VBG
@@ -7499,7 +7499,7 @@ They_PNP
 argued_VVD
 first_ORD
 that_CJT
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 a_AT0
 context_NN1
@@ -7560,7 +7560,7 @@ suggestion_NN1
 implies_VVZ
 that_CJT
 context_NN1
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 should_VM0
 make_VVI
 subsequently_AV0
@@ -7615,7 +7615,7 @@ effect_NN1
 on_PRP
 subjects_NN2
 given_VVN
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 context_NN1
@@ -7634,7 +7634,7 @@ by_PRP
 subjects_NN2
 not_XX0
 given_VVN
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 What_DTQ
 remains_VVZ
 to_TO0
@@ -7751,7 +7751,7 @@ others_NN2
 e.g._AV0
 Sutton_NP0
 and_CJC
-Barto_NP0-NN1
+Barto_NN1
 1981_CRD
 Gluck_NP0
 and_CJC
@@ -7790,7 +7790,7 @@ perceptual_AJ0
 learning_NN1
 For_PRP
 our_DPS
-present_AJ0-NN1
+present_AJ0
 purposes_NN2
 however_AV0
 the_AT0
@@ -7890,7 +7890,7 @@ that_CJT
 are_VBB
 activated_VVN
 concurrently_AV0
-Repeated_AJ0-VVN
+Repeated_AJ0
 presentation_NN1
 of_PRF
 a_AT0
@@ -8238,7 +8238,7 @@ Minor_AJ0
 1984_CRD
 and_CJC
 why_AVQ
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 context_NN1
@@ -8268,7 +8268,7 @@ for_PRP
 their_DPS
 theory_NN1
 and_CJC
-present_AJ0-NN1
+present_AJ0
 additional_AJ0
 features_NN2
 of_PRF
@@ -8287,7 +8287,7 @@ One_CRD
 suggestion_NN1
 is_VBZ
 that_CJT
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 context_NN1
@@ -8533,7 +8533,7 @@ associability_NN1
 suffered_VVN
 by_PRP
 a_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 stimulus_NN1
 is_VBZ
 determined_VVN
@@ -8578,18 +8578,18 @@ The_AT0
 theory_NN1
 proposed_AJ0
 by_PRP
-Lubow_NP0-NN1
+Lubow_NP0
 and_CJC
 his_DPS
 collaborators_NN2
 e.g._AV0
-Lubow_NP0-NN1
+Lubow_NP0
 Schnur_NP0
 and_CJC
-Rifkin_NP0-NN1
+Rifkin_NN1
 1976_CRD
-Lubow_NP0-NN1
-Weiner_NP0-NN1
+Lubow_NP0
+Weiner_NN1
 and_CJC
 Schnur_NP0
 1981_CRD
@@ -8652,7 +8652,7 @@ attentional_AJ0
 response_NN1
 it_PNP
 evokes_VVZ
-Repeated_AJ0-VVN
+Repeated_AJ0
 presentation_NN1
 of_PRF
 a_AT0
@@ -8705,7 +8705,7 @@ conditioning_NN1
 of_PRF
 inattention_NN1
 see_VVI
-Lubow_NP0-NN1
+Lubow_NP0
 et_UNC
 al_UNC
 1981_CRD
@@ -8789,7 +8789,7 @@ trained_VVN
 as_CJS
 the_AT0
 CS_NP0
-Lubow_NP0-NN1
+Lubow_NP0
 et_UNC
 al_UNC
 1981_CRD
@@ -8865,7 +8865,7 @@ considerations_NN2
 just_AV0
 advanced_AJ0
 led_VVD
-Lubow_NP0-NN1
+Lubow_NP0
 et_UNC
 al_UNC
 1981_CRD
@@ -8889,7 +8889,7 @@ will_VM0
 be_VBI
 subject_NN1
 to_TO0
-overshadowing_AJ0-NN1
+overshadowing_AJ0
 and_CJC
 blocking_VVG
 Overshadowing_NP0
@@ -8913,7 +8913,7 @@ event_NN1
 B_ZZ0
 is_VBZ
 also_AV0
-present_AJ0-NN1
+present_AJ0
 on_PRP
 reinforced_VVN
 trials_NN2
@@ -8961,7 +8961,7 @@ It_PNP
 is_VBZ
 critical_AJ0
 for_PRP
-Lubow_NP0-NN1
+Lubow_NP0
 's_POS
 general_AJ0
 approach_NN1
@@ -8985,7 +8985,7 @@ Hall_NN1
 1988_CRD
 gave_VVD
 rats_NN2
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 a_AT0
 compound_NN1
@@ -9016,7 +9016,7 @@ shown_VVN
 by_PRP
 subjects_NN2
 given_VVN
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 A_AT0
 alone_AJ0
@@ -9024,7 +9024,7 @@ would_VM0
 constitute_VVB
 evidence_NN1
 for_PRP
-overshadowing_AJ0-NN1
+overshadowing_AJ0
 of_PRF
 latent_AJ0
 inhibition_NN1
@@ -9035,7 +9035,7 @@ a_AT0
 separate_AJ0
 experiment_NN1
 received_VVD
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 B_ZZ0
 alone_AJ0
@@ -9083,7 +9083,7 @@ Fig._NN1
 3.10_CRD
 show_VVI
 an_AT0
-overshadowing_AJ0-NN1
+overshadowing_AJ0
 effect_NN1
 group_NN1
 AB_UNC
@@ -9098,7 +9098,7 @@ far_AV0
 from_PRP
 producing_VVG
 blocking_VVG
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 B_ZZ0
 alone_AJ0
@@ -9131,7 +9131,7 @@ latent_AJ0
 inhibition_NN1
 offered_VVN
 by_PRP
-Lubow_NP0-NN1
+Lubow_NP0
 et_UNC
 al_UNC
 1981_CRD
@@ -9150,7 +9150,7 @@ be_VBI
 capable_AJ0
 of_PRF
 producing_VVG
-overshadowing_AJ0-NN1
+overshadowing_AJ0
 but_CJC
 not_XX0
 blocking_VVG
@@ -9186,7 +9186,7 @@ being_VBG
 that_CJT
 presented_VVN
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 If_CJS
 the_AT0
 two_CRD
@@ -9202,7 +9202,7 @@ and_CJC
 with_PRP
 compound_NN1
 AB_UNC
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 the_AT0
 presence_NN1
 of_PRF
@@ -9243,7 +9243,7 @@ be_VBI
 incomplete_AJ0
 Thus_AV0
 the_AT0
-overshadowing_AJ0-NN1
+overshadowing_AJ0
 effect_NN1
 can_VM0
 be_VBI
@@ -9316,7 +9316,7 @@ are_VBB
 presented_VVN
 in_PRP
 compound_NN1
-Pre-exposure_NN1-AJ0
+Pre-exposure_AJ0
 to_TO0
 B_ZZ0
 therefore_AV0
@@ -9325,7 +9325,7 @@ attenuate_VVI
 or_CJC
 abolish_VVI
 the_AT0
-overshadowing_AJ0-NN1
+overshadowing_AJ0
 effect_NN1
 Evidence_NN1
 in_PRP
@@ -9346,7 +9346,7 @@ are_VBB
 necessary_AJ0
 for_PRP
 the_AT0
-overshadowing_AJ0-NN1
+overshadowing_AJ0
 effect_NN1
 to_TO0
 emerge_VVI
@@ -9370,15 +9370,15 @@ for_PRP
 the_AT0
 effect_NN1
 Rudy_NP0
-Krauter_NP0-NN1
+Krauter_NP0
 and_CJC
-Gaffuri_NP0-NN1
+Gaffuri_NP0
 1976_CRD
 Baker_NP0
 and_CJC
-Mercier_NP0-NN1
+Mercier_NP0
 1982a_UNC
-Mercier_NP0-NN1
+Mercier_NP0
 and_CJC
 Baker_NP0
 1985_CRD
@@ -9388,7 +9388,7 @@ also_AV0
 Mackintosh_NP0
 1973_CRD
 Thus_AV0
-Mercier_NP0-NN1
+Mercier_NP0
 and_CJC
 Baker_NP0
 report_NN1
@@ -9399,7 +9399,7 @@ experiments_NN2
 in_PRP
 which_DTQ
 rats_NN2
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 to_TO0
 a_AT0
 compound_NN1
@@ -9420,7 +9420,7 @@ as_CJS
 readily_AV0
 as_CJS
 subjects_NN2
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 to_TO0
 the_AT0
 click_NN1
@@ -9455,7 +9455,7 @@ us_PNP
 that_CJT
 a_AT0
 flavour_NN1
-mixed_AJ0
+mixed_VVN
 with_PRP
 some_DT0
 other_AJ0
@@ -9495,7 +9495,7 @@ If_CJS
 so_AV0
 a_AT0
 click_NN1
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 in_PRP
 compound_NN1
 with_PRP
@@ -9514,7 +9514,7 @@ presented_VVN
 alone_AJ0
 and_CJC
 compound_NN1
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 will_VM0
 thus_AV0
 be_VBI
@@ -9536,7 +9536,7 @@ reason_NN1
 to_TO0
 expect_VVI
 an_AT0
-overshadowing_AJ0-NN1
+overshadowing_AJ0
 effect_NN1
 in_PRP
 flavour-aversion_AJ0
@@ -9571,7 +9571,7 @@ the_AT0
 effects_NN2
 of_PRF
 compound_NN1
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 in_PRP
 the_AT0
 conditioned_AJ0
@@ -9606,7 +9606,7 @@ account_NN1
 presented_VVN
 above_PRP
 an_AT0
-overshadowing_AJ0-NN1
+overshadowing_AJ0
 effect_NN1
 might_VM0
 be_VBI
@@ -9649,7 +9649,7 @@ but_CJC
 as_CJS
 in_PRP
 the_AT0
-Mercier_NP0-NN1
+Mercier_NP0
 and_CJC
 Baker_NP0
 1985_CRD
@@ -9661,7 +9661,7 @@ was_VBD
 ineffective_AJ0
 as_CJS
 an_AT0
-overshadowing_AJ0-NN1
+overshadowing_AJ0
 stimulus_NN1
 *_UNC
 A_AT0
@@ -9685,7 +9685,7 @@ as_CJS
 the_AT0
 CS_NP0
 and_CJC
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 is_VBZ
 given_VVN
 to_TO0
@@ -9721,7 +9721,7 @@ the_AT0
 stimuli_NN2
 encountered_VVN
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 and_CJC
 latent_AJ0
 inhibition_NN1
@@ -9860,7 +9860,7 @@ the_AT0
 AB_UNC
 compound_NN1
 and_CJC
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 was_VBD
 either_AV0
 with_PRP
@@ -9878,7 +9878,7 @@ the_AT0
 figure_NN1
 shows_VVZ
 both_AV0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 groups_NN2
 showed_VVD
 latent_AJ0
@@ -9897,7 +9897,7 @@ than_CJS
 subjects_NN2
 not_XX0
 given_VVN
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 but_CJC
 the_AT0
 size_NN1
@@ -9996,7 +9996,7 @@ some_DT0
 other_AJ0
 S2_UNC
 during_PRP
-initial_AJ0-NN1
+initial_AJ0
 exposure_NN1
 The_AT0
 rationale_NN1
@@ -10074,7 +10074,7 @@ of_PRF
 the_AT0
 serial_NN1
 compound_NN1
-S1-S2_AJ0-NN1
+S1-S2_NN1
 is_VBZ
 likely_AJ0
 to_TO0
@@ -10110,7 +10110,7 @@ according_VVG
 to_TO0
 the_AT0
 theory_NN1
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 distractor_NN1
@@ -10146,7 +10146,7 @@ prediction_NN1
 have_VHB
 produced_VVN
 a_AT0
-mixed_AJ0
+mixed_VVN
 set_VVN
 of_PRF
 results_NN2
@@ -10166,7 +10166,7 @@ a_AT0
 study_NN1
 of_PRF
 the_AT0
-S1-S2_AJ0-NN1
+S1-S2_NN1
 procedure_NN1
 by_PRP
 Honey_NN1
@@ -10187,7 +10187,7 @@ the_AT0
 A\xe2\x86\x92B_UNC
 condition_NN1
 received_VVD
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 target_NN1
@@ -10233,7 +10233,7 @@ presenting_VVG
 the_AT0
 S2_UNC
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 confirms_VVZ
 the_AT0
 findings_NN2
@@ -10279,7 +10279,7 @@ and_CJC
 Johnson_NP0
 1979_CRD
 Kaye_NP0
-Swietalski_NP0-NN1
+Swietalski_NN1
 and_CJC
 Mackintosh_NP0
 1988_CRD
@@ -10317,7 +10317,7 @@ They_PNP
 show_VVI
 that_CJT
 animals_NN2
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 once_AV0
 to_TO0
 vinegar_NN1
@@ -10341,7 +10341,7 @@ control_NN1
 subjects_NN2
 not_XX0
 given_VVN
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 But_CJC
 subjects_NN2
 given_VVN
@@ -10351,7 +10351,7 @@ by_PRP
 sucrose_NN1
 VS_PRP
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 showed_VVD
 no_AT0
 latent_AJ0
@@ -10415,7 +10415,7 @@ the_AT0
 same_DT0
 as_CJS
 the_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 stimulus_NN1
 If_CJS
 we_PNP
@@ -10464,7 +10464,7 @@ evident_AJ0
 after_PRP
 S1_UNC
 S2_UNC
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 Kaye_NP0
 et_UNC
 al_UNC
@@ -10478,7 +10478,7 @@ demonstrating_VVG
 that_CJT
 the_AT0
 VS_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 treatment_NN1
 will_VM0
 produce_VVI
@@ -10525,7 +10525,7 @@ the_AT0
 likelihood_NN1
 of_PRF
 such_DT0
-generalization-decrement_AJ0-NN1
+generalization-decrement_AJ0
 effects_NN2
 will_VM0
 depend_VVI
@@ -10589,7 +10589,7 @@ can_VM0
 influence_NN1
 latent_AJ0
 inhibition_NN1
-Mercier_NP0-NN1
+Mercier_NP0
 and_CJC
 Baker_NP0
 1985_CRD
@@ -10597,7 +10597,7 @@ see_VVI
 also_AV0
 Baker_NP0
 and_CJC
-Mercier_NP0-NN1
+Mercier_NP0
 1982a_UNC
 report_NN1
 the_AT0
@@ -10627,12 +10627,12 @@ stimuli_NN2
 none_PNI
 of_PRF
 which_DTQ
-yielded_VVD-VVN
+yielded_VVD
 any_DT0
 indication_NN1
 that_CJT
 the_AT0
-S1-S2_AJ0-NN1
+S1-S2_NN1
 procedure_NN1
 diminished_VVN
 the_AT0
@@ -10644,14 +10644,14 @@ On_PRP
 the_AT0
 other_AJ0
 hand_NN1
-Lubow_NP0-NN1
+Lubow_NP0
 et_UNC
 al_UNC
 1976_CRD
 have_VHB
 found_VVD
 that_CJT
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 a_AT0
 tone_NN1
@@ -10665,7 +10665,7 @@ less_AV0
 latent_AJ0
 inhibition_NN1
 than_CJS
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 target_NN1
@@ -10677,7 +10677,7 @@ result_NN1
 also_AV0
 reported_VVN
 by_PRP
-Szakmary_NP0-NN1
+Szakmary_NP0
 1977_CRD
 in_PRP
 a_AT0
@@ -10694,11 +10694,11 @@ stimuli_NN2
 Oddly_AV0
 however_AV0
 the_AT0
-S1-S2_AJ0-NN1
+S1-S2_NN1
 procedure_NN1
 used_VVN
 by_PRP
-Lubow_NP0-NN1
+Lubow_NP0
 et_UNC
 al_UNC
 1976_CRD
@@ -10775,7 +10775,7 @@ in_PRP
 subjects_NN2
 given_VVN
 the_AT0
-S1-S2_AJ0-NN1
+S1-S2_NN1
 treatment_NN1
 is_VBZ
 accordingly_AV0
@@ -10795,7 +10795,7 @@ results_NN2
 reported_VVN
 by_PRP
 Matzel_NP0
-Schachtman_NP0-NN1
+Schachtman_NN1
 and_CJC
 Miller_NP0
 1988_CRD
@@ -10811,7 +10811,7 @@ to_TO0
 those_DT0
 employed_VVN
 by_PRP
-Mercier_NP0-NN1
+Mercier_NP0
 and_CJC
 Baker_NP0
 1985_CRD
@@ -10829,8 +10829,8 @@ inhibition_NN1
 in_PRP
 subjects_NN2
 given_VVN
-S1-S2_AJ0-NN1
-pre-exposure_NN1-AJ0
+S1-S2_NN1
+pre-exposure_NN1
 I_PNP
 can_VM0
 only_AV0
@@ -10900,7 +10900,7 @@ serial_NN1
 presentation_NN1
 then_AV0
 the_AT0
-generalization-decrement_AJ0-NN1
+generalization-decrement_AJ0
 argument_NN1
 offered_VVN
 by_PRP
@@ -10936,10 +10936,10 @@ was_VBD
 that_CJT
 their_DPS
 S2_UNC
-varied_AJ0
+varied_VVN
 from_PRP
 one_CRD
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 trial_NN1
 to_TO0
 the_AT0
@@ -10959,7 +10959,7 @@ of_PRF
 the_AT0
 train_NN1
 was_VBD
-varied_AJ0
+varied_VVN
 being_VBG
 3_CRD
 Hz_NN0
@@ -11012,7 +11012,7 @@ discussed_VVN
 next_ORD
 d_ZZ0
 Conclusion_NN1
-Lubow_NP0-NN1
+Lubow_NP0
 et_UNC
 al_UNC
 1981_CRD
@@ -11085,7 +11085,7 @@ are_VBB
 rather_AV0
 more_AV0
 critical_AJ0
-Lubow_NP0-NN1
+Lubow_NP0
 et_UNC
 al_UNC
 1981_CRD
@@ -11095,7 +11095,7 @@ great_AJ0
 emphasis_NN1
 on_PRP
 the_AT0
-S1-S2_AJ0-NN1
+S1-S2_NN1
 procedure_NN1
 From_PRP
 their_DPS
@@ -11118,7 +11118,7 @@ of_PRF
 an_AT0
 S2_UNC
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 might_VM0
 in_PRP
 some_DT0
@@ -11154,7 +11154,7 @@ does_VDZ
 not_XX0
 suffer_VVI
 from_PRP
-overshadowing_AJ0-NN1
+overshadowing_AJ0
 and_CJC
 blocking_VVG
 in_PRP
@@ -11465,7 +11465,7 @@ value_NN1
 of_PRF
 a_AT0
 will_VM0
-fall_VVI
+fall_NN1
 When_CJS
 a_AT0
 reaches_VVZ
@@ -11523,14 +11523,14 @@ and_CJC
 \xce\xb1_UNC
 will_VM0
 accordingly_AV0
-fall_VVI
+fall_NN1
 to_TO0
 zero_CRD
 Subsequent_AJ0
 learning_NN1
 about_PRP
 the_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 stimulus_NN1
 will_VM0
 then_AV0
@@ -11576,7 +11576,7 @@ of_PRF
 \xce\xb1_UNC
 will_VM0
 be_VBI
-increased_AJ0
+increased_VVN
 for_PRP
 the_AT0
 next_ORD
@@ -11586,7 +11586,7 @@ should_VM0
 be_VBI
 acknowledged_VVN
 that_CJT
-eq_AJ0-NN1
+eq_NN1
 3.1_CRD
 must_VM0
 be_VBI
@@ -11611,7 +11611,7 @@ associability_NN1
 is_VBZ
 not_XX0
 as_CJS
-eq_AJ0-NN1
+eq_NN1
 3.1_CRD
 implies_VVZ
 determined_VVN
@@ -11626,7 +11626,7 @@ trial_NN1
 Associability_NN1
 does_VDZ
 not_XX0
-fall_VVI
+fall_NN1
 to_TO0
 zero_CRD
 after_PRP
@@ -11657,7 +11657,7 @@ by_PRP
 some_DT0
 sort_NN1
 of_PRF
-average_AJ0-NN1
+average_AJ0
 of_PRF
 the_AT0
 values_NN2
@@ -11681,7 +11681,7 @@ parameter_NN1
 \xce\xb3_UNC
 which_DTQ
 will_VM0
-lie_VVI
+lie_VVB
 between_PRP
 0_CRD
 and_CJC
@@ -11695,7 +11695,7 @@ which_DTQ
 the_AT0
 outcome_NN1
 is_VBZ
-weighted_AJ0
+weighted_VVN
 in_PRP
 favour_NN1
 of_PRF
@@ -11829,7 +11829,7 @@ investigates_VVZ
 transfer_NN1
 from_PRP
 a_AT0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 phase_NN1
 in_PRP
 which_DTQ
@@ -11866,7 +11866,7 @@ effects_NN2
 produced_VVN
 by_PRP
 a_AT0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 procedure_NN1
 in_PRP
 which_DTQ
@@ -11882,7 +11882,7 @@ Rats_NN2
 were_VBD
 given_VVN
 extensive_AJ0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 a_AT0
 tone_NN1
@@ -12003,7 +12003,7 @@ subjects_NN2
 that_CJT
 had_VHD
 received_VVD
-initial_AJ0-NN1
+initial_AJ0
 exposure_NN1
 to_TO0
 a_AT0
@@ -12025,7 +12025,7 @@ given_VVN
 partial_AJ0
 reinforcement_NN1
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 learned_VVN
 much_DT0
 more_AV0
@@ -12051,7 +12051,7 @@ the_AT0
 mild_AJ0
 shock_NN1
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 The_AT0
 slow_AJ0
 learning_NN1
@@ -12061,7 +12061,7 @@ group_NN1
 given_VVN
 consistently_AV0
 reinforced_VVN
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 can_VM0
 be_VBI
 taken_VVN
@@ -12106,7 +12106,7 @@ the_AT0
 reinforcement_NN1
 presented_VVN
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 tone_NN1
@@ -12189,7 +12189,7 @@ different_AJ0
 event_NN1
 used_VVN
 as_CJS
-differed_VVN-VVD
+differed_VVN
 in_PRP
 qualities_NN2
 that_CJT
@@ -12204,7 +12204,7 @@ these_DT0
 equations_NN2
 c_ZZ0
 The_AT0
-orienting_AJ0-NN1
+orienting_AJ0
 response_NN1
 in_PRP
 rats_NN2
@@ -12286,7 +12286,7 @@ is_VBZ
 that_CJT
 the_AT0
 behavioural_AJ0
-orienting_AJ0-NN1
+orienting_AJ0
 response_NN1
 OR_CJC
 shown_VVN
@@ -12386,7 +12386,7 @@ for_PRP
 subjects_NN2
 given_VVN
 non-reinforced_AJ0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 loss_NN1
 of_PRF
 the_AT0
@@ -12433,7 +12433,7 @@ some_DT0
 years_NN2
 ago_AV0
 by_PRP
-Grastyan_NP0-NN1
+Grastyan_NN1
 1961_CRD
 who_PNQ
 monitored_VVN
@@ -12483,7 +12483,7 @@ loses_VVZ
 its_DPS
 biological_AJ0
 usefulness_NN1
-Grastyan_NP0-NN1
+Grastyan_NN1
 1961_CRD
 p._NN0
 245_CRD
@@ -12513,7 +12513,7 @@ as_CJS
 do_VDB
 Svendsr\xc3\xb8d_NP0
 and_CJC
-Ursin_NP0-NN1
+Ursin_NN1
 1974_CRD
 in_PRP
 their_DPS
@@ -12614,7 +12614,7 @@ reinforcement_NN1
 tends_VVZ
 to_TO0
 maintain_VVI
-orienting_AJ0-NN1
+orienting_AJ0
 to_TO0
 the_AT0
 light_NN1
@@ -12643,7 +12643,7 @@ Wilson_NP0
 and_CJC
 Kaye_NP0
 1988_CRD
-Swan_NP0-NN1
+Swan_NP0
 and_CJC
 Pearce_NP0
 1988_CRD
@@ -13048,7 +13048,7 @@ Pavlov_NP0
 notion_NN1
 of_PRF
 the_AT0
-orienting_AJ0-NN1
+orienting_AJ0
 reflex_NN1
 Liddell_NP0
 suggested_VVN
@@ -13154,7 +13154,7 @@ both_AV0
 these_DT0
 reflexes_NN2
 The_AT0
-initial_AJ0-NN1
+initial_AJ0
 loss_NN1
 of_PRF
 this_DT0
@@ -13297,7 +13297,7 @@ established_VVN
 e.g._AV0
 Gibbon_NP0
 Farrell_NP0
-Locurto_NP0-NN1
+Locurto_NP0
 Duncan_NP0
 and_CJC
 Terrace_NP0
@@ -13611,7 +13611,7 @@ rate_NN1
 of_PRF
 response_NN1
 Honey_NN1
-Schachtman_NP0-NN1
+Schachtman_NN1
 and_CJC
 Hall_NN1
 1987_CRD
@@ -13819,7 +13819,7 @@ the_AT0
 target_NN1
 stimulus_NN1
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 is_VBZ
 to_TO0
 be_VBI
@@ -14100,8 +14100,8 @@ in_PRP
 conditioned_AJ0
 attention_NN1
 theory_NN1
-Lubow_NP0-NN1
-Rifkin_NP0-NN1
+Lubow_NP0
+Rifkin_NN1
 and_CJC
 Alek_NP0
 1976_CRD
@@ -14123,7 +14123,7 @@ with_PRP
 the_AT0
 effects_NN2
 of_PRF
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 on_PRP
 discrimination_NN1
 learning_NN1
@@ -14183,7 +14183,7 @@ this_DT0
 stage_NN1
 others_NN2
 the_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 odour_NN1
 Of_PRF
 these_DT0
@@ -14206,7 +14206,7 @@ familiar_AJ0
 that_CJT
 used_VVN
 for_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 and_CJC
 half_DT0
 received_VVD
@@ -14230,7 +14230,7 @@ as_CJS
 that_CJT
 used_VVN
 for_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 the_AT0
 rats_NN2
 learned_VVN
@@ -14298,8 +14298,8 @@ to_TO0
 explain_VVI
 these_DT0
 results_NN2
-Lubow_NP0-NN1
-Rifkin_NP0-NN1
+Lubow_NP0
+Rifkin_NN1
 and_CJC
 Alek_NP0
 1976_CRD
@@ -14313,7 +14313,7 @@ attentional_AJ0
 response_NN1
 produced_VVN
 by_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 must_VM0
 be_VBI
 modified_VVN
@@ -14331,7 +14331,7 @@ They_PNP
 suggest_VVI
 see_VVI
 also_AV0
-Lubow_NP0-NN1
+Lubow_NP0
 et_UNC
 al_UNC
 1981_CRD
@@ -14368,7 +14368,7 @@ in_PRP
 it_PNP
 have_VHB
 an_AT0
-arousing_VVG-AJ0
+arousing_AJ0
 effect_NN1
 that_CJT
 helps_VVZ
@@ -14411,8 +14411,8 @@ be_VBI
 explained_VVD
 In_PRP
 particular_AJ0
-Lubow_NP0-NN1
-Rifkin_NP0-NN1
+Lubow_NP0
+Rifkin_NN1
 and_CJC
 Alek_NP0
 1976_CRD
@@ -14421,7 +14421,7 @@ have_VHB
 shown_VVN
 that_CJT
 animals_NN2
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 in_PRP
 one_CRD
 environment_NN1
@@ -14456,20 +14456,20 @@ attentional_AJ0
 response_NN1
 should_VM0
 be_VBI
-present_AJ0-NN1
+present_AJ0
 and_CJC
 the_AT0
 test_NN1
 environment_NN1
-arousing_VVG-AJ0
+arousing_AJ0
 and_CJC
 thus_AV0
 the_AT0
 considerations_NN2
 introduced_VVN
 by_PRP
-Lubow_NP0-NN1
-Rifkin_NP0-NN1
+Lubow_NP0
+Rifkin_NN1
 and_CJC
 Alek_NP0
 1976_CRD
@@ -14522,7 +14522,7 @@ discussed_VVN
 the_AT0
 notion_NN1
 of_PRF
-relative_AJ0-NN1
+relative_AJ0
 novelty_NN1
 in_PRP
 the_AT0
@@ -14556,7 +14556,7 @@ More_AV0
 critical_AJ0
 for_PRP
 our_DPS
-present_AJ0-NN1
+present_AJ0
 concern_NN1
 which_DTQ
 is_VBZ
@@ -14593,7 +14593,7 @@ fully_AV0
 familiar_AJ0
 provided_VVN
 that_CJT
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 test_NN1
@@ -14760,7 +14760,7 @@ is_VBZ
 likely_AJ0
 to_TO0
 be_VBI
-arousing_VVG-AJ0
+arousing_AJ0
 some_DT0
 increase_NN1
 in_PRP
@@ -15099,7 +15099,7 @@ low_AJ0
 level_NN1
 produced_VVN
 by_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 however_AV0
 rapidly_AV0
 \xce\xb1_UNC
@@ -15122,7 +15122,7 @@ to_TO0
 occur_VVI
 Accordingly_AV0
 this_DT0
-single-trial_AJ0-NN1
+single-trial_NN1
 procedure_NN1
 should_VM0
 eliminate_VVI
@@ -15538,7 +15538,7 @@ is_VBZ
 learned_VVN
 during_PRP
 the_AT0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 phase_NN1
 of_PRF
 a_AT0
@@ -15602,14 +15602,14 @@ variety_NN1
 of_PRF
 forms_NN2
 a_AT0
-Interfering_VVG-AJ0
+Interfering_AJ0
 responses_NN2
 A_AT0
 possibility_NN1
 originally_AV0
 considered_VVN
 by_PRP
-Lubow_NP0-NN1
+Lubow_NP0
 and_CJC
 Moore_NP0
 1959_CRD
@@ -15626,7 +15626,7 @@ effect_NN1
 was_VBD
 that_CJT
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 the_AT0
 subject_NN1
 might_VM0
@@ -15692,7 +15692,7 @@ results_NN2
 some_DT0
 provided_VVN
 by_PRP
-Lubow_NP0-NN1
+Lubow_NP0
 and_CJC
 Moore_NP0
 1959_CRD
@@ -15720,7 +15720,7 @@ Rats_NN2
 that_CJT
 had_VHD
 been_VBN
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 to_TO0
 a_AT0
 tone_NN1
@@ -15741,7 +15741,7 @@ presence_NN1
 of_PRF
 the_AT0
 tone_NN1
-yielded_VVD-VVN
+yielded_VVD
 reward_NN1
 but_CJC
 responses_NN2
@@ -15782,7 +15782,7 @@ that_CJT
 had_VHD
 not_XX0
 received_VVD
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 Their_DPS
 slow_AJ0
 learning_NN1
@@ -15794,7 +15794,7 @@ by_PRP
 assuming_VVG
 that_CJT
 the_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 tone_NN1
 tended_VVD
 to_TO0
@@ -15819,7 +15819,7 @@ of_PRF
 subjects_NN2
 that_CJT
 after_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 was_VBD
 required_VVN
 to_TO0
@@ -15951,13 +15951,13 @@ remnant_NN1
 of_PRF
 the_AT0
 suggestion_NN1
-Lubow_NP0-NN1
+Lubow_NP0
 and_CJC
 Moore_NP0
 1959_CRD
 that_CJT
 simple_AJ0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 might_VM0
 allow_VVI
 a_AT0
@@ -15976,7 +15976,7 @@ part_NN1
 because_CJS
 simple_AJ0
 non-reinforced_AJ0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 is_VBZ
 not_XX0
 a_AT0
@@ -16016,7 +16016,7 @@ by_PRP
 demonstrating_VVG
 that_CJT
 a_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 stimulus_NN1
 quite_AV0
 lacks_VVZ
@@ -16069,14 +16069,14 @@ conditioning_NN1
 in_PRP
 which_DTQ
 the_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 stimulus_NN1
 is_VBZ
 explicitly_AV0
 trained_VVN
 as_CJS
 a_AT0
-CS-_NN1-AJ0
+CS-_NN1
 a_AT0
 stimulus_NN1
 that_CJT
@@ -16087,7 +16087,7 @@ of_PRF
 the_AT0
 reinforcer_NN1
 If_CJS
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 endows_VVZ
 a_AT0
 stimulus_NN1
@@ -16105,7 +16105,7 @@ to_TO0
 serve_VVI
 as_CJS
 a_AT0
-CS-_NN1-AJ0
+CS-_NN1
 since_CJS
 the_AT0
 inhibition_NN1
@@ -16128,7 +16128,7 @@ Halgren_NP0
 experiment_NN1
 shows_VVZ
 that_CJT
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 results_NN2
 in_PRP
 retarded_AJ0
@@ -16151,7 +16151,7 @@ is_VBZ
 used_VVN
 as_CJS
 a_AT0
-CS-_NN1-AJ0
+CS-_NN1
 See_VVB
 also_AV0
 Rescorla_NP0
@@ -16238,7 +16238,7 @@ training_NN1
 procedures_NN2
 produce_VVI
 a_AT0
-CS-_NN1-AJ0
+CS-_NN1
 that_CJT
 is_VBZ
 subsequently_AV0
@@ -16290,7 +16290,7 @@ stage_NN1
 of_PRF
 the_AT0
 study_NN1
-involved_AJ0
+involved_VVN
 inhibitory_AJ0
 learning_NN1
 Whatever_DTQ
@@ -16308,7 +16308,7 @@ a_AT0
 stimulus_NN1
 as_CJS
 a_AT0
-CS-_NN1-AJ0
+CS-_NN1
 has_VHZ
 been_VBN
 found_VVD
@@ -16398,7 +16398,7 @@ The_AT0
 experimental_AJ0
 results_NN2
 are_VBB
-mixed_AJ0
+mixed_VVN
 Rescorla_NP0
 1971_CRD
 found_VVD
@@ -16424,7 +16424,7 @@ Kremer_NP0
 1972_CRD
 and_CJC
 by_PRP
-Reiss_NP0-NN1
+Reiss_NP0
 and_CJC
 Wagner_NP0
 1972_CRD
@@ -16470,7 +16470,7 @@ inhibitor_NN1
 functions_NN2
 like_PRP
 a_AT0
-CS-_NN1-AJ0
+CS-_NN1
 but_CJC
 it_PNP
 could_VM0
@@ -16537,7 +16537,7 @@ had_VHD
 little_AJ0
 or_CJC
 no_AT0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 with_PRP
 those_DT0
 produced_VVN
@@ -16574,7 +16574,7 @@ inhibitory_AJ0
 power_NN1
 of_PRF
 the_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 stimulus_NN1
 might_VM0
 be_VBI
@@ -16610,7 +16610,7 @@ in_PRP
 the_AT0
 experimental_AJ0
 results_NN2
-Reiss_NP0-NN1
+Reiss_NP0
 and_CJC
 Wagner_NP0
 1972_CRD
@@ -16627,7 +16627,7 @@ a_AT0
 familiar_AJ0
 one_CRD
 in_PRP
-disrupting_VVG-AJ0
+disrupting_VVG
 the_AT0
 CR_NP0
 whereas_CJS
@@ -16649,7 +16649,7 @@ explanation_NN1
 That_DT0
 from_PRP
 the_AT0
-Reiss_NP0-NN1
+Reiss_NP0
 and_CJC
 Wagner_NP0
 study_NN1
@@ -16691,7 +16691,7 @@ to_TO0
 accept_VVI
 that_CJT
 a_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 stimulus_NN1
 inhibits_VVZ
 a_AT0
@@ -16701,7 +16701,7 @@ the_AT0
 way_NN1
 that_CJT
 a_AT0
-CS-_NN1-AJ0
+CS-_NN1
 does_VDZ
 His_DPS
 experiment_NN1
@@ -16723,7 +16723,7 @@ stimulus_NN1
 added_VVN
 to_TO0
 a_AT0
-pre-trained_AJ0-NN1
+pre-trained_AJ0
 excitatory_AJ0
 CS_NP0
 evokes_VVZ
@@ -16773,7 +16773,7 @@ the_AT0
 CS+_UNC
 For_PRP
 a_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 stimulus_NN1
 there_EX0
 will_VM0
@@ -16894,7 +16894,7 @@ of_PRF
 learned_VVN
 safety_NN1
 c_ZZ0
-Learned_VVD
+Learned_AJ0
 safety_NN1
 Workers_NN2
 studying_VVG
@@ -16902,7 +16902,7 @@ the_AT0
 effects_NN2
 of_PRF
 CS_NP0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 on_PRP
 flavour-aversion_AJ0
 learning_NN1
@@ -16927,7 +16927,7 @@ just_AV0
 discussed_VVN
 Kalat_NP0
 and_CJC
-Rozin_NP0-NN1
+Rozin_NN1
 1973_CRD
 suggested_VVN
 that_CJT
@@ -17026,7 +17026,7 @@ effect_NN1
 of_PRF
 giving_VVG
 non-reinforced_AJ0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 target_NN1
@@ -17061,7 +17061,7 @@ the_AT0
 suggestion_NN1
 that_CJT
 the_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 stimulus_NN1
 might_VM0
 already_AV0
@@ -17108,7 +17108,7 @@ of_PRF
 associability_NN1
 incurred_VVN
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 might_VM0
 obscure_AJ0
 the_AT0
@@ -17194,7 +17194,7 @@ inhibitor_NN1
 Subjects_NN2
 given_VVN
 simple_AJ0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 target_NN1
@@ -17245,7 +17245,7 @@ of_PRF
 the_AT0
 former_DT0
 d_ZZ0
-Learned_VVD
+Learned_AJ0
 non-correlation_NN1
 Acknowledging_VVG
 the_AT0
@@ -17298,7 +17298,7 @@ correlated_AJ0
 with_PRP
 another_DT0
 event_NN1
-Weiss_NP0-NN1
+Weiss_NP0
 and_CJC
 Brown_NP0
 1974_CRD
@@ -17366,7 +17366,7 @@ no_AT0
 special_AJ0
 problems_NN2
 As_CJS
-Weiss_NP0-NN1
+Weiss_NP0
 and_CJC
 Brown_NP0
 1974_CRD
@@ -17499,7 +17499,7 @@ the_AT0
 account_NN1
 offered_VVN
 by_PRP
-Weiss_NP0-NN1
+Weiss_NP0
 and_CJC
 Brown_NP0
 1974_CRD
@@ -17519,14 +17519,14 @@ notion_NN1
 of_PRF
 learned_VVN
 non-correlation_NN1
-Conditioning_NN1-AJ0
+Conditioning_AJ0
 they_PNP
 argue_VVI
 is_VBZ
 determined_VVN
 by_PRP
 the_AT0
-conditional_AJ0-NN1
+conditional_AJ0
 probability_NN1
 of_PRF
 occurrence_NN1
@@ -17556,7 +17556,7 @@ will_VM0
 mean_VVI
 that_CJT
 the_AT0
-conditional_AJ0-NN1
+conditional_AJ0
 probability_NN1
 of_PRF
 US_NP0
@@ -17587,7 +17587,7 @@ be_VBI
 reduced_VVN
 Baker_NP0
 and_CJC
-Mercier_NP0-NN1
+Mercier_NP0
 1982_CRD
 a_AT0
 offer_VVI
@@ -17605,7 +17605,7 @@ integrate_VVI
 these_DT0
 various_AJ0
 events_NN2
-spread_NN1
+spread_VVN
 out_AVP
 as_CJS
 they_PNP
@@ -17621,7 +17621,7 @@ by_PRP
 which_DTQ
 the_AT0
 critical_AJ0
-conditional_AJ0-NN1
+conditional_AJ0
 probabilities_NN2
 might_VM0
 be_VBI
@@ -17918,7 +17918,7 @@ conditioning_NN1
 However_AV0
 elaborate_AJ0
 indeed_AV0
-contrived_VVD
+contrived_VVN
 this_DT0
 theorizing_NN1
 may_VM0
@@ -17975,7 +17975,7 @@ hypothesis_NN1
 that_CJT
 for_PRP
 a_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 stimulus_NN1
 this_DT0
 association_NN1
@@ -17994,7 +17994,7 @@ to_TO0
 the_AT0
 prediction_NN1
 that_CJT
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 should_VM0
 facilitate_VVI
 inhibitory_AJ0
@@ -18176,7 +18176,7 @@ discussing_VVG
 flavour-aversion_AJ0
 learning_NN1
 During_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 the_AT0
 consumption_NN1
 of_PRF
@@ -18239,7 +18239,7 @@ the_AT0
 ability_NN1
 of_PRF
 the_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 flavour_NN1
 to_TO0
 form_NN1
@@ -18288,7 +18288,7 @@ X_ZZ0
 precedes_VVZ
 the_AT0
 CS-US_NP0
-pairing_VVG-NN1
+pairing_NN1
 of_PRF
 a_AT0
 conditioning_NN1
@@ -18336,7 +18336,7 @@ in_PRP
 latent_AJ0
 inhibition_NN1
 During_PRP
-initial_AJ0-NN1
+initial_AJ0
 exposure_NN1
 experience_NN1
 of_PRF
@@ -18393,7 +18393,7 @@ an_AT0
 association_NN1
 between_PRP
 the_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 stimulus_NN1
 and_CJC
 its_DPS
@@ -18483,7 +18483,7 @@ procedures_NN2
 other_AJ0
 than_CJS
 flavour_NN1
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 Latent_AJ0
 inhibition_NN1
 occurs_VVZ
@@ -18624,7 +18624,7 @@ inhibition_NN1
 is_VBZ
 just_AV0
 as_CJS
-damaging_VVG-AJ0
+damaging_AJ0
 for_PRP
 the_AT0
 interference_NN1
@@ -18866,7 +18866,7 @@ viable_AJ0
 the_AT0
 suggestion_NN1
 that_CJT
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 allows_VVZ
 the_AT0
 formation_NN1
@@ -18926,7 +18926,7 @@ that_CJT
 associability_NN1
 declines_VVZ
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 Without_PRP
 this_DT0
 the_AT0
@@ -18991,7 +18991,7 @@ possibility_NN1
 but_CJC
 the_AT0
 mechanism_NN1
-involved_AJ0
+involved_VVN
 need_VVB
 not_XX0
 be_VBI
@@ -19070,7 +19070,7 @@ what_DTQ
 is_VBZ
 learned_VVN
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 interferes_VVZ
 with_PRP
 the_AT0
@@ -19203,7 +19203,7 @@ earlier_AJC
 trials_NN2
 Clearly_AV0
 the_AT0
-retrieval-failure_AJ0-NN1
+retrieval-failure_NN1
 hypothesis_NN1
 will_VM0
 make_VVI
@@ -19252,7 +19252,7 @@ after_PRP
 conditioning_NN1
 with_PRP
 a_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 stimulus_NN1
 can_VM0
 be_VBI
@@ -19280,7 +19280,7 @@ Springer_NN1
 1973_CRD
 Miller_NP0
 and_CJC
-Schachtman_NP0-NN1
+Schachtman_NN1
 1985_CRD
 have_VHB
 shown_VVN
@@ -19308,7 +19308,7 @@ question_NN1
 must_VM0
 have_VHB
 been_VBN
-present_AJ0-NN1
+present_AJ0
 all_DT0
 along_AVP
 but_CJC
@@ -19421,7 +19421,7 @@ more_AV0
 difficult_AJ0
 Kasprow_NP0
 Catterson_NP0
-Schachtman_NP0-NN1
+Schachtman_NN1
 and_CJC
 Miller_NP0
 1984_CRD
@@ -19439,7 +19439,7 @@ rats_NN2
 that_CJT
 have_VHB
 been_VBN
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 to_TO0
 a_AT0
 noise_NN1
@@ -19511,7 +19511,7 @@ that_CJT
 had_VHD
 not_XX0
 been_VBN
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 to_TO0
 the_AT0
 noise_NN1
@@ -19556,8 +19556,8 @@ in_PRP
 the_AT0
 subjects_NN2
 given_VVN
-pre-exposure_NN1-AJ0
-stems_VVZ-NN2
+pre-exposure_NN1
+stems_NN2
 from_PRP
 a_AT0
 failure_NN1
@@ -19568,7 +19568,7 @@ than_CJS
 a_AT0
 failure_NN1
 of_PRF
-initial_AJ0-NN1
+initial_AJ0
 acquisition_NN1
 These_DT0
 results_NN2
@@ -19615,7 +19615,7 @@ inhibition_NN1
 treatment_NN1
 interferes_VVZ
 with_PRP
-initial_AJ0-NN1
+initial_AJ0
 acquisition_NN1
 would_VM0
 allow_VVI
@@ -19641,7 +19641,7 @@ that_CJT
 so-called_AJ0
 reminder_NN1
 treatments_NN2
-act_VVI
+act_NN1
 in_PRP
 some_DT0
 way_NN1
@@ -19721,7 +19721,7 @@ and_CJC
 Ossenkopp_VVB
 1986_CRD
 Kraemer_NP0
-Hoggman_NP0-NN1
+Hoggman_NN1
 and_CJC
 Spear_NP0
 1988_CRD
@@ -19739,7 +19739,7 @@ seeking_VVG
 support_NN1
 for_PRP
 the_AT0
-retrieval-failure_AJ0-NN1
+retrieval-failure_NN1
 account_NN1
 of_PRF
 latent_AJ0
@@ -19829,7 +19829,7 @@ even_AV0
 in_PRP
 subjects_NN2
 given_VVN
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 CS_NP0
@@ -19867,7 +19867,7 @@ as_CJS
 implying_VVG
 that_CJT
 the_AT0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 procedure_NN1
 and_CJC
 the_AT0
@@ -19962,7 +19962,7 @@ what_DTQ
 is_VBZ
 learned_VVN
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 interferes_VVZ
 less_AV0
 after_PRP
@@ -20073,7 +20073,7 @@ of_PRF
 a_AT0
 memory_NN1
 might_VM0
-act_VVI
+act_NN1
 to_TO0
 determine_VVI
 its_DPS
@@ -20194,7 +20194,7 @@ be_VBI
 very_AV0
 apparent_AJ0
 when_CJS
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 is_VBZ
 given_VVN
 to_TO0
@@ -20221,7 +20221,7 @@ pair_NN0
 of_PRF
 groups_NN2
 given_VVN
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 saccharin_NN1
 before_PRP
@@ -20232,7 +20232,7 @@ tested_VVN
 with_PRP
 milk_NN1
 Such_DT0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 is_VBZ
 apparently_AV0
 capable_AJ0
@@ -20296,7 +20296,7 @@ inhibition_NN1
 effect_NN1
 produced_VVN
 by_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 saccharin_NN1
 has_VHZ
@@ -20330,7 +20330,7 @@ especially_AV0
 marked_VVN
 when_CJS
 the_AT0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 flavour_NN1
 is_VBZ
 different_AJ0
@@ -20360,7 +20360,7 @@ than_CJS
 that_CJT
 produced_VVN
 by_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 CS_NP0
@@ -20445,7 +20445,7 @@ that_CJT
 to_TO0
 accept_VVI
 the_AT0
-retrieval-failure_AJ0-NN1
+retrieval-failure_NN1
 account_NN1
 of_PRF
 latent_AJ0
@@ -20487,7 +20487,7 @@ that_CJT
 is_VBZ
 learned_VVN
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 rather_AV0
 their_DPS
 experiments_NN2
@@ -20528,7 +20528,7 @@ of_PRF
 this_DT0
 chapter_NN1
 that_CJT
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 allows_VVZ
 the_AT0
 formation_NN1
@@ -20638,7 +20638,7 @@ in_PRP
 subjects_NN2
 given_VVN
 no_AT0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 target_NN1
@@ -20646,7 +20646,7 @@ stimulus_NN1
 In_PRP
 other_AJ0
 words_NN2
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 stimulus_NN1
@@ -20660,7 +20660,7 @@ the_AT0
 CS-US_NP0
 association_NN1
 and_CJC
-act_VVI
+act_NN1
 to_TO0
 interfere_VVI
 with_PRP
@@ -20795,7 +20795,7 @@ to_TO0
 that_CJT
 experienced_VVN
 during_PRP
-initial_AJ0-NN1
+initial_AJ0
 training_NN1
 This_DT0
 effect_NN1
@@ -20868,7 +20868,7 @@ Its_DPS
 relevance_NN1
 to_TO0
 our_DPS
-present_AJ0-NN1
+present_AJ0
 concern_NN1
 is_VBZ
 as_CJS
@@ -20886,14 +20886,14 @@ of_PRF
 conditioning_NN1
 produced_VVN
 by_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 stimulus_NN1
 is_VBZ
 attenuated_VVN
 when_CJS
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 and_CJC
 conditioning_NN1
 occur_VVI
@@ -20943,7 +20943,7 @@ that_CJT
 was_VBD
 acquired_VVN
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 In_PRP
 other_AJ0
 words_NN2
@@ -21088,10 +21088,10 @@ failure_NN1
 of_PRF
 a_AT0
 contextually_AV0
-mediated_VVN
+mediated_VVD
 retrieval_NN1
 process_NN1
-Context-specificity_NN1-AJ0
+Context-specificity_NN1
 in_PRP
 conditioning_NN1
 a_AT0
@@ -21160,7 +21160,7 @@ animal_NN1
 can_VM0
 come_VVI
 to_TO0
-emit_VVI
+emit_VVB
 different_AJ0
 CRs_NP0
 in_PRP
@@ -21244,7 +21244,7 @@ experiments_NN2
 by_PRP
 Bouton_NP0
 and_CJC
-Swartzentruber_NP0-NN1
+Swartzentruber_NN1
 1986_CRD
 These_DT0
 latter_DT0
@@ -21297,7 +21297,7 @@ target_NN1
 CS_NP0
 Boulton_NP0
 and_CJC
-Swartzentruber_NP0-NN1
+Swartzentruber_NN1
 urge_NN1
 the_AT0
 acceptance_NN1
@@ -21316,7 +21316,7 @@ and_CJC
 explicit_AJ0
 occasion_NN1
 setters_NN2
-act_VVI
+act_NN1
 not_XX0
 by_PRP
 direct_AJ0
@@ -21372,13 +21372,13 @@ usually_AV0
 assumed_VVN
 see_VVI
 e.g._AV0
-LoLordo_NP0-NN1
+LoLordo_NP0
 and_CJC
 Ross_NP0
 1987_CRD
 Ross_NP0
 and_CJC
-LoLordo_NP0-NN1
+LoLordo_NP0
 1987_CRD
 that_CJT
 such_DT0
@@ -21440,7 +21440,7 @@ without_PRP
 any_DT0
 form_NN1
 of_PRF
-initial_AJ0-NN1
+initial_AJ0
 discrimination_NN1
 training_NN1
 Latent_AJ0
@@ -21533,7 +21533,7 @@ employed_VVN
 by_PRP
 Bouton_NP0
 and_CJC
-Swarzentruber_NP0-NN1
+Swarzentruber_NN1
 1986_CRD
 but_CJC
 differing_AJ0
@@ -21794,7 +21794,7 @@ used_VVN
 by_PRP
 Bouton_NP0
 and_CJC
-Swartzentruber_NP0-NN1
+Swartzentruber_NN1
 1986_CRD
 Although_CJS
 Bouton_NP0
@@ -21855,13 +21855,13 @@ his_DPS
 collaborators_NN2
 e.g._AV0
 Archer_NP0
-Sj\xc3\xb6d\xc3\xa9n_NP0-NN1
+Sj\xc3\xb6d\xc3\xa9n_NN1
 Nilsson_NP0
 and_CJC
 Carter_NP0
 1979_CRD
 Archer_NP0
-Sj\xc3\xb6d\xc3\xa9n_NP0-NN1
+Sj\xc3\xb6d\xc3\xa9n_NN1
 and_CJC
 Nilsson_NP0
 1985_CRD
@@ -21900,16 +21900,16 @@ Gordon_NP0
 McCracken_NP0
 Dess-Beech_NP0
 and_CJC
-Mowrer_NP0-NN1
+Mowrer_NN1
 1981_CRD
 as_CJS
 do_VDB
 certain_AJ0
-food-rewarded_AJ0-NN1
+food-rewarded_NN1
 discrimination_NN1
 tasks_NN2
 e.g._AV0
-Chiszar_NP0-NN1
+Chiszar_NN1
 and_CJC
 Spear_NP0
 1969_CRD
@@ -22109,7 +22109,7 @@ promote_VVI
 different_AJ0
 patterns_NN2
 of_PRF
-orienting_AJ0-NN1
+orienting_AJ0
 behaviour_NN1
 the_AT0
 same_DT0
@@ -22160,7 +22160,7 @@ Hull_NP0
 notion_NN1
 of_PRF
 afferent_AJ0
-neural_AJ0-NN1
+neural_AJ0
 interaction_NN1
 Whatever_DTQ
 their_DPS
@@ -22240,7 +22240,7 @@ of_PRF
 the_AT0
 notion_NN1
 of_PRF
-configural_AJ0-NN1
+configural_AJ0
 conditioning_NN1
 The_AT0
 stimulus_NN1
@@ -22289,7 +22289,7 @@ would_VM0
 generate_VVI
 some_DT0
 different_AJ0
-configural_AJ0-NN1
+configural_AJ0
 cue_NN1
 and_CJC
 so_AV0
@@ -22695,7 +22695,7 @@ but_CJC
 which_DTQ
 failed_VVN
 to_TO0
-yield_VVI
+yield_NN1
 any_DT0
 evidence_NN1
 for_PRP
@@ -22703,12 +22703,12 @@ context-specificity_NN1
 This_DT0
 second_ORD
 study_NN1
-differed_VVN-VVD
+differed_VVN
 only_AV0
 in_PRP
 that_CJT
 during_PRP
-initial_AJ0-NN1
+initial_AJ0
 training_NN1
 the_AT0
 subjects_NN2
@@ -22795,14 +22795,14 @@ that_CJT
 the_AT0
 context_NN1
 can_VM0
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 retrieval_NN1
 cue_NN1
 or_CJC
 exert_VVI
-conditional_AJ0-NN1
+conditional_AJ0
 control_NN1
 over_PRP
 an_AT0
@@ -22840,7 +22840,7 @@ just_AV0
 this_DT0
 Rats_NN2
 received_VVD
-initial_AJ0-NN1
+initial_AJ0
 training_NN1
 in_PRP
 which_DTQ
@@ -22960,7 +22960,7 @@ contextual_AJ0
 cues_NN2
 must_VM0
 be_VBI
-present_AJ0-NN1
+present_AJ0
 for_PRP
 satisfactory_AJ0
 retrieval_NN1
@@ -22971,7 +22971,7 @@ of_PRF
 the_AT0
 effects_NN2
 of_PRF
-initial_AJ0-NN1
+initial_AJ0
 conditioning_NN1
 but_CJC
 it_PNP
@@ -23315,7 +23315,7 @@ such_DT0
 a_AT0
 form_NN1
 of_PRF
-conditional_AJ0-NN1
+conditional_AJ0
 learning_NN1
 should_VM0
 be_VBI
@@ -23378,7 +23378,7 @@ who_PNQ
 measured_VVN
 the_AT0
 head_NN1
-jerk_VVI
+jerk_NN1
 CR_NP0
 of_PRF
 rats_NN2
@@ -23424,7 +23424,7 @@ from_PRP
 giving_VVG
 very_AV0
 prolonged_AJ0
-initial_AJ0-NN1
+initial_AJ0
 training_NN1
 used_VVN
 procedures_NN2
@@ -23483,7 +23483,7 @@ conditioned_AJ0
 suppression_NN1
 study_NN1
 that_CJT
-differed_VVN-VVD
+differed_VVN
 from_PRP
 the_AT0
 experiment_NN1
@@ -23533,7 +23533,7 @@ many_DT0
 but_CJC
 see_VVI
 e.g._AV0
-Schachtman_NP0-NN1
+Schachtman_NN1
 Channell_NP0
 and_CJC
 Hall_NN1
@@ -23603,12 +23603,12 @@ In_PRP
 terms_NN2
 of_PRF
 the_AT0
-opponent-process_AJ0-NN1
+opponent-process_AJ0
 theory_NN1
 of_PRF
 Solomon_NP0
 and_CJC
-Corbit_NP0-NN1
+Corbit_NP0
 1974_CRD
 repeated_VVN
 presentation_NN1
@@ -23641,7 +23641,7 @@ particular_AJ0
 characterization_NN1
 offered_VVN
 by_PRP
-opponent-process_AJ0-NN1
+opponent-process_AJ0
 theory_NN1
 it_PNP
 seems_VVZ
@@ -23729,7 +23729,7 @@ this_DT0
 analysis_NN1
 for_PRP
 out_AVP
-present_AJ0-NN1
+present_AJ0
 purposes_NN2
 is_VBZ
 that_CJT
@@ -23781,7 +23781,7 @@ will_VM0
 depend_VVI
 on_PRP
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 contributions_NN2
 of_PRF
 the_AT0
@@ -23873,13 +23873,13 @@ to_TO0
 the_AT0
 amount_NN1
 of_PRF
-initial_AJ0-NN1
+initial_AJ0
 conditioning_NN1
 In_PRP
 order_NN1
 to_TO0
 see_VVI
-context-dependence_NN1-AJ0
+context-dependence_NN1
 in_PRP
 conditioned_AJ0
 suppression_NN1
@@ -24105,7 +24105,7 @@ suppression_NN1
 experiments_NN2
 in_PRP
 which_DTQ
-initial_AJ0-NN1
+initial_AJ0
 conditioning_NN1
 was_VBD
 prolonged_AJ0
@@ -24113,7 +24113,7 @@ the_AT0
 subjects_NN2
 received_VVD
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 of_PRF
 80_CRD
 shock-reinforced_AJ0
@@ -24126,7 +24126,7 @@ acquisition_NN1
 showing_VVG
 just_AV0
 such_DT0
-supertransfer_NN1-VVB
+supertransfer_NN1
 when_CJS
 the_AT0
 context_NN1
@@ -24155,7 +24155,7 @@ the_AT0
 notion_NN1
 that_CJT
 contextually_AV0
-mediated_VVN
+mediated_VVD
 retrieval_NN1
 is_VBZ
 a_AT0
@@ -24224,16 +24224,16 @@ possible_AJ0
 to_TO0
 explain_VVI
 the_AT0
-varied_AJ0
+varied_VVN
 pattern_NN1
 of_PRF
-context-dependence_NN1-AJ0
+context-dependence_NN1
 shown_VVN
 by_PRP
 conditioned_AJ0
 suppression_NN1
 after_PRP
-varying_AJ0-VVG
+varying_AJ0
 amounts_NN2
 of_PRF
 training_NN1
@@ -24392,9 +24392,9 @@ supposed_AJ0
 in_PRP
 Solomon_NP0
 and_CJC
-Corbit_NP0-NN1
+Corbit_NP0
 's_POS
-opponent-process_AJ0-NN1
+opponent-process_AJ0
 theory_NN1
 But_CJC
 it_PNP
@@ -24437,7 +24437,7 @@ conditioned_AJ0
 responding_VVG
 can_VM0
 show_VVI
-context-dependence_NN1-AJ0
+context-dependence_NN1
 and_CJC
 will_VM0
 do_VDB
@@ -24479,7 +24479,7 @@ other_AJ0
 factors_NN2
 that_CJT
 might_VM0
-act_VVI
+act_NN1
 by_PRP
 influencing_VVG
 the_AT0
@@ -24551,7 +24551,7 @@ the_AT0
 basis_NN1
 of_PRF
 the_AT0
-present_AJ0-NN1
+present_AJ0
 results_NN2
 this_DT0
 hypothesis_NN1
@@ -24580,13 +24580,13 @@ suggestion_NN1
 that_CJT
 contextual_AJ0
 cues_NN2
-present_AJ0-NN1
+present_AJ0
 during_PRP
 associative_AJ0
 learning_NN1
 acquire_VVI
 a_AT0
-conditional_AJ0-NN1
+conditional_AJ0
 function_NN1
 allowing_VVG
 the_AT0
@@ -24824,7 +24824,7 @@ instance_NN1
 is_VBZ
 provided_VVN
 by_PRP
-Godden_NP0-NN1
+Godden_NP0
 and_CJC
 Baddeley_NP0
 1975_CRD
@@ -25169,7 +25169,7 @@ First_ORD
 the_AT0
 effects_NN2
 of_PRF
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 will_VM0
 not_XX0
 transfer_NN1
@@ -25192,7 +25192,7 @@ the_AT0
 information_NN1
 acquired_VVN
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 is_VBZ
 to_TO0
 be_VBI
@@ -25219,7 +25219,7 @@ a_AT0
 result_NN1
 of_PRF
 non-reinforced_AJ0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 will_VM0
 be_VBI
 restricted_VVN
@@ -25258,7 +25258,7 @@ cue_NN1
 in_PRP
 question_NN1
 Accordingly_AV0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 context_NN1
@@ -25421,7 +25421,7 @@ that_CJT
 was_VBD
 established_VVN
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 e.g._AV0
 the_AT0
 information_NN1
@@ -25500,7 +25500,7 @@ associative_AJ0
 interference_NN1
 Kaye_NP0
 Preston_NP0
-Szabo_NP0-NN1
+Szabo_NN1
 Druiff_NP0
 and_CJC
 Mackintosh_NP0
@@ -25567,7 +25567,7 @@ to_TO0
 water_NN1
 Subjects_NN2
 given_VVN
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 CS_NP0
@@ -25966,7 +25966,7 @@ a_AT0
 moderate_AJ0
 level_NN1
 of_PRF
-initial_AJ0-NN1
+initial_AJ0
 training_NN1
 and_CJC
 a_AT0
@@ -26178,7 +26178,7 @@ that_CJT
 information_NN1
 acquired_VVN
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 that_CJT
 the_AT0
 target_NN1
@@ -26239,7 +26239,7 @@ that_CJT
 the_AT0
 effects_NN2
 of_PRF
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 interfere_VVI
 less_AV0
 with_PRP
@@ -26327,7 +26327,7 @@ the_AT0
 cues_NN2
 of_PRF
 the_AT0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 context_NN1
 allow_VVI
 retrieval_NN1
@@ -26377,7 +26377,7 @@ Anderson_NP0
 O'Farrell_NP0
 Formica_NN1
 and_CJC
-Caponigri_NP0-NN1
+Caponigri_NP0
 1969_CRD
 Anderson_NP0
 Wolf_NP0
@@ -26403,7 +26403,7 @@ Gustavson_NP0
 Wright_NP0
 Skala_NP0
 and_CJC
-Peuser_NP0-NN1
+Peuser_NN1
 1986_CRD
 Most_DT0
 of_PRF
@@ -26448,12 +26448,12 @@ the_AT0
 context_NN1
 used_VVN
 for_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 But_CJC
 as_CJS
 Bouton_NP0
 and_CJC
-Swartzentruber_NP0-NN1
+Swartzentruber_NN1
 1989_CRD
 point_NN1
 out_AVP
@@ -26480,7 +26480,7 @@ reported_VVN
 by_PRP
 Bouton_NP0
 and_CJC
-Swartzentruber_NP0-NN1
+Swartzentruber_NN1
 1989_CRD
 experiment_NN1
 3_CRD
@@ -26650,7 +26650,7 @@ stimulus_NN1
 *_UNC
 Bouton_NP0
 and_CJC
-Swartzentruber_NP0-NN1
+Swartzentruber_NN1
 1989_CRD
 conclude_VVI
 that_CJT
@@ -26810,7 +26810,7 @@ likely_AJ0
 to_TO0
 result_NN1
 The_AT0
-chief_AJ0-NN1
+chief_NN1
 conclusion_NN1
 to_TO0
 emerge_VVI
@@ -26847,7 +26847,7 @@ retrieve_VVI
 information_NN1
 acquired_VVN
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 the_AT0
 target_NN1
@@ -26875,7 +26875,7 @@ that_CJT
 the_AT0
 context_NN1
 can_VM0
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 retrieval_NN1
@@ -26946,7 +26946,7 @@ is_VBZ
 quite_AV0
 possible_AJ0
 that_CJT
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 a_AT0
 stimulus_NN1
@@ -26991,7 +26991,7 @@ that_CJT
 information_NN1
 acquired_VVN
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 interferes_VVZ
 with_PRP
 the_AT0
@@ -27114,7 +27114,7 @@ mechanism_NN1
 to_TO0
 explain_VVI
 why_AVQ
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 should_VM0
 retard_VVI
 inhibitory_AJ0
@@ -27132,7 +27132,7 @@ this_DT0
 chapter_NN1
 was_VBD
 that_CJT
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 a_AT0
 stimulus_NN1
@@ -27175,7 +27175,7 @@ only_AV0
 slowly_AV0
 for_PRP
 a_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 stimulus_NN1
 and_CJC
 this_DT0
@@ -27238,7 +27238,7 @@ is_VBZ
 to_TO0
 accommodate_VVI
 the_AT0
-chief_AJ0-NN1
+chief_NN1
 conclusions_NN2
 to_TO0
 emerge_VVI
@@ -27349,7 +27349,7 @@ with_PRP
 partial_AJ0
 reinforcement_NN1
 schedule_NN1
-act_VVI
+act_NN1
 to_TO0
 maintain_VVI
 associability_NN1
@@ -27392,7 +27392,7 @@ the_AT0
 same_DT0
 way_NN1
 Simple_AJ0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 may_VM0
 be_VBI
 assumed_VVN
@@ -27446,7 +27446,7 @@ formation_NN1
 of_PRF
 associations_NN2
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 and_CJC
 the_AT0
 loss_NN1
@@ -27491,7 +27491,7 @@ it_PNP
 is_VBZ
 that_CJT
 non-reinforced_AJ0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 to_TO0
 a_AT0
 stimulus_NN1
@@ -27518,7 +27518,7 @@ goes_VVZ
 on_PRP
 during_PRP
 such_DT0
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 will_VM0
 be_VBI
 dependent_AJ0
@@ -27622,7 +27622,7 @@ obliterate_VVI
 those_DT0
 formed_VVN
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 and_CJC
 there_EX0
 will_VM0
@@ -27738,7 +27738,7 @@ and_CJC
 that_CJT
 the_AT0
 processes_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 latent_AJ0
 inhibition_NN1
@@ -27839,7 +27839,7 @@ to_TO0
 be_VBI
 revealed_VVN
 5_CRD
-Acquired_AJ0-VVN
+Acquired_AJ0
 distinctiveness_NN1
 mediation_NN1
 and_CJC
@@ -27991,12 +27991,12 @@ learn_VVI
 a_AT0
 discrimination_NN1
 between_PRP
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 stimuli_NN2
 or_CJC
 between_PRP
 the_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 stimulus_NN1
 and_CJC
 some_DT0
@@ -28264,7 +28264,7 @@ the_AT0
 effects_NN2
 of_PRF
 an_AT0
-initial_AJ0-NN1
+initial_AJ0
 stage_NN1
 of_PRF
 discrimination_NN1
@@ -28292,7 +28292,7 @@ the_AT0
 stimuli_NN2
 used_VVN
 in_PRP
-initial_AJ0-NN1
+initial_AJ0
 training_NN1
 have_VHB
 acquired_VVN
@@ -28344,7 +28344,7 @@ originally_AV0
 devised_VVN
 by_PRP
 theorists_NN2
-wedded_VVN-AJ0
+wedded_VVN
 to_TO0
 an_AT0
 associationist_NN1
@@ -28463,7 +28463,7 @@ the_AT0
 cues_NN2
 that_CJT
 were_VBD
-present_AJ0-NN1
+present_AJ0
 from_PRP
 the_AT0
 outset_NN1
@@ -28480,7 +28480,7 @@ an_AT0
 immediate_AJ0
 riposte_NN1
 from_PRP
-Postman_NN1-NP0
+Postman_NN1
 1955_CRD
 who_PNQ
 objected_VVD
@@ -28687,7 +28687,7 @@ responsible_AJ0
 for_PRP
 formalizing_VVG
 and_CJC
-popularizing_VVG-AJ0
+popularizing_AJ0
 the_AT0
 notion_NN1
 of_PRF
@@ -28759,7 +28759,7 @@ have_VHB
 been_VBN
 supplied_VVN
 by_PRP
-Spiker_NP0-NN1
+Spiker_NN1
 1956_CRD
 b_ZZ0
 Arnoult_NP0
@@ -28771,7 +28771,7 @@ Cantor_NP0
 and_CJC
 Gibson_NP0
 1969_CRD
-Transfer_VVB-NN1
+Transfer_NN1
 between_PRP
 verbal_AJ0
 and_CJC
@@ -28796,7 +28796,7 @@ human_AJ0
 subjects_NN2
 was_VBD
 by_PRP
-Rossman_NP0-NN1
+Rossman_NN1
 and_CJC
 Goss_NP0
 1951_CRD
@@ -28911,7 +28911,7 @@ to_TO0
 press_NN1
 a_AT0
 given_VVN
-switch_VVI
+switch_NN1
 out_AVP
 of_PRF
 four_CRD
@@ -28956,7 +28956,7 @@ and_CJC
 pressed_VVD
 the_AT0
 incorrect_AJ0
-switch_VVI
+switch_NN1
 relatively_AV0
 infrequently_AV0
 Fig_NN1
@@ -29043,7 +29043,7 @@ Lawrence_NP0
 1949_CRD
 experiment_NN1
 An_AT0
-initial_AJ0-NN1
+initial_AJ0
 phase_NN1
 of_PRF
 discrimination_NN1
@@ -29134,7 +29134,7 @@ arise_VVI
 simply_AV0
 because_CJS
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 training_NN1
 produces_VVZ
 general_AJ0
@@ -29201,7 +29201,7 @@ a_AT0
 control_NN1
 group_NN1
 given_VVN
-initial_AJ0-NN1
+initial_AJ0
 training_NN1
 in_PRP
 applying_VVG
@@ -29257,7 +29257,7 @@ to_TO0
 that_CJT
 of_PRF
 subjects_NN2
-pre-trained_AJ0-NN1
+pre-trained_AJ0
 with_PRP
 the_AT0
 relevant_AJ0
@@ -29293,7 +29293,7 @@ these_DT0
 findings_NN2
 using_VVG
 a_AT0
-within-subject_NN1-AJ0
+within-subject_NN1
 design_NN1
 They_PNP
 showed_VVD
@@ -29477,7 +29477,7 @@ in_PRP
 this_DT0
 experiment_NN1
 were_VBD
-pre-trained_AJ0-NN1
+pre-trained_AJ0
 on_PRP
 a_AT0
 motor_NN1
@@ -29504,7 +29504,7 @@ tested_VVN
 on_PRP
 a_AT0
 verbal_AJ0
-paired-associate_AJ0-NN1
+paired-associate_AJ0
 task_NN1
 involving_VVG
 these_DT0
@@ -29538,7 +29538,7 @@ have_VHB
 established_VVN
 that_CJT
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 phase_NN1
 of_PRF
 training_NN1
@@ -29740,7 +29740,7 @@ to_TO0
 observe_VVI
 and_CJC
 attend_VVI
-differed_VVN-VVD
+differed_VVN
 little_AJ0
 from_PRP
 experimental_AJ0
@@ -29769,7 +29769,7 @@ controls_NN2
 showed_VVD
 inferior_AJ0
 performance_NN1
-Pfafflin_NP0-NN1
+Pfafflin_NN1
 1960_CRD
 was_VBD
 able_AJ0
@@ -29808,7 +29808,7 @@ the_AT0
 reason_NN1
 for_PRP
 their_DPS
-discrepant_AJ0-NN1
+discrepant_NN1
 findings_NN2
 But_CJC
 rather_AV0
@@ -29833,7 +29833,7 @@ principle_NN1
 inadequate_AJ0
 for_PRP
 our_DPS
-present_AJ0-NN1
+present_AJ0
 needs_VVZ
 first_ORD
 there_EX0
@@ -29992,7 +29992,7 @@ phase_NN1
 than_CJS
 those_DT0
 given_VVN
-initial_AJ0-NN1
+initial_AJ0
 discrimination_NN1
 training_NN1
 and_CJC
@@ -30188,7 +30188,7 @@ transfer_NN1
 to_TO0
 a_AT0
 verbal_AJ0
-paired-associate_AJ0-NN1
+paired-associate_AJ0
 task_NN1
 in_PRP
 subjects_NN2
@@ -30212,13 +30212,13 @@ pre-training_NN1
 at_PRP
 all_DT0
 But_CJC
-Norcross_NP0-NN1
+Norcross_NP0
 and_CJC
-Spiker_NP0-NN1
+Spiker_NN1
 1957_CRD
 see_VVI
 also_AV0
-Spiker_NP0-NN1
+Spiker_NN1
 1956_CRD
 b_ZZ0
 found_VVD
@@ -30255,7 +30255,7 @@ test_NN1
 performance_NN1
 to_TO0
 controls_NN2
-pre-trained_AJ0-NN1
+pre-trained_AJ0
 on_PRP
 a_AT0
 same_DT0
@@ -30267,9 +30267,9 @@ has_VHZ
 been_VBN
 confirmed_VVN
 by_PRP
-Spiker_NP0-NN1
+Spiker_NN1
 and_CJC
-Norcross_NP0-NN1
+Norcross_NP0
 1962_CRD
 It_PNP
 constitutes_VVZ
@@ -30411,7 +30411,7 @@ control_NN1
 group_NN1
 learned_VVN
 an_AT0
-initial_AJ0-NN1
+initial_AJ0
 discrimination_NN1
 in_PRP
 which_DTQ
@@ -30464,7 +30464,7 @@ a_AT0
 test_NN1
 task_NN1
 which_DTQ
-involved_AJ0
+involved_VVN
 choice_NN1
 between_PRP
 A_AT0
@@ -30511,7 +30511,7 @@ two_CRD
 pre-training_NN1
 tasks_NN2
 c_ZZ0
-Within-subject_NN1-AJ0
+Within-subject_AJ0
 procedures_NN2
 Perhaps_AV0
 the_AT0
@@ -30533,7 +30533,7 @@ make_VVI
 use_NN1
 of_PRF
 a_AT0
-within-subject_NN1-AJ0
+within-subject_NN1
 experimental_AJ0
 design_NN1
 of_PRF
@@ -30541,7 +30541,7 @@ the_AT0
 sort_NN1
 employed_VVN
 by_PRP
-Norcross_NP0-NN1
+Norcross_NP0
 1958_CRD
 and_CJC
 Reese_NP0
@@ -30647,7 +30647,7 @@ to_TO0
 one_CRD
 of_PRF
 the_AT0
-pre-trained_AJ0-NN1
+pre-trained_AJ0
 cues_NN2
 and_CJC
 a_AT0
@@ -30718,7 +30718,7 @@ condition_NN1
 The_AT0
 experiment_NN1
 by_PRP
-Norcross_NP0-NN1
+Norcross_NP0
 1958_CRD
 which_DTQ
 used_VVN
@@ -30757,7 +30757,7 @@ stimuli_NN2
 of_PRF
 Fig._NN1
 5.3_CRD
-Norcross_NP0-NN1
+Norcross_NP0
 found_VVD
 that_CJT
 the_AT0
@@ -30844,7 +30844,7 @@ must_VM0
 be_VBI
 a_AT0
 reality_NN1
-Transfer_VVB-NN1
+Transfer_NN1
 to_TO0
 a_AT0
 generalization_NN1
@@ -30911,7 +30911,7 @@ to_TO0
 one_CRD
 of_PRF
 the_AT0
-pre-trained_AJ0-NN1
+pre-trained_AJ0
 stimuli_NN2
 and_CJC
 then_AV0
@@ -30921,10 +30921,10 @@ separate_AJ0
 test_NN1
 phase_NN1
 to_TO0
-present_AJ0-NN1
+present_AJ0
 the_AT0
 other_AJ0
-pre-trained_AJ0-NN1
+pre-trained_AJ0
 stimuli_NN2
 Simplified_AJ0
 representations_NN2
@@ -30970,7 +30970,7 @@ test_NN1
 are_VBB
 readily_AV0
 discriminated_VVN
-Malloy_NN1-NP0
+Malloy_NP0
 and_CJC
 Ellis_NP0
 1970_CRD
@@ -31171,7 +31171,7 @@ equivalence_NN1
 and_CJC
 distinctiveness_NN1
 effects_NN2
-Malloy_NN1-NP0
+Malloy_NP0
 and_CJC
 Ellis_NP0
 1970_CRD
@@ -31250,7 +31250,7 @@ modification_NN1
 to_TO0
 allow_VVI
 a_AT0
-within-subject_NN1-AJ0
+within-subject_NN1
 comparison_NN1
 If_CJS
 the_AT0
@@ -31424,7 +31424,7 @@ has_VHZ
 been_VBN
 employed_VVN
 by_PRP
-Eisman_NP0-NN1
+Eisman_NN1
 1955_CRD
 and_CJC
 in_PRP
@@ -31450,7 +31450,7 @@ see_VVI
 also_AV0
 Grice_NP0
 1965_CRD
-Eisman_NP0-NN1
+Eisman_NN1
 's_POS
 subjects_NN2
 were_VBD
@@ -31589,12 +31589,12 @@ had_VHD
 received_VVD
 instructions_NN2
 to_TO0
-emit_VVI
+emit_VVB
 a_AT0
 given_VVN
 response_NN1
 a_AT0
-key-press_NN1-AJ0
+key-press_NN1
 in_PRP
 one_CRD
 study_NN1
@@ -31613,7 +31613,7 @@ the_AT0
 light_NN1
 but_CJC
 to_TO0
-emit_VVI
+emit_VVB
 a_AT0
 different_AJ0
 response_NN1
@@ -31630,7 +31630,7 @@ show_VVI
 especially_AV0
 for_PRP
 the_AT0
-manual-response_AJ0-NN1
+manual-response_NN1
 case_NN1
 that_CJT
 generalization_NN1
@@ -31645,13 +31645,13 @@ more_AV0
 readily_AV0
 to_TO0
 the_AT0
-same-response_AJ0-NN1
+same-response_NN1
 tone_NN1
 than_CJS
 to_TO0
 the_AT0
 tone_NN1
-pre-trained_AJ0-NN1
+pre-trained_AJ0
 with_PRP
 a_AT0
 different_AJ0
@@ -31765,7 +31765,7 @@ effects_NN2
 could_VM0
 be_VBI
 occurring_VVG
-Transfer_VVB-NN1
+Transfer_NN1
 from_PRP
 verbal_AJ0
 to_TO0
@@ -32013,7 +32013,7 @@ used_VVN
 were_VBD
 10_CRD
 fingerprints_NN2
-Subject_AJ0
+Subject_NN1
 in_PRP
 the_AT0
 distinctiveness_NN1
@@ -32053,7 +32053,7 @@ required_VVN
 subjects_NN2
 to_TO0
 identify_VVI
-pre-trained_AJ0-NN1
+pre-trained_AJ0
 stimuli_NN2
 when_CJS
 they_PNP
@@ -32167,7 +32167,7 @@ for_PRP
 the_AT0
 various_AJ0
 shapes_NN2
-out-performed_VVD-VVN
+out-performed_VVD
 controls_NN2
 who_PNQ
 had_VHD
@@ -32189,7 +32189,7 @@ that_CJT
 required_VVN
 pressing_VVG
 one_CRD
-switch_VVI
+switch_NN1
 rather_AV0
 than_CJS
 some_DT0
@@ -32359,7 +32359,7 @@ The_AT0
 difference_NN1
 in_PRP
 recognition_NN1
-memory-test_NN1-AJ0
+memory-test_AJ0
 performance_NN1
 between_PRP
 subjects_NN2
@@ -32409,7 +32409,7 @@ of_PRF
 the_AT0
 more_AV0
 complex_AJ0
-24-pointed_AJ0-NN1
+24-pointed_AJ0
 shapes_NN2
 as_CJS
 their_DPS
@@ -32443,7 +32443,7 @@ Feuge_NP0
 1966_CRD
 Ellis_NP0
 and_CJC
-Homan_NP0-NN1
+Homan_NP0
 1968_CRD
 Why_AVQ
 some_DT0
@@ -32503,7 +32503,7 @@ objects_NN2
 Ellis_NP0
 Muller_NP0
 and_CJC
-Tosti_NP0-NN1
+Tosti_NP0
 1966_CRD
 and_CJC
 the_AT0
@@ -32563,7 +32563,7 @@ involving_VVG
 discrimination_NN1
 among_PRP
 the_AT0
-pre-trained_AJ0-NN1
+pre-trained_AJ0
 stimuli_NN2
 The_AT0
 experiments_NN2
@@ -32580,7 +32580,7 @@ understanding_NN1
 of_PRF
 the_AT0
 mechanisms_NN2
-involved_AJ0
+involved_VVN
 often_AV0
 important_AJ0
 control_NN1
@@ -32635,7 +32635,7 @@ test_NN1
 procedures_NN2
 Studies_NN2
 with_PRP
-non-human_AJ0-NN1
+non-human_AJ0
 subjects_NN2
 I_PNP
 have_VHB
@@ -32674,7 +32674,7 @@ and_CJC
 extend_VVI
 his_DPS
 findings_NN2
-Transfer_VVB-NN1
+Transfer_NN1
 in_PRP
 discrimination_NN1
 learning_NN1
@@ -32733,7 +32733,7 @@ in_PRP
 that_CJT
 study_NN1
 the_AT0
-shift_NN1-VVB
+shift_NN1
 was_VBD
 from_PRP
 a_AT0
@@ -32819,7 +32819,7 @@ control_NN1
 subjects_NN2
 that_CJT
 received_VVD
-initial_AJ0-NN1
+initial_AJ0
 training_NN1
 on_PRP
 a_AT0
@@ -32842,13 +32842,13 @@ the_AT0
 latter_DT0
 stimuli_NN2
 being_VBG
-present_AJ0-NN1
+present_AJ0
 but_CJC
 irrelevant_AJ0
 Other_AJ0
 experimenters_NN2
 have_VHB
-varied_AJ0
+varied_VVN
 the_AT0
 procedure_NN1
 following_AJ0
@@ -32983,7 +32983,7 @@ were_VBD
 required_VVN
 in_PRP
 the_AT0
-first-stage_AJ0-NN1
+first-stage_NN1
 task_NN1
 to_TO0
 lift_NN1
@@ -33025,7 +33025,7 @@ inches_NN2
 thus_AV0
 the_AT0
 groups_NN2
-differed_VVN-VVD
+differed_VVN
 not_XX0
 in_PRP
 whether_CJS
@@ -33074,11 +33074,11 @@ previously_AV0
 non-rewarded_AJ0
 cue_NN1
 now_AV0
-yielded_VVD-VVN
+yielded_VVD
 reward_NN1
 the_AT0
 animals_NN2
-pre-trained_AJ0-NN1
+pre-trained_AJ0
 with_PRP
 the_AT0
 larger_AJC
@@ -33315,7 +33315,7 @@ that_CJT
 the_AT0
 transfer_NN1
 obtained_VVN
-depended_VVN-VVD
+depended_VVD
 on_PRP
 changes_NN2
 in_PRP
@@ -33356,7 +33356,7 @@ first_ORD
 stage_NN1
 does_VDZ
 not_XX0
-accord_VVI
+accord_NN1
 with_PRP
 the_AT0
 behaviour_NN1
@@ -33560,7 +33560,7 @@ test_NN1
 One_CRD
 of_PRF
 the_AT0
-pre-exposed_AJ0-NN1
+pre-exposed_AJ0
 stimuli_NN2
 receives_VVZ
 reinforcement_NN1
@@ -33609,7 +33609,7 @@ the_AT0
 influence_NN1
 of_PRF
 an_AT0
-initial_AJ0-NN1
+initial_AJ0
 phase_NN1
 of_PRF
 discrimination_NN1
@@ -33673,7 +33673,7 @@ groups_NN2
 of_PRF
 rats_NN2
 received_VVD
-initial_AJ0-NN1
+initial_AJ0
 Pavlovian_AJ0
 training_NN1
 with_PRP
@@ -33795,7 +33795,7 @@ by_PRP
 the_AT0
 group_NN1
 given_VVN
-initial_AJ0-NN1
+initial_AJ0
 discrimination_NN1
 training_NN1
 that_CJT
@@ -33835,7 +33835,7 @@ Spear_NP0
 Kraemer_NP0
 Molina_NP0
 and_CJC
-Smoller_NP0-NN1
+Smoller_NN1
 1988_CRD
 have_VHB
 investigated_VVN
@@ -34113,7 +34113,7 @@ groups_NN2
 of_PRF
 rats_NN2
 received_VVD
-initial_AJ0-NN1
+initial_AJ0
 training_NN1
 in_PRP
 which_DTQ
@@ -34150,7 +34150,7 @@ one_CRD
 not_XX0
 The_AT0
 groups_NN2
-differed_VVN-VVD
+differed_VVN
 in_PRP
 the_AT0
 treatment_NN1
@@ -34409,7 +34409,7 @@ possibility_NN1
 inherent_AJ0
 in_PRP
 the_AT0
-between-group_AJ0-NN1
+between-group_AJ0
 comparison_NN1
 made_VVN
 for_PRP
@@ -34492,7 +34492,7 @@ C_ZZ0
 will_VM0
 change_NN1
 during_PRP
-pre-exposure_NN1-AJ0
+pre-exposure_NN1
 and_CJC
 that_CJT
 the_AT0
@@ -34621,7 +34621,7 @@ a_AT0
 two-stage_AJ0
 procedure_NN1
 an_AT0
-initial_AJ0-NN1
+initial_AJ0
 phase_NN1
 of_PRF
 discrimination_NN1
@@ -34660,7 +34660,7 @@ the_AT0
 differential_NN1
 outcomes_NN2
 effect_NN1
-DOE_NP0-NN1
+DOE_NP0
 Peterson_NP0
 and_CJC
 Trapold_VVB
@@ -34684,7 +34684,7 @@ experiment_NN1
 with_PRP
 rats_NN2
 In_PRP
-initial_AJ0-NN1
+initial_AJ0
 discrimination_NN1
 training_NN1
 a_AT0
@@ -34755,7 +34755,7 @@ of_PRF
 two_CRD
 levers_NN2
 will_VM0
-yield_VVI
+yield_NN1
 food_NN1
 and_CJC
 presentation_NN1
@@ -34785,7 +34785,7 @@ with_PRP
 the_AT0
 subjects_NN2
 given_VVN
-initial_AJ0-NN1
+initial_AJ0
 discrimination_NN1
 training_NN1
 being_VBG
@@ -34822,8 +34822,8 @@ were_VBD
 tested_VVN
 on_PRP
 a_AT0
-food-rewarded_AJ0-NN1
-conditional_AJ0-NN1
+food-rewarded_NN1
+conditional_AJ0
 go_VVI
 left/go_NN1
 right_NN1
@@ -35061,7 +35061,7 @@ obtained_VVN
 in_PRP
 experiments_NN2
 investigating_VVG
-matching_VVG
+matching_AJ0
 to_TO0
 sample_NN1
 MTS_NP0
@@ -35101,7 +35101,7 @@ and_CJC
 response_NN1
 to_TO0
 the_AT0
-matching_VVG
+matching_AJ0
 stimulus_NN1
 is_VBZ
 rewarded_VVN
@@ -35112,7 +35112,7 @@ formally_AV0
 equivalent_AJ0
 to_TO0
 the_AT0
-conditional_AJ0-NN1
+conditional_AJ0
 choice_NN1
 procedure_NN1
 use_NN1
@@ -35135,7 +35135,7 @@ physically_AV0
 identical_AJ0
 to_TO0
 the_AT0
-conditional_AJ0-NN1
+conditional_AJ0
 cue_NN1
 the_AT0
 sample_NN1
@@ -35212,7 +35212,7 @@ available_AJ0
 Subjects_NN2
 for_PRP
 whom_PNQ
-trial-type_NN1-AJ0
+trial-type_NN1
 i.e._AV0
 whether_CJS
 the_AT0
@@ -35243,7 +35243,7 @@ of_PRF
 trial_NN1
 A_AT0
 similar_AJ0
-DOE_NP0-NN1
+DOE_NP0
 has_VHZ
 been_VBN
 found_VVD
@@ -35285,7 +35285,7 @@ correct_AJ0
 response_NN1
 for_PRP
 one_CRD
-trial-type_NN1-AJ0
+trial-type_NN1
 and_CJC
 just_AV0
 a_AT0
@@ -35302,7 +35302,7 @@ type_NN1
 of_PRF
 trial_NN1
 The_AT0
-DOE_NP0-NN1
+DOE_NP0
 has_VHZ
 been_VBN
 interpreted_VVN
@@ -35311,7 +35311,7 @@ showing_VVG
 that_CJT
 expectancies_NN2
 can_VM0
-act_VVI
+act_NN1
 as_CJS
 effective_AJ0
 cues_NN2
@@ -35333,7 +35333,7 @@ allows_VVZ
 each_DT0
 sample_NN1
 or_CJC
-conditional_AJ0-NN1
+conditional_AJ0
 cue_NN1
 to_TO0
 become_VVI
@@ -35365,7 +35365,7 @@ the_AT0
 ability_NN1
 of_PRF
 the_AT0
-conditional_AJ0-NN1
+conditional_AJ0
 cues_NN2
 to_TO0
 evoke_VVI
@@ -35384,7 +35384,7 @@ memory_NN1
 Some_DT0
 accounts_NN2
 e.g._AV0
-Honig_NP0-NN1
+Honig_NN1
 1981_CRD
 assume_VVI
 that_CJT
@@ -35407,7 +35407,7 @@ the_AT0
 sample_NN1
 stimulus_NN1
 itself_PNX
-Support_NN1-VVB
+Support_NN1
 for_PRP
 this_DT0
 interpretation_NN1
@@ -35429,7 +35429,7 @@ the_AT0
 magnitude_NN1
 of_PRF
 the_AT0
-DOE_NP0-NN1
+DOE_NP0
 diminishes_VVZ
 as_CJS
 the_AT0
@@ -35460,7 +35460,7 @@ see_VVI
 also_AV0
 DeLong_VVB
 and_CJC
-Wasserman_NP0-NN1
+Wasserman_NN1
 1981_CRD
 It_PNP
 may_VM0
@@ -35481,7 +35481,7 @@ given_VVN
 that_CJT
 formally_AV0
 equivalent_AJ0
-conditional_AJ0-NN1
+conditional_AJ0
 discriminations_NN2
 using_VVG
 rats_NN2
@@ -35492,7 +35492,7 @@ have_VHB
 regularly_AV0
 found_VVD
 a_AT0
-DOE_NP0-NN1
+DOE_NP0
 using_VVG
 a_AT0
 procedure_NN1
@@ -35504,10 +35504,10 @@ on_PRP
 memory_NN1
 because_CJS
 the_AT0
-conditional_AJ0-NN1
+conditional_AJ0
 cue_NN1
 remains_VVZ
-present_AJ0-NN1
+present_AJ0
 until_CJS
 the_AT0
 choice_NN1
@@ -35542,7 +35542,7 @@ the_AT0
 formal_AJ0
 parallel_AJ0
 between_PRP
-DOE_NP0-NN1
+DOE_NP0
 studies_NN2
 and_CJC
 acquired_VVN
@@ -35575,7 +35575,7 @@ mechanisms_NN2
 responsible_AJ0
 for_PRP
 the_AT0
-DOE_NP0-NN1
+DOE_NP0
 may_VM0
 in_PRP
 fact_NN1
@@ -35730,7 +35730,7 @@ the_AT0
 idea_NN1
 that_CJT
 the_AT0
-pre-trained_AJ0-NN1
+pre-trained_AJ0
 cues_NN2
 become_VVI
 more_AV0
@@ -35790,7 +35790,7 @@ the_AT0
 distinctiveness_NN1
 of_PRF
 the_AT0
-pre-trained_AJ0-NN1
+pre-trained_AJ0
 cues_NN2
 What_DTQ
 these_DT0
@@ -35965,7 +35965,7 @@ which_DTQ
 one_CRD
 can_VM0
 distinguish_VVI
-burgundy_NN1-AJ0
+burgundy_NN1
 from_PRP
 claret_NN1
 When_CJS
@@ -36015,7 +36015,7 @@ wine_NN1
 When_CJS
 we_PNP
 try_VVI
-burgundy_NN1-AJ0
+burgundy_NN1
 our_DPS
 first_ORD
 impression_NN1
@@ -36040,7 +36040,7 @@ we_PNP
 hear_VVI
 it_PNP
 called_VVN
-burgundy_NN1-AJ0
+burgundy_NN1
 During_PRP
 the_AT0
 next_ORD
@@ -36062,7 +36062,7 @@ two_CRD
 wines_NN2
 is_VBZ
 this_DT0
-present_AJ0-NN1
+present_AJ0
 specimen_NN1
 But_CJC
 at_PRP
@@ -36091,7 +36091,7 @@ burgundy-flavor_NN1
 recalls_VVZ
 the_AT0
 name_NN1
-burgundy_NN1-AJ0
+burgundy_NN1
 and_CJC
 someone_PNI
 else_AV0
@@ -36140,7 +36140,7 @@ flavors_NN2
 and_CJC
 help_VVI
 to_TO0
-stretch_VVI
+stretch_NN1
 these_DT0
 latter_DT0
 further_AJC
@@ -36351,9 +36351,9 @@ be_VBI
 a_AT0
 common_AJ0
 element_NN1
-mediating_AJ0-NN1
+mediating_AJ0
 an_AT0
-increased_AJ0
+increased_VVN
 amount_NN1
 of_PRF
 generalization_NN1
@@ -36882,7 +36882,7 @@ stimulus_NN1
 elements_NN2
 that_CJT
 are_VBB
-present_AJ0-NN1
+present_AJ0
 also_AV0
 in_PRP
 B._NP0
@@ -37108,7 +37108,7 @@ a_AT0
 nausea-inducing_AJ0
 injection_NN1
 of_PRF
-LiCl_NN1-NP0
+LiCl_NP0
 In_PRP
 a_AT0
 final_AJ0
@@ -37177,10 +37177,10 @@ of_PRF
 an_AT0
 event_NN1
 can_VM0
-act_VVI
+act_NN1
 as_CJS
 a_AT0
-substitute_NN1-AJ0
+substitute_NN1
 for_PRP
 the_AT0
 event_NN1
@@ -37204,7 +37204,7 @@ the_AT0
 possibility_NN1
 of_PRF
 becoming_VVG
-involved_AJ0
+involved_VVN
 in_PRP
 any_DT0
 extensive_AJ0
@@ -37277,7 +37277,7 @@ Indeed_AV0
 some_DT0
 Bhatt_NP0
 and_CJC
-Wasserman_NP0-NN1
+Wasserman_NN1
 1989_CRD
 have_VHB
 argued_VVD
@@ -37311,7 +37311,7 @@ conceptual_AJ0
 category_NN1
 only_AV0
 when_CJS
-mediated_VVN
+mediated_VVD
 generalization_NN1
 can_VM0
 be_VBI
@@ -37422,7 +37422,7 @@ The_AT0
 mechanism_NN1
 responsible_AJ0
 for_PRP
-mediated_VVN
+mediated_VVD
 generalization_NN1
 does_VDZ
 nothing_PNI
@@ -37438,14 +37438,14 @@ elements_NN2
 and_CJC
 thus_AV0
 those_DT0
-wanting_VVG-AJ0
+wanting_VVG
 to_TO0
 cite_VVI
-mediated_VVN
+mediated_VVD
 generalization_NN1
 as_CJS
 a_AT0
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 concept_NN1
 formation_NN1
@@ -37566,7 +37566,7 @@ of_PRF
 perceptual_AJ0
 learning_NN1
 c_ZZ0
-Acquired_AJ0-VVN
+Acquired_AJ0
 distinctiveness_NN1
 mechanisms_NN2
 It_PNP
@@ -37923,7 +37923,7 @@ discrimination_NN1
 will_VM0
 not_XX0
 be_VBI
-improved_AJ0
+improved_VVN
 Indeed_AV0
 to_TO0
 the_AT0
@@ -37961,7 +37961,7 @@ elements_NN2
 the_AT0
 z_ZZ0
 elements_NN2
-mediating_AJ0-NN1
+mediating_AJ0
 generalization_NN1
 from_PRP
 A_AT0
@@ -37972,7 +37972,7 @@ of_PRF
 the_AT0
 phenomenon_NN1
 of_PRF
-overshadowing_AJ0-NN1
+overshadowing_AJ0
 provides_VVZ
 one_CRD
 possible_AJ0
@@ -38085,7 +38085,7 @@ process_NN1
 in_PRP
 which_DTQ
 stimuli_NN2
-present_AJ0-NN1
+present_AJ0
 on_PRP
 a_AT0
 conditioning_NN1
@@ -38436,7 +38436,7 @@ B_ZZ0
 have_VHB
 not_XX0
 been_VBN
-pre-trained_AJ0-NN1
+pre-trained_AJ0
 the_AT0
 consequence_NN1
 of_PRF
@@ -38446,7 +38446,7 @@ B-Y_PRP
 associations_NN2
 having_VHG
 been_VBN
-pre-established_NN1-AJ0
+pre-established_AJ0
 would_VM0
 be_VBI
 that_CJT
@@ -38812,7 +38812,7 @@ another_DT0
 that_CJT
 is_VBZ
 physically_AV0
-present_AJ0-NN1
+present_AJ0
 but_CJC
 with_PRP
 the_AT0
@@ -38958,7 +38958,7 @@ the_AT0
 memory_NN1
 hypothesis_NN1
 the_AT0
-overshadowing_AJ0-NN1
+overshadowing_AJ0
 hypothesis_NN1
 and_CJC
 generalization_NN1
@@ -39272,7 +39272,7 @@ by_PRP
 Gibson_NP0
 with_PRP
 a_AT0
-steepening_VVG
+steepening_AJ0
 of_PRF
 the_AT0
 gradient_NN1
@@ -39310,7 +39310,7 @@ And_CJC
 although_CJS
 Gibson_NP0
 's_POS
-initial_AJ0-NN1
+initial_AJ0
 concern_NN1
 was_VBD
 with_PRP
@@ -39399,7 +39399,7 @@ account_NN1
 of_PRF
 differentiation_NN1
 in_PRP
-paired-associate_AJ0-NN1
+paired-associate_AJ0
 learning_NN1
 was_VBD
 expressed_VVN
@@ -39525,7 +39525,7 @@ assume_VVI
 they_PNP
 argued_VVD
 that_CJT
-percepts_NN2-VVZ
+percepts_NN2
 change_NN1
 over_PRP
 time_NN1
@@ -39573,7 +39573,7 @@ in_PRP
 contrast_NN1
 holds_VVZ
 that_CJT
-percepts_NN2-VVZ
+percepts_NN2
 change_NN1
 over_PRP
 time_NN1
@@ -39605,7 +39605,7 @@ the_AT0
 stimulus_NN1
 that_CJT
 are_VBB
-present_AJ0-NN1
+present_AJ0
 in_PRP
 it_PNP
 from_PRP
@@ -39697,7 +39697,7 @@ forthcoming_AJ0
 about_PRP
 the_AT0
 mechanisms_NN2
-involved_AJ0
+involved_VVN
 She_PNP
 emphasizes_VVZ
 again_AV0
@@ -39827,7 +39827,7 @@ mechanism_NN1
 other_AJ0
 than_CJS
 that_CJT
-involved_AJ0
+involved_VVN
 in_PRP
 abstraction_NN1
 is_VBZ
@@ -40381,7 +40381,7 @@ would_VM0
 produce_VVI
 more_AV0
 effective_AJ0
-overshadowing_AJ0-NN1
+overshadowing_AJ0
 of_PRF
 the_AT0
 c_ZZ0
@@ -40952,7 +40952,7 @@ In_PRP
 the_AT0
 experiment_NN1
 by_PRP
-Norcross_NP0-NN1
+Norcross_NP0
 1958_CRD
 briefly_AV0
 mentioned_VVN
@@ -40992,9 +40992,9 @@ names_NN2
 were_VBD
 rather_AV0
 similar_AJ0
-zim_NN1-VVB
+zim_NN1
 and_CJC
-zam_NN1-VVB
+zam_VVB
 whereas_CJS
 for_PRP
 the_AT0
@@ -41003,7 +41003,7 @@ pair_NN0
 they_PNP
 were_VBD
 dissimilar_AJ0
-wug_NN1-VVB
+wug_VVB
 and_CJC
 kos_NN2
 Acquisition_NN1
@@ -41179,7 +41179,7 @@ that_CJT
 a_AT0
 tendency_NN1
 to_TO0
-emit_VVI
+emit_VVB
 a_AT0
 fractional_AJ0
 version_NN1
@@ -41195,7 +41195,7 @@ would_VM0
 serve_VVI
 as_CJS
 a_AT0
-mediating_AJ0-NN1
+mediating_AJ0
 process_NN1
 in_PRP
 the_AT0
@@ -41214,7 +41214,7 @@ the_AT0
 magnitude_NN1
 of_PRF
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 response_NN1
 of_PRF
 which_DTQ
@@ -41293,7 +41293,7 @@ introduction_NN1
 of_PRF
 procedures_NN2
 that_CJT
-act_VVI
+act_NN1
 to_TO0
 eliminate_VVI
 or_CJC
@@ -41343,7 +41343,7 @@ differentiation_NN1
 established_VVN
 by_PRP
 an_AT0
-initial_AJ0-NN1
+initial_AJ0
 phase_NN1
 of_PRF
 discrimination_NN1
@@ -41433,7 +41433,7 @@ a_AT0
 study_NN1
 of_PRF
 the_AT0
-DOE_NP0-NN1
+DOE_NP0
 by_PRP
 Carlson_NP0
 1974_CRD
@@ -41451,7 +41451,7 @@ that_CJT
 I_PNP
 characterized_VVN
 the_AT0
-DOE_NP0-NN1
+DOE_NP0
 procedure_NN1
 as_CJS
 collapsing_VVG
@@ -41493,7 +41493,7 @@ these_DT0
 expectancies_NN2
 not_XX0
 being_VBG
-pre-trained_AJ0-NN1
+pre-trained_AJ0
 but_CJC
 being_VBG
 formed_VVN
@@ -41507,7 +41507,7 @@ itself_PNX
 Carlson_NP0
 1974_CRD
 however_AV0
-reverted_VVN-VVD
+reverted_VVD
 to_TO0
 a_AT0
 two-stage_AJ0
@@ -41517,7 +41517,7 @@ in_PRP
 one_CRD
 condition_NN1
 received_VVD
-initial_AJ0-NN1
+initial_AJ0
 Pavlovian_AJ0
 discrimination_NN1
 training_NN1
@@ -41625,7 +41625,7 @@ task_NN1
 but_CJC
 had_VHD
 received_VVD
-initial_AJ0-NN1
+initial_AJ0
 Pavlovian_AJ0
 training_NN1
 in_PRP
@@ -41694,7 +41694,7 @@ group_NN1
 of_PRF
 subjects_NN2
 received_VVD
-initial_AJ0-NN1
+initial_AJ0
 Pavlovian_AJ0
 training_NN1
 in_PRP
@@ -41726,7 +41726,7 @@ the_AT0
 test_NN1
 stage_NN1
 In_PRP
-initial_AJ0-NN1
+initial_AJ0
 training_NN1
 the_AT0
 tone_NN1
@@ -41751,7 +41751,7 @@ presence_NN1
 of_PRF
 this_DT0
 cue_NN1
-yielded_VVD-VVN
+yielded_VVD
 food_NN1
 plus_PRP
 shock_NN1
@@ -41781,7 +41781,7 @@ presence_NN1
 of_PRF
 this_DT0
 cue_NN1
-yielded_VVD-VVN
+yielded_VVD
 just_AV0
 food_NN1
 This_DT0
@@ -41907,7 +41907,7 @@ According_VVG
 to_TO0
 this_DT0
 theory_NN1
-initial_AJ0-NN1
+initial_AJ0
 discrimination_NN1
 training_NN1
 should_VM0
@@ -41930,7 +41930,7 @@ of_PRF
 training_NN1
 do_VDB
 not_XX0
-accord_VVI
+accord_NN1
 with_PRP
 those_DT0
 likely_AJ0
@@ -42101,7 +42101,7 @@ would_VM0
 certainly_AV0
 have_VHB
 become_VVI
-involved_AJ0
+involved_VVN
 in_PRP
 some_DT0
 associations_NN2
@@ -42110,7 +42110,7 @@ particular_AJ0
 the_AT0
 symbol_NN1
 for_PRP
-gimmel_NN1-VVB
+gimmel_NN1
 would_VM0
 have_VHB
 become_VVI
@@ -42126,14 +42126,14 @@ that_CJT
 associated_VVN
 with_PRP
 the_AT0
-Roman_AJ0-NN1
+Roman_AJ0
 G_ZZ0
 the_AT0
 mem_NN1
 symbol_NN1
 and_CJC
 the_AT0
-Roman_AJ0-NN1
+Roman_AJ0
 M_ZZ0
 would_VM0
 also_AV0
@@ -42163,7 +42163,7 @@ various_AJ0
 ways_NN2
 In_PRP
 one_CRD
-gimmel_NN1-VVB
+gimmel_NN1
 and_CJC
 G_ZZ0
 had_VHD
@@ -42193,7 +42193,7 @@ together_AV0
 and_CJC
 to_TO0
 put_VVI
-gimmel_NN1-VVB
+gimmel_NN1
 with_PRP
 M._NN1
 If_CJS
@@ -42202,7 +42202,7 @@ symbols_NN2
 for_PRP
 mem_NN1
 and_CJC
-gimmel_NN1-VVB
+gimmel_NN1
 have_VHB
 become_VVI
 differentiated_VVN
@@ -42326,7 +42326,7 @@ not_XX0
 differ_VVB
 in_PRP
 their_DPS
-card-sorting_AJ0-NN1
+card-sorting_AJ0
 times_NN2
 on_PRP
 the_AT0
@@ -42365,7 +42365,7 @@ Hall_NN1
 1989c_UNC
 experiment_NN1
 3_CRD
-initial_AJ0-NN1
+initial_AJ0
 training_NN1
 involves_VVZ
 three_CRD
@@ -42422,7 +42422,7 @@ the_AT0
 fact_NN1
 that_CJT
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 phase_NN1
 of_PRF
 discrimination_NN1
@@ -42761,10 +42761,10 @@ mediation_NN1
 by_PRP
 the_AT0
 associate_NN1
-Conditioning_NN1-AJ0
+Conditioning_AJ0
 with_PRP
 a_AT0
-pre-trained_AJ0-NN1
+pre-trained_AJ0
 A_AT0
 allows_VVZ
 the_AT0
@@ -42932,7 +42932,7 @@ B._NP0
 That_DT0
 is_VBZ
 the_AT0
-overshadowing_AJ0-NN1
+overshadowing_AJ0
 mechanism_NN1
 if_CJS
 it_PNP
@@ -42967,7 +42967,7 @@ to_TO0
 say_VVI
 that_CJT
 the_AT0
-overshadowing_AJ0-NN1
+overshadowing_AJ0
 mechanism_NN1
 is_VBZ
 not_XX0
@@ -43085,7 +43085,7 @@ possibility_NN1
 that_CJT
 an_AT0
 associative_AJ0
-acquired-distinctiveness_AJ0-NN1
+acquired-distinctiveness_AJ0
 effect_NN1
 may_VM0
 also_AV0
@@ -43118,7 +43118,7 @@ associative_AJ0
 processes_NN2
 In_PRP
 standard_NN1
-acquired-distinctiveness_AJ0-NN1
+acquired-distinctiveness_AJ0
 experiments_NN2
 of_PRF
 course_NN1
@@ -43231,7 +43231,7 @@ that_CJT
 X_ZZ0
 could_VM0
 thus_AV0
-act_VVI
+act_NN1
 to_TO0
 mediate_VVB
 generalization_NN1
@@ -43273,7 +43273,7 @@ positive_AJ0
 evidence_NN1
 that_CJT
 might_VM0
-prompt_VVI
+prompt_AJ0
 us_PNP
 to_TO0
 adopt_VVI
@@ -43357,7 +43357,7 @@ may_VM0
 be_VBI
 from_PRP
 those_DT0
-involved_AJ0
+involved_VVN
 in_PRP
 habituation_NN1
 the_AT0
@@ -43524,7 +43524,7 @@ radically_AV0
 altered_VVN
 in_PRP
 the_AT0
-shift_NN1-VVB
+shift_NN1
 from_PRP
 the_AT0
 simultaneous_AJ0
@@ -43719,7 +43719,7 @@ were_VBD
 novel_NN1
 Gibson_NP0
 and_CJC
-Walk_NN1-VVB
+Walk_VVB
 1956_CRD
 This_DT0
 single_AJ0

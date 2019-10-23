@@ -67,7 +67,7 @@ species_NN0
 is_VBZ
 to_TO0
 be_VBI
-excepted_VVD
+excepted_VVN
 it_PNP
 must_VM0
 be_VBI
@@ -222,7 +222,7 @@ to_TO0
 man_NN1
 The_AT0
 best_AJS
-non-human_AJ0-NN1
+non-human_AJ0
 example_NN1
 that_CJT
 I_PNP
@@ -485,7 +485,7 @@ cases_NN2
 the_AT0
 variant_NN1
 was_VBD
-transmitted_AJ0-VVN
+transmitted_VVN
 accurately_AV0
 in_PRP
 its_DPS
@@ -829,7 +829,7 @@ to_TO0
 catch_VVI
 large_AJ0
 and_CJC
-fast_AV0-AJ0
+fast_AJ0
 prey_NN1
 Frequently_AV0
 the_AT0
@@ -964,7 +964,7 @@ of_PRF
 Margaret_NP0
 Mead_NN1
 's_POS
-Arapesh_NN1-NP0
+Arapesh_NP0
 I_PNP
 think_VVB
 we_PNP
@@ -1180,7 +1180,7 @@ death_NN1
 at_PRP
 100_CRD
 degrees_NN2
-centigrade_VVB-NN1
+centigrade_NN1
 if_CJS
 a_AT0
 form_NN1
@@ -1199,7 +1199,7 @@ all_DT0
 but_CJC
 on_PRP
 electronic_AJ0
-reverberating_AJ0-NN1
+reverberating_AJ0
 circuits_NN2
 will_VM0
 there_EX0
@@ -1247,7 +1247,7 @@ the_AT0
 differential_NN1
 survival_NN1
 of_PRF
-replicating_AJ0-NN1
+replicating_AJ0
 entities_NN2
 The_AT0
 gene_NN1
@@ -1258,7 +1258,7 @@ happens_VVZ
 to_TO0
 be_VBI
 the_AT0
-replicating_AJ0-NN1
+replicating_AJ0
 entity_NN1
 that_CJT
 prevails_VVZ
@@ -1401,7 +1401,7 @@ a_AT0
 unit_NN1
 of_PRF
 imitation_NN1
-Mimeme_NN1-NP0
+Mimeme_NN1
 comes_VVZ
 from_PRP
 a_AT0
@@ -1452,7 +1452,7 @@ memory_NN1
 or_CJC
 to_TO0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 word_NN1
 m\xc3\xaame_UNC
 It_PNP
@@ -2181,7 +2181,7 @@ the_AT0
 old_AJ0
 The_AT0
 old_AJ0
-gene-selected_AJ0-NN1
+gene-selected_NN1
 evolution_NN1
 by_PRP
 making_VVG
@@ -2266,7 +2266,7 @@ more_AV0
 successful_AJ0
 in_PRP
 the_AT0
-meme-pool_NN1-AJ0
+meme-pool_AJ0
 than_CJS
 others_NN2
 This_DT0
@@ -2311,7 +2311,7 @@ Chapter_NN1
 longevity_NN1
 fecundity_NN1
 and_CJC
-copying-fidelity_NN1-AJ0
+copying-fidelity_AJ0
 The_AT0
 longevity_NN1
 of_PRF
@@ -2340,7 +2340,7 @@ copy_NN1
 of_PRF
 the_AT0
 tune_NN1
-Auld_NN1-NP0
+Auld_NP0
 Lang_NP0
 Syne_NP0
 that_CJT
@@ -2428,7 +2428,7 @@ a_AT0
 scientific_AJ0
 idea_NN1
 its_DPS
-spread_NN1
+spread_VVN
 will_VM0
 depend_VVI
 on_PRP
@@ -2475,21 +2475,21 @@ a_AT0
 popular_AJ0
 tune_NN1
 its_DPS
-spread_NN1
+spread_VVN
 through_PRP
 the_AT0
 meme_UNC
 pool_NN1
 may_VM0
 be_VBI
-gauged_VVD-VVN
+gauged_VVN
 by_PRP
 the_AT0
 number_NN1
 of_PRF
 people_NN0
 heard_VVN
-whistling_NN1-VVG
+whistling_VVG
 it_PNP
 in_PRP
 the_AT0
@@ -2578,7 +2578,7 @@ quality_NN1
 of_PRF
 successful_AJ0
 replicators_NN2
-copying-fidelity_NN1-AJ0
+copying-fidelity_AJ0
 Here_AV0
 I_PNP
 must_VM0
@@ -2691,7 +2691,7 @@ looks_VVZ
 quite_AV0
 unlike_PRP
 the_AT0
-particulate_NN1-VVB
+particulate_NN1
 all-or-none_PNI
 quality_NN1
 of_PRF
@@ -2749,7 +2749,7 @@ as_CJS
 human_AJ0
 height_NN1
 or_CJC
-skin-colouring_NN1-AJ0
+skin-colouring_NN1
 it_PNP
 does_VDZ
 not_XX0
@@ -2792,7 +2792,7 @@ genes_NN2
 concerned_AJ0
 are_VBB
 not_XX0
-particulate_NN1-VVB
+particulate_NN1
 It_PNP
 is_VBZ
 just_AV0
@@ -2931,7 +2931,7 @@ chromosome_NN1
 with_PRP
 just_AV0
 sufficient_AJ0
-copying-fidelity_NN1-AJ0
+copying-fidelity_AJ0
 to_TO0
 serve_VVI
 as_CJS
@@ -3021,7 +3021,7 @@ that_CJT
 every_AT0
 biologist_NN1
 has_VHZ
-graven_NN1-AJ0
+graven_AJ0
 in_PRP
 his_DPS
 brain_NN1
@@ -3112,7 +3112,7 @@ of_PRF
 Darwinism_NN1
 which_DTQ
 is_VBZ
-present_AJ0-NN1
+present_AJ0
 in_PRP
 the_AT0
 head_NN1
@@ -3155,7 +3155,7 @@ is_VBZ
 capable_AJ0
 of_PRF
 being_VBG
-transmitted_AJ0-VVN
+transmitted_VVN
 from_PRP
 one_CRD
 brain_NN1
@@ -3504,7 +3504,7 @@ reproduction_NN1
 each_DT0
 gene_NN1
 is_VBZ
-competing_VVG-AJ0
+competing_AJ0
 particularly_AV0
 with_PRP
 its_DPS
@@ -3553,7 +3553,7 @@ memes_NN2
 resemble_VVB
 the_AT0
 early_AJ0
-replicating_AJ0-NN1
+replicating_AJ0
 molecules_NN2
 floating_VVG
 chaotically_AV0
@@ -3578,7 +3578,7 @@ sense_NN1
 then_AV0
 are_VBB
 memes_NN2
-competing_VVG-AJ0
+competing_AJ0
 with_PRP
 each_DT0
 other_AJ0
@@ -3768,7 +3768,7 @@ in_PRP
 Chapter_NN1
 3_CRD
 that_CJT
-co-adapted_VVD-AJ0
+co-adapted_AJ0
 gene_NN1
 complexes_NN2
 may_VM0
@@ -3784,7 +3784,7 @@ of_PRF
 genes_NN2
 concerned_AJ0
 with_PRP
-mimicry_NN1-AJ0
+mimicry_NN1
 in_PRP
 butterflies_NN2
 became_VVD
@@ -3897,7 +3897,7 @@ written_VVN
 tradition_NN1
 as_CJS
 a_AT0
-co-adapted_VVD-AJ0
+co-adapted_AJ0
 stable_AJ0
 set_VVN
 of_PRF
@@ -4017,7 +4017,7 @@ those_DT0
 same_DT0
 qualities_NN2
 of_PRF
-pseudo-ruthlessness_NN1-AJ0
+pseudo-ruthlessness_NN1
 that_CJT
 successful_AJ0
 genes_NN2
@@ -4209,7 +4209,7 @@ should_VM0
 die_VVI
 on_PRP
 the_AT0
-cross_VVI
+cross_NN1
 at_PRP
 the_AT0
 stake_NN1
@@ -4374,7 +4374,7 @@ meme_UNC
 for_PRP
 celibacy_NN1
 is_VBZ
-transmitted_AJ0-VVN
+transmitted_VVN
 by_PRP
 priests_NN2
 to_TO0
@@ -4519,7 +4519,7 @@ to_TO0
 build_VVI
 into_PRP
 him_PNP
-Celibacy_NN1-NP0
+Celibacy_NN1
 is_VBZ
 just_AV0
 a_AT0
@@ -4536,7 +4536,7 @@ memes_NN2
 I_PNP
 conjecture_NN1
 that_CJT
-co-adapted_VVD-AJ0
+co-adapted_AJ0
 meme-complexes_NN2
 evolve_VVI
 in_PRP
@@ -4546,7 +4546,7 @@ kind_NN1
 of_PRF
 way_NN1
 as_CJS
-co-adapted_VVD-AJ0
+co-adapted_AJ0
 gene-complexes_NN2
 Selection_NN1
 favours_VVZ
@@ -4820,7 +4820,7 @@ meme-complexes_NN2
 of_PRF
 Socrates_NP0
 Leonardo_NP0
-Copernicus_NP0-NN1
+Copernicus_NP0
 and_CJC
 Marconi_NP0
 are_VBB
@@ -4950,13 +4950,13 @@ religion_NN1
 music_NN1
 and_CJC
 ritual_NN1
-dancing_VVG
+dancing_NN1
 though_CJS
 these_DT0
 may_VM0
 also_AV0
 be_VBI
-present_AJ0-NN1
+present_AJ0
 Once_AV0
 the_AT0
 genes_NN2
@@ -5434,7 +5434,7 @@ The_AT0
 American_AJ0
 biologist_NN1
 Garrett_NP0
-Hardin_NP0-NN1
+Hardin_NP0
 used_VVN
 it_PNP
 to_TO0
@@ -5678,7 +5678,7 @@ for_PRP
 instance_NN1
 the_AT0
 ants_NN2
-milking_NN1-AJ0
+milking_NN1
 their_DPS
 aphid_NN1
 cattle_NN2
@@ -5706,7 +5706,7 @@ Hamilton_NP0
 whose_DTQ
 name_NN1
 has_VHZ
-cropped_AJ0
+cropped_VVN
 up_AVP
 on_PRP
 so_AV0
@@ -5798,7 +5798,7 @@ shelves_NN2
 in_PRP
 libraries_NN2
 are_VBB
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 the_AT0
 ramifications_NN2
@@ -5920,7 +5920,7 @@ hands_NN2
 labelled_VVN
 COOPERATE_VVB
 and_CJC
-DEFECT_NN1-VVB
+DEFECT_NN1
 To_TO0
 play_VVI
 we_PNP
@@ -6071,7 +6071,7 @@ We_PNP
 have_VHB
 both_AV0
 played_VVD
-DEFECT_NN1-VVB
+DEFECT_NN1
 The_AT0
 banker_NN1
 fines_NN2
@@ -6096,7 +6096,7 @@ COOPERATE_VVB
 I_PNP
 have_VHB
 played_VVD
-DEFECT_NN1-VVB
+DEFECT_NN1
 The_AT0
 banker_NN1
 pays_VVZ
@@ -6117,7 +6117,7 @@ IV_CRD
 You_PNP
 have_VHB
 played_VVD
-DEFECT_NN1-VVB
+DEFECT_NN1
 I_PNP
 have_VHB
 played_VVD
@@ -6276,7 +6276,7 @@ Prisoner_NN1
 's_POS
 Dilemma_NN1
 the_AT0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 the_AT0
 Temptation_NN1
@@ -6305,7 +6305,7 @@ are_VBB
 summarized_VVN
 in_PRP
 the_AT0
-Payoff_NN1-NP0
+Payoff_NP0
 matrix_NN1
 in_PRP
 Figure_NN1
@@ -6313,7 +6313,7 @@ A._NP0
 Now_AV0
 why_AVQ
 the_AT0
-dilemma'_NN1-AJ0
+dilemma'_AJ0
 To_TO0
 see_VVI
 this_DT0
@@ -6350,7 +6350,7 @@ can_VM0
 play_VVI
 COOPERATE_VVB
 and_CJC
-DEFECT_NN1-VVB
+DEFECT_NN1
 Let's_VM0
 consider_VVI
 them_PNP
@@ -6360,7 +6360,7 @@ If_CJS
 you_PNP
 have_VHB
 played_VVD
-DEFECT_NN1-VVB
+DEFECT_NN1
 this_DT0
 means_NN0
 we_PNP
@@ -6382,7 +6382,7 @@ played_VVD
 would_VM0
 have_VHB
 been_VBN
-DEFECT_NN1-VVB
+DEFECT_NN1
 too_AV0
 Admittedly_AV0
 I_PNP
@@ -6434,7 +6434,7 @@ COOPERATE_VVB
 card_NN1
 Once_AV0
 again_AV0
-DEFECT_NN1-VVB
+DEFECT_NN1
 is_VBZ
 the_AT0
 best_AJS
@@ -6485,7 +6485,7 @@ best_AJS
 move_VVI
 is_VBZ
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 So_AV0
 I_PNP
 have_VHB
@@ -6622,7 +6622,7 @@ call_VVI
 them_PNP
 Peterson_NP0
 and_CJC
-Moriarty_NP0-NN1
+Moriarty_NN1
 are_VBB
 in_PRP
 jail_NN1
@@ -6644,7 +6644,7 @@ to_TO0
 betray_VVI
 his_DPS
 colleague_NN1
-DEFECT_NN1-VVB
+DEFECT_NN1
 by_PRP
 turning_VVG
 King_NP0
@@ -6675,9 +6675,9 @@ the_AT0
 blame_VVI
 entirely_AV0
 on_PRP
-Moriarty_NP0-NN1
+Moriarty_NN1
 and_CJC
-Moriarty_NP0-NN1
+Moriarty_NN1
 renders_VVZ
 the_AT0
 story_NN1
@@ -6696,7 +6696,7 @@ turns_VVZ
 out_AVP
 treacherous_AJ0
 friend_NN1
-Moriarty_NP0-NN1
+Moriarty_NN1
 gets_VVZ
 a_AT0
 heavy_AJ0
@@ -6708,7 +6708,7 @@ gets_VVZ
 off_AVP
 scot-free_AJ0
 having_VHG
-yielded_VVD-VVN
+yielded_VVD
 to_TO0
 the_AT0
 Temptation_NN1
@@ -6721,7 +6721,7 @@ the_AT0
 other_AJ0
 both_AV0
 are_VBB
-convicted_VVN-AJ0
+convicted_VVN
 of_PRF
 the_AT0
 crime_NN1
@@ -6820,7 +6820,7 @@ behind_PRP
 bars_NN2
 You_PNP
 will_VM0
-notice_VVI
+notice_NN1
 that_CJT
 although_CJS
 the_AT0
@@ -6925,7 +6925,7 @@ not_XX0
 do_VDB
 better_AJC
 than_CJS
-DEFECT_NN1-VVB
+DEFECT_NN1
 yet_AV0
 both_AV0
 also_AV0
@@ -6967,7 +6967,7 @@ the_AT0
 other_AJ0
 can_VM0
 be_VBI
-trusted_VVD
+trusted_AJ0
 not_XX0
 to_TO0
 go_VVI
@@ -7044,7 +7044,7 @@ called_VVN
 the_AT0
 Iterated_AJ0
 or_CJC
-Repeated_AJ0-VVN
+Repeated_AJ0
 Prisoner_NN1
 's_POS
 Dilemma_NN1
@@ -7105,7 +7105,7 @@ cards_NN2
 labelled_VVN
 COOPERATE_VVB
 and_CJC
-DEFECT_NN1-VVB
+DEFECT_NN1
 Once_AV0
 again_AV0
 we_PNP
@@ -7301,7 +7301,7 @@ other_AJ0
 is_VBZ
 to_TO0
 be_VBI
-trusted_VVD
+trusted_AJ0
 We_PNP
 can_VM0
 in_PRP
@@ -7330,7 +7330,7 @@ other_AJ0
 we_PNP
 both_AV0
 play_VVI
-DEFECT_NN1-VVB
+DEFECT_NN1
 for_PRP
 all_DT0
 ten_CRD
@@ -7364,12 +7364,12 @@ and_CJC
 each_DT0
 play_VVI
 some_DT0
-mixed_AJ0
+mixed_VVN
 sequence_NN1
 of_PRF
 COOPERATE_VVB
 and_CJC
-DEFECT_NN1-VVB
+DEFECT_NN1
 ending_NN1
 up_AVP
 with_PRP
@@ -7489,7 +7489,7 @@ without_PRP
 paying_VVG
 the_AT0
 costs_NN2
-Rank_NP0-NN1
+Rank_NN1
 the_AT0
 outcomes_NN2
 and_CJC
@@ -7609,7 +7609,7 @@ and_CJC
 plant_NN1
 life_NN1
 too_AV0
-Plant_NN1-VVB
+Plant_NN1
 life_NN1
 Yes_ITJ
 why_AVQ
@@ -7685,7 +7685,7 @@ rather_AV0
 predictable_AJ0
 in_PRP
 that_CJT
-DEFECT_NN1-VVB
+DEFECT_NN1
 is_VBZ
 the_AT0
 only_AV0
@@ -7711,7 +7711,7 @@ possible_AJ0
 strategies_NN2
 COOPERATE_VVB
 and_CJC
-DEFECT_NN1-VVB
+DEFECT_NN1
 Iteration_NN1
 however_AV0
 allows_VVZ
@@ -7761,7 +7761,7 @@ Or_CJC
 strategies_NN2
 might_VM0
 be_VBI
-conditional_AJ0-NN1
+conditional_AJ0
 upon_PRP
 the_AT0
 past_NN1
@@ -7861,7 +7861,7 @@ in_PRP
 this_DT0
 sense_NN1
 are_VBB
-preprogrammed_VVD-AJ0
+preprogrammed_VVD
 rules_NN2
 for_PRP
 action_NN1
@@ -7897,7 +7897,7 @@ simply_AV0
 played_VVD
 COOPERATE_VVB
 and_CJC
-DEFECT_NN1-VVB
+DEFECT_NN1
 randomly_AV0
 and_CJC
 served_VVN
@@ -7984,7 +7984,7 @@ the_AT0
 computer_NN1
 When_CJS
 each_DT0
-pairing_VVG-NN1
+pairing_NN1
 had_VHD
 gone_VVN
 through_PRP
@@ -8019,7 +8019,7 @@ matters_NN2
 is_VBZ
 which_DTQ
 strategy_NN1
-accumulated_AJ0
+accumulated_VVN
 the_AT0
 most_AV0
 money_NN1
@@ -8101,7 +8101,7 @@ of_PRF
 15_CRD
 opponents_NN2
 The_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 possible_AJ0
 score_NN1
 was_VBD
@@ -8128,7 +8128,7 @@ to_TO0
 win_VVI
 in_PRP
 an_AT0
-average_AJ0-NN1
+average_AJ0
 one_CRD
 of_PRF
 its_DPS
@@ -8249,7 +8249,7 @@ of_PRF
 15_CRD
 opponents_NN2
 The_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 possible_AJ0
 score_NN1
 was_VBD
@@ -8276,7 +8276,7 @@ to_TO0
 win_VVI
 in_PRP
 an_AT0
-average_AJ0-NN1
+average_AJ0
 one_CRD
 of_PRF
 its_DPS
@@ -8401,7 +8401,7 @@ practice_NN1
 no_AT0
 strategy_NN1
 's_POS
-average_AJ0-NN1
+average_AJ0
 score_NN1
 exceeded_VVN
 600_CRD
@@ -8418,7 +8418,7 @@ humans_NN2
 but_CJC
 computer_NN1
 programs_NN2
-preprogrammed_VVD-AJ0
+preprogrammed_VVD
 strategies_NN2
 Their_DPS
 human_AJ0
@@ -8440,7 +8440,7 @@ computer_NN1
 chess_NN1
 and_CJC
 the_AT0
-Andromeda_NP0-NN1
+Andromeda_NP0
 computer_NN1
 You_PNP
 can_VM0
@@ -8531,7 +8531,7 @@ all_DT0
 It_PNP
 was_VBD
 called_VVN
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 and_CJC
@@ -8540,7 +8540,7 @@ submitted_VVN
 by_PRP
 Professor_NP0
 Anatol_NP0
-Rapoport_NP0-NN1
+Rapoport_NP0
 a_AT0
 well-known_AJ0
 psychologist_NN1
@@ -8549,7 +8549,7 @@ games_NN2
 theorist_NN1
 from_PRP
 Toronto_NP0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 begins_VVZ
@@ -8575,7 +8575,7 @@ might_VM0
 a_AT0
 game_NN1
 involving_VVG
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 proceed_VVI
@@ -8596,7 +8596,7 @@ other_AJ0
 player_NN1
 is_VBZ
 also_AV0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 remember_VVI
@@ -8616,7 +8616,7 @@ the_AT0
 other_AJ0
 14_CRD
 Both_DT0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tats_NN2
 begin_VVI
@@ -8664,7 +8664,7 @@ of_PRF
 points_NN2
 Now_AV0
 suppose_VVB
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 plays_VVZ
@@ -8694,7 +8694,7 @@ is_VBZ
 basically_AV0
 identical_AJ0
 to_TO0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 except_CJS
@@ -8739,7 +8739,7 @@ as_CJS
 well_AV0
 be_VBI
 two_CRD
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tats_NN2
 A_AT0
@@ -8779,7 +8779,7 @@ move_VVI
 Naive_AJ0
 Prober_NN1
 defects_NN2
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 of_PRF
@@ -8823,13 +8823,13 @@ in_PRP
 the_AT0
 next_ORD
 move_VVI
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
-retaliates_VVZ-NN2
+retaliates_VVZ
 It_PNP
 plays_VVZ
-DEFECT_NN1-VVB
+DEFECT_NN1
 simply_AV0
 following_AJ0
 its_DPS
@@ -8870,7 +8870,7 @@ of_PRF
 o_ZZ0
 points_NN2
 while_CJS
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 gets_VVZ
@@ -8890,9 +8890,9 @@ unjustly_AV0
 one_CRD
 might_VM0
 think_VVB
-retaliates_VVZ-NN2
+retaliates_VVZ
 against_PRP
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 's_POS
@@ -8910,13 +8910,13 @@ both_AV0
 players_NN2
 receive_VVI
 on_PRP
-average_AJ0-NN1
+average_AJ0
 2.5_CRD
 points_NN2
 per_UNC
 move_VVI
 the_AT0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 5_CRD
 and_CJC
@@ -8965,7 +8965,7 @@ Naive_AJ0
 Prober_NN1
 plays_VVZ
 against_PRP
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 both_AV0
@@ -8973,13 +8973,13 @@ do_VDB
 worse_AJC
 than_CJS
 when_CJS
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 plays_VVZ
 against_PRP
 another_DT0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 And_CJC
@@ -9003,7 +9003,7 @@ still_AV0
 since_CJS
 runs_VVZ
 of_PRF
-reverberating_AJ0-NN1
+reverberating_AJ0
 defection_NN1
 tend_VVB
 to_TO0
@@ -9048,7 +9048,7 @@ longer_AV0
 memory_NN1
 than_CJS
 either_AV0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 or_CJC
@@ -9068,7 +9068,7 @@ whether_CJS
 the_AT0
 result_NN1
 was_VBD
-prompt_VVI
+prompt_AJ0
 retaliation_NN1
 If_CJS
 so_AV0
@@ -9081,7 +9081,7 @@ one_CRD
 free_AJ0
 hit_VVD
 without_PRP
-retaliating_VVG-NN1
+retaliating_VVG
 This_DT0
 means_NN0
 that_CJT
@@ -9106,7 +9106,7 @@ between_PRP
 Remorseful_AJ0
 Prober_NN1
 and_CJC
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 you_PNP
@@ -9143,7 +9143,7 @@ Prober_NN1
 does_VDZ
 better_AJC
 against_PRP
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 than_CJS
@@ -9155,7 +9155,7 @@ not_XX0
 as_CJS
 well_AV0
 as_CJS
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 does_VDZ
@@ -9190,10 +9190,10 @@ with_PRP
 fewer_DT0
 points_NN2
 on_PRP
-average_AJ0-NN1
+average_AJ0
 than_CJS
 simple_AJ0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 Indeed_AV0
@@ -9226,7 +9226,7 @@ eminence_NN1
 grise_UNC
 in_PRP
 the_AT0
-Pentagon_NP0-NN1
+Pentagon_NP0
 The_AT0
 head_NN1
 of_PRF
@@ -9312,7 +9312,7 @@ the_AT0
 first_ORD
 to_TO0
 defect_NN1
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 is_VBZ
@@ -9373,16 +9373,16 @@ nice_AJ0
 strategies_NN2
 the_AT0
 7_CRD
-nasties_NN2-VVZ
+nasties_NN2
 trailing_VVG
 well_AV0
 behind_PRP
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 obtained_VVN
 an_AT0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 504\xe2\x80\x935_CRD
 points_NN2
@@ -9433,7 +9433,7 @@ per_UNC
 cent_UNC
 obtained_VVN
 by_PRP
-Graaskamp_NP0-NN1
+Graaskamp_NN1
 the_AT0
 most_AV0
 successful_AJ0
@@ -9483,7 +9483,7 @@ to_TO0
 overlook_VVI
 old_AJ0
 misdeeds_NN2
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 is_VBZ
@@ -9615,10 +9615,10 @@ even_AV0
 more_AV0
 forgiving_AJ0
 than_CJS
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Two_CRD
 Tats_NN2
@@ -9633,7 +9633,7 @@ row_NN1
 before_PRP
 it_PNP
 eventually_AV0
-retaliates_VVZ-NN2
+retaliates_VVZ
 This_DT0
 might_VM0
 seem_VVI
@@ -9651,7 +9651,7 @@ only_AV0
 somebody_PNI
 had_VHD
 submitted_VVN
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Two_CRD
 Tats_NN2
@@ -9731,7 +9731,7 @@ anything_PNI
 so_AV0
 forgiving_AJ0
 as_CJS
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Two_CRD
 Tats_NN2
@@ -9832,7 +9832,7 @@ Axelrod_NP0
 analysis_NN1
 of_PRF
 why_AVQ
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 and_CJC
@@ -9903,7 +9903,7 @@ to_TO0
 submit_VVI
 the_AT0
 super-forgiving_AJ0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Two_CRD
 Tats_NN2
@@ -9949,13 +9949,13 @@ n't_XX0
 pay_VVI
 Once_AV0
 again_AV0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 submitted_VVN
 by_PRP
 Anatol_NP0
-Rapoport_NP0-NN1
+Rapoport_NP0
 was_VBD
 the_AT0
 winner_NN1
@@ -10006,7 +10006,7 @@ But_CJC
 although_CJS
 the_AT0
 saintly_AJ0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Two_CRD
 Tats_NN2
@@ -10040,7 +10040,7 @@ nasty_AJ0
 strategies_NN2
 capable_AJ0
 of_PRF
-preying_VVG-AJ0
+preying_VVG
 ruthlessly_AV0
 upon_PRP
 such_DT0
@@ -10084,7 +10084,7 @@ second_ORD
 tournament_NN1
 in_PRP
 which_DTQ
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Two_CRD
 Tats_NN2
@@ -10099,7 +10099,7 @@ the_AT0
 first_ORD
 tournament_NN1
 which_DTQ
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Two_CRD
 Tats_NN2
@@ -10422,7 +10422,7 @@ other_AJ0
 strategies_NN2
 is_VBZ
 robust_AJ0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 turned_VVD
@@ -10471,7 +10471,7 @@ the_AT0
 entries_NN2
 were_VBD
 nice_AJ0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 won_VVD
@@ -10479,7 +10479,7 @@ in_PRP
 this_DT0
 climate_NN1
 and_CJC
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Two_CRD
 Tats_NN2
@@ -10531,7 +10531,7 @@ them_PNP
 had_VHD
 been_VBN
 nasty_AJ0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 would_VM0
@@ -10590,7 +10590,7 @@ thinking_VVG
 ESS_NN1
 The_AT0
 important_AJ0
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 an_AT0
 evolutionarily_AV0
@@ -10622,7 +10622,7 @@ strategies_NN2
 To_TO0
 say_VVI
 that_CJT
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 say_VVI
@@ -10634,7 +10634,7 @@ be_VBI
 to_TO0
 say_VVI
 that_CJT
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 does_VDZ
@@ -10644,7 +10644,7 @@ a_AT0
 climate_NN1
 dominated_VVN
 by_PRP
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 This_DT0
@@ -11054,7 +11054,7 @@ It_PNP
 exploited_VVN
 softies_NN2
 like_PRP
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Two_CRD
 Tats_NN2
@@ -11090,10 +11090,10 @@ but_CJC
 provocable_AJ0
 strategies_NN2
 like_PRP
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 itself_PNX
@@ -11135,7 +11135,7 @@ in_PRP
 the_AT0
 population_NN1
 as_CJS
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 indeed_AV0
@@ -11149,7 +11149,7 @@ run_VVI
 When_CJS
 all_DT0
 the_AT0
-nasties_NN2-VVZ
+nasties_NN2
 had_VHD
 been_VBN
 driven_VVN
@@ -11169,7 +11169,7 @@ could_VM0
 be_VBI
 distinguished_AJ0
 from_PRP
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 or_CJC
@@ -11195,7 +11195,7 @@ indistinguishability_NN1
 is_VBZ
 that_CJT
 although_CJS
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 seems_VVZ
@@ -11234,7 +11234,7 @@ it_PNP
 is_VBZ
 true_AJ0
 that_CJT
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 can_VM0
@@ -11304,7 +11304,7 @@ positive_AJ0
 selective_AJ0
 advantage_NN1
 over_PRP
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 can_VM0
@@ -11318,7 +11318,7 @@ being_VBG
 noticed_VVD
 So_AV0
 technically_AV0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 is_VBZ
@@ -11341,7 +11341,7 @@ could_VM0
 as_CJS
 well_AV0
 regard_VVI
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 as_CJS
@@ -11354,7 +11354,7 @@ what_DTQ
 happens_VVZ
 next_ORD
 Unlike_PRP
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 Always_AV0
@@ -11370,9 +11370,9 @@ strategies_NN2
 such_DT0
 as_CJS
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 does_VDZ
 well_AV0
 against_PRP
@@ -11391,7 +11391,7 @@ Nasty_AJ0
 strategies_NN2
 like_PRP
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 will_VM0
 come_VVI
 in_PRP
@@ -11409,7 +11409,7 @@ Always_AV0
 Cooperate_VVB
 But_CJC
 although_CJS
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 is_VBZ
@@ -11434,7 +11434,7 @@ basically_AV0
 nice_AJ0
 but_CJC
 retaliatory_AJ0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat-like_AJ0
 strategies_NN2
@@ -11477,7 +11477,7 @@ at_PRP
 a_AT0
 mixture_NN1
 of_PRF
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Two_CRD
 Tats_NN2
@@ -11486,11 +11486,11 @@ a_AT0
 strategy_NN1
 called_VVN
 Suspicious_AJ0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 Suspicious_AJ0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 is_VBZ
@@ -11506,7 +11506,7 @@ It_PNP
 behaves_VVZ
 just_AV0
 like_PRP
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 itself_PNX
@@ -11539,11 +11539,11 @@ climate_NN1
 entirely_AV0
 dominated_VVN
 by_PRP
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 Suspicious_AJ0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 does_VDZ
@@ -11551,7 +11551,7 @@ not_XX0
 prosper_VVI
 because_CJS
 its_DPS
-initial_AJ0-NN1
+initial_AJ0
 defection_NN1
 triggers_VVZ
 an_AT0
@@ -11564,7 +11564,7 @@ When_CJS
 it_PNP
 meets_VVZ
 a_AT0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Two_CRD
 Tats_NN2
@@ -11573,7 +11573,7 @@ on_PRP
 the_AT0
 other_AJ0
 hand_NN1
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Two_CRD
 Tats_NN2
@@ -11602,7 +11602,7 @@ score_NN1
 and_CJC
 with_PRP
 Suspicious_AJ0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 scoring_VVG
@@ -11610,7 +11610,7 @@ a_AT0
 bonus_NN1
 for_PRP
 its_DPS
-initial_AJ0-NN1
+initial_AJ0
 defection_NN1
 Boyd_NP0
 and_CJC
@@ -11620,7 +11620,7 @@ that_CJT
 a_AT0
 population_NN1
 of_PRF
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 could_VM0
@@ -11632,13 +11632,13 @@ by_PRP
 a_AT0
 mixture_NN1
 of_PRF
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Two_CRD
 Tats_NN2
 and_CJC
 Suspicious_AJ0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 the_AT0
@@ -11687,7 +11687,7 @@ are_VBB
 together_AV0
 capable_AJ0
 of_PRF
-invading_AJ0-VVG
+invading_VVG
 Some_DT0
 might_VM0
 see_VVI
@@ -11704,7 +11704,7 @@ life_NN1
 Axelrod_NP0
 recognized_VVN
 that_CJT
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 is_VBZ
@@ -11763,14 +11763,14 @@ dominate_VVI
 a_AT0
 population_NN1
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 is_VBZ
 also_AV0
 stable_AJ0
 as_CJS
 well_AV0
 as_CJS
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 In_PRP
@@ -11785,7 +11785,7 @@ be_VBI
 dominated_VVN
 by_PRP
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 no_AT0
 other_AJ0
 strategy_NN1
@@ -11800,14 +11800,14 @@ s_ZZ0
 bistable_AJ0
 with_PRP
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 being_VBG
 one_CRD
 of_PRF
 the_AT0
 stable_AJ0
 points_NN2
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 or_CJC
@@ -11846,7 +11846,7 @@ quantitative_AJ0
 terms_NN2
 How_AVQ
 many_DT0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tats_NN2
 must_VM0
@@ -11855,7 +11855,7 @@ be_VBI
 in_PRP
 order_NN1
 for_PRP
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 to_TO0
@@ -11863,7 +11863,7 @@ do_VDB
 better_AJC
 than_CJS
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 That_DT0
 depends_VVZ
 upon_PRP
@@ -11907,7 +11907,7 @@ the_AT0
 critical_AJ0
 frequency_NN1
 of_PRF
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 is_VBZ
@@ -11919,7 +11919,7 @@ favour_NN1
 more_AV0
 and_CJC
 more_AV0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tats_NN2
 On_PRP
@@ -11934,7 +11934,7 @@ critical_AJ0
 frequency_NN1
 of_PRF
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 is_VBZ
 exceeded_VVN
 and_CJC
@@ -11996,7 +11996,7 @@ a_AT0
 population_NN1
 could_VM0
 occasionally_AV0
-cross_VVI
+cross_NN1
 from_PRP
 one_CRD
 side_NN1
@@ -12017,11 +12017,11 @@ sitting_VVG
 on_PRP
 the_AT0
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 side_NN1
 The_AT0
 few_DT0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 individuals_NN2
@@ -12048,7 +12048,7 @@ further_AJC
 towards_PRP
 the_AT0
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 extreme_AJ0
 If_CJS
 only_AV0
@@ -12074,7 +12074,7 @@ the_AT0
 slope_NN1
 to_TO0
 the_AT0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 side_NN1
@@ -12115,7 +12115,7 @@ the_AT0
 knife-edge_NN1
 They_PNP
 will_VM0
-cross_VVI
+cross_NN1
 it_PNP
 only_AV0
 if_CJS
@@ -12186,7 +12186,7 @@ which_DTQ
 a_AT0
 minority_NN1
 of_PRF
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 individuals_NN2
@@ -12208,7 +12208,7 @@ possible_AJ0
 ways_NN2
 in_PRP
 which_DTQ
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 individuals_NN2
@@ -12397,7 +12397,7 @@ had_VHD
 the_AT0
 most_AV0
 enormous_AJ0
-jug-handle_AJ0-NN1
+jug-handle_AJ0
 ears_NN2
 This_DT0
 could_VM0
@@ -12472,13 +12472,13 @@ or_CJC
 not_XX0
 to_TO0
 play_VVI
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 So_AV0
 even_AV0
 if_CJS
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 is_VBZ
@@ -12499,7 +12499,7 @@ In_PRP
 a_AT0
 local_AJ0
 area_NN1
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 individuals_NN2
@@ -12542,7 +12542,7 @@ frequency_NN1
 If_CJS
 this_DT0
 happens_VVZ
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 individuals_NN2
@@ -12579,7 +12579,7 @@ so_AV0
 large_AJ0
 that_CJT
 they_PNP
-spread_NN1
+spread_VVN
 out_AVP
 into_PRP
 other_AJ0
@@ -12595,7 +12595,7 @@ by_PRP
 individuals_NN2
 playing_VVG
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 In_PRP
 thinking_VVG
 of_PRF
@@ -12648,7 +12648,7 @@ though_CJS
 there_EX0
 is_VBZ
 continuous_AJ0
-interbreeding_NN1-VVG
+interbreeding_VVG
 all_DT0
 over_PRP
 the_AT0
@@ -12660,7 +12660,7 @@ to_TO0
 our_DPS
 knife-edge_NN1
 then_AV0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 could_VM0
@@ -12687,7 +12687,7 @@ arise_VVI
 in_PRP
 natural_AJ0
 populations_NN2
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 has_VHZ
@@ -12731,11 +12731,11 @@ is_VBZ
 an_AT0
 asymmetry_NN1
 Unlike_PRP
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 though_CJS
 a_AT0
 true_AJ0
@@ -12746,17 +12746,17 @@ use_NN1
 local_AJ0
 clustering_NN1
 to_TO0
-cross_VVI
+cross_NN1
 the_AT0
 knife-edge_NN1
 On_PRP
 the_AT0
 contrary_NN1
-Local_NN1-AJ0
+Local_AJ0
 clusters_NN2
 of_PRF
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 individuals_NN2
 far_AV0
 from_PRP
@@ -12792,10 +12792,10 @@ one_CRD
 another_DT0
 down_AVP
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 then_AV0
 unlike_PRP
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 gets_VVZ
@@ -12810,7 +12810,7 @@ the_AT0
 population_NN1
 So_AV0
 although_CJS
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 may_VM0
@@ -12843,7 +12843,7 @@ a_AT0
 longer_AV0
 view_NN1
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 resists_VVZ
 invasion_NN1
 for_PRP
@@ -12860,7 +12860,7 @@ perhaps_AV0
 thousands_CRD
 of_PRF
 years_NN2
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 will_VM0
@@ -12887,7 +12887,7 @@ will_VM0
 not_XX0
 happen_VVI
 Always_AV0
-Defect_VVB-NN1
+Defect_VVB
 as_CJS
 we_PNP
 have_VHB
@@ -12905,7 +12905,7 @@ enjoy_VVI
 this_DT0
 higher-order_AJ0
 stability_NN1
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 as_CJS
@@ -12942,7 +12942,7 @@ Axelrod_NP0
 evocative_AJ0
 technical_AJ0
 terms_NN2
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 is_VBZ
@@ -13009,7 +13009,7 @@ more_AV0
 from_PRP
 the_AT0
 banker_NN1
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 never_AV0
@@ -13067,7 +13067,7 @@ high_AJ0
 shared_VVN
 score_NN1
 Where_AVQ
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 and_CJC
@@ -13100,7 +13100,7 @@ humans_NN2
 nearly_AV0
 all_DT0
 players_NN2
-succumb_VVI
+succumb_VVB
 to_TO0
 envy_NN1
 and_CJC
@@ -13163,7 +13163,7 @@ of_PRF
 game_NN1
 Games_NN2
 theorists_NN2
-divide_VVI
+divide_NN1
 games_NN2
 into_PRP
 zero_CRD
@@ -13240,7 +13240,7 @@ to_TO0
 link_NN1
 arms_NN2
 and_CJC
-laugh_VVI
+laugh_NN1
 all_DT0
 the_AT0
 way_NN1
@@ -13524,7 +13524,7 @@ court_NN1
 it_PNP
 is_VBZ
 actually_AV0
-listed_AJ0
+listed_VVN
 as_CJS
 Smith_NP0
 versus_PRP
@@ -13538,7 +13538,7 @@ adversarial_AJ0
 whether_CJS
 the_AT0
 couple_NN1
-feel_VVI
+feel_VVB
 adversarial_AJ0
 or_CJC
 not_XX0
@@ -13568,7 +13568,7 @@ I_PNP
 win_VVI
 you_PNP
 lose_VVI
-tussle_VVI
+tussle_NN1
 The_AT0
 chances_NN2
 are_VBB
@@ -13613,7 +13613,7 @@ and_CJC
 the_AT0
 two_CRD
 professionals_NN2
-milking_NN1-AJ0
+milking_NN1
 their_DPS
 clients_NN2
 '_POS
@@ -13716,7 +13716,7 @@ separateness_NN1
 that_CJT
 is_VBZ
 the_AT0
-chief_AJ0-NN1
+chief_NN1
 instrument_NN1
 of_PRF
 their_DPS
@@ -13968,12 +13968,12 @@ foster_VVI
 cooperation_NN1
 against_PRP
 a_AT0
-banker'_NN1-AJ0
+banker'_AJ0
 Think_VVB
 for_PRP
 instance_NN1
 about_PRP
-wage-bargaining_NN1-AJ0
+wage-bargaining_NN1
 and_CJC
 differentials_NN2
 When_CJS
@@ -14061,7 +14061,7 @@ in_PRP
 1977_CRD
 in_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 Football_NN1
 League_NN1
 Association_NN1
@@ -14378,7 +14378,7 @@ one_CRD
 contemporary_AJ0
 news_NN1
 report_NN1
-fast_AV0-AJ0
+fast_AJ0
 and_CJC
 often_AV0
 furious_AJ0
@@ -14391,7 +14391,7 @@ that_CJT
 sort_NN1
 of_PRF
 thing_NN1
-ding-dong_AJ0-NN1
+ding-dong_NN1
 battle_NN1
 Some_DT0
 brilliant_AJ0
@@ -14561,7 +14561,7 @@ in_PRP
 a_AT0
 combined_VVN
 celebration_NN1
-Referee_VVB-NN1
+Referee_NN1
 Ron_NP0
 Challis_NP0
 watched_VVD
@@ -14800,7 +14800,7 @@ or_CJC
 know_VVI
 that_CJT
 the_AT0
-present_AJ0-NN1
+present_AJ0
 game_NN1
 is_VBZ
 not_XX0
@@ -14812,7 +14812,7 @@ them_PNP
 In_PRP
 Axelrod_NP0
 's_POS
-haunting_AJ0-NN1
+haunting_AJ0
 phrase_NN1
 the_AT0
 shadow_NN1
@@ -14932,7 +14932,7 @@ the_AT0
 round_AVP
 will_VM0
 be_VBI
-DEFECT_NN1-VVB
+DEFECT_NN1
 and_CJC
 we_PNP
 can_VM0
@@ -14995,7 +14995,7 @@ one_CRD
 game_NN1
 is_VBZ
 also_AV0
-DEFECT_NN1-VVB
+DEFECT_NN1
 The_AT0
 98th_ORD
 round_AVP
@@ -15051,7 +15051,7 @@ about_PRP
 the_AT0
 Iterated_AJ0
 or_CJC
-Repeated_AJ0-VVN
+Repeated_AJ0
 Prisoner_NN1
 's_POS
 Dilemma_NN1
@@ -15122,10 +15122,10 @@ of_PRF
 strategy_NN1
 If_CJS
 I_PNP
-notice_VVI
+notice_NN1
 the_AT0
 banker_NN1
-fidget_VVI
+fidget_NN1
 and_CJC
 look_VVI
 at_PRP
@@ -15150,7 +15150,7 @@ and_CJC
 I_PNP
 may_VM0
 therefore_AV0
-feel_VVI
+feel_VVB
 tempted_VVN
 to_TO0
 defect_NN1
@@ -15367,12 +15367,12 @@ and_CJC
 German_AJ0
 troops_NN2
 briefly_AV0
-fraternized_VVD-VVN
+fraternized_VVN
 and_CJC
 drank_VVD
 together_AV0
 in_PRP
-no-man's-land_NN1-AJ0
+no-man's-land_AJ0
 Less_AV0
 well_AV0
 known_VVN
@@ -15444,7 +15444,7 @@ appeared_VVD
 to_TO0
 take_VVI
 no_AT0
-notice_VVI
+notice_NN1
 I_PNP
 privately_AV0
 made_VVN
@@ -15525,7 +15525,7 @@ fascinating_AJ0
 analysis_NN1
 In_PRP
 the_AT0
-entrenched_AJ0
+entrenched_VVN
 warfare_NN1
 of_PRF
 those_DT0
@@ -15609,7 +15609,7 @@ the_AT0
 development_NN1
 of_PRF
 a_AT0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 type_NN1
@@ -15660,7 +15660,7 @@ preferable_AJ0
 to_TO0
 mutual_AJ0
 defection_NN1
-Defection_NN1-NP0
+Defection_NP0
 while_CJS
 the_AT0
 other_AJ0
@@ -15839,7 +15839,7 @@ soldiers_NN2
 facing_VVG
 you_PNP
 across_PRP
-no-man's-land_NN1-AJ0
+no-man's-land_AJ0
 most_AV0
 definitely_AV0
 does_VDZ
@@ -15888,7 +15888,7 @@ prisoner_NN1
 dilemma_NN1
 Something_PNI
 like_PRP
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 could_VM0
@@ -15915,11 +15915,11 @@ lines_NN2
 was_VBD
 not_XX0
 necessarily_AV0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 itself_PNX
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 is_VBZ
@@ -16012,7 +16012,7 @@ men_NN2
 if_CJS
 they_PNP
 do_VDB
-fall_VVI
+fall_NN1
 into_PRP
 a_AT0
 trench_NN1
@@ -16049,7 +16049,7 @@ any_DT0
 member_NN1
 of_PRF
 the_AT0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 family_NN1
@@ -16082,7 +16082,7 @@ of_PRF
 the_AT0
 live-and-let-live_AJ0
 system_NN1
-Crack_VVB-NN1
+Crack_NN1
 shots_NN2
 on_PRP
 both_AV0
@@ -16141,7 +16141,7 @@ used_VVN
 against_PRP
 the_AT0
 strongly_AV0
-voiced_VVN-VVD
+voiced_VVN
 wishes_NN2
 of_PRF
 the_AT0
@@ -16171,7 +16171,7 @@ An_AT0
 important_AJ0
 feature_NN1
 of_PRF
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat-like_AJ0
 strategies_NN2
@@ -16195,7 +16195,7 @@ otherwise_AV0
 become_VVI
 long_AJ0
 and_CJC
-damaging_VVG-AJ0
+damaging_AJ0
 runs_VVZ
 of_PRF
 mutual_AJ0
@@ -16302,7 +16302,7 @@ hope_VVB
 no_AT0
 one_CRD
 was_VBD
-hurt_VVI
+hurt_VVN
 It_PNP
 was_VBD
 not_XX0
@@ -16332,7 +16332,7 @@ retaliation_NN1
 It_PNP
 reflects_VVZ
 moral_AJ0
-regret_VVI
+regret_NN1
 for_PRP
 having_VHG
 violated_VVN
@@ -16349,7 +16349,7 @@ someone_PNI
 might_VM0
 have_VHB
 been_VBN
-hurt_VVI
+hurt_VVN
 Certainly_AV0
 an_AT0
 admirable_AJ0
@@ -16430,7 +16430,7 @@ was_VBD
 accurate_AJ0
 it_PNP
 never_AV0
-varied_AJ0
+varied_VVN
 laterally_AV0
 or_CJC
 went_VVD
@@ -16508,7 +16508,7 @@ the_AT0
 next_ORD
 shell_NN1
 would_VM0
-fall_VVI
+fall_NN1
 His_DPS
 calculations_NN2
 were_VBD
@@ -16718,7 +16718,7 @@ its_DPS
 author_NN1
 who_PNQ
 has_VHZ
-faded_AJ0
+faded_VVN
 into_PRP
 the_AT0
 background_NN1
@@ -17038,7 +17038,7 @@ the_AT0
 other_AJ0
 hand_NN1
 may_VM0
-present_AJ0-NN1
+present_AJ0
 a_AT0
 potentially_AV0
 much_DT0
@@ -17180,7 +17180,7 @@ thankfully_AV0
 too_AV0
 small_AJ0
 to_TO0
-notice_VVI
+notice_NN1
 when_CJS
 you_PNP
 eat_VVI
@@ -17216,7 +17216,7 @@ that_CJT
 can_VM0
 do_VDB
 the_AT0
-pollinating_VVG-AJ0
+pollinating_AJ0
 are_VBB
 fig_NN1
 wasps_NN2
@@ -17259,7 +17259,7 @@ within_PRP
 the_AT0
 same_DT0
 fig_NN1
-Defecting_VVG-AJ0
+Defecting_VVG
 for_PRP
 a_AT0
 wasp_NN1
@@ -17277,7 +17277,7 @@ in_PRP
 a_AT0
 fig_NN1
 and_CJC
-pollinating_VVG-AJ0
+pollinating_AJ0
 too_AV0
 few_DT0
 of_PRF
@@ -17288,7 +17288,7 @@ could_VM0
 a_AT0
 fig_NN1
 tree_NN1
-retaliate'_NN1-VVB
+retaliate'_VVB
 According_VVG
 to_TO0
 Axelrod_NP0
@@ -17350,7 +17350,7 @@ appears_VVZ
 to_TO0
 be_VBI
 a_AT0
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 arrangement_NN1
@@ -17367,7 +17367,7 @@ hermaphrodite_NN1
 fish_NN0
 the_AT0
 sea_NN1
-bass_AJ0-NN1
+bass_AJ0
 Unlike_PRP
 us_PNP
 these_DT0
@@ -17530,7 +17530,7 @@ if_CJS
 they_PNP
 are_VBB
 playing_VVG
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 And_CJC
@@ -17598,9 +17598,9 @@ equivalent_AJ0
 to_TO0
 playing_VVG
 the_AT0
-DEFECT_NN1-VVB
+DEFECT_NN1
 card_NN1
-Defection_NN1-NP0
+Defection_NP0
 is_VBZ
 vulnerable_AJ0
 to_TO0
@@ -17746,7 +17746,7 @@ that_CJT
 as_CJS
 it_PNP
 may_VM0
-blood-sharing_NN1-AJ0
+blood-sharing_NN1
 in_PRP
 vampire_NN1
 bats_NN2
@@ -17772,7 +17772,7 @@ as_CJS
 is_VBZ
 well_AV0
 known_VVN
-feed_VVI
+feed_NN1
 on_PRP
 blood_NN1
 at_PRP
@@ -17903,8 +17903,8 @@ many_DT0
 other_AJ0
 instances_NN2
 of_PRF
-blood-sharing_NN1-AJ0
-involved_AJ0
+blood-sharing_NN1
+involved_VVN
 other_AJ0
 kinds_NN2
 of_PRF
@@ -17917,7 +17917,7 @@ however_AV0
 some_DT0
 examples_NN2
 of_PRF
-blood-sharing_NN1-AJ0
+blood-sharing_NN1
 among_PRP
 unrelated_AJ0
 bats_NN2
@@ -17938,7 +17938,7 @@ facts_NN2
 Significantly_AV0
 the_AT0
 individuals_NN2
-involved_AJ0
+involved_VVN
 here_AV0
 tended_VVD
 to_TO0
@@ -18099,7 +18099,7 @@ other_AJ0
 words_NN2
 although_CJS
 the_AT0
-act_VVI
+act_NN1
 of_PRF
 donating_VVG
 blood_NN1
@@ -18110,7 +18110,7 @@ chances_NN2
 of_PRF
 the_AT0
 donor_NN1
-dying_VVG-AJ0
+dying_AJ0
 this_DT0
 increase_NN1
 was_VBD
@@ -18226,7 +18226,7 @@ adopting_VVG
 some_DT0
 kind_NN1
 of_PRF
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 strategy_NN1
@@ -18239,7 +18239,7 @@ for_PRP
 the_AT0
 evolution_NN1
 of_PRF
-Tit_NN1-NP0
+Tit_NN1
 for_PRP
 Tat_NN1
 reciprocation_NN1
@@ -18463,7 +18463,7 @@ the_AT0
 bats_NN2
 really_AV0
 were_VBD
-biased_VVN-AJ0
+biased_AJ0
 in_PRP
 favour_NN1
 of_PRF
@@ -18648,7 +18648,7 @@ They_PNP
 could_VM0
 herald_VVI
 the_AT0
-benignant_AJ0-NN1
+benignant_AJ0
 idea_NN1
 that_CJT
 even_AV0
@@ -18758,7 +18758,7 @@ is_VBZ
 obviously_AV0
 a_AT0
 coherent_AJ0
-integrated_AJ0
+integrated_VVN
 immensely_AV0
 complicated_AJ0
 machine_NN1
@@ -18905,7 +18905,7 @@ of_PRF
 genes_NN2
 Without_PRP
 the_AT0
-gene's-eye_AJ0-NN1
+gene's-eye_NN1
 view_NN1
 of_PRF
 life_NN1
@@ -18956,7 +18956,7 @@ to_TO0
 do_VDB
 so_AV0
 is_VBZ
-spelled_VVD-VVN
+spelled_VVD
 out_AVP
 in_PRP
 The_AT0
@@ -19029,7 +19029,7 @@ genes_NN2
 directly_AV0
 DNA_NN1
 is_VBZ
-cocooned_VVN-VVD
+cocooned_VVN
 in_PRP
 protein_NN1
 swaddled_VVD
@@ -19338,7 +19338,7 @@ including_PRP
 the_AT0
 gene_NN1
 for_PRP
-fast_AV0-AJ0
+fast_AJ0
 running_VVG
 are_VBB
 passed_VVN
@@ -19403,8 +19403,8 @@ intriguing_AJ0
 phenomenon_NN1
 called_VVN
 meiotic_AJ0
-drive_VVI
-Meiosis_NN1-NP0
+drive_NN1
+Meiosis_NN1
 you_PNP
 will_VM0
 remember_VVI
@@ -19471,7 +19471,7 @@ pair_NN0
 and_CJC
 if_CJS
 you_PNP
-average_AJ0-NN1
+average_AJ0
 over_PRP
 lots_PNI
 of_PRF
@@ -19491,7 +19491,7 @@ allele_NN1
 half_DT0
 the_AT0
 other_AJ0
-Meiosis_NN1-NP0
+Meiosis_NN1
 is_VBZ
 fair_AJ0
 like_PRP
@@ -19533,7 +19533,7 @@ flicked_VVD
 and_CJC
 so_AV0
 on_PRP
-Meiosis_NN1-NP0
+Meiosis_NN1
 too_AV0
 is_VBZ
 a_AT0
@@ -19627,7 +19627,7 @@ by_PRP
 mutation_NN1
 it_PNP
 will_VM0
-spread_NN1
+spread_VVN
 inexorably_AV0
 through_PRP
 the_AT0
@@ -19646,7 +19646,7 @@ is_VBZ
 known_VVN
 as_CJS
 meiotic_AJ0
-drive_VVI
+drive_NN1
 It_PNP
 will_VM0
 happen_VVI
@@ -19864,7 +19864,7 @@ lottery_NN1
 It_PNP
 spreads_VVZ
 so_AV0
-fast_AV0-AJ0
+fast_AJ0
 that_CJT
 pretty_AV0
 soon_AV0
@@ -19959,7 +19959,7 @@ new_AJ0
 mutation_NN1
 will_VM0
 normally_AV0
-spread_NN1
+spread_VVN
 only_AV0
 if_CJS
 its_DPS
@@ -20041,7 +20041,7 @@ will_VM0
 surely_AV0
 tend_VVB
 to_TO0
-spread_NN1
+spread_VVN
 through_PRP
 the_AT0
 population_NN1
@@ -20157,7 +20157,7 @@ such_DT0
 a_AT0
 united_AJ0
 and_CJC
-integrated_AJ0
+integrated_VVN
 way_NN1
 Questions_NN2
 about_PRP
@@ -20428,7 +20428,7 @@ with_PRP
 which_DTQ
 we_PNP
 shall_VM0
-purge_VVI
+purge_NN1
 our_DPS
 minds_NN2
 is_VBZ
@@ -20658,10 +20658,10 @@ of_PRF
 us_PNP
 fail_VVI
 to_TO0
-notice_VVI
+notice_NN1
 as_CJS
 they_PNP
-fly_VVI
+fly_NN1
 rather_AV0
 clumsily_AV0
 over_PRP
@@ -20949,7 +20949,7 @@ going_VVG
 a_AT0
 little_AJ0
 further_AJC
-Impressed_VVN-AJ0
+Impressed_AJ0
 as_CJS
 we_PNP
 may_VM0
@@ -21059,7 +21059,7 @@ stones_NN2
 neatly_AV0
 bonded_VVN
 and_CJC
-mortared_VVD-AJ0
+mortared_VVD
 Yet_AV0
 caddis_NN1
 larvae_NN2
@@ -21459,7 +21459,7 @@ eye_NN1
 colour_NN1
 genes_NN2
 for_PRP
-wrinkling_VVG
+wrinkling_NN1
 in_PRP
 peas_NN2
 and_CJC
@@ -21516,7 +21516,7 @@ system_NN1
 that_CJT
 mediates_VVZ
 the_AT0
-stone-choosing_AJ0-NN1
+stone-choosing_AJ0
 behaviour_NN1
 not_XX0
 upon_PRP
@@ -21801,7 +21801,7 @@ certain_AJ0
 kinds_NN2
 of_PRF
 fluke_NN0
-flatworm_NN1-VVB
+flatworm_NN1
 have_VHB
 extra-thick_AJ0
 shells_NN2
@@ -22070,7 +22070,7 @@ is_VBZ
 exerting_VVG
 some_DT0
 hidden_VVN
-chemical_AJ0-NN1
+chemical_AJ0
 influence_NN1
 on_PRP
 the_AT0
@@ -22080,7 +22080,7 @@ forces_NN2
 the_AT0
 snail_NN1
 to_TO0
-shift_NN1-VVB
+shift_NN1
 away_AV0
 from_PRP
 its_DPS
@@ -22194,7 +22194,7 @@ be_VBI
 housed_VVD
 in_PRP
 its_DPS
-present_AJ0-NN1
+present_AJ0
 host_NN1
 's_POS
 offspring_NN0
@@ -22436,7 +22436,7 @@ that_CJT
 such_DT0
 uneasiness_NN1
 is_VBZ
-misplaced_VVN-AJ0
+misplaced_AJ0
 We_PNP
 need_VVB
 to_TO0
@@ -22526,7 +22526,7 @@ microscopic_AJ0
 protozoan_AJ0
 parasite_NN1
 called_VVN
-Nosema_NP0-NN1
+Nosema_NP0
 which_DTQ
 infests_VVZ
 the_AT0
@@ -22540,7 +22540,7 @@ how_AVQ
 to_TO0
 manufacture_NN1
 a_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 that_CJT
 is_VBZ
 very_AV0
@@ -22584,21 +22584,21 @@ juvenile_AJ0
 hormone_NN1
 The_AT0
 parasite_NN1
-Nosema_NP0-NN1
+Nosema_NP0
 has_VHZ
 succeeded_VVN
 in_PRP
-synthesizing_VVG-NN1
+synthesizing_VVG
 a_AT0
 close_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 analogue_NN1
 of_PRF
 this_DT0
 hormone_NN1
 Millions_CRD
 of_PRF
-Nosema_NP0-NN1
+Nosema_NP0
 club_NN1
 together_AV0
 to_TO0
@@ -22649,7 +22649,7 @@ but_CJC
 a_AT0
 cornucopia_NN1
 for_PRP
-Nosema_NP0-NN1
+Nosema_NP0
 parasites_NN2
 Giantism_NN1
 in_PRP
@@ -22812,9 +22812,9 @@ same_DT0
 story_NN1
 as_CJS
 I_PNP
-conjectured_VVN
+conjectured_VVD
 for_PRP
-Nosema_NP0-NN1
+Nosema_NP0
 in_PRP
 the_AT0
 flour_NN1
@@ -23026,7 +23026,7 @@ this_DT0
 Are_VBB
 its_DPS
 genes_NN2
-transmitted_AJ0-VVN
+transmitted_VVN
 to_TO0
 future_NN1
 generations_NN2
@@ -23157,7 +23157,7 @@ beetles_NN2
 of_PRF
 the_AT0
 species_NN0
-Xyleborus_NN1-NP0
+Xyleborus_NN1
 ferrugineus_NN0
 are_VBB
 parasitized_VVN
@@ -23453,7 +23453,7 @@ precisely_AV0
 because_CJS
 they_PNP
 are_VBB
-transmitted_AJ0-VVN
+transmitted_VVN
 in_PRP
 the_AT0
 eggs_NN2
@@ -23475,7 +23475,7 @@ are_VBB
 likely_AJ0
 to_TO0
 disappear_VVI
-merging_VVG-NN1
+merging_VVG
 into_PRP
 the_AT0
 host_NN1
@@ -23495,7 +23495,7 @@ of_PRF
 hydra_NN1
 small_AJ0
 sedentary_AJ0
-tentacled_VVD-AJ0
+tentacled_AJ0
 animals_NN2
 like_PRP
 freshwater_AJ0
@@ -23529,10 +23529,10 @@ recently_AV0
 taken_VVN
 to_TO0
 saying_VVG
-Algy_AJ0-NN1
+Algy_NN1
 as_CJS
 in_PRP
-Algernon_NP0-NN1
+Algernon_NN1
 not_XX0
 only_AV0
 for_PRP
@@ -23555,10 +23555,10 @@ not_XX0
 In_PRP
 the_AT0
 species_NN0
-Hydra_NP0-NN1
+Hydra_NP0
 vulgaris_NN1
 and_CJC
-Hydra_NP0-NN1
+Hydra_NP0
 attenuata_NN1
 the_AT0
 algae_NN2
@@ -23757,7 +23757,7 @@ will_VM0
 eventually_AV0
 cease_VVI
 to_TO0
-act_VVI
+act_NN1
 parasitically_AV0
 Destiny_NN1
 in_PRP
@@ -23911,7 +23911,7 @@ will_VM0
 take_VVI
 whatever_DTQ
 steps_NN2
-lie_VVI
+lie_VVB
 in_PRP
 their_DPS
 power_NN1
@@ -24075,7 +24075,7 @@ incorporated_VVN
 in_PRP
 chromosomes_NN2
 but_CJC
-float_VVI
+float_VVB
 freely_AV0
 and_CJC
 multiply_VVB
@@ -24175,7 +24175,7 @@ of_PRF
 chromosomes_NN2
 at_PRP
 the_AT0
-drop_VVI
+drop_NN1
 of_PRF
 a_AT0
 hat_NN1
@@ -24244,7 +24244,7 @@ these_DT0
 fragments_NN2
 originated_VVD
 as_CJS
-invading_AJ0-VVG
+invading_VVG
 parasites_NN2
 or_CJC
 breakaway_AJ0
@@ -24272,7 +24272,7 @@ point_NN1
 Consider_VVB
 a_AT0
 rebel_NN1
-stretch_VVI
+stretch_NN1
 of_PRF
 human_AJ0
 DNA_NN1
@@ -24384,7 +24384,7 @@ cells_NN2
 both_AV0
 ways_NN2
 A_AT0
-stretch_VVI
+stretch_NN1
 of_PRF
 rebel_NN1
 DNA_NN1
@@ -24534,7 +24534,7 @@ The_AT0
 rabies_NN1
 virus_NN1
 is_VBZ
-transmitted_AJ0-VVN
+transmitted_VVN
 in_PRP
 saliva_NN1
 when_CJS
@@ -24626,7 +24626,7 @@ direct_AJ0
 evidence_NN1
 that_CJT
 sexually_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 diseases_NN2
 increase_NN1
 the_AT0
@@ -24648,7 +24648,7 @@ at_PRP
 least_AV0
 one_CRD
 alleged_AJ0
-aphrodisiac_NN1-AJ0
+aphrodisiac_NN1
 Spanish_AJ0
 Fly_NN1
 is_VBZ
@@ -24681,7 +24681,7 @@ rebel_NN1
 human_AJ0
 DNA_NN1
 with_PRP
-invading_AJ0-VVG
+invading_VVG
 parasitic_AJ0
 viruses_NN2
 is_VBZ
@@ -24765,7 +24765,7 @@ that_CJT
 originated_VVD
 as_CJS
 external_AJ0
-invading_AJ0-VVG
+invading_VVG
 parasites_NN2
 Or_CJC
 perhaps_AV0
@@ -24826,7 +24826,7 @@ with_PRP
 one_CRD
 another_DT0
 in_PRP
-wanting_VVG-AJ0
+wanting_VVG
 their_DPS
 host_NN1
 to_TO0
@@ -24838,14 +24838,14 @@ gene_NN1
 and_CJC
 a_AT0
 venereally_AV0
-transmitted_AJ0-VVN
+transmitted_VVN
 virus_NN1
 agree_VVI
 with_PRP
 one_CRD
 another_DT0
 in_PRP
-wanting_VVG-AJ0
+wanting_VVG
 their_DPS
 host_NN1
 to_TO0
@@ -24875,7 +24875,7 @@ a_AT0
 virus_NN1
 that_CJT
 is_VBZ
-transmitted_AJ0-VVN
+transmitted_VVN
 inside_PRP
 the_AT0
 host_NN1
@@ -24884,7 +24884,7 @@ egg_NN1
 would_VM0
 agree_VVI
 in_PRP
-wanting_VVG-AJ0
+wanting_VVG
 the_AT0
 host_NN1
 to_TO0
@@ -24956,7 +24956,7 @@ phenotypes_NN2
 But_CJC
 genes_NN2
 can_VM0
-act_VVI
+act_NN1
 at_PRP
 a_AT0
 distance_NN1
@@ -25053,7 +25053,7 @@ and_CJC
 for_PRP
 transporting_VVG
 logs_NN2
-Beavers_NP0
+Beavers_NN2
 use_NN1
 flotation_NN1
 for_PRP
@@ -25082,7 +25082,7 @@ is_VBZ
 a_AT0
 conspicuous_AJ0
 and_CJC
-characteristic_AJ0-NN1
+characteristic_NN1
 feature_NN1
 of_PRF
 the_AT0
@@ -25156,7 +25156,7 @@ teeth_NN2
 for_PRP
 felling_VVG
 them_PNP
-Beaver_NP0-NN1
+Beaver_NN1
 lakes_NN2
 are_VBB
 extended_VVN
@@ -25315,7 +25315,7 @@ cuckoos_NN2
 that_CJT
 are_VBB
 almost_AV0
-fledged_AJ0-VVD
+fledged_AJ0
 The_AT0
 cuckoo_NN1
 is_VBZ
@@ -25359,11 +25359,11 @@ back_AVP
 in_PRP
 order_NN1
 to_TO0
-feed_VVI
+feed_NN1
 it_PNP
 Here_AV0
 we_PNP
-feel_VVI
+feel_VVB
 less_AV0
 sympathy_NN1
 for_PRP
@@ -25422,7 +25422,7 @@ n't_XX0
 They_PNP
 seem_VVI
 to_TO0
-act_VVI
+act_NN1
 on_PRP
 the_AT0
 host_NN1
@@ -25601,7 +25601,7 @@ of_PRF
 stimulation_NN1
 irresistible_AJ0
 So_AV0
-enticing_VVG-AJ0
+enticing_VVG
 is_VBZ
 the_AT0
 red_AJ0
@@ -25788,7 +25788,7 @@ the_AT0
 behaviour_NN1
 of_PRF
 the_AT0
-diminutive_AJ0-NN1
+diminutive_AJ0
 parent_NN1
 standing_VVG
 on_PRP
@@ -25844,7 +25844,7 @@ even_AV0
 if_CJS
 we_PNP
 now_AV0
-feel_VVI
+feel_VVB
 more_AV0
 personal_AJ0
 sympathy_NN1
@@ -25902,7 +25902,7 @@ centuries_NN2
 started_VVD
 parasitizing_VVG
 their_DPS
-present_AJ0-NN1
+present_AJ0
 hosts_NN2
 and_CJC
 will_VM0
@@ -26052,7 +26052,7 @@ and_CJC
 still_AV0
 lived_VVD
 to_TO0
-rear_AJ0-NN1
+rear_NN1
 another_DT0
 brood_NN1
 next_ORD
@@ -26088,7 +26088,7 @@ generations_NN2
 of_PRF
 robins_NN2
 or_CJC
-dunnocks_NN2-VVZ
+dunnocks_VVZ
 Genes_NN2
 for_PRP
 failure_NN1
@@ -26128,7 +26128,7 @@ up_AVP
 in_PRP
 one_CRD
 of_PRF
-Aesop_NP0-NN1
+Aesop_NP0
 's_POS
 fables_NN2
 The_AT0
@@ -26538,7 +26538,7 @@ effect_NN1
 was_VBD
 upon_PRP
 unseen_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 happenings_NN2
 inside_PRP
 cells_NN2
@@ -26603,7 +26603,7 @@ and_CJC
 shape_NN1
 of_PRF
 cuckoo_NN1
-gapes_NN2-VVZ
+gapes_VVZ
 so_AV0
 we_PNP
 may_VM0
@@ -26641,7 +26641,7 @@ can_VM0
 manipulate_VVI
 by_PRP
 direct_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 means_NN0
 but_CJC
 when_CJS
@@ -26667,10 +26667,10 @@ about_PRP
 to_TO0
 see_VVI
 even_AV0
-chemical_AJ0-NN1
+chemical_AJ0
 influences_NN2
 can_VM0
-act_VVI
+act_NN1
 outside_PRP
 the_AT0
 body_NN1
@@ -26854,7 +26854,7 @@ her_DPS
 propensity_NN1
 to_TO0
 produce_VVI
-competing_VVG-AJ0
+competing_AJ0
 brood_NN1
 In_PRP
 these_DT0
@@ -26899,7 +26899,7 @@ macabre_AJ0
 understatement_NN1
 the_AT0
 one_CRD
-act_VVI
+act_NN1
 for_PRP
 which_DTQ
 she_PNP
@@ -26921,7 +26921,7 @@ then_AV0
 adopted_VVN
 by_PRP
 the_AT0
-orphaned_VVN-AJ0
+orphaned_VVN
 workers_NN2
 who_PNQ
 unsuspectingly_AV0
@@ -26949,7 +26949,7 @@ Others_NN2
 become_VVI
 queens_NN2
 who_PNQ
-fly_VVI
+fly_NN1
 out_AVP
 to_TO0
 seek_VVI
@@ -26984,7 +26984,7 @@ coerce_VVI
 a_AT0
 stand-in_NN1
 My_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 character_NN1
 in_PRP
 Wilson_NP0
@@ -26993,7 +26993,7 @@ The_AT0
 Insect_NN1
 Societies_NN2
 is_VBZ
-Monomorium_NN1-NP0
+Monomorium_NN1
 santschii_NN2
 This_DT0
 species_NN0
@@ -27026,7 +27026,7 @@ the_AT0
 behest_NN1
 of_PRF
 the_AT0
-invading_AJ0-VVG
+invading_VVG
 parasite_NN1
 queen_NN1
 they_PNP
@@ -27050,7 +27050,7 @@ her_DPS
 jaws_NN2
 She_PNP
 uses_NN2
-mind-control_NN1-AJ0
+mind-control_AJ0
 How_AVQ
 she_PNP
 does_VDZ
@@ -27062,7 +27062,7 @@ she_PNP
 probably_AV0
 employs_VVZ
 a_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 for_PRP
 ant_NN1
 nervous_AJ0
@@ -27078,7 +27078,7 @@ her_DPS
 weapon_NN1
 is_VBZ
 indeed_AV0
-chemical_AJ0-NN1
+chemical_AJ0
 then_AV0
 it_PNP
 is_VBZ
@@ -27125,10 +27125,10 @@ own_DT0
 mother_NN1
 For_PRP
 ants_NN2
-matricide_NN1-VVB
+matricide_VVB
 is_VBZ
 an_AT0
-act_VVI
+act_NN1
 of_PRF
 special_AJ0
 genetic_AJ0
@@ -27188,7 +27188,7 @@ an_AT0
 astonishing_AJ0
 menagerie_NN1
 of_PRF
-specialist_NN1-AJ0
+specialist_NN1
 hangers-on_NN2
 Worker_NN1
 ants_NN2
@@ -27239,7 +27239,7 @@ paying_VVG
 out_AVP
 nectar_NN1
 to_TO0
-hire_VVI
+hire_NN1
 professional_AJ0
 bodyguards_NN2
 Several_DT0
@@ -27271,7 +27271,7 @@ for_PRP
 protection_NN1
 Often_AV0
 they_PNP
-bristle_VVB
+bristle_NN1
 literally_AV0
 with_PRP
 equipment_NN1
@@ -27305,7 +27305,7 @@ telescopic_AJ0
 spouts_NN2
 near_PRP
 its_DPS
-rear_AJ0-NN1
+rear_NN1
 end_NN1
 which_DTQ
 exude_VVB
@@ -27320,7 +27320,7 @@ pair_NN0
 of_PRF
 nozzles_NN2
 which_DTQ
-cast_VVN
+cast_NN1
 an_AT0
 altogether_AV0
 more_AV0
@@ -27373,7 +27373,7 @@ than_CJS
 usual_AJ0
 to_TO0
 attack_NN1
-bite_VVI
+bite_NN1
 and_CJC
 sting_NN1
 any_DT0
@@ -27392,7 +27392,7 @@ an_AT0
 ant_NN1
 under_PRP
 the_AT0
-sway_VVI
+sway_NN1
 of_PRF
 a_AT0
 dope-peddling_AJ0
@@ -27402,7 +27402,7 @@ enters_VVZ
 a_AT0
 state_NN1
 called_VVN
-binding_VVG-AJ0
+binding_AJ0
 in_PRP
 which_DTQ
 it_PNP
@@ -27457,7 +27457,7 @@ slip_VVI
 them_PNP
 something_PNI
 addictively_AV0
-binding_VVG-AJ0
+binding_AJ0
 as_CJS
 well_AV0
 I_PNP
@@ -27471,7 +27471,7 @@ more_AV0
 modest_AJ0
 ways_NN2
 nature_NN1
-teems_VVZ-NN2
+teems_VVZ
 with_PRP
 animals_NN2
 and_CJC
@@ -27924,7 +27924,7 @@ Darwinian_AJ0
 drama_NN1
 They_PNP
 are_VBB
-cast_VVN
+cast_NN1
 in_PRP
 different_AJ0
 complementary_AJ0
@@ -28318,7 +28318,7 @@ participate_VVI
 in_PRP
 the_AT0
 same_DT0
-unpartisan_AJ0-NN1
+unpartisan_NN1
 meiosis_NN1
 they_PNP
 work_NN1
@@ -28517,7 +28517,7 @@ method_NN1
 of_PRF
 leaving_VVG
 the_AT0
-present_AJ0-NN1
+present_AJ0
 vehicle_NN1
 To_TO0
 be_VBI
@@ -28695,7 +28695,7 @@ everything_PNI
 to_TO0
 gain_VVI
 by_PRP
-struggling_VVG-AJ0
+struggling_VVG
 against_PRP
 rivals_NN2
 in_PRP
@@ -28891,7 +28891,7 @@ behaves_VVZ
 like_PRP
 a_AT0
 truly_AV0
-integrated_AJ0
+integrated_VVN
 single_AJ0
 vehicle_NN1
 Everywhere_AV0
@@ -28969,7 +28969,7 @@ phenotypic_AJ0
 effects_NN2
 initially_AV0
 direct_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 effects_NN2
 in_PRP
 cells_NN2
@@ -29125,7 +29125,7 @@ little_AJ0
 further_AJC
 I_PNP
 shall_VM0
-divide_VVI
+divide_NN1
 the_AT0
 question_NN1
 up_AVP
@@ -29210,7 +29210,7 @@ molecules_NN2
 cooperate_VVI
 in_PRP
 the_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 factories_NN2
 that_CJT
 are_VBB
@@ -29226,12 +29226,12 @@ as_CJS
 enzymes_NN2
 catalysing_VVG
 particular_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 reactions_NN2
 Often_AV0
 a_AT0
 single_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 reaction_NN1
 is_VBZ
 not_XX0
@@ -29251,14 +29251,14 @@ synthesis_NN1
 of_PRF
 a_AT0
 useful_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 needs_VVZ
 a_AT0
 production_NN1
 line_NN1
 The_AT0
 starting_VVG
-chemical_AJ0-NN1
+chemical_AJ0
 can_VM0
 not_XX0
 be_VBI
@@ -29325,7 +29325,7 @@ from_PRP
 a_AT0
 given_VVN
 starting_VVG
-chemical_AJ0-NN1
+chemical_AJ0
 A_AT0
 whole_AJ0
 set_VVN
@@ -29391,7 +29391,7 @@ making_VVG
 them_PNP
 must_VM0
 be_VBI
-present_AJ0-NN1
+present_AJ0
 Now_AV0
 it_PNP
 is_VBZ
@@ -29430,7 +29430,7 @@ of_PRF
 thing_NN1
 happens_VVZ
 in_PRP
-chemical_AJ0-NN1
+chemical_AJ0
 factories_NN2
 Which_DTQ
 pathway_NN1
@@ -29488,7 +29488,7 @@ two_CRD
 pathways_NN2
 are_VBB
 not_XX0
-mixed_AJ0
+mixed_VVN
 and_CJC
 that_CJT
 cooperating_VVG
@@ -29513,7 +29513,7 @@ of_PRF
 the_AT0
 German_AJ0
 and_CJC
-English_AJ0-NN1
+English_AJ0
 rowers_NN2
 Chapter_NN1
 5_CRD
@@ -29679,7 +29679,7 @@ away_AV0
 Many_DT0
 of_PRF
 the_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 reactions_NN2
 in_PRP
 the_AT0
@@ -29701,7 +29701,7 @@ combined_VVN
 conveyor-belt_NN1
 and_CJC
 test-tube_NN1
-rack_NN1-VVB
+rack_NN1
 But_CJC
 cooperation_NN1
 between_PRP
@@ -29870,7 +29870,7 @@ performing_VVG
 its_DPS
 particular_AJ0
 task_NN1
-Specialist_NN1-AJ0
+Specialist_NN1
 cells_NN2
 serve_VVI
 other_AJ0
@@ -29971,7 +29971,7 @@ on_PRP
 in_PRP
 the_AT0
 different_AJ0
-specialist_NN1-AJ0
+specialist_NN1
 cells_NN2
 Genes_NN2
 in_PRP
@@ -30166,7 +30166,7 @@ bottleneck_NN1
 This_DT0
 bottlenecking_NN1
 is_VBZ
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 the_AT0
 life_NN1
@@ -30280,7 +30280,7 @@ reproducing_VVG
 As_CJS
 you_PNP
 will_VM0
-notice_VVI
+notice_NN1
 it_PNP
 is_VBZ
 n't_XX0
@@ -30356,7 +30356,7 @@ splurge-weed_NN1
 no_AT0
 sex_NN1
 is_VBZ
-involved_AJ0
+involved_VVN
 The_AT0
 daughters_NN2
 of_PRF
@@ -30499,8 +30499,8 @@ have_VHB
 a_AT0
 more_AV0
 discrete_AJ0
-organismy_NN1-AJ0
-feel_VVI
+organismy_AJ0
+feel_VVB
 to_TO0
 it_PNP
 Splurge-weed_NN1
@@ -30647,7 +30647,7 @@ might_VM0
 be_VBI
 better_AJC
 to_TO0
-switch_VVI
+switch_NN1
 to_TO0
 animals_NN2
 because_CJS
@@ -30904,7 +30904,7 @@ to_TO0
 the_AT0
 drawing_NN1
 board_NN1
-Living_VVG-NN1
+Living_VVG
 things_NN2
 of_PRF
 course_NN1
@@ -30982,7 +30982,7 @@ a_AT0
 new_AJ0
 and_CJC
 possibly_AV0
-improved_AJ0
+improved_VVN
 heart_NN1
 It_PNP
 starts_VVZ
@@ -31135,7 +31135,7 @@ is_VBZ
 reached_VVD
 when_CJS
 the_AT0
-present_AJ0-NN1
+present_AJ0
 organism_NN1
 reproduces_VVZ
 and_CJC
@@ -31277,7 +31277,7 @@ strictly_AV0
 observed_VVN
 calendar_NN1
 To_TO0
-varying_AJ0-VVG
+varying_AJ0
 extents_NN2
 in_PRP
 different_AJ0
@@ -31456,7 +31456,7 @@ a_AT0
 particular_AJ0
 time_NN1
 Such_DT0
-well-tempered_AJ0-NN1
+well-tempered_AJ0
 regulations_NN2
 of_PRF
 gene_NN1
@@ -31471,7 +31471,7 @@ of_PRF
 embryologies_NN2
 capable_AJ0
 of_PRF
-crafting_VVG-AJ0
+crafting_VVG
 complex_AJ0
 tissues_NN2
 and_CJC
@@ -31567,7 +31567,7 @@ that_CJT
 breaks_VVZ
 apart_AV0
 and_CJC
-drifts_NN2-VVZ
+drifts_NN2
 away_AV0
 is_VBZ
 many-celled_AJ0
@@ -31693,7 +31693,7 @@ fate_NN1
 of_PRF
 a_AT0
 newly_AV0
-mutated_VVN
+mutated_AJ0
 gene_NN1
 first_ORD
 in_PRP
@@ -31993,7 +31993,7 @@ very_AV0
 recent_AJ0
 mutations_NN2
 could_VM0
-divide_VVI
+divide_NN1
 them_PNP
 Therefore_AV0
 they_PNP
@@ -32598,7 +32598,7 @@ lost_VVN
 the_AT0
 power_NN1
 of_PRF
-self-replication_NN1-AJ0
+self-replication_NN1
 and_CJC
 their_DPS
 kind_NN1
@@ -32720,7 +32720,7 @@ however_AV0
 tortuous_AJ0
 and_CJC
 indirect_AJ0
-feed_VVI
+feed_NN1
 back_AVP
 and_CJC
 affect_VVI
@@ -32771,7 +32771,7 @@ their_DPS
 consequences_NN2
 Like_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 and_CJC
 German_AJ0
 rowers_NN2
@@ -33033,7 +33033,7 @@ the_AT0
 centre_NN1
 of_PRF
 a_AT0
-converging_VVG-AJ0
+converging_VVG
 web_NN1
 of_PRF
 influences_NN2

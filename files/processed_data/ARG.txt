@@ -243,7 +243,7 @@ father_NN1
 weak_AJ0
 spirit_NN1
 which_DTQ
-caved_VVN-VVD
+caved_VVN
 in_PRP
 to_TO0
 his_DPS
@@ -283,7 +283,7 @@ the_AT0
 endless_AJ0
 drift_NN1
 of_PRF
-shrieking_VVG-AJ0
+shrieking_VVG
 forms_NN2
 in_PRP
 a_AT0
@@ -582,7 +582,7 @@ through_PRP
 the_AT0
 barriers_NN2
 of_PRF
-self-deceit_NN1-AJ0
+self-deceit_NN1
 A_AT0
 marriage_NN1
 partner_NN1
@@ -599,7 +599,7 @@ society_NN1
 has_VHZ
 placed_VVN
 an_AT0
-exaggerated_AJ0
+exaggerated_VVN
 emphasis_NN1
 on_PRP
 individualism_NN1
@@ -648,7 +648,7 @@ paid_VVN
 friend_NN1
 may_VM0
 well_AV0
-act_VVI
+act_NN1
 from_PRP
 the_AT0
 impure_AJ0
@@ -693,7 +693,7 @@ never_AV0
 more_AV0
 expertly_AV0
 advised_VVN
-psychoanalysed_AJ0-VVN
+psychoanalysed_AJ0
 and_CJC
 researched_VVN
 yet_AV0
@@ -1046,9 +1046,9 @@ at_PRP
 the_AT0
 wedding_NN1
 in_PRP
-Cana_NP0-NN1
+Cana_NN1
 of_PRF
-Galilee_NP0-NN1
+Galilee_NP0
 There_EX0
 he_PNP
 not_XX0
@@ -1204,7 +1204,7 @@ fear_NN1
 the_AT0
 Lord_NP0
 who_PNQ
-walk_VVI
+walk_NN1
 in_PRP
 his_DPS
 ways_NN2
@@ -1333,7 +1333,7 @@ word_NN1
 and_CJC
 will_VM0
 To_TO0
-walk_VVI
+walk_NN1
 in_PRP
 God_NP0
 's_POS
@@ -1346,7 +1346,7 @@ made_VVN
 on_PRP
 Israel_NP0
 by_PRP
-Yahweh_NP0-NN1
+Yahweh_NP0
 the_AT0
 personal_AJ0
 God_NP0
@@ -1361,7 +1361,7 @@ this_DT0
 thought_VVD
 by_PRP
 saying_VVG
-Show_NN1-VVB
+Show_NN1
 me_PNP
 your_DPS
 ways_NN2
@@ -1747,7 +1747,7 @@ so_AV0
 strange_AJ0
 about_PRP
 that_CJT
-Living_VVG-NN1
+Living_VVG
 happily_AV0
 ever_AV0
 after_PRP
@@ -1793,12 +1793,12 @@ unwittingly_AV0
 follows_VVZ
 the_AT0
 ancient_AJ0
-Roman_AJ0-NN1
+Roman_AJ0
 attitude_NN1
 towards_PRP
 marriage_NN1
 In_PRP
-Roman_AJ0-NN1
+Roman_AJ0
 law_NN1
 a_AT0
 marriage_NN1
@@ -1816,10 +1816,10 @@ dictum_NN1
 was_VBD
 nuptias_NN2
 non_UNC
-concubitus_NN1-AJ0
+concubitus_AJ0
 sed_AJ0
 consensus_NN1
-facit_NN1-VVB
+facit_NN1
 marriage_NN1
 is_VBZ
 not_XX0
@@ -1832,7 +1832,7 @@ the_AT0
 consent_NN1
 This_DT0
 gave_VVD
-Roman_AJ0-NN1
+Roman_AJ0
 women_NN2
 much_DT0
 greater_AJC
@@ -2126,7 +2126,7 @@ followers_NN2
 to_TO0
 think_VVB
 or_CJC
-act_VVI
+act_NN1
 in_PRP
 legalistic_AJ0
 terms_NN2
@@ -2136,7 +2136,7 @@ when_CJS
 we_PNP
 do_VDB
 not_XX0
-act_VVI
+act_NN1
 and_CJC
 behave_VVI
 as_CJS
@@ -2230,7 +2230,7 @@ the_AT0
 seriousness_NN1
 it_PNP
 deserves_VVZ
-Unfaithfulness_NN1-NP0
+Unfaithfulness_NN1
 in_PRP
 marriage_NN1
 is_VBZ
@@ -2242,7 +2242,7 @@ freedom_NN1
 within_PRP
 the_AT0
 relationship_NN1
-Divorce_VVB-NN1
+Divorce_NN1
 can_VM0
 be_VBI
 the_AT0
@@ -2274,7 +2274,7 @@ the_AT0
 view_NN1
 in_PRP
 ancient_AJ0
-Roman_AJ0-NN1
+Roman_AJ0
 and_CJC
 Jewish_AJ0
 times_NN2
@@ -2527,7 +2527,7 @@ of_PRF
 God_NP0
 are_VBB
 all_DT0
-involved_AJ0
+involved_VVN
 in_PRP
 marriage_NN1
 For_PRP
@@ -2549,7 +2549,7 @@ see_VVI
 new_AJ0
 visions_NN2
 and_CJC
-walk_VVI
+walk_NN1
 out_AVP
 into_PRP
 a_AT0
@@ -2685,7 +2685,7 @@ they_PNP
 had_VHD
 created_VVN
 and_CJC
-cultivated_AJ0
+cultivated_VVN
 in_PRP
 harmony_NN1
 with_PRP
@@ -2709,7 +2709,7 @@ word_NN1
 intimacy_NN1
 means_NN0
 nearness_NN1
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 honesty_NN1
 affection_NN1
@@ -2786,7 +2786,7 @@ intimacy_NN1
 begins_VVZ
 when_CJS
 we_PNP
-cry_VVI
+cry_NN1
 out_AVP
 to_TO0
 God_NP0
@@ -2827,7 +2827,7 @@ and_CJC
 it_PNP
 was_VBD
 also_AV0
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 the_AT0
 early_AJ0
@@ -3226,7 +3226,7 @@ can_VM0
 take_VVI
 a_AT0
 long_AJ0
-walk_VVI
+walk_NN1
 without_PRP
 a_AT0
 word_NN1
@@ -3524,7 +3524,7 @@ the_AT0
 lover_NN1
 expresses_VVZ
 her_DPS
-yearning_VVG
+yearning_NN1
 for_PRP
 her_DPS
 absent_AJ0
@@ -3697,7 +3697,7 @@ pictured_VVD
 in_PRP
 the_AT0
 prophet_NN1
-Hosea_NP0-NN1
+Hosea_NN1
 's_POS
 broken_VVN
 marriage_NN1
@@ -4215,7 +4215,7 @@ that_CJT
 we_PNP
 have_VHB
 been_VBN
-hurt_VVI
+hurt_VVN
 by_PRP
 the_AT0
 inconsistencies_NN2
@@ -4446,7 +4446,7 @@ God_NP0
 can_VM0
 we_PNP
 both_AV0
-walk_VVI
+walk_NN1
 in_PRP
 his_DPS
 ways_NN2
@@ -4810,7 +4810,7 @@ that_CJT
 the_AT0
 husband_NN1
 should_VM0
-act_VVI
+act_NN1
 as_CJS
 priest_NN1
 within_PRP
@@ -4991,7 +4991,7 @@ the_AT0
 centuries_NN2
 has_VHZ
 given_VVN
-mixed_AJ0
+mixed_VVN
 signals_NN2
 about_PRP
 the_AT0
@@ -5099,7 +5099,7 @@ crucial_AJ0
 importance_NN1
 for_PRP
 its_DPS
-shaping_VVG-AJ0
+shaping_VVG
 of_PRF
 Christian_AJ0
 character_NN1
@@ -5138,7 +5138,7 @@ bring_VVI
 about_PRP
 an_AT0
 essential_AJ0
-re-focus_NN1-VVB
+re-focus_NN1
 on_PRP
 the_AT0
 importance_NN1
@@ -5280,14 +5280,14 @@ the_AT0
 external_AJ0
 rationalistic_AJ0
 and_CJC
-professionalized_VVD-AJ0
+professionalized_VVD
 expressions_NN2
 of_PRF
 religion_NN1
 that_CJT
 are_VBB
 so_AV0
-deadening_VVG
+deadening_AJ0
 today_AV0
 The_AT0
 loss_NN1
@@ -5384,7 +5384,7 @@ it_PNP
 also_AV0
 reflects_VVZ
 an_AT0
-assured_VVD
+assured_VVN
 sense_NN1
 of_PRF
 one_CRD
@@ -5500,7 +5500,7 @@ not_XX0
 you_PNP
 or_CJC
 we_PNP
-feel_VVI
+feel_VVB
 threatened_VVN
 Poor_AJ0
 me_PNP
@@ -5625,7 +5625,7 @@ the_AT0
 Son_NN1
 and_CJC
 the_AT0
-indwelling_AJ0-NN1
+indwelling_NN1
 presence_NN1
 of_PRF
 the_AT0
@@ -5743,7 +5743,7 @@ I_PNP
 live_VVI
 declares_VVZ
 the_AT0
-Sovereign_AJ0-NN1
+Sovereign_NN1
 Lord_NP0
 you_PNP
 will_VM0
@@ -5971,7 +5971,7 @@ of_PRF
 prolonged_AJ0
 marital_AJ0
 discord_NN1
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 complete_AJ0
 honesty_NN1
@@ -6087,7 +6087,7 @@ wholeness_NN1
 as_CJS
 a_AT0
 person_NN1
-lie_VVI
+lie_VVB
 at_PRP
 the_AT0
 heart_NN1
@@ -6099,7 +6099,7 @@ to_TO0
 be_VBI
 a_AT0
 Christian_AJ0
-Wholeness_NN1-NP0
+Wholeness_NN1
 is_VBZ
 not_XX0
 found_VVD
@@ -6184,7 +6184,7 @@ Christ_NP0
 If_CJS
 we_PNP
 remain_VVI
-stuck_AJ0
+stuck_VVN
 Christians_NN2
 we_PNP
 can_VM0
@@ -6273,7 +6273,7 @@ happened_VVD
 she_PNP
 exulted_VVD
 and_CJC
-gloried_VVN-VVD
+gloried_VVN
 and_CJC
 was_VBD
 now_AV0
@@ -6449,7 +6449,7 @@ and_CJC
 moon_NN1
 and_CJC
 stars_NN2
-shine_VVI
+shine_NN1
 upon_PRP
 this_DT0
 earth_NN1
@@ -6486,7 +6486,7 @@ unfailing_AJ0
 abundance_NN1
 where_AVQ
 you_PNP
-feed_VVI
+feed_NN1
 Israel_NP0
 forever_AV0
 on_PRP
@@ -6747,7 +6747,7 @@ spells_VVZ
 death_NN1
 to_TO0
 the_AT0
-pleasure-seeking_AJ0-NN1
+pleasure-seeking_NN1
 life_NN1
 The_AT0
 truly_AV0
@@ -7069,7 +7069,7 @@ a_AT0
 man_NN1
 of_PRF
 affliction_NN1
-Divorce_VVB-NN1
+Divorce_NN1
 can_VM0
 bring_VVI
 far_AV0
@@ -7133,7 +7133,7 @@ salvation_NN1
 and_CJC
 leaves_VVZ
 no_AT0
-regret_VVI
+regret_NN1
 but_CJC
 worldly_AJ0
 sorrow_NN1
@@ -7157,7 +7157,7 @@ consequences_NN2
 we_PNP
 will_VM0
 never_AV0
-regret_VVI
+regret_NN1
 Failure_NN1
 to_TO0
 trust_NN1
@@ -7237,7 +7237,7 @@ gift_NN1
 of_PRF
 being_VBG
 triumphant_AJ0
-transcendent_AJ0-NN1
+transcendent_NN1
 transformed_VVN
 by_PRP
 the_AT0
@@ -7315,10 +7315,10 @@ is_VBZ
 also_AV0
 what_DTQ
 the_AT0
-cross_VVI
+cross_NN1
 symbolizes_VVZ
 The_AT0
-cross_VVI
+cross_NN1
 shows_VVZ
 us_PNP
 a_AT0
@@ -7365,7 +7365,7 @@ evil_AJ0
 that_CJT
 destroyed_VVN
 it_PNP
-Evil_AJ0-NN1
+Evil_NN1
 was_VBD
 destroyed_VVN
 by_PRP
@@ -7377,7 +7377,7 @@ death_NN1
 of_PRF
 Jesus_NP0
 The_AT0
-cross_VVI
+cross_NN1
 is_VBZ
 therefore_AV0
 the_AT0
@@ -7469,10 +7469,10 @@ and_CJC
 love_NN1
 in_PRP
 God_NP0
-Suffering_VVG-NN1
+Suffering_NN1
 will_VM0
 not_XX0
-tear_NN1-VVB
+tear_NN1
 it_PNP
 apart_AV0
 each_DT0
@@ -7491,11 +7491,11 @@ standing_VVG
 united_AJ0
 and_CJC
 transformed_VVN
-Suffering_VVG-NN1
+Suffering_NN1
 achieves_VVZ
 its_DPS
 greatest_AJS
-act_VVI
+act_NN1
 of_PRF
 transformation_NN1
 when_CJS
@@ -7522,7 +7522,7 @@ of_PRF
 bitterness_NN1
 and_CJC
 despair_NN1
-Suffering_VVG-NN1
+Suffering_NN1
 then_AV0
 becomes_VVZ
 God_NP0
@@ -7558,7 +7558,7 @@ actually_AV0
 enters_VVZ
 into_PRP
 them_PNP
-Suffering_VVG-NN1
+Suffering_NN1
 at_PRP
 this_DT0
 level_NN1
@@ -7670,7 +7670,7 @@ not_XX0
 possible_AJ0
 Bernard_NP0
 of_PRF
-Clairvaux_NP0-NN1
+Clairvaux_NP0
 To_TO0
 know_VVI
 God_NP0
@@ -7875,7 +7875,7 @@ became_VVD
 a_AT0
 form_NN1
 of_PRF
-self-examination_NN1-AJ0
+self-examination_NN1
 interrogating_VVG
 ourselves_PNX
 about_PRP
@@ -7904,7 +7904,7 @@ task_NN1
 that_CJT
 only_AV0
 Zeus_NP0
-chief_AJ0-NN1
+chief_NN1
 of_PRF
 the_AT0
 gods_NN2
@@ -8025,7 +8025,7 @@ beings_NN2
 Animals_NN2
 occupy_VVI
 a_AT0
-closed_VVD
+closed_VVN
 instinct-driven_AJ0
 world_NN1
 in_PRP
@@ -8158,7 +8158,7 @@ or_CJC
 more_AV0
 spiritual_AJ0
 So_AV0
-self-understanding_NN1-AJ0
+self-understanding_AJ0
 can_VM0
 not_XX0
 be_VBI
@@ -8191,7 +8191,7 @@ involves_VVZ
 much_DT0
 more_AV0
 than_CJS
-self-observation_AJ0-NN1
+self-observation_AJ0
 or_CJC
 self-description_NN1
 It_PNP
@@ -8334,7 +8334,7 @@ by_PRP
 a_AT0
 fat_AJ0
 pimpled_AJ0
-nineteen-_AJ0-NN1
+nineteen-_NN1
 or_CJC
 twenty-year-old_AJ0
 girl_NN1
@@ -8408,7 +8408,7 @@ came_VVD
 from_PRP
 you_PNP
 old_AJ0
-wart-hog_NN1-AJ0
+wart-hog_NN1
 After_PRP
 the_AT0
 doctor_NN1
@@ -8467,7 +8467,7 @@ I_PNP
 am_VBB
 not_XX0
 a_AT0
-wart-hog_NN1-AJ0
+wart-hog_NN1
 from_PRP
 hell_NN1
 she_PNP
@@ -8530,7 +8530,7 @@ evening_NN1
 sky_NN1
 begins_VVZ
 to_TO0
-burn_VVI
+burn_NN1
 with_PRP
 a_AT0
 transparent_AJ0
@@ -8594,7 +8594,7 @@ were_VBD
 whole_AJ0
 companies_NN2
 of_PRF
-white-trash_NN1-AJ0
+white-trash_NN1
 clean_AJ0
 for_PRP
 the_AT0
@@ -8746,7 +8746,7 @@ a_AT0
 moment_NN1
 the_AT0
 vision_NN1
-faded_AJ0
+faded_VVN
 but_CJC
 she_PNP
 remained_VVD
@@ -8808,7 +8808,7 @@ universe_NN1
 within_PRP
 a_AT0
 hierarchy_NN1
-nigger_VVB-NN1
+nigger_VVB
 white_AJ0
 trash_NN1
 common_AJ0
@@ -8857,7 +8857,7 @@ not_XX0
 know_VVI
 Bernard_NP0
 of_PRF
-Clairvaux_NP0-NN1
+Clairvaux_NP0
 's_POS
 observation_NN1
 that_CJT
@@ -8954,7 +8954,7 @@ It_PNP
 was_VBD
 this_DT0
 humiliating_AJ0
-act_VVI
+act_NN1
 that_CJT
 allowed_VVN
 God_NP0
@@ -8991,7 +8991,7 @@ can_VM0
 break_VVI
 into_PRP
 the_AT0
-closed_VVD
+closed_VVN
 world_NN1
 of_PRF
 the_AT0
@@ -9039,7 +9039,7 @@ the_AT0
 Arctic_AJ0
 to_TO0
 the_AT0
-Amazon_NP0-NN1
+Amazon_NP0
 in_PRP
 the_AT0
 course_NN1
@@ -9147,10 +9147,10 @@ in_PRP
 remedy_NN1
 bottle_NN1
 It_PNP
-listed_AJ0
+listed_VVN
 the_AT0
 drugs_NN2
-mixed_AJ0
+mixed_VVN
 together_AV0
 alcohol_NN1
 promiscuity_NN1
@@ -9158,10 +9158,10 @@ masturbation_NN1
 materialistic_AJ0
 attitudes_NN2
 workaholism_NN1
-thrill-seeking_NN1-AJ0
-attention-seeking_NN1-AJ0
+thrill-seeking_AJ0
+attention-seeking_NN1
 competitiveness_NN1
-self-indulgence_NN1-AJ0
+self-indulgence_NN1
 etc_AV0
 Then_AV0
 Paul_NP0
@@ -9635,7 +9635,7 @@ man_NN1
 who_PNQ
 does_VDZ
 not_XX0
-walk_VVI
+walk_NN1
 in_PRP
 the_AT0
 counsel_NN1
@@ -9793,12 +9793,12 @@ revealed_VVN
 himself_PNX
 to_TO0
 us_PNP
-Living_VVG-NN1
+Living_VVG
 in_PRP
 awe_NN1
 of_PRF
 God_NP0
-Awe_NP0
+Awe_NN1
 of_PRF
 God_NP0
 is_VBZ
@@ -9822,7 +9822,7 @@ vast_AJ0
 difference_NN1
 to_TO0
 us_PNP
-Living_VVG-NN1
+Living_VVG
 without_PRP
 awe_NN1
 of_PRF
@@ -9857,7 +9857,7 @@ we_PNP
 begin_VVI
 to_TO0
 take_VVI
-notice_VVI
+notice_NN1
 of_PRF
 the_AT0
 mysteries_NN2
@@ -9877,7 +9877,7 @@ too_AV0
 mysterious_AJ0
 to_TO0
 be_VBI
-flattened_AJ0
+flattened_VVN
 into_PRP
 cheap_AJ0
 explanations_NN2
@@ -9907,7 +9907,7 @@ him_PNP
 speak_VVI
 to_TO0
 us_PNP
-Awed_AJ0-VVN
+Awed_AJ0
 by_PRP
 this_DT0
 we_PNP
@@ -9918,7 +9918,7 @@ an_AT0
 awareness_NN1
 of_PRF
 the_AT0
-transcendent_AJ0-NN1
+transcendent_NN1
 In_PRP
 other_AJ0
 words_NN2
@@ -9989,7 +9989,7 @@ God_NP0
 's_POS
 moral_AJ0
 perfection_NN1
-Awe_NP0
+Awe_NN1
 is_VBZ
 therefore_AV0
 a_AT0
@@ -10037,7 +10037,7 @@ instinctively_AV0
 seek_VVI
 when_CJS
 we_PNP
-feel_VVI
+feel_VVB
 threatened_VVN
 and_CJC
 leads_VVZ
@@ -10116,7 +10116,7 @@ our_DPS
 fragmented_AJ0
 lives_NN2
 are_VBB
-integrated_AJ0
+integrated_VVN
 fulfilled_VVN
 and_CJC
 satisfied_AJ0
@@ -10137,14 +10137,14 @@ our_DPS
 lives_NN2
 we_PNP
 can_VM0
-act_VVI
+act_NN1
 and_CJC
 love_NN1
 trust_NN1
 and_CJC
 desire_NN1
 in_PRP
-ever-deepening_AJ0-NN1
+ever-deepening_AJ0
 channels_NN2
 that_CJT
 flow_NN1
@@ -10231,9 +10231,9 @@ of_PRF
 God_NP0
 shatters_VVZ
 our_DPS
-drive_VVI
+drive_NN1
 towards_PRP
-self-security_NN1-AJ0
+self-security_NN1
 then_AV0
 the_AT0
 strongly_AV0
@@ -10247,9 +10247,9 @@ frees_VVZ
 us_PNP
 from_PRP
 our_DPS
-drive_VVI
+drive_NN1
 towards_PRP
-self-fulfilment_NN1-AJ0
+self-fulfilment_NN1
 We_PNP
 realize_VVI
 that_CJT
@@ -10767,7 +10767,7 @@ living_VVG
 in_PRP
 fear_NN1
 of_PRF
-self-abandonment_NN1-AJ0
+self-abandonment_NN1
 They_PNP
 create_VVI
 the_AT0
@@ -10902,7 +10902,7 @@ intimate_AJ0
 connection_NN1
 between_PRP
 the_AT0
-father-complex_NN1-AJ0
+father-complex_NN1
 and_CJC
 belief_NN1
 in_PRP
@@ -11225,7 +11225,7 @@ saying_VVG
 all_DT0
 sorts_NN2
 of_PRF
-damaging_VVG-AJ0
+damaging_AJ0
 things_NN2
 about_PRP
 other_AJ0
@@ -11795,7 +11795,7 @@ disciples_NN2
 of_PRF
 Jesus_NP0
 did_VDD
-Discipleship_NN1-NP0
+Discipleship_NP0
 is_VBZ
 a_AT0
 dynamic_AJ0
@@ -11893,7 +11893,7 @@ of_PRF
 Augustine_NP0
 Bernard_NP0
 of_PRF
-Clairvaux_NP0-NN1
+Clairvaux_NP0
 Julian_NP0
 of_PRF
 Norwich_NP0
@@ -11901,7 +11901,7 @@ Teresa_NP0
 of_PRF
 Avila_NP0
 Martin_NP0
-Luther_NP0-NN1
+Luther_NP0
 or_CJC
 John_NP0
 Calvin_NP0
@@ -12028,7 +12028,7 @@ God_NP0
 it_PNP
 is_VBZ
 a_AT0
-closed_VVD
+closed_VVN
 world_NN1
 With_PRP
 our_DPS
@@ -12330,8 +12330,8 @@ from_PRP
 the_AT0
 heart_NN1
 A_AT0
-Roman_AJ0-NN1
-Catholic_AJ0-NN1
+Roman_AJ0
+Catholic_AJ0
 scholar_NN1
 Hans_NP0
 von_NP0
@@ -12545,7 +12545,7 @@ God_NP0
 In_PRP
 this_DT0
 way_NN1
-self-distrust_NN1-AJ0
+self-distrust_NN1
 or_CJC
 humility_NN1
 and_CJC
@@ -12822,7 +12822,7 @@ Lord_NP0
 and_CJC
 I_PNP
 will_VM0
-walk_VVI
+walk_NN1
 in_PRP
 your_DPS
 truth_NN1
@@ -13013,7 +13013,7 @@ conflicts_NN2
 in_PRP
 personal_AJ0
 relationships_NN2
-self-alienation_NN1-AJ0
+self-alienation_AJ0
 hardness_NN1
 of_PRF
 heart_NN1
@@ -13079,7 +13079,7 @@ experience_NN1
 pleasure_NN1
 in_PRP
 all_DT0
-Desire_NN1-VVB
+Desire_NN1
 to_TO0
 have_VHB
 pleasure_NN1
@@ -13092,7 +13092,7 @@ arrive_VVI
 at_PRP
 possessing_VVG
 all_DT0
-Desire_NN1-VVB
+Desire_NN1
 to_TO0
 possess_VVI
 nothing_PNI
@@ -13103,7 +13103,7 @@ arrive_VVI
 at_PRP
 being_VBG
 all_DT0
-Desire_NN1-VVB
+Desire_NN1
 to_TO0
 be_VBI
 nothing_PNI
@@ -13114,7 +13114,7 @@ arrive_VVI
 at_PRP
 knowing_VVG
 all_DT0
-Desire_NN1-VVB
+Desire_NN1
 to_TO0
 know_VVI
 nothing_PNI
@@ -13133,7 +13133,7 @@ boast_VVI
 except_CJS
 in_PRP
 the_AT0
-cross_VVI
+cross_NN1
 of_PRF
 our_DPS
 Lord_NP0
@@ -13153,8 +13153,8 @@ I_PNP
 to_TO0
 the_AT0
 world_NN1
-Christina_NP0-NN1
-Rossetti_NP0-NN1
+Christina_NP0
+Rossetti_NP0
 the_AT0
 Victorian_AJ0
 poet_NN1
@@ -13186,7 +13186,7 @@ feels_VVZ
 sad_AJ0
 weary_AJ0
 and_CJC
-footsore_NN1-VVB
+footsore_VVB
 but_CJC
 then_AV0
 sees_VVZ
@@ -13244,7 +13244,7 @@ I_PNP
 put_VVI
 my_DPS
 trust_NN1
-Answer_VVB-NN1
+Answer_VVB
 thou_PNP
 for_PRP
 me_PNP
@@ -13263,7 +13263,7 @@ has_VHZ
 redeemed_VVN
 and_CJC
 not_XX0
-abhorred_VVN-AJ0
+abhorred_VVD
 My_DPS
 soul_NN1
 oh_ITJ
@@ -13285,7 +13285,7 @@ to_TO0
 Christ_NP0
 to_TO0
 keep_VVI
-listening_VVG-NN1
+listening_VVG
 to_TO0
 God_NP0
 Jesus_NP0
@@ -13379,7 +13379,7 @@ underlines_VVZ
 the_AT0
 importance_NN1
 of_PRF
-listening_VVG-NN1
+listening_VVG
 to_TO0
 God_NP0
 Listen_VVB
@@ -13406,7 +13406,7 @@ Give_VVB
 your_DPS
 servant_NN1
 a_AT0
-listening_VVG-NN1
+listening_VVG
 heart_NN1
 so_AV0
 as_CJS
@@ -13434,7 +13434,7 @@ of_PRF
 truth_NN1
 Jesus_NP0
 told_VVD
-Pilate_NP0-NN1
+Pilate_NP0
 at_PRP
 his_DPS
 trial_NN1
@@ -13488,7 +13488,7 @@ with_PRP
 genuine_AJ0
 willingness_NN1
 This_DT0
-listening_VVG-NN1
+listening_VVG
 to_TO0
 God_NP0
 also_AV0
@@ -13529,7 +13529,7 @@ to_TO0
 earth_NN1
 Like_PRP
 love_NN1
-listening_VVG-NN1
+listening_VVG
 to_TO0
 God_NP0
 has_VHZ
@@ -13542,7 +13542,7 @@ It_PNP
 implies_VVZ
 a_AT0
 whole-hearted_AJ0
-self-abandonment_NN1-AJ0
+self-abandonment_NN1
 an_AT0
 unpossessiveness_NN1
 that_CJT
@@ -13550,7 +13550,7 @@ never_AV0
 sleeps_VVZ
 never_AV0
 stops_VVZ
-listening_VVG-NN1
+listening_VVG
 obeying_VVG
 and_CJC
 loving_AJ0
@@ -13566,7 +13566,7 @@ life_NN1
 lies_VVZ
 in_PRP
 surrendering_VVG
-dying_VVG-AJ0
+dying_AJ0
 and_CJC
 rising_VVG
 to_TO0
@@ -13702,7 +13702,7 @@ our_DPS
 identities_NN2
 As_CJS
 we_PNP
-reorient_NN1-AJ0
+reorient_NN1
 our_DPS
 lives_NN2
 away_AV0
@@ -13716,7 +13716,7 @@ discover_VVI
 that_CJT
 we_PNP
 are_VBB
-oriented_VVN
+oriented_VVD
 towards_PRP
 joy_NN1
 happiness_NN1
@@ -13879,7 +13879,7 @@ new_AJ0
 quality_NN1
 of_PRF
 silence_NN1
-Silence_NN1-VVB
+Silence_NN1
 is_VBZ
 the_AT0
 garden_NN1
@@ -13891,7 +13891,7 @@ space_NN1
 and_CJC
 time_NN1
 are_VBB
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 the_AT0
 presence_NN1
@@ -14052,7 +14052,7 @@ fruit_NN0
 of_PRF
 obedience_NN1
 and_CJC
-listening_VVG-NN1
+listening_VVG
 If_CJS
 I_PNP
 refuse_VVI
@@ -14237,7 +14237,7 @@ inner_AJ0
 self_NN1
 is_VBZ
 the_AT0
-unfading_AJ0-NN1
+unfading_NN1
 beauty_NN1
 of_PRF
 a_AT0
@@ -14313,7 +14313,7 @@ our_DPS
 own_DT0
 plans_NN2
 and_CJC
-willpower_NN1-VVB
+willpower_NN1
 over_PRP
 them_PNP
 In_PRP
@@ -14338,7 +14338,7 @@ pan_NN1
 meaning_NN1
 all_DT0
 and_CJC
-rhe_NN1-VVB
+rhe_VVB
 the_AT0
 root_NN1
 of_PRF
@@ -14502,7 +14502,7 @@ to_TO0
 the_AT0
 Father_NN1
 the_AT0
-indwelling_AJ0-NN1
+indwelling_NN1
 presence_NN1
 of_PRF
 Christ_NP0
@@ -14581,7 +14581,7 @@ alienated_VVN
 because_CJS
 we_PNP
 are_VBB
-indwelt_NN1-VVB
+indwelt_NN1
 by_PRP
 the_AT0
 Father_NN1
@@ -14862,7 +14862,7 @@ see_VVI
 us_PNP
 not_XX0
 so_AV0
-strained_AJ0
+strained_VVN
 and_CJC
 frantic_AJ0
 in_PRP
@@ -14969,7 +14969,7 @@ The_AT0
 Truly_AV0
 Happy_AJ0
 Life_NN1
-Beatitude_NN1-NP0
+Beatitude_NP0
 is_VBZ
 in_PRP
 my_DPS
@@ -15021,7 +15021,7 @@ and_CJC
 incomprehensible_AJ0
 good_AJ0
 is_VBZ
-Beatitude_NN1-NP0
+Beatitude_NP0
 He_PNP
 is_VBZ
 the_AT0
@@ -15793,7 +15793,7 @@ hanging_VVG
 powerless_AJ0
 on_PRP
 a_AT0
-cross_VVI
+cross_NN1
 saying_VVG
 Father_NN1
 into_PRP
@@ -16238,7 +16238,7 @@ faced_VVN
 the_AT0
 human_AJ0
 condition_NN1
-head-on_AJ0-AV0
+head-on_AV0
 Jesus_NP0
 did_VDD
 not_XX0
@@ -16388,7 +16388,7 @@ and_CJC
 Pharisees_NN2
 with_PRP
 being_VBG
-white-washed_VVN-AJ0
+white-washed_VVN
 sepulchres_NN2
 blind_AJ0
 guides_NN2
@@ -16507,7 +16507,7 @@ company_NN1
 Mediators_NN2
 also_AV0
 lack_NN1
-self-assurance_NN1-AJ0
+self-assurance_NN1
 something_PNI
 that_CJT
 Jesus_NP0
@@ -16580,14 +16580,14 @@ at_PRP
 They_PNP
 do_VDB
 not_XX0
-feel_VVI
+feel_VVB
 so_AV0
 defensive_AJ0
 but_CJC
 they_PNP
 may_VM0
 well_AV0
-feel_VVI
+feel_VVB
 uncomfortable_AJ0
 about_PRP
 these_DT0
@@ -16896,7 +16896,7 @@ turn_NN1
 away_AV0
 from_PRP
 the_AT0
-commonly-accepted_AJ0-NN1
+commonly-accepted_AJ0
 prescriptions_NN2
 for_PRP
 happiness_NN1
@@ -17463,7 +17463,7 @@ true_AJ0
 condition_NN1
 than_CJS
 the_AT0
-much-admired_AJ0-NN1
+much-admired_AJ0
 qualities_NN2
 of_PRF
 the_AT0
@@ -17515,7 +17515,7 @@ bring_VVI
 Simply_AV0
 to_TO0
 Thy_DPS
-cross_VVI
+cross_NN1
 I_PNP
 cling_VVB
 Naked_AJ0
@@ -17530,12 +17530,12 @@ to_TO0
 Thee_PNP
 for_PRP
 grace_NN1
-Foul_VVB-NN1
+Foul_VVB
 I_PNP
 to_TO0
 the_AT0
 fountain_NN1
-fly_VVI
+fly_NN1
 Wash_NN1
 me_PNP
 Saviour_NP0
@@ -17578,7 +17578,7 @@ for_PRP
 those_DT0
 intent_NN1
 on_PRP
-self-fulfilment_NN1-AJ0
+self-fulfilment_NN1
 nor_CJC
 for_PRP
 the_AT0
@@ -17847,7 +17847,7 @@ of_PRF
 living_VVG
 in_PRP
 community_NN1
-Celano_NN1-NP0
+Celano_NP0
 in_PRP
 his_DPS
 Life_NN1
@@ -18037,7 +18037,7 @@ to_TO0
 a_AT0
 friend_NN1
 I_PNP
-feel_VVI
+feel_VVB
 it_PNP
 is_VBZ
 only_AV0
@@ -18584,7 +18584,7 @@ despair_NN1
 or_CJC
 it_PNP
 can_VM0
-drive_VVI
+drive_NN1
 us_PNP
 towards_PRP
 greater_AJC
@@ -18777,7 +18777,7 @@ into_PRP
 now_AV0
 for_PRP
 our_DPS
-present_AJ0-NN1
+present_AJ0
 existence_NN1
 as_CJS
 well_AV0
@@ -18874,7 +18874,7 @@ many_DT0
 different_AJ0
 kinds_NN2
 of_PRF
-self-imprisonment_NN1-AJ0
+self-imprisonment_NN1
 Instead_AV0
 we_PNP
 begin_VVI
@@ -18946,7 +18946,7 @@ to_TO0
 where_AVQ
 Jesus_NP0
 is_VBZ
-enthroned_VVN-AJ0
+enthroned_AJ0
 giving_VVG
 us_PNP
 a_AT0
@@ -19057,7 +19057,7 @@ as_CJS
 the_AT0
 willing_AJ0
 servant_NN1
-humbled_VVN-AJ0
+humbled_VVN
 to_TO0
 the_AT0
 point_NN1
@@ -19296,7 +19296,7 @@ Humility_NN1
 as_CJS
 John_NP0
 of_PRF
-Climacus_NP0-NN1
+Climacus_NN1
 says_VVZ
 works_NN0
 alongside_PRP
@@ -19360,7 +19360,7 @@ God_NP0
 As_CJS
 John_NP0
 of_PRF
-Climacus_NP0-NN1
+Climacus_NN1
 said_VVD
 The_AT0
 man_NN1
@@ -19483,7 +19483,7 @@ and_CJC
 flourish_VVI
 within_PRP
 us_PNP
-Desire_NN1-VVB
+Desire_NN1
 and_CJC
 reason_NN1
 do_VDB
@@ -19547,7 +19547,7 @@ and_CJC
 purposes_NN2
 of_PRF
 God_NP0
-Self-concern_NN1-AJ0
+Self-concern_NN1
 with_PRP
 all_DT0
 its_DPS
@@ -19583,7 +19583,7 @@ O_ZZ0
 God_NP0
 My_DPS
 soul_NN1
-thirsts_VVZ-NN2
+thirsts_NN2
 for_PRP
 God_NP0
 for_PRP
@@ -19821,7 +19821,7 @@ then_AV0
 means_NN0
 that_CJT
 we_PNP
-feed_VVI
+feed_NN1
 daily_AJ0
 on_PRP
 the_AT0
@@ -19833,7 +19833,7 @@ about_PRP
 his_DPS
 righteousness_NN1
 or_CJC
-right-relatedness_NN1-AJ0
+right-relatedness_AJ0
 to_TO0
 him_PNP
 We_PNP
@@ -20003,7 +20003,7 @@ enjoy_VVI
 him_PNP
 for_PRP
 himself_PNX
-present_AJ0-NN1
+present_AJ0
 within_PRP
 us_PNP
 A_AT0
@@ -20251,7 +20251,7 @@ partnership_NN1
 with_PRP
 social_AJ0
 spirituality_NN1
-Receiving_VVG-AJ0
+Receiving_VVG
 mercy_NN1
 from_PRP
 God_NP0
@@ -20290,7 +20290,7 @@ it_PNP
 is_VBZ
 to_TO0
 be_VBI
-professionalized_VVD-AJ0
+professionalized_VVD
 experts_NN2
 at_PRP
 our_DPS
@@ -20309,7 +20309,7 @@ in_PRP
 our_DPS
 professions_NN2
 We_PNP
-fall_VVI
+fall_NN1
 into_PRP
 the_AT0
 trap_NN1
@@ -20361,7 +20361,7 @@ convinced_AJ0
 of_PRF
 my_DPS
 own_DT0
-self-concealing_AJ0-NN1
+self-concealing_AJ0
 sinfulness_NN1
 I_PNP
 cried_VVD
@@ -20689,7 +20689,7 @@ This_DT0
 is_VBZ
 not_XX0
 a_AT0
-conditional_AJ0-NN1
+conditional_AJ0
 statement_NN1
 reflecting_VVG
 some_DT0
@@ -20988,7 +20988,7 @@ our_DPS
 emotions_NN2
 affections_NN2
 and_CJC
-willpower_NN1-VVB
+willpower_NN1
 this_DT0
 means_NN0
 that_CJT
@@ -21029,7 +21029,7 @@ an_AT0
 emotional_AJ0
 than_CJS
 an_AT0
-intellectual_AJ0-NN1
+intellectual_AJ0
 life_NN1
 but_CJC
 of_PRF
@@ -21061,7 +21061,7 @@ If_CJS
 we_PNP
 are_VBB
 the_AT0
-intellectual_AJ0-NN1
+intellectual_AJ0
 type_NN1
 then_AV0
 we_PNP
@@ -21168,7 +21168,7 @@ the_AT0
 heart_NN1
 is_VBZ
 also_AV0
-cleansed_VVD-VVN
+cleansed_VVN
 To_TO0
 become_VVI
 pure_AJ0
@@ -21212,7 +21212,7 @@ to_TO0
 be_VBI
 self-seeking_AJ0
 or_CJC
-God-seeing_NN1-AJ0
+God-seeing_NN1
 But_CJC
 how_AVQ
 can_VM0
@@ -21317,7 +21317,7 @@ God_NP0
 slow_AJ0
 to_TO0
 anger_NN1
-abounding_AJ0-NN1
+abounding_NN1
 in_PRP
 love_NN1
 and_CJC
@@ -21332,7 +21332,7 @@ as_CJS
 God_NP0
 passed_VVN
 by_PRP
-Learning_VVG-NN1
+Learning_NN1
 to_TO0
 see_VVI
 God_NP0
@@ -21450,7 +21450,7 @@ restless_AJ0
 where_AVQ
 it_PNP
 is_VBZ
-mixed_AJ0
+mixed_VVN
 in_PRP
 motive_NN1
 and_CJC
@@ -21716,7 +21716,7 @@ health_NN1
 When_CJS
 Dante_NP0
 the_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 poet_NN1
 was_VBD
 exiled_VVN
@@ -21728,7 +21728,7 @@ Florence_NP0
 he_PNP
 decided_VVD
 to_TO0
-walk_VVI
+walk_NN1
 from_PRP
 Italy_NP0
 to_TO0
@@ -21898,7 +21898,7 @@ desire_NN1
 to_TO0
 be_VBI
 a_AT0
-peace-keeper_NN1-AJ0
+peace-keeper_AJ0
 But_CJC
 at_PRP
 the_AT0
@@ -21913,7 +21913,7 @@ for_PRP
 the_AT0
 terrors_NN2
 that_CJT
-awaited_VVD
+awaited_VVN
 him_PNP
 One_CRD
 night_NN1
@@ -22142,7 +22142,7 @@ strange_AJ0
 to_TO0
 pass_VVI
 from_PRP
-peace-making_NN1-AJ0
+peace-making_AJ0
 to_TO0
 being_VBG
 persecuted_VVN
@@ -22190,7 +22190,7 @@ early_AJ0
 Christians_NN2
 in_PRP
 the_AT0
-Roman_AJ0-NN1
+Roman_AJ0
 Empire_NN1
 In_PRP
 a_AT0
@@ -22379,7 +22379,7 @@ for_PRP
 me_PNP
 seems_VVZ
 to_TO0
-lie_VVI
+lie_VVB
 in_PRP
 the_AT0
 discovery_NN1
@@ -22424,7 +22424,7 @@ me_PNP
 too_AV0
 it_PNP
 seems_VVZ
-allied_AJ0
+allied_VVN
 with_PRP
 giving_VVG
 the_AT0
@@ -22526,7 +22526,7 @@ grief_NN1
 and_CJC
 deep_AJ0
 disappointments_NN2
-lie_VVI
+lie_VVB
 beneath_PRP
 the_AT0
 surface_NN1
@@ -22750,7 +22750,7 @@ the_AT0
 great_AJ0
 continent_NN1
 like_PRP
-Atlantis_NP0-NN1
+Atlantis_NN1
 had_VHD
 slid_VVD
 under_PRP
@@ -23031,7 +23031,7 @@ had_VHD
 become_VVI
 fond_AJ0
 of_PRF
-Longfellow_NP0-NN1
+Longfellow_NN1
 's_POS
 Saga_NN1
 of_PRF
@@ -23088,9 +23088,9 @@ the_AT0
 unrhymed_AJ0
 translation_NN1
 of_PRF
-Tegner_NP0-NN1
+Tegner_NP0
 's_POS
-Drapa_NP0-NN1
+Drapa_NP0
 and_CJC
 read_VVI
 I_PNP
@@ -23251,7 +23251,7 @@ has_VHZ
 the_AT0
 quality_NN1
 of_PRF
-wanting_VVG-AJ0
+wanting_VVG
 it_PNP
 again_AV0
 But_CJC
@@ -23270,7 +23270,7 @@ of_PRF
 unhappiness_NN1
 or_CJC
 grief_NN1
-Desire_NN1-VVB
+Desire_NN1
 and_CJC
 fulfilment_NN1
 In_PRP
@@ -23539,7 +23539,7 @@ his_DPS
 desires_NN2
 are_VBB
 simply_AV0
-moonshine_VVB-NN1
+moonshine_NN1
 He_PNP
 longs_VVZ
 for_PRP
@@ -23560,7 +23560,7 @@ himself_PNX
 which_DTQ
 used_VVN
 to_TO0
-cry_VVI
+cry_NN1
 for_PRP
 the_AT0
 moon_NN1
@@ -23586,7 +23586,7 @@ in_PRP
 God_NP0
 was_VBD
 all_DT0
-moonshine_VVB-NN1
+moonshine_NN1
 However_AV0
 he_PNP
 gradually_AV0
@@ -23693,7 +23693,7 @@ thing_NN1
 as_CJS
 water_NN1
 Men_NN2
-feel_VVI
+feel_VVB
 sexual_AJ0
 desire_NN1
 well_AV0
@@ -23841,7 +23841,7 @@ are_VBB
 unreasonable_AJ0
 and_CJC
 unhappy_AJ0
-Desire_NN1-VVB
+Desire_NN1
 is_VBZ
 a_AT0
 powerful_AJ0
@@ -24175,7 +24175,7 @@ may_VM0
 be_VBI
 God-given_AJ0
 and_CJC
-God-directed_NN1-AJ0
+God-directed_NN1
 Our_DPS
 desires_NN2
 are_VBB
@@ -24184,7 +24184,7 @@ course_NN1
 double-edged_AJ0
 They_PNP
 can_VM0
-drive_VVI
+drive_NN1
 us_PNP
 into_PRP
 the_AT0
@@ -24272,7 +24272,7 @@ God_NP0
 made_VVN
 me_PNP
 The_AT0
-God-shaped_AJ0-NN1
+God-shaped_AJ0
 vacuum_NN1
 Our_DPS
 deepest_AJS
@@ -24357,7 +24357,7 @@ indispensable_AJ0
 The_AT0
 right_NN1
 perfume_NN1
-deodorant_NN1-AJ0
+deodorant_NN1
 hairdo_NN1
 suit_NN1
 of_PRF
@@ -24539,7 +24539,7 @@ book_NN1
 The_AT0
 Pilgrim_NN1
 's_POS
-Regress_NN1-NP0
+Regress_NP0
 he_PNP
 says_VVZ
 that_CJT
@@ -24573,7 +24573,7 @@ painful_AJ0
 yet_AV0
 the_AT0
 mere_AJ0
-wanting_VVG-AJ0
+wanting_VVG
 is_VBZ
 felt_VVD
 to_TO0
@@ -24685,7 +24685,7 @@ as_CJS
 given_VVN
 in_PRP
 our_DPS
-present_AJ0-NN1
+present_AJ0
 mode_NN1
 of_PRF
 subjective_AJ0
@@ -24721,7 +24721,7 @@ takes_VVZ
 visible_AJ0
 form_NN1
 A_AT0
-dying_VVG-AJ0
+dying_AJ0
 man_NN1
 asked_VVD
 for_PRP
@@ -24799,7 +24799,7 @@ God_NP0
 Who_PNQ
 does_VDZ
 not_XX0
-feel_VVI
+feel_VVB
 more_AV0
 unhappy_AJ0
 at_PRP
@@ -25117,7 +25117,7 @@ communist_AJ0
 imagination_NN1
 or_CJC
 we_PNP
-fall_VVI
+fall_NN1
 into_PRP
 secular_AJ0
 despair_NN1
@@ -25171,7 +25171,7 @@ of_PRF
 ultimate_AJ0
 happiness_NN1
 The_AT0
-God-shaped_AJ0-NN1
+God-shaped_AJ0
 vacuum_NN1
 within_PRP
 us_PNP
@@ -25218,7 +25218,7 @@ contrast_NN1
 with_PRP
 the_AT0
 instinctive_AJ0
-closed_VVD
+closed_VVN
 world_NN1
 of_PRF
 the_AT0
@@ -25294,7 +25294,7 @@ is_VBZ
 the_AT0
 focus_NN1
 of_PRF
-life-shaping_AJ0-NN1
+life-shaping_AJ0
 changes_NN2
 in_PRP
 our_DPS
@@ -25383,7 +25383,7 @@ pillow_NN1
 The_AT0
 Hebrew_AJ0
 word_NN1
-rechem_NN1-VVB
+rechem_VVB
 meaning_NN1
 God_NP0
 's_POS
@@ -25486,7 +25486,7 @@ the_AT0
 will_VM0
 So_AV0
 the_AT0
-listening_VVG-NN1
+listening_VVG
 heart_NN1
 means_NN0
 the_AT0
@@ -25683,7 +25683,7 @@ eternity_NN1
 and_CJC
 of_PRF
 our_DPS
-divinely-destined_AJ0-NN1
+divinely-destined_NN1
 path_NN1
 of_PRF
 happiness_NN1
@@ -25718,7 +25718,7 @@ appetite_NN1
 for_PRP
 pleasure_NN1
 The_AT0
-drive_VVI
+drive_NN1
 for_PRP
 idol-worship_NN1
 is_VBZ
@@ -25751,7 +25751,7 @@ its_DPS
 trail_NN1
 is_VBZ
 The_AT0
-God-shaped_AJ0-NN1
+God-shaped_AJ0
 vacuum_NN1
 in_PRP
 every_AT0
@@ -26059,7 +26059,7 @@ the_AT0
 snow_NN1
 tobogganing_VVG
 and_CJC
-snowballing_AJ0-NN1
+snowballing_NN1
 and_CJC
 building_NN1
 a_AT0
@@ -26070,7 +26070,7 @@ all_DT0
 ecstasy_NN1
 And_CJC
 somewhere_AV0
-tucked_VVN-VVD
+tucked_VVD
 away_AV0
 at_PRP
 the_AT0
@@ -26251,7 +26251,7 @@ thing_NN1
 in_PRP
 itself_PNX
 The_AT0
-Elizabethan_AJ0-NN1
+Elizabethan_AJ0
 playwright_NN1
 Ben_NP0
 Jonson_NP0
@@ -26285,7 +26285,7 @@ you_PNP
 seen_VVN
 but_CJC
 the_AT0
-fall_VVI
+fall_NN1
 of_PRF
 snow_NN1
 before_PRP
@@ -26398,7 +26398,7 @@ following_AJ0
 pieces_NN2
 of_PRF
 advice_NN1
-Form_NN1-VVB
+Form_NN1
 close_AJ0
 relationships_NN2
 with_PRP
@@ -26546,7 +26546,7 @@ people_NN0
 are_VBB
 not_XX0
 emotionally_AV0
-involved_AJ0
+involved_VVN
 with_PRP
 other_AJ0
 people_NN0
@@ -26580,7 +26580,7 @@ than_CJS
 we_PNP
 do_VDB
 in_PRP
-self-isolation_NN1-AJ0
+self-isolation_NN1
 Strive_VVB
 to_TO0
 see_VVI
@@ -26628,7 +26628,7 @@ Keep_VVB
 your_DPS
 body_NN1
 fit_VVI
-Exercise_VVB-NN1
+Exercise_VVB
 your_DPS
 mind_NN1
 by_PRP
@@ -26934,7 +26934,7 @@ of_PRF
 the_AT0
 kingdom_NN1
 being_VBG
-present_AJ0-NN1
+present_AJ0
 on_PRP
 earth_NN1
 now_AV0
@@ -27449,7 +27449,7 @@ of_PRF
 God_NP0
 without_PRP
 the_AT0
-chastening_AJ0-NN1
+chastening_AJ0
 education_NN1
 of_PRF
 our_DPS
@@ -27515,7 +27515,7 @@ have_VHB
 also_AV0
 to_TO0
 be_VBI
-humbled_VVN-AJ0
+humbled_VVN
 as_CJS
 the_AT0
 poor_AJ0
@@ -27558,11 +27558,11 @@ people_NN0
 to_TO0
 be_VBI
 broken_VVN
-re-educated_VVN-AJ0
+re-educated_AJ0
 and_CJC
 redirected_VVD
 to_TO0
-walk_VVI
+walk_NN1
 in_PRP
 the_AT0
 ways_NN2
@@ -27925,7 +27925,7 @@ parable_NN1
 of_PRF
 the_AT0
 Good_AJ0
-Samaritan_NN1-NP0
+Samaritan_NN1
 shows_VVZ
 that_CJT
 a_AT0
@@ -28221,7 +28221,7 @@ courts_NN2
 of_PRF
 the_AT0
 temple_NN1
-resound_NN1-VVB
+resound_VVB
 with_PRP
 praise_NN1
 and_CJC
@@ -28320,7 +28320,7 @@ His_DPS
 praise_NN1
 may_VM0
 thither_AV0
-fly_VVI
+fly_NN1
 The_AT0
 earth_NN1
 is_VBZ
@@ -28348,7 +28348,7 @@ While_CJS
 Sunday_NP0
 provides_VVZ
 the_AT0
-flash-point_NN1-AJ0
+flash-point_NN1
 for_PRP
 our_DPS
 worship_NN1
@@ -28429,7 +28429,7 @@ sort_NN1
 To_TO0
 enroll_VVI
 thee_PNP
-Ev'n_VVB-NN1
+Ev'n_VVB
 eternitie_NN1
 is_VBZ
 too_AV0
@@ -28681,7 +28681,7 @@ before_PRP
 him_PNP
 endured_VVD
 the_AT0
-cross_VVI
+cross_NN1
 scorning_VVG
 its_DPS
 shame_NN1
@@ -28964,7 +28964,7 @@ the_AT0
 negative_AJ0
 with_PRP
 the_AT0
-transcendent_AJ0-NN1
+transcendent_NN1
 love_NN1
 of_PRF
 Christ_NP0
@@ -29156,7 +29156,7 @@ griefs_NN2
 and_CJC
 sufferings_NN2
 They_PNP
-hurt_VVI
+hurt_VVN
 sometimes_AV0
 excruciatingly_AV0
 but_CJC
@@ -29232,7 +29232,7 @@ remain_VVI
 human_AJ0
 beings_NN2
 with_PRP
-quivering_AJ0-VVG
+quivering_VVG
 flesh_NN1
 and_CJC
 throbbing_AJ0
@@ -29391,7 +29391,7 @@ emotions_NN2
 Instead_AV0
 we_PNP
 become_VVI
-integrated_AJ0
+integrated_VVN
 and_CJC
 whole_AJ0
 persons_NN2
@@ -29538,7 +29538,7 @@ The_AT0
 early_AJ0
 Christian_AJ0
 leader_NN1
-Origen_NN1-NP0
+Origen_NN1
 commented_VVD
 on_PRP
 these_DT0
@@ -29561,7 +29561,7 @@ of_PRF
 duty_NN1
 and_CJC
 fits_VVZ
-seemly_AV0-AJ0
+seemly_AJ0
 actions_NN2
 with_PRP
 his_DPS
@@ -29623,7 +29623,7 @@ saint_NN1
 is_VBZ
 one_CRD
 mighty_AJ0
-integrated_AJ0
+integrated_VVN
 prayer_NN1
 Significantly_AV0
 Paul_NP0
@@ -29647,7 +29647,7 @@ thanks_NN2
 in_PRP
 all_DT0
 circumstances_NN2
-Gratitude_NN1-NP0
+Gratitude_NP0
 to_TO0
 God_NP0
 is_VBZ
@@ -29786,7 +29786,7 @@ become_VVI
 literally_AV0
 thankful_AJ0
 persons_NN2
-transfused_VVN-VVD
+transfused_VVN
 by_PRP
 a_AT0
 new_AJ0
@@ -29988,7 +29988,7 @@ that_CJT
 never_AV0
 can_VM0
 fail_VVI
-Till_CJS-PRP
+Till_CJS
 life_NN1
 shall_VM0
 cease_VVI
@@ -30190,7 +30190,7 @@ as_CJS
 the_AT0
 search_NN1
 for_PRP
-Utopia_NP0-NN1
+Utopia_NP0
 In_PRP
 the_AT0
 modern_AJ0
@@ -30211,7 +30211,7 @@ self-knowledge_NN1
 or_CJC
 at_PRP
 least_AV0
-self-analysis_NN1-AJ0
+self-analysis_NN1
 And_CJC
 yet_AV0
 despite_PRP
@@ -30477,7 +30477,7 @@ should_VM0
 never_AV0
 admit_VVI
 to_TO0
-hurt_VVI
+hurt_VVN
 or_CJC
 personal_AJ0
 problems_NN2
@@ -30688,7 +30688,7 @@ these_DT0
 words_NN2
 to_TO0
 God_NP0
-Self-surrender_NN1-AJ0
+Self-surrender_NN1
 is_VBZ
 simply_AV0
 giving_VVG
@@ -30711,7 +30711,7 @@ friends_NN2
 my_DPS
 knowledge_NN1
 my_DPS
-accumulated_AJ0
+accumulated_VVN
 belongings_NN2
 all_DT0
 of_PRF
@@ -30773,7 +30773,7 @@ to_TO0
 you_PNP
 and_CJC
 to_TO0
-feel_VVI
+feel_VVB
 the_AT0
 happy_AJ0
 liberation_NN1
@@ -30841,7 +30841,7 @@ going_VVG
 in_PRP
 that_CJT
 direction_NN1
-Self-surrender_NN1-AJ0
+Self-surrender_NN1
 also_AV0
 means_NN0
 to_TO0
@@ -30899,7 +30899,7 @@ world_NN1
 we_PNP
 so_AV0
 often_AV0
-feel_VVI
+feel_VVB
 alone_AJ0
 and_CJC
 misunderstood_VVN
@@ -30911,7 +30911,7 @@ song_NN1
 by_PRP
 the_AT0
 group_NN1
-Supertramp_NN1-NP0
+Supertramp_NP0
 express_VVI
 the_AT0
 feelings_NN2
@@ -31340,7 +31340,7 @@ of_PRF
 thinking_VVG
 does_VDZ
 not_XX0
-lie_VVI
+lie_VVB
 at_PRP
 the_AT0
 disposal_NN1
@@ -31659,7 +31659,7 @@ slipping_VVG
 away_AV0
 from_PRP
 a_AT0
-sleeping_VVG
+sleeping_NN1
 embrace_VVI
 silently_AV0
 shutting_VVG
@@ -31693,7 +31693,7 @@ to_TO0
 realize_VVI
 is_VBZ
 to_TO0
-feel_VVI
+feel_VVB
 ourselves_PNX
 at_PRP
 home_NN1
@@ -31747,7 +31747,7 @@ ultimate_AJ0
 happiness_NN1
 does_VDZ
 not_XX0
-lie_VVI
+lie_VVB
 within_PRP
 ourselves_PNX
 but_CJC
@@ -31938,7 +31938,7 @@ we_PNP
 see_VVI
 our_DPS
 lives_NN2
-oriented_VVN
+oriented_VVD
 with_PRP
 his_DPS
 life_NN1
@@ -32268,7 +32268,7 @@ greater_AJC
 There_EX0
 is_VBZ
 the_AT0
-self-denial_AJ0-NN1
+self-denial_NN1
 of_PRF
 the_AT0
 musician_NN1
@@ -32514,7 +32514,7 @@ whose_DTQ
 hardened_AJ0
 hearts_NN2
 are_VBB
-calloused_VVN-AJ0
+calloused_AJ0
 and_CJC
 unfeeling_AJ0
 and_CJC
@@ -32781,7 +32781,7 @@ my_DPS
 hand_NN1
 Therefore_AV0
 not_XX0
-sealed_AJ0
+sealed_VVN
 but_CJC
 with_PRP
 open_AJ0
@@ -32824,7 +32824,7 @@ these_DT0
 labyrinths_NN2
 not_XX0
 my_DPS
-grovelling_AJ0-NN1
+grovelling_NN1
 wit_NN1
 But_CJC
 thy_DPS
@@ -32865,7 +32865,7 @@ getting_VVG
 lost_VVN
 in_PRP
 the_AT0
-Cretan_AJ0-NN1
+Cretan_NN1
 labyrinth_NN1
 by_PRP
 holding_VVG
@@ -32946,7 +32946,7 @@ labyrinth_NN1
 of_PRF
 the_AT0
 world_NN1
-Living_VVG-NN1
+Living_VVG
 a_AT0
 life_NN1
 of_PRF
@@ -33001,7 +33001,7 @@ in_PRP
 God_NP0
 's_POS
 presence_NN1
-Desire_NN1-VVB
+Desire_NN1
 for_PRP
 God_NP0
 prepares_VVZ
@@ -33076,7 +33076,7 @@ own_DT0
 needs_VVZ
 We_PNP
 live_VVI
-exhausted_VVN-AJ0
+exhausted_VVN
 frustrated_AJ0
 perplexing_AJ0
 lives_NN2
@@ -33131,7 +33131,7 @@ does_VDZ
 not_XX0
 change_NN1
 like_PRP
-shifting_AJ0-VVG
+shifting_AJ0
 shadows_NN2
 According_VVG
 to_TO0
@@ -33487,7 +33487,7 @@ rest_NN1
 in_PRP
 God_NP0
 alone_AJ0
-Resting_VVG-NN1
+Resting_NN1
 and_CJC
 delighting_VVG
 in_PRP
@@ -33546,7 +33546,7 @@ hard_AJ0
 work_NN1
 when_CJS
 we_PNP
-feel_VVI
+feel_VVB
 spiritually_AV0
 dry_AJ0
 and_CJC
@@ -33584,7 +33584,7 @@ it_PNP
 so_AV0
 diverse_AJ0
 so_AV0
-varied_AJ0
+varied_VVN
 in_PRP
 its_DPS
 character_NN1
@@ -33676,7 +33676,7 @@ begins_VVZ
 to_TO0
 empower_VVI
 our_DPS
-prayer-filled_AJ0-NN1
+prayer-filled_NN1
 lives_NN2
 This_DT0
 is_VBZ
@@ -33691,7 +33691,7 @@ our_DPS
 cup_NN1
 runs_VVZ
 over_PRP
-Growing_VVG-AJ0
+Growing_VVG
 in_PRP
 our_DPS
 love_NN1
@@ -34034,7 +34034,7 @@ we_PNP
 have_VHB
 developed_VVN
 a_AT0
-calloused_VVN-AJ0
+calloused_AJ0
 conscience_NN1
 or_CJC
 have_VHB
@@ -34322,7 +34322,7 @@ that_CJT
 emotions_NN2
 are_VBB
 reformed_AJ0
-cleansed_VVD-VVN
+cleansed_VVN
 redirected_VVD
 and_CJC
 redeemed_VVN

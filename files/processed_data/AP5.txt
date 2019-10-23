@@ -284,7 +284,7 @@ the_AT0
 implementation_NN1
 of_PRF
 the_AT0
-Divorce_VVB-NN1
+Divorce_NN1
 Law_NN1
 Reform_NN1
 Act_NN1
@@ -303,7 +303,7 @@ at_PRP
 first_ORD
 marriage_NN1
 has_VHZ
-increased_AJ0
+increased_VVN
 rapidly_AV0
 in_PRP
 the_AT0
@@ -315,7 +315,7 @@ Between_PRP
 and_CJC
 1981_CRD
 the_AT0
-average_AJ0-NN1
+average_AJ0
 age_NN1
 at_PRP
 first_ORD
@@ -422,7 +422,7 @@ people_NN0
 eventually_AV0
 marry_VVI
 If_CJS
-present_AJ0-NN1
+present_AJ0
 marriage_NN1
 rates_NN2
 continue_VVI
@@ -473,7 +473,7 @@ and_CJC
 Cohabitation_NN1
 The_AT0
 sharp_AJ0
-fall_VVI
+fall_NN1
 in_PRP
 marriage_NN1
 rates_NN2
@@ -518,7 +518,7 @@ by_PRP
 1988_CRD
 this_DT0
 had_VHD
-increased_AJ0
+increased_VVN
 to_TO0
 8%_NN0
 and_CJC
@@ -539,7 +539,7 @@ married_AJ0
 women_NN2
 the_AT0
 period_NN1
-increased_AJ0
+increased_VVN
 only_AV0
 slightly_AV0
 from_PRP
@@ -552,7 +552,7 @@ to_TO0
 months_NN2
 in_PRP
 1987_CRD
-Living_VVG-NN1
+Living_VVG
 together_AV0
 before_PRP
 marriage_NN1
@@ -639,7 +639,7 @@ to_TO0
 remarriage_NN1
 has_VHZ
 also_AV0
-increased_AJ0
+increased_VVN
 in_PRP
 the_AT0
 1980s_CRD
@@ -655,7 +655,7 @@ in_PRP
 1987_CRD
 Haskey_NP0
 and_CJC
-Kiernan_NP0-NN1
+Kiernan_NP0
 1989_CRD
 There_EX0
 are_VBB
@@ -671,7 +671,7 @@ people_NN0
 single_AJ0
 separated_VVN
 and_CJC
-divorced_AJ0
+divorced_VVN
 cohabiting_VVG
 in_PRP
 Great_AJ0
@@ -754,7 +754,7 @@ of_PRF
 births_NN2
 outside_PRP
 marriage_NN1
-increased_AJ0
+increased_VVN
 from_PRP
 63_CRD
 thousand_CRD
@@ -772,7 +772,7 @@ they_PNP
 represent_VVI
 more_AV0
 than_CJS
-quadrupled_VVN-VVD
+quadrupled_VVN
 from_PRP
 7%_NN0
 to_TO0
@@ -887,7 +887,7 @@ by_PRP
 both_AV0
 parents_NN2
 has_VHZ
-increased_AJ0
+increased_VVN
 from_PRP
 46%_NN0
 in_PRP
@@ -1129,7 +1129,7 @@ example_NN1
 in_PRP
 1964_CRD
 the_AT0
-average_AJ0-NN1
+average_AJ0
 age_NN1
 of_PRF
 mothers_NN2
@@ -1158,7 +1158,7 @@ at_PRP
 Among_PRP
 married_AJ0
 women_NN2
-average_AJ0-NN1
+average_AJ0
 age_NN1
 has_VHZ
 risen_VVN
@@ -1195,7 +1195,7 @@ TPFR_NP0
 This_DT0
 measures_NN2
 the_AT0
-average_AJ0-NN1
+average_AJ0
 number_NN1
 of_PRF
 children_NN2
@@ -1265,7 +1265,7 @@ fertility_NN1
 behaviour_NN1
 is_VBZ
 the_AT0
-average_AJ0-NN1
+average_AJ0
 completed_VVN
 family_NN1
 size_NN1
@@ -1388,7 +1388,7 @@ lower_AJC
 than_CJS
 the_AT0
 UK_NP0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 1.8_CRD
 Mothers_NN2
@@ -1397,7 +1397,7 @@ in_PRP
 India_NP0
 had_VHD
 an_AT0
-average_AJ0-NN1
+average_AJ0
 fertility_NN1
 of_PRF
 2.4_CRD
@@ -1434,12 +1434,12 @@ occurred_VVD
 among_PRP
 Caribbean_AJ0
 Indian_AJ0
-Pakistani_NN1-AJ0
+Pakistani_AJ0
 and_CJC
 Bangladeshi_AJ0
 born_VVN
 women_NN2
-Divorce_VVB-NN1
+Divorce_NN1
 England_NP0
 &_CJC
 Wales_NP0
@@ -1472,7 +1472,7 @@ of_PRF
 per_UNC
 thousand_CRD
 marriages_NN2
-Divorce_VVB-NN1
+Divorce_NN1
 rates_NN2
 doubled_VVN
 in_PRP
@@ -1499,7 +1499,7 @@ In_PRP
 1961_CRD
 before_PRP
 the_AT0
-Divorce_VVB-NN1
+Divorce_NN1
 Law_NN1
 Reform_NN1
 Act_NN1
@@ -1597,7 +1597,7 @@ married_AJ0
 in_PRP
 1971_CRD
 were_VBD
-divorced_AJ0
+divorced_VVN
 by_PRP
 their_DPS
 6th_ORD
@@ -1611,7 +1611,7 @@ in_PRP
 1981_CRD
 10%_NN0
 had_VHD
-divorced_AJ0
+divorced_VVN
 within_PRP
 4.5_CRD
 years_NN2
@@ -1647,7 +1647,7 @@ in_PRP
 divorce_NN1
 Haskey_NP0
 1989_CRD
-Redivorce_NN1-VVB
+Redivorce_VVB
 is_VBZ
 becoming_VVG
 increasingly_AV0
@@ -1688,7 +1688,7 @@ the_AT0
 divorces_NN2
 in_PRP
 1989_CRD
-involved_AJ0
+involved_VVN
 a_AT0
 second_ORD
 or_CJC
@@ -1703,7 +1703,7 @@ Table_NN1
 4_CRD
 Children_NN2
 and_CJC
-Divorce_VVB-NN1
+Divorce_NN1
 One_CRD
 in_PRP
 four_CRD
@@ -1739,7 +1739,7 @@ under_PRP
 with_PRP
 parents_NN2
 who_PNQ
-divorced_AJ0
+divorced_VVN
 was_VBD
 148_CRD
 thousand_CRD
@@ -1752,7 +1752,7 @@ aged_PRP
 under_PRP
 five_CRD
 If_CJS
-present_AJ0-NN1
+present_AJ0
 trends_NN2
 continue_VVI
 it_PNP
@@ -1845,7 +1845,7 @@ parent_NN1
 families_NN2
 have_VHB
 also_AV0
-increased_AJ0
+increased_VVN
 as_CJS
 a_AT0
 proportion_NN1
@@ -1870,7 +1870,7 @@ by_PRP
 a_AT0
 lone_AJ0
 parent_NN1
-increased_AJ0
+increased_VVN
 from_PRP
 8%_NN0
 in_PRP
@@ -1938,7 +1938,7 @@ single_AJ0
 mothers_NN2
 In_PRP
 1989_CRD
-divorced_AJ0
+divorced_VVN
 women_NN2
 represented_VVN
 the_AT0
@@ -1969,7 +1969,7 @@ fathers_NN2
 the_AT0
 smallest_AJS
 groups_NN2
-Divorced_AJ0-VVN
+Divorced_VVN
 and_CJC
 never_AV0
 married_AJ0
@@ -2016,7 +2016,7 @@ because_CJS
 remarriage_NN1
 rates_NN2
 among_PRP
-divorced_AJ0
+divorced_VVN
 women_NN2
 have_VHB
 fallen_VVN
@@ -2095,14 +2095,14 @@ have_VHB
 contributed_VVN
 to_TO0
 this_DT0
-fall_VVI
+fall_NN1
 Table_NN1
 7_CRD
 Single_AJ0
 mothers_NN2
 tend_VVB
 on_PRP
-average_AJ0-NN1
+average_AJ0
 to_TO0
 be_VBI
 younger_AJC
@@ -2131,7 +2131,7 @@ and_CJC
 years_NN2
 for_PRP
 separated_VVN
-divorced_AJ0
+divorced_VVN
 and_CJC
 widowed_AJ0
 mothers_NN2
@@ -2176,7 +2176,7 @@ parent_NN1
 families_NN2
 with_PRP
 an_AT0
-average_AJ0-NN1
+average_AJ0
 1.6_CRD
 dependent_AJ0
 children_NN2
@@ -2226,7 +2226,7 @@ compared_VVN
 with_PRP
 the_AT0
 national_AJ0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 14%_NN0
 inner_AJ0
@@ -2241,7 +2241,7 @@ lone_AJ0
 parent_NN1
 families_NN2
 The_AT0
-average_AJ0-NN1
+average_AJ0
 for_PRP
 inner_AJ0
 London_NP0
@@ -2373,7 +2373,7 @@ in_PRP
 receipt_NN1
 of_PRF
 Supplementary_AJ0
-Benefit_NN1-VVB
+Benefit_NN1
 SB_NP0
 or_CJC
 had_VHD
@@ -2431,7 +2431,7 @@ about_PRP
 10%_NN0
 of_PRF
 marriages_NN2
-involved_AJ0
+involved_VVN
 the_AT0
 first_ORD
 marriage_NN1
@@ -2440,11 +2440,11 @@ one_CRD
 party_NN1
 to_TO0
 a_AT0
-divorced_AJ0
+divorced_VVN
 partner_NN1
 and_CJC
 4%_NN0
-involved_AJ0
+involved_VVN
 the_AT0
 remarriage_NN1
 of_PRF
@@ -2469,7 +2469,7 @@ of_PRF
 marriages_NN2
 per_UNC
 thousand_CRD
-divorced_AJ0
+divorced_VVN
 persons_NN2
 have_VHB
 fallen_VVN
@@ -2510,7 +2510,7 @@ and_CJC
 36%_NN0
 of_PRF
 men_NN2
-divorced_AJ0
+divorced_VVN
 during_PRP
 the_AT0
 period_NN1
@@ -2786,7 +2786,7 @@ they_PNP
 are_VBB
 grown_VVN
 up_AVP
-Kiernan_NP0-NN1
+Kiernan_NP0
 &_CJC
 Wicks_NP0
 1990_CRD
@@ -2895,7 +2895,7 @@ total_AJ0
 population_NN1
 by_PRP
 2031_CRD
-Increases_NN2-VVZ
+Increases_NN2
 in_PRP
 the_AT0
 population_NN1
@@ -2948,7 +2948,7 @@ years_NN2
 because_CJS
 within_PRP
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 ageing_AJ0
 of_PRF
 the_AT0
@@ -3290,7 +3290,7 @@ mothers_NN2
 work_NN1
 full_AJ0
 time_NN1
-Increasing_AJ0-VVG
+Increasing_AJ0
 old_AJ0
 age_NN1
 is_VBZ
@@ -3453,7 +3453,7 @@ The_AT0
 elderly_AJ0
 population_NN1
 past_NN1
-present_AJ0-NN1
+present_AJ0
 and_CJC
 future_NN1
 Figure_NN1
@@ -3502,7 +3502,7 @@ situation_NN1
 of_PRF
 young_AJ0
 people_NN0
-Rising_VVG-AJ0
+Rising_VVG
 unemployment_NN1
 and_CJC
 the_AT0
@@ -3578,7 +3578,7 @@ has_VHZ
 been_VBN
 the_AT0
 dramatic_AJ0
-fall_VVI
+fall_NN1
 in_PRP
 youth_NN1
 employment_NN1
@@ -4307,7 +4307,7 @@ olds_NN2
 after_PRP
 reaching_VVG
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 school_NN1
 leaving_VVG
 age_NN1
@@ -4609,7 +4609,7 @@ this_DT0
 Special_AJ0
 Report_NN1
 Kathleen_NP0
-Kiernan_NP0-NN1
+Kiernan_NP0
 and_CJC
 Malcolm_NP0
 Wicks_NP0
@@ -4648,7 +4648,7 @@ they_PNP
 identify_VVI
 and_CJC
 explore_VVI
-thought-provoking_NN1-AJ0
+thought-provoking_AJ0
 questions_NN2
 about_PRP
 the_AT0
@@ -4681,7 +4681,7 @@ of_PRF
 the_AT0
 next_ORD
 century_NN1
-Supporting_AJ0-VVG
+Supporting_VVG
 our_DPS
 Children_NN2
 On_PRP
@@ -4693,7 +4693,7 @@ Government_NN1
 published_VVN
 their_DPS
 Child_NN1
-Support_NN1-VVB
+Support_NN1
 Bill_NP0
 Their_DPS
 proposals_NN2
@@ -4706,7 +4706,7 @@ maintenance_NN1
 and_CJC
 a_AT0
 Child_NN1
-Support_NN1-VVB
+Support_NN1
 Agency_NN1
 to_TO0
 assess_VVI
@@ -5151,7 +5151,7 @@ FORUM_NN1
 In_PRP
 1988_CRD
 FPSC_NP0
-merged_VVN-VVD
+merged_VVN
 with_PRP
 Family_NN1
 Forum_NN1
@@ -5277,14 +5277,14 @@ family_NN1
 and_CJC
 community_NN1
 care_NN1
-Support_NN1-VVB
+Support_NN1
 is_VBZ
 also_AV0
 provided_VVN
 by_PRP
 the_AT0
 Joseph_NP0
-Rowntree_NP0-NN1
+Rowntree_NP0
 Foundation_NN1
 the_AT0
 Economic_AJ0
@@ -5349,7 +5349,7 @@ population_NN1
 Life_NN1
 expectancy_NN1
 has_VHZ
-increased_AJ0
+increased_VVN
 dramatically_AV0
 this_DT0
 century_NN1
@@ -5364,7 +5364,7 @@ expect_VVI
 to_TO0
 live_VVI
 an_AT0
-average_AJ0-NN1
+average_AJ0
 53_CRD
 years_NN2
 Those_DT0
@@ -5386,7 +5386,7 @@ birth_NN1
 is_VBZ
 now_AV0
 an_AT0
-average_AJ0-NN1
+average_AJ0
 72_CRD
 years_NN2
 for_PRP
@@ -5447,7 +5447,7 @@ Britain_NP0
 Numbers_NN2
 and_CJC
 trends_NN2
-Increases_NN2-VVZ
+Increases_NN2
 in_PRP
 the_AT0
 elderly_AJ0
@@ -5643,7 +5643,7 @@ for_PRP
 both_AV0
 sexes_NN2
 the_AT0
-retired_AJ0
+retired_VVD
 population_NN1
 is_VBZ
 therefore_AV0
@@ -5788,7 +5788,7 @@ of_PRF
 the_AT0
 elderly_AJ0
 population_NN1
-overall_AJ0-NN1
+overall_AJ0
 At_PRP
 the_AT0
 time_NN1
@@ -5863,7 +5863,7 @@ some_DT0
 around_PRP
 5%_NN0
 This_DT0
-fall_VVI
+fall_NN1
 reflects_VVZ
 in_PRP
 particular_AJ0
@@ -6010,7 +6010,7 @@ it_PNP
 once_AV0
 was_VBD
 The_AT0
-present_AJ0-NN1
+present_AJ0
 number_NN1
 of_PRF
 centenarians_NN2
@@ -6041,7 +6041,7 @@ population_NN1
 in_PRP
 Britain_NP0
 are_VBB
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 all_DT0
 developed_VVN
@@ -6095,7 +6095,7 @@ is_VBZ
 however_AV0
 slightly_AV0
 below_AV0
-average_AJ0-NN1
+average_AJ0
 for_PRP
 the_AT0
 whole_AJ0
@@ -6156,7 +6156,7 @@ similar_AJ0
 patterns_NN2
 in_PRP
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 proportions_NN2
 of_PRF
 elderly_AJ0
@@ -6187,7 +6187,7 @@ in_PRP
 1988_CRD
 provided_VVN
 an_AT0
-average_AJ0-NN1
+average_AJ0
 18.4%_UNC
 of_PRF
 the_AT0
@@ -6210,7 +6210,7 @@ migration_NN1
 and_CJC
 resettlement_NN1
 of_PRF
-retired_AJ0
+retired_VVD
 people_NN0
 The_AT0
 areas_NN2
@@ -6254,7 +6254,7 @@ Wight_NP0
 and_CJC
 Dorset_NP0
 are_VBB
-retired_AJ0
+retired_VVD
 and_CJC
 more_AV0
 than_CJS
@@ -6277,7 +6277,7 @@ the_AT0
 lowest_AJS
 proportions_NN2
 of_PRF
-retired_AJ0
+retired_VVD
 with_PRP
 only_AV0
 around_PRP
@@ -6442,7 +6442,7 @@ The_AT0
 elderly_AJ0
 population_NN1
 past_NN1
-present_AJ0-NN1
+present_AJ0
 and_CJC
 future_NN1
 Great_AJ0
@@ -6587,7 +6587,7 @@ higher_AJC
 proportions_NN2
 widowed_AJ0
 The_AT0
-present_AJ0-NN1
+present_AJ0
 generation_NN1
 or_CJC
 cohort_NN1
@@ -6816,7 +6816,7 @@ more_AV0
 likely_AJ0
 to_TO0
 be_VBI
-divorced_AJ0
+divorced_VVN
 Women_NN2
 are_VBB
 less_AV0
@@ -6935,7 +6935,7 @@ in_PRP
 44_CRD
 males_NN2
 were_VBD
-divorced_AJ0
+divorced_VVN
 by_PRP
 2025_CRD
 these_DT0
@@ -7107,7 +7107,7 @@ men_NN2
 and_CJC
 a_AT0
 much_DT0
-increased_AJ0
+increased_VVN
 likelihood_NN1
 both_AV0
 of_PRF
@@ -7185,12 +7185,12 @@ and_CJC
 willingness_NN1
 to_TO0
 assume_VVI
-caring_VVG-NN1
+caring_NN1
 responsibilities_NN2
 for_PRP
 aged_PRP
 parents_NN2
-Housing_NN1-VVG
+Housing_NN1
 Most_DT0
 elderly_AJ0
 people_NN0
@@ -7347,7 +7347,7 @@ According_VVG
 to_TO0
 the_AT0
 1986_CRD
-English_AJ0-NN1
+English_AJ0
 House_NN1
 Condition_NN1
 Survey_NN1
@@ -7552,12 +7552,12 @@ Household_NN1
 Survey_NN1
 1988_CRD
 Consumer_NN1
-durables_NN2-VVZ
+durables_VVZ
 Ownership_NN1
 of_PRF
 particular_AJ0
 consumer_NN1
-durables_NN2-VVZ
+durables_VVZ
 is_VBZ
 a_AT0
 further_AJC
@@ -7685,7 +7685,7 @@ disability_NN1
 than_CJS
 do_VDB
 not_XX0
-Increasing_AJ0-VVG
+Increasing_AJ0
 disability_NN1
 with_PRP
 age_NN1
@@ -7710,7 +7710,7 @@ aged_PRP
 are_VBB
 unable_AJ0
 to_TO0
-walk_VVI
+walk_NN1
 down_AVP
 the_AT0
 road_NN1
@@ -7744,7 +7744,7 @@ of_PRF
 disability_NN1
 remain_VVI
 constant_AJ0
-average_AJ0-NN1
+average_AJ0
 levels_NN2
 of_PRF
 disability_NN1
@@ -7881,7 +7881,7 @@ Table_NN1
 Ownership_NN1
 of_PRF
 consumer_NN1
-durables_NN2-VVZ
+durables_VVZ
 by_PRP
 household_NN1
 type_NN1
@@ -7975,7 +7975,7 @@ household_NN1
 spend_VVI
 more_AV0
 time_NN1
-caring_VVG-NN1
+caring_NN1
 than_CJS
 those_DT0
 with_PRP
@@ -7989,7 +7989,7 @@ the_AT0
 peak_NN1
 age_NN1
 for_PRP
-caring_VVG-NN1
+caring_NN1
 is_VBZ
 45\xe2\x80\x9364_CRD
 with_PRP
@@ -8014,7 +8014,7 @@ proportionately_AV0
 spend_VVI
 more_AV0
 time_NN1
-caring_VVG-NN1
+caring_NN1
 59%_NN0
 of_PRF
 elderly_AJ0
@@ -8026,7 +8026,7 @@ or_CJC
 more_AV0
 per_UNC
 week_NN1
-caring_VVG-NN1
+caring_NN1
 This_DT0
 mainly_AV0
 reflects_VVZ
@@ -8088,7 +8088,7 @@ there_EX0
 has_VHZ
 been_VBN
 a_AT0
-threefold_AV0
+threefold_AJ0
 increase_NN1
 since_CJS
 1980_CRD
@@ -8241,7 +8241,7 @@ of_PRF
 Henwood_NP0
 et_UNC
 al._UNC
-Briefing_NN1-VVG
+Briefing_VVG
 Paper_NN1
 12_CRD
 King_NP0
@@ -8308,7 +8308,7 @@ in_PRP
 the_AT0
 White_AJ0
 Paper_NN1
-Caring_VVG-NN1
+Caring_VVG
 for_PRP
 People_NN0
 Community_NN1
@@ -8334,14 +8334,14 @@ private_AJ0
 residential_AJ0
 care_NN1
 and_CJC
-nursing_AJ0-NN1
+nursing_NN1
 homes_NN2
-Caring_VVG-NN1
+Caring_VVG
 for_PRP
 People_NN0
 was_VBD
 originally_AV0
-scheduled_VVN-AJ0
+scheduled_VVN
 for_PRP
 implementation_NN1
 in_PRP
@@ -8366,11 +8366,11 @@ in_PRP
 over_PRP
 two_CRD
 years_NN2
-Public_AJ0-NN1
+Public_AJ0
 Expenditure_NN1
 In_PRP
 1987/88_CRD
-English_AJ0-NN1
+English_AJ0
 local_AJ0
 authorities_NN2
 spent_VVN
@@ -8449,7 +8449,7 @@ the_AT0
 health_NN1
 service_NN1
 on_PRP
-average_AJ0-NN1
+average_AJ0
 more_AV0
 than_CJS
 13_CRD
@@ -8552,7 +8552,7 @@ proportions_NN2
 are_VBB
 projected_AJ0
 to_TO0
-fall_VVI
+fall_NN1
 again_AV0
 by_PRP
 2001_CRD
@@ -8868,7 +8868,7 @@ early_AJ0
 retirement_NN1
 Standard_AJ0
 of_PRF
-Living_VVG-NN1
+Living_VVG
 A_AT0
 significant_AJ0
 number_NN1
@@ -8896,7 +8896,7 @@ tested_VVN
 top_NN1
 up_AVP
 Income_NN1
-Support_NN1-VVB
+Support_NN1
 in_PRP
 1989\xe2\x80\x9390_CRD
 and_CJC
@@ -8968,7 +8968,7 @@ young_AJ0
 elderly_AJ0
 as_CJS
 they_PNP
-retired_AJ0
+retired_VVD
 when_CJS
 earnings_NN2
 were_VBD
@@ -8987,7 +8987,7 @@ pensions_NN2
 In_PRP
 1989_CRD
 the_AT0
-average_AJ0-NN1
+average_AJ0
 weekly_AJ0
 net_AJ0
 disposable_AJ0
@@ -8995,7 +8995,7 @@ income_NN1
 of_PRF
 a_AT0
 single_AJ0
-retired_AJ0
+retired_VVD
 person_NN1
 mainly_AV0
 dependent_AJ0
@@ -9007,7 +9007,7 @@ was_VBD
 and_CJC
 for_PRP
 a_AT0
-retired_AJ0
+retired_VVD
 couple_NN1
 \xc2\xa3100.74_NN0
 This_DT0
@@ -9018,7 +9018,7 @@ and_CJC
 respectively_AV0
 of_PRF
 the_AT0
-average_AJ0-NN1
+average_AJ0
 weekly_AJ0
 disposable_AJ0
 income_NN1
@@ -9053,7 +9053,7 @@ The_AT0
 state_NN1
 pension_NN1
 is_VBZ
-increased_AJ0
+increased_VVN
 annually_AV0
 in_PRP
 line_NN1
@@ -9073,7 +9073,7 @@ also_AV0
 linked_VVN
 to_TO0
 the_AT0
-average_AJ0-NN1
+average_AJ0
 rise_NN1
 in_PRP
 earnings_NN2
@@ -9130,7 +9130,7 @@ FAMILY_NN1
 POLICY_NN1
 STUDIES_NN2
 CENTRE_NN1
-Caring_VVG-NN1
+Caring_VVG
 for_PRP
 Children_NN2
 The_AT0
@@ -9160,7 +9160,7 @@ children_NN2
 under_PRP
 3_CRD
 receive_VVI
-daycare_NN1-VVB
+daycare_NN1
 compared_VVN
 to_TO0
 44%_NN0
@@ -9168,7 +9168,7 @@ of_PRF
 children_NN2
 in_PRP
 Denmark_NP0
-Caring_VVG-NN1
+Caring_VVG
 for_PRP
 Children_NN2
 presents_VVZ
@@ -9285,7 +9285,7 @@ Today_AV0
 Marriage_NN1
 Family_NN1
 formation_NN1
-Divorce_VVB-NN1
+Divorce_NN1
 Employment_NN1
 Extended_AJ0
 family_NN1
@@ -9306,7 +9306,7 @@ Characteristics_NN2
 of_PRF
 elderly_AJ0
 households_NN2
-Housing_NN1-VVG
+Housing_NN1
 Disability_NN1
 Income_NN1
 and_CJC
@@ -9369,7 +9369,7 @@ and_CJC
 employment_NN1
 Leisure_NN1
 Money_NN1
-Drinking_NN1-VVG
+Drinking_VVG
 and_CJC
 smoking_VVG
 6_CRD
@@ -9571,7 +9571,7 @@ they_PNP
 may_VM0
 be_VBI
 widowed_AJ0
-divorced_AJ0
+divorced_VVN
 separated_VVN
 or_CJC
 single_AJ0
@@ -9674,7 +9674,7 @@ families_NN2
 in_PRP
 Great_AJ0
 Britain_NP0
-caring_VVG-NN1
+caring_NN1
 for_PRP
 more_AV0
 than_CJS
@@ -9800,7 +9800,7 @@ a_AT0
 lone_AJ0
 parent_NN1
 has_VHZ
-increased_AJ0
+increased_VVN
 from_PRP
 8_CRD
 per_UNC
@@ -9848,7 +9848,7 @@ of_PRF
 lone_AJ0
 mothers_NN2
 are_VBB
-divorced_AJ0
+divorced_VVN
 or_CJC
 separated_VVN
 By_PRP
@@ -9863,7 +9863,7 @@ families_NN2
 were_VBD
 headed_VVN
 by_PRP
-divorced_AJ0
+divorced_VVN
 mothers_NN2
 Single_AJ0
 mothers_NN2
@@ -9891,7 +9891,7 @@ whom_PNQ
 two_CRD
 thirds_CRD
 are_VBB
-divorced_AJ0
+divorced_VVN
 or_CJC
 separated_VVN
 and_CJC
@@ -9988,7 +9988,7 @@ of_PRF
 one_CRD
 parent_NN1
 families_NN2
-increased_AJ0
+increased_VVN
 by_PRP
 35_CRD
 per_UNC
@@ -10000,7 +10000,7 @@ this_DT0
 change_NN1
 was_VBD
 a_AT0
-fall_VVI
+fall_NN1
 in_PRP
 the_AT0
 number_NN1
@@ -10012,7 +10012,7 @@ the_AT0
 groups_NN2
 that_CJT
 have_VHB
-increased_AJ0
+increased_VVN
 the_AT0
 largest_AJS
 single_AJ0
@@ -10150,7 +10150,7 @@ estimates_NN2
 suggest_VVI
 that_CJT
 the_AT0
-average_AJ0-NN1
+average_AJ0
 duration_NN1
 of_PRF
 lone_AJ0
@@ -10164,7 +10164,7 @@ five_CRD
 years_NN2
 Millar_NP0
 1989_CRD
-Divorced_AJ0-VVN
+Divorced_VVN
 and_CJC
 never_AV0
 mothers_NN2
@@ -10186,7 +10186,7 @@ of_PRF
 one_CRD
 parent_NN1
 families_NN2
-increased_AJ0
+increased_VVN
 by_PRP
 35_CRD
 per_UNC
@@ -10195,7 +10195,7 @@ families_NN2
 headed_VVN
 by_PRP
 women_NN2
-increased_AJ0
+increased_VVN
 more_AV0
 than_CJS
 families_NN2
@@ -10228,7 +10228,7 @@ others_NN2
 the_AT0
 group_NN1
 which_DTQ
-increased_AJ0
+increased_VVN
 the_AT0
 most_AV0
 between_PRP
@@ -10237,7 +10237,7 @@ and_CJC
 1986_CRD
 was_VBD
 of_PRF
-divorced_AJ0
+divorced_VVN
 mothers_NN2
 almost_AV0
 80_CRD
@@ -10279,13 +10279,13 @@ rate_NN1
 of_PRF
 remarriage_NN1
 among_PRP
-divorced_AJ0
+divorced_VVN
 women_NN2
 has_VHZ
 fallen_VVN
 single_AJ0
 mothers_NN2
-increased_AJ0
+increased_VVN
 almost_AV0
 as_CJS
 much_DT0
@@ -10395,7 +10395,7 @@ have_VHB
 contributed_VVN
 to_TO0
 this_DT0
-fall_VVI
+fall_NN1
 Children_NN2
 In_PRP
 1986_CRD
@@ -10430,7 +10430,7 @@ one_CRD
 parent_NN1
 families_NN2
 has_VHZ
-increased_AJ0
+increased_VVN
 by_PRP
 more_AV0
 than_CJS
@@ -10455,7 +10455,7 @@ parent_NN1
 families_NN2
 with_PRP
 an_AT0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 just_AV0
 under_PRP
@@ -10550,7 +10550,7 @@ over_PRP
 per_UNC
 cent_UNC
 the_AT0
-average_AJ0-NN1
+average_AJ0
 in_PRP
 Inner_AJ0
 London_NP0
@@ -10714,7 +10714,7 @@ living_VVG
 in_PRP
 poverty_NN1
 has_VHZ
-increased_AJ0
+increased_VVN
 since_CJS
 1979_CRD
 when_CJS
@@ -10797,7 +10797,7 @@ margins_NN2
 of_PRF
 poverty_NN1
 has_VHZ
-increased_AJ0
+increased_VVN
 since_CJS
 1979_CRD
 when_CJS
@@ -10998,7 +10998,7 @@ lone_AJ0
 parents_NN2
 are_VBB
 Income_NN1
-Support_NN1-VVB
+Support_NN1
 means-tested_AJ0
 income_NN1
 assistance_NN1
@@ -11021,7 +11021,7 @@ families_NN2
 were_VBD
 receiving_VVG
 Income_NN1
-Support_NN1-VVB
+Support_NN1
 in_PRP
 May_NP0
 1988_CRD
@@ -11126,7 +11126,7 @@ Social_AJ0
 Security_NN1
 Statistics_NN0
 1989_CRD
-Housing_NN1-VVG
+Housing_NN1
 benefit_NN1
 means-tested_AJ0
 assistance_NN1
@@ -11226,7 +11226,7 @@ support_NN1
 two_CRD
 thirds_CRD
 are_VBB
-divorced_AJ0
+divorced_VVN
 or_CJC
 separated_VVN
 and_CJC
@@ -11464,7 +11464,7 @@ lone_AJ0
 parents_NN2
 receiving_VVG
 Income_NN1
-Support_NN1-VVB
+Support_NN1
 had_VHD
 earnings_NN2
 from_PRP
@@ -11655,7 +11655,7 @@ In_PRP
 per_UNC
 cent_UNC
 of_PRF
-divorced_AJ0
+divorced_VVN
 women_NN2
 who_PNQ
 had_VHD
@@ -11744,7 +11744,7 @@ Department_NN1
 of_PRF
 Social_AJ0
 Security_NN1
-Support_NN1-VVB
+Support_NN1
 for_PRP
 Lone_AJ0
 Parent_NN1
@@ -11823,7 +11823,7 @@ of_PRF
 children_NN2
 Social_AJ0
 Circumstances_NN2
-Housing_NN1-VVG
+Housing_NN1
 7_CRD
 out_AVP
 of_PRF
@@ -11904,7 +11904,7 @@ of_PRF
 sharing_VVG
 responsibilities_NN2
 and_CJC
-caring_VVG-NN1
+caring_NN1
 it_PNP
 may_VM0
 also_AV0
@@ -12000,7 +12000,7 @@ Table_NN1
 6_CRD
 Families_NN2
 and_CJC
-Housing_NN1-VVG
+Housing_NN1
 Tenure_NN1
 of_PRF
 families_NN2
@@ -12192,7 +12192,7 @@ number_NN1
 as_CJS
 housebuyers_NN2
 the_AT0
-average_AJ0-NN1
+average_AJ0
 age_NN1
 of_PRF
 lone_AJ0
@@ -12239,16 +12239,16 @@ people_NN0
 Source_NN1
 John_NP0
 Greve_NP0
-Homelessness_NN1-NP0
+Homelessness_NN1
 in_PRP
 Britain_NP0
 Joseph_NP0
-Rowntree_NP0-NN1
+Rowntree_NP0
 Memorial_NN1
 Trust_NN1
 1990_CRD
 Consumer_NN1
-durables_NN2-VVZ
+durables_VVZ
 Lone_AJ0
 parent_NN1
 families_NN2
@@ -12263,7 +12263,7 @@ to_TO0
 have_VHB
 household_NN1
 consumer_NN1
-durables_NN2-VVZ
+durables_VVZ
 A_AT0
 comparison_NN1
 of_PRF
@@ -12496,7 +12496,7 @@ per_UNC
 cent_UNC
 by_PRP
 a_AT0
-relative_AJ0-NN1
+relative_AJ0
 outside_PRP
 the_AT0
 household_NN1
@@ -12504,7 +12504,7 @@ GHS_NP0
 1979_CRD
 T6.12_UNC
 The_AT0
-relative_AJ0-NN1
+relative_AJ0
 is_VBZ
 frequently_AV0
 the_AT0
@@ -12563,7 +12563,7 @@ most_AV0
 of_PRF
 whom_PNQ
 are_VBB
-divorced_AJ0
+divorced_VVN
 or_CJC
 separated_VVN
 single_AJ0
@@ -12603,7 +12603,7 @@ years_NN2
 of_PRF
 age_NN1
 on_PRP
-average_AJ0-NN1
+average_AJ0
 less_AV0
 than_CJS
 10_CRD
@@ -12613,7 +12613,7 @@ were_VBD
 younger_AJC
 While_CJS
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 share_NN1
 of_PRF
 employment_NN1
@@ -12621,7 +12621,7 @@ and_CJC
 social_AJ0
 security_NN1
 benefits_NN2
-varied_AJ0
+varied_VVN
 enormously_AV0
 from_PRP
 one_CRD
@@ -12767,14 +12767,14 @@ are_VBB
 generally_AV0
 younger_AJC
 on_PRP
-average_AJ0-NN1
+average_AJ0
 25_CRD
 years_NN2
 and_CJC
 with_PRP
 fewer_DT0
 an_AT0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 1.3_CRD
 and_CJC
@@ -12839,7 +12839,7 @@ are_VBB
 generally_AV0
 older_AJC
 on_PRP
-average_AJ0-NN1
+average_AJ0
 47_CRD
 years_NN2
 and_CJC
@@ -12886,14 +12886,14 @@ mostly_AV0
 from_PRP
 local_AJ0
 authorities_NN2
-Divorced_AJ0-VVN
+Divorced_VVN
 and_CJC
 separated_VVN
 mothers_NN2
 The_AT0
 characteristics_NN2
 of_PRF
-divorced_AJ0
+divorced_VVN
 and_CJC
 separated_VVN
 mothers_NN2
@@ -12933,7 +12933,7 @@ About_AV0
 4_CRD
 in_PRP
 10_CRD
-divorced_AJ0
+divorced_VVN
 families_NN2
 will_VM0
 be_VBI
@@ -12988,7 +12988,7 @@ families_NN2
 1.4_CRD
 children_NN2
 on_PRP
-average_AJ0-NN1
+average_AJ0
 Two_CRD
 thirds_CRD
 of_PRF
@@ -13080,7 +13080,7 @@ children_NN2
 at_PRP
 how_AVQ
 families_NN2
-divide_VVI
+divide_NN1
 their_DPS
 income_NN1
 and_CJC
@@ -13205,7 +13205,7 @@ lower_AJC
 incomes_NN2
 The_AT0
 gross_AJ0
-average_AJ0-NN1
+average_AJ0
 weekly_AJ0
 income_NN1
 of_PRF
@@ -13632,7 +13632,7 @@ Women_NN2
 earnings_NN2
 remain_VVI
 on_PRP
-average_AJ0-NN1
+average_AJ0
 lower_AJC
 than_CJS
 men_NN2
@@ -13640,7 +13640,7 @@ men_NN2
 In_PRP
 1988_CRD
 the_AT0
-average_AJ0-NN1
+average_AJ0
 gross_AJ0
 weekly_AJ0
 pay_VVI
@@ -13668,7 +13668,7 @@ incomes_NN2
 In_PRP
 1989_CRD
 the_AT0
-average_AJ0-NN1
+average_AJ0
 weekly_AJ0
 income_NN1
 from_PRP
@@ -13910,7 +13910,7 @@ the_AT0
 period_NN1
 1979\xe2\x80\x931987_CRD
 the_AT0
-average_AJ0-NN1
+average_AJ0
 total_AJ0
 net_AJ0
 income_NN1
@@ -13945,7 +13945,7 @@ and_CJC
 occupational_AJ0
 pensions_NN2
 has_VHZ
-increased_AJ0
+increased_VVN
 as_CJS
 to_TO0
 a_AT0
@@ -14096,7 +14096,7 @@ the_AT0
 level_NN1
 of_PRF
 Income_NN1
-Support_NN1-VVB
+Support_NN1
 and_CJC
 pensioners_NN2
 with_PRP
@@ -14130,7 +14130,7 @@ in_PRP
 receipt_NN1
 of_PRF
 Income_NN1
-Support_NN1-VVB
+Support_NN1
 In_PRP
 1987_CRD
 2.2_CRD
@@ -14150,7 +14150,7 @@ the_AT0
 level_NN1
 of_PRF
 Income_NN1
-Support_NN1-VVB
+Support_NN1
 Pension_NN1
 ages_NN2
 differ_VVB
@@ -14530,7 +14530,7 @@ children_NN2
 The_AT0
 basic_AJ0
 Income_NN1
-Support_NN1-VVB
+Support_NN1
 rate_NN1
 including_PRP
 allowances_NN2
@@ -14613,9 +14613,9 @@ the_AT0
 level_NN1
 of_PRF
 benefits_NN2
-relative_AJ0-NN1
+relative_AJ0
 to_TO0
-average_AJ0-NN1
+average_AJ0
 income_NN1
 will_VM0
 result_NN1
@@ -14652,9 +14652,9 @@ measure_NN1
 low_AJ0
 income_NN1
 against_PRP
-average_AJ0-NN1
+average_AJ0
 income_NN1
-Counter_VVB-NN1
+Counter_NN1
 criticisms_NN2
 have_VHB
 argued_VVD
@@ -14669,7 +14669,7 @@ available_AJ0
 measure_NN1
 of_PRF
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 acceptable_AJ0
 income_NN1
 The_AT0
@@ -14761,7 +14761,7 @@ over_PRP
 30_CRD
 per_UNC
 cent_UNC
-Increases_NN2-VVZ
+Increases_NN2
 were_VBD
 higher_AJC
 for_PRP
@@ -14810,7 +14810,7 @@ a_AT0
 full-time_AJ0
 worker_NN1
 saw_VVD
-average_AJ0-NN1
+average_AJ0
 income_NN1
 rises_VVZ
 of_PRF
@@ -14910,7 +14910,7 @@ show_VVI
 growing_AJ0
 poverty_NN1
 or_CJC
-increased_AJ0
+increased_VVN
 prosperity_NN1
 Income_NN1
 has_VHZ
@@ -14956,7 +14956,7 @@ costs_NN2
 and_CJC
 whether_CJS
 the_AT0
-average_AJ0-NN1
+average_AJ0
 used_VVN
 is_VBZ
 an_AT0
@@ -15024,7 +15024,7 @@ fallen_VVN
 But_CJC
 if_CJS
 the_AT0
-average_AJ0-NN1
+average_AJ0
 size_NN1
 of_PRF
 a_AT0
@@ -15121,7 +15121,7 @@ below_AV0
 half_DT0
 the_AT0
 national_AJ0
-average_AJ0-NN1
+average_AJ0
 Similarly_AV0
 if_CJS
 the_AT0
@@ -15496,7 +15496,7 @@ bringing_VVG
 up_AVP
 children_NN2
 and_CJC
-caring_VVG-NN1
+caring_NN1
 for_PRP
 elderly_AJ0
 or_CJC
@@ -15547,7 +15547,7 @@ social_AJ0
 security_NN1
 spending_VVG
 Child_NN1
-Benefit_NN1-VVB
+Benefit_NN1
 is_VBZ
 the_AT0
 only_AV0
@@ -15581,7 +15581,7 @@ to_TO0
 it_PNP
 One_CRD
 Parent_NN1
-Benefit_NN1-VVB
+Benefit_NN1
 is_VBZ
 paid_VVN
 to_TO0
@@ -15907,7 +15907,7 @@ Person_NN1
 and_CJC
 Wife_NN1
 's_POS
-Earned_VVN-AJ0
+Earned_VVN
 Income_NN1
 all_DT0
 reflected_VVN
@@ -15939,7 +15939,7 @@ have_VHB
 been_VBN
 replaced_VVN
 by_PRP
-Independent_AJ0
+Independent_NN1
 Taxation_NN1
 see_VVI
 below_AV0
@@ -15998,7 +15998,7 @@ a_AT0
 new_AJ0
 system_NN1
 of_PRF
-Independent_AJ0
+Independent_NN1
 Taxation_NN1
 was_VBD
 introduced_VVN
@@ -16056,7 +16056,7 @@ husband_NN1
 in_PRP
 most_AV0
 cases_NN2
-Cohabiting_VVG-AJ0
+Cohabiting_AJ0
 couples_NN2
 are_VBB
 not_XX0
@@ -16137,7 +16137,7 @@ home_NN1
 In_PRP
 1988_CRD
 the_AT0
-average_AJ0-NN1
+average_AJ0
 weekly_AJ0
 spending_VVG
 for_PRP
@@ -16445,7 +16445,7 @@ a_AT0
 model_NN1
 with_PRP
 which_DTQ
-present_AJ0-NN1
+present_AJ0
 ways_NN2
 of_PRF
 life_NN1
@@ -16573,8 +16573,8 @@ resources_NN2
 of_PRF
 a_AT0
 family_NN1
-Housing_NN1-VVG
-Benefit_NN1-VVB
+Housing_NN1
+Benefit_NN1
 can_VM0
 be_VBI
 reduced_VVN
@@ -16679,7 +16679,7 @@ people_NN0
 sharing_VVG
 accomodation_NN1
 The_AT0
-Cost_VVB-NN1
+Cost_NN1
 of_PRF
 Children_NN2
 Children_NN2
@@ -16780,7 +16780,7 @@ these_DT0
 costs_NN2
 put_VVI
 the_AT0
-average_AJ0-NN1
+average_AJ0
 direct_AJ0
 costs_NN2
 of_PRF
@@ -16849,7 +16849,7 @@ and_CJC
 Fuel_NN1
 Table_NN1
 10_CRD
-Weekly_NN1-AJ0
+Weekly_AJ0
 spending_VVG
 by_PRP
 region_NN1

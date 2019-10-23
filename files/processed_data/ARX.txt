@@ -106,7 +106,7 @@ Written_VVN
 Archive_NN1
 Centre_NN1
 at_PRP
-Caversham_NP0-NN1
+Caversham_NP0
 one_CRD
 of_PRF
 the_AT0
@@ -119,7 +119,7 @@ British_AJ0
 history_NN1
 outside_PRP
 the_AT0
-Public_AJ0-NN1
+Public_AJ0
 Record_NN1
 Office_NN1
 and_CJC
@@ -159,7 +159,7 @@ before_PRP
 Una_NP0
 Marson_NP0
 the_AT0
-Jamaican_AJ0-NN1
+Jamaican_AJ0
 poet_NN1
 had_VHD
 worked_VVD
@@ -211,7 +211,7 @@ library_NN1
 had_VHD
 formed_VVN
 an_AT0
-integrated_AJ0
+integrated_VVN
 whole_AJ0
 unrivalled_AJ0
 anywhere_AV0
@@ -236,7 +236,7 @@ to_TO0
 television_NN1
 and_CJC
 the_AT0
-present_AJ0-NN1
+present_AJ0
 day_NN1
 People_NN0
 did_VDD
@@ -385,7 +385,7 @@ question_NN1
 of_PRF
 dispersals_NN2
 and_CJC
-conservation_AJ0-NN1
+conservation_NN1
 which_DTQ
 culminated_VVD
 in_PRP
@@ -462,7 +462,7 @@ any_DT0
 of_PRF
 the_AT0
 professionals_NN2
-involved_AJ0
+involved_VVN
 saw_VVD
 things_NN2
 from_PRP
@@ -494,7 +494,7 @@ their_DPS
 own_DT0
 field_NN1
 of_PRF
-Public_AJ0-NN1
+Public_AJ0
 Libraries_NN2
 which_DTQ
 was_VBD
@@ -507,7 +507,7 @@ whole_AJ0
 spectrum_NN1
 of_PRF
 British_AJ0
-Public_AJ0-NN1
+Public_AJ0
 Institutional_AJ0
 Libraries_NN2
 This_DT0
@@ -581,7 +581,7 @@ book_NN1
 such_DT0
 as_CJS
 the_AT0
-specialist_NN1-AJ0
+specialist_NN1
 cotton_NN1
 library_NN1
 at_PRP
@@ -772,7 +772,7 @@ Doubt_NN1
 Chuck_VVB
 it_PNP
 Out_AVP
-Visiting_AJ0-VVG
+Visiting_VVG
 local_AJ0
 bookshops_NN2
 at_PRP
@@ -808,7 +808,7 @@ by_PRP
 people_NN0
 who_PNQ
 have_VHB
-retired_AJ0
+retired_VVD
 from_PRP
 all_DT0
 over_PRP
@@ -827,7 +827,7 @@ were_VBD
 also_AV0
 beginning_NN1
 to_TO0
-notice_VVI
+notice_NN1
 what_DTQ
 was_VBD
 going_VVG
@@ -1055,7 +1055,7 @@ entire_AJ0
 libraries_NN2
 were_VBD
 being_VBG
-closed_VVD
+closed_VVN
 in_PRP
 the_AT0
 Midlands_NP0
@@ -1122,7 +1122,7 @@ loss_NN1
 by_PRP
 the_AT0
 simple_AJ0
-act_VVI
+act_NN1
 of_PRF
 dispersal_NN1
 Perhaps_AV0
@@ -1220,8 +1220,8 @@ is_VBZ
 bookselling_VVG
 for_PRP
 the_AT0
-average_AJ0-NN1
-English_AJ0-NN1
+average_AJ0
+English_AJ0
 man_NN1
 and_CJC
 woman_NN1
@@ -1288,7 +1288,7 @@ in_PRP
 Britain_NP0
 It_PNP
 is_VBZ
-Public_AJ0-NN1
+Public_AJ0
 Libraries_NN2
 A_AT0
 History_NN1
@@ -1691,14 +1691,14 @@ The_AT0
 situation_NN1
 is_VBZ
 wildly_AV0
-exaggerated_AJ0
+exaggerated_VVN
 Only_AV0
 a_AT0
 handful_NN1
 of_PRF
 libraries_NN2
 are_VBB
-involved_AJ0
+involved_VVN
 Brent_NP0
 was_VBD
 a_AT0
@@ -1720,7 +1720,7 @@ the_AT0
 kind_NN1
 The_AT0
 books_NN2
-involved_AJ0
+involved_VVN
 are_VBB
 obsolete_AJ0
 and_CJC
@@ -1765,7 +1765,7 @@ archaeological_AJ0
 site_NN1
 each_DT0
 book_NN1
-listed_AJ0
+listed_VVN
 there_EX0
 is_VBZ
 an_AT0
@@ -1885,7 +1885,7 @@ make_VVI
 other_AJ0
 civilised_AJ0
 nations_NN2
-shrink_VVI
+shrink_NN1
 in_PRP
 disgrace_NN1
 is_VBZ
@@ -1973,7 +1973,7 @@ to_TO0
 real_AJ0
 customers_NN2
 An_AT0
-act_VVI
+act_NN1
 of_PRF
 dispersal_NN1
 made_VVN
@@ -2034,7 +2034,7 @@ of_PRF
 England_NP0
 is_VBZ
 still_AV0
-prized_VVN-AJ0
+prized_AJ0
 Those_DT0
 who_PNQ
 have_VHB
@@ -2157,7 +2157,7 @@ community_NN1
 's_POS
 cultural_AJ0
 and_CJC
-intellectual_AJ0-NN1
+intellectual_AJ0
 repository_NN1
 The_AT0
 new_AJ0
@@ -2170,7 +2170,7 @@ library_NN1
 manager_NN1
 at_PRP
 Marylebone_NP0
-Public_AJ0-NN1
+Public_AJ0
 Library_NN1
 who_PNQ
 remarked_VVD
@@ -2378,7 +2378,7 @@ carried_VVN
 on_PRP
 by_PRP
 its_DPS
-present_AJ0-NN1
+present_AJ0
 avant_UNC
 garde_UNC
 I_PNP
@@ -2416,7 +2416,7 @@ to_TO0
 blame_VVI
 the_AT0
 professional_AJ0
-involved_AJ0
+involved_VVN
 And_CJC
 since_CJS
 each_DT0
@@ -2483,7 +2483,7 @@ deal_NN1
 of_PRF
 debate_NN1
 behind_PRP
-closed_VVD
+closed_VVN
 doors_NN2
 but_CJC
 as_CJS
@@ -2564,7 +2564,7 @@ in_PRP
 the_AT0
 worst_AJS
 property_NN1
-slump_NN1-VVB
+slump_NN1
 since_CJS
 the_AT0
 war_NN1
@@ -2575,7 +2575,7 @@ PUBLIC_AJ0
 LIBRARIES_NN2
 DO_VDB
 NOT_XX0
-RETURN_VVB-NN1
+RETURN_NN1
 NOT_XX0
 FOR_PRP
 RE-SALE_NN1
@@ -2690,7 +2690,7 @@ linear_AJ0
 metre_NN1
 and_CJC
 filling_VVG
-skips_VVZ-NN2
+skips_VVZ
 by_PRP
 the_AT0
 ton_NN1
@@ -2707,9 +2707,9 @@ fashion_NN1
 such_DT0
 as_CJS
 trying_VVG
-face-on_NN1-AJ0
+face-on_NN1
 display_NN1
-Face-on_NN1-AJ0
+Face-on_AJ0
 display_NN1
 is_VBZ
 the_AT0
@@ -2724,7 +2724,7 @@ dust_NN1
 jacket_NN1
 is_VBZ
 seen_VVN
-face-on_NN1-AJ0
+face-on_NN1
 as_CJS
 it_PNP
 would_VM0
@@ -2764,7 +2764,7 @@ bays_NN2
 stuffed_VVD
 full_AJ0
 of_PRF
-unappealing_VVG-NN1
+unappealing_VVG
 books_NN2
 my_DPS
 italics_NN2
@@ -2787,7 +2787,7 @@ the_AT0
 reason_NN1
 they_PNP
 seem_VVI
-unappealing_VVG-NN1
+unappealing_VVG
 is_VBZ
 that_CJT
 they_PNP
@@ -2868,7 +2868,7 @@ look_VVI
 appealing_AJ0
 enough_AV0
 for_PRP
-face-on_NN1-AJ0
+face-on_NN1
 display_NN1
 have_VHB
 the_AT0
@@ -2967,7 +2967,7 @@ than_CJS
 ephemeral_AJ0
 interest_NN1
 would_VM0
-fall_VVI
+fall_NN1
 to_TO0
 such_DT0
 a_AT0
@@ -3142,7 +3142,7 @@ stock_NN1
 which_DTQ
 is_VBZ
 not_XX0
-issuing_VVG-AJ0
+issuing_VVG
 well_AV0
 and_CJC
 which_DTQ
@@ -3188,7 +3188,7 @@ giant_AJ0
 topographical_AJ0
 histories_NN2
 the_AT0
-accumulated_AJ0
+accumulated_VVN
 cultural_AJ0
 and_CJC
 historical_AJ0
@@ -3347,7 +3347,7 @@ party_NN1
 politics_NN1
 were_VBD
 not_XX0
-involved_AJ0
+involved_VVN
 in_PRP
 these_DT0
 vital_AJ0
@@ -3464,7 +3464,7 @@ far_AV0
 more_AV0
 rapid_AJ0
 because_CJS
-improved_AJ0
+improved_VVN
 education_NN1
 has_VHZ
 created_VVN
@@ -3475,7 +3475,7 @@ of_PRF
 the_AT0
 community_NN1
 an_AT0
-increased_AJ0
+increased_VVN
 desire_NN1
 and_CJC
 appetite_NN1
@@ -3555,7 +3555,7 @@ in_PRP
 his_DPS
 own_DT0
 library_NN1
-Added_VVN-AJ0
+Added_AJ0
 salt_NN1
 in_PRP
 the_AT0
@@ -3892,7 +3892,7 @@ railway_NN1
 stations_NN2
 today_AV0
 The_AT0
-overall_AJ0-NN1
+overall_AJ0
 loss_NN1
 of_PRF
 reading_NN1
@@ -4000,7 +4000,7 @@ have_VHB
 been_VBN
 striking_AJ0
 They_PNP
-spread_NN1
+spread_VVN
 to_TO0
 the_AT0
 Conservative_AJ0
@@ -4034,7 +4034,7 @@ shall_VM0
 see_VVI
 shortly_AV0
 The_AT0
-overall_AJ0-NN1
+overall_AJ0
 effect_NN1
 on_PRP
 administrators_NN2
@@ -4081,7 +4081,7 @@ who_PNQ
 researches_NN2
 in_PRP
 the_AT0
-Public_AJ0-NN1
+Public_AJ0
 Record_NN1
 Office_NN1
 the_AT0
@@ -4096,7 +4096,7 @@ can_VM0
 not_XX0
 fail_VVI
 to_TO0
-notice_VVI
+notice_NN1
 the_AT0
 impact_NN1
 of_PRF
@@ -4140,7 +4140,7 @@ and_CJC
 sixties_CRD
 thin_AJ0
 and_CJC
-skimped_VVN-AJ0
+skimped_AJ0
 with_PRP
 occasional_AJ0
 notes_NN2
@@ -4291,7 +4291,7 @@ with_PRP
 no_AT0
 style_NN1
 or_CJC
-overall_AJ0-NN1
+overall_AJ0
 understanding_NN1
 at_PRP
 all_DT0
@@ -4379,7 +4379,7 @@ engaged_VVN
 in_PRP
 what_DTQ
 the_AT0
-present_AJ0-NN1
+present_AJ0
 Chairman_NN1
 of_PRF
 the_AT0
@@ -4418,7 +4418,7 @@ the_AT0
 first_ORD
 to_TO0
 be_VBI
-closed_VVD
+closed_VVN
 because_CJS
 it_PNP
 would_VM0
@@ -4595,7 +4595,7 @@ Sotheby_NP0
 Taunton_NP0
 I_PNP
 was_VBD
-present_AJ0-NN1
+present_AJ0
 at_PRP
 the_AT0
 sale_NN1
@@ -4964,7 +4964,7 @@ key_AJ0
 text_NN1
 of_PRF
 late-twentieth-century_AJ0
-English_AJ0-NN1
+English_AJ0
 political_AJ0
 thought_VVD
 and_CJC
@@ -5083,7 +5083,7 @@ preserved_VVN
 like_PRP
 flies_NN2
 in_PRP
-amber_NN1-AJ0
+amber_AJ0
 from_PRP
 earlier_AJC
 serious_AJ0
@@ -5248,7 +5248,7 @@ political_AJ0
 texts_NN2
 Beyond_PRP
 the_AT0
-page-turner_AJ0-NN1
+page-turner_NN1
 are_VBB
 the_AT0
 real_AJ0
@@ -5267,7 +5267,7 @@ owe_VVB
 something_PNI
 to_TO0
 the_AT0
-tabloid_AJ0-NN1
+tabloid_AJ0
 newspapers_NN2
 and_CJC
 colour_NN1
@@ -5301,7 +5301,7 @@ sight_NN1
 attractive_AJ0
 ideal_AJ0
 for_PRP
-face-on_NN1-AJ0
+face-on_NN1
 displays_VVZ
 and_CJC
 can_VM0
@@ -5431,7 +5431,7 @@ illustrated_VVN
 mail_NN1
 order_NN1
 catalogue_NN1
-browsed_VVD-VVN
+browsed_VVN
 through_PRP
 People_NN0
 who_PNQ
@@ -5488,7 +5488,7 @@ with_PRP
 their_DPS
 experiments_NN2
 in_PRP
-face-on_NN1-AJ0
+face-on_NN1
 displays_VVZ
 They_PNP
 have_VHB
@@ -5612,13 +5612,13 @@ caught_VVN
 in_PRP
 this_DT0
 downward_AJ0
-spiral_AJ0-NN1
+spiral_NN1
 The_AT0
 Libraries_NN2
 The_AT0
 sample_NN1
 libraries_NN2
-listed_AJ0
+listed_VVN
 at_PRP
 the_AT0
 end_NN1
@@ -5775,7 +5775,7 @@ the_AT0
 Loughborough_NP0
 School_NN1
 of_PRF
-Librarianship_NN1-NP0
+Librarianship_NN1
 There_EX0
 had_VHD
 been_VBN
@@ -5836,7 +5836,7 @@ one_CRD
 time_NN1
 to_TO0
 the_AT0
-Guildhall_NP0-NN1
+Guildhall_NP0
 Library_NN1
 which_DTQ
 had_VHD
@@ -5994,7 +5994,7 @@ its_DPS
 economics_NN1
 books_NN2
 the_AT0
-inscribed_AJ0
+inscribed_VVN
 copies_NN2
 from_PRP
 the_AT0
@@ -6118,7 +6118,7 @@ few_DT0
 exceptions_NN2
 the_AT0
 books_NN2
-listed_AJ0
+listed_VVN
 have_VHB
 their_DPS
 entire_AJ0
@@ -6156,7 +6156,7 @@ point_NN1
 is_VBZ
 important_AJ0
 because_CJS
-conservation_AJ0-NN1
+conservation_NN1
 has_VHZ
 recently_AV0
 become_VVI
@@ -6206,7 +6206,7 @@ break_VVI
 away_AV0
 from_PRP
 their_DPS
-binding_VVG-AJ0
+binding_AJ0
 at_PRP
 a_AT0
 touch_NN1
@@ -6274,7 +6274,7 @@ the_AT0
 high_AJ0
 cost_NN1
 of_PRF
-conservation_AJ0-NN1
+conservation_NN1
 as_CJS
 a_AT0
 reason_NN1
@@ -6283,7 +6283,7 @@ dispersing_VVG
 valuable_AJ0
 books_NN2
 David_NP0
-Vaisey_NP0-NN1
+Vaisey_NP0
 Bodley_NP0
 's_POS
 Librarian_NN1
@@ -6299,7 +6299,7 @@ are_VBB
 dangers_NN2
 in_PRP
 using_VVG
-conservation_AJ0-NN1
+conservation_NN1
 as_CJS
 a_AT0
 kind_NN1
@@ -6424,7 +6424,7 @@ my_DPS
 list_NN1
 suggests_VVZ
 that_CJT
-Vaisey_NP0-NN1
+Vaisey_NP0
 is_VBZ
 right_NN1
 and_CJC
@@ -6434,7 +6434,7 @@ least_AV0
 as_CJS
 far_AV0
 as_CJS
-English_AJ0-NN1
+English_AJ0
 printed_VVN
 books_NN2
 are_VBB
@@ -6607,7 +6607,7 @@ older_AJC
 libraries_NN2
 which_DTQ
 had_VHD
-closed_VVD
+closed_VVN
 I_PNP
 decided_VVD
 to_TO0
@@ -6682,7 +6682,7 @@ here_AV0
 is_VBZ
 Kennett_NP0
 's_POS
-Roman_AJ0-NN1
+Roman_AJ0
 Antiquities_NN2
 published_VVN
 in_PRP
@@ -6840,7 +6840,7 @@ without_PRP
 any_DT0
 missionary_NN1
 purpose_NN1
-spread_NN1
+spread_VVN
 across_PRP
 America_NP0
 backed_VVN
@@ -6956,7 +6956,7 @@ Two_CRD
 other_AJ0
 early_AJ0
 libraries_NN2
-listed_AJ0
+listed_VVN
 the_AT0
 Bredon_NP0
 Reading_NP0
@@ -7119,7 +7119,7 @@ as_CJS
 always_AV0
 without_PRP
 any_DT0
-notice_VVI
+notice_NN1
 of_PRF
 the_AT0
 passing_VVG
@@ -7184,7 +7184,7 @@ housed_VVD
 in_PRP
 its_DPS
 original_AJ0
-listed_AJ0
+listed_VVN
 building_NN1
 and_CJC
 the_AT0
@@ -7197,7 +7197,7 @@ Institution_NN1
 This_DT0
 unfortunately_AV0
 is_VBZ
-closed_VVD
+closed_VVN
 and_CJC
 boarded_VVD
 up_AVP
@@ -7227,7 +7227,7 @@ by_PRP
 the_AT0
 Association_NN1
 of_PRF
-Independent_AJ0
+Independent_NN1
 Libraries_NN2
 made_VVN
 up_AVP
@@ -7452,7 +7452,7 @@ libraries_NN2
 often_AV0
 in_PRP
 their_DPS
-listed_AJ0
+listed_VVN
 buildings_NN2
 were_VBD
 not_XX0
@@ -7568,7 +7568,7 @@ incidentally_AV0
 in_PRP
 today_AV0
 's_POS
-rapid-turnover_AJ0-NN1
+rapid-turnover_AJ0
 public_AJ0
 libraries_NN2
 with_PRP
@@ -7578,7 +7578,7 @@ I_PNP
 do_VDB
 love_NN1
 a_AT0
-drop_VVI
+drop_NN1
 of_PRF
 Dell_NP0
 referring_VVG
@@ -7696,7 +7696,7 @@ the_AT0
 issue_NN1
 stamps_NN2
 still_AV0
-present_AJ0-NN1
+present_AJ0
 in_PRP
 one_CRD
 of_PRF
@@ -7886,7 +7886,7 @@ Others_NN2
 such_DT0
 as_CJS
 Ealing_NP0
-Public_AJ0-NN1
+Public_AJ0
 Library_NN1
 made_VVN
 a_AT0
@@ -7898,7 +7898,7 @@ Mudie_NP0
 's_POS
 books_NN2
 and_CJC
-act_VVI
+act_NN1
 as_CJS
 agent_NN1
 for_PRP
@@ -7987,7 +7987,7 @@ the_AT0
 branch_NN1
 in_PRP
 Exeter_NP0
-closed_VVD
+closed_VVN
 in_PRP
 1965_CRD
 By_PRP
@@ -8081,7 +8081,7 @@ The_AT0
 public_AJ0
 libraries_NN2
 Richard_NP0
-Hoggart_NP0-NN1
+Hoggart_NP0
 author_NN1
 of_PRF
 a_AT0
@@ -8125,7 +8125,7 @@ its_DPS
 existence_NN1
 veers_VVZ
 between_PRP
-pop-marketing_NN1-AJ0
+pop-marketing_NN1
 in_PRP
 imitation_NN1
 of_PRF
@@ -8209,14 +8209,14 @@ People_NN0
 's_POS
 University_NN1
 that_CJT
-Hoggart_NP0-NN1
+Hoggart_NP0
 remembers_VVZ
 from_PRP
 his_DPS
 youth_NN1
 in_PRP
 the_AT0
-Hunslet_NN1-NP0
+Hunslet_NP0
 district_NN1
 of_PRF
 Leeds_NP0
@@ -8382,7 +8382,7 @@ be_VBI
 mastered_VVN
 by_PRP
 the_AT0
-average_AJ0-NN1
+average_AJ0
 public_AJ0
 library_NN1
 And_CJC
@@ -8399,7 +8399,7 @@ the_AT0
 beginning_NN1
 of_PRF
 the_AT0
-slide_VVI
+slide_NN1
 that_CJT
 has_VHZ
 lead_VVI
@@ -8479,7 +8479,7 @@ the_AT0
 old_AJ0
 remedy_NN1
 of_PRF
-pulping_VVG-AJ0
+pulping_VVG
 was_VBD
 resorted_VVN
 to_TO0
@@ -8517,7 +8517,7 @@ book_NN1
 of_PRF
 his_DPS
 The_AT0
-Trouble_NN1-VVB
+Trouble_NN1
 with_PRP
 Harry_NP0
 All_DT0
@@ -8559,7 +8559,7 @@ was_VBD
 due_AJ0
 to_TO0
 be_VBI
-pulped_VVN-AJ0
+pulped_VVN
 and_CJC
 it_PNP
 did_VDD
@@ -8591,12 +8591,12 @@ path_NN1
 The_AT0
 book_NN1
 was_VBD
-pulped_VVN-AJ0
+pulped_VVN
 Sept._NP0
 \xe2\x80\x93Oct._NN0
 1929_CRD
-Sale_NN1-NP0
-List_VVB-NN1
+Sale_NP0
+List_NN1
 No._NN1
 87_CRD
 LIBRARY_NN1
@@ -8640,7 +8640,7 @@ available_AJ0
 Order_NN1
 from_PRP
 Harrods_NP0
-Circulating_VVG-AJ0
+Circulating_VVG
 Library_NN1
 Harrods_NP0
 Ltd_AJ0
@@ -8651,7 +8651,7 @@ OUT_AVP
 OF_PRF
 PRINT_NN1
 BOOKS_NN2
-SEARCHED_VVN-VVD
+SEARCHED_VVN
 FOR_PRP
 FREE_AJ0
 OF_PRF
@@ -8696,7 +8696,7 @@ the_AT0
 absolute_AJ0
 waste_NN1
 of_PRF
-pulping_VVG-AJ0
+pulping_VVG
 but_CJC
 it_PNP
 leads_VVZ
@@ -8734,7 +8734,7 @@ aside_AV0
 for_PRP
 the_AT0
 next_ORD
-over-hyped_AJ0-VVD
+over-hyped_VVD
 wave_NN1
 books_NN2
 appear_VVI
@@ -8750,7 +8750,7 @@ kind_NN1
 The_AT0
 libraries_NN2
 that_CJT
-Hoggart_NP0-NN1
+Hoggart_NP0
 remembers_VVZ
 as_CJS
 giving_VVG
@@ -8759,7 +8759,7 @@ his_DPS
 first_ORD
 education_NN1
 in_PRP
-English_AJ0-NN1
+English_AJ0
 literature_NN1
 acquired_VVN
 serious_AJ0
@@ -8949,7 +8949,7 @@ library_NN1
 ticket_NN1
 with_PRP
 its_DPS
-Scarce_AV0-AJ0
+Scarce_AJ0
 books_NN2
 and_CJC
 books_NN2
@@ -8988,7 +8988,7 @@ referred_VVN
 to_TO0
 as_CJS
 customers_NN2
-Armed_VVN-AJ0
+Armed_AJ0
 with_PRP
 this_DT0
 perspective_NN1
@@ -9065,7 +9065,7 @@ its_DPS
 soul_NN1
 as_CJS
 Richard_NP0
-Hoggart_NP0-NN1
+Hoggart_NP0
 so_AV0
 aptly_AV0
 put_VVI
@@ -9112,7 +9112,7 @@ to_TO0
 the_AT0
 New_AJ0
 Mills_NP0
-Public_AJ0-NN1
+Public_AJ0
 Library_NN1
 and_CJC
 finally_AV0
@@ -9137,7 +9137,7 @@ County_NN1
 Council_NN1
 New_AJ0
 Mills_NP0
-Public_AJ0-NN1
+Public_AJ0
 Library_NN1
 This_DT0
 book_NN1
@@ -9150,7 +9150,7 @@ before_PRP
 the_AT0
 date_NN1
 last_ORD
-stamped_AJ0
+stamped_VVD
 below_AV0
 or_CJC
 renewal_NN1
@@ -9192,7 +9192,7 @@ Library_NN1
 the_AT0
 book_NN1
 here_AV0
-listed_AJ0
+listed_VVN
 is_VBZ
 not_XX0
 to_TO0
@@ -9435,7 +9435,7 @@ number_NN1
 that_CJT
 had_VHD
 gone_VVN
-missing_VVG-AJ0
+missing_VVG
 was_VBD
 found_VVD
 to_TO0
@@ -9559,7 +9559,7 @@ one_CRD
 of_PRF
 the_AT0
 most_AV0
-damaging_VVG-AJ0
+damaging_AJ0
 library_NN1
 letters_NN2
 ever_AV0
@@ -9574,7 +9574,7 @@ A_AT0
 sorry_AJ0
 tale_NN1
 of_PRF
-missing_VVG-AJ0
+missing_VVG
 books_NN2
 Where_AVQ
 have_VHB
@@ -9654,7 +9654,7 @@ sad_AJ0
 tale_NN1
 of_PRF
 the_AT0
-missing_VVG-AJ0
+missing_VVG
 books_NN2
 As_CJS
 I_PNP
@@ -9683,7 +9683,7 @@ the_AT0
 altar_NN1
 of_PRF
 Community_NN1
-Librarianship_NN1-NP0
+Librarianship_NN1
 This_DT0
 trend_NN1
 began_VVD
@@ -9719,7 +9719,7 @@ inverted_AJ0
 nazism_NN1
 of_PRF
 Radical_AJ0
-Librarianship_NN1-NP0
+Librarianship_NN1
 free_AJ0
 rein_NN1
 to_TO0
@@ -9735,7 +9735,7 @@ Consequently_AV0
 there_EX0
 was_VBD
 a_AT0
-witch-hunt_NN1-AJ0
+witch-hunt_NN1
 for_PRP
 any_DT0
 books_NN2
@@ -9760,7 +9760,7 @@ fury_NN1
 of_PRF
 a_AT0
 Puritan_NN1
-iconoclast_NN1-VVB
+iconoclast_VVB
 The_AT0
 depredations_NN2
 of_PRF
@@ -9835,7 +9835,7 @@ of_PRF
 paperbacks_NN2
 from_PRP
 Pluto_NP0
-Press_NN1-VVB
+Press_NN1
 and_CJC
 the_AT0
 like_PRP
@@ -9952,14 +9952,14 @@ course_NN1
 left_VVN
 but_CJC
 a_AT0
-mammoth_AJ0-NN1
+mammoth_AJ0
 book_NN1
 sale_NN1
 at_PRP
 the_AT0
 annual_AJ0
 Brent_NP0
-Show_NN1-VVB
+Show_NN1
 where_AVQ
 several_DT0
 thousand_CRD
@@ -9969,7 +9969,7 @@ disposed_VVN
 of_PRF
 at_PRP
 an_AT0
-average_AJ0-NN1
+average_AJ0
 price_NN1
 of_PRF
 about_PRP
@@ -9981,7 +9981,7 @@ others_NN2
 left_VVN
 unsold_AJ0
 were_VBD
-pulped_VVN-AJ0
+pulped_VVN
 Alan_NP0
 M._NN1
 Linfield_NP0
@@ -10010,7 +10010,7 @@ had_VHD
 authorised_VVN
 this_DT0
 unparalleled_AJ0
-act_VVI
+act_NN1
 of_PRF
 iconoclasm_NN1
 in_PRP
@@ -10196,7 +10196,7 @@ book_NN1
 destruction_NN1
 in_PRP
 their_DPS
-self-imposed_AJ0-NN1
+self-imposed_AJ0
 task_NN1
 of_PRF
 reducing_VVG
@@ -10694,7 +10694,7 @@ has_VHZ
 been_VBN
 quite_AV0
 an_AT0
-eye-opener_NN1-AJ0
+eye-opener_AJ0
 for_PRP
 us_PNP
 A_AT0
@@ -10734,7 +10734,7 @@ pastures_NN2
 indeed_AV0
 and_CJC
 I_PNP
-regret_VVI
+regret_NN1
 my_DPS
 lack_NN1
 of_PRF
@@ -10854,7 +10854,7 @@ aspirations_NN2
 embodied_VVN
 in_PRP
 the_AT0
-Public_AJ0-NN1
+Public_AJ0
 Library_NN1
 Acts_NN2
 Educational_AJ0
@@ -10902,7 +10902,7 @@ have_VHB
 occurred_VVD
 among_PRP
 those_DT0
-listed_AJ0
+listed_VVN
 Balls_NN2
 Park_NN1
 College_NN1
@@ -11152,7 +11152,7 @@ which_DTQ
 clearly_AV0
 would_VM0
 have_VHB
-involved_AJ0
+involved_VVN
 duplication_NN1
 and_CJC
 manifold_NN1
@@ -11249,7 +11249,7 @@ whether_CJS
 the_AT0
 widely_AV0
 reported_VVN
-drop_VVI
+drop_NN1
 in_PRP
 standards_NN2
 of_PRF
@@ -11257,7 +11257,7 @@ literacy_NN1
 among_PRP
 children_NN2
 of_PRF
-school-leaving_AJ0-NN1
+school-leaving_AJ0
 age_NN1
 can_VM0
 in_PRP
@@ -11313,7 +11313,7 @@ but_CJC
 of_PRF
 decisions_NN2
 to_TO0
-recast_VVB
+recast_VVN
 teacher_NN1
 training_NN1
 The_AT0
@@ -11386,7 +11386,7 @@ being_VBG
 subject_NN1
 to_TO0
 the_AT0
-Official_AJ0-NN1
+Official_AJ0
 Secrets_NN2
 Act_NN1
 and_CJC
@@ -11650,7 +11650,7 @@ if_CJS
 his_DPS
 comparison_NN1
 was_VBD
-contrived_VVD
+contrived_VVN
 it_PNP
 is_VBZ
 no_AT0
@@ -11710,7 +11710,7 @@ private_AJ0
 institutional_AJ0
 lending_NN1
 libraries_NN2
-Reduced_AJ0-VVN
+Reduced_VVN
 congregations_NN2
 exactly_AV0
 parallel_AJ0
@@ -11847,7 +11847,7 @@ survive_VVI
 through_PRP
 to_TO0
 the_AT0
-present_AJ0-NN1
+present_AJ0
 day_NN1
 are_VBB
 of_PRF
@@ -12016,7 +12016,7 @@ books_NN2
 demanding_VVG
 funds_NN2
 and_CJC
-shelving_VVG-NN1
+shelving_VVG
 on_PRP
 the_AT0
 other_AJ0
@@ -12276,7 +12276,7 @@ an_AT0
 argument_NN1
 for_PRP
 keeping_VVG
-twenty-_AJ0-NN1
+twenty-_AJ0
 and_CJC
 thirty-year-old_AJ0
 text_NN1
@@ -12290,7 +12290,7 @@ arguments_NN2
 would_VM0
 not_XX0
 hold_VVI
-sway_VVI
+sway_NN1
 in_PRP
 a_AT0
 University_NN1
@@ -12419,7 +12419,7 @@ its_DPS
 catalogue_NN1
 a_AT0
 good_AJ0
-average_AJ0-NN1
+average_AJ0
 for_PRP
 a_AT0
 small_AJ0
@@ -12496,7 +12496,7 @@ titles_NN2
 Some_DT0
 of_PRF
 the_AT0
-missing_VVG-AJ0
+missing_VVG
 texts_NN2
 were_VBD
 significant_AJ0
@@ -12606,7 +12606,7 @@ for_PRP
 too_AV0
 long_AJ0
 the_AT0
-cry_VVI
+cry_NN1
 of_PRF
 librarians_NN2
 disposing_VVG
@@ -12626,7 +12626,7 @@ the_AT0
 BL_UNC
 or_CJC
 the_AT0
-Bod_NN1-NP0
+Bod_NP0
 or_CJC
 wherever_AVQ
 The_AT0
@@ -12677,7 +12677,7 @@ the_AT0
 tab_NN1
 Unfortunately_AV0
 the_AT0
-single-copy_AJ0-NN1
+single-copy_AJ0
 fallacy_NN1
 the_AT0
 idea_NN1
@@ -12984,7 +12984,7 @@ CENTRAL_AJ0
 LIBRARY_NN1
 WITHDRAWN_VVN
 FROM_PRP
-STOCK_NN1-NP0
+STOCK_NN1
 It_PNP
 could_VM0
 be_VBI
@@ -13000,7 +13000,7 @@ only_AV0
 popular_AJ0
 texts_NN2
 are_VBB
-involved_AJ0
+involved_VVN
 But_CJC
 owing_VVG
 to_TO0
@@ -13034,7 +13034,7 @@ concern_NN1
 with_PRP
 visual_AJ0
 appearance_NN1
-accords_VVZ-NN2
+accords_NN2
 with_PRP
 the_AT0
 best_AJS
@@ -13240,9 +13240,9 @@ Convention_NN1
 manifesto_NN1
 is_VBZ
 not_XX0
-listed_AJ0
+listed_VVN
 The_AT0
-single-copy_AJ0-NN1
+single-copy_AJ0
 fallacy_NN1
 operates_VVZ
 here_AV0
@@ -13443,7 +13443,7 @@ British_AJ0
 Library_NN1
 itself_PNX
 will_VM0
-fall_VVI
+fall_NN1
 prey_NN1
 to_TO0
 the_AT0
@@ -13478,7 +13478,7 @@ Library_NN1
 including_PRP
 an_AT0
 editio_NN1
-princeps_NN2-VVZ
+princeps_NN2
 But_CJC
 developments_NN2
 in_PRP
@@ -13653,7 +13653,7 @@ armaments_NN2
 race_NN1
 and_CJC
 the_AT0
-un-English_AJ0-NN1
+un-English_NN1
 bureaucracy_NN1
 a_AT0
 legacy_NN1
@@ -13778,7 +13778,7 @@ for_PRP
 cataloguing_NN1
 is_VBZ
 not_XX0
-stinted_VVN-AJ0
+stinted_VVN
 Immense_AJ0
 sums_NN2
 are_VBB
@@ -13813,16 +13813,16 @@ will_VM0
 be_VBI
 just_AV0
 as_CJS
-damaging_VVG-AJ0
+damaging_AJ0
 BATH_NP0
 MUNICIPAL_AJ0
 REFERENCE_NN1
 LIBRARY_NN1
 WITHDRAWN_VVN
 FROM_PRP
-STOCK_NN1-NP0
+STOCK_NN1
 The_AT0
-Rise_NN1-VVB
+Rise_NN1
 of_PRF
 Semi-Literacy_NN1
 Throughout_PRP
@@ -13844,7 +13844,7 @@ dispersal_NN1
 of_PRF
 libraries_NN2
 are_VBB
-inter-related_VVN-AJ0
+inter-related_AJ0
 phenomena_NN2
 the_AT0
 one_CRD
@@ -14023,7 +14023,7 @@ the_AT0
 scripts_NN2
 of_PRF
 programmes_NN2
-broadcast_VVN
+broadcast_NN1
 in_PRP
 a_AT0
 radio_NN1
@@ -14052,7 +14052,7 @@ pamphlets_NN2
 to_TO0
 accompany_VVI
 them_PNP
-Listening_VVG-NN1
+Listening_VVG
 circles_NN2
 were_VBD
 set_VVN
@@ -14110,7 +14110,7 @@ Muriel_NP0
 Spark_NN1
 's_POS
 book_NN1
-listed_AJ0
+listed_VVN
 here_AV0
 Voices_NN2
 at_PRP
@@ -14136,7 +14136,7 @@ contributions_NN2
 to_TO0
 the_AT0
 wartime_NN1
-broadcast_VVN
+broadcast_NN1
 poetry_NN1
 magazine_NN1
 Voice_NN1
@@ -14207,7 +14207,7 @@ It_PNP
 was_VBD
 discarded_VVN
 when_CJS
-shelving_VVG-NN1
+shelving_VVG
 had_VHD
 to_TO0
 be_VBI
@@ -14259,7 +14259,7 @@ Sefton_NP0
 Delmer_NP0
 's_POS
 Black_AJ0
-Boomerang_NN1-NP0
+Boomerang_NN1
 an_AT0
 account_NN1
 of_PRF
@@ -14435,7 +14435,7 @@ of_PRF
 impact_NN1
 A_AT0
 text_NN1
-listed_AJ0
+listed_VVN
 here_AV0
 from_PRP
 America_NP0
@@ -14465,7 +14465,7 @@ hopes_NN2
 except_CJS
 in_PRP
 certain_AJ0
-closed_VVD
+closed_VVN
 circuit_NN1
 situations_NN2
 where_AVQ
@@ -14539,7 +14539,7 @@ far_AV0
 as_CJS
 literacy_NN1
 goes_VVZ
-Tie-in_NN1-AJ0
+Tie-in_AJ0
 books_NN2
 are_VBB
 a_AT0
@@ -14585,7 +14585,7 @@ hog_NN1
 the_AT0
 limelight_NN1
 and_CJC
-drive_VVI
+drive_NN1
 out_AVP
 real_AJ0
 books_NN2
@@ -14648,7 +14648,7 @@ tie-in_NN1
 books_NN2
 that_CJT
 are_VBB
-involved_AJ0
+involved_VVN
 This_DT0
 is_VBZ
 due_AJ0
@@ -14804,7 +14804,7 @@ programmes_NN2
 The_AT0
 television_NN1
 series_NN0
-Twin_NN1-AJ0
+Twin_NN1
 Peaks_NN2
 produced_VVN
 a_AT0
@@ -14817,7 +14817,7 @@ be_VBI
 read_VVI
 in_PRP
 true_AJ0
-page-turner_AJ0-NN1
+page-turner_NN1
 style_NN1
 by_PRP
 legions_NN2
@@ -14957,7 +14957,7 @@ The_AT0
 publicity_NN1
 for_PRP
 The_AT0
-Silence_NN1-VVB
+Silence_NN1
 of_PRF
 the_AT0
 Lambs_NN2
@@ -14992,7 +14992,7 @@ any_DT0
 impact_NN1
 at_PRP
 the_AT0
-box-office_AJ0-NN1
+box-office_NN1
 This_DT0
 is_VBZ
 clearly_AV0
@@ -15086,7 +15086,7 @@ the_AT0
 Gothic_AJ0
 novel_NN1
 The_AT0
-Silence_NN1-VVB
+Silence_NN1
 of_PRF
 the_AT0
 Lambs_NN2
@@ -15272,7 +15272,7 @@ like_PRP
 if_CJS
 the_AT0
 popular_AJ0
-mass-circulation_AJ0-NN1
+mass-circulation_NN1
 libraries_NN2
 had_VHD
 not_XX0
@@ -15355,7 +15355,7 @@ reduce_VVI
 the_AT0
 time_NN1
 the_AT0
-average_AJ0-NN1
+average_AJ0
 family_NN1
 spends_VVZ
 watching_VVG
@@ -15702,7 +15702,7 @@ dialogue_NN1
 combined_VVN
 with_PRP
 cynical_AJ0
-market-research-led_AJ0-NN1
+market-research-led_AJ0
 Realpolitik_NN1
 It_PNP
 is_VBZ
@@ -15791,7 +15791,7 @@ library_NN1
 and_CJC
 had_VHD
 been_VBN
-cast_VVN
+cast_NN1
 out_AVP
 They_PNP
 are_VBB
@@ -15806,7 +15806,7 @@ of_PRF
 books_NN2
 printed_VVN
 in_PRP
-English_AJ0-NN1
+English_AJ0
 that_CJT
 anyone_PNI
 might_VM0

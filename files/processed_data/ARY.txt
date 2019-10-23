@@ -1,4 +1,4 @@
-IFSCC_NP0-NN1
+IFSCC_NN1
 Benefactors_NN2
 The_AT0
 current_AJ0
@@ -18,7 +18,7 @@ continuing_AJ0
 support_NN1
 of_PRF
 the_AT0
-IFSCC_NP0-NN1
+IFSCC_NN1
 are_VBB
 shown_VVN
 below_AV0
@@ -32,7 +32,7 @@ substantial_AJ0
 contribution_NN1
 to_TO0
 the_AT0
-IFSCC_NP0-NN1
+IFSCC_NN1
 in_PRP
 supporting_VVG
 members_NN2
@@ -48,7 +48,7 @@ also_AV0
 go_VVI
 to_TO0
 GENERAL_AJ0
-PREFACE_NN1-VVB
+PREFACE_NN1
 TO_PRP
 THE_AT0
 SERIES_NN0
@@ -96,7 +96,7 @@ topic_NN1
 Monographs_NN2
 already_AV0
 published_VVN
-IFSCC_NP0-NN1
+IFSCC_NN1
 Monograph_NN1
 Number_NN1
 1_CRD
@@ -199,7 +199,7 @@ every_AT0
 situation_NN1
 be_VBI
 avoided_VVN
-Clear_VVB
+Clear_AJ0
 identification_NN1
 of_PRF
 the_AT0
@@ -236,7 +236,7 @@ of_PRF
 Shelf-Life_NN1
 1_CRD
 ii_CRD
-Release_VVB-NN1
+Release_VVB
 and_CJC
 Check_VVB
 Specifications_NN2
@@ -260,11 +260,11 @@ of_PRF
 Stability_NN1
 Testing_NN1
 a_AT0
-Elevated_AJ0-VVD
+Elevated_AJ0
 Temperatures_NN2
 6_CRD
 b_ZZ0
-Elevated_AJ0-VVD
+Elevated_AJ0
 Humidities_NN2
 6_CRD
 c_ZZ0
@@ -272,7 +272,7 @@ Cycling_NN1
 Tests_NN2
 6_CRD
 d_ZZ0
-Freeze/Thaw_VVB-NN1
+Freeze/Thaw_NN1
 Tests_NN2
 7_CRD
 e_ZZ0
@@ -314,7 +314,7 @@ Cycling_NN1
 Tests_NN2
 9_CRD
 iii_CRD
-Freeze/Thaw_VVB-NN1
+Freeze/Thaw_NN1
 Tests_NN2
 10_CRD
 iv_CRD
@@ -335,8 +335,8 @@ Formulation_NN1
 Samples_NN2
 12_CRD
 ii_CRD
-Pilot_NN1-VVB
-Plant_NN1-VVB
+Pilot_NN1
+Plant_NN1
 Samples_NN2
 12_CRD
 iii_CRD
@@ -619,7 +619,7 @@ to_TO0
 its_DPS
 specification_NN1
 ii_CRD
-Release_VVB-NN1
+Release_VVB
 and_CJC
 Check_VVB
 Specifications_NN2
@@ -901,7 +901,7 @@ check_VVI
 specification_NN1
 is_VBZ
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 shelf-life_NN1
 the_AT0
 product_NN1
@@ -946,14 +946,14 @@ the_AT0
 specification_NN1
 that_CJT
 are_VBB
-involved_AJ0
+involved_VVN
 ingredients_NN2
 that_CJT
 undergo_VVI
 decomposition_NN1
 do_VDB
 obviously_AV0
-fall_VVI
+fall_NN1
 but_CJC
 other_AJ0
 parameters_NN2
@@ -1165,7 +1165,7 @@ are_VBB
 i_CRD
 the_AT0
 inherent_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 and_CJC
 physical_AJ0
 stability_NN1
@@ -1339,7 +1339,7 @@ together_AV0
 constitute_VVB
 the_AT0
 total_AJ0
-overall_AJ0-NN1
+overall_AJ0
 stability_NN1
 of_PRF
 the_AT0
@@ -1378,7 +1378,7 @@ stability_NN1
 tests_NN2
 Figure_NN1
 1_CRD
-Release_VVB-NN1
+Release_VVB
 and_CJC
 check_VVI
 specifications_NN2
@@ -1637,7 +1637,7 @@ occurring_VVG
 at_PRP
 normal_AJ0
 conditions_NN2
-Experience_NN1-VVB
+Experience_NN1
 shows_VVZ
 that_CJT
 the_AT0
@@ -1709,7 +1709,7 @@ following_AJ0
 test_NN1
 conditions_NN2
 a_AT0
-Elevated_AJ0-VVD
+Elevated_AJ0
 Temperatures_NN2
 A_AT0
 general_AJ0
@@ -1786,7 +1786,7 @@ product_NN1
 that_CJT
 shows_VVZ
 good_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 stability_NN1
 at_PRP
 70\xe2\x80\x9380\xc2\xb0C_UNC
@@ -1804,7 +1804,7 @@ physically_AV0
 at_PRP
 normal_AJ0
 temperatures_NN2
-Suggested_AJ0-VVN
+Suggested_AJ0
 test_NN1
 storage_NN1
 temperatures_NN2
@@ -1812,7 +1812,7 @@ are_VBB
 discussed_VVN
 later_AV0
 b_ZZ0
-Elevated_AJ0-VVD
+Elevated_AJ0
 Humidities_NN2
 Tests_NN2
 at_PRP
@@ -1971,7 +1971,7 @@ subject_NN1
 the_AT0
 pack_NN1
 to_TO0
-varying_AJ0-VVG
+varying_AJ0
 rather_AV0
 than_CJS
 static_AJ0
@@ -2001,7 +2001,7 @@ in_PRP
 aluminium_NN1
 tubes_NN2
 d_ZZ0
-Freeze/Thaw_VVB-NN1
+Freeze/Thaw_NN1
 Tests_NN2
 Such_DT0
 tests_NN2
@@ -2095,7 +2095,7 @@ battery_NN1
 of_PRF
 fluorescent_AJ0
 tubes_NN2
-Experience_NN1-VVB
+Experience_NN1
 shows_VVZ
 that_CJT
 it_PNP
@@ -2178,7 +2178,7 @@ do_VDB
 not_XX0
 break_VVI
 or_CJC
-foams_NN2-VVZ
+foams_VVZ
 collapse_NN1
 IV_CRD
 Test_NN1
@@ -2209,7 +2209,7 @@ for_PRP
 control_NN1
 purposes_NN2
 since_CJS
-chemical_AJ0-NN1
+chemical_AJ0
 but_CJC
 not_XX0
 necessarily_AV0
@@ -2287,7 +2287,7 @@ humidity_NN1
 37\xc2\xb0C/80_UNC
 per_UNC
 cent_UNC
-relative_AJ0-NN1
+relative_AJ0
 humidity_NN1
 All_DT0
 of_PRF
@@ -2346,7 +2346,7 @@ be_VBI
 stored_VVN
 at_PRP
 a_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 of_PRF
 three_CRD
 different_AJ0
@@ -2362,7 +2362,7 @@ other_AJ0
 80_CRD
 per_UNC
 cent_UNC
-relative_AJ0-NN1
+relative_AJ0
 humidity_NN1
 is_VBZ
 recommended_VVN
@@ -2517,7 +2517,7 @@ high_AJ0
 humidity_NN1
 are_VBB
 often_AV0
-interrelated_AJ0-VVN
+interrelated_AJ0
 and_CJC
 while_CJS
 it_PNP
@@ -2735,7 +2735,7 @@ very_AV0
 sever_VVI
 and_CJC
 potentially_AV0
-damaging_VVG-AJ0
+damaging_AJ0
 The_AT0
 temperatures_NN2
 in_PRP
@@ -2775,7 +2775,7 @@ market_NN1
 may_VM0
 be_VBI
 more_AV0
-damaging_VVG-AJ0
+damaging_AJ0
 than_CJS
 actual_AJ0
 conditions_NN2
@@ -2952,7 +2952,7 @@ encountered_VVN
 in_PRP
 the_AT0
 market_NN1
-Suggested_AJ0-VVN
+Suggested_AJ0
 conditions_NN2
 for_PRP
 such_DT0
@@ -2978,9 +2978,9 @@ alternating_AJ0
 24_CRD
 hourly_AJ0
 iii_CRD
-Freeze/Thaw_VVB-NN1
+Freeze/Thaw_NN1
 Tests_NN2
-Freeze/thaw_VVB-NN1
+Freeze/thaw_VVB
 minus_PRP
 30\xc2\xb0C/R.T._UNC
 tests_NN2
@@ -3002,7 +3002,7 @@ semi-solid_AJ0
 products_NN2
 A_AT0
 suggested_VVN
-minimum_AJ0-NN1
+minimum_AJ0
 number_NN1
 of_PRF
 cycles_NN2
@@ -3082,7 +3082,7 @@ by_PRP
 exposure_NN1
 to_TO0
 light_NN1
-Recommended_AJ0-VVN
+Recommended_AJ0
 test_NN1
 conditions_NN2
 are_VBB
@@ -3219,7 +3219,7 @@ of_PRF
 the_AT0
 light_NN1
 they_PNP
-emit_VVI
+emit_VVB
 changes_NN2
 This_DT0
 difficulty_NN1
@@ -3367,7 +3367,7 @@ strips_NN2
 of_PRF
 wool_NN1
 cloth_NN1
-dyed_AJ0
+dyed_VVN
 with_PRP
 different_AJ0
 dyes_NN2
@@ -3487,7 +3487,7 @@ vibration_NN1
 Emulsions_NN2
 may_VM0
 be_VBI
-centrifuged_VVN-AJ0
+centrifuged_VVN
 as_CJS
 a_AT0
 means_NN0
@@ -3497,7 +3497,7 @@ stability_NN1
 The_AT0
 practical_AJ0
 considerations_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 storage_NN1
@@ -3529,7 +3529,7 @@ take_VVI
 the_AT0
 form_NN1
 of_PRF
-walk-in_NN1-AJ0
+walk-in_NN1
 rooms_NN2
 maintained_VVN
 at_PRP
@@ -3551,7 +3551,7 @@ are_VBB
 more_AV0
 practicable_AJ0
 Within_PRP
-closed_VVD
+closed_VVN
 chambers_NN2
 or_CJC
 vessels_NN2
@@ -3777,8 +3777,8 @@ than_CJS
 later_AV0
 formulae_NN2
 ii_CRD
-Pilot_NN1-VVB
-Plant_NN1-VVB
+Pilot_NN1
+Plant_NN1
 Samples_NN2
 It_PNP
 is_VBZ
@@ -4161,7 +4161,7 @@ product_NN1
 in_PRP
 inert_AJ0
 tightly_AV0
-closed_VVD
+closed_VVN
 containers_NN2
 see_VVI
 controls_NN2
@@ -4495,7 +4495,7 @@ omit_VVI
 certain_AJ0
 of_PRF
 the_AT0
-scheduled_VVN-AJ0
+scheduled_VVN
 examinations_NN2
 at_PRP
 lower_AJC
@@ -4993,7 +4993,7 @@ ingredient_NN1
 with_PRP
 other_AJ0
 compounds_NN2
-present_AJ0-NN1
+present_AJ0
 Analytical_AJ0
 methods_NN2
 used_VVN
@@ -5126,7 +5126,7 @@ in_PRP
 the_AT0
 product_NN1
 specification_NN1
-Challenge_VVB-NN1
+Challenge_NN1
 tests_NN2
 should_VM0
 always_AV0
@@ -5153,7 +5153,7 @@ to_TO0
 have_VHB
 an_AT0
 effective_AJ0
-preservative_AJ0-NN1
+preservative_AJ0
 system_NN1
 Some_DT0
 preservatives_NN2
@@ -5182,7 +5182,7 @@ others_NN2
 may_VM0
 undergo_VVI
 degradation_NN1
-Challenge_VVB-NN1
+Challenge_NN1
 tests_NN2
 for_PRP
 the_AT0
@@ -5192,7 +5192,7 @@ the_AT0
 antimicrobial_AJ0
 efficacy_NN1
 of_PRF
-preservative_AJ0-NN1
+preservative_AJ0
 systems_NN2
 in_PRP
 pharmaceutical_AJ0
@@ -5209,7 +5209,7 @@ XXII_CRD
 and_CJC
 the_AT0
 British_AJ0
-Pharmacopoeia_NP0-NN1
+Pharmacopoeia_NP0
 1988_CRD
 While_CJS
 the_AT0
@@ -5220,7 +5220,7 @@ identical_AJ0
 both_AV0
 challenge_NN1
 the_AT0
-preservative_AJ0-NN1
+preservative_AJ0
 system_NN1
 with_PRP
 the_AT0
@@ -5305,7 +5305,7 @@ activity_NN1
 e.g._AV0
 thiomersal_NN1
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 degradation_NN1
 product_NN1
 of_PRF
@@ -5326,7 +5326,7 @@ Pack_NN1
 Except_CJS
 for_PRP
 non-volatile_AJ0
-non-absorbent_NN1-AJ0
+non-absorbent_AJ0
 products_NN2
 weight_NN1
 loss_NN1
@@ -5753,7 +5753,7 @@ obtained_VVN
 of_PRF
 the_AT0
 examinations_NN2
-scheduled_VVN-AJ0
+scheduled_VVN
 for_PRP
 the_AT0
 next_ORD
@@ -6122,7 +6122,7 @@ product-container_AJ0
 compatibility_NN1
 tests_NN2
 The_AT0
-Arrhenius_NP0-NN1
+Arrhenius_NN1
 equation_NN1
 or_CJC
 where_AVQ
@@ -6156,7 +6156,7 @@ the_AT0
 investigation_NN1
 of_PRF
 the_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 stability_NN1
 of_PRF
 single_AJ0
@@ -6681,7 +6681,7 @@ an_AT0
 acceleration_NN1
 of_PRF
 8\xe2\x80\x9310_CRD
-fold_VVI
+fold_NN1
 over_PRP
 20\xc2\xb0C/80_UNC
 per_UNC
@@ -6929,7 +6929,7 @@ to_TO0
 give_VVI
 a_AT0
 general_AJ0
-overall_AJ0-NN1
+overall_AJ0
 clearance_NN1
 of_PRF
 a_AT0
@@ -7365,7 +7365,7 @@ test_NN1
 is_VBZ
 designed_VVN
 to_TO0
-yield_VVI
+yield_NN1
 that_CJT
 information_NN1
 Time_NN1

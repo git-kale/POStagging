@@ -177,7 +177,7 @@ early_AJ0
 as_CJS
 1752_CRD
 David_NP0
-Hume_NP0-NN1
+Hume_NP0
 noted_VVN
 that_CJT
 the_AT0
@@ -203,7 +203,7 @@ has_VHZ
 given_VVN
 it_PNP
 stability_NN1
-Hume_NP0-NN1
+Hume_NP0
 1906_CRD
 203_CRD
 Britain_NP0
@@ -223,7 +223,7 @@ and_CJC
 patron_NN1
 of_PRF
 mankind_NN1
-Hume_NP0-NN1
+Hume_NP0
 1906_CRD
 76_CRD
 To_TO0
@@ -510,7 +510,7 @@ should_VM0
 become_VVI
 part_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 law_NN1
 In_PRP
 this_DT0
@@ -965,7 +965,7 @@ journal_NN1
 Index_NN1
 on_PRP
 Censorship_NN1
-devoted_AJ0-VVN
+devoted_AJ0
 the_AT0
 whole_AJ0
 of_PRF
@@ -1051,7 +1051,7 @@ the_AT0
 Daily_AJ0
 Telegraph_NN1
 has_VHZ
-devoted_AJ0-VVN
+devoted_AJ0
 a_AT0
 page_NN1
 to_TO0
@@ -1101,12 +1101,12 @@ Conservative_AJ0
 back-benchers_NN2
 like_PRP
 Richard_NP0
-Shepherd_NP0-NN1
+Shepherd_NP0
 and_CJC
 Jonathan_NP0
 Aitken_NP0
 have_VHB
-voiced_VVN-VVD
+voiced_VVN
 their_DPS
 concern_NN1
 at_PRP
@@ -1126,7 +1126,7 @@ of_PRF
 this_DT0
 atmosphere_NN1
 of_PRF
-near-hysteria_NN1-AJ0
+near-hysteria_NN1
 in_PRP
 which_DTQ
 with_PRP
@@ -1250,7 +1250,7 @@ end-product_NN1
 was_VBD
 interpreted_VVN
 and_CJC
-enforced_AJ0
+enforced_VVN
 by_PRP
 judges_NN2
 who_PNQ
@@ -2040,7 +2040,7 @@ about_PRP
 the_AT0
 need_VVB
 to_TO0
-present_AJ0-NN1
+present_AJ0
 policy_NN1
 better_AJC
 and_CJC
@@ -2320,7 +2320,7 @@ more_AV0
 than_CJS
 a_AT0
 jaded_AJ0
-footnote_VVB-NN1
+footnote_NN1
 Pride_NN1
 in_PRP
 the_AT0
@@ -2362,7 +2362,7 @@ Mrs_NP0
 Thatcher_NP0
 has_VHZ
 merely_AV0
-utilized_VVD
+utilized_VVN
 to_TO0
 the_AT0
 full_AJ0
@@ -2499,7 +2499,7 @@ be_VBI
 one_CRD
 of_PRF
 the_AT0
-chief_AJ0-NN1
+chief_NN1
 casualties_NN2
 of_PRF
 a_AT0
@@ -2541,7 +2541,7 @@ British_AJ0
 Constitution_NN1
 Historically_AV0
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 safeguard_NN1
 was_VBD
 the_AT0
@@ -2586,7 +2586,7 @@ the_AT0
 rule_NN1
 of_PRF
 law_NN1
-involved_AJ0
+involved_VVN
 three_CRD
 propositions_NN2
 First_ORD
@@ -2676,7 +2676,7 @@ ordinary_AJ0
 tribunals_NN2
 Thirdly_AV0
 it_PNP
-involved_AJ0
+involved_VVN
 saying_VVG
 that_CJT
 the_AT0
@@ -3022,7 +3022,7 @@ There_EX0
 was_VBD
 in_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 constitution_NN1
 an_AT0
 absence_NN1
@@ -3034,7 +3034,7 @@ definitions_NN2
 of_PRF
 rights_NN2
 so_AV0
-dear_ITJ
+dear_NN1
 to_TO0
 foreign_AJ0
 constitutionalists_NN2
@@ -3064,7 +3064,7 @@ constantly_AV0
 are_VBB
 suspended_VVN
 the_AT0
-English_AJ0-NN1
+English_AJ0
 emphasis_NN1
 on_PRP
 specific_AJ0
@@ -3256,7 +3256,7 @@ or_CJC
 where_AVQ
 the_AT0
 courts_NN2
-contrived_VVD
+contrived_VVN
 to_TO0
 discover_VVI
 or_CJC
@@ -3559,7 +3559,7 @@ was_VBD
 no_AT0
 assault_NN1
 because_CJS
-cocooned_VVN-VVD
+cocooned_VVN
 within_PRP
 their_DPS
 vehicles_NN2
@@ -3917,7 +3917,7 @@ of_PRF
 retrospective_AJ0
 regulation_NN1
 Freedom_NN1
-retreats_VVZ-NN2
+retreats_VVZ
 in_PRP
 the_AT0
 face_NN1
@@ -3981,7 +3981,7 @@ by_PRP
 the_AT0
 decisions_NN2
 of_PRF
-English_AJ0-NN1
+English_AJ0
 judges_NN2
 The_AT0
 law_NN1
@@ -4003,7 +4003,7 @@ individuals_NN2
 as_CJS
 defined_VVN
 and_CJC
-enforced_AJ0
+enforced_VVN
 by_PRP
 the_AT0
 courts_NN2
@@ -4337,7 +4337,7 @@ Their_DPS
 willingness_NN1
 to_TO0
 grant_NN1
-ex-parte_AJ0-NN1
+ex-parte_AJ0
 and_CJC
 interlocutory_AJ0
 injunctions_NN2
@@ -4364,7 +4364,7 @@ crucially_AV0
 delayed_VVN
 see_VVI
 the_AT0
-Zircon_NN1-NP0
+Zircon_NN1
 affair_NN1
 and_CJC
 the_AT0
@@ -4405,7 +4405,7 @@ and_CJC
 Glidewell_NP0
 J._NP0
 's_POS
-first-instance_AJ0-NN1
+first-instance_NN1
 decision_NN1
 in_PRP
 the_AT0
@@ -4416,7 +4416,7 @@ these_DT0
 are_VBB
 deviations_NN2
 and_CJC
-dissents_VVZ-NN2
+dissents_VVZ
 rather_AV0
 than_CJS
 the_AT0
@@ -4470,7 +4470,7 @@ the_AT0
 dismissal_NN1
 of_PRF
 a_AT0
-chief_AJ0-NN1
+chief_NN1
 constable_NN1
 and_CJC
 the_AT0
@@ -4759,7 +4759,7 @@ is_VBZ
 required_VVN
 to_TO0
 have_VHB
-exhausted_VVN-AJ0
+exhausted_VVN
 all_DT0
 local_AJ0
 remedies_NN2
@@ -4808,7 +4808,7 @@ the_AT0
 matter_NN1
 will_VM0
 be_VBI
-binding_VVG-AJ0
+binding_AJ0
 on_PRP
 the_AT0
 nation_NN1
@@ -5085,7 +5085,7 @@ unless_CJS
 it_PNP
 has_VHZ
 been_VBN
-abridged_VVN-AJ0
+abridged_VVN
 by_PRP
 a_AT0
 law_NN1
@@ -5152,7 +5152,7 @@ rights_NN2
 on_PRP
 terrorism_NN1
 on_PRP
-telephone-tapping_NN1-AJ0
+telephone-tapping_NN1
 on_PRP
 birching_NN1
 in_PRP
@@ -5236,7 +5236,7 @@ of_PRF
 the_AT0
 individual_AJ0
 judges_NN2
-involved_AJ0
+involved_VVN
 The_AT0
 Sunday_NP0
 Times_NN2
@@ -5363,7 +5363,7 @@ Commission_NN1
 after_PRP
 they_PNP
 have_VHB
-exhausted_VVN-AJ0
+exhausted_VVN
 all_DT0
 locally_AV0
 available_AJ0
@@ -5524,10 +5524,10 @@ the_AT0
 courts_NN2
 have_VHB
 nevertheless_AV0
-contrived_VVD
+contrived_VVN
 to_TO0
 let_VVB
-pro-executive_NN1-AJ0
+pro-executive_AJ0
 exceptions_NN2
 swallow_VVI
 the_AT0
@@ -5712,19 +5712,19 @@ standards_NN2
 at_PRP
 home_NN1
 Professor_NP0
-Dworkin_NN1-NP0
+Dworkin_NP0
 1988_CRD
 7\xe2\x80\x938_CRD
 has_VHZ
 summed_VVN
 up_AVP
-present_AJ0-NN1
+present_AJ0
 attitudes_NN2
 to_TO0
 liberty_NN1
 in_PRP
 his_DPS
-trenchant_NN1-AJ0
+trenchant_NN1
 piece_NN1
 in_PRP
 Index_NN1
@@ -5751,7 +5751,7 @@ more_AV0
 mundane_AJ0
 but_CJC
 still_AV0
-corrupting_VVG-AJ0
+corrupting_AJ0
 insensitivity_NN1
 to_TO0
 liberty_NN1
@@ -5816,7 +5816,7 @@ next_ORD
 election_NN1
 Thatcherism_NN1
 makes_VVZ
-intellectual_AJ0-NN1
+intellectual_AJ0
 liberty_NN1
 just_AV0
 another_DT0
@@ -5864,7 +5864,7 @@ and_CJC
 diminishes_VVZ
 the_AT0
 nation_NN1
-Dworkin_NN1-NP0
+Dworkin_NP0
 concludes_VVZ
 that_CJT
 liberty_NN1
@@ -6252,7 +6252,7 @@ superintendent_NN1
 and_CJC
 for_PRP
 a_AT0
-chief_AJ0-NN1
+chief_NN1
 constable_NN1
 \xc2\xa346,914_NN0
 This_DT0
@@ -6311,7 +6311,7 @@ autumn_NN1
 of_PRF
 1988_CRD
 an_AT0
-average_AJ0-NN1
+average_AJ0
 pay_VVI
 rise_NN1
 of_PRF
@@ -6610,7 +6610,7 @@ incident_NN1
 was_VBD
 filmed_VVN
 and_CJC
-broadcast_VVN
+broadcast_NN1
 later_AV0
 on_PRP
 national_AJ0
@@ -6940,7 +6940,7 @@ his_DPS
 links_NN2
 with_PRP
 drug_NN1
-smuggling_NN1-VVG
+smuggling_VVG
 and_CJC
 criminal_AJ0
 gangs_NN2
@@ -7214,7 +7214,7 @@ detentions_NN2
 were_VBD
 many_DT0
 and_CJC
-varied_AJ0
+varied_VVN
 but_CJC
 there_EX0
 were_VBD
@@ -7242,7 +7242,7 @@ Act_NN1
 1863_CRD
 or_CJC
 the_AT0
-Public_AJ0-NN1
+Public_AJ0
 Stores_NN2
 Act_NN1
 1875_CRD
@@ -7464,7 +7464,7 @@ rather_AV0
 than_CJS
 five_CRD
 years_NN2
-minimum_AJ0-NN1
+minimum_AJ0
 was_VBD
 now_AV0
 to_TO0
@@ -7773,7 +7773,7 @@ property_NN1
 and_CJC
 customs_NN2
 and_CJC
-excise_VVI
+excise_NN1
 legislation_NN1
 The_AT0
 Government_NN1
@@ -7784,7 +7784,7 @@ adding_VVG
 offences_NN2
 under_PRP
 the_AT0
-Official_AJ0-NN1
+Official_AJ0
 Secrets_NN2
 Acts_NN2
 1911_CRD
@@ -7796,7 +7796,7 @@ the_AT0
 notorious_AJ0
 and_CJC
 now_AV0
-repealed_VVN
+repealed_VVD
 section_NN1
 2_CRD
 for_PRP
@@ -7916,7 +7916,7 @@ Powers_NN2
 Act_NN1
 1920_CRD
 the_AT0
-Public_AJ0-NN1
+Public_AJ0
 Order_NN1
 Act_NN1
 1936_CRD
@@ -8392,7 +8392,7 @@ officers_NN2
 spotted_VVD
 a_AT0
 man_NN1
-cycling_VVG-NN1
+cycling_VVG
 without_PRP
 his_DPS
 hands_NN2
@@ -8532,7 +8532,7 @@ had_VHD
 been_VBN
 arrested_VVN
 for_PRP
-cycling_VVG-NN1
+cycling_VVG
 without_PRP
 due_AJ0
 care_NN1
@@ -8840,7 +8840,7 @@ to_TO0
 be_VBI
 in_PRP
 the_AT0
-act_VVI
+act_NN1
 of_PRF
 committing_VVG
 an_AT0
@@ -9004,7 +9004,7 @@ ideas_NN2
 on_PRP
 what_DTQ
 this_DT0
-involved_AJ0
+involved_VVN
 In_PRP
 one_CRD
 case_NN1
@@ -9065,7 +9065,7 @@ and_CJC
 open-minded_AJ0
 and_CJC
 to_TO0
-notice_VVI
+notice_NN1
 any_DT0
 relevant_AJ0
 circumstance_NN1
@@ -9781,7 +9781,7 @@ They_PNP
 may_VM0
 have_VHB
 to_TO0
-act_VVI
+act_NN1
 on_PRP
 the_AT0
 spur_NN1
@@ -9837,7 +9837,7 @@ practicable_AJ0
 enquiries_NN2
 from_PRP
 persons_NN2
-present_AJ0-NN1
+present_AJ0
 or_CJC
 immediately_AV0
 accessible_AJ0
@@ -9929,7 +9929,7 @@ forbidden_VVN
 it_PNP
 could_VM0
 seriously_AV0
-hamper_VVI
+hamper_NN1
 the_AT0
 police_NN2
 To_TO0
@@ -10242,7 +10242,7 @@ the_AT0
 courts_NN2
 and_CJC
 rarely_AV0
-adverted_VVD-VVN
+adverted_VVN
 to_TO0
 as_CJS
 a_AT0
@@ -10795,7 +10795,7 @@ By_PRP
 1984_CRD
 it_PNP
 had_VHD
-crystallized_VVN
+crystallized_VVD
 into_PRP
 a_AT0
 firm_NN1
@@ -10889,7 +10889,7 @@ to_TO0
 prevent_VVI
 a_AT0
 suspect_VVB
-absconding_VVG-NN1
+absconding_NN1
 or_CJC
 to_TO0
 travel_NN1
@@ -11065,7 +11065,7 @@ said_VVD
 directly_AV0
 The_AT0
 greatly_AV0
-increased_AJ0
+increased_VVN
 power_NN1
 which_DTQ
 flows_VVZ
@@ -11152,7 +11152,7 @@ review_NN1
 officers_NN2
 superintendents_NN2
 their_DPS
-statute-designated_AJ0-NN1
+statute-designated_NN1
 friends_NN2
 It_PNP
 is_VBZ
@@ -11264,7 +11264,7 @@ in_PRP
 the_AT0
 case_NN1
 of_PRF
-Parchment_NP0-NN1
+Parchment_NN1
 the_AT0
 police_NN2
 committed_VVN
@@ -11806,7 +11806,7 @@ examination_NN1
 of_PRF
 a_AT0
 section_NN1
-tucked_VVN-VVD
+tucked_VVD
 away_AV0
 right_NN1
 at_PRP
@@ -12008,7 +12008,7 @@ such_DT0
 an_AT0
 offence_NN1
 is_VBZ
-involved_AJ0
+involved_VVN
 All_DT0
 the_AT0
 superintendent_NN1
@@ -12031,7 +12031,7 @@ this_DT0
 safeguard_NN1
 therefore_AV0
 is_VBZ
-obviated_VVN-AJ0
+obviated_VVN
 where_AVQ
 the_AT0
 police_NN2
@@ -12572,7 +12572,7 @@ provisions_NN2
 is_VBZ
 clear_AJ0
 Their_DPS
-overall_AJ0-NN1
+overall_AJ0
 effect_NN1
 is_VBZ
 to_TO0
@@ -12585,7 +12585,7 @@ ninety-six_CRD
 hours_NN2
 a_AT0
 far_AV0
-cry_VVI
+cry_NN1
 from_PRP
 the_AT0
 limit_NN1
@@ -12716,7 +12716,7 @@ open_AJ0
 and_CJC
 your_DPS
 mouth_NN1
-shut_VVB
+shut_VVN
 By_PRP
 silent_AJ0
 watchfulness_NN1
@@ -12729,7 +12729,7 @@ ought_VM0
 to_TO0
 hear_VVI
 Never_AV0
-act_VVI
+act_NN1
 unfairly_AV0
 to_TO0
 a_AT0
@@ -12923,7 +12923,7 @@ a_AT0
 broader_AJC
 privilege_NN1
 against_PRP
-self-incrimination_NN1-AJ0
+self-incrimination_NN1
 The_AT0
 Royal_AJ0
 Commission_NN1
@@ -13077,7 +13077,7 @@ golden_AJ0
 thread_NN1
 running_VVG
 through_PRP
-English_AJ0-NN1
+English_AJ0
 criminal_AJ0
 justice_NN1
 The_AT0
@@ -13114,9 +13114,9 @@ confessions_NN2
 for_PRP
 example_NN1
 the_AT0
-rack_NN1-VVB
+rack_NN1
 and_CJC
-thumbscrew_NN1-VVB
+thumbscrew_NN1
 which_DTQ
 have_VHB
 sometimes_AV0
@@ -13446,7 +13446,7 @@ This_DT0
 proposal_NN1
 would_VM0
 have_VHB
-involved_AJ0
+involved_VVN
 a_AT0
 different_AJ0
 immensely_AV0
@@ -13644,7 +13644,7 @@ its_DPS
 report_NN1
 is_VBZ
 still_AV0
-awaited_VVD
+awaited_VVN
 but_CJC
 it_PNP
 seems_VVZ
@@ -13662,7 +13662,7 @@ sharply_AV0
 to_TO0
 modify_VVI
 the_AT0
-present_AJ0-NN1
+present_AJ0
 law_NN1
 If_CJS
 this_DT0
@@ -13680,7 +13680,7 @@ been_VBN
 part_NN1
 of_PRF
 a_AT0
-softening-up_NN1-AJ0
+softening-up_AJ0
 exercise_NN1
 creating_VVG
 the_AT0
@@ -14229,7 +14229,7 @@ of_PRF
 such_DT0
 an_AT0
 offence_NN1
-Access_NN1-VVB
+Access_NN1
 can_VM0
 only_AV0
 be_VBI
@@ -14298,7 +14298,7 @@ on_PRP
 section_NN1
 58(1)_UNC
 is_VBZ
-tucked_VVN-VVD
+tucked_VVD
 away_AV0
 in_PRP
 the_AT0
@@ -14420,7 +14420,7 @@ station_NN1
 after_PRP
 a_AT0
 hectic_AJ0
-drive_VVI
+drive_NN1
 only_AV0
 to_TO0
 find_VVI
@@ -14601,7 +14601,7 @@ the_AT0
 suspect_VVB
 makes_VVZ
 a_AT0
-damaging_VVG-AJ0
+damaging_AJ0
 confession_NN1
 which_DTQ
 the_AT0
@@ -14690,7 +14690,7 @@ crucial_AJ0
 question_NN1
 and_CJC
 it_PNP
-depended_VVN-VVD
+depended_VVD
 very_AV0
 much_DT0
 on_PRP
@@ -14724,7 +14724,7 @@ that_CJT
 Samuel_NP0
 had_VHD
 been_VBN
-involved_AJ0
+involved_VVN
 in_PRP
 a_AT0
 serious_AJ0
@@ -15052,7 +15052,7 @@ at_PRP
 p.m._AV0
 with_PRP
 burglary_NN1
-Access_NN1-VVB
+Access_NN1
 should_VM0
 only_AV0
 be_VBI
@@ -15517,7 +15517,7 @@ case_NN1
 was_VBD
 the_AT0
 Lord_NP0
-Chief_NP0
+Chief_NN1
 Justice_NP0
 Lord_NP0
 Lane_NP0
@@ -15601,12 +15601,12 @@ spirit_NN1
 of_PRF
 Samuel_NP0
 The_AT0
-Chief_NP0
+Chief_NN1
 Justice_NP0
 said_VVD
 that_CJT
 exclusion_NN1
-depended_VVN-VVD
+depended_VVD
 on_PRP
 all_DT0
 the_AT0
@@ -16014,7 +16014,7 @@ later_AV0
 case_NN1
 involving_VVG
 the_AT0
-Chief_NP0
+Chief_NN1
 Justice_NP0
 in_PRP
 which_DTQ
@@ -16187,7 +16187,7 @@ the_AT0
 police_NN2
 station_NN1
 The_AT0
-Haldane_NP0
+Haldane_AJ0
 Society_NN1
 was_VBD
 reported_VVN
@@ -16221,7 +16221,7 @@ Act_NN1
 After_PRP
 their_DPS
 brief_AJ0
-scare_VVI
+scare_NN1
 in_PRP
 Samuel_NP0
 it_PNP
@@ -16266,7 +16266,7 @@ that_CJT
 they_PNP
 are_VBB
 the_AT0
-trusted_VVD
+trusted_AJ0
 preservers_NN2
 of_PRF
 law_NN1
@@ -16351,7 +16351,7 @@ that_CJT
 is_VBZ
 gaining_VVG
 ground_NN1
-fast_AV0-AJ0
+fast_AJ0
 Each_DT0
 new_AJ0
 piece_NN1
@@ -16582,7 +16582,7 @@ this_DT0
 primary_AJ0
 emphasis_NN1
 on_PRP
-self-policing_NN1-AJ0
+self-policing_NN1
 Police_NN2
 liaison_NN1
 consultative_AJ0
@@ -16759,7 +16759,7 @@ confessions_NN2
 This_DT0
 mirrored_VVN
 the_AT0
-increased_AJ0
+increased_VVN
 emphasis_NN1
 on_PRP
 confession_NN1
@@ -16771,7 +16771,7 @@ forces_NN2
 around_PRP
 the_AT0
 country_NN1
-Public_AJ0-NN1
+Public_AJ0
 concern_NN1
 came_VVD
 to_TO0
@@ -16780,7 +16780,7 @@ head_NN1
 in_PRP
 the_AT0
 Maxwell_NP0
-Confait_NP0-NN1
+Confait_NP0
 case_NN1
 in_PRP
 which_DTQ
@@ -17098,7 +17098,7 @@ of_PRF
 British_AJ0
 trial_NN1
 judges_NN2
-Pressure_NN1-VVB
+Pressure_NN1
 from_PRP
 Lord_NP0
 Scarman_NP0
@@ -17284,7 +17284,7 @@ section_NN1
 which_DTQ
 the_AT0
 judges_NN2
-stressed_VVD
+stressed_VVN
 was_VBD
 concerned_AJ0
 with_PRP
@@ -17338,7 +17338,7 @@ been_VBN
 stricter_AJC
 than_CJS
 the_AT0
-English_AJ0-NN1
+English_AJ0
 judges_NN2
 in_PRP
 this_DT0
@@ -17444,7 +17444,7 @@ Holloway_NP0
 and_CJC
 into_PRP
 the_AT0
-crime-fixing_AJ0-NN1
+crime-fixing_NN1
 charges_NN2
 against_PRP
 Kent_NP0
@@ -17503,7 +17503,7 @@ even_AV0
 this_DT0
 small_AJ0
 number_NN1
-involved_AJ0
+involved_VVN
 nothing_PNI
 more_AV0
 severe_AJ0
@@ -17620,7 +17620,7 @@ fail_VVI
 to_TO0
 stifle_VVI
 the_AT0
-cry_VVI
+cry_NN1
 from_PRP
 outside_PRP
 the_AT0
@@ -17875,7 +17875,7 @@ regard_VVI
 concentrating_VVG
 mainly_AV0
 on_PRP
-telephone-tapping_NN1-AJ0
+telephone-tapping_NN1
 rather_AV0
 than_CJS
 on_PRP
@@ -17902,7 +17902,7 @@ in_PRP
 the_AT0
 practice_NN1
 of_PRF
-telephone-tapping_NN1-AJ0
+telephone-tapping_NN1
 without_PRP
 any_DT0
 direct_AJ0
@@ -17949,7 +17949,7 @@ of_PRF
 the_AT0
 Convention_NN1
 The_AT0
-Position_NN1-VVB
+Position_NN1
 before_PRP
 1985_CRD
 As_CJS
@@ -17966,7 +17966,7 @@ about_PRP
 the_AT0
 practice_NN1
 of_PRF
-telephone-tapping_NN1-AJ0
+telephone-tapping_NN1
 is_VBZ
 made_VVN
 available_AJ0
@@ -18017,7 +18017,7 @@ given_VVN
 twenty-three_CRD
 years_NN2
 earlier_AJC
-Access_NN1-VVB
+Access_NN1
 to_TO0
 information_NN1
 was_VBD
@@ -18025,7 +18025,7 @@ otherwise_AV0
 protected_VVN
 by_PRP
 the_AT0
-Official_AJ0-NN1
+Official_AJ0
 Secrets_NN2
 Act_NN1
 1911_CRD
@@ -18041,7 +18041,7 @@ tightly_AV0
 controlled_VVN
 by_PRP
 the_AT0
-Official_AJ0-NN1
+Official_AJ0
 Secrets_NN2
 Act_NN1
 1989_CRD
@@ -18148,7 +18148,7 @@ an_AT0
 offence_NN1
 under_PRP
 the_AT0
-Official_AJ0-NN1
+Official_AJ0
 Secrets_NN2
 Act_NN1
 1989_CRD
@@ -18175,7 +18175,7 @@ of_PRF
 information_NN1
 relating_VVG
 to_TO0
-telephone-tapping_NN1-AJ0
+telephone-tapping_NN1
 These_DT0
 measures_NN2
 have_VHB
@@ -18213,7 +18213,7 @@ system_NN1
 as_CJS
 has_VHZ
 Cathy_NP0
-Massiter_NP0-NN1
+Massiter_NP0
 a_AT0
 former_DT0
 MI5_UNC
@@ -18242,7 +18242,7 @@ section_NN1
 2_CRD
 of_PRF
 the_AT0
-Official_AJ0-NN1
+Official_AJ0
 Secrets_NN2
 Act_NN1
 1911_CRD
@@ -18334,7 +18334,7 @@ as_CJS
 the_AT0
 grounds_NN2
 for_PRP
-issuing_VVG-AJ0
+issuing_VVG
 such_DT0
 warrants_NN2
 were_VBD
@@ -18443,7 +18443,7 @@ numbers_NN2
 of_PRF
 people_NN0
 were_VBD
-involved_AJ0
+involved_VVN
 In_PRP
 1982_CRD
 this_DT0
@@ -19024,7 +19024,7 @@ the_AT0
 British_AJ0
 public_AJ0
 that_CJT
-telephone-tapping_NN1-AJ0
+telephone-tapping_NN1
 was_VBD
 conducted_VVN
 in_PRP
@@ -19237,7 +19237,7 @@ the_AT0
 protest_NN1
 at_PRP
 short_AJ0
-notice_VVI
+notice_NN1
 over_PRP
 the_AT0
 phone_NN1
@@ -19567,11 +19567,11 @@ and_CJC
 the_AT0
 Miners_NN2
 '_POS
-Dispute_NN1-VVB
+Dispute_NN1
 referred_VVN
 in_PRP
 its_DPS
-interim_AJ0-NN1
+interim_AJ0
 report_NN1
 to_TO0
 a_AT0
@@ -19704,7 +19704,7 @@ Walker_NP0
 1984_CRD
 46_CRD
 Although_CJS
-telephone-tapping_NN1-AJ0
+telephone-tapping_NN1
 during_PRP
 the_AT0
 miners_NN2
@@ -19713,7 +19713,7 @@ strike_NN1
 was_VBD
 relatively_AV0
 well_AV0
-publicized_VVN-VVD
+publicized_VVN
 it_PNP
 is_VBZ
 allegedly_AV0
@@ -19861,7 +19861,7 @@ has_VHZ
 been_VBN
 alleged_AJ0
 that_CJT
-ISTC_NP0-NN1
+ISTC_NP0
 offices_NN2
 at_PRP
 Rotherham_NP0
@@ -19948,9 +19948,9 @@ to_TO0
 light_NN1
 by_PRP
 Cathy_NP0
-Massiter_NP0-NN1
+Massiter_NP0
 a_AT0
-retired_AJ0
+retired_VVD
 MI5_UNC
 official_AJ0
 and_CJC
@@ -20355,7 +20355,7 @@ outrage_NN1
 while_CJS
 Mr_NP0
 David_NP0
-Steel_NN1-NP0
+Steel_NP0
 for_PRP
 the_AT0
 Liberals_NN2
@@ -20593,7 +20593,7 @@ His_DPS
 failure_NN1
 before_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 courts_NN2
 led_VVD
 him_PNP
@@ -20630,7 +20630,7 @@ these_DT0
 procedures_NN2
 in_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 courts_NN2
 Prominent_AJ0
 members_NN2
@@ -20677,7 +20677,7 @@ Malone_NP0
 case_NN1
 In_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 courts_NN2
 Mr_NP0
 Malone_NP0
@@ -20722,7 +20722,7 @@ held_VVN
 that_CJT
 words_NN2
 being_VBG
-transmitted_AJ0-VVN
+transmitted_VVN
 by_PRP
 electrical_AJ0
 impulses_NN2
@@ -20753,7 +20753,7 @@ right_NN1
 to_TO0
 privacy_NN1
 in_PRP
-English_AJ0-NN1
+English_AJ0
 law_NN1
 but_CJC
 argued_VVD
@@ -20829,7 +20829,7 @@ Amendment_NN1
 is_VBZ
 based_VVN
 upon_PRP
-English_AJ0-NN1
+English_AJ0
 common_AJ0
 law_NN1
 particularly_AV0
@@ -20905,7 +20905,7 @@ in_PRP
 privacy_NN1
 Sir_NP0
 Robert_NP0
-Megarry_NP0-NN1
+Megarry_NP0
 said_VVD
 The_AT0
 reason_NN1
@@ -20954,7 +20954,7 @@ is_VBZ
 prima_UNC
 facie_UNC
 illegal_AJ0
-Telephone_VVB-NN1
+Telephone_NN1
 tapping_VVG
 by_PRP
 the_AT0
@@ -20966,7 +20966,7 @@ other_AJ0
 hand_NN1
 involves_VVZ
 no_AT0
-act_VVI
+act_NN1
 of_PRF
 trespass_NN1
 The_AT0
@@ -21055,7 +21055,7 @@ In_PRP
 Malone_NP0
 Sir_NP0
 Robert_NP0
-Megarry_NP0-NN1
+Megarry_NP0
 held_VVN
 that_CJT
 an_AT0
@@ -21066,7 +21066,7 @@ of_PRF
 confidence_NN1
 does_VDZ
 not_XX0
-lie_VVI
+lie_VVB
 where_AVQ
 a_AT0
 person_NN1
@@ -21100,7 +21100,7 @@ of_PRF
 Appeal_NN1
 subsequently_AV0
 in_PRP
-Francome_NP0-NN1
+Francome_NN1
 v._PRP
 Mirror_NN1
 Group_NN1
@@ -21153,7 +21153,7 @@ governed_VVN
 by_PRP
 Gartside_NP0
 v._PRP
-Outram_NP0-NN1
+Outram_NP0
 where_AVQ
 it_PNP
 was_VBD
@@ -21234,7 +21234,7 @@ safeguard_NN1
 the_AT0
 arrangements_NN2
 for_PRP
-telephone-tapping_NN1-AJ0
+telephone-tapping_NN1
 even_AV0
 though_CJS
 when_CJS
@@ -21280,7 +21280,7 @@ iniquity_NN1
 The_AT0
 willingness_NN1
 to_TO0
-bend_VVI
+bend_NN1
 the_AT0
 rules_NN2
 to_TO0
@@ -21345,7 +21345,7 @@ conspiracy_NN1
 to_TO0
 assassinate_VVI
 the_AT0
-Egyptian_AJ0-NN1
+Egyptian_AJ0
 President_NP0
 2_CRD
 The_AT0
@@ -21365,7 +21365,7 @@ having_VHG
 failed_VVN
 in_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 courts_NN2
 the_AT0
 matter_NN1
@@ -21501,7 +21501,7 @@ Convention_NN1
 before_PRP
 Sir_NP0
 Robert_NP0
-Megarry_NP0-NN1
+Megarry_NP0
 He_PNP
 however_AV0
 rightly_AV0
@@ -21518,7 +21518,7 @@ any_DT0
 enforceable_AJ0
 rights_NN2
 under_PRP
-English_AJ0-NN1
+English_AJ0
 law_NN1
 but_CJC
 only_AV0
@@ -21582,7 +21582,7 @@ meet_VVI
 this_DT0
 requirement_NN1
 following_AJ0
-Megarry_NP0-NN1
+Megarry_NP0
 's_POS
 decision_NN1
 that_CJT
@@ -21852,7 +21852,7 @@ equivocal_AJ0
 decision_NN1
 in_PRP
 the_AT0
-Klass_NN1-NP0
+Klass_NN1
 case_NN1
 which_DTQ
 concerned_AJ0
@@ -21869,7 +21869,7 @@ Republic_NN1
 where_AVQ
 legislation_NN1
 authorized_AJ0
-telephone-tapping_NN1-AJ0
+telephone-tapping_NN1
 and_CJC
 other_AJ0
 surveillance_NN1
@@ -21932,7 +21932,7 @@ legislation_NN1
 required_VVN
 that_CJT
 the_AT0
-gathering_NN1
+gathering_VVG
 of_PRF
 evidence_NN1
 by_PRP
@@ -22405,7 +22405,7 @@ the_AT0
 Malone_NP0
 decision_NN1
 the_AT0
-Massiter_NP0-NN1
+Massiter_NP0
 revelations_NN2
 led_VVD
 to_TO0
@@ -22434,7 +22434,7 @@ failed_VVN
 before_PRP
 Sir_NP0
 Robert_NP0
-Megarry_NP0-NN1
+Megarry_NP0
 Mr_NP0
 John_NP0
 Cox_NP0
@@ -22473,7 +22473,7 @@ statements_NN2
 made_VVN
 by_PRP
 Cathy_NP0
-Massiter_NP0-NN1
+Massiter_NP0
 it_PNP
 became_VVD
 known_VVN
@@ -22497,7 +22497,7 @@ telephone_NN1
 calls_VVZ
 According_VVG
 to_TO0
-Massiter_NP0-NN1
+Massiter_NP0
 from_PRP
 1981_CRD
 until_CJS
@@ -22604,7 +22604,7 @@ CND_NP0
 and_CJC
 its_DPS
 leaders_NN2
-increased_AJ0
+increased_VVN
 and_CJC
 at_PRP
 the_AT0
@@ -22687,7 +22687,7 @@ on_PRP
 unilateral_AJ0
 disarmament_NN1
 Miss_NP0
-Massiter_NP0-NN1
+Massiter_NP0
 says_VVZ
 DS_NP0
 19_CRD
@@ -22739,7 +22739,7 @@ of_PRF
 a_AT0
 security_NN1
 officer_NN1
-Massiter_NP0-NN1
+Massiter_NP0
 stated_VVD
 In_PRP
 or_CJC
@@ -22805,7 +22805,7 @@ Party_NN1
 and_CJC
 had_VHD
 been_VBN
-involved_AJ0
+involved_VVN
 in_PRP
 C.N.D._NP0
 practically_AV0
@@ -23382,7 +23382,7 @@ establish_VVI
 means_NN0
 whereby_AVQ
 those_DT0
-involved_AJ0
+involved_VVN
 in_PRP
 serious_AJ0
 crimes_NN2
@@ -23401,11 +23401,11 @@ activities_NN2
 had_VHD
 come_VVI
 to_TO0
-notice_VVI
+notice_NN1
 or_CJC
 perhaps_AV0
 more_AV0
-damaging_VVG-AJ0
+damaging_AJ0
 could_VM0
 in_PRP
 some_DT0
@@ -23417,7 +23417,7 @@ activities_NN2
 had_VHD
 come_VVI
 to_TO0
-notice_VVI
+notice_NN1
 at_PRP
 all_DT0
 The_AT0
@@ -23747,7 +23747,7 @@ case_NN1
 itself_PNX
 Ruddock_NP0
 however_AV0
-differed_VVN-VVD
+differed_VVN
 from_PRP
 any_DT0
 of_PRF
@@ -23769,7 +23769,7 @@ been_VBN
 whether_CJS
 the_AT0
 admitted_VVN
-act_VVI
+act_NN1
 or_CJC
 decision_NN1
 was_VBD
@@ -23832,7 +23832,7 @@ to_TO0
 justify_VVI
 an_AT0
 undisputed_AJ0
-act_VVI
+act_NN1
 It_PNP
 is_VBZ
 raised_VVN
@@ -23915,7 +23915,7 @@ following_AJ0
 its_DPS
 decision_NN1
 so_AV0
-damaging_VVG-AJ0
+damaging_AJ0
 to_TO0
 national_AJ0
 security_NN1
@@ -24142,7 +24142,7 @@ that_CJT
 he_PNP
 did_VDD
 not_XX0
-act_VVI
+act_NN1
 unreasonably_AV0
 in_PRP
 granting_VVG
@@ -24271,7 +24271,7 @@ applicant_NN1
 John_NP0
 Cox_NP0
 was_VBD
-involved_AJ0
+involved_VVN
 at_PRP
 the_AT0
 highest_AJS
@@ -24314,7 +24314,7 @@ and_CJC
 opinions_NN2
 of_PRF
 Miss_NP0
-Massiter_NP0-NN1
+Massiter_NP0
 Against_PRP
 it_PNP
 is_VBZ
@@ -24347,7 +24347,7 @@ matter_NN1
 simply_AV0
 of_PRF
 judicial_AJ0
-notice_VVI
+notice_NN1
 that_CJT
 the_AT0
 Communist_AJ0
@@ -25063,7 +25063,7 @@ successive_AJ0
 governments_NN2
 of_PRF
 the_AT0
-Left_AJ0-NN1
+Left_AJ0
 and_CJC
 Right_AV0
 and_CJC
@@ -25305,10 +25305,10 @@ are_VBB
 inconsistent_AJ0
 with_PRP
 the_AT0
-pervading_VVG
+pervading_AJ0
 principle_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 law_NN1
 that_CJT
 men_NN2
@@ -25583,7 +25583,7 @@ against_PRP
 abuse_NN1
 Despite_PRP
 criticisms_NN2
-voiced_VVN-VVD
+voiced_VVN
 by_PRP
 the_AT0
 Post_NN1
@@ -25629,7 +25629,7 @@ take_VVI
 place_NN1
 by_PRP
 executive_NN1
-act_VVI
+act_NN1
 without_PRP
 the_AT0
 need_VVB
@@ -26130,7 +26130,7 @@ of_PRF
 fixed_AJ0
 duration_NN1
 allows_VVZ
-snooping_NN1-VVG
+snooping_VVG
 of_PRF
 an_AT0
 unauthorized_AJ0
@@ -26142,7 +26142,7 @@ more_AV0
 troubling_AJ0
 than_CJS
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 rigid_AJ0
 fixed_AJ0
 term_NN1
@@ -26361,7 +26361,7 @@ each_DT0
 case_NN1
 to_TO0
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 that_CJT
 is_VBZ
 necessary_AJ0
@@ -26709,7 +26709,7 @@ adequate_AJ0
 grounds_NN2
 for_PRP
 the_AT0
-issuing_VVG-AJ0
+issuing_VVG
 of_PRF
 a_AT0
 warrant_NN1
@@ -26795,7 +26795,7 @@ could_VM0
 conclude_VVI
 that_CJT
 the_AT0
-issuing_VVG-AJ0
+issuing_VVG
 of_PRF
 the_AT0
 warrant_NN1
@@ -26962,7 +26962,7 @@ where_AVQ
 the_AT0
 Central_AJ0
 Electricity_NN1
-Generating_AJ0-VVG
+Generating_AJ0
 Board_NN1
 unsuccessfully_AV0
 sought_VVN
@@ -26972,7 +26972,7 @@ order_NN1
 to_TO0
 require_VVB
 the_AT0
-Chief_NP0
+Chief_NN1
 Constable_NP0
 of_PRF
 Devon_NP0
@@ -27004,7 +27004,7 @@ it_PNP
 clear_AJ0
 that_CJT
 the_AT0
-Chief_NP0
+Chief_NN1
 Constable_NP0
 had_VHD
 authority_NN1
@@ -27041,7 +27041,7 @@ of_PRF
 Police_NN2
 or_CJC
 the_AT0
-chief_AJ0-NN1
+chief_NN1
 constable_NN1
 as_CJS
 the_AT0
@@ -27160,7 +27160,7 @@ the_AT0
 decision_NN1
 of_PRF
 the_AT0
-chief_AJ0-NN1
+chief_NN1
 constable_NN1
 not_XX0
 to_TO0
@@ -27579,7 +27579,7 @@ ought_VM0
 not_XX0
 to_TO0
 be_VBI
-exaggerated_AJ0
+exaggerated_VVN
 There_EX0
 is_VBZ
 no_AT0
@@ -27591,7 +27591,7 @@ Minister_NN1
 to_TO0
 publish_VVI
 any_DT0
-interim_AJ0-NN1
+interim_AJ0
 reports_NN2
 highlighting_VVG
 specific_AJ0
@@ -27886,7 +27886,7 @@ before_PRP
 it_PNP
 questioning_NN1
 people_NN0
-involved_AJ0
+involved_VVN
 looking_VVG
 at_PRP
 the_AT0
@@ -28311,7 +28311,7 @@ of_PRF
 the_AT0
 public_AJ0
 who_PNQ
-feel_VVI
+feel_VVB
 uneasy_AJ0
 about_PRP
 interception_NN1
@@ -28326,7 +28326,7 @@ five_CRD
 Secretaries_NN2
 of_PRF
 State_NN1
-involved_AJ0
+involved_VVN
 that_CJT
 they_PNP
 never_AV0
@@ -28372,7 +28372,7 @@ arrangements_NN2
 are_VBB
 an_AT0
 adequate_AJ0
-substitute_NN1-AJ0
+substitute_NN1
 for_PRP
 parliamentary_AJ0
 scrutiny_NN1
@@ -28430,7 +28430,7 @@ is_VBZ
 weakened_VVN
 in_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 context_NN1
 by_PRP
 allegations_NN2
@@ -28589,7 +28589,7 @@ in_PRP
 public_AJ0
 after_PRP
 the_AT0
-Massiter_NP0-NN1
+Massiter_NP0
 affair_NN1
 Apart_AV0
 from_PRP
@@ -28624,7 +28624,7 @@ the_AT0
 courts_NN2
 to_TO0
 regulate_VVI
-telephone-tapping_NN1-AJ0
+telephone-tapping_NN1
 and_CJC
 to_TO0
 deal_NN1
@@ -28691,7 +28691,7 @@ a_AT0
 general_AJ0
 principle_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 law_NN1
 that_CJT
 the_AT0
@@ -28899,7 +28899,7 @@ wishes_NN2
 to_TO0
 create_VVI
 a_AT0
-specialist_NN1-AJ0
+specialist_NN1
 body_NN1
 to_TO0
 adjudicate_VVI
@@ -29125,7 +29125,7 @@ The_AT0
 leading_AJ0
 case_NN1
 is_VBZ
-Anisminic_NN1-AJ0
+Anisminic_AJ0
 Ltd_AJ0
 v._PRP
 Foreign_AJ0
@@ -29178,7 +29178,7 @@ to_TO0
 determine_VVI
 what_DTQ
 errors_NN2
-fall_VVI
+fall_NN1
 outside_PRP
 jurisdiction_NN1
 Here_AV0
@@ -29194,7 +29194,7 @@ superior_AJ0
 courts_NN2
 wish_VVB
 In_PRP
-Anisminic_NN1-AJ0
+Anisminic_AJ0
 Lord_NP0
 Reid_NP0
 gave_VVD
@@ -29255,7 +29255,7 @@ giving_VVG
 it_PNP
 power_NN1
 to_TO0
-act_VVI
+act_NN1
 so_AV0
 that_CJT
 it_PNP
@@ -29265,7 +29265,7 @@ deal_NN1
 with_PRP
 the_AT0
 question_NN1
-remitted_VVN-VVD
+remitted_VVN
 to_TO0
 it_PNP
 and_CJC
@@ -29275,7 +29275,7 @@ question_NN1
 which_DTQ
 was_VBD
 not_XX0
-remitted_VVN-VVD
+remitted_VVN
 to_TO0
 it_PNP
 It_PNP
@@ -29335,7 +29335,7 @@ it_PNP
 decides_VVZ
 a_AT0
 question_NN1
-remitted_VVN-VVD
+remitted_VVN
 to_TO0
 it_PNP
 for_PRP
@@ -29377,7 +29377,7 @@ make_VVI
 In_PRP
 fact_NN1
 since_CJS
-Anisminic_NN1-AJ0
+Anisminic_AJ0
 the_AT0
 courts_NN2
 have_VHB
@@ -29524,7 +29524,7 @@ Lord_NP0
 Wilberforce_NP0
 said_VVD
 in_PRP
-Anisminic_NN1-AJ0
+Anisminic_AJ0
 Although_CJS
 in_PRP
 theory_NN1
@@ -29820,7 +29820,7 @@ that_CJT
 they_PNP
 do_VDB
 not_XX0
-act_VVI
+act_NN1
 unlawfully_AV0
 is_VBZ
 to_TO0
@@ -29849,7 +29849,7 @@ in_PRP
 the_AT0
 famous_AJ0
 case_NN1
-Mapp_NP0-NN1
+Mapp_NN1
 v._PRP
 Ohio_NP0
 where_AVQ
@@ -29888,7 +29888,7 @@ the_AT0
 United_NP0
 States_NP0
 as_CJS
-Mapp_NP0-NN1
+Mapp_NN1
 v._PRP
 Ohio_NP0
 has_VHZ
@@ -30262,7 +30262,7 @@ past_NN1
 prosecution_NN1
 under_PRP
 the_AT0
-Official_AJ0-NN1
+Official_AJ0
 Secrets_NN2
 Act_NN1
 may_VM0
@@ -30338,7 +30338,7 @@ Conclusion_NN1
 The_AT0
 practice_NN1
 of_PRF
-telephone-tapping_NN1-AJ0
+telephone-tapping_NN1
 in_PRP
 Britain_NP0
 is_VBZ
@@ -30346,7 +30346,7 @@ a_AT0
 symptom_NN1
 of_PRF
 the_AT0
-deep-rooted_AJ0-NN1
+deep-rooted_NN1
 problems_NN2
 facing_VVG
 civil_AJ0
@@ -30416,7 +30416,7 @@ response_NN1
 of_PRF
 Sir_NP0
 Robert_NP0
-Megarry_NP0-NN1
+Megarry_NP0
 stands_VVZ
 in_PRP
 sharp_AJ0
@@ -30447,7 +30447,7 @@ in_PRP
 the_AT0
 context_NN1
 of_PRF
-telephone-tapping_NN1-AJ0
+telephone-tapping_NN1
 In_PRP
 Malone_NP0
 the_AT0
@@ -30616,7 +30616,7 @@ deliberately_AV0
 consciously_AV0
 and_CJC
 unjustifiably_AV0
-intruded_VVD
+intruded_VVN
 upon_PRP
 and_CJC
 interfered_VVN
@@ -30641,7 +30641,7 @@ extent_NN1
 it_PNP
 has_VHZ
 been_VBN
-flushed_VVN
+flushed_VVD
 into_PRP
 the_AT0
 open_AJ0
@@ -30772,7 +30772,7 @@ is_VBZ
 unprecedented_AJ0
 in_PRP
 modern_AJ0
-English_AJ0-NN1
+English_AJ0
 law_NN1
 purporting_VVG
 to_TO0
@@ -31320,7 +31320,7 @@ how_AVQ
 these_DT0
 laws_NN2
 were_VBD
-utilized_VVD
+utilized_VVN
 to_TO0
 deal_NN1
 with_PRP
@@ -31418,7 +31418,7 @@ our_DPS
 attention_NN1
 to_TO0
 the_AT0
-Public_AJ0-NN1
+Public_AJ0
 Order_NN1
 Act_NN1
 1986_CRD
@@ -31514,7 +31514,7 @@ pilgrimage_NN1
 during_PRP
 the_AT0
 summer_NN1
-solstice_NN1-VVB
+solstice_NN1
 This_DT0
 ongoing_AJ0
 conflict_NN1
@@ -31540,7 +31540,7 @@ illustrates_VVZ
 the_AT0
 vulnerability_NN1
 of_PRF
-dissenting_AJ0-NN1
+dissenting_AJ0
 groups_NN2
 to_TO0
 the_AT0
@@ -31560,7 +31560,7 @@ the_AT0
 authorities_NN2
 The_AT0
 Legal_AJ0
-Position_NN1-VVB
+Position_NN1
 in_PRP
 1979_CRD
 In_PRP
@@ -31649,7 +31649,7 @@ do_VDB
 that_CJT
 which_DTQ
 is_VBZ
-impugned_VVN-AJ0
+impugned_AJ0
 All_DT0
 such_DT0
 a_AT0
@@ -31813,7 +31813,7 @@ induce_VVI
 another_DT0
 man_NN1
 to_TO0
-act_VVI
+act_NN1
 unlawfully_AV0
 a_AT0
 proposition_NN1
@@ -31897,7 +31897,7 @@ the_AT0
 police_NN2
 1_CRD
 The_AT0
-Public_AJ0-NN1
+Public_AJ0
 Order_NN1
 Act_NN1
 1936_CRD
@@ -31928,7 +31928,7 @@ important_AJ0
 statute_NN1
 was_VBD
 the_AT0
-Public_AJ0-NN1
+Public_AJ0
 Order_NN1
 Act_NN1
 1936_CRD
@@ -31955,7 +31955,7 @@ the_AT0
 section_NN1
 permitted_VVN
 a_AT0
-chief_AJ0-NN1
+chief_NN1
 officer_NN1
 of_PRF
 police_NN2
@@ -31975,7 +31975,7 @@ impose_VVI
 such_DT0
 conditions_NN2
 as_CJS
-appear[ed]_AJ0-NN1
+appear[ed]_NN1
 to_TO0
 him_PNP
 necessary_AJ0
@@ -32002,7 +32002,7 @@ public_AJ0
 disorder_NN1
 then_AV0
 the_AT0
-chief_AJ0-NN1
+chief_NN1
 officer_NN1
 could_VM0
 apply_VVI
@@ -32090,7 +32090,7 @@ part_NN1
 of_PRF
 the_AT0
 East_NN1
-End_NP0
+End_NN1
 of_PRF
 London_NP0
 was_VBD
@@ -32411,7 +32411,7 @@ persons_NN2
 who_PNQ
 shouted_VVD
 Remember_VVB
-Biafra_NP0-NN1
+Biafra_NP0
 during_PRP
 the_AT0
 two_CRD
@@ -32461,7 +32461,7 @@ been_VBN
 a_AT0
 prisoner_NN1
 at_PRP
-Dachau_NP0-NN1
+Dachau_NN1
 Bailey_NP0
 Harris_NP0
 and_CJC
@@ -32567,7 +32567,7 @@ demonstrators_NN2
 were_VBD
 prosecuted_VVN
 for_PRP
-invading_AJ0-VVG
+invading_VVG
 court_NN1
 number_NN1
 2_CRD
@@ -32580,7 +32580,7 @@ involving_VVG
 the_AT0
 South_NN1
 African_AJ0
-Cliff_NP0-NN1
+Cliff_NP0
 Drysdale_NP0
 the_AT0
 House_NN1
@@ -32650,7 +32650,7 @@ For_PRP
 this_DT0
 he_PNP
 was_VBD
-convicted_VVN-AJ0
+convicted_VVN
 of_PRF
 distributing_VVG
 insulting_AJ0
@@ -32672,7 +32672,7 @@ Arrowsmith_NP0
 gave_VVD
 out_AVP
 similar_AJ0
-anti-war_AJ0-NN1
+anti-war_AJ0
 material_NN1
 to_TO0
 British_AJ0
@@ -32718,14 +32718,14 @@ this_DT0
 time_NN1
 prosecuted_VVN
 and_CJC
-convicted_VVN-AJ0
+convicted_VVN
 under_PRP
 the_AT0
 more_AV0
 severe_AJ0
 Incitement_NN1
 to_TO0
-Disaffection_NP0-NN1
+Disaffection_NP0
 Act_NN1
 1934_CRD
 Her_DPS
@@ -32757,7 +32757,7 @@ a_AT0
 Fascist_AJ0
 leader_NN1
 was_VBD
-convicted_VVN-AJ0
+convicted_VVN
 under_PRP
 the_AT0
 section_NN1
@@ -32858,7 +32858,7 @@ two_CRD
 sections_NN2
 in_PRP
 the_AT0
-Public_AJ0-NN1
+Public_AJ0
 Order_NN1
 Act_NN1
 were_VBD
@@ -32986,7 +32986,7 @@ whether_CJS
 or_CJC
 not_XX0
 to_TO0
-act_VVI
+act_NN1
 the_AT0
 police_NN2
 officer_NN1
@@ -33079,7 +33079,7 @@ when_CJS
 may_VM0
 the_AT0
 police_NN2
-act_VVI
+act_NN1
 and_CJC
 thirdly_AV0
 what_DTQ
@@ -33117,7 +33117,7 @@ section_NN1
 5_CRD
 of_PRF
 the_AT0
-Public_AJ0-NN1
+Public_AJ0
 Order_NN1
 Act_NN1
 1936_CRD
@@ -33173,7 +33173,7 @@ there_EX0
 has_VHZ
 been_VBN
 an_AT0
-act_VVI
+act_NN1
 done_VDN
 or_CJC
 threatened_VVN
@@ -33452,7 +33452,7 @@ occurring_VVG
 the_AT0
 police_NN2
 should_VM0
-act_VVI
+act_NN1
 to_TO0
 stop_VVI
 it_PNP
@@ -33724,7 +33724,7 @@ against_PRP
 the_AT0
 Incitement_NN1
 to_TO0
-Disaffection_NP0-NN1
+Disaffection_NP0
 Bill_NP0
 then_AV0
 before_PRP
@@ -33737,7 +33737,7 @@ the_AT0
 dismissal_NN1
 of_PRF
 the_AT0
-Chief_NP0
+Chief_NN1
 Constable_NP0
 of_PRF
 the_AT0
@@ -33768,7 +33768,7 @@ want_VVB
 any_DT0
 police_NN2
 officers_NN2
-present_AJ0-NN1
+present_AJ0
 Despite_PRP
 this_DT0
 stipulation_NN1
@@ -33783,7 +33783,7 @@ were_VBD
 among_PRP
 the_AT0
 600_CRD
-present_AJ0-NN1
+present_AJ0
 They_PNP
 refused_VVD
 to_TO0
@@ -33885,7 +33885,7 @@ if_CJS
 they_PNP
 were_VBD
 not_XX0
-present_AJ0-NN1
+present_AJ0
 at_PRP
 the_AT0
 meeting_NN1
@@ -33949,7 +33949,7 @@ that_CJT
 the_AT0
 rule_NN1
 was_VBD
-devoted_AJ0-VVN
+devoted_AJ0
 not_XX0
 to_TO0
 the_AT0
@@ -34051,7 +34051,7 @@ was_VBD
 charged_VVN
 with_PRP
 and_CJC
-convicted_VVN-AJ0
+convicted_VVN
 of_PRF
 obstruction_NN1
 of_PRF
@@ -34106,7 +34106,7 @@ months_NN2
 before_PRP
 The_AT0
 Lord_NP0
-Chief_NP0
+Chief_NN1
 Justice_NP0
 Lord_NP0
 Hewart_NP0
@@ -34159,7 +34159,7 @@ I_PNP
 say_VVI
 called_VVN
 because_CJS
-English_AJ0-NN1
+English_AJ0
 Law_NN1
 does_VDZ
 not_XX0
@@ -34207,7 +34207,7 @@ I_PNP
 thought_VVD
 that_CJT
 the_AT0
-present_AJ0-NN1
+present_AJ0
 case_NN1
 raised_VVN
 the_AT0
@@ -34461,7 +34461,7 @@ over_PRP
 by_PRP
 the_AT0
 Lord_NP0
-Chief_NP0
+Chief_NN1
 Justice_NP0
 Lord_NP0
 Parker_NP0
@@ -34523,7 +34523,7 @@ therefore_AV0
 were_VBD
 entitled_VVN
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 they_PNP
 did_VDD
@@ -34595,7 +34595,7 @@ the_AT0
 peace_NN1
 before_PRP
 they_PNP
-act_VVI
+act_NN1
 is_VBZ
 rarely_AV0
 subject_NN1
@@ -34688,7 +34688,7 @@ just_AV0
 outlined_VVN
 were_VBD
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 measures_NN2
 available_AJ0
 to_TO0
@@ -34869,7 +34869,7 @@ of_PRF
 this_DT0
 popular_AJ0
 movement_NN1
-lie_VVI
+lie_VVB
 in_PRP
 the_AT0
 first_ORD
@@ -34966,7 +34966,7 @@ demonstrations_NN2
 of_PRF
 which_DTQ
 the_AT0
-Aldermaston_NP0-NN1
+Aldermaston_NP0
 marches_NN2
 were_VBD
 the_AT0
@@ -34990,7 +34990,7 @@ as_CJS
 well-planned_AJ0
 and_CJC
 highly_AV0
-publicized_VVN-VVD
+publicized_VVN
 sorties_NN2
 against_PRP
 selected_VVN
@@ -35024,7 +35024,7 @@ Bertrand_NP0
 Russell_NP0
 After_PRP
 some_DT0
-initial_AJ0-NN1
+initial_AJ0
 successes_NN2
 the_AT0
 authorities_NN2
@@ -35110,7 +35110,7 @@ the_AT0
 air_NN1
 base_NN1
 and_CJC
-immobilize_VVI
+immobilize_VVB
 it_PNP
 by_PRP
 sitting_VVG
@@ -35131,11 +35131,11 @@ section_NN1
 1_CRD
 of_PRF
 the_AT0
-Official_AJ0-NN1
+Official_AJ0
 Secrets_NN2
 Act_NN1
 1911_CRD
-Jail_NN1-VVB
+Jail_NN1
 sentences_NN2
 of_PRF
 eighteen_CRD
@@ -35173,7 +35173,7 @@ that_CJT
 the_AT0
 plan_NN1
 to_TO0
-immobilize_VVI
+immobilize_VVB
 the_AT0
 base_NN1
 was_VBD
@@ -35469,7 +35469,7 @@ by_PRP
 purchasing_VVG
 missiles_NN2
 for_PRP
-Trident_NP0-NN1
+Trident_NP0
 submarines_NN2
 from_PRP
 the_AT0
@@ -35569,7 +35569,7 @@ was_VBD
 exacerbated_VVN
 by_PRP
 the_AT0
-cold-war_AJ0-NN1
+cold-war_NN1
 rhetoric_NN1
 which_DTQ
 both_AV0
@@ -35586,7 +35586,7 @@ former_DT0
 referring_VVG
 to_TO0
 the_AT0
-Evil_AJ0-NN1
+Evil_NN1
 Empire_NN1
 in_PRP
 Eastern_AJ0
@@ -35641,7 +35641,7 @@ the_AT0
 level_NN1
 of_PRF
 anxiety_NN1
-Fears_NN2-VVZ
+Fears_NN2
 about_PRP
 a_AT0
 nuclear_AJ0
@@ -35673,7 +35673,7 @@ limited_AJ0
 war_NN1
 a_AT0
 dangerous_AJ0
-self-delusion_NN1-AJ0
+self-delusion_AJ0
 The_AT0
 Alliance_NN1
 's_POS
@@ -35891,7 +35891,7 @@ European_AJ0
 disarmament_NN1
 One_CRD
 year_NN1
-missing_VVG-AJ0
+missing_VVG
 from_PRP
 this_DT0
 litany_NN1
@@ -35958,7 +35958,7 @@ section_NN1
 3_CRD
 of_PRF
 the_AT0
-Public_AJ0-NN1
+Public_AJ0
 Order_NN1
 Act_NN1
 1936_CRD
@@ -36112,7 +36112,7 @@ marches_NN2
 CND_NP0
 fuelled_VVN
 their_DPS
-anti-cruise_AJ0-NN1
+anti-cruise_AJ0
 campaigns_NN2
 with_PRP
 demonstrations_NN2
@@ -36121,7 +36121,7 @@ the_AT0
 bases_NN2
 that_CJT
 were_VBD
-scheduled_VVN-AJ0
+scheduled_VVN
 to_TO0
 take_VVI
 the_AT0
@@ -36154,7 +36154,7 @@ at_PRP
 Greenham_NP0
 Common_AJ0
 to_TO0
-Aldermaston_NP0-NN1
+Aldermaston_NP0
 and_CJC
 the_AT0
 Royal_AJ0
@@ -36202,7 +36202,7 @@ blockade_NN1
 of_PRF
 the_AT0
 Upper_AJ0
-Heyford_NN1-NP0
+Heyford_NP0
 base_NN1
 in_PRP
 protest_NN1
@@ -36291,7 +36291,7 @@ hands_NN2
 to_TO0
 Embrace_VVI
 the_AT0
-Base_NN1-VVB
+Base_NN1
 They_PNP
 adorned_VVN
 the_AT0
@@ -36328,7 +36328,7 @@ section_NN1
 1_CRD
 of_PRF
 the_AT0
-Official_AJ0-NN1
+Official_AJ0
 Secrets_NN2
 Act_NN1
 was_VBD
@@ -36397,7 +36397,7 @@ in_PRP
 1983_CRD
 Plans_NN2
 for_PRP
-Trident_NP0-NN1
+Trident_NP0
 continued_VVD
 apace_AV0
 Weakened_VVN
@@ -36430,7 +36430,7 @@ peace_NN1
 movement_NN1
 shifted_VVN
 to_TO0
-Cruisewatch_NP0-NN1
+Cruisewatch_NP0
 a_AT0
 highly_AV0
 effective_AJ0
@@ -36512,7 +36512,7 @@ Cambridge_NP0
 on_PRP
 Good_AJ0
 Friday_NP0
-converged_VVN-VVD
+converged_VVN
 on_PRP
 Molesworth_NP0
 on_PRP
@@ -36691,9 +36691,9 @@ in_PRP
 East_NN1
 Anglia_NP0
 the_AT0
-Snowball_NN1-NP0
+Snowball_NN1
 Campaign_NN1
-involved_AJ0
+involved_VVN
 a_AT0
 symbolic_AJ0
 cutting_VVG
@@ -36756,7 +36756,7 @@ protesters_NN2
 were_VBD
 arrested_VVN
 for_PRP
-wire-cutting_NN1-AJ0
+wire-cutting_AJ0
 at_PRP
 Molesworth_NP0
 and_CJC
@@ -36878,7 +36878,7 @@ on_PRP
 strong_AJ0
 ground_NN1
 when_CJS
-challenging_VVG-AJ0
+challenging_VVG
 their_DPS
 convictions_NN2
 since_CJS
@@ -36968,7 +36968,7 @@ Divisional_AJ0
 Court_NN1
 Schiemann_NP0
 J._NP0
-contrived_VVD
+contrived_VVN
 to_TO0
 avoid_VVI
 the_AT0
@@ -37045,7 +37045,7 @@ to_TO0
 them_PNP
 This_DT0
 judicial_AJ0
-tinkering_VVG-NN1
+tinkering_VVG
 was_VBD
 justified_VVN
 because_CJS
@@ -37057,7 +37057,7 @@ that_CJT
 the_AT0
 altered_VVN
 decision_NN1
-represent[ed]_VVB-NN1
+represent[ed]_NN1
 that_CJT
 which_DTQ
 the_AT0
@@ -37189,10 +37189,10 @@ related_VVN
 specifically_AV0
 to_TO0
 the_AT0
-Snowball_NN1-NP0
+Snowball_NN1
 campaign_NN1
 and_CJC
-involved_AJ0
+involved_VVN
 dealing_VVG
 with_PRP
 the_AT0
@@ -37311,7 +37311,7 @@ the_AT0
 time_NN1
 of_PRF
 the_AT0
-act_VVI
+act_NN1
 alleged_AJ0
 to_TO0
 constitute_VVB
@@ -37578,7 +37578,7 @@ the_AT0
 immediate_AJ0
 need_VVB
 to_TO0
-act_VVI
+act_NN1
 Since_CJS
 the_AT0
 good_AJ0
@@ -37811,7 +37811,7 @@ a_AT0
 mockery_NN1
 of_PRF
 the_AT0
-oft-proclaimed_AJ0-NN1
+oft-proclaimed_AJ0
 principle_NN1
 that_CJT
 statutes_NN2
@@ -37866,7 +37866,7 @@ an_AT0
 immediate_AJ0
 need_VVB
 to_TO0
-act_VVI
+act_NN1
 to_TO0
 protect_VVI
 The_AT0
@@ -37902,7 +37902,7 @@ the_AT0
 next_ORD
 few_DT0
 days_NN2
-Notwithstanding_PRP-CJS
+Notwithstanding_PRP
 this_DT0
 we_PNP
 have_VHB
@@ -37945,7 +37945,7 @@ rain_NN1
 is_VBZ
 certain_AJ0
 to_TO0
-fall_VVI
+fall_NN1
 some_DT0
 time_NN1
 The_AT0
@@ -38026,7 +38026,7 @@ of_PRF
 one_CRD
 charge_NN1
 and_CJC
-convicted_VVN-AJ0
+convicted_VVN
 them_PNP
 of_PRF
 Both_DT0
@@ -38248,7 +38248,7 @@ Though_CJS
 to_TO0
 some_DT0
 extent_NN1
-exaggerated_AJ0
+exaggerated_VVN
 by_PRP
 the_AT0
 press_NN1
@@ -38320,7 +38320,7 @@ was_VBD
 detained_VVN
 in_PRP
 hospital_NN1
-Official_AJ0-NN1
+Official_AJ0
 figures_NN2
 are_VBB
 not_XX0
@@ -38694,7 +38694,7 @@ based_VVN
 upon_PRP
 the_AT0
 National_AJ0
-Reporting_VVG-NN1
+Reporting_NN1
 Centre_NN1
 which_DTQ
 operates_VVZ
@@ -38801,7 +38801,7 @@ This_DT0
 is_VBZ
 a_AT0
 far_AV0
-cry_VVI
+cry_NN1
 from_PRP
 the_AT0
 procedures_NN2
@@ -38890,7 +38890,7 @@ and_CJC
 the_AT0
 use_NN1
 of_PRF
-minimum_AJ0-NN1
+minimum_AJ0
 force_NN1
 The_AT0
 modern_AJ0
@@ -38912,11 +38912,11 @@ London_NP0
 in_PRP
 1965_CRD
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 mobile_AJ0
-anti-crime_AJ0-NN1
+anti-crime_AJ0
 group_NN1
 to_TO0
 help_VVI
@@ -38982,7 +38982,7 @@ new_AJ0
 name_NN1
 the_AT0
 Territorial_AJ0
-Support_NN1-VVB
+Support_NN1
 Group_NN1
 Moreover_AV0
 similar_AJ0
@@ -39042,7 +39042,7 @@ provinces_NN2
 there_EX0
 exist_VVI
 Police_NN2
-Support_NN1-VVB
+Support_NN1
 Units_NN2
 of_PRF
 ordinary_AJ0
@@ -39070,7 +39070,7 @@ assemblies_NN2
 It_PNP
 is_VBZ
 these_DT0
-PSUs_NP0-NN1
+PSUs_NN1
 which_DTQ
 are_VBB
 now_AV0
@@ -39104,7 +39104,7 @@ a_AT0
 total_AJ0
 of_PRF
 416_CRD
-PSUs_NP0-NN1
+PSUs_NN1
 But_CJC
 the_AT0
 miners_NN2
@@ -39155,7 +39155,7 @@ produced_VVN
 inadvertently_AV0
 about_PRP
 the_AT0
-Public_AJ0-NN1
+Public_AJ0
 Order_NN1
 Manual_AJ0
 of_PRF
@@ -39171,7 +39171,7 @@ by_PRP
 the_AT0
 Association_NN1
 of_PRF
-Chief_NP0
+Chief_NN1
 Police_NN2
 Officers_NN2
 ACPO_NP0
@@ -39214,8 +39214,8 @@ below_AV0
 the_AT0
 rank_NN1
 of_PRF
-Assistant_AJ0-NN1
-Chief_NP0
+Assistant_AJ0
+Chief_NN1
 Constable_NP0
 Even_AV0
 the_AT0
@@ -39247,7 +39247,7 @@ following_AJ0
 an_AT0
 incident_NN1
 at_PRP
-Orgreave_NP0-NN1
+Orgreave_NP0
 during_PRP
 the_AT0
 strike_NN1
@@ -39280,7 +39280,7 @@ justify_VVI
 their_DPS
 behaviour_NN1
 at_PRP
-Orgreave_NP0-NN1
+Orgreave_NP0
 the_AT0
 details_NN2
 of_PRF
@@ -39342,7 +39342,7 @@ first_ORD
 are_VBB
 designed_VVN
 to_TO0
-present_AJ0-NN1
+present_AJ0
 a_AT0
 formidable_AJ0
 appearance_NN1
@@ -39406,7 +39406,7 @@ CS_NP0
 gas_NN1
 and_CJC
 other_AJ0
-anti-crowd_AJ0-NN1
+anti-crowd_AJ0
 techniques_NN2
 Northam_NP0
 1985_CRD
@@ -39557,7 +39557,7 @@ to_TO0
 withdraw_VVI
 a_AT0
 circular_AJ0
-issuing_VVG-AJ0
+issuing_VVG
 plastic_NN1
 bullets_NN2
 and_CJC
@@ -39787,7 +39787,7 @@ the_AT0
 peace_NN1
 This_DT0
 power_NN1
-devolved_VVN-VVD
+devolved_VVD
 to_TO0
 the_AT0
 Home_NN1
@@ -39828,7 +39828,7 @@ was_VBD
 in_PRP
 no_AT0
 way_NN1
-fettered_VVN-AJ0
+fettered_VVN
 or_CJC
 reduced_VVN
 by_PRP
@@ -39850,7 +39850,7 @@ a_AT0
 surprise_NN1
 The_AT0
 judges_NN2
-extrapolated_VVN
+extrapolated_VVD
 it_PNP
 from_PRP
 the_AT0
@@ -39947,7 +39947,7 @@ raise_VVI
 the_AT0
 hue_NN1
 and_CJC
-cry_VVI
+cry_NN1
 and_CJC
 call_VVI
 out_AVP
@@ -40506,7 +40506,7 @@ charges_NN2
 in_PRP
 return_NN1
 for_PRP
-binding-over_AJ0-NN1
+binding-over_AJ0
 orders_NN2
 issued_VVN
 under_PRP
@@ -40531,7 +40531,7 @@ of_PRF
 any_DT0
 wrongdoing_NN1
 and_CJC
-involved_AJ0
+involved_VVN
 the_AT0
 defendant_NN1
 undertaking_VVG
@@ -40572,7 +40572,7 @@ that_CJT
 the_AT0
 police_NN2
 used_VVN
-binding-over_AJ0-NN1
+binding-over_AJ0
 orders_NN2
 in_PRP
 cases_NN2
@@ -40921,7 +40921,7 @@ Ollerton_NP0
 was_VBD
 imprisoned_VVN
 in_PRP
-Risley_NP0-NN1
+Risley_NP0
 Remand_NP0
 Centre_NN1
 after_PRP
@@ -40941,7 +40941,7 @@ from_PRP
 doing_VDG
 so_AV0
 The_AT0
-conditional_AJ0-NN1
+conditional_AJ0
 bail_NN1
 had_VHD
 been_VBN
@@ -41041,7 +41041,7 @@ Divisional_AJ0
 Court_NN1
 The_AT0
 Lord_NP0
-Chief_NP0
+Chief_NN1
 Justice_NP0
 Lord_NP0
 Lane_NP0
@@ -41138,7 +41138,7 @@ crime_NN1
 should_VM0
 be_VBI
 further_AJC
-deprived_AJ0
+deprived_VVN
 of_PRF
 their_DPS
 liberty_NN1
@@ -41658,7 +41658,7 @@ the_AT0
 spot_NN1
 In_PRP
 reality_NN1
-road-blocking_NN1-AJ0
+road-blocking_NN1
 was_VBD
 part_NN1
 of_PRF
@@ -42002,7 +42002,7 @@ a_AT0
 conscious_AJ0
 choice_NN1
 The_AT0
-Public_AJ0-NN1
+Public_AJ0
 Order_NN1
 Act_NN1
 1986_CRD
@@ -42010,7 +42010,7 @@ The_AT0
 policing_NN1
 of_PRF
 CND_NP0
-rallies_VVZ-NN2
+rallies_VVZ
 and_CJC
 the_AT0
 miners_NN2
@@ -42094,7 +42094,7 @@ the_AT0
 1980s_CRD
 the_AT0
 authorities_NN2
-utilized_VVD
+utilized_VVN
 the_AT0
 1936_CRD
 Act_NN1
@@ -42146,7 +42146,7 @@ government_NN1
 review_NN1
 revealed_VVN
 no_AT0
-yawning_VVG-AJ0
+yawning_AJ0
 gaps_NN2
 and_CJC
 admitted_VVN
@@ -42213,7 +42213,7 @@ events_NN2
 the_AT0
 police_NN2
 had_VHD
-accumulated_AJ0
+accumulated_VVN
 altogether_AV0
 too_AV0
 much_DT0
@@ -42386,7 +42386,7 @@ Of_PRF
 the_AT0
 17,000_CRD
 demonstrators_NN2
-involved_AJ0
+involved_VVN
 1,000_CRD
 broke_VVD
 away_AV0
@@ -42595,7 +42595,7 @@ Murdoch_NP0
 News_NN1
 International_AJ0
 Group_NN1
-centred_VVN-VVD
+centred_VVN
 on_PRP
 its_DPS
 new_AJ0
@@ -42700,7 +42700,7 @@ the_AT0
 prosecutions_NN2
 against_PRP
 those_DT0
-involved_AJ0
+involved_VVN
 Many_DT0
 police_NN2
 officers_NN2
@@ -42726,7 +42726,7 @@ were_VBD
 said_VVD
 to_TO0
 have_VHB
-involved_AJ0
+involved_VVN
 no_AT0
 more_AV0
 than_CJS
@@ -42737,7 +42737,7 @@ out_AVP
 in_PRP
 the_AT0
 Home_NN1
-Office-approved_AJ0-NN1
+Office-approved_AJ0
 Tactical_AJ0
 Options_NN2
 Manual_AJ0
@@ -42759,7 +42759,7 @@ inevitable_AJ0
 when_CJS
 officers_NN2
 got_VVN
-involved_AJ0
+involved_VVN
 with_PRP
 demonstrators_NN2
 Apart_AV0
@@ -42796,9 +42796,9 @@ already_AV0
 seen_VVN
 how_AVQ
 the_AT0
-road-blocking_NN1-AJ0
+road-blocking_NN1
 and_CJC
-binding-over_AJ0-NN1
+binding-over_AJ0
 powers_NN2
 were_VBD
 employed_VVN
@@ -42813,7 +42813,7 @@ According_VVG
 to_TO0
 press_NN1
 reports_NN2
-road-blocking_NN1-AJ0
+road-blocking_NN1
 now_AV0
 plays_VVZ
 a_AT0
@@ -42854,7 +42854,7 @@ containing_VVG
 members_NN2
 of_PRF
 a_AT0
-Protestant_AJ0-NN1
+Protestant_AJ0
 apprentice_NN1
 boys_NN2
 band_NN1
@@ -42863,7 +42863,7 @@ miles_NN2
 from_PRP
 the_AT0
 largely_AV0
-Catholic_AJ0-NN1
+Catholic_AJ0
 town_NN1
 where_AVQ
 it_PNP
@@ -42990,7 +42990,7 @@ a_AT0
 letter_NN1
 to_TO0
 the_AT0
-Independent_AJ0
+Independent_NN1
 a_AT0
 representative_NN1
 of_PRF
@@ -43136,7 +43136,7 @@ those_DT0
 detained_VVN
 was_VBD
 a_AT0
-Belgian_AJ0-NN1
+Belgian_AJ0
 Member_NN1
 of_PRF
 the_AT0
@@ -43166,7 +43166,7 @@ the_AT0
 same_DT0
 year_NN1
 Lorraine_NP0
-Agu_NP0-NN1
+Agu_NP0
 and_CJC
 Malcolm_NP0
 Hirst_NP0
@@ -43212,7 +43212,7 @@ furs_NN2
 The_AT0
 police_NN2
 arrested_VVN
-Agu_NP0-NN1
+Agu_NP0
 and_CJC
 four_CRD
 others_NN2
@@ -43270,7 +43270,7 @@ threat_NN1
 to_TO0
 the_AT0
 peace_NN1
-Agu_NP0-NN1
+Agu_NP0
 and_CJC
 Hirst_NP0
 were_VBD
@@ -43293,7 +43293,7 @@ was_VBD
 the_AT0
 basis_NN1
 of_PRF
-Agu_NP0-NN1
+Agu_NP0
 's_POS
 arrest_NN1
 was_VBD
@@ -43301,7 +43301,7 @@ quietly_AV0
 forgotten_VVN
 They_PNP
 were_VBD
-convicted_VVN-AJ0
+convicted_VVN
 in_PRP
 the_AT0
 magistrates_NN2
@@ -43362,7 +43362,7 @@ the_AT0
 possibility_NN1
 that_CJT
 demonstrators_NN2
-fall_VVI
+fall_NN1
 foul_AJ0
 of_PRF
 the_AT0
@@ -43424,7 +43424,7 @@ defendant_NN1
 was_VBD
 charged_VVN
 and_CJC
-convicted_VVN-AJ0
+convicted_VVN
 of_PRF
 an_AT0
 offence_NN1

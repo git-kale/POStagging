@@ -1,7 +1,7 @@
 Antibiotics_NN2
 and_CJC
 medicines_NN2
-Microbes_NN2-VVZ
+Microbes_NN2
 against_PRP
 microbes_NN2
 It_PNP
@@ -19,7 +19,7 @@ of_PRF
 the_AT0
 family_NN1
 called_VVN
-Penicillium_NP0-NN1
+Penicillium_NN1
 was_VBD
 discovered_VVN
 by_PRP
@@ -39,7 +39,7 @@ antibacterial_AJ0
 properties_NN2
 of_PRF
 some_DT0
-Penicillium_NP0-NN1
+Penicillium_NN1
 moulds_NN2
 were_VBD
 observed_VVN
@@ -59,7 +59,7 @@ with_PRP
 a_AT0
 preparation_NN1
 of_PRF
-Penicillium_NP0-NN1
+Penicillium_NN1
 before_PRP
 Fleming_NP0
 was_VBD
@@ -68,7 +68,7 @@ When_CJS
 microbes_NN2
 were_VBD
 first_ORD
-cultivated_AJ0
+cultivated_VVN
 and_CJC
 investigated_VVN
 John_NP0
@@ -76,7 +76,7 @@ Burdon_NP0
 Sanderson_NP0
 1828\xe2\x80\x931905_CRD
 later_AV0
-Regius_NP0-NN1
+Regius_NP0
 Professor_NP0
 of_PRF
 Medicine_NN1
@@ -94,7 +94,7 @@ the_AT0
 presence_NN1
 of_PRF
 certain_AJ0
-Penicillium_NP0-NN1
+Penicillium_NN1
 moulds_NN2
 Lister_NP0
 was_VBD
@@ -133,7 +133,7 @@ infected_AJ0
 with_PRP
 the_AT0
 mould_NN1
-Penicillium_NP0-NN1
+Penicillium_NN1
 glaucum_NN1
 The_AT0
 inference_NN1
@@ -217,7 +217,7 @@ had_VHD
 been_VBN
 treated_VVN
 with_PRP
-Penicillium_NP0-NN1
+Penicillium_NN1
 It_PNP
 is_VBZ
 unlikely_AJ0
@@ -271,7 +271,7 @@ principle_NN1
 was_VBD
 needed_VVN
 An_AT0
-Italian_AJ0-NN1
+Italian_AJ0
 Bartolomeo_NP0
 Gosio_NP0
 in_PRP
@@ -288,7 +288,7 @@ culture_NN1
 filtrates_NN2
 of_PRF
 a_AT0
-Penicillium_NP0-NN1
+Penicillium_NN1
 the_AT0
 substance_NN1
 was_VBD
@@ -336,7 +336,7 @@ in_PRP
 the_AT0
 vicinity_NN1
 of_PRF
-Penicillium_NP0-NN1
+Penicillium_NN1
 moulds_NN2
 but_CJC
 the_AT0
@@ -356,19 +356,19 @@ a_AT0
 paper_NN1
 by_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 physician_NN1
 Jean-Paul_NP0
-Vuillemin_NP0-NN1
+Vuillemin_NP0
 in_PRP
 1889_CRD
 The_AT0
-allied_AJ0
+allied_VVN
 word_NN1
 antibiotic_NN1
 reached_VVD
 the_AT0
-English_AJ0-NN1
+English_AJ0
 language_NN1
 when_CJS
 the_AT0
@@ -438,7 +438,7 @@ the_AT0
 growth_NN1
 of_PRF
 a_AT0
-competing_VVG-AJ0
+competing_AJ0
 species_NN0
 is_VBZ
 fortunate_AJ0
@@ -459,7 +459,7 @@ are_VBB
 successful_AJ0
 exponents_NN2
 of_PRF
-chemical_AJ0-NN1
+chemical_AJ0
 warfare_NN1
 They_PNP
 include_VVI
@@ -499,7 +499,7 @@ produced_VVN
 a_AT0
 preparation_NN1
 named_VVN
-Pyocyanase_NN1-VVB
+Pyocyanase_VVB
 from_PRP
 appropriate_AJ0
 cultures_NN2
@@ -590,7 +590,7 @@ they_PNP
 contained_VVD
 as_CJS
 a_AT0
-preservative_AJ0-NN1
+preservative_AJ0
 Another_DT0
 enemy_NN1
 of_PRF
@@ -721,7 +721,7 @@ organism_NN1
 responsible_AJ0
 for_PRP
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 an_AT0
 infection_NN1
@@ -857,7 +857,7 @@ arsenicals_NN2
 for_PRP
 syphilis_NN1
 and_CJC
-sleeping_VVG
+sleeping_NN1
 sickness_NN1
 chemotherapy_NN1
 was_VBD
@@ -865,7 +865,7 @@ unpromising_AJ0
 usually_AV0
 because_CJS
 the_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 did_VDD
 as_CJS
 much_DT0
@@ -1132,7 +1132,7 @@ the_AT0
 earliest_AJS
 trials_NN2
 of_PRF
-Salvarsan_NP0-NN1
+Salvarsan_NN1
 in_PRP
 this_DT0
 country_NN1
@@ -1237,7 +1237,7 @@ observations_NN2
 on_PRP
 the_AT0
 mould_NN1
-Penicillium_NP0-NN1
+Penicillium_NN1
 It_PNP
 was_VBD
 in_PRP
@@ -1281,7 +1281,7 @@ attention_NN1
 to_TO0
 a_AT0
 substance_NN1
-present_AJ0-NN1
+present_AJ0
 in_PRP
 the_AT0
 tissues_NN2
@@ -1313,7 +1313,7 @@ have_VHB
 called_VVN
 it_PNP
 a_AT0
-Lysozyme_NN1-NP0
+Lysozyme_NN1
 and_CJC
 shall_VM0
 refer_VVI
@@ -1383,7 +1383,7 @@ He_PNP
 named_VVN
 the_AT0
 coccus_NN1
-Micrococcus_NP0-NN1
+Micrococcus_NP0
 lysodeikticus_NN1
 and_CJC
 used_VVN
@@ -1396,9 +1396,9 @@ identifying_VVG
 the_AT0
 destructive_AJ0
 or_CJC
-lysing_VVG-AJ0
+lysing_VVG
 agent_NN1
-Lysodeikticus_NN1-NP0
+Lysodeikticus_NN1
 is_VBZ
 derived_VVN
 from_PRP
@@ -1452,13 +1452,13 @@ and_CJC
 the_AT0
 mixture_NN1
 was_VBD
-centrifuged_VVN-AJ0
+centrifuged_VVN
 A_AT0
-drop_VVI
+drop_NN1
 of_PRF
 the_AT0
 clear_AJ0
-supernatant_AJ0-NN1
+supernatant_AJ0
 fluid_NN1
 was_VBD
 placed_VVN
@@ -1542,7 +1542,7 @@ was_VBD
 noticed_VVD
 that_CJT
 one_CRD
-drop_VVI
+drop_NN1
 of_PRF
 the_AT0
 diluted_VVN
@@ -1665,7 +1665,7 @@ such_DT0
 as_CJS
 arsenicals_NN2
 and_CJC
-flavines_NN2-VVZ
+flavines_NN2
 which_DTQ
 were_VBD
 the_AT0
@@ -1680,7 +1680,7 @@ promise_NN1
 did_VDD
 not_XX0
 hold_VVI
-Lysozyme_NN1-NP0
+Lysozyme_NN1
 appeared_VVD
 to_TO0
 be_VBI
@@ -1728,7 +1728,7 @@ any_DT0
 microbe_NN1
 capable_AJ0
 of_PRF
-invading_AJ0-VVG
+invading_VVG
 animal_NN1
 tissues_NN2
 that_CJT
@@ -1858,10 +1858,10 @@ which_DTQ
 Harington_NP0
 was_VBD
 still_AV0
-grappling_VVG-AJ0
+grappling_AJ0
 with_PRP
 the_AT0
-improved_AJ0
+improved_VVN
 purification_NN1
 of_PRF
 thyroxine_NN1
@@ -1892,7 +1892,7 @@ the_AT0
 abilities_NN2
 of_PRF
 many_DT0
-chemical_AJ0-NN1
+chemical_AJ0
 laboratories_NN2
 in_PRP
 the_AT0
@@ -1938,7 +1938,7 @@ no_AT0
 facility_NN1
 for_PRP
 difficult_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 investigations_NN2
 Fleming_NP0
 continued_VVD
@@ -2000,7 +2000,7 @@ lysozyme_NN1
 was_VBD
 isolated_AJ0
 and_CJC
-crystallized_VVN
+crystallized_VVD
 and_CJC
 its_DPS
 exact_AJ0
@@ -2037,14 +2037,14 @@ mould_NN1
 of_PRF
 the_AT0
 genus_NN1
-Penicillium_NP0-NN1
+Penicillium_NN1
 and_CJC
 again_AV0
 failed_VVN
 for_PRP
 lack_NN1
 of_PRF
-chemical_AJ0-NN1
+chemical_AJ0
 support_NN1
 to_TO0
 develop_VVI
@@ -2072,13 +2072,13 @@ no_AT0
 mistakes_NN2
 in_PRP
 seeking_VVG
-chemical_AJ0-NN1
+chemical_AJ0
 collaboration_NN1
 or_CJC
 in_PRP
 letting_VVG
 matters_NN2
-drop_VVI
+drop_NN1
 for_PRP
 lack_NN1
 of_PRF
@@ -2292,7 +2292,7 @@ protection_NN1
 against_PRP
 bacterial_AJ0
 invaders_NN2
-Lysozyme_NN1-NP0
+Lysozyme_NN1
 recently_AV0
 described_VVN
 by_PRP
@@ -2324,7 +2324,7 @@ acquiring_VVG
 the_AT0
 technique_NN1
 of_PRF
-assaying_VVG-AJ0
+assaying_AJ0
 lysozyme_NN1
 in_PRP
 samples_NN2
@@ -2444,7 +2444,7 @@ the_AT0
 nearby_AJ0
 Department_NN1
 of_PRF
-Biochemistry_NP0-NN1
+Biochemistry_NN1
 but_CJC
 made_VVN
 little_AJ0
@@ -2495,14 +2495,14 @@ professor_NN1
 his_DPS
 reputation_NN1
 probably_AV0
-depended_VVN-VVD
+depended_VVD
 largely_AV0
 on_PRP
 his_DPS
 studies_NN2
 of_PRF
 the_AT0
-capillary_AJ0-NN1
+capillary_AJ0
 circulation_NN1
 and_CJC
 of_PRF
@@ -2525,7 +2525,7 @@ conjunction_NN1
 with_PRP
 H._NP0
 M._NN1
-Carleton_NP0-NN1
+Carleton_NN1
 a_AT0
 histologist_NN1
 with_PRP
@@ -2577,7 +2577,7 @@ to_TO0
 a_AT0
 standstill_NN1
 without_PRP
-damaging_VVG-AJ0
+damaging_AJ0
 the_AT0
 tissues_NN2
 of_PRF
@@ -2598,7 +2598,7 @@ of_PRF
 the_AT0
 use_NN1
 of_PRF
-curare_NN1-VVB
+curare_NN1
 to_TO0
 relieve_VVI
 the_AT0
@@ -2614,9 +2614,9 @@ infection_NN1
 with_PRP
 tetanus_NN1
 or_CJC
-lockjaw_NN1-VVB
+lockjaw_VVB
 As_CJS
-curare_NN1-VVB
+curare_NN1
 was_VBD
 only_AV0
 just_AV0
@@ -2630,7 +2630,7 @@ this_DT0
 was_VBD
 a_AT0
 very_AV0
-prompt_VVI
+prompt_AJ0
 seizure_NN1
 of_PRF
 a_AT0
@@ -2640,7 +2640,7 @@ for_PRP
 therapy_NN1
 Characteristically_AV0
 the_AT0
-curare_NN1-VVB
+curare_NN1
 was_VBD
 obtained_VVN
 from_PRP
@@ -2684,11 +2684,11 @@ close_AJ0
 contact_NN1
 with_PRP
 Edward_NP0
-Mellanby_NP0-NN1
+Mellanby_NP0
 see_VVI
 Chapter_NN1
 7_CRD
-Mellanby_NP0-NN1
+Mellanby_NP0
 was_VBD
 professor_NN1
 of_PRF
@@ -2706,7 +2706,7 @@ year_NN1
 during_PRP
 which_DTQ
 time_NN1
-Mellanby_NP0-NN1
+Mellanby_NP0
 no_AT0
 doubt_NN1
 formed_VVN
@@ -2718,7 +2718,7 @@ of_PRF
 Florey_NP0
 's_POS
 abilities_NN2
-Mellanby_NP0-NN1
+Mellanby_NP0
 left_VVN
 Sheffield_NP0
 to_TO0
@@ -2755,8 +2755,8 @@ untimely_AJ0
 death_NN1
 of_PRF
 its_DPS
-incumbent_AJ0-NN1
-Mellanby_NP0-NN1
+incumbent_NN1
+Mellanby_NP0
 was_VBD
 nominated_VVN
 as_CJS
@@ -2781,7 +2781,7 @@ of_PRF
 the_AT0
 appointments_NN2
 board_NN1
-Mellanby_NP0-NN1
+Mellanby_NP0
 's_POS
 arrival_NN1
 was_VBD
@@ -2811,7 +2811,7 @@ and_CJC
 not_XX0
 an_AT0
 experimentalist_NN1
-Mellanby_NP0-NN1
+Mellanby_NP0
 arrived_VVD
 in_PRP
 time_NN1
@@ -2962,16 +2962,16 @@ optical_AJ0
 activity_NN1
 first_ORD
 drew_VVD
-Pasteur_NP0-NN1
+Pasteur_NN1
 from_PRP
-chemical_AJ0-NN1
+chemical_AJ0
 to_TO0
 biological_AJ0
 problems_NN2
 but_CJC
 was_VBD
 also_AV0
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 music_NN1
 and_CJC
@@ -3149,7 +3149,7 @@ human_AJ0
 tissues_NN2
 and_CJC
 that_CJT
-chemical_AJ0-NN1
+chemical_AJ0
 methods_NN2
 of_PRF
 investigation_NN1
@@ -3203,7 +3203,7 @@ of_PRF
 cultures_NN2
 of_PRF
 a_AT0
-Penicillium_NP0-NN1
+Penicillium_NN1
 with_PRP
 special_AJ0
 reference_NN1
@@ -3308,7 +3308,7 @@ became_VVD
 famous_AJ0
 drew_VVD
 on_PRP
-faded_AJ0
+faded_VVN
 but_CJC
 vivacious_AJ0
 memories_NN2
@@ -3407,7 +3407,7 @@ role_NN1
 of_PRF
 fungi_NN2
 in_PRP
-precipitating_VVG-AJ0
+precipitating_AJ0
 asthmatic_AJ0
 attacks_NN2
 and_CJC
@@ -3663,7 +3663,7 @@ Whatever_DTQ
 inhibitory_AJ0
 material_NN1
 was_VBD
-present_AJ0-NN1
+present_AJ0
 appeared_VVD
 only_AV0
 after_PRP
@@ -3783,7 +3783,7 @@ protein_NN1
 and_CJC
 so_AV0
 clearly_AV0
-differed_VVN-VVD
+differed_VVN
 from_PRP
 lysozyme_NN1
 From_PRP
@@ -3813,7 +3813,7 @@ the_AT0
 substance_NN1
 soluble_AJ0
 in_PRP
-acetone_NN1-VVB
+acetone_NN1
 but_CJC
 this_DT0
 fact_NN1
@@ -3848,7 +3848,7 @@ interested_AJ0
 in_PRP
 pursuing_VVG
 the_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 problem_NN1
 He_PNP
 was_VBD
@@ -3871,7 +3871,7 @@ in_PRP
 the_AT0
 use_NN1
 of_PRF
-Penicillium_NP0-NN1
+Penicillium_NN1
 extracts_NN2
 to_TO0
 make_VVI
@@ -3903,7 +3903,7 @@ or_CJC
 because_CJS
 something_PNI
 is_VBZ
-present_AJ0-NN1
+present_AJ0
 which_DTQ
 stops_VVZ
 them_PNP
@@ -3918,7 +3918,7 @@ of_PRF
 his_DPS
 paper_NN1
 on_PRP
-Penicillium_NP0-NN1
+Penicillium_NN1
 Requests_NN2
 for_PRP
 samples_NN2
@@ -3963,12 +3963,12 @@ the_AT0
 many_DT0
 species_NN0
 of_PRF
-Penicillium_NP0-NN1
+Penicillium_NN1
 it_PNP
 was_VBD
 most_AV0
 like_PRP
-Penicillium_NP0-NN1
+Penicillium_NN1
 rubrum_AJ0
 This_DT0
 diagnosis_NN1
@@ -4131,10 +4131,10 @@ cells_NN2
 which_DTQ
 are_VBB
 a_AT0
-principal_AJ0-NN1
+principal_AJ0
 defence_NN1
 against_PRP
-invading_AJ0-VVG
+invading_VVG
 microbes_NN2
 and_CJC
 he_PNP
@@ -4487,7 +4487,7 @@ Hopkins_NP0
 's_POS
 laboratory_NN1
 using_VVG
-chemical_AJ0-NN1
+chemical_AJ0
 methods_NN2
 to_TO0
 study_NN1
@@ -4532,7 +4532,7 @@ continued_VVD
 to_TO0
 identify_VVI
 the_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 constituents_NN2
 of_PRF
 fungi_NN2
@@ -4549,7 +4549,7 @@ antibacterial_AJ0
 substance_NN1
 from_PRP
 a_AT0
-Penicillium_NP0-NN1
+Penicillium_NN1
 mould_NN1
 was_VBD
 a_AT0
@@ -4874,7 +4874,7 @@ the_AT0
 antibacterial_AJ0
 substance_NN1
 from_PRP
-Penicillium_NP0-NN1
+Penicillium_NN1
 during_PRP
 the_AT0
 1930s_CRD
@@ -5113,7 +5113,7 @@ were_VBD
 named_VVN
 gramicidin_NN1
 and_CJC
-tyrocidine_NN1-VVB
+tyrocidine_VVB
 Its_DPS
 potential_NN1
 use_NN1
@@ -5137,7 +5137,7 @@ by_PRP
 mouth_NN1
 and_CJC
 because_CJS
-tyrocidine_NN1-VVB
+tyrocidine_VVB
 in_PRP
 concentrations_NN2
 liable_AJ0
@@ -5173,7 +5173,7 @@ lozenges_NN2
 for_PRP
 sore_AJ0
 throats_NN2
-Tyrothricin_NN1-NP0
+Tyrothricin_NN1
 can_VM0
 reasonably_AV0
 be_VBI
@@ -5251,7 +5251,7 @@ One_CRD
 notes_NN2
 S._NP0
 A._NP0
-Waksman_NP0-NN1
+Waksman_NP0
 1888\xe2\x80\x931973_CRD
 who_PNQ
 worked_VVD
@@ -5333,7 +5333,7 @@ been_VBN
 a_AT0
 pupil_NN1
 of_PRF
-Waksman_NP0-NN1
+Waksman_NP0
 and_CJC
 together_AV0
 they_PNP
@@ -5387,7 +5387,7 @@ the_AT0
 proposed_AJ0
 2-hour_AJ0
 discussion_NN1
-English_AJ0-NN1
+English_AJ0
 bacteriologists_NN2
 and_CJC
 microbiologists_NN2
@@ -5571,7 +5571,7 @@ Florey_NP0
 's_POS
 predecessor_NN1
 Georges_NP0
-Dreyer_NN1-NP0
+Dreyer_NP0
 1873\xe2\x80\x931934_CRD
 developed_VVN
 a_AT0
@@ -5595,7 +5595,7 @@ that_CJT
 it_PNP
 was_VBD
 ineffective_AJ0
-Dreyer_NN1-NP0
+Dreyer_NP0
 was_VBD
 unfairly_AV0
 discredited_VVN
@@ -5712,7 +5712,7 @@ a_AT0
 point_NN1
 but_CJC
 even_AV0
-Mellanby_NP0-NN1
+Mellanby_NP0
 rapidly_AV0
 found_VVD
 Florey_NP0
@@ -5761,7 +5761,7 @@ antibacterial_AJ0
 agents_NN2
 The_AT0
 mould_NN1
-Penicillium_NP0-NN1
+Penicillium_NN1
 looked_VVD
 interesting_AJ0
 and_CJC
@@ -5816,7 +5816,7 @@ subtilis_NN1
 Pseudomonas_NN1
 pyocyanea_NN1
 and_CJC
-Penicillium_NP0-NN1
+Penicillium_NN1
 notatum_NN1
 Both_DT0
 Florey_NP0
@@ -5880,7 +5880,7 @@ of_PRF
 on_PRP
 penicillin_NN1
 and_CJC
-pyocyanase_NN1-VVB
+pyocyanase_NN1
 though_CJS
 by_PRP
 January_NP0
@@ -5903,7 +5903,7 @@ actinomycetin_NN1
 an_AT0
 antibiotic_NN1
 which_DTQ
-Waksman_NP0-NN1
+Waksman_NP0
 was_VBD
 studying_VVG
 were_VBD
@@ -5915,7 +5915,7 @@ the_AT0
 progress_NN1
 made_VVN
 by_PRP
-Waksman_NP0-NN1
+Waksman_NP0
 attracted_VVN
 Florey_NP0
 's_POS
@@ -5966,7 +5966,7 @@ do_VDB
 not_XX0
 usually_AV0
 grow_VVI
-fast_AV0-AJ0
+fast_AJ0
 and_CJC
 conditions_NN2
 had_VHD
@@ -5978,7 +5978,7 @@ which_DTQ
 large_AJ0
 quantities_NN2
 of_PRF
-Penicillium_NP0-NN1
+Penicillium_NN1
 notatum_NN1
 could_VM0
 be_VBI
@@ -6045,7 +6045,7 @@ active_AJ0
 substance_NN1
 from_PRP
 the_AT0
-Penicillium_NP0-NN1
+Penicillium_NN1
 cultures_NN2
 had_VHD
 to_TO0
@@ -6067,7 +6067,7 @@ A_AT0
 rapid_AJ0
 method_NN1
 of_PRF
-assaying_VVG-AJ0
+assaying_AJ0
 samples_NN2
 was_VBD
 essential_AJ0
@@ -6093,7 +6093,7 @@ was_VBD
 obtained_VVN
 which_DTQ
 could_VM0
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 standard_NN1
@@ -6117,7 +6117,7 @@ at_PRP
 temperatures_NN2
 below_AV0
 5\xc2\xb0C_NN0
-Freeze_VVB-NN1
+Freeze_NN1
 drying_NN1
 was_VBD
 valuable_AJ0
@@ -6456,7 +6456,7 @@ would_VM0
 be_VBI
 entirely_AV0
 in_PRP
-character'_NN1-AJ0
+character'_AJ0
 One_CRD
 wonders_NN2
 how_AVQ
@@ -6611,7 +6611,7 @@ thin_AJ0
 a_AT0
 basis_NN1
 for_PRP
-disrupting_VVG-AJ0
+disrupting_VVG
 existing_AJ0
 essential_AJ0
 activities_NN2
@@ -6747,7 +6747,7 @@ richer_AJC
 country_NN1
 not_XX0
 yet_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 war_NN1
 The_AT0
@@ -6906,7 +6906,7 @@ a_AT0
 valuable_AJ0
 nutrient_NN1
 for_PRP
-Penicillium_NP0-NN1
+Penicillium_NN1
 notatum_NN1
 When_CJS
 Heatley_NP0
@@ -6916,7 +6916,7 @@ Peoria_NP0
 culture_NN1
 methods_NN2
 were_VBD
-yielding_VVG
+yielding_AJ0
 2_CRD
 U_AJ0
 ml&sup/minus1_NN1
@@ -6950,7 +6950,7 @@ American_AJ0
 pharmaceutical_AJ0
 businesses_NN2
 with_PRP
-varying_AJ0-VVG
+varying_AJ0
 success_NN1
 In_PRP
 the_AT0
@@ -7065,7 +7065,7 @@ worldwide_AV0
 scale_NN1
 manufacture_NN1
 by_PRP
-chemical_AJ0-NN1
+chemical_AJ0
 synthesis_NN1
 was_VBD
 naturally_AV0
@@ -7074,7 +7074,7 @@ attractive_AJ0
 alternative_AJ0
 First_ORD
 the_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 identity_NN1
 of_PRF
 penicillin_NN1
@@ -7127,7 +7127,7 @@ after_PRP
 F_ZZ0
 from_PRP
 the_AT0
-Squibb_NP0-NN1
+Squibb_NP0
 Laboratories_NN2
 Penicillin-III_CRD
 or_CJC
@@ -7272,7 +7272,7 @@ to_TO0
 adapt_VVI
 by_PRP
 developing_VVG
-penicillin-splitting_AJ0-NN1
+penicillin-splitting_NN1
 enzymes_NN2
 Organisms_NN2
 resistant_AJ0
@@ -7314,7 +7314,7 @@ discovery_NN1
 in_PRP
 1945_CRD
 by_PRP
-Brotzu_NP0-NN1
+Brotzu_NN1
 in_PRP
 Sardinia_NP0
 of_PRF
@@ -7324,7 +7324,7 @@ in_PRP
 a_AT0
 species_NN0
 of_PRF
-Cephalosporium_NP0-NN1
+Cephalosporium_NP0
 recovered_VVN
 from_PRP
 the_AT0
@@ -7386,7 +7386,7 @@ intractable_AJ0
 but_CJC
 enzymic_AJ0
 and_CJC
-chemical_AJ0-NN1
+chemical_AJ0
 modification_NN1
 of_PRF
 penicillins_NN2
@@ -7408,7 +7408,7 @@ acid_NN1
 by_PRP
 fermentation_NN1
 Chain_NN1
-exasperated_AJ0
+exasperated_VVN
 by_PRP
 the_AT0
 British_AJ0
@@ -7560,7 +7560,7 @@ less_AV0
 overcome_VVI
 by_PRP
 ingenious_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 manipulation_NN1
 so_AV0
 that_CJT
@@ -7693,7 +7693,7 @@ pneumonia_NN1
 he_PNP
 stated_VVD
 that_CJT
-sulphapyridine_NN1-VVB
+sulphapyridine_NN1
 was_VBD
 active_AJ0
 against_PRP
@@ -7714,7 +7714,7 @@ Wright_NP0
 its_DPS
 action_NN1
 was_VBD
-improved_AJ0
+improved_VVN
 if_CJS
 anti-pneumococcal_AJ0
 serum_NN1
@@ -7941,7 +7941,7 @@ the_AT0
 patient_NN1
 and_CJC
 after_PRP
-consulting_AJ0-VVG
+consulting_VVG
 Florey_NP0
 Fleming_NP0
 took_VVD
@@ -8020,7 +8020,7 @@ a_AT0
 leading_AJ0
 article_NN1
 headed_VVN
-Penicillium_NP0-NN1
+Penicillium_NN1
 appeared_VVD
 in_PRP
 The_AT0
@@ -8088,7 +8088,7 @@ off_AVP
 on_PRP
 a_AT0
 new_AJ0
-tack_VVI
+tack_NN1
 to_TO0
 Oxford_NP0
 but_CJC
@@ -8163,7 +8163,7 @@ Mary_NP0
 's_POS
 was_VBD
 one_CRD
-depended_VVN-VVD
+depended_VVD
 on_PRP
 charity_NN1
 for_PRP
@@ -8188,7 +8188,7 @@ St_NP0
 Mary_NP0
 's_POS
 Hospital_NN1
-improved_AJ0
+improved_VVN
 its_DPS
 chances_NN2
 of_PRF
@@ -8348,7 +8348,7 @@ Fleming_NP0
 original_AJ0
 publication_NN1
 on_PRP
-Penicillium_NP0-NN1
+Penicillium_NN1
 and_CJC
 at_PRP
 other_AJ0
@@ -8488,13 +8488,13 @@ mould_NN1
 later_AV0
 identified_VVN
 as_CJS
-Penicillium_NP0-NN1
+Penicillium_NN1
 notatum_NN1
 He_PNP
 coined_VVD
 the_AT0
 word_NN1
-penicillin'_VVG-NN1
+penicillin'_VVG
 But_CJC
 he_PNP
 did_VDD
@@ -8721,7 +8721,7 @@ nurturing_VVG
 British_AJ0
 science_NN1
 and_CJC
-ripening_AJ0-VVG
+ripening_VVG
 its_DPS
 fruits_NN2
 He_PNP
@@ -8762,7 +8762,7 @@ compensations_NN2
 for_PRP
 unawarded_AJ0
 praise_NN1
-Streptomycin_NN1-NP0
+Streptomycin_NP0
 and_CJC
 onwards_AV0
 The_AT0
@@ -8838,7 +8838,7 @@ life_NN1
 of_PRF
 S._NP0
 A._NP0
-Waksman_NP0-NN1
+Waksman_NP0
 The_AT0
 scavenging_AJ0
 activities_NN2
@@ -8853,7 +8853,7 @@ to_TO0
 human_AJ0
 welfare_NN1
 but_CJC
-Waksman_NP0-NN1
+Waksman_NP0
 's_POS
 studies_NN2
 were_VBD
@@ -8862,7 +8862,7 @@ orientated_VVN
 to_TO0
 medical_AJ0
 applications_NN2
-Waksman_NP0-NN1
+Waksman_NP0
 was_VBD
 born_VVN
 in_PRP
@@ -8991,13 +8991,13 @@ in_PRP
 producing_VVG
 substances_NN2
 which_DTQ
-inhibit_VVI
+inhibit_VVB
 the_AT0
 growth_NN1
 of_PRF
 other_AJ0
 microbes_NN2
-Waksman_NP0-NN1
+Waksman_NP0
 is_VBZ
 said_VVD
 to_TO0
@@ -9059,7 +9059,7 @@ tyrothricin_NN1
 to_TO0
 clinical_AJ0
 trial_NN1
-Waksman_NP0-NN1
+Waksman_NP0
 records_NN2
 that_CJT
 the_AT0
@@ -9068,7 +9068,7 @@ American_AJ0
 pharmaceutical_AJ0
 firm_NN1
 of_PRF
-Merck_NP0-NN1
+Merck_NP0
 established_VVN
 a_AT0
 fellowship_NN1
@@ -9105,7 +9105,7 @@ a_AT0
 medical_AJ0
 student_NN1
 urged_VVD
-Waksman_NP0-NN1
+Waksman_NP0
 senior_AJ0
 to_TO0
 isolate_VVI
@@ -9147,7 +9147,7 @@ kind_NN1
 of_PRF
 Actinomyces_NP0
 recently_AV0
-reclassified_VVD-VVN
+reclassified_VVN
 and_CJC
 named_VVN
 Streptomyces_NP0
@@ -9169,7 +9169,7 @@ growth_NN1
 of_PRF
 various_AJ0
 organisms_NN2
-Tubercle_NN1-NP0
+Tubercle_NN1
 bacilli_NN2
 are_VBB
 included_VVD
@@ -9267,10 +9267,10 @@ They_PNP
 made_VVN
 contact_NN1
 with_PRP
-Waksman_NP0-NN1
+Waksman_NP0
 and_CJC
 with_PRP
-Merck_NP0-NN1
+Merck_NP0
 and_CJC
 obtained_VVN
 supplies_NN2
@@ -9296,7 +9296,7 @@ investigations_NN2
 began_VVD
 events_NN2
 moved_VVD
-fast_AV0-AJ0
+fast_AJ0
 Economical_AJ0
 methods_NN2
 of_PRF
@@ -9304,7 +9304,7 @@ manufacture_NN1
 were_VBD
 devised_VVN
 at_PRP
-Merck_NP0-NN1
+Merck_NP0
 while_CJS
 clinical_AJ0
 trials_NN2
@@ -9352,7 +9352,7 @@ penicillin_NN1
 was_VBD
 reduced_VVN
 about_PRP
-seventyfold_AJ0-AV0
+seventyfold_AV0
 between_PRP
 1946_CRD
 and_CJC
@@ -9363,7 +9363,7 @@ in_PRP
 large_AJ0
 scale_NN1
 production_NN1
-Streptomycin_NN1-NP0
+Streptomycin_NP0
 is_VBZ
 more_AV0
 stable_AJ0
@@ -9436,7 +9436,7 @@ generally_AV0
 recognized_VVN
 as_CJS
 life_NN1
-saving_NN1
+saving_VVG
 in_PRP
 tuberculosis_NN1
 Miliary_AJ0
@@ -9450,7 +9450,7 @@ hitherto_AV0
 consistently_AV0
 fatal_AJ0
 conditions_NN2
-yielded_VVD-VVN
+yielded_VVD
 to_TO0
 it_PNP
 It_PNP
@@ -9466,7 +9466,7 @@ awarded_VVN
 in_PRP
 1952_CRD
 to_TO0
-Waksman_NP0-NN1
+Waksman_NP0
 though_CJS
 there_EX0
 are_VBB
@@ -9606,7 +9606,7 @@ at_PRP
 that_CJT
 time_NN1
 still_AV0
-awaited_VVD
+awaited_VVN
 effective_AJ0
 therapy_NN1
 The_AT0
@@ -9621,7 +9621,7 @@ followed_VVN
 by_PRP
 the_AT0
 tetracyclines_NN2
-chloramphenicol_VVB-NN1
+chloramphenicol_NN1
 and_CJC
 many_DT0
 other_AJ0
@@ -9762,9 +9762,9 @@ or_CJC
 industrial_AJ0
 plant_NN1
 by_PRP
-chemical_AJ0-NN1
+chemical_AJ0
 processes_NN2
-Chloramphenicol_NN1-NP0
+Chloramphenicol_NP0
 was_VBD
 the_AT0
 first_ORD
@@ -9837,7 +9837,7 @@ principle_NN1
 of_PRF
 antibiosis_NN1
 or_CJC
-chemical_AJ0-NN1
+chemical_AJ0
 warfare_NN1
 between_PRP
 species_NN0
@@ -10095,7 +10095,7 @@ cells_NN2
 and_CJC
 was_VBD
 named_VVN
-Plasmodium_NP0-NN1
+Plasmodium_NP0
 malariae_NN2
 was_VBD
 first_ORD
@@ -10107,7 +10107,7 @@ in_PRP
 1880_CRD
 by_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 physician_NN1
 Alphonse_NP0
 Laveran_NP0
@@ -10129,7 +10129,7 @@ materials_NN2
 from_PRP
 the_AT0
 German_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 industry_NN1
 made_VVN
 it_PNP
@@ -10152,7 +10152,7 @@ years_NN2
 four_CRD
 species_NN0
 of_PRF
-Plasmodium_NP0-NN1
+Plasmodium_NP0
 had_VHD
 been_VBN
 recognized_VVN
@@ -10264,7 +10264,7 @@ The_AT0
 period_NN1
 between_PRP
 the_AT0
-bite_VVI
+bite_NN1
 of_PRF
 an_AT0
 infected_AJ0
@@ -10340,7 +10340,7 @@ phase_NN1
 in_PRP
 which_DTQ
 the_AT0
-Plasmodium_NP0-NN1
+Plasmodium_NP0
 went_VVD
 to_TO0
 ground_NN1
@@ -10395,7 +10395,7 @@ Their_DPS
 activity_NN1
 created_VVN
 some_DT0
-initial_AJ0-NN1
+initial_AJ0
 enthusiasm_NN1
 but_CJC
 was_VBD
@@ -10447,7 +10447,7 @@ a_AT0
 British_AJ0
 parasitologist_NN1
 Warrington_NP0
-Yorke_NP0-NN1
+Yorke_NP0
 1883\xe2\x80\x931943_CRD
 at_PRP
 the_AT0
@@ -10489,7 +10489,7 @@ Much_DT0
 of_PRF
 the_AT0
 work_NN1
-centred_VVN-VVD
+centred_VVN
 on_PRP
 the_AT0
 complex_AJ0
@@ -10681,7 +10681,7 @@ Chemically_AV0
 the_AT0
 antimalarial_AJ0
 drug_NN1
-Atebrin_NN1-NP0
+Atebrin_NN1
 or_CJC
 mepacrine_NN1
 had_VHD
@@ -10775,11 +10775,11 @@ culminating_VVG
 in_PRP
 the_AT0
 drug_NN1
-Paludrine_NN1-NP0
+Paludrine_NN1
 alias_PRP
 proguanil_NN1
 or_CJC
-chloroguanide_NN1-VVB
+chloroguanide_VVB
 which_DTQ
 became_VVD
 publicly_AV0
@@ -10802,7 +10802,7 @@ especially_AV0
 those_DT0
 due_AJ0
 to_TO0
-Plasmodium_NP0-NN1
+Plasmodium_NP0
 falciparum_NN1
 it_PNP
 was_VBD
@@ -10823,7 +10823,7 @@ use_NN1
 strains_NN2
 of_PRF
 resistant_AJ0
-Plasmodium_NP0-NN1
+Plasmodium_NP0
 emerged_VVD
 and_CJC
 like_PRP
@@ -10852,7 +10852,7 @@ been_VBN
 achieved_VVN
 This_DT0
 work_NN1
-depended_VVN-VVD
+depended_VVD
 on_PRP
 intimate_AJ0
 collaboration_NN1
@@ -10919,7 +10919,7 @@ dosage_NN1
 with_PRP
 mepacrine_NN1
 and_CJC
-Paludrine_NN1-NP0
+Paludrine_NN1
 to_TO0
 be_VBI
 established_VVN
@@ -11040,7 +11040,7 @@ the_AT0
 Bayer_NP0
 Laboratories_NN2
 in_PRP
-Elberfeld_NP0-NN1
+Elberfeld_NN1
 prepared_AJ0
 a_AT0
 compound_NN1
@@ -11049,7 +11049,7 @@ was_VBD
 first_ORD
 known_VVN
 as_CJS
-Resochin_NP0-NN1
+Resochin_NP0
 It_PNP
 might_VM0
 be_VBI
@@ -11065,7 +11065,7 @@ to_TO0
 a_AT0
 substantially_AV0
 different_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 class_NN1
 For_PRP
 10_CRD
@@ -11107,7 +11107,7 @@ was_VBD
 given_VVN
 the_AT0
 name_NN1
-Sontochin_NP0-NN1
+Sontochin_NN1
 was_VBD
 also_AV0
 laid_VVN
@@ -11127,7 +11127,7 @@ States_NP0
 and_CJC
 later_AV0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 firm_NN1
 of_PRF
 Specia_NP0
@@ -11141,15 +11141,15 @@ branch_NN1
 of_PRF
 the_AT0
 great_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 company_NN1
 Rhone-Poulenc_NP0
 were_VBD
 informed_VVN
 about_PRP
-Resochin_NP0-NN1
+Resochin_NP0
 and_CJC
-Sontochin_NP0-NN1
+Sontochin_NN1
 By_PRP
 this_DT0
 time_NN1
@@ -11236,7 +11236,7 @@ Research_NN1
 Council_NN1
 The_AT0
 program_NN1
-involved_AJ0
+involved_VVN
 scientists_NN2
 from_PRP
 the_AT0
@@ -11252,7 +11252,7 @@ the_AT0
 Navy_NN1
 and_CJC
 the_AT0
-Public_AJ0-NN1
+Public_AJ0
 Health_NN1
 Service_NN1
 and_CJC
@@ -11286,13 +11286,13 @@ of_PRF
 Malarial_AJ0
 Studies_NN2
 The_AT0
-overall_AJ0-NN1
+overall_AJ0
 search_NN1
 for_PRP
 new_AJ0
 antimalarial_AJ0
 agents_NN2
-involved_AJ0
+involved_VVN
 the_AT0
 screening_NN1
 of_PRF
@@ -11400,10 +11400,10 @@ and_CJC
 properties_NN2
 both_AV0
 of_PRF
-Sontochin_NP0-NN1
+Sontochin_NN1
 and_CJC
 of_PRF
-Resochin_NP0-NN1
+Resochin_NP0
 had_VHD
 been_VBN
 disclosed_VVN
@@ -11418,7 +11418,7 @@ created_VVN
 sufficient_AJ0
 interest_NN1
 for_PRP
-Sontochin_NP0-NN1
+Sontochin_NN1
 to_TO0
 be_VBI
 synthesized_VVN
@@ -11439,7 +11439,7 @@ against_PRP
 malaria_NN1
 in_PRP
 canaries_NN2
-Resochin_NP0-NN1
+Resochin_NP0
 was_VBD
 not_XX0
 pursued_VVN
@@ -11455,7 +11455,7 @@ registered_VVN
 for_PRP
 purposes_NN2
 of_PRF
-patenting_VVG-NN1
+patenting_VVG
 The_AT0
 information_NN1
 very_AV0
@@ -11513,9 +11513,9 @@ their_DPS
 papers_NN2
 Meanwhile_AV0
 P._NP0
-Decourt_NP0-NN1
+Decourt_NP0
 a_AT0
-French_AJ0-NN1
+French_AJ0
 clinical_AJ0
 consultant_NN1
 to_TO0
@@ -11578,7 +11578,7 @@ his_DPS
 remaining_AJ0
 samples_NN2
 of_PRF
-Sontochin_NP0-NN1
+Sontochin_NN1
 to_TO0
 the_AT0
 US_NP0
@@ -11595,7 +11595,7 @@ the_AT0
 United_NP0
 States_NP0
 Its_DPS
-chemical_AJ0-NN1
+chemical_AJ0
 composition_NN1
 was_VBD
 determined_VVN
@@ -11677,7 +11677,7 @@ secret_AJ0
 Further_AV0
 trials_NN2
 on_PRP
-Sontochin_NP0-NN1
+Sontochin_NN1
 now_AV0
 SN-6911_CRD
 con_NN1
@@ -11724,7 +11724,7 @@ the_AT0
 USA_NP0
 along_AVP
 with_PRP
-Sontochin_NP0-NN1
+Sontochin_NN1
 by_PRP
 Winthrop_NP0
 It_PNP
@@ -11742,7 +11742,7 @@ as_CJS
 the_AT0
 original_AJ0
 Bayer_NP0
-Resochin_NP0-NN1
+Resochin_NP0
 and_CJC
 after_PRP
 much_DT0
@@ -11836,7 +11836,7 @@ drugs_NN2
 have_VHB
 been_VBN
 discovered_VVN
-Primaquine_VVB-NN1
+Primaquine_VVB
 chemically_AV0
 in_PRP
 the_AT0
@@ -11935,10 +11935,10 @@ The_AT0
 great_AJ0
 hope_VVB
 of_PRF
-eradicating_VVG-AJ0
+eradicating_VVG
 malaria_NN1
 has_VHZ
-faded_AJ0
+faded_VVN
 new_AJ0
 battles_NN2
 must_VM0
@@ -11951,7 +11951,7 @@ devised_VVN
 if_CJS
 even_AV0
 the_AT0
-present_AJ0-NN1
+present_AJ0
 level_NN1
 of_PRF
 control_NN1
@@ -12002,7 +12002,7 @@ range_NN1
 of_PRF
 difficulties_NN2
 Before_PRP
-Koch_NP0-NN1
+Koch_NP0
 the_AT0
 cause_NN1
 of_PRF
@@ -12065,7 +12065,7 @@ of_PRF
 the_AT0
 large_AJ0
 genus_NN1
-Mycobacteria_NP0-NN1
+Mycobacteria_NN1
 most_AV0
 of_PRF
 which_DTQ
@@ -12073,10 +12073,10 @@ are_VBB
 harmless_AJ0
 to_TO0
 man_NN1
-Mycobacterium_NP0-NN1
+Mycobacterium_NN1
 tuberculosis_NN1
 and_CJC
-Mycobacterium_NP0-NN1
+Mycobacterium_NN1
 bovis_NN1
 both_AV0
 grow_VVI
@@ -12092,7 +12092,7 @@ of_PRF
 unknown_AJ0
 or_CJC
 uncertain_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 composition_NN1
 They_PNP
 have_VHB
@@ -12116,7 +12116,7 @@ bacilli_NN2
 are_VBB
 extraordinarily_AV0
 complicated_AJ0
-Koch_NP0-NN1
+Koch_NP0
 's_POS
 attempt_NN1
 to_TO0
@@ -12232,7 +12232,7 @@ particularly_AV0
 difficult_AJ0
 target_NN1
 for_PRP
-chemical_AJ0-NN1
+chemical_AJ0
 attack_NN1
 In_PRP
 the_AT0
@@ -12317,7 +12317,7 @@ the_AT0
 sense_NN1
 in_PRP
 which_DTQ
-Ehrlich_NP0-NN1
+Ehrlich_NP0
 introduced_VVN
 the_AT0
 term_NN1
@@ -12427,7 +12427,7 @@ accepting_VVG
 the_AT0
 chance_NN1
 of_PRF
-missing_VVG-AJ0
+missing_VVG
 key_AJ0
 properties_NN2
 which_DTQ
@@ -12566,7 +12566,7 @@ disease_NN1
 caused_VVN
 by_PRP
 another_DT0
-Mycobacterium_NP0-NN1
+Mycobacterium_NN1
 leprosy_NN1
 Useful_AJ0
 results_NN2
@@ -12575,10 +12575,10 @@ achieved_VVN
 by_PRP
 studying_VVG
 the_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 needs_VVZ
 of_PRF
-Mycobacteria_NP0-NN1
+Mycobacteria_NN1
 In_PRP
 Duke_NN1
 University_NN1
@@ -12640,7 +12640,7 @@ of_PRF
 oxygen_NN1
 by_PRP
 the_AT0
-cultivated_AJ0
+cultivated_VVN
 organisms_NN2
 over_PRP
 short_AJ0
@@ -12663,7 +12663,7 @@ simple_AJ0
 compounds_NN2
 aldehydes_NN2
 and_CJC
-fatty_AJ0-NN1
+fatty_AJ0
 acids_NN2
 which_DTQ
 stimulated_VVN
@@ -12676,7 +12676,7 @@ it_PNP
 and_CJC
 salicylic_AJ0
 acid_NN1
-increased_AJ0
+increased_VVN
 it_PNP
 five-fold_AJ0
 The_AT0
@@ -12685,7 +12685,7 @@ related_VVN
 p_ZZ0
 -aminobenzoic_AJ0
 acid_NN1
-PABA_NP0-NN1
+PABA_NP0
 had_VHD
 just_AV0
 become_VVI
@@ -12708,7 +12708,7 @@ no_AT0
 effect_NN1
 Another_DT0
 close_AJ0
-relative_AJ0-NN1
+relative_AJ0
 acetylsalicylic_AJ0
 acid_NN1
 i.e._AV0
@@ -13062,11 +13062,11 @@ in_PRP
 many_DT0
 laboratories_NN2
 A_AT0
-French_AJ0-NN1
+French_AJ0
 study_NN1
 showed_VVD
 that_CJT
-nicotinamide_NN1-VVB
+nicotinamide_VVB
 a_AT0
 member_NN1
 of_PRF
@@ -13103,7 +13103,7 @@ caused_VVN
 by_PRP
 related_VVN
 organisms_NN2
-nicotinamide_NN1-VVB
+nicotinamide_VVB
 was_VBD
 tested_VVN
 against_PRP
@@ -13220,13 +13220,13 @@ laboratories_NN2
 of_PRF
 E._NP0
 R._NP0
-Squibb_NP0-NN1
+Squibb_NP0
 and_CJC
 of_PRF
 Hoffmann-La_NP0
 Roche_NP0
 and_CJC
-publicized_VVN-VVD
+publicized_VVN
 in_PRP
 1952_CRD
 It_PNP
@@ -13355,7 +13355,7 @@ Investigating_VVG
 and_CJC
 controlling_VVG
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 tuberculosis_NN1
 socially_AV0
@@ -13402,7 +13402,7 @@ into_PRP
 use_NN1
 but_CJC
 at_PRP
-present_AJ0-NN1
+present_AJ0
 1990_CRD
 it_PNP
 does_VDZ
@@ -13490,7 +13490,7 @@ measles_NN0
 chicken_NN1
 pox_NN1
 and_CJC
-mumps_NN2-VVZ
+mumps_NN2
 and_CJC
 some_DT0
 much_DT0
@@ -13515,7 +13515,7 @@ of_PRF
 dogs_NN2
 and_CJC
 the_AT0
-foot-and-mouth_AJ0-NN1
+foot-and-mouth_AJ0
 disease_NN1
 of_PRF
 cattle_NN2
@@ -13557,7 +13557,7 @@ tobacco_NN1
 plants_NN2
 can_VM0
 be_VBI
-transmitted_AJ0-VVN
+transmitted_VVN
 by_PRP
 the_AT0
 sap_NN1
@@ -13587,17 +13587,17 @@ with_PRP
 the_AT0
 conventional_AJ0
 microscope_NN1
-Loeffler_NP0-NN1
+Loeffler_NN1
 showed_VVD
 another_DT0
-filter-passing_AJ0-NN1
+filter-passing_AJ0
 material_NN1
 to_TO0
 be_VBI
 the_AT0
 cause_NN1
 of_PRF
-foot-and-mouth_AJ0-NN1
+foot-and-mouth_AJ0
 disease_NN1
 in_PRP
 cattle_NN2
@@ -13717,8 +13717,8 @@ the_AT0
 amount_NN1
 of_PRF
 virus_NN1
-present_AJ0-NN1
-Advances_NN2-VVZ
+present_AJ0
+Advances_NN2
 followed_VVN
 the_AT0
 development_NN1
@@ -13734,7 +13734,7 @@ the_AT0
 beam_NN1
 of_PRF
 electrons_NN2
-cast_VVN
+cast_NN1
 shadows_NN2
 which_DTQ
 could_VM0
@@ -14031,7 +14031,7 @@ other_AJ0
 cellular_AJ0
 event_NN1
 was_VBD
-involved_AJ0
+involved_VVN
 but_CJC
 its_DPS
 nature_NN1
@@ -14313,7 +14313,7 @@ to_TO0
 particular_AJ0
 viruses_NN2
 but_CJC
-varying_AJ0-VVG
+varying_AJ0
 in_PRP
 their_DPS
 exact_AJ0
@@ -14429,7 +14429,7 @@ of_PRF
 supplies_NN2
 of_PRF
 the_AT0
-curative_AJ0-NN1
+curative_AJ0
 substance_NN1
 and_CJC
 of_PRF
@@ -14546,7 +14546,7 @@ One_CRD
 derivative_NN1
 later_AV0
 named_VVN
-methisazone_NN1-VVB
+methisazone_NN1
 attracted_VVN
 interest_NN1
 because_CJS
@@ -14613,14 +14613,14 @@ discovery_NN1
 of_PRF
 new_AJ0
 drugs_NN2
-depended_VVN-VVD
+depended_VVD
 on_PRP
 basic_AJ0
 advances_NN2
 in_PRP
 understanding_NN1
 the_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 identity_NN1
 of_PRF
 the_AT0
@@ -14708,7 +14708,7 @@ immune_AJ0
 to_TO0
 infecting_VVG
 organisms_NN2
-Advances_NN2-VVZ
+Advances_NN2
 in_PRP
 virology_NN1
 became_VVD
@@ -14738,7 +14738,7 @@ foundation_NN1
 A_AT0
 drug_NN1
 named_VVN
-idoxuridine_NN1-VVB
+idoxuridine_NN1
 synthesized_VVN
 as_CJS
 a_AT0
@@ -14769,7 +14769,7 @@ occurring_VVG
 substance_NN1
 Its_DPS
 activity_NN1
-depended_VVN-VVD
+depended_VVD
 on_PRP
 its_DPS
 being_VBG
@@ -14781,7 +14781,7 @@ taken_VVN
 up_AVP
 by_PRP
 the_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 processes_NN2
 of_PRF
 the_AT0
@@ -15201,7 +15201,7 @@ germs_NN2
 once_AV0
 again_AV0
 have_VHB
-faded_AJ0
+faded_VVN
 into_PRP
 obscurity_NN1
 Would_VM0
@@ -15332,7 +15332,7 @@ the_AT0
 continuation_NN1
 of_PRF
 war_NN1
-depended_VVN-VVD
+depended_VVD
 on_PRP
 much_DT0
 basic_AJ0
@@ -15382,7 +15382,7 @@ material_NN1
 amenities_NN2
 of_PRF
 life_NN1
-increased_AJ0
+increased_VVN
 at_PRP
 least_AV0
 in_PRP
@@ -15399,7 +15399,7 @@ never_AV0
 known_VVN
 it_PNP
 before_PRP
-Public_AJ0-NN1
+Public_AJ0
 appreciation_NN1
 of_PRF
 science_NN1
@@ -15525,7 +15525,7 @@ of_PRF
 the_AT0
 United_NP0
 States_NP0
-Public_AJ0-NN1
+Public_AJ0
 Health_NN1
 Service_NN1
 were_VBD
@@ -15572,13 +15572,13 @@ and_CJC
 education_NN1
 Industry_NN1
 especially_AV0
-chemical_AJ0-NN1
+chemical_AJ0
 and_CJC
 pharmaceutical_AJ0
 was_VBD
 no_AT0
 less_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 great_AJ0
@@ -15629,7 +15629,7 @@ Medical_AJ0
 Research_NN1
 Council_NN1
 expenditure_NN1
-increased_AJ0
+increased_VVN
 twenty-fold_AJ0
 between_PRP
 1948_CRD
@@ -15735,7 +15735,7 @@ Royal_AJ0
 Society_NN1
 and_CJC
 a_AT0
-principal_AJ0-NN1
+principal_AJ0
 scientific_AJ0
 advisor_NN1
 of_PRF
@@ -15809,12 +15809,12 @@ discovery_NN1
 of_PRF
 new_AJ0
 drugs_NN2
-Public_AJ0-NN1
+Public_AJ0
 hopes_NN2
 for_PRP
 medical_AJ0
 science_NN1
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 increasing_AJ0
 prosperity_NN1
@@ -15848,7 +15848,7 @@ contributions_NN2
 but_CJC
 new_AJ0
 charities_NN2
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 particular_AJ0
 diseases_NN2
@@ -16032,7 +16032,7 @@ But_CJC
 the_AT0
 gap_NN1
 between_PRP
-amateur_AJ0-NN1
+amateur_AJ0
 and_CJC
 expert_NN1
 must_VM0
@@ -16195,7 +16195,7 @@ even_AV0
 to_TO0
 prevent_VVI
 it_PNP
-Salvarsan_NP0-NN1
+Salvarsan_NN1
 and_CJC
 later_AV0
 the_AT0
@@ -16231,7 +16231,7 @@ On_PRP
 the_AT0
 other_AJ0
 hand_NN1
-Jenner_NP0-NN1
+Jenner_NP0
 introduced_VVN
 vaccination_NN1
 when_CJS
@@ -16439,7 +16439,7 @@ development_NN1
 of_PRF
 instruments_NN2
 of_PRF
-chemical_AJ0-NN1
+chemical_AJ0
 warfare_NN1
 It_PNP
 is_VBZ
@@ -16496,7 +16496,7 @@ signs_NN2
 Are_VBB
 there_EX0
 any_DT0
-characteristic_AJ0-NN1
+characteristic_NN1
 changes_NN2
 in_PRP
 a_AT0
@@ -16716,7 +16716,7 @@ been_VBN
 honestly_AV0
 although_CJS
 misguidedly_AV0
-trusted_VVD
+trusted_AJ0
 until_CJS
 experience_NN1
 gradually_AV0
@@ -16758,7 +16758,7 @@ in_PRP
 simple_AJ0
 tumours_NN2
 or_CJC
-invading_AJ0-VVG
+invading_VVG
 surrounding_AJ0
 tissues_NN2
 and_CJC
@@ -16803,7 +16803,7 @@ the_AT0
 nineteenth-century_AJ0
 descriptive_AJ0
 pathologists_NN2
-Virchow_VVB-NN1
+Virchow_NN1
 himself_PNX
 the_AT0
 founding_NN1
@@ -16845,9 +16845,9 @@ receiving_VVG
 hard_AJ0
 treatment_NN1
 from_PRP
-Pasteur_NP0-NN1
+Pasteur_NN1
 and_CJC
-Virchow_VVB-NN1
+Virchow_NN1
 came_VVD
 to_TO0
 assent_NN1
@@ -16872,7 +16872,7 @@ after_PRP
 cures_NN2
 for_PRP
 cancer_NN1
-Advances_NN2-VVZ
+Advances_NN2
 in_PRP
 pathology_NN1
 brought_VVN
@@ -16956,7 +16956,7 @@ nasal_AJ0
 passages_NN2
 with_PRP
 the_AT0
-immoderate_AJ0-NN1
+immoderate_AJ0
 use_NN1
 of_PRF
 snuff_NN1
@@ -17002,7 +17002,7 @@ to_TO0
 study_NN1
 diseases_NN2
 which_DTQ
-spread_NN1
+spread_VVN
 rapidly_AV0
 and_CJC
 killed_VVN
@@ -17069,7 +17069,7 @@ and_CJC
 determine_VVI
 the_AT0
 exact_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 identity_NN1
 of_PRF
 the_AT0
@@ -17142,7 +17142,7 @@ carcinogens_NN2
 followed_VVN
 but_CJC
 the_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 problems_NN2
 of_PRF
 isolating_VVG
@@ -17159,16 +17159,16 @@ tar_NN1
 were_VBD
 also_AV0
 formidable_AJ0
-Advances_NN2-VVZ
+Advances_NN2
 in_PRP
 physical_AJ0
 and_CJC
-chemical_AJ0-NN1
+chemical_AJ0
 methods_NN2
 enabled_VVD
-Kennaway_NP0-NN1
+Kennaway_NP0
 and_CJC
-Hieger_VVB-NN1
+Hieger_NN1
 in_PRP
 1930_CRD
 at_PRP
@@ -17184,14 +17184,14 @@ a_AT0
 substance_NN1
 with_PRP
 the_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 name_NN1
 1:2:5:6-dibenzanthracene_UNC
 the_AT0
 first_ORD
 known_VVN
 pure_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 compound_NN1
 manifesting_VVG
 pronounced_AJ0
@@ -17356,7 +17356,7 @@ hen_NN1
 and_CJC
 the_AT0
 material_NN1
-transmitted_AJ0-VVN
+transmitted_VVN
 caused_VVN
 tumours_NN2
 in_PRP
@@ -17511,7 +17511,7 @@ nearby_AJ0
 materials_NN2
 fluoresce_VVB
 i.e._AV0
-emit_VVI
+emit_VVB
 light_NN1
 when_CJS
 the_AT0
@@ -17601,7 +17601,7 @@ as_CJS
 a_AT0
 kind_NN1
 of_PRF
-cautery_NN1-AJ0
+cautery_AJ0
 to_TO0
 ulcerating_VVG
 cancerous_AJ0
@@ -17618,7 +17618,7 @@ inflammations_NN2
 and_CJC
 tuberculosis_NN1
 Antoine_NP0
-Becquerel_NP0-NN1
+Becquerel_NN1
 1852\xe2\x80\x931908_CRD
 observed_VVN
 that_CJT
@@ -17841,7 +17841,7 @@ patients_NN2
 were_VBD
 exposed_VVN
 probably_AV0
-varied_AJ0
+varied_VVN
 from_PRP
 the_AT0
 imperceptible_AJ0
@@ -18037,7 +18037,7 @@ twentieth_ORD
 century_NN1
 two_CRD
 approaches_NN2
-converged_VVN-VVD
+converged_VVN
 One_CRD
 was_VBD
 the_AT0
@@ -18054,7 +18054,7 @@ of_PRF
 parents_NN2
 and_CJC
 offspring_NN0
-Mendel_NP0-NN1
+Mendel_NP0
 's_POS
 work_NN1
 had_VHD
@@ -18245,7 +18245,7 @@ the_AT0
 cancer_NN1
 cells_NN2
 without_PRP
-damaging_VVG-AJ0
+damaging_AJ0
 healthy_AJ0
 cells_NN2
 Some_DT0
@@ -18564,7 +18564,7 @@ about_PRP
 the_AT0
 time_NN1
 when_CJS
-Becquerel_NP0-NN1
+Becquerel_NN1
 was_VBD
 working_VVG
 on_PRP
@@ -18706,7 +18706,7 @@ of_PRF
 hormones_NN2
 or_CJC
 blood-borne_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 messengers_NN2
 was_VBD
 elaborated_VVD
@@ -18718,7 +18718,7 @@ by_PRP
 Starling_NN1
 in_PRP
 his_DPS
-Croonian_AJ0-NN1
+Croonian_NN1
 lectures_NN2
 a_AT0
 decade_NN1
@@ -18742,7 +18742,7 @@ removing_VVG
 the_AT0
 ovaries_NN2
 until_CJS
-ovarian_AJ0-NN1
+ovarian_AJ0
 hormones_NN2
 had_VHD
 been_VBN
@@ -18761,7 +18761,7 @@ puberty_NN1
 The_AT0
 isolation_NN1
 and_CJC
-chemical_AJ0-NN1
+chemical_AJ0
 identification_NN1
 of_PRF
 several_DT0
@@ -18784,7 +18784,7 @@ was_VBD
 obtained_VVN
 that_CJT
 certain_AJ0
-ovarian_AJ0-NN1
+ovarian_AJ0
 hormones_NN2
 the_AT0
 oestrogens_NN2
@@ -18819,7 +18819,7 @@ it_PNP
 was_VBD
 a_AT0
 far_AV0
-cry_VVI
+cry_NN1
 to_TO0
 advance_NN1
 from_PRP
@@ -18830,7 +18830,7 @@ breast_NN1
 cancers_NN2
 diminished_VVN
 when_CJS
-deprived_AJ0
+deprived_VVN
 of_PRF
 oestrogens_NN2
 to_TO0
@@ -18853,7 +18853,7 @@ of_PRF
 the_AT0
 male_AJ0
 prostate_NN1
-yielded_VVD-VVN
+yielded_VVD
 more_AV0
 immediate_AJ0
 progress_NN1
@@ -18883,7 +18883,7 @@ life_NN1
 and_CJC
 obstructs_VVZ
 the_AT0
-urinary_AJ0-NN1
+urinary_AJ0
 channel_NN1
 which_DTQ
 passes_VVZ
@@ -19012,7 +19012,7 @@ continued_VVD
 The_AT0
 synthetic_AJ0
 oestrogen_NN1
-stilboestrol_NN1-VVB
+stilboestrol_NN1
 see_VVI
 Chapter_NN1
 5_CRD
@@ -19151,7 +19151,7 @@ grow_VVI
 if_CJS
 oestrogens_NN2
 are_VBB
-present_AJ0-NN1
+present_AJ0
 and_CJC
 others_NN2
 are_VBB
@@ -19323,7 +19323,7 @@ the_AT0
 white_AJ0
 blood_NN1
 cells_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 development_NN1
@@ -19375,7 +19375,7 @@ the_AT0
 hormones_NN2
 do_VDB
 not_XX0
-act_VVI
+act_NN1
 primarily_AV0
 on_PRP
 the_AT0
@@ -19448,7 +19448,7 @@ had_VHD
 taken_VVN
 the_AT0
 drug_NN1
-diethylstilboestrol_NN1-VVB
+diethylstilboestrol_NN1
 during_PRP
 the_AT0
 first_ORD
@@ -19525,7 +19525,7 @@ prostatic_AJ0
 cancer_NN1
 Goodman_NP0
 and_CJC
-Gilman_NP0-NN1
+Gilman_NN1
 's_POS
 celebrated_AJ0
 textbook_NN1
@@ -19547,7 +19547,7 @@ of_PRF
 the_AT0
 book_NN1
 was_VBD
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 cancer_NN1
 and_CJC
@@ -19575,7 +19575,7 @@ It_PNP
 is_VBZ
 interesting_AJ0
 that_CJT
-Gilman_NP0-NN1
+Gilman_NN1
 and_CJC
 Goodman_NP0
 themselves_PNX
@@ -19597,11 +19597,11 @@ recognized_VVN
 first_ORD
 as_CJS
 poisons_NN2
-Atropine_VVB-NN1
+Atropine_VVB
 from_PRP
 deadly_AJ0
 nightshade_NN1
-eserine_NN1-AJ0
+eserine_NN1
 from_PRP
 the_AT0
 ordeal_NN1
@@ -19615,9 +19615,9 @@ from_PRP
 the_AT0
 arrow_NN1
 poison_NN1
-curare_NN1-VVB
+curare_NN1
 all_DT0
-yielded_VVD-VVN
+yielded_VVD
 useful_AJ0
 medicines_NN2
 when_CJS
@@ -19670,7 +19670,7 @@ is_VBZ
 all_DT0
 the_AT0
 more_AV0
-piquant_AJ0-NN1
+piquant_AJ0
 because_CJS
 the_AT0
 starting_VVG
@@ -19693,7 +19693,7 @@ The_AT0
 volatile_AJ0
 oily_AJ0
 liquid_NN1
-beta-chloro-beta-ethyl_AJ0-NN1
+beta-chloro-beta-ethyl_NN1
 sulphide_NN1
 was_VBD
 first_ORD
@@ -19818,7 +19818,7 @@ the_AT0
 pressure_NN1
 to_TO0
 investigate_VVI
-chemical_AJ0-NN1
+chemical_AJ0
 warfare_NN1
 agents_NN2
 disappeared_VVD
@@ -19862,7 +19862,7 @@ war_NN1
 made_VVN
 defence_NN1
 against_PRP
-chemical_AJ0-NN1
+chemical_AJ0
 warfare_NN1
 agents_NN2
 once_AV0
@@ -19954,7 +19954,7 @@ and_CJC
 Development_NN1
 Goodman_NP0
 and_CJC
-Gilman_NP0-NN1
+Gilman_NN1
 supplemented_VVN
 our_DPS
 understanding_NN1
@@ -20039,7 +20039,7 @@ in_PRP
 mice_NN2
 Goodman_NP0
 and_CJC
-Gilman_NP0-NN1
+Gilman_NN1
 used_VVN
 a_AT0
 nitrogen_NN1
@@ -20120,7 +20120,7 @@ surgical_AJ0
 colleague_NN1
 G._NP0
 E._NP0
-Linskog_NP0-NN1
+Linskog_NP0
 agreed_VVD
 to_TO0
 try_VVI
@@ -20153,7 +20153,7 @@ many_DT0
 organs_NN2
 One_CRD
 of_PRF
-Linskog_NP0-NN1
+Linskog_NP0
 's_POS
 patients_NN2
 had_VHD
@@ -20192,7 +20192,7 @@ given_VVN
 in_PRP
 doses_NN2
 which_DTQ
-Gilman_NP0-NN1
+Gilman_NN1
 later_AV0
 described_VVN
 as_CJS
@@ -20364,7 +20364,7 @@ laboratories_NN2
 and_CJC
 clinics_NN2
 were_VBD
-involved_AJ0
+involved_VVN
 in_PRP
 Salt_NN1
 Lake_NP0
@@ -20420,12 +20420,12 @@ publication_NN1
 was_VBD
 permitted_VVN
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 findings_NN2
 were_VBD
 summarized_VVN
 by_PRP
-Gilman_NP0-NN1
+Gilman_NN1
 and_CJC
 Philips_NP0
 Nitrogen_NN1
@@ -20466,7 +20466,7 @@ is_VBZ
 divided_VVN
 into_PRP
 precisely_AV0
-matching_VVG
+matching_AJ0
 portions_NN2
 for_PRP
 each_DT0
@@ -20510,7 +20510,7 @@ effects_NN2
 of_PRF
 irradiation_NN1
 with_PRP
-X-_AJ0-NN1
+X-_NN1
 or_CJC
 ultra-violet_AJ0
 rays_NN2
@@ -20523,7 +20523,7 @@ being_VBG
 produced_VVN
 by_PRP
 a_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 instead_AV0
 of_PRF
 a_AT0
@@ -20584,7 +20584,7 @@ nowhere_AV0
 One_CRD
 of_PRF
 their_DPS
-chemical_AJ0-NN1
+chemical_AJ0
 properties_NN2
 which_DTQ
 attracted_VVN
@@ -20690,7 +20690,7 @@ nitrogen_NN1
 mustards_NN2
 and_CJC
 numerous_AJ0
-alkylating_AJ0-NN1
+alkylating_NN1
 agents_NN2
 emerged_VVD
 during_PRP
@@ -20771,7 +20771,7 @@ they_PNP
 were_VBD
 suspected_VVN
 of_PRF
-alkylating_AJ0-NN1
+alkylating_NN1
 The_AT0
 time_NN1
 was_VBD
@@ -20824,7 +20824,7 @@ of_PRF
 tissues_NN2
 often_AV0
 attracted_VVN
-chemical_AJ0-NN1
+chemical_AJ0
 investigation_NN1
 but_CJC
 presented_VVN
@@ -20862,7 +20862,7 @@ anatomist_NN1
 who_PNQ
 maintained_VVN
 the_AT0
-forward-looking_AJ0-NN1
+forward-looking_AJ0
 proposition_NN1
 La_NP0
 solution_NN1
@@ -20873,7 +20873,7 @@ du_UNC
 d\xc3\xa9veloppement_NN1
 tissulaire_NN1
 se_UNC
-trouve_NN1-VVB
+trouve_VVB
 dans_UNC
 la_UNC
 chimie_NN1
@@ -20982,7 +20982,7 @@ analysis_NN1
 of_PRF
 the_AT0
 elements_NN2
-present_AJ0-NN1
+present_AJ0
 He_PNP
 named_VVN
 it_PNP
@@ -21043,7 +21043,7 @@ isolated_AJ0
 a_AT0
 protein_NN1
 named_VVN
-protamine_NN1-VVB
+protamine_NN1
 and_CJC
 observed_VVN
 that_CJT
@@ -21086,7 +21086,7 @@ fraction_NN1
 of_PRF
 the_AT0
 molecules_NN2
-present_AJ0-NN1
+present_AJ0
 are_VBB
 alike_AV0
 in_PRP
@@ -21100,7 +21100,7 @@ implied_VVN
 that_CJT
 the_AT0
 protein_NN1
-crystallized_VVN
+crystallized_VVD
 had_VHD
 a_AT0
 definite_AJ0
@@ -21225,7 +21225,7 @@ loose_AJ0
 somewhat_AV0
 indefinite_AJ0
 aggregates_NN2
-Ostwald_VVB-NN1
+Ostwald_NN1
 in_PRP
 Germany_NP0
 and_CJC
@@ -21249,7 +21249,7 @@ as_CJS
 editors_NN2
 of_PRF
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 journals_NN2
 were_VBD
 influential_AJ0
@@ -21276,7 +21276,7 @@ giant_AJ0
 molecule_NN1
 such_DT0
 as_CJS
-Ehrlich_NP0-NN1
+Ehrlich_NP0
 suggested_VVN
 but_CJC
 as_CJS
@@ -21374,7 +21374,7 @@ by_PRP
 a_AT0
 standard_NN1
 linkage_NN1
--CO-NH-_NN1-AJ0
+-CO-NH-_AJ0
 between_PRP
 different_AJ0
 amino_NN1
@@ -21490,7 +21490,7 @@ of_PRF
 very_AV0
 high_AJ0
 speed_NN1
-centrifuges_VVZ-NN2
+centrifuges_VVZ
 in_PRP
 which_DTQ
 the_AT0
@@ -21503,7 +21503,7 @@ smaller_AJC
 ones_NN2
 as_CJS
 they_PNP
-spin_VVI
+spin_NN1
 and_CJC
 later_AV0
 the_AT0
@@ -21698,14 +21698,14 @@ of_PRF
 the_AT0
 four_CRD
 bases_NN2
-adenine_NN1-AJ0
+adenine_AJ0
 and_CJC
-guanine_NN1-AJ0
+guanine_AJ0
 purines_NN2
 and_CJC
-cytidine_NN1-VVB
+cytidine_NN1
 and_CJC
-uridine_NN1-VVB
+uridine_VVB
 pyrimidines_NN2
 For_PRP
 a_AT0
@@ -21721,7 +21721,7 @@ held_VVN
 the_AT0
 field_NN1
 until_CJS
-improved_AJ0
+improved_VVN
 analytical_AJ0
 methods_NN2
 showed_VVD
@@ -21753,9 +21753,9 @@ was_VBD
 identified_VVN
 as_CJS
 either_AV0
-ribose_NN1-VVB
+ribose_VVB
 or_CJC
-deoxyribose_VVB-NN1
+deoxyribose_NN1
 for_PRP
 a_AT0
 time_NN1
@@ -21768,12 +21768,12 @@ nucleic_AJ0
 acids_NN2
 always_AV0
 contained_VVD
-ribose_NN1-VVB
+ribose_VVB
 and_CJC
 animal_NN1
 nucleic_AJ0
 acids_NN2
-deoxyribose_VVB-NN1
+deoxyribose_NN1
 This_DT0
 belief_NN1
 was_VBD
@@ -21793,7 +21793,7 @@ of_PRF
 nucleic_AJ0
 acid_NN1
 were_VBD
-present_AJ0-NN1
+present_AJ0
 in_PRP
 all_DT0
 cells_NN2
@@ -21818,7 +21818,7 @@ synthesized_VVN
 and_CJC
 decomposed_VVN
 The_AT0
-spiral_AJ0-NN1
+spiral_NN1
 structure_NN1
 of_PRF
 DNA_NN1
@@ -21878,7 +21878,7 @@ in_PRP
 cell_NN1
 division_NN1
 but_CJC
-chemical_AJ0-NN1
+chemical_AJ0
 approaches_NN2
 to_TO0
 cancer_NN1
@@ -21903,9 +21903,9 @@ under_PRP
 Purines_NN2
 and_CJC
 pyrimidines_NN2
-ribose_NN1-VVB
+ribose_VVB
 and_CJC
-deoxyribose_VVB-NN1
+deoxyribose_NN1
 were_VBD
 all_DT0
 well_AV0
@@ -21952,7 +21952,7 @@ the_AT0
 treatment_NN1
 of_PRF
 cancer_NN1
-Converging_AJ0-VVG
+Converging_AJ0
 discoveries_NN2
 By_PRP
 the_AT0
@@ -21969,7 +21969,7 @@ a_AT0
 flourishing_AJ0
 science_NN1
 which_DTQ
-spread_NN1
+spread_VVN
 into_PRP
 almost_AV0
 every_AT0
@@ -22006,7 +22006,7 @@ have_VHB
 been_VBN
 expected_VVN
 Ideas_NN2
-spread_NN1
+spread_VVN
 quickly_AV0
 from_PRP
 one_CRD
@@ -22171,7 +22171,7 @@ previously_AV0
 p-_AJ0
 aminobenzoic_AJ0
 acid_NN1
-PABA_NP0-NN1
+PABA_NP0
 which_DTQ
 linked_VVN
 the_AT0
@@ -22179,7 +22179,7 @@ two_CRD
 other_AJ0
 components_NN2
 together_AV0
-PABA_NP0-NN1
+PABA_NP0
 is_VBZ
 essential_AJ0
 for_PRP
@@ -22207,7 +22207,7 @@ the_AT0
 way_NN1
 sulphonamides_NN2
 worked_VVD
-PABA_NP0-NN1
+PABA_NP0
 glutamic_AJ0
 acid_NN1
 and_CJC
@@ -22439,7 +22439,7 @@ as_CJS
 an_AT0
 analogue_NN1
 of_PRF
-PABA_NP0-NN1
+PABA_NP0
 prevented_VVN
 the_AT0
 multiplication_NN1
@@ -22447,7 +22447,7 @@ of_PRF
 microbes_NN2
 which_DTQ
 used_VVN
-PABA_NP0-NN1
+PABA_NP0
 Such_DT0
 an_AT0
 analogue_NN1
@@ -22486,7 +22486,7 @@ on_PRP
 leukaemic_AJ0
 cells_NN2
 which_DTQ
-divide_VVI
+divide_NN1
 more_AV0
 frequently_AV0
 probably_AV0
@@ -22574,7 +22574,7 @@ the_AT0
 paediatrician_NN1
 S._NP0
 A._NP0
-Farber_NP0-NN1
+Farber_NN1
 and_CJC
 his_DPS
 colleagues_NN2
@@ -22623,7 +22623,7 @@ advance_NN1
 had_VHD
 been_VBN
 made_VVN
-Aminopterin_NP0-NN1
+Aminopterin_NP0
 had_VHD
 disadvantages_NN2
 and_CJC
@@ -22647,7 +22647,7 @@ better_AJC
 drug_NN1
 amethopterin_NN1
 which_DTQ
-differed_VVN-VVD
+differed_VVN
 by_PRP
 a_AT0
 single_AJ0
@@ -22757,15 +22757,15 @@ they_PNP
 included_VVD
 certain_AJ0
 pyrimidines_NN2
-cytosine_NN1-VVB
-thymine_NN1-VVB
+cytosine_NN1
+thymine_NN1
 and_CJC
-uracil_NN1-VVB
+uracil_VVB
 and_CJC
 purines_NN2
-adenine_NN1-AJ0
+adenine_AJ0
 and_CJC
-guanine_NN1-AJ0
+guanine_AJ0
 Very_AV0
 little_AJ0
 was_VBD
@@ -22789,7 +22789,7 @@ as_CJS
 cells_NN2
 grow_VVI
 and_CJC
-divide_VVI
+divide_NN1
 new_AJ0
 pyrimidines_NN2
 and_CJC
@@ -22923,14 +22923,14 @@ the_AT0
 purification_NN1
 of_PRF
 the_AT0
-anti-anaemia_AJ0-NN1
+anti-anaemia_NN1
 principle_NN1
 in_PRP
 liver_NN1
 and_CJC
 at_PRP
 Western_AJ0
-Reserve_AJ0
+Reserve_NN1
 on_PRP
 studies_NN2
 which_DTQ
@@ -23178,7 +23178,7 @@ colleagues_NN2
 most_AV0
 notably_AV0
 Gertrude_NP0
-Elion_NP0-NN1
+Elion_NP0
 continued_VVD
 to_TO0
 investigate_VVI
@@ -23212,8 +23212,8 @@ to_TO0
 the_AT0
 antimalarial_AJ0
 drug_NN1
-chloroguanide_NN1-VVB
-Chloroguanide_NN1-NP0
+chloroguanide_VVB
+Chloroguanide_NP0
 was_VBD
 not_XX0
 itself_PNX
@@ -23341,8 +23341,8 @@ In_PRP
 1951_CRD
 another_DT0
 purine_AJ0
-6-mercaptopurine_NN1-AJ0
-6-MP_NN1-AJ0
+6-mercaptopurine_AJ0
+6-MP_NN1
 was_VBD
 found_VVD
 which_DTQ
@@ -23370,13 +23370,13 @@ brief_AJ0
 period_NN1
 of_PRF
 action_NN1
-6-MP_NN1-AJ0
+6-MP_NN1
 is_VBZ
 attacked_VVN
 by_PRP
 the_AT0
 enzyme_NN1
-xanthine_NN1-VVB
+xanthine_NN1
 oxidase_NN1
 a_AT0
 normal_AJ0
@@ -23412,7 +23412,7 @@ of_PRF
 patients_NN2
 treated_VVN
 with_PRP
-6-MP_NN1-AJ0
+6-MP_NN1
 adapted_VVN
 to_TO0
 it_PNP
@@ -23447,7 +23447,7 @@ risk_NN1
 of_PRF
 overdosage_NN1
 is_VBZ
-minimized_VVN-AJ0
+minimized_VVN
 and_CJC
 there_EX0
 are_VBB
@@ -23493,13 +23493,13 @@ the_AT0
 useful_AJ0
 properties_NN2
 of_PRF
-6-MP_NN1-AJ0
+6-MP_NN1
 but_CJC
 were_VBD
 not_XX0
 attacked_VVN
 by_PRP
-xanthine_NN1-VVB
+xanthine_NN1
 oxidase_NN1
 this_DT0
 was_VBD
@@ -23512,7 +23512,7 @@ a_AT0
 substance_NN1
 later_AV0
 named_VVN
-azathioprine_NN1-AJ0
+azathioprine_NN1
 The_AT0
 second_ORD
 way_NN1
@@ -23528,7 +23528,7 @@ for_PRP
 or_CJC
 block_NN1
 the_AT0
-inactivating_AJ0-NN1
+inactivating_NN1
 enzyme_NN1
 This_DT0
 way_NN1
@@ -23555,16 +23555,16 @@ it_PNP
 inhibited_VVN
 the_AT0
 enzyme_NN1
-xanthine_NN1-VVB
+xanthine_NN1
 oxidase_NN1
 which_DTQ
 converts_VVZ
-xanthine_NN1-VVB
+xanthine_NN1
 to_TO0
 uric_AJ0
 acid_NN1
 and_CJC
-mercaptopurine_NN1-AJ0
+mercaptopurine_AJ0
 to_TO0
 thio-uric_AJ0
 acid_NN1
@@ -23572,7 +23572,7 @@ As_CJS
 allopurinol_NN1
 did_VDD
 not_XX0
-inhibit_VVI
+inhibit_VVB
 the_AT0
 growth_NN1
 of_PRF
@@ -23625,7 +23625,7 @@ from_PRP
 being_VBG
 formed_VVN
 from_PRP
-xanthine_NN1-VVB
+xanthine_NN1
 in_PRP
 man_NN1
 If_CJS
@@ -23670,7 +23670,7 @@ the_AT0
 accumulation_NN1
 of_PRF
 unconverted_AJ0
-xanthine_NN1-VVB
+xanthine_NN1
 would_VM0
 do_VDB
 more_AV0
@@ -23701,7 +23701,7 @@ hoped-for_AJ0
 benefit_NN1
 was_VBD
 achieved_VVN
-Allopurinol_NN1-NP0
+Allopurinol_NP0
 has_VHZ
 withstood_VVN
 substantial_AJ0
@@ -23719,7 +23719,7 @@ gout_NN1
 The_AT0
 use_NN1
 of_PRF
-6-MP_NN1-AJ0
+6-MP_NN1
 for_PRP
 the_AT0
 treatment_NN1
@@ -23753,7 +23753,7 @@ being_VBG
 vigorously_AV0
 investigated_VVN
 The_AT0
-principal_AJ0-NN1
+principal_AJ0
 obstacle_NN1
 to_TO0
 transplantation_NN1
@@ -23849,7 +23849,7 @@ an_AT0
 immune_AJ0
 reaction_NN1
 The_AT0
-principal_AJ0-NN1
+principal_AJ0
 problem_NN1
 for_PRP
 would-be_AJ0
@@ -23876,7 +23876,7 @@ under_PRP
 William_NP0
 Dameshek_NP0
 the_AT0
-chief_AJ0-NN1
+chief_NN1
 of_PRF
 haematology_NN1
 at_PRP
@@ -23895,7 +23895,7 @@ this_DT0
 problem_NN1
 His_DPS
 success_NN1
-depended_VVN-VVD
+depended_VVD
 as_CJS
 so_AV0
 often_AV0
@@ -23944,7 +23944,7 @@ cells_NN2
 were_VBD
 stimulated_VVN
 to_TO0
-proliferate_VVI
+proliferate_VVB
 on_PRP
 contact_NN1
 with_PRP
@@ -23994,8 +23994,8 @@ of_PRF
 leukaemia_NN1
 methotrexate_NN1
 and_CJC
-6-mercaptopurine_NN1-AJ0
-6-MP_NN1-AJ0
+6-mercaptopurine_AJ0
+6-MP_NN1
 It_PNP
 was_VBD
 therefore_AV0
@@ -24039,7 +24039,7 @@ supply_NN1
 of_PRF
 methotrexate_NN1
 and_CJC
-6-MP_NN1-AJ0
+6-MP_NN1
 respectively_AV0
 I_PNP
 never_AV0
@@ -24073,7 +24073,7 @@ were_VBD
 written_VVN
 by_PRP
 Trudy_NP0
-Elion_NP0-NN1
+Elion_NP0
 The_AT0
 experiments_NN2
 in_PRP
@@ -24088,7 +24088,7 @@ it_PNP
 was_VBD
 apparent_AJ0
 that_CJT
-6-MP_NN1-AJ0
+6-MP_NN1
 was_VBD
 a_AT0
 potent_AJ0
@@ -24165,7 +24165,7 @@ whole_AJ0
 idea_NN1
 of_PRF
 immunosuppressive_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 therapy_NN1
 would_VM0
 have_VHB
@@ -24193,7 +24193,7 @@ to_TO0
 organ_NN1
 transplantation_NN1
 An_AT0
-English_AJ0-NN1
+English_AJ0
 surgeon_NN1
 Sir_NP0
 Roy_NP0
@@ -24208,8 +24208,8 @@ of_PRF
 a_AT0
 derivative_NN1
 of_PRF
-6-MP_NN1-AJ0
-azathioprine_NN1-AJ0
+6-MP_NN1
+azathioprine_NN1
 and_CJC
 after_PRP
 repeated_VVN
@@ -24221,7 +24221,7 @@ prevented_VVN
 rejection_NN1
 of_PRF
 kidney_NN1
-grafts_VVZ-NN2
+grafts_NN2
 in_PRP
 dogs_NN2
 In_PRP
@@ -24274,12 +24274,12 @@ problem_NN1
 The_AT0
 longer-acting_AJC
 drug_NN1
-azathioprine_NN1-AJ0
+azathioprine_NN1
 was_VBD
 more_AV0
 satisfactory_AJ0
 than_CJS
-6-MP_NN1-AJ0
+6-MP_NN1
 and_CJC
 the_AT0
 adrenal_AJ0
@@ -24324,7 +24324,7 @@ later_AV0
 to_TO0
 the_AT0
 drug_NN1
-trimethoprim_NN1-VVB
+trimethoprim_NN1
 which_DTQ
 was_VBD
 as_CJS
@@ -24411,7 +24411,7 @@ of_PRF
 1988_CRD
 Hitchings_NP0
 and_CJC
-Elion_NP0-NN1
+Elion_NP0
 and_CJC
 Sir_NP0
 James_NP0
@@ -24530,7 +24530,7 @@ many_DT0
 places_NN2
 have_VHB
 been_VBN
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 working_VVG
 out_AVP
@@ -24667,10 +24667,10 @@ some_DT0
 plants_NN2
 of_PRF
 the_AT0
-Vinca_NP0-NN1
+Vinca_NN1
 species_NN0
 vinblastine_NN1
-vincristine_NN1-AJ0
+vincristine_NN1
 synthetic_AJ0
 organic_AJ0
 compounds_NN2
@@ -24693,7 +24693,7 @@ from_PRP
 an_AT0
 unfamiliar_AJ0
 bacterium_NN1
-Corynebacterium_NP0-NN1
+Corynebacterium_NP0
 parvum_NN1
 The_AT0
 activity_NN1
@@ -24911,7 +24911,7 @@ in_PRP
 this_DT0
 chapter_NN1
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 anti-cancer_AJ0
 drugs_NN2
 have_VHB
@@ -24988,7 +24988,7 @@ not_XX0
 been_VBN
 solved_VVN
 At_PRP
-present_AJ0-NN1
+present_AJ0
 more_AV0
 can_VM0
 be_VBI
@@ -25047,7 +25047,7 @@ grandiose_AJ0
 planning_NN1
 of_PRF
 operations_NN2
-divorced_AJ0
+divorced_VVN
 from_PRP
 day-to-day_AJ0
 contact_NN1
@@ -25145,7 +25145,7 @@ of_PRF
 a_AT0
 systems_NN2
 management_NN1
-specialist_NN1-AJ0
+specialist_NN1
 Administrators_NN2
 of_PRF
 the_AT0
@@ -25312,7 +25312,7 @@ is_VBZ
 in_PRP
 no_AT0
 way_NN1
-exhausted_VVN-AJ0
+exhausted_VVN
 Cause_NN1
 unknown_AJ0
 Internal_AJ0
@@ -25388,7 +25388,7 @@ kinds_NN2
 of_PRF
 arthritis_NN1
 all_DT0
-fall_VVI
+fall_NN1
 into_PRP
 this_DT0
 category_NN1
@@ -25619,7 +25619,7 @@ than_CJS
 good_AJ0
 Blood_NN1
 pressure_NN1
-Reasoning_VVG-NN1
+Reasoning_NN1
 about_PRP
 diseases_NN2
 of_PRF
@@ -25653,7 +25653,7 @@ arteries_NN2
 to_TO0
 the_AT0
 minute_NN1
-capillary_AJ0-NN1
+capillary_AJ0
 vessels_NN2
 in_PRP
 every_AT0
@@ -25962,7 +25962,7 @@ or_CJC
 hypertension_NN1
 and_CJC
 of_PRF
-clotting_VVG-NN1
+clotting_NN1
 or_CJC
 thrombosis_NN1
 are_VBB
@@ -25975,7 +25975,7 @@ the_AT0
 mountains_NN2
 of_PRF
 evidence_NN1
-accumulated_AJ0
+accumulated_VVN
 about_PRP
 the_AT0
 mechanisms_NN2
@@ -26002,7 +26002,7 @@ pressure_NN1
 and_CJC
 several_DT0
 prevent_VVI
-clotting_VVG-NN1
+clotting_NN1
 and_CJC
 all_DT0
 look_VVI
@@ -26228,7 +26228,7 @@ pressure_NN1
 Low-salt_NN1
 diets_NN2
 and_CJC
-sedative_AJ0-NN1
+sedative_AJ0
 drugs_NN2
 contributed_VVN
 to_TO0
@@ -26319,7 +26319,7 @@ Those_DT0
 which_DTQ
 caused_VVN
 a_AT0
-fall_VVI
+fall_NN1
 in_PRP
 pressure_NN1
 by_PRP
@@ -26361,7 +26361,7 @@ the_AT0
 basic_AJ0
 research_NN1
 on_PRP
-chemical_AJ0-NN1
+chemical_AJ0
 transmission_NN1
 of_PRF
 nerve_NN1
@@ -26527,7 +26527,7 @@ Barlow_NP0
 and_CJC
 H._NP0
 R._NP0
-Ing_AJ0-NN1
+Ing_NN1
 in_PRP
 the_AT0
 Pharmacology_NN1
@@ -26542,10 +26542,10 @@ M._NN1
 later_AV0
 Sir_NP0
 William_NP0
-Paton_NP0-NN1
+Paton_NP0
 and_CJC
 Eleanor_NP0
-Zaimis_NP0-NN1
+Zaimis_NN1
 at_PRP
 the_AT0
 National_AJ0
@@ -26579,7 +26579,7 @@ sort_NN1
 interfere_VVI
 with_PRP
 the_AT0
-moment-to-moment_AJ0-NN1
+moment-to-moment_AJ0
 control_NN1
 of_PRF
 blood_NN1
@@ -26626,7 +26626,7 @@ a_AT0
 sharp_AJ0
 and_CJC
 dangerous_AJ0
-fall_VVI
+fall_NN1
 of_PRF
 blood_NN1
 pressure_NN1
@@ -26690,7 +26690,7 @@ the_AT0
 search_NN1
 for_PRP
 better_AJC
-ganglion-blocking_NN1-AJ0
+ganglion-blocking_AJ0
 drugs_NN2
 was_VBD
 unfruitful_AJ0
@@ -26835,7 +26835,7 @@ play_VVI
 an_AT0
 important_AJ0
 role_NN1
-Acetylcholine_VVB-NN1
+Acetylcholine_NN1
 adrenaline_NN1
 and_CJC
 other_AJ0
@@ -26985,7 +26985,7 @@ substances_NN2
 with_PRP
 very_AV0
 complex_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 and_CJC
 biological_AJ0
 properties_NN2
@@ -26993,7 +26993,7 @@ In_PRP
 the_AT0
 1960s_CRD
 the_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 structure_NN1
 of_PRF
 one_CRD
@@ -27060,7 +27060,7 @@ that_CJT
 aspirin_NN0
 and_CJC
 related_VVN
-pain-relieving_AJ0-NN1
+pain-relieving_AJ0
 drugs_NN2
 stop_VVI
 the_AT0
@@ -27121,7 +27121,7 @@ diverse_AJ0
 functions_NN2
 as_CJS
 blood_NN1
-clotting_VVG-NN1
+clotting_NN1
 and_CJC
 contraction_NN1
 of_PRF
@@ -27131,7 +27131,7 @@ Thus_AV0
 the_AT0
 original_AJ0
 study_NN1
-spread_NN1
+spread_VVN
 into_PRP
 wider_AJC
 fields_NN2
@@ -27229,7 +27229,7 @@ proved_VVN
 to_TO0
 be_VBI
 important_AJ0
-Rauwolfia_NN1-NP0
+Rauwolfia_NN1
 serpentina_NN1
 or_CJC
 snake-root_NN1
@@ -27249,7 +27249,7 @@ neighbouring_AJ0
 countries_NN2
 as_CJS
 a_AT0
-sedative_AJ0-NN1
+sedative_AJ0
 and_CJC
 for_PRP
 other_AJ0
@@ -27275,7 +27275,7 @@ not_XX0
 correspond_VVI
 to_TO0
 the_AT0
-sedative_AJ0-NN1
+sedative_AJ0
 and_CJC
 hypotensive_AJ0
 properties_NN2
@@ -27286,14 +27286,14 @@ drug_NN1
 Another_DT0
 alkaloid_NN1
 named_VVN
-reserpine_NN1-VVB
+reserpine_NN1
 was_VBD
 isolated_AJ0
 in_PRP
 1952_CRD
 in_PRP
 the_AT0
-Ciba_NP0-NN1
+Ciba_NN1
 laboratories_NN2
 in_PRP
 Basle_NP0
@@ -27325,7 +27325,7 @@ the_AT0
 consequences_NN2
 was_VBD
 a_AT0
-fall_VVI
+fall_NN1
 in_PRP
 blood_NN1
 pressure_NN1
@@ -27341,7 +27341,7 @@ with_PRP
 a_AT0
 high_AJ0
 pressure_NN1
-Reserpine_NP0-NN1
+Reserpine_NN1
 became_VVD
 the_AT0
 focus_NN1
@@ -27350,7 +27350,7 @@ further_AJC
 clinical_AJ0
 studies_NN2
 Its_DPS
-sedative_AJ0-NN1
+sedative_AJ0
 effects_NN2
 were_VBD
 valued_VVN
@@ -27368,7 +27368,7 @@ its_DPS
 use_NN1
 was_VBD
 limited_AJ0
-Rauwolfia_NN1-NP0
+Rauwolfia_NN1
 is_VBZ
 often_AV0
 quoted_VVN
@@ -27603,7 +27603,7 @@ established_VVN
 as_CJS
 a_AT0
 close_AJ0
-relative_AJ0-NN1
+relative_AJ0
 of_PRF
 adrenaline_NN1
 named_VVN
@@ -27624,7 +27624,7 @@ in_PRP
 the_AT0
 USA_NP0
 which_DTQ
-involved_AJ0
+involved_VVN
 excitatory_AJ0
 and_CJC
 inhibitory_AJ0
@@ -27824,7 +27824,7 @@ of_PRF
 adrenaline_NN1
 with_PRP
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 objective_NN1
 of_PRF
 developing_VVG
@@ -27874,7 +27874,7 @@ drug_NN1
 with_PRP
 these_DT0
 properties_NN2
-isoprenaline_VVB-NN1
+isoprenaline_VVB
 was_VBD
 already_AV0
 well_AV0
@@ -27931,7 +27931,7 @@ ways_NN2
 and_CJC
 a_AT0
 compound_NN1
-dichlorisoprenaline_NN1-VVB
+dichlorisoprenaline_NN1
 was_VBD
 developed_VVN
 accordingly_AV0
@@ -28112,19 +28112,19 @@ which_DTQ
 met_VVD
 the_AT0
 specification_NN1
-Named_AJ0-VVN
-Nethalide_NN1-NP0
+Named_AJ0
+Nethalide_NN1
 or_CJC
-pronethalol_NN1-VVB
+pronethalol_VVB
 it_PNP
 was_VBD
 the_AT0
 first_ORD
 effective_AJ0
 clinical_AJ0
-beta-blocking_AJ0-NN1
+beta-blocking_AJ0
 agent_NN1
-Pronethalol_NP0-NN1
+Pronethalol_NP0
 had_VHD
 only_AV0
 just_AV0
@@ -28167,7 +28167,7 @@ a_AT0
 more_AV0
 acceptable_AJ0
 agent_NN1
-propranolol_VVB-NN1
+propranolol_NN1
 Many_DT0
 other_AJ0
 beta-blockers_NN2
@@ -28277,7 +28277,7 @@ and_CJC
 in_PRP
 the_AT0
 clinic_NN1
-Histamine_VVB-NN1
+Histamine_NN1
 another_DT0
 active_AJ0
 substance_NN1
@@ -28290,7 +28290,7 @@ chapter_NN1
 4_CRD
 is_VBZ
 not_XX0
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 treatment_NN1
@@ -28418,7 +28418,7 @@ of_PRF
 Smith_NP0
 Kline_NP0
 and_CJC
-French_AJ0-NN1
+French_AJ0
 led_VVD
 a_AT0
 team_NN1
@@ -28444,9 +28444,9 @@ culminated_VVD
 in_PRP
 the_AT0
 drug_NN1
-Tagamet_NN1-NP0
+Tagamet_NN1
 or_CJC
-cimetidine_NN1-VVB
+cimetidine_NN1
 soon_AV0
 widely_AV0
 adopted_VVN
@@ -28488,7 +28488,7 @@ with_PRP
 Doctors_NN2
 Hitchings_NP0
 and_CJC
-Elion_NP0-NN1
+Elion_NP0
 see_VVI
 chapter_NN1
 II_CRD
@@ -28640,7 +28640,7 @@ when_CJS
 the_AT0
 success_NN1
 of_PRF
-Ehrlich_NP0-NN1
+Ehrlich_NP0
 's_POS
 organic_AJ0
 compounds_NN2
@@ -28826,12 +28826,12 @@ detail_NN1
 by_PRP
 K._NP0
 H._NP0
-Beyer_NN1-NP0
+Beyer_NP0
 of_PRF
-Merck_NP0-NN1
+Merck_NP0
 Sharpe_NP0
 and_CJC
-Dohme_NP0-NN1
+Dohme_NN1
 On_PRP
 the_AT0
 way_NN1
@@ -28919,7 +28919,7 @@ needed_VVN
 the_AT0
 new_AJ0
 drug_NN1
-chlorothiazide_VVB-NN1
+chlorothiazide_VVB
 would_VM0
 have_VHB
 been_VBN
@@ -28931,7 +28931,7 @@ in_PRP
 rats_NN2
 is_VBZ
 insignificant_AJ0
-Chlorothiazide_NN1-VVB
+Chlorothiazide_VVB
 is_VBZ
 the_AT0
 forerunner_NN1
@@ -29055,7 +29055,7 @@ severe_AJ0
 conditions_NN2
 Like_PRP
 the_AT0
-beta-blocking_AJ0-NN1
+beta-blocking_AJ0
 drugs_NN2
 which_DTQ
 came_VVD
@@ -29582,7 +29582,7 @@ was_VBD
 feasible_AJ0
 and_CJC
 necessarily_AV0
-involved_AJ0
+involved_VVN
 many_DT0
 patients_NN2
 and_CJC
@@ -29609,7 +29609,7 @@ of_PRF
 therapeutic_AJ0
 trials_NN2
 was_VBD
-diverting_VVG-AJ0
+diverting_VVG
 resources_NN2
 away_AV0
 from_PRP
@@ -29806,7 +29806,7 @@ problems_NN2
 have_VHB
 been_VBN
 solved_VVN
-Hypertension_NN1-NP0
+Hypertension_NP0
 is_VBZ
 but_CJC
 one_CRD
@@ -29852,7 +29852,7 @@ to_TO0
 prevent_VVI
 blood_NN1
 from_PRP
-clotting_VVG-NN1
+clotting_NN1
 to_TO0
 aid_NN1
 respiration_NN1
@@ -30033,7 +30033,7 @@ fresh_AJ0
 start_NN1
 Drugs_NN2
 which_DTQ
-act_VVI
+act_NN1
 on_PRP
 the_AT0
 brain_NN1
@@ -30106,7 +30106,7 @@ Drugs_NN2
 and_CJC
 the_AT0
 mind_NN1
-Poppy_NP0-NN1
+Poppy_NP0
 or_CJC
 mandragora_NN1
 The_AT0
@@ -30192,7 +30192,7 @@ harmless_AJ0
 and_CJC
 all_DT0
 can_VM0
-present_AJ0-NN1
+present_AJ0
 problems_NN2
 when_CJS
 they_PNP
@@ -30263,7 +30263,7 @@ was_VBD
 probably_AV0
 known_VVN
 in_PRP
-Roman_AJ0-NN1
+Roman_AJ0
 if_CJS
 not_XX0
 in_PRP
@@ -30363,7 +30363,7 @@ the_AT0
 fermented_AJ0
 juice_NN1
 of_PRF
-squashed_VVD-VVN
+squashed_VVN
 grapes_NN2
 began_VVD
 to_TO0
@@ -30591,7 +30591,7 @@ the_AT0
 soothing_AJ0
 mandragora_NN1
 the_AT0
-energizing_AJ0-VVG
+energizing_VVG
 coca_NN1
 leaves_VVZ
 see_VVI
@@ -30612,7 +30612,7 @@ certain_AJ0
 mushrooms_NN2
 of_PRF
 the_AT0
-Amanita_NP0-NN1
+Amanita_NP0
 and_CJC
 Psilocybe_NP0
 families_NN2
@@ -30670,7 +30670,7 @@ ethyl_NN1
 alcohol_NN1
 was_VBD
 purified_AJ0
-Lavoisier_NP0-NN1
+Lavoisier_NN1
 established_VVN
 that_CJT
 carbon_NN1
@@ -30725,7 +30725,7 @@ spirits_NN2
 But_CJC
 identifying_VVG
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 active_AJ0
 ingredient_NN1
 of_PRF
@@ -30743,7 +30743,7 @@ allowed_VVN
 the_AT0
 quantity_NN1
 of_PRF
-intoxicant_AJ0-NN1
+intoxicant_NN1
 to_TO0
 be_VBI
 measured_VVN
@@ -30775,7 +30775,7 @@ effects_NN2
 of_PRF
 the_AT0
 crude_AJ0
-mood-and-mind_AJ0-NN1
+mood-and-mind_NN1
 drugs_NN2
 and_CJC
 later_AV0
@@ -30853,7 +30853,7 @@ cactus_NN1
 in_PRP
 1896_CRD
 The_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 structure_NN1
 of_PRF
 mescaline_NN1
@@ -30944,7 +30944,7 @@ fever-reducing_AJ0
 drugs_NN2
 of_PRF
 the_AT0
-coal-tar_AJ0-NN1
+coal-tar_AJ0
 dyestuffs_NN2
 industry_NN1
 see_VVI
@@ -30987,7 +30987,7 @@ study_NN1
 Varieties_NN2
 of_PRF
 Religious_AJ0
-Experience_NN1-VVB
+Experience_NN1
 discussed_VVN
 the_AT0
 effects_NN2
@@ -31019,7 +31019,7 @@ approach_NN1
 Buchheim_NP0
 professor_NN1
 at_PRP
-Dorpat_NP0-NN1
+Dorpat_NN1
 in_PRP
 the_AT0
 1860s_CRD
@@ -31032,7 +31032,7 @@ the_AT0
 botanical_AJ0
 characteristics_NN2
 of_PRF
-drug-containing_AJ0-NN1
+drug-containing_NN1
 plants_NN2
 as_CJS
 no_AT0
@@ -31107,7 +31107,7 @@ Chapters_NN2
 and_CJC
 6_CRD
 was_VBD
-involved_AJ0
+involved_VVN
 One_CRD
 day_NN1
 in_PRP
@@ -31179,10 +31179,10 @@ and_CJC
 named_VVN
 lysergic_AJ0
 acid_NN1
-diethylamide_NN1-VVB
+diethylamide_NN1
 in_PRP
 German_AJ0
-Lysergische_NP0-NN1
+Lysergische_NP0
 S\xc3\xa4ure-Di\xc3\xa4thylamid_NN1
 or_CJC
 LSD_NN1
@@ -31432,7 +31432,7 @@ worthlessness_NN1
 and_CJC
 guilt_NN1
 the_AT0
-manic-depressive_AJ0-NN1
+manic-depressive_NN1
 psychosis_NN1
 Some_DT0
 had_VHD
@@ -31569,7 +31569,7 @@ seemingly_AV0
 mental_AJ0
 began_VVD
 to_TO0
-shift_NN1-VVB
+shift_NN1
 as_CJS
 knowledge_NN1
 advanced_AJ0
@@ -31608,7 +31608,7 @@ with_PRP
 failure_NN1
 of_PRF
 the_AT0
-thyroid_AJ0-NN1
+thyroid_AJ0
 gland_NN1
 and_CJC
 was_VBD
@@ -31637,7 +31637,7 @@ cretins_NN2
 also_AV0
 suffered_VVN
 from_PRP
-thyroid_AJ0-NN1
+thyroid_AJ0
 deficiency_NN1
 or_CJC
 usually_AV0
@@ -31801,7 +31801,7 @@ adequate_AJ0
 food_NN1
 Later_AV0
 the_AT0
-missing_VVG-AJ0
+missing_VVG
 dietary_AJ0
 ingredient_NN1
 was_VBD
@@ -31836,7 +31836,7 @@ the_AT0
 schizophrenic_AJ0
 and_CJC
 the_AT0
-manic-depressive_AJ0-NN1
+manic-depressive_NN1
 psychoses_NN2
 appeared_VVD
 to_TO0
@@ -31922,7 +31922,7 @@ less_AV0
 independently_AV0
 but_CJC
 soon_AV0
-converged_VVN-VVD
+converged_VVN
 In_PRP
 university_NN1
 laboratories_NN2
@@ -31984,7 +31984,7 @@ both_AV0
 these_DT0
 substances_NN2
 were_VBD
-present_AJ0-NN1
+present_AJ0
 at_PRP
 many_DT0
 sites_NN2
@@ -32105,7 +32105,7 @@ of_PRF
 designing_VVG
 drugs_NN2
 to_TO0
-act_VVI
+act_NN1
 on_PRP
 the_AT0
 mind_NN1
@@ -32178,7 +32178,7 @@ most_AV0
 screening_NN1
 operations_NN2
 the_AT0
-yield_VVI
+yield_NN1
 was_VBD
 poor_AJ0
 and_CJC
@@ -32322,7 +32322,7 @@ laudanum_NN1
 mandragora_NN1
 bromide_NN1
 paraldehyde_NN1
-chloral_NN1-AJ0
+chloral_AJ0
 barbiturates_NN2
 all_DT0
 had_VHD
@@ -32398,7 +32398,7 @@ not_XX0
 cause_NN1
 drowsiness_NN1
 Their_DPS
-sedative_AJ0-NN1
+sedative_AJ0
 action_NN1
 naturally_AV0
 raised_VVN
@@ -32461,7 +32461,7 @@ the_AT0
 laboratories_NN2
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 firm_NN1
 Rhone-Poulenc_NP0
 Many_DT0
@@ -32488,7 +32488,7 @@ promise_NN1
 they_PNP
 showed_VVD
 The_AT0
-French_AJ0-NN1
+French_AJ0
 psychiatrist_NN1
 Pierre_NP0
 Deniker_NP0
@@ -32522,7 +32522,7 @@ surgeon_NN1
 and_CJC
 physiologist_NN1
 Henri_NP0
-Laborit_NN1-NP0
+Laborit_NP0
 not_XX0
 asked_VVD
 the_AT0
@@ -32538,7 +32538,7 @@ than_CJS
 those_DT0
 of_PRF
 promethazine_NN1
-Laborit_NN1-NP0
+Laborit_NP0
 was_VBD
 investigating_VVG
 the_AT0
@@ -32565,7 +32565,7 @@ any_DT0
 disturbance_NN1
 and_CJC
 the_AT0
-sedative_AJ0-NN1
+sedative_AJ0
 properties_NN2
 of_PRF
 promethazine_NN1
@@ -32597,7 +32597,7 @@ lists_NN2
 fourteen_CRD
 publications_NN2
 in_PRP
-French_AJ0-NN1
+French_AJ0
 journals_NN2
 between_PRP
 February_NP0
@@ -32684,12 +32684,12 @@ that_CJT
 the_AT0
 trade_NN1
 name_NN1
-Largactil_NP0-NN1
+Largactil_NN1
 was_VBD
 coined_VVD
 The_AT0
 basic_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 structure_NN1
 common_AJ0
 to_TO0
@@ -32731,13 +32731,13 @@ same_DT0
 time_NN1
 the_AT0
 alkaloid_NN1
-reserpine_NN1-VVB
+reserpine_NN1
 extracted_VVN
 from_PRP
 the_AT0
 Indian_AJ0
 plant_NN1
-Rauwolfia_NN1-NP0
+Rauwolfia_NN1
 serpentina_NN1
 was_VBD
 attracting_VVG
@@ -32780,9 +32780,9 @@ to_TO0
 take_VVI
 effect_NN1
 Patients_NN2
-sedated_VVD
+sedated_VVN
 by_PRP
-reserpine_NN1-VVB
+reserpine_NN1
 are_VBB
 liable_AJ0
 to_TO0
@@ -32922,7 +32922,7 @@ Cade_NP0
 's_POS
 discovery_NN1
 was_VBD
-reinvestigated_VVN-AJ0
+reinvestigated_AJ0
 and_CJC
 found_VVD
 to_TO0
@@ -32980,7 +32980,7 @@ to_TO0
 see_VVI
 its_DPS
 potential_NN1
-Curare_VVB-NN1
+Curare_NN1
 and_CJC
 its_DPS
 effects_NN2
@@ -32994,7 +32994,7 @@ Chapter_NN1
 Psychiatrists_NN2
 envisaged_VVN
 that_CJT
-curare_NN1-VVB
+curare_NN1
 might_VM0
 be_VBI
 useful_AJ0
@@ -33020,7 +33020,7 @@ anxiety_NN1
 in_PRP
 tense_AJ0
 patients_NN2
-Curare_VVB-NN1
+Curare_NN1
 is_VBZ
 inactive_AJ0
 when_CJS
@@ -33062,7 +33062,7 @@ to_TO0
 the_AT0
 eater_NN1
 So_AV0
-curare_NN1-VVB
+curare_NN1
 itself_PNX
 was_VBD
 unsuitable_AJ0
@@ -33090,7 +33090,7 @@ between_PRP
 nerve_NN1
 and_CJC
 muscle_NN1
-Mephenesin_NN1-NP0
+Mephenesin_NP0
 was_VBD
 not_XX0
 a_AT0
@@ -33110,7 +33110,7 @@ unwanted_AJ0
 effects_NN2
 A_AT0
 derivative_NN1
-meprobamate_VVB-NN1
+meprobamate_NN1
 appeared_VVD
 in_PRP
 1953_CRD
@@ -33118,7 +33118,7 @@ Under_PRP
 the_AT0
 trade_NN1
 names_NN2
-Miltown_NP0-NN1
+Miltown_NN1
 and_CJC
 Equanil_NP0
 it_PNP
@@ -33247,7 +33247,7 @@ to_TO0
 be_VBI
 lessened_VVN
 or_CJC
-heightened_AJ0
+heightened_VVN
 if_CJS
 it_PNP
 could_VM0
@@ -33522,7 +33522,7 @@ dose_NN1
 was_VBD
 easier_AJC
 The_AT0
-improved_AJ0
+improved_VVN
 treatment_NN1
 was_VBD
 investigated_VVN
@@ -33563,7 +33563,7 @@ of_PRF
 standardized_AJ0
 preparations_NN2
 of_PRF
-curare_NN1-VVB
+curare_NN1
 which_DTQ
 could_VM0
 be_VBI
@@ -33578,7 +33578,7 @@ of_PRF
 the_AT0
 electrically-induced_AJ0
 seizures_NN2
-Modified_AJ0-VVD
+Modified_AJ0
 E.C.T._NP0
 became_VVD
 an_AT0
@@ -33648,7 +33648,7 @@ the_AT0
 patients_NN2
 Their_DPS
 appetites_NN2
-improved_AJ0
+improved_VVN
 they_PNP
 became_VVD
 cheerful_AJ0
@@ -33666,9 +33666,9 @@ same_DT0
 line_NN1
 of_PRF
 research_NN1
-Marsilid_NP0-NN1
+Marsilid_NP0
 or_CJC
-iproniazid_NN1-AJ0
+iproniazid_AJ0
 had_VHD
 similar_AJ0
 effects_NN2
@@ -33688,7 +33688,7 @@ comparative_AJ0
 trials_NN2
 showed_VVD
 that_CJT
-Marsilid_NP0-NN1
+Marsilid_NP0
 made_VVN
 more_AV0
 contribution_NN1
@@ -33704,7 +33704,7 @@ the_AT0
 weight_NN1
 gain_VVI
 However_AV0
-Marsilid_NP0-NN1
+Marsilid_NP0
 also_AV0
 had_VHD
 more_AV0
@@ -33733,12 +33733,12 @@ that_CJT
 of_PRF
 biochemists_NN2
 The_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 structures_NN2
 of_PRF
 isoniazid_NN1
 and_CJC
-Marsilid_NP0-NN1
+Marsilid_NP0
 were_VBD
 somewhat_AV0
 distantly_AV0
@@ -33753,7 +33753,7 @@ amines_NN2
 known_VVN
 to_TO0
 be_VBI
-present_AJ0-NN1
+present_AJ0
 in_PRP
 living_VVG
 tissues_NN2
@@ -33797,7 +33797,7 @@ that_CJT
 both_AV0
 isoniazid_NN1
 and_CJC
-Marsilid_NP0-NN1
+Marsilid_NP0
 inhibited_VVN
 the_AT0
 activity_NN1
@@ -33806,7 +33806,7 @@ monoamine_NN1
 oxidase_NN1
 and_CJC
 that_CJT
-Marsilid_NP0-NN1
+Marsilid_NP0
 was_VBD
 considerably_AV0
 more_AV0
@@ -33821,8 +33821,8 @@ deal_NN1
 of_PRF
 interest_NN1
 Did_VDD
-Marsilid_NP0-NN1
-act_VVI
+Marsilid_NP0
+act_NN1
 on_PRP
 the_AT0
 enzyme_NN1
@@ -33870,7 +33870,7 @@ which_DTQ
 they_PNP
 sometimes_AV0
 showed_VVD
-Marsilid_NP0-NN1
+Marsilid_NP0
 was_VBD
 tried_VVD
 as_CJS
@@ -33920,7 +33920,7 @@ straightforward_AJ0
 exercise_NN1
 because_CJS
 the_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 structures_NN2
 which_DTQ
 served_VVN
@@ -34010,7 +34010,7 @@ of_PRF
 the_AT0
 new_AJ0
 drugs_NN2
-varied_AJ0
+varied_VVN
 as_CJS
 they_PNP
 had_VHD
@@ -34250,7 +34250,7 @@ He_PNP
 observed_VVN
 that_CJT
 they_PNP
-improved_AJ0
+improved_VVN
 According_VVG
 to_TO0
 Kuhn_NP0
@@ -34341,7 +34341,7 @@ later_AV0
 named_VVN
 Tofranil_NP0
 or_CJC
-imipramine_NN1-VVB
+imipramine_NN1
 was_VBD
 found_VVD
 to_TO0
@@ -34378,7 +34378,7 @@ tricyclic_AJ0
 antidepressants_NN2
 because_CJS
 their_DPS
-chemical_AJ0-NN1
+chemical_AJ0
 structure_NN1
 contains_VVZ
 three_CRD
@@ -34409,7 +34409,7 @@ great_AJ0
 hopes_NN2
 that_CJT
 the_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 disturbances_NN2
 in_PRP
 the_AT0
@@ -34422,7 +34422,7 @@ at_PRP
 last_ORD
 be_VBI
 understood_VVN
-Monoamine_VVB-NN1
+Monoamine_NN1
 oxidase_NN1
 inhibitors_NN2
 would_VM0
@@ -34436,7 +34436,7 @@ other_AJ0
 amines_NN2
 thought_VVD
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 neurotransmitters_VVZ
 might_VM0
@@ -34499,7 +34499,7 @@ of_PRF
 certain_AJ0
 amines_NN2
 became_VVD
-exhausted_VVN-AJ0
+exhausted_VVN
 then_AV0
 the_AT0
 monoamine_NN1
@@ -34612,7 +34612,7 @@ to_TO0
 the_AT0
 story_NN1
 of_PRF
-Librium_NP0-NN1
+Librium_NN1
 or_CJC
 chlordiazepoxide_NN1
 the_AT0
@@ -34641,7 +34641,7 @@ With_PRP
 commercial_AJ0
 considerations_NN2
 about_PRP
-patenting_VVG-NN1
+patenting_VVG
 strongly_AV0
 in_PRP
 mind_NN1
@@ -34670,7 +34670,7 @@ tranquillizers_NN2
 had_VHD
 no_AT0
 common_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 features_NN2
 by_PRP
 which_DTQ
@@ -34686,7 +34686,7 @@ some_DT0
 merit_NN1
 particularly_AV0
 in_PRP
-inspiring_VVG-AJ0
+inspiring_AJ0
 chemists_NN2
 and_CJC
 setting_VVG
@@ -34695,7 +34695,7 @@ free_AJ0
 to_TO0
 pursue_VVI
 interesting_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 problems_NN2
 with_PRP
 no_AT0
@@ -34734,7 +34734,7 @@ gave_VVD
 positive_AJ0
 results_NN2
 with_PRP
-meprobamate_VVB-NN1
+meprobamate_NN1
 at_PRP
 that_CJT
 time_NN1
@@ -34789,7 +34789,7 @@ at_PRP
 the_AT0
 University_NN1
 of_PRF
-Cracow_NN1-NP0
+Cracow_NP0
 Poland_NP0
 The_AT0
 compounds_NN2
@@ -34834,7 +34834,7 @@ no_AT0
 more_AV0
 rewarding_AJ0
 The_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 problems_NN2
 were_VBD
 interesting_AJ0
@@ -34937,14 +34937,14 @@ active_AJ0
 more_AV0
 so_AV0
 than_CJS
-meprobamate_VVB-NN1
+meprobamate_NN1
 in_PRP
-quietening_AJ0
+quietening_VVG
 mice_NN2
 preventing_VVG
 electrically-induced_AJ0
 convulsions_NN2
-relaxing_VVG-AJ0
+relaxing_VVG
 muscles_NN2
 and_CJC
 reducing_VVG
@@ -34998,7 +34998,7 @@ marketed_VVN
 under_PRP
 the_AT0
 name_NN1
-Librium_NP0-NN1
+Librium_NN1
 It_PNP
 was_VBD
 an_AT0
@@ -35272,7 +35272,7 @@ manufacturers_NN2
 of_PRF
 scientific_AJ0
 instruments_NN2
-saving_NN1
+saving_VVG
 much_DT0
 time_NN1
 and_CJC
@@ -35286,7 +35286,7 @@ it_PNP
 possible_AJ0
 to_TO0
 do_VDB
-chemical_AJ0-NN1
+chemical_AJ0
 separations_NN2
 in_PRP
 minutes_NN2
@@ -35314,7 +35314,7 @@ at_PRP
 specific_AJ0
 wavelengths_NN2
 all_DT0
-increased_AJ0
+increased_VVN
 the_AT0
 power_NN1
 speed_NN1
@@ -35363,7 +35363,7 @@ of_PRF
 93_CRD
 in_PRP
 full_AJ0
-intellectual_AJ0-NN1
+intellectual_AJ0
 vigour_NN1
 well_AV0
 knew_VVD
@@ -35382,7 +35382,7 @@ cell_NN1
 to_TO0
 another_DT0
 by_PRP
-chemical_AJ0-NN1
+chemical_AJ0
 messengers_NN2
 and_CJC
 many_DT0
@@ -35431,7 +35431,7 @@ often_AV0
 referred_VVN
 to_TO0
 as_CJS
-GABA_NP0-NN1
+GABA_NN1
 first_ORD
 discovered_VVN
 from_PRP
@@ -35455,7 +35455,7 @@ of_PRF
 the_AT0
 benzodiazepines_NN2
 Another_DT0
-5-hydroxytryptamine_AJ0-NN1
+5-hydroxytryptamine_AJ0
 or_CJC
 serotonin_NN1
 presents_VVZ
@@ -35520,7 +35520,7 @@ precursor_NN1
 of_PRF
 noradrenaline_NN1
 named_VVN
-dopamine_NN1-VVB
+dopamine_VVB
 has_VHZ
 attracted_VVN
 a_AT0
@@ -35530,7 +35530,7 @@ attention_NN1
 since_CJS
 it_PNP
 is_VBZ
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 actions_NN2
@@ -35570,7 +35570,7 @@ and_CJC
 identifies_VVZ
 a_AT0
 new_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 messenger_NN1
 is_VBZ
 providing_VVG
@@ -35597,7 +35597,7 @@ a_AT0
 range_NN1
 of_PRF
 new_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 entities_NN2
 and_CJC
 finds_VVZ
@@ -35694,7 +35694,7 @@ plants_NN2
 are_VBB
 known_VVN
 to_TO0
-act_VVI
+act_NN1
 on_PRP
 specific_AJ0
 physiological_AJ0
@@ -35808,7 +35808,7 @@ damage_NN1
 Pain_NN1
 is_VBZ
 usually_AV0
-allied_AJ0
+allied_VVN
 to_TO0
 behaviour_NN1
 which_DTQ
@@ -35924,7 +35924,7 @@ morphine_NN1
 by_PRP
 a_AT0
 modest_AJ0
-chemical_AJ0-NN1
+chemical_AJ0
 change_NN1
 is_VBZ
 more_AV0
@@ -35994,7 +35994,7 @@ on_PRP
 the_AT0
 same_DT0
 receptors_NN2
-Advances_NN2-VVZ
+Advances_NN2
 in_PRP
 understanding_NN1
 other_AJ0
@@ -36357,7 +36357,7 @@ achieve_VVI
 the_AT0
 desired_AJ0
 effect_NN1
-Acetylcholine_VVB-NN1
+Acetylcholine_NN1
 was_VBD
 identified_VVN
 as_CJS
@@ -36451,7 +36451,7 @@ of_PRF
 studies_NN2
 on_PRP
 the_AT0
-enkephalin-endorphin_AJ0-NN1
+enkephalin-endorphin_AJ0
 system_NN1
 has_VHZ
 brought_VVN
@@ -36668,14 +36668,14 @@ a_AT0
 psychiatrist_NN1
 however_AV0
 biochemically_AV0
-oriented_VVN
+oriented_VVD
 can_VM0
 neglect_NN1
 the_AT0
 pastoral_AJ0
 aspects_NN2
 of_PRF
-caring_VVG-NN1
+caring_NN1
 for_PRP
 his_DPS
 patients_NN2
@@ -36740,7 +36740,7 @@ than_CJS
 symptoms_NN2
 of_PRF
 a_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 fault_NN1
 in_PRP
 the_AT0

@@ -38,7 +38,7 @@ has_VHZ
 been_VBN
 considerable_AJ0
 in_PRP
-shaping_VVG-AJ0
+shaping_VVG
 norms_NN2
 At_PRP
 the_AT0
@@ -181,13 +181,13 @@ have_VHB
 been_VBN
 evangelised_VVN
 by_PRP
-Protestant_AJ0-NN1
+Protestant_AJ0
 missionaries_NN2
 Latin_AJ0
 Americans_NN2
 are_VBB
-Roman_AJ0-NN1
-Catholic_AJ0-NN1
+Roman_AJ0
+Catholic_AJ0
 The_AT0
 conquest_NN1
 brought_VVN
@@ -204,13 +204,13 @@ and_CJC
 missionaries_NN2
 for_PRP
 the_AT0
-christianising_AJ0-NN1
+christianising_AJ0
 mission_NN1
 of_PRF
 the_AT0
 Spaniards_NN2
 and_CJC
-Portuguese_AJ0-NN1
+Portuguese_AJ0
 was_VBD
 vital_AJ0
 to_TO0
@@ -233,7 +233,7 @@ and_CJC
 culture_NN1
 into_PRP
 the_AT0
-Catholic_AJ0-NN1
+Catholic_AJ0
 orthodoxy_NN1
 rather_AV0
 than_CJS
@@ -255,7 +255,7 @@ Aztecs_NN2
 but_CJC
 eventually_AV0
 with_PRP
-varying_AJ0-VVG
+varying_AJ0
 degrees_NN2
 of_PRF
 repression_NN1
@@ -266,8 +266,8 @@ were_VBD
 brought_VVN
 into_PRP
 the_AT0
-Catholic_AJ0-NN1
-fold_VVI
+Catholic_AJ0
+fold_NN1
 Some_DT0
 historians_NN2
 have_VHB
@@ -302,7 +302,7 @@ excesses_NN2
 of_PRF
 colonial_AJ0
 power_NN1
-Poblete_NP0-NN1
+Poblete_NP0
 1970_CRD
 Like_PRP
 the_AT0
@@ -402,7 +402,7 @@ Latin_AJ0
 American_AJ0
 countries_NN2
 became_VVD
-involved_AJ0
+involved_VVN
 in_PRP
 conservative-liberal_AJ0
 struggles_NN2
@@ -420,7 +420,7 @@ groups_NN2
 In_PRP
 general_AJ0
 it_PNP
-allied_AJ0
+allied_VVN
 itself_PNX
 with_PRP
 the_AT0
@@ -457,7 +457,7 @@ this_DT0
 role_NN1
 that_CJT
 the_AT0
-Catholic_AJ0-NN1
+Catholic_AJ0
 church_NN1
 entered_VVD
 the_AT0
@@ -503,7 +503,7 @@ having_VHG
 survived_VVD
 independence_NN1
 movements_NN2
-inter-elite_NN1-AJ0
+inter-elite_AJ0
 struggles_NN2
 and_CJC
 in_PRP
@@ -535,7 +535,7 @@ in_PRP
 its_DPS
 scope_NN1
 for_PRP
-Roman_AJ0-NN1
+Roman_AJ0
 Catholics_NN2
 make_VVI
 up_AVP
@@ -637,7 +637,7 @@ church_NN1
 leaders_NN2
 like_PRP
 other_AJ0
-Colombian_AJ0-NN1
+Colombian_AJ0
 elites_NN2
 have_VHB
 not_XX0
@@ -645,7 +645,7 @@ favoured_VVN
 social_AJ0
 change_NN1
 The_AT0
-Chilean_AJ0-NN1
+Chilean_AJ0
 church_NN1
 however_AV0
 has_VHZ
@@ -657,7 +657,7 @@ as_CJS
 the_AT0
 most_AV0
 progressive_AJ0
-Catholic_AJ0-NN1
+Catholic_AJ0
 system_NN1
 in_PRP
 Latin_AJ0
@@ -694,7 +694,7 @@ the_AT0
 shanty_NN1
 towns_NN2
 become_VVI
-involved_AJ0
+involved_VVN
 in_PRP
 politics_NN1
 through_PRP
@@ -792,7 +792,7 @@ have_VHB
 emerged_VVD
 again_AV0
 and_CJC
-crucifixes_NN2-VVZ
+crucifixes_NN2
 and_CJC
 images_NN2
 of_PRF
@@ -903,7 +903,7 @@ of_PRF
 this_DT0
 century_NN1
 the_AT0
-Catholic_AJ0-NN1
+Catholic_AJ0
 Church_NN1
 had_VHD
 concerned_AJ0
@@ -954,7 +954,7 @@ but_CJC
 also_AV0
 the_AT0
 Council_NN1
-stressed_VVD
+stressed_VVN
 the_AT0
 responsibility_NN1
 of_PRF
@@ -1023,7 +1023,7 @@ Smith_NP0
 1982_CRD
 5_CRD
 This_DT0
-shift_NN1-VVB
+shift_NN1
 in_PRP
 official_AJ0
 church_NN1
@@ -1120,12 +1120,12 @@ services_NN2
 The_AT0
 conference_NN1
 also_AV0
-stressed_VVD
+stressed_VVN
 the_AT0
 development_NN1
 of_PRF
 Christian_AJ0
-Base_NN1-VVB
+Base_NN1
 Communities_NN2
 CEBs_NP0
 This_DT0
@@ -1152,7 +1152,7 @@ cases_NN2
 they_PNP
 may_VM0
 be_VBI
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 promoting_VVG
 other_AJ0
@@ -1207,7 +1207,7 @@ a_AT0
 religious_AJ0
 leader_NN1
 is_VBZ
-present_AJ0-NN1
+present_AJ0
 to_TO0
 offer_VVI
 assistance_NN1
@@ -1262,8 +1262,8 @@ self-confident_AJ0
 they_PNP
 no_AT0
 longer_AV0
-feel_VVI
-cowed_VVN
+feel_VVB
+cowed_AJ0
 by_PRP
 fate_NN1
 Montgomery_NP0
@@ -1354,7 +1354,7 @@ of_PRF
 exploitation_NN1
 by_PRP
 world_NN1
-capitalist_AJ0-NN1
+capitalist_AJ0
 powers_NN2
 Any_DT0
 sort_NN1
@@ -1399,7 +1399,7 @@ an_AT0
 active_AJ0
 role_NN1
 in_PRP
-shaping_VVG-AJ0
+shaping_VVG
 their_DPS
 own_DT0
 lives_NN2
@@ -1511,7 +1511,7 @@ the_AT0
 result_NN1
 that_CJT
 the_AT0
-Pope_NP0-NN1
+Pope_NP0
 called_VVN
 for_PRP
 their_DPS
@@ -1519,11 +1519,11 @@ resignation_NN1
 In_PRP
 1983_CRD
 the_AT0
-Pope_NP0-NN1
+Pope_NP0
 concerned_AJ0
 by_PRP
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 Liberation_NN1
 Theology_NN1
@@ -1547,11 +1547,11 @@ was_VBD
 marked_VVN
 by_PRP
 a_AT0
-well-publicised_AJ0-NN1
+well-publicised_AJ0
 clash_NN1
 between_PRP
 the_AT0
-Pope_NP0-NN1
+Pope_NP0
 and_CJC
 Sandinistas_NN2
 which_DTQ
@@ -1563,7 +1563,7 @@ briefing-paper_NN1
 presented_VVN
 to_TO0
 the_AT0
-Pope_NP0-NN1
+Pope_NP0
 by_PRP
 church_NN1
 right-wingers_NN2
@@ -1778,7 +1778,7 @@ enough_AV0
 to_TO0
 warrant_NN1
 the_AT0
-Pope_NP0-NN1
+Pope_NP0
 's_POS
 visit_NN1
 Some_DT0
@@ -1879,7 +1879,7 @@ regimes_NN2
 and_CJC
 this_DT0
 they_PNP
-feel_VVI
+feel_VVB
 no_AT0
 Christian_AJ0
 should_VM0
@@ -2079,7 +2079,7 @@ Weber_NP0
 suggested_VVN
 that_CJT
 the_AT0
-Protestant_AJ0-NN1
+Protestant_AJ0
 ethic_NN1
 produced_VVN
 the_AT0
@@ -2118,7 +2118,7 @@ this_DT0
 Catholicism_NN1
 for_PRP
 centuries_NN2
-allied_AJ0
+allied_VVN
 itself_PNX
 with_PRP
 conservative_AJ0
@@ -2151,10 +2151,10 @@ more_AV0
 socialist_AJ0
 rather_AV0
 than_CJS
-capitalist_AJ0-NN1
+capitalist_AJ0
 line_NN1
 Traditional_AJ0
-Catholic_AJ0-NN1
+Catholic_AJ0
 principles_NN2
 once_AV0
 an_AT0
@@ -2163,7 +2163,7 @@ to_TO0
 change_NN1
 in_PRP
 emerging_VVG
-capitalist_AJ0-NN1
+capitalist_AJ0
 economies_NN2
 when_CJS
 they_PNP
@@ -2600,7 +2600,7 @@ of_PRF
 educational_AJ0
 achievement_NN1
 have_VHB
-improved_AJ0
+improved_VVN
 very_AV0
 considerably_AV0
 during_PRP
@@ -2644,7 +2644,7 @@ illiteracy_NN1
 rate_NN1
 for_PRP
 the_AT0
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 population_NN1
 was_VBD
 about_PRP
@@ -2812,7 +2812,7 @@ Development_NN1
 Bank_NP0
 1985_CRD
 These_DT0
-improved_AJ0
+improved_VVN
 rates_NN2
 have_VHB
 been_VBN
@@ -2828,7 +2828,7 @@ period_NN1
 from_PRP
 1950\xe2\x80\x9380_CRD
 the_AT0
-school-age_AJ0-NN1
+school-age_NN1
 population_NN1
 under_PRP
 twenty-four-years-old_AJ0
@@ -3052,7 +3052,7 @@ that_CJT
 access_NN1
 to_TO0
 the_AT0
-increased_AJ0
+increased_VVN
 educational_AJ0
 facilities_NN2
 is_VBZ
@@ -3152,7 +3152,7 @@ and_CJC
 which_DTQ
 shows_VVZ
 extreme_AJ0
-relative_AJ0-NN1
+relative_AJ0
 rigidity_NN1
 and_CJC
 concentration_NN1
@@ -3161,7 +3161,7 @@ comparison_NN1
 with_PRP
 the_AT0
 greater_AJC
-equalizing_AJ0-NN1
+equalizing_AJ0
 capacity_NN1
 of_PRF
 the_AT0
@@ -3522,7 +3522,7 @@ echelons_NN2
 of_PRF
 society_NN1
 Although_CJS
-biased_VVN-AJ0
+biased_AJ0
 towards_PRP
 the_AT0
 higher_AJC
@@ -3574,7 +3574,7 @@ enough_AV0
 or_CJC
 that_CJT
 although_CJS
-improved_AJ0
+improved_VVN
 educational_AJ0
 standards_NN2
 constitute_VVB
@@ -3868,10 +3868,10 @@ line_NN1
 with_PRP
 the_AT0
 dominant_AJ0
-Catholic_AJ0-NN1
+Catholic_AJ0
 Hispanic_AJ0
 mores_NN2
-Dissent_NN1-VVB
+Dissent_VVB
 has_VHZ
 occurred_VVD
 at_PRP
@@ -3968,7 +3968,7 @@ Latin_AJ0
 America_NP0
 is_VBZ
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 sophisticated_AJ0
 and_CJC
@@ -3990,7 +3990,7 @@ City_NN1
 is_VBZ
 quick_AJ0
 to_TO0
-notice_VVI
+notice_NN1
 the_AT0
 mass_NN1
 of_PRF
@@ -4030,7 +4030,7 @@ more_AV0
 realistically_AV0
 presented_VVN
 as_CJS
-listening_VVG-NN1
+listening_VVG
 to_TO0
 his_DPS
 radio_NN1
@@ -4042,7 +4042,7 @@ peasant_NN1
 families_NN2
 in_PRP
 the_AT0
-Cochabamba_NP0-NN1
+Cochabamba_NP0
 area_NN1
 of_PRF
 Bolivia_NP0
@@ -4195,7 +4195,7 @@ television_NN1
 but_CJC
 less_AV0
 than_CJS
-listening_VVG-NN1
+listening_VVG
 to_TO0
 the_AT0
 radio_NN1
@@ -4476,7 +4476,7 @@ for_PRP
 educational_AJ0
 purposes_NN2
 to_TO0
-spread_NN1
+spread_VVN
 modern_AJ0
 values_NN2
 and_CJC
@@ -4738,7 +4738,7 @@ Santiago_NP0
 and_CJC
 S\xc3\xa3o_NP0
 Paulo_NP0
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 cinema_NN1
 has_VHZ
 expanded_VVN
@@ -4793,7 +4793,7 @@ so_AV0
 while_CJS
 some_DT0
 are_VBB
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 local_AJ0
 issues_NN2
@@ -4920,7 +4920,7 @@ the_AT0
 denial_NN1
 of_PRF
 change_NN1
-Mattelart_NP0-NN1
+Mattelart_NP0
 1978_CRD
 23_CRD
 The_AT0
@@ -4989,7 +4989,7 @@ and_CJC
 status_NN1
 According_VVG
 to_TO0
-Mattelart_NP0-NN1
+Mattelart_NP0
 North_NN1
 American_AJ0
 advertising_NN1
@@ -5009,7 +5009,7 @@ models_NN2
 of_PRF
 political_AJ0
 development_NN1
-Mattelart_NP0-NN1
+Mattelart_NP0
 1978_CRD
 Although_CJS
 it_PNP
@@ -5074,7 +5074,7 @@ of_PRF
 traditional_AJ0
 and_CJC
 modern_AJ0
-advertisement-inspired_AJ0-NN1
+advertisement-inspired_NN1
 modes_NN2
 of_PRF
 behaviour_NN1
@@ -5209,7 +5209,7 @@ the_AT0
 world_NN1
 often_AV0
 use_NN1
-syndicated_VVD-AJ0
+syndicated_AJ0
 news_NN1
 from_PRP
 North_NN1
@@ -5306,13 +5306,13 @@ general_AJ0
 reflect_VVI
 a_AT0
 gradual_AJ0
-shift_NN1-VVB
+shift_NN1
 towards_PRP
 the_AT0
 values_NN2
 of_PRF
 contemporary_AJ0
-capitalist_AJ0-NN1
+capitalist_AJ0
 societies_NN2
 corresponding_AJ0
 to_TO0
@@ -5354,7 +5354,7 @@ core_NN1
 countries_NN2
 of_PRF
 the_AT0
-capitalist_AJ0-NN1
+capitalist_AJ0
 world_NN1
 Education_NN1
 has_VHZ
@@ -5456,7 +5456,7 @@ factors_NN2
 are_VBB
 vital_AJ0
 in_PRP
-shaping_VVG-AJ0
+shaping_VVG
 the_AT0
 nature_NN1
 and_CJC
@@ -5521,7 +5521,7 @@ relations_NN2
 PERSONALISM_NN1
 Despite_PRP
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 values_NN2
 emphasising_VVG
@@ -5681,7 +5681,7 @@ and_CJC
 political_AJ0
 ends_NN2
 The_AT0
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 panelinhas_NN2
 are_VBB
 informal_AJ0
@@ -5831,14 +5831,14 @@ of_PRF
 equal_AJ0
 status_NN1
 and_CJC
-patron-client_AJ0-NN1
+patron-client_AJ0
 contracts_NN2
 where_AVQ
 the_AT0
 status_NN1
 of_PRF
 those_DT0
-involved_AJ0
+involved_VVN
 is_VBZ
 different_AJ0
 Colleague_NN1
@@ -5858,7 +5858,7 @@ things_NN2
 whereas_CJS
 in_PRP
 the_AT0
-patron-client_AJ0-NN1
+patron-client_AJ0
 relationship_NN1
 the_AT0
 different_AJ0
@@ -5896,14 +5896,14 @@ colleague_NN1
 contract_NN1
 is_VBZ
 compadrazgo_NN1
-Compadrazgo_NN1-NP0
+Compadrazgo_NN1
 as_CJS
 Latin_AJ0
 Americans_NN2
 call_VVI
 ritual_NN1
 or_CJC
-pseudo-kinship_NN1-AJ0
+pseudo-kinship_NN1
 is_VBZ
 a_AT0
 means_NN0
@@ -5946,7 +5946,7 @@ necessarily_AV0
 lasting_AJ0
 Kinship_NN1
 is_VBZ
-binding_VVG-AJ0
+binding_AJ0
 and_CJC
 permanent_AJ0
 but_CJC
@@ -5963,7 +5963,7 @@ the_AT0
 relatives_NN2
 he_PNP
 has_VHZ
-Compadrazgo_NN1-NP0
+Compadrazgo_NN1
 is_VBZ
 a_AT0
 compromise_NN1
@@ -5982,7 +5982,7 @@ of_PRF
 kinship_NN1
 Foster_NP0
 1967_CRD
-Compadrazgo_NN1-NP0
+Compadrazgo_NN1
 relations_NN2
 are_VBB
 set_VVN
@@ -6213,7 +6213,7 @@ later_AV0
 life_NN1
 if_CJS
 they_PNP
-feel_VVI
+feel_VVB
 that_CJT
 it_PNP
 is_VBZ
@@ -6254,7 +6254,7 @@ are_VBB
 interlinked_VVN
 by_PRP
 the_AT0
-criss-crossing_NN1-AJ0
+criss-crossing_NN1
 relationships_NN2
 of_PRF
 compadrazgo_NN1
@@ -6322,7 +6322,7 @@ to_TO0
 be_VBI
 a_AT0
 firmly_AV0
-entrenched_AJ0
+entrenched_VVN
 pattern_NN1
 of_PRF
 social_AJ0
@@ -6337,7 +6337,7 @@ dissimilar_AJ0
 things_NN2
 in_PRP
 the_AT0
-patron-client_AJ0-NN1
+patron-client_AJ0
 relationship_NN1
 occurs_VVZ
 because_CJS
@@ -6458,7 +6458,7 @@ and_CJC
 when_CJS
 he_PNP
 has_VHZ
-accumulated_AJ0
+accumulated_VVN
 a_AT0
 number_NN1
 of_PRF
@@ -6554,7 +6554,7 @@ to_TO0
 a_AT0
 network_NN1
 of_PRF
-clientelist_NN1-AJ0
+clientelist_NN1
 relationships_NN2
 Although_CJS
 the_AT0
@@ -6575,7 +6575,7 @@ addressing_VVG
 the_AT0
 patron_NN1
 as_CJS
-usted_VVN-AJ0
+usted_VVN
 but_CJC
 the_AT0
 latter_DT0
@@ -6678,7 +6678,7 @@ the_AT0
 two_CRD
 While_CJS
 studying_VVG
-Tzintzuntzan_NP0-NN1
+Tzintzuntzan_NP0
 the_AT0
 anthropologist_NN1
 George_NP0
@@ -6947,7 +6947,7 @@ SIAM_NP0
 is_VBZ
 a_AT0
 large_AJ0
-Argentine_AJ0-NN1
+Argentine_AJ0
 industrial-commercial_AJ0
 complex_AJ0
 which_DTQ
@@ -7077,7 +7077,7 @@ Hansen_NP0
 Rothstein_NP0
 argues_VVZ
 that_CJT
-patron-client_AJ0-NN1
+patron-client_AJ0
 relationships_NN2
 are_VBB
 well_AV0
@@ -7085,7 +7085,7 @@ suited_VVN
 to_TO0
 the_AT0
 peripheral_AJ0
-capitalist_AJ0-NN1
+capitalist_AJ0
 development_NN1
 that_CJT
 has_VHZ
@@ -7122,7 +7122,7 @@ in_PRP
 Latin_AJ0
 America_NP0
 has_VHZ
-accumulated_AJ0
+accumulated_VVN
 benefits_NN2
 in_PRP
 the_AT0
@@ -7419,7 +7419,7 @@ friends_NN2
 who_PNQ
 can_VM0
 be_VBI
-trusted_VVD
+trusted_AJ0
 Businesses_NN2
 are_VBB
 sometimes_AV0
@@ -7440,7 +7440,7 @@ large_AJ0
 concern_NN1
 may_VM0
 well_AV0
-feel_VVI
+feel_VVB
 an_AT0
 obligation_NN1
 to_TO0
@@ -7654,7 +7654,7 @@ family_NN1
 appeared_VVD
 after_PRP
 the_AT0
-Portuguese_AJ0-NN1
+Portuguese_AJ0
 colonisation_NN1
 with_PRP
 the_AT0
@@ -7847,7 +7847,7 @@ opposition_NN1
 to_TO0
 mechanical_AJ0
 and_CJC
-chemical_AJ0-NN1
+chemical_AJ0
 contraception_NN1
 and_CJC
 to_TO0
@@ -7860,7 +7860,7 @@ families_NN2
 that_CJT
 are_VBB
 so_AV0
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 the_AT0
 region_NN1
@@ -7985,7 +7985,7 @@ Middle_AJ0
 America_NP0
 is_VBZ
 the_AT0
-sub-region_NN1-AJ0
+sub-region_NN1
 with_PRP
 the_AT0
 highest_AJS
@@ -8116,7 +8116,7 @@ Latin_AJ0
 American_AJ0
 women_NN2
 and_CJC
-enforced_AJ0
+enforced_VVN
 sterilisation_NN1
 The_AT0
 Peace_NN1
@@ -8138,7 +8138,7 @@ for_PRP
 its_DPS
 activities_NN2
 in_PRP
-sterilising_AJ0-NN1
+sterilising_AJ0
 peasant_NN1
 women_NN2
 without_PRP
@@ -8146,7 +8146,7 @@ their_DPS
 knowledge_NN1
 Bronstein_NP0
 1982_CRD
-Fear_NN1-VVB
+Fear_NN1
 partly_AV0
 due_AJ0
 to_TO0
@@ -8181,7 +8181,7 @@ governments_NN2
 to_TO0
 openly_AV0
 promote_VVI
-birth-control_AJ0-NN1
+birth-control_NN1
 programs_NN2
 that_CJT
 do_VDB
@@ -8198,7 +8198,7 @@ government_NN1
 has_VHZ
 encouraged_VVN
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 contraceptive_AJ0
 methods_NN2
@@ -8360,7 +8360,7 @@ women_NN2
 Machismo_NP0
 is_VBZ
 an_AT0
-exaggerated_AJ0
+exaggerated_VVN
 cult_NN1
 of_PRF
 virility_NN1
@@ -8503,7 +8503,7 @@ violence_NN1
 It_PNP
 is_VBZ
 a_AT0
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 mestizo_NN1
 Latin_AJ0
@@ -8516,7 +8516,7 @@ communities_NN2
 often_AV0
 reveal_VVI
 a_AT0
-relative_AJ0-NN1
+relative_AJ0
 absence_NN1
 of_PRF
 machismo_NN1
@@ -8642,7 +8642,7 @@ relate_VVI
 to_TO0
 the_AT0
 peripheral_AJ0
-capitalist_AJ0-NN1
+capitalist_AJ0
 nature_NN1
 of_PRF
 development_NN1
@@ -8801,7 +8801,7 @@ the_AT0
 form_NN1
 of_PRF
 peripheral_AJ0
-capitalist_AJ0-NN1
+capitalist_AJ0
 industrialisation_NN1
 which_DTQ
 has_VHZ
@@ -9015,7 +9015,7 @@ the_AT0
 most_AV0
 from_PRP
 peripheral_AJ0
-capitalist_AJ0-NN1
+capitalist_AJ0
 development_NN1
 The_AT0
 high_AJ0
@@ -9023,7 +9023,7 @@ rates_NN2
 of_PRF
 unemployment_NN1
 so_AV0
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 underdeveloped_AJ0
 countries_NN2
@@ -9036,7 +9036,7 @@ example_NN1
 in_PRP
 Brazil_NP0
 peripheral_AJ0
-capitalist_AJ0-NN1
+capitalist_AJ0
 development_NN1
 is_VBZ
 responsible_AJ0
@@ -9100,7 +9100,7 @@ to_TO0
 11.3_CRD
 per_UNC
 cent_UNC
-Saffioti_NP0-NN1
+Saffioti_NP0
 1978_CRD
 It_PNP
 is_VBZ
@@ -9144,7 +9144,7 @@ the_AT0
 stage_NN1
 of_PRF
 early_AJ0
-capitalist_AJ0-NN1
+capitalist_AJ0
 development_NN1
 the_AT0
 demand_NN1
@@ -9265,7 +9265,7 @@ cent_UNC
 of_PRF
 the_AT0
 total_AJ0
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 female_AJ0
 workforce_NN1
 are_VBB
@@ -9347,7 +9347,7 @@ the_AT0
 introduction_NN1
 of_PRF
 highly_AV0
-technologised_AJ0-VVN
+technologised_VVN
 industry_NN1
 is_VBZ
 that_CJT
@@ -9410,7 +9410,7 @@ in_PRP
 textiles_NN2
 tobacco_NN1
 chemicals_NN2
-rubber_AJ0-NN1
+rubber_AJ0
 paper_NN1
 and_CJC
 food_NN1
@@ -9455,7 +9455,7 @@ women_NN2
 chemicals_NN2
 paper_NN1
 and_CJC
-rubber_AJ0-NN1
+rubber_AJ0
 Chinchilla_NP0
 1977_CRD
 Similarly_AV0
@@ -9509,7 +9509,7 @@ in_PRP
 the_AT0
 sink_NN1
 and_CJC
-float_VVI
+float_VVB
 plants_NN2
 Since_CJS
 1960_CRD
@@ -9557,7 +9557,7 @@ for_PRP
 over_PRP
 twenty_CRD
 years_NN2
-ECLA_NP0-NN1
+ECLA_NN1
 1975_CRD
 Table_NN1
 4.1_CRD
@@ -9700,7 +9700,7 @@ by_PRP
 1984_CRD
 32.4%_UNC
 of_PRF
-Chilean_AJ0-NN1
+Chilean_AJ0
 women_NN2
 were_VBD
 participating_VVG
@@ -9753,10 +9753,10 @@ rural_AJ0
 work_NN1
 such_DT0
 as_CJS
-caring_VVG-NN1
+caring_NN1
 for_PRP
 poultry_NN0
-milking_NN1-AJ0
+milking_NN1
 and_CJC
 craftwork_NN1
 within_PRP
@@ -10051,7 +10051,7 @@ women_NN2
 have_VHB
 lost_VVN
 ground_NN1
-relative_AJ0-NN1
+relative_AJ0
 to_TO0
 men_NN2
 and_CJC
@@ -10088,13 +10088,13 @@ to_TO0
 domestic_AJ0
 service_NN1
 street_NN1
-vending_VVG-AJ0
+vending_VVG
 and_CJC
 other_AJ0
 marginal_AJ0
 low-income_AJ0
 occupations_NN2
-ECLA_NP0-NN1
+ECLA_NN1
 1975_CRD
 13_CRD
 The_AT0
@@ -10179,8 +10179,8 @@ cent_UNC
 for_PRP
 single_AJ0
 women_NN2
-Filet-_AJ0-NN1
-Arbreu_NP0-NN1
+Filet-_NN1
+Arbreu_NN1
 Souza_NP0
 1980_CRD
 There_EX0
@@ -10192,7 +10192,7 @@ this_DT0
 Although_CJS
 generally_AV0
 women_NN2
-lag_NN1-VVB
+lag_NN1
 behind_PRP
 men_NN2
 in_PRP
@@ -10257,11 +10257,11 @@ an_AT0
 extension_NN1
 of_PRF
 the_AT0
-wife-mother_AJ0-NN1
+wife-mother_AJ0
 role_NN1
 such_DT0
 as_CJS
-nursing_AJ0-NN1
+nursing_NN1
 and_CJC
 teaching_NN1
 and_CJC
@@ -10457,7 +10457,7 @@ the_AT0
 job_NN1
 market_NN1
 from_PRP
-capitalist_AJ0-NN1
+capitalist_AJ0
 industrialisation_NN1
 nor_CJC
 have_VHB
@@ -10587,7 +10587,7 @@ supermother_NN1
 Chaney_NP0
 1979_CRD
 If_CJS
-capitalist_AJ0-NN1
+capitalist_AJ0
 industrialisation_NN1
 has_VHZ
 done_VDN
@@ -11113,7 +11113,7 @@ in_PRP
 socialist_AJ0
 Cuba_NP0
 to_TO0
-capitalist_AJ0-NN1
+capitalist_AJ0
 Latin_AJ0
 America_NP0
 Most_DT0
@@ -11325,7 +11325,7 @@ that_CJT
 they_PNP
 are_VBB
 fully_AV0
-integrated_AJ0
+integrated_VVN
 into_PRP
 Cuban_AJ0
 society_NN1
@@ -11658,7 +11658,7 @@ convergence_NN1
 of_PRF
 culture_NN1
 through_PRP
-improved_AJ0
+improved_VVN
 mass_NN1
 communications_NN2
 the_AT0
@@ -11772,7 +11772,7 @@ of_PRF
 all_DT0
 farmland_NN1
 The_AT0
-characteristic_AJ0-NN1
+characteristic_NN1
 feature_NN1
 of_PRF
 this_DT0
@@ -11831,7 +11831,7 @@ Brazil_NP0
 there_EX0
 are_VBB
 multi-million-dollar_AJ0
-soybean_AJ0-NN1
+soybean_AJ0
 processing_NN1
 plants_NN2
 owned_VVN
@@ -12008,7 +12008,7 @@ areas_NN2
 brings_VVZ
 about_PRP
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 the_AT0
 commercial_AJ0
@@ -12139,7 +12139,7 @@ best_AJS
 be_VBI
 defined_VVN
 in_PRP
-Stavenhagen_NP0-NN1
+Stavenhagen_NP0
 's_POS
 words_NN2
 The_AT0
@@ -12152,7 +12152,7 @@ quite_AV0
 simply_AV0
 as_CJS
 that_CJT
-Form_NN1-VVB
+Form_NN1
 of_PRF
 farm_NN1
 production_NN1
@@ -12220,7 +12220,7 @@ they_PNP
 do_VDB
 not_XX0
 produce_VVI
-Stavenhagen_NP0-NN1
+Stavenhagen_NP0
 1978_CRD
 31_CRD
 PENETRATION_NN1
@@ -12237,7 +12237,7 @@ process_NN1
 as_CJS
 the_AT0
 incorporative_AJ0
-drive_VVI
+drive_NN1
 of_PRF
 national_AJ0
 market_NN1
@@ -12289,7 +12289,7 @@ pre-industrial_AJ0
 conditions_NN2
 The_AT0
 incorporative_AJ0
-drive_VVI
+drive_NN1
 refers_VVZ
 to_TO0
 national_AJ0
@@ -12319,13 +12319,13 @@ three_CRD
 main_AJ0
 elements_NN2
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 the_AT0
 market_NN1
 system_NN1
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 a_AT0
 communications_NN2
@@ -12337,7 +12337,7 @@ of_PRF
 national_AJ0
 institutions_NN2
 The_AT0
-spread_NN1
+spread_VVN
 of_PRF
 the_AT0
 market_NN1
@@ -12408,7 +12408,7 @@ penetration_NN1
 of_PRF
 the_AT0
 national_AJ0
-capitalist_AJ0-NN1
+capitalist_AJ0
 system_NN1
 also_AV0
 makes_VVZ
@@ -12483,7 +12483,7 @@ he_PNP
 has_VHZ
 nothing_PNI
 to_TO0
-fall_VVI
+fall_NN1
 back_AVP
 on_PRP
 The_AT0
@@ -12519,7 +12519,7 @@ with_PRP
 national_AJ0
 levels_NN2
 of_PRF
-price-fixing_NN1-AJ0
+price-fixing_AJ0
 and_CJC
 laws_NN2
 of_PRF
@@ -12673,7 +12673,7 @@ capitalism_NN1
 in_PRP
 agriculture_NN1
 the_AT0
-Kulak_NP0-NN1
+Kulak_NP0
 or_CJC
 American_AJ0
 path_NN1
@@ -12683,7 +12683,7 @@ Junker_NP0
 path_NN1
 With_PRP
 the_AT0
-Kulak_NP0-NN1
+Kulak_NP0
 path_NN1
 some_DT0
 members_NN2
@@ -12717,7 +12717,7 @@ peasantry_NN1
 The_AT0
 wealthy_AJ0
 become_VVI
-capitalist_AJ0-NN1
+capitalist_AJ0
 farmers_NN2
 often_AV0
 employing_VVG
@@ -12747,7 +12747,7 @@ lose_VVI
 their_DPS
 plots_NN2
 to_TO0
-encroaching_VVG
+encroaching_AJ0
 landlords_NN2
 for_PRP
 a_AT0
@@ -12755,13 +12755,13 @@ more_AV0
 detailed_AJ0
 discussion_NN1
 of_PRF
-Kulak_NP0-NN1
+Kulak_NP0
 and_CJC
 Junker_NP0
 paths_NN2
 see_VVI
 de_NP0
-Janvry_NP0-NN1
+Janvry_NP0
 1981_CRD
 Pearse_NP0
 identifies_VVZ
@@ -12770,7 +12770,7 @@ same_DT0
 process_NN1
 as_CJS
 the_AT0
-Kulak_NP0-NN1
+Kulak_NP0
 path_NN1
 when_CJS
 he_PNP
@@ -12778,7 +12778,7 @@ shows_VVZ
 how_AVQ
 the_AT0
 incorporative_AJ0
-drive_VVI
+drive_NN1
 draws_VVZ
 out_AVP
 what_DTQ
@@ -12891,7 +12891,7 @@ the_AT0
 commercial_AJ0
 nexus_NN1
 The_AT0
-Kulak_NP0-NN1
+Kulak_NP0
 path_NN1
 has_VHZ
 occurred_VVD
@@ -12909,7 +12909,7 @@ taken_VVN
 place_NN1
 in_PRP
 the_AT0
-Highland_NN1-NP0
+Highland_NN1
 Zapotec_NP0
 region_NN1
 of_PRF
@@ -12928,8 +12928,8 @@ the_AT0
 two_CRD
 villages_NN2
 of_PRF
-Copa_NP0-NN1
-Bitoo_NP0-NN1
+Copa_NP0
+Bitoo_NN1
 and_CJC
 Telana_NP0
 reveal_VVI
@@ -12986,7 +12986,7 @@ state_NN1
 taxes_NN2
 and_CJC
 church_NN1
-tithes_NN2-VVZ
+tithes_NN2
 and_CJC
 to_TO0
 fund_NN1
@@ -13027,7 +13027,7 @@ Americans_NN2
 who_PNQ
 had_VHD
 become_VVI
-involved_AJ0
+involved_VVN
 in_PRP
 their_DPS
 civil_AJ0
@@ -13179,7 +13179,7 @@ cash_NN1
 Telana_NP0
 now_AV0
 became_VVD
-involved_AJ0
+involved_VVN
 in_PRP
 not_XX0
 only_AV0
@@ -13225,7 +13225,7 @@ The_AT0
 community_NN1
 was_VBD
 now_AV0
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 coffee_NN1
 growing_AJ0
@@ -13251,7 +13251,7 @@ started_VVD
 employing_VVG
 labourers_NN2
 and_CJC
-consolidated_AJ0
+consolidated_VVN
 their_DPS
 control_NN1
 over_PRP
@@ -13308,7 +13308,7 @@ no_AT0
 subsistence_NN1
 plots_NN2
 to_TO0
-fall_VVI
+fall_NN1
 back_AVP
 on_PRP
 some_DT0
@@ -13394,7 +13394,7 @@ of_PRF
 Telana_NP0
 had_VHD
 become_VVI
-involved_AJ0
+involved_VVN
 in_PRP
 international_AJ0
 trade_NN1
@@ -13409,7 +13409,7 @@ by_PRP
 world_NN1
 booms_NN2
 and_CJC
-slumps_NN2-VVZ
+slumps_NN2
 Some_DT0
 had_VHD
 fared_VVN
@@ -13500,8 +13500,8 @@ labour_NN1
 for_PRP
 the_AT0
 rich_AJ0
-Copa_NP0-NN1
-Bitoo_NP0-NN1
+Copa_NP0
+Bitoo_NN1
 although_CJS
 internally_AV0
 differentiated_VVN
@@ -13513,8 +13513,8 @@ a_AT0
 marked_VVN
 stratification_NN1
 system_NN1
-Copa_NP0-NN1
-Bitoo_NP0-NN1
+Copa_NP0
+Bitoo_NN1
 had_VHD
 moved_VVD
 away_AV0
@@ -13639,7 +13639,7 @@ two_CRD
 alternative_AJ0
 paths_NN2
 of_PRF
-Kulak_NP0-NN1
+Kulak_NP0
 and_CJC
 Junker_NP0
 is_VBZ
@@ -13655,7 +13655,7 @@ forms_NN2
 of_PRF
 agricultural_AJ0
 development_NN1
-Roxborough_NP0-NN1
+Roxborough_NP0
 demonstrates_VVZ
 how_AVQ
 both_AV0
@@ -13669,7 +13669,7 @@ agricultural_AJ0
 history_NN1
 of_PRF
 Chile_NP0
-Roxborough_NP0-NN1
+Roxborough_NP0
 1979_CRD
 The_AT0
 process_NN1
@@ -13731,7 +13731,7 @@ population_NN1
 of_PRF
 Latin_AJ0
 America_NP0
-increased_AJ0
+increased_VVN
 by_PRP
 8_CRD
 million_CRD
@@ -13864,7 +13864,7 @@ the_AT0
 articulation_NN1
 of_PRF
 the_AT0
-capitalist_AJ0-NN1
+capitalist_AJ0
 mode_NN1
 with_PRP
 the_AT0
@@ -13898,7 +13898,7 @@ can_VM0
 not_XX0
 compete_VVI
 with_PRP
-capitalist_AJ0-NN1
+capitalist_AJ0
 concerns_NN2
 with_PRP
 the_AT0
@@ -14058,7 +14058,7 @@ to_TO0
 support_NN1
 a_AT0
 family_NN1
-Dispossession_NN1-NP0
+Dispossession_NP0
 has_VHZ
 been_VBN
 encouraged_VVN
@@ -14130,7 +14130,7 @@ is_VBZ
 often_AV0
 cheaper_AJC
 to_TO0
-hire_VVI
+hire_NN1
 labour_NN1
 on_PRP
 the_AT0
@@ -14224,13 +14224,13 @@ some_DT0
 impetus_NN1
 from_PRP
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 agribusiness_NN1
 in_PRP
 the_AT0
 region_NN1
-Agribusiness_NN1-NP0
+Agribusiness_NN1
 refers_VVZ
 not_XX0
 just_AV0
@@ -14244,7 +14244,7 @@ concerns_NN2
 which_DTQ
 have_VHB
 an_AT0
-integrated_AJ0
+integrated_VVN
 system_NN1
 of_PRF
 production_NN1
@@ -14301,7 +14301,7 @@ America_NP0
 The_AT0
 areas_NN2
 of_PRF
-agro-industry_NN1-AJ0
+agro-industry_NN1
 in_PRP
 which_DTQ
 transnational_AJ0
@@ -14563,7 +14563,7 @@ now_AV0
 being_VBG
 used_VVN
 in_PRP
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 sugar_NN1
 plantations_NN2
 and_CJC
@@ -14573,7 +14573,7 @@ and_CJC
 cotton_NN1
 fields_NN2
 The_AT0
-shift_NN1-VVB
+shift_NN1
 from_PRP
 labour_NN1
 intensive_AJ0
@@ -14581,7 +14581,7 @@ coffee_NN1
 growing_AJ0
 to_TO0
 capital-intensive_AJ0
-soybean_AJ0-NN1
+soybean_AJ0
 production_NN1
 in_PRP
 Brazil_NP0
@@ -14699,13 +14699,13 @@ they_PNP
 receive_VVI
 even_AV0
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 security_NN1
 benefits_NN2
 of_PRF
 full-time_AJ0
 work_NN1
-Agribusiness_NN1-NP0
+Agribusiness_NN1
 that_CJT
 operates_VVZ
 in_PRP
@@ -14731,7 +14731,7 @@ about_PRP
 1,750_CRD
 workers_NN2
 in_PRP
-Irapuato_NP0-NN1
+Irapuato_NP0
 Mexico_NP0
 but_CJC
 only_AV0
@@ -15010,7 +15010,7 @@ economy_NN1
 The_AT0
 intensification_NN1
 of_PRF
-capitalist_AJ0-NN1
+capitalist_AJ0
 farming_NN1
 his_DPS
 not_XX0
@@ -15139,7 +15139,7 @@ new_AJ0
 territories_NN2
 have_VHB
 been_VBN
-cultivated_AJ0
+cultivated_VVN
 thus_AV0
 extending_VVG
 the_AT0
@@ -15211,7 +15211,7 @@ has_VHZ
 been_VBN
 increasing_AJ0
 so_AV0
-fast_AV0-AJ0
+fast_AJ0
 in_PRP
 most_AV0
 Latin_AJ0
@@ -15305,7 +15305,7 @@ have_VHB
 to_TO0
 seek_VVI
 seasonal_AJ0
-labouring_VVG-AJ0
+labouring_AJ0
 work_NN1
 leaving_VVG
 the_AT0
@@ -15344,7 +15344,7 @@ other_AJ0
 forms_NN2
 of_PRF
 income_NN1
-Stavenhagen_NP0-NN1
+Stavenhagen_NP0
 1974_CRD
 The_AT0
 small_AJ0
@@ -15432,7 +15432,7 @@ medium-sized_AJ0
 landholders_NN2
 on_PRP
 large-scale_AJ0
-capitalist_AJ0-NN1
+capitalist_AJ0
 enterprise_NN1
 is_VBZ
 illustrated_VVN
@@ -15556,7 +15556,7 @@ a_AT0
 distinct_AJ0
 aspect_NN1
 of_PRF
-capitalist_AJ0-NN1
+capitalist_AJ0
 development_NN1
 in_PRP
 the_AT0
@@ -15701,14 +15701,14 @@ is_VBZ
 functional_AJ0
 for_PRP
 the_AT0
-capitalist_AJ0-NN1
+capitalist_AJ0
 system_NN1
-Stavenhagen_NP0-NN1
+Stavenhagen_NP0
 1978_CRD
 35_CRD
 Thus_AV0
 the_AT0
-capitalist_AJ0-NN1
+capitalist_AJ0
 mode_NN1
 articulates_VVZ
 with_PRP
@@ -15727,7 +15727,7 @@ the_AT0
 former_DT0
 benefiting_VVG
 The_AT0
-capitalist_AJ0-NN1
+capitalist_AJ0
 economy_NN1
 while_CJS
 ensuring_VVG
@@ -16104,7 +16104,7 @@ could_VM0
 alternatively_AV0
 be_VBI
 intensively_AV0
-cultivated_AJ0
+cultivated_VVN
 with_PRP
 the_AT0
 result_NN1
@@ -16213,7 +16213,7 @@ a_AT0
 juster_AJC
 pattern_NN1
 of_PRF
-landholding_VVG-NN1
+landholding_NN1
 and_CJC
 alleviate_VVI
 poverty_NN1
@@ -16399,7 +16399,7 @@ programme_NN1
 though_CJS
 these_DT0
 have_VHB
-varied_AJ0
+varied_VVN
 considerably_AV0
 across_PRP
 the_AT0
@@ -16418,7 +16418,7 @@ there_EX0
 has_VHZ
 been_VBN
 some_DT0
-tinkering_VVG-NN1
+tinkering_VVG
 with_PRP
 the_AT0
 traditional_AJ0
@@ -16497,7 +16497,7 @@ it_PNP
 is_VBZ
 worth_PRP
 examining_VVG
-Chilean_AJ0-NN1
+Chilean_AJ0
 agrarian_AJ0
 changes_NN2
 Agrarian_AJ0
@@ -16578,7 +16578,7 @@ thirdly_AV0
 productivity_NN1
 should_VM0
 be_VBI
-improved_AJ0
+improved_VVN
 at_PRP
 all_DT0
 levels_NN2
@@ -16595,7 +16595,7 @@ of_PRF
 social_AJ0
 justice_NN1
 and_CJC
-increased_AJ0
+increased_VVN
 productivity_NN1
 Once_AV0
 the_AT0
@@ -16713,7 +16713,7 @@ July_NP0
 1970_CRD
 agrarian_AJ0
 reform_NN1
-involved_AJ0
+involved_VVN
 the_AT0
 expropriation_NN1
 of_PRF
@@ -16872,7 +16872,7 @@ in_PRP
 the_AT0
 form_NN1
 of_PRF
-assured_VVD
+assured_VVN
 employment_NN1
 and_CJC
 access_NN1
@@ -16883,7 +16883,7 @@ of_PRF
 land_NN1
 and_CJC
 full_AJ0
-voting_VVG-NN1
+voting_NN1
 rights_NN2
 in_PRP
 the_AT0
@@ -16992,7 +16992,7 @@ from_PRP
 increases_VVZ
 in_PRP
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 rural_AJ0
 wage_NN1
 and_CJC
@@ -17208,7 +17208,7 @@ the_AT0
 75,000_CRD
 beneficiaries_NN2
 of_PRF
-Chilean_AJ0-NN1
+Chilean_AJ0
 agrarian_AJ0
 reform_NN1
 the_AT0
@@ -17254,7 +17254,7 @@ agronomy_NN1
 gained_VVN
 points_NN2
 The_AT0
-average_AJ0-NN1
+average_AJ0
 size_NN1
 of_PRF
 each_DT0
@@ -17443,7 +17443,7 @@ Agricultural_AJ0
 and_CJC
 fishing_NN1
 exports_NN2
-increased_AJ0
+increased_VVN
 four-fold_AV0
 in_PRP
 value_NN1
@@ -17461,7 +17461,7 @@ for_PRP
 upper_AJ0
 income_NN1
 groups_NN2
-Export_NN1-VVB
+Export_NN1
 requires_VVZ
 resources_NN2
 for_PRP
@@ -17495,7 +17495,7 @@ farmer_NN1
 can_VM0
 accommodate_VVI
 this_DT0
-Chilean_AJ0-NN1
+Chilean_AJ0
 apples_NN2
 were_VBD
 on_PRP
@@ -17622,7 +17622,7 @@ at_PRP
 the_AT0
 expense_NN1
 of_PRF
-clientelist_NN1-AJ0
+clientelist_NN1
 and_CJC
 personal_AJ0
 relationships_NN2
@@ -17735,7 +17735,7 @@ Cuba_NP0
 due_AJ0
 to_TO0
 its_DPS
-sugar-based_AJ0-NN1
+sugar-based_AJ0
 economy_NN1
 had_VHD
 relatively_AV0
@@ -17813,7 +17813,7 @@ cooperatives_NN2
 are_VBB
 generally_AV0
 well_AV0
-integrated_AJ0
+integrated_VVN
 into_PRP
 the_AT0
 revolutionary_AJ0
@@ -17885,7 +17885,7 @@ to_TO0
 let_VVB
 production_NN1
 levels_NN2
-fall_VVI
+fall_NN1
 As_CJS
 a_AT0
 result_NN1
@@ -17992,7 +17992,7 @@ Agrarian_AJ0
 reform_NN1
 programmes_NN2
 have_VHB
-differed_VVN-VVD
+differed_VVN
 in_PRP
 their_DPS
 emphasis_NN1
@@ -18127,7 +18127,7 @@ Alliance_NN1
 for_PRP
 Progress_NN1
 that_CJT
-stressed_VVD
+stressed_VVN
 social_AJ0
 justice_NN1
 the_AT0
@@ -18238,7 +18238,7 @@ of_PRF
 necessity_NN1
 it_PNP
 is_VBZ
-cultivated_AJ0
+cultivated_VVN
 more_AV0
 intensively_AV0
 see_VVI
@@ -18276,7 +18276,7 @@ had_VHD
 grown_VVN
 by_PRP
 an_AT0
-average_AJ0-NN1
+average_AJ0
 of_PRF
 2.7_CRD
 per_UNC
@@ -18334,7 +18334,7 @@ peasantry_NN1
 expanded_VVN
 at_PRP
 an_AT0
-average_AJ0-NN1
+average_AJ0
 annual_AJ0
 rate_NN1
 of_PRF
@@ -18402,7 +18402,7 @@ food_NN1
 production_NN1
 also_AV0
 means_NN0
-improved_AJ0
+improved_VVN
 incomes_NN2
 for_PRP
 farmers_NN2
@@ -18552,7 +18552,7 @@ mainly_AV0
 due_AJ0
 to_TO0
 the_AT0
-increased_AJ0
+increased_VVN
 consumption_NN1
 of_PRF
 processed_VVN
@@ -18571,7 +18571,7 @@ teeth_NN2
 but_CJC
 also_AV0
 reveals_VVZ
-increased_AJ0
+increased_VVN
 purchasing_VVG
 power_NN1
 The_AT0
@@ -18599,7 +18599,7 @@ be_VBI
 interpreted_VVN
 as_CJS
 a_AT0
-shift_NN1-VVB
+shift_NN1
 towards_PRP
 other_AJ0
 foodstuffs_NN2
@@ -18800,7 +18800,7 @@ the_AT0
 expansion_NN1
 of_PRF
 the_AT0
-cultivated_AJ0
+cultivated_VVN
 area_NN1
 with_PRP
 the_AT0
@@ -18847,7 +18847,7 @@ have_VHB
 been_VBN
 utilised_VVN
 to_TO0
-feed_VVI
+feed_NN1
 a_AT0
 domestic_AJ0
 market_NN1
@@ -18885,7 +18885,7 @@ oil_NN1
 seed_NN1
 meal_NN1
 and_CJC
-oil-cake_NN1-AJ0
+oil-cake_NN1
 cotton_NN1
 cocoa_NN1
 bananas_NN2
@@ -18918,7 +18918,7 @@ the_AT0
 region_NN1
 's_POS
 debts_NN2
-Agribusiness_NN1-NP0
+Agribusiness_NN1
 which_DTQ
 has_VHZ
 been_VBN
@@ -18955,7 +18955,7 @@ high_AJ0
 level_NN1
 of_PRF
 exports_NN2
-Agribusiness_NN1-NP0
+Agribusiness_NN1
 has_VHZ
 also_AV0
 found_VVD
@@ -18967,11 +18967,11 @@ the_AT0
 production_NN1
 of_PRF
 animal_NN1
-feed_VVI
+feed_NN1
 Much_DT0
 of_PRF
 the_AT0
-Colombian_AJ0-NN1
+Colombian_AJ0
 countryside_NN1
 has_VHZ
 been_VBN
@@ -18985,12 +18985,12 @@ soya_NN1
 and_CJC
 sorghum_NN1
 to_TO0
-feed_VVI
+feed_NN1
 chickens_NN2
 thus_AV0
 depriving_VVG
 the_AT0
-Colombian_AJ0-NN1
+Colombian_AJ0
 peasants_NN2
 in_PRP
 the_AT0
@@ -19003,7 +19003,7 @@ and_CJC
 contributing_VVG
 to_TO0
 the_AT0
-increased_AJ0
+increased_VVN
 protein_NN1
 deficit_NN1
 in_PRP
@@ -19020,7 +19020,7 @@ turned_VVD
 into_PRP
 fishmeal_NN1
 to_TO0
-feed_VVI
+feed_NN1
 chickens_NN2
 At_PRP
 the_AT0
@@ -19055,7 +19055,7 @@ and_CJC
 1980_CRD
 due_AJ0
 to_TO0
-increased_AJ0
+increased_VVN
 purchases_NN2
 of_PRF
 wheat_NN1
@@ -19418,7 +19418,7 @@ the_AT0
 form_NN1
 of_PRF
 machinery_NN1
-chemical_AJ0-NN1
+chemical_AJ0
 products_NN2
 and_CJC
 fertilisers_NN2
@@ -19445,7 +19445,7 @@ the_AT0
 produce_VVI
 of_PRF
 a_AT0
-cultivated_AJ0
+cultivated_VVN
 hectare_NN1
 but_CJC
 this_DT0
@@ -19520,7 +19520,7 @@ has_VHZ
 led_VVD
 to_TO0
 a_AT0
-Kulak_NP0-NN1
+Kulak_NP0
 path_NN1
 of_PRF
 development_NN1
@@ -19550,7 +19550,7 @@ are_VBB
 generally_AV0
 more_AV0
 socially_AV0
-advantaged_VVN-AJ0
+advantaged_VVN
 It_PNP
 encouraged_VVN
 the_AT0
@@ -19676,7 +19676,7 @@ needed_VVN
 to_TO0
 cultivate_VVI
 the_AT0
-high-yield_AJ0-NN1
+high-yield_AJ0
 grains_NN2
 successfully_AV0
 often_AV0
@@ -19715,7 +19715,7 @@ from_PRP
 a_AT0
 subsistence_NN1
 agriculture_NN1
-involved_AJ0
+involved_VVN
 the_AT0
 peasant_NN1
 in_PRP
@@ -19792,13 +19792,13 @@ was_VBD
 available_AJ0
 for_PRP
 the_AT0
-Colombian_AJ0-NN1
+Colombian_AJ0
 peasants_NN2
 interest_NN1
 rates_NN2
 were_VBD
 high_AJ0
-Rubbo_NP0-NN1
+Rubbo_NP0
 cites_VVZ
 the_AT0
 example_NN1
@@ -19842,7 +19842,7 @@ was_VBD
 unable_AJ0
 to_TO0
 pay_VVI
-Rubbo_NP0-NN1
+Rubbo_NP0
 1975_CRD
 The_AT0
 new_AJ0
@@ -19939,7 +19939,7 @@ Those_DT0
 who_PNQ
 benefited_VVN
 from_PRP
-improved_AJ0
+improved_VVN
 earnings_NN2
 however_AV0
 were_VBD
@@ -20105,7 +20105,7 @@ and_CJC
 so_AV0
 contributing_VVG
 to_TO0
-increased_AJ0
+increased_VVN
 income_NN1
 levels_NN2
 there_EX0
@@ -20418,7 +20418,7 @@ the_AT0
 form_NN1
 of_PRF
 free_AJ0
-improved_AJ0
+improved_VVN
 seeds_NN2
 cheap_AJ0
 fertiliser_NN1
@@ -20436,7 +20436,7 @@ with_PRP
 food_NN1
 distribution_NN1
 was_VBD
-improved_AJ0
+improved_VVN
 and_CJC
 expanded_VVN
 so_AV0
@@ -20504,7 +20504,7 @@ attack_NN1
 this_DT0
 problem_NN1
 a_AT0
-Recommended_AJ0-VVN
+Recommended_AJ0
 Basic_AJ0
 Food_NN1
 Basket_NN1
@@ -20720,7 +20720,7 @@ of_PRF
 priority_NN1
 foodstuffs_NN2
 the_AT0
-phasing_VVG-NN1
+phasing_NN1
 out_AVP
 of_PRF
 subsidies_NN2
@@ -20742,7 +20742,7 @@ increases_VVZ
 in_PRP
 the_AT0
 national_AJ0
-minimum_AJ0-NN1
+minimum_AJ0
 wage_NN1
 National_AJ0
 level_NN1
@@ -20754,7 +20754,7 @@ to_TO0
 the_AT0
 countryside_NN1
 have_VHB
-varied_AJ0
+varied_VVN
 across_PRP
 the_AT0
 region_NN1
@@ -20940,7 +20940,7 @@ well_AV0
 expressed_VVN
 by_PRP
 de_NP0
-Janvry_NP0-NN1
+Janvry_NP0
 and_CJC
 Ground_NN1
 when_CJS
@@ -20980,7 +20980,7 @@ in_PRP
 the_AT0
 countryside_NN1
 de_NP0
-Janvry_NP0-NN1
+Janvry_NP0
 and_CJC
 Ground_NN1
 1978_CRD
@@ -21038,7 +21038,7 @@ more_AV0
 radical_AJ0
 political_AJ0
 commitment_NN1
-Bossert_NP0-NN1
+Bossert_NP0
 found_VVD
 that_CJT
 the_AT0
@@ -21081,7 +21081,7 @@ potential_NN1
 of_PRF
 the_AT0
 peasantry_NN1
-Bossert_NP0-NN1
+Bossert_NP0
 1980_CRD
 The_AT0
 debate_NN1
@@ -21129,7 +21129,7 @@ bearer_NN1
 of_PRF
 tradition_NN1
 and_CJC
-wedded_VVN-AJ0
+wedded_VVN
 to_TO0
 the_AT0
 same_DT0
@@ -21211,7 +21211,7 @@ the_AT0
 successes_NN2
 of_PRF
 the_AT0
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 peasant_NN1
 leagues_NN2
 and_CJC
@@ -21243,7 +21243,7 @@ peasants_NN2
 but_CJC
 outsiders_NN2
 often_AV0
-Catholic_AJ0-NN1
+Catholic_AJ0
 priests_NN2
 or_CJC
 members_NN2
@@ -21261,7 +21261,7 @@ and_CJC
 the_AT0
 setting_VVG
 of_PRF
-minimum_AJ0-NN1
+minimum_AJ0
 wage_NN1
 levels_NN2
 were_VBD
@@ -21308,7 +21308,7 @@ they_PNP
 operated_VVN
 in_PRP
 a_AT0
-patron-client_AJ0-NN1
+patron-client_AJ0
 manner_NN1
 rather_AV0
 than_CJS
@@ -21326,7 +21326,7 @@ class_NN1
 struggle_NN1
 Galjart_NP0
 1964_CRD
-Contrasting_AJ0-VVG
+Contrasting_VVG
 views_NN2
 of_PRF
 the_AT0
@@ -21364,7 +21364,7 @@ some_DT0
 sectors_NN2
 of_PRF
 the_AT0
-Chilean_AJ0-NN1
+Chilean_AJ0
 peasantry_NN1
 These_DT0
 views_NN2
@@ -21598,7 +21598,7 @@ resolved_VVN
 by_PRP
 referring_VVG
 to_TO0
-concrete_AJ0-NN1
+concrete_AJ0
 situations_NN2
 Kay_NP0
 suggests_VVZ
@@ -21710,19 +21710,19 @@ modernising_VVG
 and_CJC
 becoming_VVG
 more_AV0
-capitalist_AJ0-NN1
+capitalist_AJ0
 In_PRP
 Morelos_NP0
 the_AT0
 landowners_NN2
 compelled_VVN
 by_PRP
-increased_AJ0
+increased_VVN
 competition_NN1
 and_CJC
 encouraged_VVN
 by_PRP
-improved_AJ0
+improved_VVN
 communications_NN2
 were_VBD
 expanding_AJ0
@@ -21733,7 +21733,7 @@ and_CJC
 in_PRP
 so_AV0
 doing_VDG
-encroaching_VVG
+encroaching_AJ0
 on_PRP
 peasant_NN1
 lands_NN2
@@ -21747,7 +21747,7 @@ the_AT0
 cotton_NN1
 areas_NN2
 of_PRF
-Durango_NP0-NN1
+Durango_NN1
 and_CJC
 sugar_NN1
 plantations_NN2
@@ -21884,7 +21884,7 @@ all_DT0
 doing_VDG
 the_AT0
 same_DT0
-labouring_VVG-AJ0
+labouring_AJ0
 job_NN1
 The_AT0
 colono_NN1
@@ -21935,7 +21935,7 @@ revolutionary_AJ0
 potential_NN1
 According_VVG
 to_TO0
-Shanin_NP0-NN1
+Shanin_NP0
 the_AT0
 peasantry_NN1
 in_PRP
@@ -21954,7 +21954,7 @@ of_PRF
 crisis_NN1
 this_DT0
 rises_VVZ
-Shanin_NP0-NN1
+Shanin_NP0
 1971_CRD
 This_DT0
 would_VM0
@@ -22024,7 +22024,7 @@ and_CJC
 one_CRD
 that_CJT
 is_VBZ
-diminishing_AJ0-VVG
+diminishing_AJ0
 But_CJC
 in_PRP
 Central_AJ0
@@ -22135,7 +22135,7 @@ for_PRP
 democratic_AJ0
 institutions_NN2
 and_CJC
-relative_AJ0-NN1
+relative_AJ0
 equality_NN1
 have_VHB
 been_VBN
@@ -22280,7 +22280,7 @@ extent_NN1
 and_CJC
 type_NN1
 of_PRF
-capitalist_AJ0-NN1
+capitalist_AJ0
 penetration_NN1
 existence_NN1
 and_CJC
@@ -22301,7 +22301,7 @@ The_AT0
 result_NN1
 is_VBZ
 a_AT0
-varied_AJ0
+varied_VVN
 picture_NN1
 with_PRP
 interlocking_AJ0
@@ -22337,7 +22337,7 @@ often_AV0
 been_VBN
 seen_VVN
 as_CJS
-competing_VVG-AJ0
+competing_AJ0
 rather_AV0
 than_CJS
 complementary_AJ0
@@ -22358,7 +22358,7 @@ shown_VVN
 that_CJT
 they_PNP
 can_VM0
-act_VVI
+act_NN1
 positively_AV0
 making_VVG
 the_AT0
@@ -22470,12 +22470,12 @@ has_VHZ
 not_XX0
 risen_VVN
 as_CJS
-fast_AV0-AJ0
+fast_AJ0
 as_CJS
 urban_AJ0
 populations_NN2
 have_VHB
-increased_AJ0
+increased_VVN
 Urban_AJ0
 population_NN1
 figures_NN2
@@ -22643,7 +22643,7 @@ Africa_NP0
 and_CJC
 Latin_AJ0
 America_NP0
-Hellman_NP0-NN1
+Hellman_NP0
 1986_CRD
 216_CRD
 From_PRP
@@ -22662,7 +22662,7 @@ rural_AJ0
 to_TO0
 urban_AJ0
 areas_NN2
-Hurtado_NP0-NN1
+Hurtado_NN1
 1986_CRD
 This_DT0
 rapid_AJ0
@@ -22883,7 +22883,7 @@ push_VVI
 being_VBG
 those_DT0
 that_CJT
-drive_VVI
+drive_NN1
 migrants_NN2
 from_PRP
 their_DPS
@@ -22896,7 +22896,7 @@ them_PNP
 to_TO0
 the_AT0
 city_NN1
-Push_VVB-NN1
+Push_VVB
 factors_NN2
 refer_VVI
 to_TO0
@@ -23163,7 +23163,7 @@ women_NN2
 In_PRP
 one_CRD
 rural_AJ0
-Argentine_AJ0-NN1
+Argentine_AJ0
 study_NN1
 the_AT0
 contribution_NN1
@@ -23201,7 +23201,7 @@ and_CJC
 Rodr\xc3\xadguez_NP0
 1982_CRD
 A_AT0
-Chilean_AJ0-NN1
+Chilean_AJ0
 study_NN1
 reveals_VVZ
 that_CJT
@@ -23240,7 +23240,7 @@ and_CJC
 Laquia_NP0
 predominantly_AV0
 male_AJ0
-ISS-PREALC_NP0-NN1
+ISS-PREALC_NN1
 1983_CRD
 There_EX0
 men_NN2
@@ -23307,7 +23307,7 @@ such_DT0
 a_AT0
 numerous_AJ0
 and_CJC
-varied_AJ0
+varied_VVN
 section_NN1
 of_PRF
 the_AT0
@@ -23347,7 +23347,7 @@ with_PRP
 the_AT0
 exception_NN1
 of_PRF
-Ancash_NP0-NN1
+Ancash_NP0
 migrants_NN2
 come_VVI
 from_PRP
@@ -23455,8 +23455,8 @@ migrants_NN2
 to_TO0
 Lima_NP0
 were_VBD
-Ancash_NP0-NN1
-Jun\xc3\xadn_NP0-NN1
+Ancash_NP0
+Jun\xc3\xadn_NP0
 Ica_NP0
 La_NP0
 Libertad_NP0
@@ -23482,7 +23482,7 @@ with_PRP
 the_AT0
 exception_NN1
 of_PRF
-Ancash_NP0-NN1
+Ancash_NP0
 they_PNP
 also_AV0
 had_VHD
@@ -23504,7 +23504,7 @@ poorer_AJC
 regions_NN2
 such_DT0
 as_CJS
-Puno_NP0-NN1
+Puno_NP0
 in_PRP
 the_AT0
 south_NN1
@@ -23645,7 +23645,7 @@ of_PRF
 the_AT0
 migrants_NN2
 has_VHZ
-varied_AJ0
+varied_VVN
 from_PRP
 country_NN1
 to_TO0
@@ -23735,7 +23735,7 @@ in_PRP
 need_VVB
 of_PRF
 housing_NN1
-Hurtado_NP0-NN1
+Hurtado_NN1
 1986_CRD
 Since_CJS
 the_AT0
@@ -23818,7 +23818,7 @@ attractions_NN2
 of_PRF
 Ipanima_NP0
 and_CJC
-Copacabana_NP0-NN1
+Copacabana_NN1
 beaches_NN2
 Often_AV0
 referred_VVN
@@ -23841,13 +23841,13 @@ of_PRF
 many_DT0
 cities_NN2
 The_AT0
-self-built_AJ0-NN1
+self-built_AJ0
 homes_NN2
 of_PRF
 Mexico_NP0
 City_NN1
 have_VHB
-increased_AJ0
+increased_VVN
 from_PRP
 14_CRD
 per_UNC
@@ -23876,7 +23876,7 @@ and_CJC
 built-up_AJ0
 area_NN1
 today_AV0
-Hurtado_NP0-NN1
+Hurtado_NN1
 1986_CRD
 By_PRP
 1982_CRD
@@ -23899,7 +23899,7 @@ constructed_VVN
 and_CJC
 overcrowded_AJ0
 homes_NN2
-ISS-PREALC_NP0-NN1
+ISS-PREALC_NN1
 1983_CRD
 Each_DT0
 country_NN1
@@ -24068,11 +24068,11 @@ hand_NN1
 such_DT0
 as_CJS
 planks_NN2
-cardboard_NN1-AJ0
+cardboard_AJ0
 canvas_NN1
 thatch_NN1
 mud_NN1
-corregated_VVD-AJ0
+corregated_AJ0
 iron_NN1
 and_CJC
 often_AV0
@@ -24083,7 +24083,7 @@ are_VBB
 temporary_AJ0
 and_CJC
 often_AV0
-improved_AJ0
+improved_VVN
 upon_PRP
 at_PRP
 a_AT0
@@ -24297,7 +24297,7 @@ favelados_NN2
 the_AT0
 inhabitants_NN2
 of_PRF
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 shanty_NN1
 towns_NN2
 into_PRP
@@ -24318,7 +24318,7 @@ from_PRP
 those_DT0
 of_PRF
 the_AT0
-city-born_NN1-AJ0
+city-born_AJ0
 and_CJC
 though_CJS
 modified_VVN
@@ -24332,7 +24332,7 @@ situation_NN1
 still_AV0
 hinder_VVI
 a_AT0
-smooth-adaptation_NN1-AJ0
+smooth-adaptation_AJ0
 Bonilla_NP0
 1970_CRD
 Cultural_AJ0
@@ -24562,7 +24562,7 @@ main_AJ0
 difference_NN1
 between_PRP
 the_AT0
-integrated_AJ0
+integrated_VVN
 and_CJC
 the_AT0
 marginal_AJ0
@@ -24630,7 +24630,7 @@ rural_AJ0
 society_NN1
 but_CJC
 not_XX0
-integrated_AJ0
+integrated_VVN
 into_PRP
 either_AV0
 Marginality_NN1
@@ -24729,7 +24729,7 @@ than_CJS
 being_VBG
 outside_PRP
 it_PNP
-Perlman_NP0-NN1
+Perlman_NN1
 found_VVD
 the_AT0
 notion_NN1
@@ -24740,7 +24740,7 @@ be_VBI
 a_AT0
 myth_NN1
 in_PRP
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 favelas_NN2
 because_CJS
 the_AT0
@@ -24750,7 +24750,7 @@ from_PRP
 being_VBG
 peripheralised_VVN
 were_VBD
-involved_AJ0
+involved_VVN
 in_PRP
 urban_AJ0
 political_AJ0
@@ -24769,7 +24769,7 @@ city_NN1
 had_VHD
 to_TO0
 offer_VVI
-Perlman_NP0-NN1
+Perlman_NN1
 1976_CRD
 Many_DT0
 of_PRF
@@ -24861,7 +24861,7 @@ Turner_NP0
 thesis_NN1
 stresses_VVZ
 the_AT0
-self-help_AJ0-NN1
+self-help_AJ0
 that_CJT
 is_VBZ
 so_AV0
@@ -25135,7 +25135,7 @@ has_VHZ
 usually_AV0
 been_VBN
 through_PRP
-self-help_AJ0-NN1
+self-help_AJ0
 schemes_NN2
 the_AT0
 giving_VVG
@@ -25157,7 +25157,7 @@ were_VBD
 proposed_AJ0
 or_CJC
 completed_VVN
-self-help_AJ0-NN1
+self-help_AJ0
 schemes_NN2
 in_PRP
 27_CRD
@@ -25177,7 +25177,7 @@ world_NN1
 Bank_NP0
 Gilbert_NP0
 and_CJC
-Gugler_NP0-NN1
+Gugler_NN1
 1982_CRD
 Successive_AJ0
 governments_NN2
@@ -25213,8 +25213,8 @@ to_TO0
 raise_VVI
 standards_NN2
 through_PRP
-self-help_AJ0-NN1
-improved_AJ0
+self-help_AJ0
+improved_VVN
 many_DT0
 settlements_NN2
 by_PRP
@@ -25620,7 +25620,7 @@ and_CJC
 in_PRP
 particular_AJ0
 the_AT0
-capitalist_AJ0-NN1
+capitalist_AJ0
 mode_NN1
 of_PRF
 production_NN1
@@ -25688,7 +25688,7 @@ the_AT0
 wider_AJC
 society_NN1
 The_AT0
-initial_AJ0-NN1
+initial_AJ0
 founding_NN1
 of_PRF
 a_AT0
@@ -25698,7 +25698,7 @@ is_VBZ
 itself_PNX
 an_AT0
 illegal_AJ0
-act_VVI
+act_NN1
 and_CJC
 therefore_AV0
 a_AT0
@@ -25721,7 +25721,7 @@ sympathetic_AJ0
 approach_NN1
 through_PRP
 assisting_VVG
-self-help_AJ0-NN1
+self-help_AJ0
 schemes_NN2
 as_CJS
 in_PRP
@@ -25810,7 +25810,7 @@ radical_AJ0
 political_AJ0
 activity_NN1
 The_AT0
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 government_NN1
 has_VHZ
 tried_VVD
@@ -25960,7 +25960,7 @@ earning_VVG
 at_PRP
 least_AV0
 three_CRD
-minimum_AJ0-NN1
+minimum_AJ0
 salaries_NN2
 were_VBD
 acceptable_AJ0
@@ -25995,7 +25995,7 @@ payments_NN2
 which_DTQ
 are_VBB
 periodically_AV0
-increased_AJ0
+increased_VVN
 because_CJS
 of_PRF
 inflation_NN1
@@ -26047,7 +26047,7 @@ economy_NN1
 functioning_NN1
 Gilbert_NP0
 and_CJC
-Gugler_NP0-NN1
+Gugler_NN1
 1982_CRD
 113_CRD
 For_PRP
@@ -26137,7 +26137,7 @@ capital_NN1
 accumulation_NN1
 in_PRP
 the_AT0
-capitalist_AJ0-NN1
+capitalist_AJ0
 sector_NN1
 On_PRP
 a_AT0
@@ -26157,7 +26157,7 @@ satisfy_VVI
 some_DT0
 of_PRF
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 housing_NN1
 needs_VVZ
 of_PRF
@@ -26187,7 +26187,7 @@ opposition_NN1
 governments_NN2
 are_VBB
 not_XX0
-pressured_VVD
+pressured_VVN
 into_PRP
 more_AV0
 forceful_AJ0
@@ -26216,7 +26216,7 @@ were_VBD
 linked_VVN
 to_TO0
 the_AT0
-increased_AJ0
+increased_VVN
 strength_NN1
 of_PRF
 dependency_NN1
@@ -26436,7 +26436,7 @@ that_CJT
 includes_VVZ
 street_NN1
 selling_VVG
-shoe-shining_NN1-AJ0
+shoe-shining_AJ0
 refuse_VVI
 collecting_VVG
 for_PRP
@@ -26574,14 +26574,14 @@ seen_VVN
 as_CJS
 a_AT0
 phenomenon_NN1
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 underdevelopment_NN1
 but_CJC
 part_NN1
 of_PRF
 the_AT0
-capitalist_AJ0-NN1
+capitalist_AJ0
 division_NN1
 of_PRF
 labour_NN1
@@ -26718,7 +26718,7 @@ the_AT0
 term_NN1
 sub_NN1
 or_CJC
-proto-proletariat_AJ0-NN1
+proto-proletariat_NN1
 to_TO0
 mean_VVI
 that_CJT
@@ -26819,7 +26819,7 @@ work_NN1
 In_PRP
 order_NN1
 to_TO0
-shift_NN1-VVB
+shift_NN1
 the_AT0
 emphasis_NN1
 towards_PRP
@@ -26921,7 +26921,7 @@ of_PRF
 entry_NN1
 for_PRP
 all_DT0
-involved_AJ0
+involved_VVN
 unlike_PRP
 the_AT0
 formal_AJ0
@@ -26959,7 +26959,7 @@ in_PRP
 the_AT0
 formal_AJ0
 sector_NN1
-Linked_VVN-AJ0
+Linked_VVN
 to_TO0
 this_DT0
 is_VBZ
@@ -27004,7 +27004,7 @@ personal_AJ0
 factors_NN2
 of_PRF
 those_DT0
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 transaction_NN1
@@ -27046,7 +27046,7 @@ nature_NN1
 of_PRF
 the_AT0
 work_NN1
-involved_AJ0
+involved_VVN
 Street_NP0
 sellers_NN2
 of_PRF
@@ -27263,7 +27263,7 @@ refuse_VVI
 and_CJC
 bottles_NN2
 the_AT0
-living-in_NN1-AJ0
+living-in_NN1
 domestic_AJ0
 servants_NN2
 paid_VVN
@@ -27306,7 +27306,7 @@ basis_NN1
 Because_CJS
 of_PRF
 the_AT0
-varied_AJ0
+varied_VVN
 nature_NN1
 of_PRF
 this_DT0
@@ -27336,7 +27336,7 @@ Informal_AJ0
 sector_NN1
 implies_VVZ
 a_AT0
-dualist_NN1-AJ0
+dualist_NN1
 interpretation_NN1
 of_PRF
 the_AT0
@@ -27351,7 +27351,7 @@ between_PRP
 a_AT0
 formal_AJ0
 modern_AJ0
-capitalist_AJ0-NN1
+capitalist_AJ0
 sector_NN1
 in_PRP
 which_DTQ
@@ -27389,7 +27389,7 @@ of_PRF
 involvement_NN1
 with_PRP
 successful_AJ0
-capitalist_AJ0-NN1
+capitalist_AJ0
 enterprise_NN1
 and_CJC
 though_CJS
@@ -27471,7 +27471,7 @@ his_DPS
 own_DT0
 furniture_NN1
 business_NN1
-fall_VVI
+fall_NN1
 within_PRP
 the_AT0
 same_DT0
@@ -27565,7 +27565,7 @@ resource_NN1
 for_PRP
 that_CJT
 sector_NN1
-Moser_NN1-NP0
+Moser_NN1
 points_NN2
 out_AVP
 that_CJT
@@ -27590,7 +27590,7 @@ of_PRF
 petty_AJ0
 commodity_NN1
 production_NN1
-Moser_NN1-NP0
+Moser_NN1
 1978_CRD
 This_DT0
 allows_VVZ
@@ -27789,7 +27789,7 @@ emphasising_VVG
 the_AT0
 way_NN1
 that_CJT
-self-help_AJ0-NN1
+self-help_AJ0
 shelter_NN1
 houses_NN2
 the_AT0
@@ -27806,7 +27806,7 @@ capital_NN1
 accumulation_NN1
 more_AV0
 feasible_AJ0
-Quijano_NP0-NN1
+Quijano_NP0
 amongst_PRP
 others_NN2
 takes_VVZ
@@ -27836,7 +27836,7 @@ of_PRF
 production_NN1
 from_PRP
 the_AT0
-capitalist_AJ0-NN1
+capitalist_AJ0
 one_CRD
 but_CJC
 that_CJT
@@ -27851,14 +27851,14 @@ expanded_VVN
 reproduction_NN1
 of_PRF
 the_AT0
-capitalist_AJ0-NN1
+capitalist_AJ0
 mode_NN1
-Quijano_NP0-NN1
+Quijano_NP0
 1974_CRD
 The_AT0
 relationship_NN1
 between_PRP
-capitalist_AJ0-NN1
+capitalist_AJ0
 and_CJC
 non-capitalist_AJ0
 modes_NN2
@@ -27898,7 +27898,7 @@ the_AT0
 rubric_NN1
 of_PRF
 the_AT0
-capitalist_AJ0-NN1
+capitalist_AJ0
 mode_NN1
 In_PRP
 order_NN1
@@ -27974,7 +27974,7 @@ of_PRF
 garbage_NN1
 pickers_NN2
 in_PRP
-Cali_NP0-NN1
+Cali_NN1
 Colombia_NP0
 suggests_VVZ
 that_CJT
@@ -28042,7 +28042,7 @@ his_DPS
 work_NN1
 is_VBZ
 closely_AV0
-integrated_AJ0
+integrated_VVN
 into_PRP
 the_AT0
 modern_AJ0
@@ -28051,7 +28051,7 @@ The_AT0
 paper_NN1
 industry_NN1
 in_PRP
-Cali_NP0-NN1
+Cali_NN1
 has_VHZ
 two_CRD
 sources_NN2
@@ -28084,7 +28084,7 @@ poorer_AJC
 quality_NN1
 products_NN2
 In_PRP
-Cali_NP0-NN1
+Cali_NN1
 about_PRP
 25,000_CRD
 tons_NN2
@@ -28144,7 +28144,7 @@ the_AT0
 hands_NN2
 of_PRF
 the_AT0
-Mobil_NP0-NN1
+Mobil_NN1
 Oil_NN1
 Company_NN1
 Although_CJS
@@ -28246,7 +28246,7 @@ poorer_AJC
 residential_AJ0
 areas_NN2
 of_PRF
-Cali_NP0-NN1
+Cali_NN1
 so_AV0
 that_CJT
 they_PNP
@@ -28381,7 +28381,7 @@ and_CJC
 garbage_NN1
 pickers_NN2
 in_PRP
-Cali_NP0-NN1
+Cali_NN1
 This_DT0
 is_VBZ
 not_XX0
@@ -28433,7 +28433,7 @@ banks_NN2
 of_PRF
 the_AT0
 river_NN1
-Cauca_NP0-NN1
+Cauca_NN1
 They_PNP
 collect_VVI
 here_AV0
@@ -28542,7 +28542,7 @@ equivalent_AJ0
 to_TO0
 the_AT0
 government_NN1
-minimum_AJ0-NN1
+minimum_AJ0
 daily_AJ0
 wage_NN1
 in_PRP
@@ -28676,7 +28676,7 @@ receiving_VVG
 three_CRD
 times_NN2
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 wage_NN1
 To_TO0
 take_VVI
@@ -28732,7 +28732,7 @@ way_NN1
 labour_NN1
 is_VBZ
 kept_VVD
-fractionalised_AJ0-VVN
+fractionalised_AJ0
 The_AT0
 small_AJ0
 but_CJC
@@ -28835,7 +28835,7 @@ waste_NN1
 paper_NN1
 and_CJC
 in_PRP
-Cali_NP0-NN1
+Cali_NN1
 pulp_NN1
 can_VM0
 easily_AV0
@@ -29084,8 +29084,8 @@ four_CRD
 broad_AJ0
 and_CJC
 occasionally_AV0
-overlapping_VVG-AJ0
-ideal-type_AJ0-NN1
+overlapping_VVG
+ideal-type_NN1
 categories_NN2
 which_DTQ
 in_PRP
@@ -29283,7 +29283,7 @@ outworker_NN1
 is_VBZ
 paid_VVN
 the_AT0
-requisite_AJ0-NN1
+requisite_AJ0
 sum_NN1
 In_PRP
 this_DT0
@@ -29493,7 +29493,7 @@ who_PNQ
 make_VVI
 up_AVP
 or_CJC
-cook_VVI
+cook_NN1
 foodstuffs_NN2
 for_PRP
 sale_NN1
@@ -29679,7 +29679,7 @@ the_AT0
 initiation_NN1
 of_PRF
 the_AT0
-Chilean_AJ0-NN1
+Chilean_AJ0
 price_NN1
 index_NN1
 in_PRP
@@ -29782,7 +29782,7 @@ their_DPS
 position_NN1
 in_PRP
 the_AT0
-class-structure_NN1-AJ0
+class-structure_NN1
 they_PNP
 do_VDB
 not_XX0
@@ -29846,7 +29846,7 @@ the_AT0
 form_NN1
 of_PRF
 an_AT0
-increased_AJ0
+increased_VVN
 articulation_NN1
 between_PRP
 the_AT0
@@ -29892,7 +29892,7 @@ articulation_NN1
 will_VM0
 have_VHB
 two_CRD
-principal_AJ0-NN1
+principal_AJ0
 results_NN2
 Firstly_AV0
 the_AT0
@@ -29913,7 +29913,7 @@ sector_NN1
 activities_NN2
 such_DT0
 as_CJS
-subcontracting_VVG-NN1
+subcontracting_NN1
 will_VM0
 limit_NN1
 the_AT0
@@ -29932,13 +29932,13 @@ Secondly_AV0
 for_PRP
 a_AT0
 few_DT0
-increased_AJ0
+increased_VVN
 articulation_NN1
 will_VM0
 provide_VVI
 entrepreneurial_AJ0
 openings_NN2
-Gwynne_NN1-NP0
+Gwynne_NP0
 suggests_VVZ
 that_CJT
 this_DT0
@@ -29970,7 +29970,7 @@ the_AT0
 potential_NN1
 for_PRP
 growth_NN1
-Gwynne_NN1-NP0
+Gwynne_NP0
 1985_CRD
 He_PNP
 cites_VVZ
@@ -30083,7 +30083,7 @@ the_AT0
 formal_AJ0
 This_DT0
 close_AJ0
-interlinking_VVG
+interlinking_NN1
 of_PRF
 the_AT0
 sectors_NN2
@@ -30321,7 +30321,7 @@ informal_AJ0
 sector_NN1
 becomes_VVZ
 more_AV0
-entrenched_AJ0
+entrenched_VVN
 in_PRP
 Third_ORD
 World_NN1
@@ -30397,7 +30397,7 @@ several_DT0
 governments_NN2
 to_TO0
 support_NN1
-self-help_AJ0-NN1
+self-help_AJ0
 schemes_NN2
 demonstrates_VVZ
 the_AT0
@@ -30654,7 +30654,7 @@ of_PRF
 how_AVQ
 social_AJ0
 classes_NN2
-act_VVI
+act_NN1
 In_PRP
 the_AT0
 analysis_NN1
@@ -30853,7 +30853,7 @@ and_CJC
 wealth_NN1
 derived_VVN
 from_PRP
-capitalist_AJ0-NN1
+capitalist_AJ0
 investment_NN1
 The_AT0
 bureaucratic-technical_AJ0
@@ -30909,7 +30909,7 @@ and_CJC
 qualifications_NN2
 rather_AV0
 than_CJS
-capitalist_AJ0-NN1
+capitalist_AJ0
 ventures_NN2
 The_AT0
 formal_AJ0
@@ -31089,7 +31089,7 @@ dominant_AJ0
 and_CJC
 bureaucratic-technical_AJ0
 classes_NN2
-increased_AJ0
+increased_VVN
 their_DPS
 share_NN1
 of_PRF
@@ -31333,7 +31333,7 @@ per_UNC
 cent_UNC
 of_PRF
 the_AT0
-EAP_NN1-NP0
+EAP_NN1
 in_PRP
 any_DT0
 country_NN1
@@ -31411,7 +31411,7 @@ more_AV0
 than_CJS
 half_DT0
 the_AT0
-EAP_NN1-NP0
+EAP_NN1
 In_PRP
 Costa_NP0
 Rica_NP0
@@ -31440,7 +31440,7 @@ a_AT0
 quarter_NN1
 of_PRF
 the_AT0
-EAP_NN1-NP0
+EAP_NN1
 It_PNP
 is_VBZ
 worth_PRP
@@ -31453,7 +31453,7 @@ not_XX0
 far_AV0
 off_AVP
 the_AT0
-quarter-mark_NN1-AJ0
+quarter-mark_NN1
 with_PRP
 20.5_CRD
 per_UNC
@@ -31730,7 +31730,7 @@ line_NN1
 and_CJC
 being_VBG
 themselves_PNX
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 complexities_NN2
@@ -31862,7 +31862,7 @@ business_NN1
 and_CJC
 then_AV0
 may_VM0
-shift_NN1-VVB
+shift_NN1
 to_TO0
 employment_NN1
 with_PRP
@@ -32136,7 +32136,7 @@ capital_NN1
 and_CJC
 state_NN1
 capital_NN1
-Local_NN1-AJ0
+Local_AJ0
 capital_NN1
 is_VBZ
 not_XX0
@@ -32332,7 +32332,7 @@ but_CJC
 how_AVQ
 do_VDB
 they_PNP
-act_VVI
+act_NN1
 in_PRP
 this_DT0
 privileged_AJ0
@@ -32551,7 +32551,7 @@ bring_VVI
 about_PRP
 radical_AJ0
 change_NN1
-Entrepreneurship_NN1-NP0
+Entrepreneurship_NP0
 has_VHZ
 not_XX0
 been_VBN
@@ -32570,7 +32570,7 @@ have_VHB
 shown_VVN
 that_CJT
 successful_AJ0
-Chilean_AJ0-NN1
+Chilean_AJ0
 industrialists_NN2
 since_CJS
 the_AT0
@@ -32595,7 +32595,7 @@ Cubitt_NP0
 1972_CRD
 Research_NN1
 on_PRP
-Colombian_AJ0-NN1
+Colombian_AJ0
 entrepreneurs_NN2
 reveals_VVZ
 a_AT0
@@ -32654,7 +32654,7 @@ that_CJT
 social_AJ0
 mobility_NN1
 within_PRP
-Colombian_AJ0-NN1
+Colombian_AJ0
 society_NN1
 is_VBZ
 more_AV0
@@ -32704,7 +32704,7 @@ a_AT0
 quarter_NN1
 of_PRF
 the_AT0
-Argentine_AJ0-NN1
+Argentine_AJ0
 industrial_AJ0
 elite_NN1
 at_PRP
@@ -32734,7 +32734,7 @@ this_DT0
 lack_NN1
 of_PRF
 mobility_NN1
-lie_VVI
+lie_VVB
 in_PRP
 the_AT0
 international_AJ0
@@ -32924,7 +32924,7 @@ not_XX0
 produce_VVI
 the_AT0
 desired_AJ0
-trickle-down_AJ0-NN1
+trickle-down_AJ0
 effect_NN1
 Given_VVN
 their_DPS
@@ -32963,7 +32963,7 @@ industrialists_NN2
 and_CJC
 agrarian_AJ0
 interests_NN2
-Chilcote_NP0-NN1
+Chilcote_NN1
 and_CJC
 Edelstein_NP0
 1974_CRD
@@ -33024,9 +33024,9 @@ of_PRF
 living_VVG
 of_PRF
 urban_AJ0
-middle-sector_AJ0-NN1
+middle-sector_NN1
 groups_NN2
-Chilean_AJ0-NN1
+Chilean_AJ0
 social_AJ0
 structure_NN1
 has_VHZ
@@ -33106,7 +33106,7 @@ that_CJT
 as_CJS
 a_AT0
 result_NN1
-Chilean_AJ0-NN1
+Chilean_AJ0
 industrialists_NN2
 have_VHB
 not_XX0
@@ -33210,7 +33210,7 @@ Latin_AJ0
 America_NP0
 but_CJC
 why_AVQ
-Chilcote_NP0-NN1
+Chilcote_NN1
 and_CJC
 Edelstein_NP0
 argue_VVI
@@ -33279,7 +33279,7 @@ reaction_NN1
 to_TO0
 a_AT0
 crisis_NN1
-Chilcote_NP0-NN1
+Chilcote_NN1
 and_CJC
 Edelstein_NP0
 1974_CRD
@@ -33365,7 +33365,7 @@ the_AT0
 same_DT0
 phase_NN1
 of_PRF
-saving_NN1
+saving_VVG
 and_CJC
 investment_NN1
 as_CJS
@@ -33487,7 +33487,7 @@ a_AT0
 grand_AJ0
 scale_NN1
 or_CJC
-act_VVI
+act_NN1
 in_PRP
 the_AT0
 heroic_AJ0
@@ -33520,7 +33520,7 @@ progressive_AJ0
 as_CJS
 it_PNP
 is_VBZ
-nationalist_AJ0-NN1
+nationalist_AJ0
 and_CJC
 developmentalist_NN1
 This_DT0
@@ -33645,7 +33645,7 @@ progress_NN1
 this_DT0
 does_VDZ
 not_XX0
-present_AJ0-NN1
+present_AJ0
 a_AT0
 problem_NN1
 for_PRP
@@ -34317,7 +34317,7 @@ foreign_AJ0
 firms_NN2
 which_DTQ
 as_CJS
-Roxborough_NP0-NN1
+Roxborough_NP0
 points_NN2
 out_AVP
 is_VBZ
@@ -34327,7 +34327,7 @@ Lenin_NP0
 's_POS
 original_AJ0
 meaning_NN1
-Roxborough_NP0-NN1
+Roxborough_NP0
 1979_CRD
 The_AT0
 implication_NN1
@@ -34427,7 +34427,7 @@ on_PRP
 workers_NN2
 in_PRP
 the_AT0
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 motor_NN1
 industry_NN1
 in_PRP
@@ -34494,7 +34494,7 @@ when_CJS
 car_NN1
 workers_NN2
 were_VBD
-involved_AJ0
+involved_VVN
 in_PRP
 revolutionary_AJ0
 unionism_NN1
@@ -34516,7 +34516,7 @@ independent_AJ0
 unions_NN2
 In_PRP
 the_AT0
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 situation_NN1
 it_PNP
 was_VBD
@@ -34628,7 +34628,7 @@ the_AT0
 state_NN1
 was_VBD
 closely_AV0
-involved_AJ0
+involved_VVN
 with_PRP
 their_DPS
 employers_NN2
@@ -34669,7 +34669,7 @@ of_PRF
 the_AT0
 working_VVG
 class_NN1
-Support_NN1-VVB
+Support_NN1
 can_VM0
 be_VBI
 seen_VVN
@@ -34934,7 +34934,7 @@ the_AT0
 debate_NN1
 over_PRP
 the_AT0
-radical/conservative_AJ0-NN1
+radical/conservative_NN1
 nature_NN1
 of_PRF
 the_AT0
@@ -35069,7 +35069,7 @@ the_AT0
 union_NN1
 movement_NN1
 having_VHG
-spread_NN1
+spread_VVN
 to_TO0
 white-collar_AJ0
 workers_NN2
@@ -35212,7 +35212,7 @@ from_PRP
 1930_CRD
 to_TO0
 the_AT0
-present_AJ0-NN1
+present_AJ0
 day_NN1
 the_AT0
 cooptive_AJ0
@@ -35363,7 +35363,7 @@ unions_NN2
 legal_AJ0
 distinctions_NN2
 between_PRP
-white-_NN1-AJ0
+white-_NN1
 and_CJC
 blue-collar_AJ0
 workers_NN2
@@ -35394,7 +35394,7 @@ the_AT0
 introduction_NN1
 of_PRF
 highly_AV0
-technologised_AJ0-VVN
+technologised_VVN
 industry_NN1
 leading_AJ0
 to_TO0
@@ -35635,7 +35635,7 @@ developed_VVN
 into_PRP
 a_AT0
 fully_AV0
-fledged_AJ0-VVD
+fledged_AJ0
 class_NN1
 for_PRP
 itself_PNX
@@ -35691,7 +35691,7 @@ manoeuvring_VVG
 is_VBZ
 based_VVN
 on_PRP
-clientelist_NN1-AJ0
+clientelist_NN1
 relationships_NN2
 rather_AV0
 than_CJS
@@ -35765,7 +35765,7 @@ the_AT0
 labour_NN1
 movement_NN1
 is_VBZ
-integrated_AJ0
+integrated_VVN
 into_PRP
 the_AT0
 organisation_NN1
@@ -35813,7 +35813,7 @@ CTM_NP0
 the_AT0
 main_AJ0
 confederation_NN1
-uniting_VVG-AJ0
+uniting_VVG
 Mexican_AJ0
 unions_NN2
 predominates_VVZ
@@ -35824,7 +35824,7 @@ a_AT0
 complex_AJ0
 organisation_NN1
 of_PRF
-state-wide_AJ0-AV0
+state-wide_AJ0
 regional_AJ0
 and_CJC
 local_AJ0
@@ -35863,7 +35863,7 @@ of_PRF
 labour_NN1
 with_PRP
 the_AT0
-ruling_AJ0-NN1
+ruling_NN1
 party_NN1
 means_NN0
 that_CJT
@@ -36167,7 +36167,7 @@ with_PRP
 the_AT0
 workers_NN2
 through_PRP
-clientelist_NN1-AJ0
+clientelist_NN1
 relationships_NN2
 can_VM0
 be_VBI
@@ -36194,7 +36194,7 @@ that_CJT
 these_DT0
 follow_VVI
 the_AT0
-presidential-type_AJ0-NN1
+presidential-type_AJ0
 policy_NN1
 of_PRF
 the_AT0
@@ -36312,7 +36312,7 @@ class_NN1
 consciousness_NN1
 Gonzalez-Casanova_NP0
 1968_CRD
-Roxborough_NP0-NN1
+Roxborough_NP0
 criticises_VVZ
 the_AT0
 standard_NN1
@@ -36336,7 +36336,7 @@ the_AT0
 rank_NN1
 and_CJC
 file_NN1
-Roxborough_NP0-NN1
+Roxborough_NP0
 1984_CRD
 He_PNP
 argues_VVZ
@@ -36348,7 +36348,7 @@ this_DT0
 control_NN1
 has_VHZ
 been_VBN
-exaggerated_AJ0
+exaggerated_VVN
 and_CJC
 as_CJS
 evidence_NN1
@@ -36425,7 +36425,7 @@ be_VBI
 used_VVN
 against_PRP
 a_AT0
-capitalist_AJ0-NN1
+capitalist_AJ0
 state_NN1
 but_CJC
 nor_CJC
@@ -36437,7 +36437,7 @@ supporting_VVG
 the_AT0
 status_NN1
 quo_UNC
-Roxborough_NP0-NN1
+Roxborough_NP0
 believes_VVZ
 it_PNP
 unrealistic_AJ0
@@ -36470,7 +36470,7 @@ will_VM0
 become_VVI
 more_AV0
 militant_AJ0
-Roxborough_NP0-NN1
+Roxborough_NP0
 1984_CRD
 From_PRP
 the_AT0
@@ -36513,7 +36513,7 @@ return_NN1
 favours_VVZ
 such_DT0
 as_CJS
-improved_AJ0
+improved_VVN
 wages_NN2
 or_CJC
 working_VVG
@@ -36622,14 +36622,14 @@ support_NN1
 on_PRP
 which_DTQ
 he_PNP
-depended_VVN-VVD
+depended_VVD
 Although_CJS
 these_DT0
 mechanisms_NN2
 may_VM0
 provide_VVI
 short-term_AJ0
-micro-level_AJ0-NN1
+micro-level_AJ0
 benefits_NN2
 they_PNP
 do_VDB
@@ -36672,7 +36672,7 @@ through_PRP
 militant_AJ0
 industrial_AJ0
 action_NN1
-Contrasting_AJ0-VVG
+Contrasting_VVG
 views_NN2
 based_VVN
 on_PRP
@@ -36721,7 +36721,7 @@ are_VBB
 conscious_AJ0
 of_PRF
 this_DT0
-Bargaining_VVG-NN1
+Bargaining_NN1
 however_AV0
 tends_VVZ
 to_TO0
@@ -36769,7 +36769,7 @@ than_CJS
 being_VBG
 viewed_VVN
 antagonistically_AV0
-Argentine_AJ0-NN1
+Argentine_AJ0
 unions_NN2
 which_DTQ
 were_VBD
@@ -36866,7 +36866,7 @@ tin_NN1
 miners_NN2
 and_CJC
 the_AT0
-Chilean_AJ0-NN1
+Chilean_AJ0
 unions_NN2
 have_VHB
 demonstrated_VVN
@@ -36986,7 +36986,7 @@ into_PRP
 three_CRD
 sectors_NN2
 the_AT0
-social-property_AJ0-NN1
+social-property_NN1
 sector_NN1
 made_VVN
 up_AVP
@@ -36999,11 +36999,11 @@ to_TO0
 be_VBI
 expropriated_VVN
 the_AT0
-private-property_AJ0-NN1
+private-property_AJ0
 sector_NN1
 and_CJC
 the_AT0
-mixed-property_AJ0-NN1
+mixed-property_AJ0
 sector_NN1
 made_VVN
 up_AVP
@@ -37023,7 +37023,7 @@ private_AJ0
 individuals_NN2
 The_AT0
 workers_NN2
-wanting_VVG-AJ0
+wanting_VVG
 participation_NN1
 in_PRP
 management_NN1
@@ -37059,7 +37059,7 @@ in_PRP
 the_AT0
 social_AJ0
 and_CJC
-mixed_AJ0
+mixed_VVN
 sectors_NN2
 of_PRF
 the_AT0
@@ -37147,7 +37147,7 @@ notable_AJ0
 achievement_NN1
 but_CJC
 the_AT0
-Chilean_AJ0-NN1
+Chilean_AJ0
 proletariat_NN1
 went_VVD
 further_AJC
@@ -37239,7 +37239,7 @@ when_CJS
 they_PNP
 found_VVD
 themselves_PNX
-shut_VVB
+shut_VVN
 out_AVP
 by_PRP
 the_AT0
@@ -37370,7 +37370,7 @@ committed_VVN
 to_TO0
 a_AT0
 strong_AJ0
-social-property_AJ0-NN1
+social-property_NN1
 sector_NN1
 the_AT0
 government_NN1
@@ -37464,7 +37464,7 @@ for_PRP
 opposing_AJ0
 him_PNP
 The_AT0
-Chilean_AJ0-NN1
+Chilean_AJ0
 case_NN1
 shows_VVZ
 that_CJT
@@ -37497,7 +37497,7 @@ were_VBD
 highly_AV0
 organised_VVN
 and_CJC
-ideologised_AJ0-VVD
+ideologised_AJ0
 and_CJC
 prompted_VVD
 by_PRP
@@ -37587,7 +37587,7 @@ as_CJS
 whole_AJ0
 and_CJC
 the_AT0
-concrete_AJ0-NN1
+concrete_AJ0
 possibilities_NN2
 which_DTQ
 exist_VVI
@@ -37604,7 +37604,7 @@ kinds_NN2
 of_PRF
 class_NN1
 alliances_NN2
-Roxborough_NP0-NN1
+Roxborough_NP0
 1979_CRD
 82_CRD
 this_DT0
@@ -37621,7 +37621,7 @@ whose_DTQ
 political_AJ0
 stance_NN1
 has_VHZ
-varied_AJ0
+varied_VVN
 across_PRP
 the_AT0
 region_NN1
@@ -37635,7 +37635,7 @@ lends_VVZ
 support_NN1
 to_TO0
 the_AT0
-spalding_AJ0-NN1
+spalding_AJ0
 view_NN1
 while_CJS
 the_AT0
@@ -37660,7 +37660,7 @@ relate_VVI
 only_AV0
 to_TO0
 the_AT0
-Brazilian_AJ0-NN1
+Brazilian_AJ0
 auto_NN1
 workers_NN2
 under_PRP
@@ -37683,7 +37683,7 @@ working_VVG
 class_NN1
 has_VHZ
 been_VBN
-involved_AJ0
+involved_VVN
 in_PRP
 class_NN1
 alliances_NN2
@@ -37794,7 +37794,7 @@ the_AT0
 dominant_AJ0
 class_NN1
 who_PNQ
-hire_VVI
+hire_NN1
 workers_NN2
 through_PRP
 contractual_AJ0
@@ -37871,7 +37871,7 @@ lend_VVI
 itself_PNX
 to_TO0
 the_AT0
-gathering_NN1
+gathering_VVG
 of_PRF
 statistic_NN1
 but_CJC
@@ -37902,7 +37902,7 @@ there_EX0
 has_VHZ
 been_VBN
 a_AT0
-shift_NN1-VVB
+shift_NN1
 from_PRP
 the_AT0
 rural_AJ0
@@ -37976,7 +37976,7 @@ threatening_VVG
 the_AT0
 status_NN1
 quo_UNC
-Land_NP0-NN1
+Land_NN1
 invasions_NN2
 are_VBB
 a_AT0
@@ -37993,7 +37993,7 @@ the_AT0
 part_NN1
 of_PRF
 those_DT0
-involved_AJ0
+involved_VVN
 But_CJC
 in_PRP
 most_AV0
@@ -38036,7 +38036,7 @@ the_AT0
 case_NN1
 of_PRF
 the_AT0
-Chilean_AJ0-NN1
+Chilean_AJ0
 urban_AJ0
 poor_AJ0
 before_PRP
@@ -38121,7 +38121,7 @@ arisen_VVN
 out_AVP
 of_PRF
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 failure_NN1
 of_PRF
 other_AJ0
@@ -38667,9 +38667,9 @@ relatively_AV0
 successful_AJ0
 is_VBZ
 the_AT0
-Cost_VVB-NN1
+Cost_NN1
 of_PRF
-Living_VVG-NN1
+Living_VVG
 Movement_NN1
 MCV_CRD
 in_PRP
@@ -38763,7 +38763,7 @@ which_DTQ
 showed_VVD
 that_CJT
 the_AT0
-average_AJ0-NN1
+average_AJ0
 worker_NN1
 in_PRP
 that_CJT
@@ -38776,7 +38776,7 @@ one_CRD
 and_CJC
 a_AT0
 half_DT0
-minimum_AJ0-NN1
+minimum_AJ0
 salaries_NN2
 which_DTQ
 was_VBD
@@ -38861,7 +38861,7 @@ city_NN1
 Gradually_AV0
 the_AT0
 movement_NN1
-spread_NN1
+spread_VVN
 until_CJS
 by_PRP
 1978_CRD
@@ -38960,7 +38960,7 @@ of_PRF
 this_DT0
 type_NN1
 has_VHZ
-spread_NN1
+spread_VVN
 as_CJS
 the_AT0
 MCV_CRD
@@ -39107,7 +39107,7 @@ national_AJ0
 level_NN1
 How_AVQ
 much_DT0
-notice_VVI
+notice_NN1
 the_AT0
 authorities_NN2
 will_VM0
@@ -39188,7 +39188,7 @@ nature_NN1
 resulting_VVG
 from_PRP
 peripheral_AJ0
-capitalist_AJ0-NN1
+capitalist_AJ0
 development_NN1
 have_VHB
 not_XX0
@@ -39209,11 +39209,11 @@ bourgeoisie_NN1
 Becker_NP0
 1983_CRD
 and_CJC
-Roxborough_NP0-NN1
+Roxborough_NP0
 for_PRP
 the_AT0
 proletariat_NN1
-Roxborough_NP0-NN1
+Roxborough_NP0
 1984_CRD
 it_PNP
 is_VBZ

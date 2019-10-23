@@ -57,7 +57,7 @@ chink_NN1
 in_PRP
 this_DT0
 otherwise_AV0
-disarming_VVG-AJ0
+disarming_AJ0
 argument_NN1
 is_VBZ
 that_CJT
@@ -805,7 +805,7 @@ and_CJC
 just_AV0
 is_VBZ
 still_AV0
-awaited_VVD
+awaited_VVN
 Since_CJS
 the_AT0
 case_NN1
@@ -883,7 +883,7 @@ problem_NN1
 What_DTQ
 are_VBB
 equally_AV0
-challenging_VVG-AJ0
+challenging_VVG
 and_CJC
 will_VM0
 be_VBI
@@ -1368,7 +1368,7 @@ psychological_AJ0
 conditions_NN2
 which_DTQ
 demonstrate_VVI
-varying_AJ0-VVG
+varying_AJ0
 degrees_NN2
 of_PRF
 ambivalence_NN1
@@ -1508,7 +1508,7 @@ natural_AJ0
 mistake_NN1
 What_DTQ
 is_VBZ
-involved_AJ0
+involved_VVN
 here_AV0
 is_VBZ
 in_PRP
@@ -1924,7 +1924,7 @@ problematical_AJ0
 The_AT0
 situation_NN1
 at_PRP
-present_AJ0-NN1
+present_AJ0
 is_VBZ
 still_AV0
 that_CJT
@@ -1988,7 +1988,7 @@ that_CJT
 the_AT0
 surgeon_NN1
 's_POS
-act_VVI
+act_NN1
 carries_VVZ
 liability_NN1
 only_AV0
@@ -2090,7 +2090,7 @@ also_AV0
 because_CJS
 of_PRF
 the_AT0
-supervening_AJ0-NN1
+supervening_NN1
 anxiety_NN1
 which_DTQ
 operates_VVZ
@@ -2218,7 +2218,7 @@ to_TO0
 understand_VVI
 what_DTQ
 is_VBZ
-involved_AJ0
+involved_VVN
 in_PRP
 surgery_NN1
 and_CJC
@@ -2279,7 +2279,7 @@ show_VVI
 that_CJT
 apart_AV0
 from_PRP
-consenting_VVG-AJ0
+consenting_AJ0
 the_AT0
 patient_NN1
 was_VBD
@@ -2291,7 +2291,7 @@ in_PRP
 a_AT0
 context_NN1
 where_AVQ
-specialist_NN1-AJ0
+specialist_NN1
 medical_AJ0
 and_CJC
 psychiatric_AJ0
@@ -3019,7 +3019,7 @@ of_PRF
 all_DT0
 the_AT0
 criteria_NN2
-involved_AJ0
+involved_VVN
 the_AT0
 crucial_AJ0
 ones_NN2
@@ -3179,7 +3179,7 @@ scale_NN1
 for_PRP
 weighing_VVG
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 importance_NN1
 of_PRF
 solely_AV0
@@ -3337,7 +3337,7 @@ when_CJS
 superstition_NN1
 was_VBD
 a_AT0
-substitute_NN1-AJ0
+substitute_NN1
 for_PRP
 knowledge_NN1
 Attention_NN1
@@ -3398,10 +3398,10 @@ this_DT0
 determination_NN1
 is_VBZ
 a_AT0
-stultifying_NN1-AJ0
+stultifying_AJ0
 even_AV0
 a_AT0
-discrediting_NN1-AJ0
+discrediting_NN1
 exercise_NN1
 This_DT0
 is_VBZ
@@ -3566,7 +3566,7 @@ was_VBD
 only_AV0
 one_CRD
 factor_NN1
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 legal_AJ0
@@ -3825,7 +3825,7 @@ type_NN1
 of_PRF
 legal_AJ0
 relationship_NN1
-closed_VVD
+closed_VVN
 to_TO0
 her_DPS
 is_VBZ
@@ -4003,7 +4003,7 @@ conviction_NN1
 for_PRP
 soliciting_VVG
 or_CJC
-importuning_VVG-NN1
+importuning_VVG
 as_CJS
 the_AT0
 case_NN1
@@ -4324,7 +4324,7 @@ This_DT0
 is_VBZ
 a_AT0
 transparently_AV0
-essentialist_NN1-AJ0
+essentialist_AJ0
 approach_NN1
 Ormrod_NP0
 J._NP0
@@ -4341,7 +4341,7 @@ relationship_NN1
 between_PRP
 man_NN1
 and_CJC
-woman'_VVB-NN1
+woman'_NN1
 but_CJC
 to_TO0
 meet_VVI
@@ -4735,7 +4735,7 @@ decision_NN1
 in_PRP
 Corbett_NP0
 Its_DPS
-principal_AJ0-NN1
+principal_AJ0
 avowed_AJ0
 aim_NN1
 was_VBD
@@ -4893,7 +4893,7 @@ female_AJ0
 This_DT0
 would_VM0
 have_VHB
-involved_AJ0
+involved_VVN
 giving_VVG
 the_AT0
 criterion_NN1
@@ -4979,7 +4979,7 @@ should_VM0
 therefore_AV0
 either_AV0
 be_VBI
-repealed_VVN
+repealed_VVD
 or_CJC
 be_VBI
 given_VVN
@@ -4993,7 +4993,7 @@ outlined_VVN
 above_PRP
 Immediately_AV0
 problems_NN2
-present_AJ0-NN1
+present_AJ0
 themselves_PNX
 to_TO0
 the_AT0
@@ -5039,14 +5039,14 @@ an_AT0
 operated_VVN
 transsexual_AJ0
 a_AT0
-marriage'_NN1-AJ0
+marriage'_AJ0
 The_AT0
 question_NN1
 as_CJS
 to_TO0
 what_DTQ
 is_VBZ
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 marriage_NN1
@@ -5099,7 +5099,7 @@ wealth_NN1
 and_CJC
 power_NN1
 by_PRP
-uniting_VVG-AJ0
+uniting_VVG
 partners_NN2
 with_PRP
 these_DT0
@@ -5440,7 +5440,7 @@ for_PRP
 the_AT0
 partners_NN2
 This_DT0
-overall_AJ0-NN1
+overall_AJ0
 picture_NN1
 of_PRF
 the_AT0
@@ -5523,7 +5523,7 @@ the_AT0
 advent_NN1
 of_PRF
 reliable_AJ0
-birth-control_AJ0-NN1
+birth-control_NN1
 devices_NN2
 robbed_VVN
 the_AT0
@@ -5728,7 +5728,7 @@ as_CJS
 stable_AJ0
 as_CJS
 the_AT0
-average_AJ0-NN1
+average_AJ0
 normal_AJ0
 modern_AJ0
 marriage_NN1
@@ -6535,7 +6535,7 @@ ancillary_AJ0
 relief_NN1
 received_VVD
 short_AJ0
-shrift_NN1-VVB
+shrift_VVB
 It_PNP
 would_VM0
 also_AV0
@@ -6775,7 +6775,7 @@ as_CJS
 possible_AJ0
 from_PRP
 the_AT0
-prying_VVG-AJ0
+prying_AJ0
 eyes_NN2
 of_PRF
 scandalmongers_NN2
@@ -6850,7 +6850,7 @@ protesting_VVG
 reader_NN1
 who_PNQ
 may_VM0
-feel_VVI
+feel_VVB
 that_CJT
 this_DT0
 spurious_AJ0
@@ -6910,7 +6910,7 @@ a_AT0
 prerequisite_NN1
 for_PRP
 the_AT0
-issuing_VVG-AJ0
+issuing_VVG
 of_PRF
 a_AT0
 marriage_NN1
@@ -7087,7 +7087,7 @@ henceforth_AV0
 be_VBI
 established_VVN
 between_PRP
-consenting_VVG-AJ0
+consenting_AJ0
 adults_NN2
 so_AV0
 that_CJT
@@ -7234,7 +7234,7 @@ very_AV0
 special_AJ0
 connotations_NN2
 inextricably_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 marriage_NN1
@@ -7243,7 +7243,7 @@ of_PRF
 two_CRD
 people_NN0
 who_PNQ
-feel_VVI
+feel_VVB
 strongly_AV0
 for_PRP
 each_DT0
@@ -7371,7 +7371,7 @@ intrinsic_AJ0
 quality_NN1
 of_PRF
 bisexuality_NN1
-Granted_VVN-VVD
+Granted_VVN
 hypothetically_AV0
 that_CJT
 it_PNP
@@ -7418,7 +7418,7 @@ fallen_VVN
 victim_NN1
 of_PRF
 an_AT0
-essentialist_NN1-AJ0
+essentialist_AJ0
 fallacy_NN1
 is_VBZ
 he_PNP
@@ -7450,11 +7450,11 @@ guilty_AJ0
 of_PRF
 the_AT0
 same_DT0
-essentialist_NN1-AJ0
+essentialist_AJ0
 fallacy_NN1
 if_CJS
 I_PNP
-tear_NN1-VVB
+tear_NN1
 down_AVP
 Ormrod_NP0
 J._NP0
@@ -7465,7 +7465,7 @@ to_TO0
 erect_AJ0
 my_DPS
 own_DT0
-property-based_AJ0-NN1
+property-based_AJ0
 essence_NN1
 which_DTQ
 conveniently_AV0
@@ -7564,7 +7564,7 @@ in_PRP
 this_DT0
 regard_VVI
 simply_AV0
-challenging_VVG-AJ0
+challenging_VVG
 received_VVD
 wisdom_NN1
 as_CJS
@@ -7688,7 +7688,7 @@ and_CJC
 feeling_NN1
 is_VBZ
 as_CJS
-present_AJ0-NN1
+present_AJ0
 between_PRP
 homosexual_AJ0
 as_CJS
@@ -7837,7 +7837,7 @@ acceptance_NN1
 and_CJC
 tolerance_NN1
 of_PRF
-varied_AJ0
+varied_VVN
 social_AJ0
 and_CJC
 sexual_AJ0
@@ -7990,7 +7990,7 @@ worthy_AJ0
 of_PRF
 condemnation_NN1
 Introduce_VVB
-intellectual_AJ0-NN1
+intellectual_AJ0
 reasoning_NN1
 and_CJC
 of_PRF
@@ -8010,7 +8010,7 @@ and_CJC
 multiply_VVB
 A_AT0
 small_AJ0
-aberrant_AJ0-NN1
+aberrant_AJ0
 group_NN1
 endangers_VVZ
 no_AT0
@@ -8161,7 +8161,7 @@ follow_VVI
 countless_AJ0
 problems_NN2
 in_PRP
-rewriting_NN1-VVG
+rewriting_NN1
 the_AT0
 law_NN1
 related_VVN
@@ -8252,7 +8252,7 @@ suitability_NN1
 of_PRF
 the_AT0
 couple_NN1
-involved_AJ0
+involved_VVN
 As_CJS
 a_AT0
 matter_NN1
@@ -8283,7 +8283,7 @@ transsexual_AJ0
 The_AT0
 transsexual_AJ0
 once_AV0
-stabilized_VVD-VVN
+stabilized_VVN
 in_PRP
 the_AT0
 role_NN1
@@ -8647,12 +8647,12 @@ law_NN1
 relating_VVG
 to_TO0
 adultery_NN1
-Notwithstanding_PRP-CJS
+Notwithstanding_PRP
 the_AT0
 passage_NN1
 of_PRF
 the_AT0
-Divorce_VVB-NN1
+Divorce_NN1
 Reform_NN1
 Act_NN1
 1969_CRD
@@ -8749,7 +8749,7 @@ as_CJS
 marriages_NN2
 In_PRP
 its_DPS
-present_AJ0-NN1
+present_AJ0
 form_NN1
 it_PNP
 would_VM0
@@ -8890,7 +8890,7 @@ connotation_NN1
 where_AVQ
 homosexuals_NN2
 were_VBD
-involved_AJ0
+involved_VVN
 A_AT0
 second_ORD
 solution_NN1
@@ -8973,7 +8973,7 @@ deeper_AJC
 issues_NN2
 of_PRF
 justice_NN1
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 case_NN1
@@ -9214,7 +9214,7 @@ it_PNP
 has_VHZ
 become_VVI
 an_AT0
-act_VVI
+act_NN1
 of_PRF
 sexual_AJ0
 conduct_NN1
@@ -9487,7 +9487,7 @@ Causes_NN2
 Act_NN1
 1973_CRD
 which_DTQ
-repealed_VVN
+repealed_VVD
 and_CJC
 reproduced_VVN
 the_AT0
@@ -9594,14 +9594,14 @@ been_VBN
 one_CRD
 case_NN1
 in_PRP
-English_AJ0-NN1
+English_AJ0
 law_NN1
 worth_PRP
 noting_VVG
 In_PRP
 R._NP0
 v._PRP
-Tan_NN1-AJ0
+Tan_NN1
 one_CRD
 Gloria_NP0
 Greaves_NP0
@@ -9839,7 +9839,7 @@ RLR_NP0
 121_CRD
 and_CJC
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 age_NN1
 for_PRP
 retirement_NN1
@@ -9961,7 +9961,7 @@ wished_VVD
 to_TO0
 rely_VVI
 in_PRP
-Tan_NN1-AJ0
+Tan_NN1
 Finally_AV0
 Pace_NN1
 takes_VVZ
@@ -9970,7 +9970,7 @@ Court_NN1
 of_PRF
 Appeal_NN1
 in_PRP
-Tan_NN1-AJ0
+Tan_NN1
 to_TO0
 task_NN1
 for_PRP
@@ -9983,7 +9983,7 @@ a_AT0
 matter_NN1
 of_PRF
 some_DT0
-regret_VVI
+regret_NN1
 he_PNP
 writes_VVZ
 that_CJT
@@ -10094,10 +10094,10 @@ Sweden_NP0
 Switzerland_NP0
 and_CJC
 Norway_NP0
-Notwithstanding_PRP-CJS
+Notwithstanding_PRP
 such_DT0
 criticisms_NN2
-Tan_NN1-AJ0
+Tan_NN1
 seems_VVZ
 to_TO0
 make_VVI
@@ -10126,10 +10126,10 @@ not_XX0
 come_VVI
 from_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 courts_NN2
 Indeed_AV0
-Tan_NN1-AJ0
+Tan_NN1
 not_XX0
 only_AV0
 confirms_VVZ
@@ -10171,7 +10171,7 @@ now_AV0
 of_PRF
 course_NN1
 the_AT0
-English_AJ0-NN1
+English_AJ0
 courts_NN2
 are_VBB
 not_XX0
@@ -10181,7 +10181,7 @@ courts_NN2
 which_DTQ
 can_VM0
 develop_VVI
-English_AJ0-NN1
+English_AJ0
 law_NN1
 There_EX0
 is_VBZ
@@ -10417,7 +10417,7 @@ attempts_NN2
 to_TO0
 persuade_VVI
 the_AT0
-English_AJ0-NN1
+English_AJ0
 courts_NN2
 to_TO0
 order_NN1
@@ -10961,7 +10961,7 @@ an_AT0
 annotation_NN1
 of_PRF
 the_AT0
-present_AJ0-NN1
+present_AJ0
 birth_NN1
 register_VVI
 This_DT0
@@ -11002,7 +11002,7 @@ kind_NN1
 from_PRP
 those_DT0
 at_PRP
-present_AJ0-NN1
+present_AJ0
 allowed_VVN
 by_PRP
 law_NN1
@@ -11219,14 +11219,14 @@ out_AVP
 of_PRF
 such_DT0
 secrecy_NN1
-Public_AJ0-NN1
+Public_AJ0
 and_CJC
 private_AJ0
 institutions_NN2
 could_VM0
 it_PNP
 decided_VVD
-act_VVI
+act_NN1
 in_PRP
 ignorance_NN1
 and_CJC
@@ -11291,13 +11291,13 @@ Article_NN1
 12_CRD
 received_VVD
 short_AJ0
-shrift_NN1-VVB
+shrift_VVB
 He_PNP
 complained_VVD
 that_CJT
 according_VVG
 to_TO0
-English_AJ0-NN1
+English_AJ0
 Law_NN1
 he_PNP
 could_VM0
@@ -11519,7 +11519,7 @@ Dr_NP0
 Yu_NP0
 has_VHZ
 written_VVN
-Beginning_VVG-NN1
+Beginning_VVG
 in_PRP
 the_AT0
 1960s_CRD
@@ -12030,7 +12030,7 @@ which_DTQ
 are_VBB
 limited_AJ0
 among_PRP
-competing_VVG-AJ0
+competing_AJ0
 claims_NN2
 The_AT0
 technological_AJ0
@@ -12160,7 +12160,7 @@ the_AT0
 amount_NN1
 of_PRF
 resources_NN2
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 any_DT0
 particular_AJ0
@@ -12365,7 +12365,7 @@ deleteriously_AV0
 the_AT0
 development_NN1
 of_PRF
-caring_VVG-NN1
+caring_NN1
 personal_AJ0
 relationships_NN2
 Two_CRD
@@ -12421,7 +12421,7 @@ probably_AV0
 inevitable_AJ0
 in_PRP
 our_DPS
-present_AJ0-NN1
+present_AJ0
 society_NN1
 that_CJT
 resources_NN2
@@ -12509,7 +12509,7 @@ its_DPS
 application_NN1
 All_DT0
 those_DT0
-involved_AJ0
+involved_VVN
 in_PRP
 health_NN1
 care_NN1
@@ -12521,7 +12521,7 @@ are_VBB
 dealt_VVN
 with_PRP
 at_PRP
-present_AJ0-NN1
+present_AJ0
 First_ORD
 they_PNP
 are_VBB
@@ -12595,7 +12595,7 @@ only_AV0
 a_AT0
 couple_NN1
 of_PRF
-well-publicized_AJ0-NN1
+well-publicized_AJ0
 mercy_NN1
 flights_NN2
 to_TO0
@@ -12605,7 +12605,7 @@ States_NP0
 and_CJC
 appropriate_AJ0
 patriotic_AJ0
-breast-beating_NN1-AJ0
+breast-beating_AJ0
 to_TO0
 ensure_VVI
 that_CJT
@@ -12677,7 +12677,7 @@ is_VBZ
 wrong_AJ0
 with_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 system_NN1
 and_CJC
 coming_VVG
@@ -13031,7 +13031,7 @@ and_CJC
 the_AT0
 tensions_NN2
 between_PRP
-competing_VVG-AJ0
+competing_AJ0
 views_NN2
 We_PNP
 talk_VVI
@@ -13194,7 +13194,7 @@ in_PRP
 the_AT0
 analysis_NN1
 of_PRF
-concrete_AJ0-NN1
+concrete_AJ0
 problems_NN2
 we_PNP
 should_VM0
@@ -13202,7 +13202,7 @@ keep_VVI
 our_DPS
 mouths_NN2
 firmly_AV0
-shut_VVB
+shut_VVN
 We_PNP
 have_VHB
 in_PRP
@@ -13246,7 +13246,7 @@ the_AT0
 abstract_AJ0
 to_TO0
 the_AT0
-concrete_AJ0-NN1
+concrete_AJ0
 As_CJS
 for_PRP
 the_AT0
@@ -13260,7 +13260,7 @@ are_VBB
 debates_NN2
 about_PRP
 the_AT0
-rationing_VVG-NN1
+rationing_NN1
 of_PRF
 scarce_AJ0
 resources_NN2
@@ -13488,7 +13488,7 @@ weakest_AJS
 and_CJC
 the_AT0
 least_AV0
-advantaged_VVN-AJ0
+advantaged_VVN
 since_CJS
 these_DT0
 are_VBB
@@ -13521,7 +13521,7 @@ Notice_VVB
 that_CJT
 talk_VVI
 of_PRF
-caring_VVG-NN1
+caring_NN1
 about_PRP
 the_AT0
 weakest_AJS
@@ -13638,7 +13638,7 @@ beginning_NN1
 with_PRP
 the_AT0
 least_AV0
-advantaged_VVN-AJ0
+advantaged_VVN
 and_CJC
 most_AV0
 vulnerable_AJ0
@@ -13870,7 +13870,7 @@ education_NN1
 the_AT0
 elimination_NN1
 of_PRF
-relative_AJ0-NN1
+relative_AJ0
 poverty_NN1
 safety_NN1
 in_PRP
@@ -13994,7 +13994,7 @@ mobility_NN1
 and_CJC
 the_AT0
 distances_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 travel_NN1
 have_VHB
@@ -14008,7 +14008,7 @@ that_CJT
 roads_NN2
 pollute_VVB
 and_CJC
-fast_AV0-AJ0
+fast_AJ0
 cars_NN2
 kill_VVI
 But_CJC
@@ -14028,7 +14028,7 @@ rather_AV0
 than_CJS
 as_CJS
 at_PRP
-present_AJ0-NN1
+present_AJ0
 as_CJS
 a_AT0
 consequence_NN1
@@ -14682,7 +14682,7 @@ to_TO0
 be_VBI
 made_VVN
 At_PRP
-present_AJ0-NN1
+present_AJ0
 they_PNP
 are_VBB
 made_VVN
@@ -14809,7 +14809,7 @@ if_CJS
 we_PNP
 find_VVI
 the_AT0
-present_AJ0-NN1
+present_AJ0
 state_NN1
 of_PRF
 affairs_NN2
@@ -14844,7 +14844,7 @@ which_DTQ
 relate_VVI
 to_TO0
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 value_NN1
 we_PNP
 are_VBB
@@ -15024,7 +15024,7 @@ the_AT0
 comparative_AJ0
 cost_NN1
 in_PRP
-caring_VVG-NN1
+caring_NN1
 for_PRP
 the_AT0
 patient_NN1
@@ -15162,7 +15162,7 @@ than_CJS
 emotional_AJ0
 appeals_NN2
 and_CJC
-shroud-waving_NN1-AJ0
+shroud-waving_NN1
 may_VM0
 have_VHB
 to_TO0
@@ -15231,7 +15231,7 @@ point_NN1
 to_TO0
 what_DTQ
 is_VBZ
-involved_AJ0
+involved_VVN
 in_PRP
 such_DT0
 a_AT0
@@ -15332,7 +15332,7 @@ need_VVB
 to_TO0
 satisfy_VVI
 other_AJ0
-competing_VVG-AJ0
+competing_AJ0
 claims_NN2
 The_AT0
 second_ORD
@@ -15416,7 +15416,7 @@ on_PRP
 the_AT0
 basis_NN1
 of_PRF
-relative_AJ0-NN1
+relative_AJ0
 priority_NN1
 This_DT0
 in_PRP
@@ -15755,7 +15755,7 @@ Social_AJ0
 Services_NN2
 Education_NN1
 and_CJC
-Local_NN1-AJ0
+Local_AJ0
 Government_NN1
 have_VHB
 all_DT0
@@ -15944,7 +15944,7 @@ call_VVI
 a_AT0
 third_ORD
 or_CJC
-micro-_NN1-AJ0
+micro-_NN1
 level_NN1
 of_PRF
 decision_NN1
@@ -16508,7 +16508,7 @@ money_NN1
 which_DTQ
 will_VM0
 be_VBI
-involved_AJ0
+involved_VVN
 in_PRP
 treating_VVG
 the_AT0
@@ -16547,7 +16547,7 @@ of_PRF
 greater_AJC
 weight_NN1
 is_VBZ
-involved_AJ0
+involved_VVN
 You_PNP
 may_VM0
 wish_VVB
@@ -16602,7 +16602,7 @@ principle_NN1
 but_CJC
 merely_AV0
 a_AT0
-competing_VVG-AJ0
+competing_AJ0
 principle_NN1
 as_CJS
 to_TO0
@@ -16624,7 +16624,7 @@ the_AT0
 possibility_NN1
 of_PRF
 planning_NN1
-Planning_NN1-VVG
+Planning_NN1
 in_PRP
 turn_NN1
 assumes_VVZ
@@ -16684,7 +16684,7 @@ rationality_NN1
 and_CJC
 control_NN1
 are_VBB
-misplaced_VVN-AJ0
+misplaced_AJ0
 This_DT0
 is_VBZ
 because_CJS
@@ -16698,7 +16698,7 @@ so_AV0
 many_DT0
 different_AJ0
 constituencies_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 process_NN1
@@ -16742,7 +16742,7 @@ people_NN0
 to_TO0
 indulge_VVI
 in_PRP
-self-delusion_NN1-AJ0
+self-delusion_AJ0
 Things_NN2
 happen_VVI
 A_AT0
@@ -16763,7 +16763,7 @@ election_NN1
 or_CJC
 a_AT0
 leading_AJ0
-specialist_NN1-AJ0
+specialist_NN1
 chooses_VVZ
 to_TO0
 work_NN1
@@ -17185,7 +17185,7 @@ inevitably_AV0
 condition_NN1
 micro-decisions_NN2
 the_AT0
-principal_AJ0-NN1
+principal_AJ0
 focus_NN1
 of_PRF
 attention_NN1
@@ -17257,7 +17257,7 @@ gains_NN2
 since_CJS
 their_DPS
 horizons_NN2
-stretch_VVI
+stretch_NN1
 only_AV0
 to_TO0
 the_AT0
@@ -17326,7 +17326,7 @@ so_AV0
 already_AV0
 hence_AV0
 the_AT0
-present_AJ0-NN1
+present_AJ0
 state_NN1
 of_PRF
 affairs_NN2
@@ -17382,7 +17382,7 @@ and_CJC
 analysis_NN1
 They_PNP
 must_VM0
-present_AJ0-NN1
+present_AJ0
 their_DPS
 arguments_NN2
 to_TO0
@@ -17627,7 +17627,7 @@ discusses_VVZ
 with_PRP
 the_AT0
 doctors_NN2
-involved_AJ0
+involved_VVN
 and_CJC
 also_AV0
 the_AT0
@@ -17681,7 +17681,7 @@ if_CJS
 The_AT0
 Check-out_NN1
 is_VBZ
-broadcast_VVN
+broadcast_NN1
 in_PRP
 the_AT0
 United_NP0
@@ -17706,7 +17706,7 @@ of_PRF
 all_DT0
 the_AT0
 parties_NN2
-involved_AJ0
+involved_VVN
 IAN_NP0
 KENNEDY_NP0
 I_PNP
@@ -17757,7 +17757,7 @@ issues_NN2
 about_PRP
 death_NN1
 and_CJC
-dying_VVG-AJ0
+dying_AJ0
 issues_NN2
 about_PRP
 the_AT0
@@ -17941,7 +17941,7 @@ as_CJS
 one_CRD
 to_TO0
 be_VBI
-trusted_VVD
+trusted_AJ0
 and_CJC
 relied_VVN
 upon_PRP
@@ -18003,7 +18003,7 @@ may_VM0
 confront_VVI
 any_DT0
 patient_NN1
-relative_AJ0-NN1
+relative_AJ0
 and_CJC
 doctor_NN1
 when_CJS
@@ -18011,7 +18011,7 @@ coping_VVG
 with_PRP
 death_NN1
 and_CJC
-dying_VVG-AJ0
+dying_AJ0
 Though_CJS
 it_PNP
 happened_VVD
@@ -18572,7 +18572,7 @@ think_VVB
 Ron_NP0
 needed_VVN
 to_TO0
-feel_VVI
+feel_VVB
 that_CJT
 he_PNP
 was_VBD
@@ -18598,11 +18598,11 @@ think_VVB
 he_PNP
 was_VBD
 really_AV0
-exhausted_VVN-AJ0
+exhausted_VVN
 he_PNP
 was_VBD
 really_AV0
-exhausted_VVN-AJ0
+exhausted_VVN
 physically_AV0
 and_CJC
 emotionally_AV0
@@ -18997,7 +18997,7 @@ medical_AJ0
 treatment_NN1
 of_PRF
 a_AT0
-relative_AJ0-NN1
+relative_AJ0
 Dr_NP0
 Carrington_NP0
 's_POS
@@ -19068,7 +19068,7 @@ John_NP0
 Goode_NP0
 the_AT0
 lung_NN1
-specialist_NN1-AJ0
+specialist_NN1
 who_PNQ
 was_VBD
 primarily_AV0
@@ -19327,7 +19327,7 @@ somewhat_AV0
 uncomfortable_AJ0
 Bedpans_NN2
 not_XX0
-sleeping_VVG
+sleeping_NN1
 these_DT0
 units_NN2
 are_VBB
@@ -19377,7 +19377,7 @@ patient_NN1
 can_VM0
 not_XX0
 be_VBI
-sedated_VVD
+sedated_VVN
 heavily_AV0
 because_CJS
 they_PNP
@@ -19659,7 +19659,7 @@ than_CJS
 anyone_PNI
 else_AV0
 The_AT0
-nursing_AJ0-NN1
+nursing_NN1
 staff_NN0
 definitely_AV0
 did_VDD
@@ -19679,7 +19679,7 @@ those_DT0
 cases_NN2
 where_AVQ
 the_AT0
-nursing_AJ0-NN1
+nursing_NN1
 staff_NN0
 had_VHD
 an_AT0
@@ -19815,7 +19815,7 @@ reasonable_AJ0
 request_NN1
 Personally_AV0
 I_PNP
-feel_VVI
+feel_VVB
 it_PNP
 was_VBD
 reasonable_AJ0
@@ -19827,7 +19827,7 @@ again_AV0
 I_PNP
 was_VBD
 closely_AV0
-involved_AJ0
+involved_VVN
 KENNEDY_NP0
 What_DTQ
 guarantee_NN1
@@ -19914,7 +19914,7 @@ he_PNP
 was_VBD
 n't_XX0
 stark_AJ0
-raving_VVG-AJ0
+raving_VVG
 mad_AJ0
 and_CJC
 just_AV0
@@ -20145,7 +20145,7 @@ You_PNP
 know_VVI
 he_PNP
 's_POS
-dying_VVG-AJ0
+dying_AJ0
 But_CJC
 as_CJS
 far_AV0
@@ -20574,7 +20574,7 @@ It_PNP
 was_VBD
 a_AT0
 sudden_AJ0
-shift_NN1-VVB
+shift_NN1
 for_PRP
 him_PNP
 from_PRP
@@ -20689,7 +20689,7 @@ Carrington_NP0
 received_VVD
 was_VBD
 extremely_AV0
-caring_VVG-NN1
+caring_NN1
 and_CJC
 humane_AJ0
 but_CJC
@@ -20968,7 +20968,7 @@ Moore_NP0
 tell_VVI
 how_AVQ
 he_PNP
-assured_VVD
+assured_VVN
 Dr_NP0
 Carrington_NP0
 that_CJT
@@ -21412,7 +21412,7 @@ said_VVD
 Will_VM0
 I_PNP
 be_VBI
-struggling_VVG-AJ0
+struggling_VVG
 Will_VM0
 it_PNP
 be_VBI
@@ -21594,7 +21594,7 @@ and_CJC
 think_VVB
 about_PRP
 everybody_PNI
-involved_AJ0
+involved_VVN
 His_DPS
 wife_NN1
 did_VDD
@@ -21801,7 +21801,7 @@ was_VBD
 a_AT0
 a_AT0
 more_AV0
-concrete_AJ0-NN1
+concrete_AJ0
 and_CJC
 unifying_AJ0
 decision_NN1
@@ -21891,7 +21891,7 @@ in_PRP
 that_CJT
 sense_NN1
 I_PNP
-feel_VVI
+feel_VVB
 like_PRP
 that_CJT
 the_AT0
@@ -21963,7 +21963,7 @@ really_AV0
 reject_VVI
 that_CJT
 I_PNP
-feel_VVI
+feel_VVB
 that_CJT
 sometimes_AV0
 I_PNP
@@ -22000,7 +22000,7 @@ about_PRP
 that_CJT
 and_CJC
 I_PNP
-feel_VVI
+feel_VVB
 like_PRP
 we_PNP
 gave_VVD
@@ -22188,7 +22188,7 @@ But_CJC
 do_VDB
 n't_XX0
 you_PNP
-feel_VVI
+feel_VVB
 uncomfortable_AJ0
 you_PNP
 as_CJS
@@ -22201,7 +22201,7 @@ profession_NN1
 do_VDB
 n't_XX0
 you_PNP
-feel_VVI
+feel_VVB
 uncomfortable_AJ0
 if_CJS
 there_EX0
@@ -22267,7 +22267,7 @@ the_AT0
 reasons_NN2
 that_CJT
 physicians_NN2
-feel_VVI
+feel_VVB
 threatened_VVN
 by_PRP
 these_DT0
@@ -22333,7 +22333,7 @@ who_PNQ
 should_VM0
 n't_XX0
 be_VBI
-trusted_VVD
+trusted_AJ0
 and_CJC
 I_PNP
 think_VVB
@@ -22410,7 +22410,7 @@ really_AV0
 KENNEDY_NP0
 You_PNP
 may_VM0
-feel_VVI
+feel_VVB
 uncomfortable_AJ0
 hearing_VVG
 about_PRP
@@ -22705,7 +22705,7 @@ Dr_NP0
 Goode_NP0
 said_VVD
 he_PNP
-trusted_VVD
+trusted_AJ0
 himself_PNX
 and_CJC
 clearly_AV0
@@ -22756,7 +22756,7 @@ who_PNQ
 are_VBB
 afraid_AJ0
 to_TO0
-act_VVI
+act_NN1
 and_CJC
 patients_NN2
 condemned_VVN
@@ -22875,7 +22875,7 @@ patient_NN1
 directs_VVZ
 Should_VM0
 any_DT0
-relative_AJ0-NN1
+relative_AJ0
 complain_VVI
 the_AT0
 doctor_NN1
@@ -22908,7 +22908,7 @@ wrote_VVD
 the_AT0
 bill_NN1
 and_CJC
-piloted_VVN
+piloted_VVD
 it_PNP
 through_PRP
 the_AT0
@@ -23000,7 +23000,7 @@ made_VVN
 them_PNP
 they_PNP
 were_VBD
-admitting_VVG-AJ0
+admitting_VVG
 that_CJT
 these_DT0
 things_NN2
@@ -23161,7 +23161,7 @@ and_CJC
 personal_AJ0
 one_CRD
 the_AT0
-patient-physician_AJ0-NN1
+patient-physician_NN1
 relationship_NN1
 KENNEDY_NP0
 What_DTQ
@@ -23288,7 +23288,7 @@ by_PRP
 anyone_PNI
 as_CJS
 a_AT0
-Euthanasia_NP0-NN1
+Euthanasia_NP0
 Bill_NP0
 Originally_AV0
 the_AT0
@@ -23372,7 +23372,7 @@ The_AT0
 foremost_AJS
 is_VBZ
 to_TO0
-reorient_NN1-AJ0
+reorient_NN1
 the_AT0
 relationship_NN1
 and_CJC
@@ -23504,7 +23504,7 @@ words_NN2
 a_AT0
 doctor_NN1
 will_VM0
-feel_VVI
+feel_VVB
 this_DT0
 I_PNP
 can_VM0
@@ -24183,7 +24183,7 @@ brief_AJ0
 statement_NN1
 made_VVN
 by_PRP
-Pope_NP0-NN1
+Pope_NP0
 Pius_NP0
 XII_CRD
 20_CRD
@@ -24193,7 +24193,7 @@ Though_CJS
 a_AT0
 statement_NN1
 of_PRF
-Catholic_AJ0-NN1
+Catholic_AJ0
 doctrine_NN1
 it_PNP
 has_VHZ
@@ -24204,7 +24204,7 @@ In_PRP
 his_DPS
 famous_AJ0
 allocution_NN1
-Pope_NP0-NN1
+Pope_NP0
 Pius_NP0
 declared_VVD
 that_CJT
@@ -24228,7 +24228,7 @@ it_PNP
 when_CJS
 such_DT0
 treatment_NN1
-involved_AJ0
+involved_VVN
 extraordinary_AJ0
 medical_AJ0
 measures_NN2
@@ -24457,7 +24457,7 @@ as_CJS
 he_PNP
 desires_NN2
 To_TO0
-switch_VVI
+switch_NN1
 off_AVP
 the_AT0
 respirator_NN1
@@ -24543,7 +24543,7 @@ the_AT0
 parent_NN1
 may_VM0
 only_AV0
-act_VVI
+act_NN1
 in_PRP
 the_AT0
 best_AJS
@@ -24560,7 +24560,7 @@ principles_NN2
 but_CJC
 you_PNP
 may_VM0
-feel_VVI
+feel_VVB
 that_CJT
 they_PNP
 still_AV0
@@ -24658,7 +24658,7 @@ a_AT0
 Code_NN1
 of_PRF
 Practice_NN1
-binding_VVG-AJ0
+binding_AJ0
 on_PRP
 doctors_NN2
 which_DTQ
@@ -24737,7 +24737,7 @@ fact_NN1
 that_CJT
 the_AT0
 issues_NN2
-involved_AJ0
+involved_VVN
 are_VBB
 moral_AJ0
 ones_NN2
@@ -24849,7 +24849,7 @@ continuing_AJ0
 care_NN1
 of_PRF
 those_DT0
-dying_VVG-AJ0
+dying_AJ0
 from_PRP
 cancer_NN1
 the_AT0
@@ -24871,7 +24871,7 @@ to_TO0
 be_VBI
 taken_VVN
 in_PRP
-caring_VVG-NN1
+caring_NN1
 for_PRP
 such_DT0
 patients_NN2
@@ -24939,7 +24939,7 @@ professional_AJ0
 on_PRP
 the_AT0
 spot_NN1
-caring_VVG-NN1
+caring_NN1
 for_PRP
 the_AT0
 patient_NN1
@@ -25069,7 +25069,7 @@ with_PRP
 appropriate_AJ0
 sanctions_NN2
 for_PRP
-non-observance_NN1-AJ0
+non-observance_AJ0
 legal_AJ0
 principles_NN2
 are_VBB
@@ -25136,7 +25136,7 @@ the_AT0
 case_NN1
 of_PRF
 the_AT0
-dying_VVG-AJ0
+dying_AJ0
 as_CJS
 in_PRP
 all_DT0
@@ -25150,13 +25150,13 @@ doctor_NN1
 must_VM0
 pay_VVI
 due_AJ0
-heed_VVI
+heed_NN1
 to_TO0
 the_AT0
 law_NN1
 He_PNP
 must_VM0
-act_VVI
+act_NN1
 within_PRP
 the_AT0
 law_NN1
@@ -25243,7 +25243,7 @@ of_PRF
 the_AT0
 various_AJ0
 parties_NN2
-involved_AJ0
+involved_VVN
 without_PRP
 putting_VVG
 in_PRP
@@ -25795,7 +25795,7 @@ the_AT0
 dynamics_NN0
 of_PRF
 the_AT0
-doctor-patient_AJ0-NN1
+doctor-patient_NN1
 relationship_NN1
 is_VBZ
 in_PRP
@@ -26090,7 +26090,7 @@ key_AJ0
 factor_NN1
 governing_AJ0
 the_AT0
-doctor-patient_AJ0-NN1
+doctor-patient_NN1
 relationship_NN1
 This_DT0
 analysis_NN1
@@ -26276,7 +26276,7 @@ in_PRP
 the_AT0
 case_NN1
 of_PRF
-caring_VVG-NN1
+caring_NN1
 for_PRP
 the_AT0
 terminally_AV0
@@ -26451,7 +26451,7 @@ with_PRP
 the_AT0
 form_NN1
 of_PRF
-caring_VVG-NN1
+caring_NN1
 or_CJC
 treatment_NN1
 the_AT0
@@ -26559,7 +26559,7 @@ It_PNP
 is_VBZ
 important_AJ0
 to_TO0
-notice_VVI
+notice_NN1
 that_CJT
 although_CJS
 the_AT0
@@ -26689,7 +26689,7 @@ period_NN1
 of_PRF
 life_NN1
 without_PRP
-increased_AJ0
+increased_VVN
 discomfort_NN1
 then_AV0
 the_AT0
@@ -26799,7 +26799,7 @@ for_PRP
 any_DT0
 distress_NN1
 or_CJC
-increased_AJ0
+increased_VVN
 discomfort_NN1
 the_AT0
 patient_NN1
@@ -26853,7 +26853,7 @@ practice_NN1
 to_TO0
 make_VVI
 the_AT0
-dying_VVG-AJ0
+dying_AJ0
 patient_NN1
 comfortable_AJ0
 Although_CJS
@@ -26972,7 +26972,7 @@ patient_NN1
 over_PRP
 to_TO0
 those_DT0
-nursing_AJ0-NN1
+nursing_NN1
 him_PNP
 Furthermore_AV0
 to_TO0
@@ -26998,7 +26998,7 @@ cures_NN2
 rather_AV0
 than_CJS
 fundamentally_AV0
-caring_VVG-NN1
+caring_NN1
 for_PRP
 their_DPS
 patients_NN2
@@ -27016,7 +27016,7 @@ if_CJS
 not_XX0
 abandoning_VVG
 their_DPS
-dying_VVG-AJ0
+dying_AJ0
 patients_NN2
 This_DT0
 can_VM0
@@ -27045,7 +27045,7 @@ own_DT0
 helplessness_NN1
 But_CJC
 a_AT0
-dying_VVG-AJ0
+dying_AJ0
 patient_NN1
 is_VBZ
 still_AV0
@@ -27072,7 +27072,7 @@ an_AT0
 example_NN1
 of_PRF
 the_AT0
-English_AJ0-NN1
+English_AJ0
 law_NN1
 's_POS
 affirmation_NN1
@@ -27199,7 +27199,7 @@ reasoning_NN1
 A_AT0
 principle_NN1
 is_VBZ
-enunciated_VVN
+enunciated_VVD
 which_DTQ
 is_VBZ
 intended_VVN
@@ -27315,7 +27315,7 @@ untested_AJ0
 or_CJC
 unfamiliar_AJ0
 circumstances_NN2
-Respect_NN1-VVB
+Respect_NN1
 for_PRP
 the_AT0
 Patient_NN1
@@ -27408,7 +27408,7 @@ living_VVG
 to_TO0
 treating_VVG
 for_PRP
-dying_VVG-AJ0
+dying_AJ0
 Thus_AV0
 if_CJS
 a_AT0
@@ -27858,7 +27858,7 @@ further_AJC
 propositions_NN2
 in_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 context_NN1
 First_ORD
 in_PRP
@@ -27873,7 +27873,7 @@ a_AT0
 hospital_NN1
 refused_VVD
 even_AV0
-nursing_AJ0-NN1
+nursing_NN1
 care_NN1
 for_PRP
 example_NN1
@@ -28085,7 +28085,7 @@ that_CJT
 the_AT0
 patient_NN1
 though_CJS
-dying_VVG-AJ0
+dying_AJ0
 is_VBZ
 still_AV0
 living_VVG
@@ -28105,7 +28105,7 @@ a_AT0
 cardinal_AJ0
 principle_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 law_NN1
 It_PNP
 follows_VVZ
@@ -28263,7 +28263,7 @@ social_AJ0
 morality_NN1
 Neither_DT0
 at_PRP
-present_AJ0-NN1
+present_AJ0
 condones_VVZ
 euthanasia_NN1
 so_AV0
@@ -28323,7 +28323,7 @@ apart_AV0
 from_PRP
 treatment_NN1
 for_PRP
-dying_VVG-AJ0
+dying_AJ0
 is_VBZ
 ethically_AV0
 indicated_VVN
@@ -28335,7 +28335,7 @@ the_AT0
 care_NN1
 of_PRF
 the_AT0
-dying_VVG-AJ0
+dying_AJ0
 consider_VVI
 that_CJT
 the_AT0
@@ -28395,7 +28395,7 @@ even_AV0
 agony_NN1
 which_DTQ
 could_VM0
-prompt_VVI
+prompt_AJ0
 a_AT0
 consideration_NN1
 of_PRF
@@ -28499,7 +28499,7 @@ who_PNQ
 care_NN1
 for_PRP
 the_AT0
-dying_VVG-AJ0
+dying_AJ0
 understand_VVI
 and_CJC
 use_NN1
@@ -28664,7 +28664,7 @@ rather_AV0
 than_CJS
 committed_VVN
 any_DT0
-act_VVI
+act_NN1
 is_VBZ
 to_TO0
 overlook_VVI
@@ -28685,13 +28685,13 @@ doctor_NN1
 's_POS
 duty_NN1
 to_TO0
-act_VVI
+act_NN1
 so_AV0
 that_CJT
 his_DPS
 failure_NN1
 to_TO0
-act_VVI
+act_NN1
 by_PRP
 allowing_VVG
 death_NN1
@@ -28718,7 +28718,7 @@ the_AT0
 terminally_AV0
 ill_AJ0
 is_VBZ
-centred_VVN-VVD
+centred_VVN
 on_PRP
 making_VVG
 the_AT0
@@ -28864,7 +28864,7 @@ under_PRP
 no_AT0
 duty_NN1
 to_TO0
-act_VVI
+act_NN1
 Equally_AV0
 if_CJS
 the_AT0
@@ -28885,14 +28885,14 @@ under_PRP
 a_AT0
 duty_NN1
 to_TO0
-act_VVI
+act_NN1
 provided_VVN
 that_CJT
 the_AT0
 conduct_NN1
 is_VBZ
 otherwise_AV0
-licit_VVB-NN1
+licit_VVB
 Another_DT0
 way_NN1
 of_PRF
@@ -28942,7 +28942,7 @@ is_VBZ
 extraordinary_AJ0
 It_PNP
 was_VBD
-Pope_NP0-NN1
+Pope_NP0
 Pius_NP0
 XII_CRD
 who_PNQ
@@ -29423,7 +29423,7 @@ made_VVN
 so_AV0
 that_CJT
 all_DT0
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 patient_NN1
@@ -29539,7 +29539,7 @@ extend_VVI
 the_AT0
 process_NN1
 of_PRF
-dying_VVG-AJ0
+dying_AJ0
 through_PRP
 the_AT0
 use_NN1
@@ -29551,9 +29551,9 @@ are_VBB
 colloquially_AV0
 but_CJC
 perhaps_AV0
-inaptly_AV0-AJ0
+inaptly_AJ0
 called_VVN
-life-support_AJ0-NN1
+life-support_AJ0
 machines_NN2
 Questions_NN2
 are_VBB
@@ -29592,7 +29592,7 @@ legal_AJ0
 and_CJC
 ethical_AJ0
 principles_NN2
-involved_AJ0
+involved_VVN
 Life-support_AJ0
 machines_NN2
 are_VBB
@@ -29651,7 +29651,7 @@ benefit_NN1
 in_PRP
 terms_NN2
 of_PRF
-increased_AJ0
+increased_VVN
 comfort_NN1
 in_PRP
 the_AT0
@@ -29793,13 +29793,13 @@ the_AT0
 secondary_AJ0
 effect_NN1
 of_PRF
-accelerating_AJ0-VVG
+accelerating_VVG
 or_CJC
 run_VVI
 the_AT0
 risk_NN1
 of_PRF
-accelerating_AJ0-VVG
+accelerating_VVG
 the_AT0
 patient_NN1
 's_POS
@@ -29816,7 +29816,7 @@ which_DTQ
 was_VBD
 incorporated_VVN
 into_PRP
-English_AJ0-NN1
+English_AJ0
 law_NN1
 in_PRP
 one_CRD
@@ -29857,7 +29857,7 @@ form_NN1
 of_PRF
 treatment_NN1
 his_DPS
-principal_AJ0-NN1
+principal_AJ0
 and_CJC
 primary_AJ0
 intention_NN1
@@ -29884,13 +29884,13 @@ not_XX0
 limited_AJ0
 to_TO0
 the_AT0
-oft-cited_AJ0-NN1
+oft-cited_NN1
 example_NN1
 of_PRF
 the_AT0
 use_NN1
 of_PRF
-increased_AJ0
+increased_VVN
 doses_NN2
 of_PRF
 morphine_NN1
@@ -29983,7 +29983,7 @@ Act_NN1
 1961_CRD
 section_NN1
 2_CRD
-English_AJ0-NN1
+English_AJ0
 law_NN1
 makes_VVZ
 aiding_VVG
@@ -30011,7 +30011,7 @@ to_TO0
 refrain_VVI
 from_PRP
 any_DT0
-act_VVI
+act_NN1
 which_DTQ
 may_VM0
 aid_NN1
@@ -30159,7 +30159,7 @@ should_VM0
 of_PRF
 course_NN1
 be_VBI
-involved_AJ0
+involved_VVN
 but_CJC
 they_PNP
 have_VHB
@@ -30251,7 +30251,7 @@ are_VBB
 however_AV0
 certain_AJ0
 risks_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 delegating_VVG
 to_TO0
@@ -30286,7 +30286,7 @@ to_TO0
 resuscitate_VVI
 the_AT0
 patient_NN1
-English_AJ0-NN1
+English_AJ0
 law_NN1
 seeks_VVZ
 to_TO0
@@ -30333,7 +30333,7 @@ to_TO0
 understand_VVI
 what_DTQ
 is_VBZ
-involved_AJ0
+involved_VVN
 in_PRP
 any_DT0
 decision_NN1
@@ -30379,7 +30379,7 @@ him_PNP
 they_PNP
 may_VM0
 only_AV0
-act_VVI
+act_NN1
 in_PRP
 his_DPS
 best_AJS
@@ -30512,7 +30512,7 @@ invasive_AJ0
 or_CJC
 aggressive_AJ0
 treatment_NN1
-Support_NN1-VVB
+Support_NN1
 for_PRP
 these_DT0
 propositions_NN2
@@ -30592,7 +30592,7 @@ held_VVN
 that_CJT
 the_AT0
 Judge_NN1
-erred_VVN-VVD
+erred_VVD
 because_CJS
 he_PNP
 was_VBD
@@ -30714,7 +30714,7 @@ will_VM0
 reflect_VVI
 those_DT0
 factors_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 analysis_NN1
@@ -31008,7 +31008,7 @@ to_TO0
 be_VBI
 known_VVN
 as_CJS
-Living_VVG-NN1
+Living_VVG
 Wills_NP0
 and_CJC
 have_VHB
@@ -31036,7 +31036,7 @@ they_PNP
 instruct_VVI
 others_NN2
 to_TO0
-act_VVI
+act_NN1
 They_PNP
 represent_VVI
 in_PRP
@@ -31084,7 +31084,7 @@ ability_NN1
 to_TO0
 choose_VVI
 and_CJC
-act_VVI
+act_NN1
 on_PRP
 the_AT0
 choice_NN1
@@ -31405,12 +31405,12 @@ decision_NN1
 making_VVG
 to_TO0
 a_AT0
-trusted_VVD
+trusted_AJ0
 and_CJC
 close_AJ0
 friend_NN1
 or_CJC
-relative_AJ0-NN1
+relative_AJ0
 who_PNQ
 the_AT0
 patient_NN1
@@ -31439,7 +31439,7 @@ powers_NN2
 of_PRF
 attorney_NN1
 in_PRP
-English_AJ0-NN1
+English_AJ0
 law_NN1
 At_PRP
 common_AJ0
@@ -31499,7 +31499,7 @@ his_DPS
 property_NN1
 Thus_AV0
 at_PRP
-present_AJ0-NN1
+present_AJ0
 the_AT0
 nominated_VVN
 person_NN1
@@ -31928,7 +31928,7 @@ warrants_NN2
 careful_AJ0
 examination_NN1
 Particularly_AV0
-challenging_VVG-AJ0
+challenging_VVG
 to_TO0
 the_AT0
 criminal_AJ0
@@ -32049,7 +32049,7 @@ are_VBB
 two_CRD
 key_AJ0
 concepts_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 such_DT0
 an_AT0
@@ -32101,7 +32101,7 @@ ranging_VVG
 from_PRP
 the_AT0
 obviously_AV0
-curative_AJ0-NN1
+curative_AJ0
 operation_NN1
 such_DT0
 as_CJS
@@ -32309,7 +32309,7 @@ forbidden_VVN
 particular_AJ0
 treatment_NN1
 they_PNP
-act_VVI
+act_NN1
 illegally_AV0
 if_CJS
 they_PNP
@@ -32332,7 +32332,7 @@ the_AT0
 landmark_NN1
 case_NN1
 of_PRF
-Schloendorff_NN1-NP0
+Schloendorff_NN1
 v._PRP
 Society_NN1
 of_PRF
@@ -32433,7 +32433,7 @@ hospital_NN1
 refusing_VVG
 all_DT0
 but_CJC
-nursing_AJ0-NN1
+nursing_NN1
 attendance_NN1
 or_CJC
 the_AT0
@@ -32913,7 +32913,7 @@ who_PNQ
 deliberately_AV0
 went_VVD
 on_PRP
-hunger-strike_NN1-AJ0
+hunger-strike_NN1
 in_PRP
 order_NN1
 to_TO0
@@ -33103,7 +33103,7 @@ thing_NN1
 to_TO0
 a_AT0
 shroud_NN1
-Elkinton_NN1-NP0
+Elkinton_NP0
 writes_VVZ
 In_PRP
 his_DPS
@@ -33227,7 +33227,7 @@ part_NN1
 by_PRP
 their_DPS
 nature_NN1
-evidentiary_NN1-AJ0
+evidentiary_AJ0
 problems_NN2
 Discussion_NN1
 based_VVN
@@ -33927,7 +33927,7 @@ having_VHG
 their_DPS
 wishes_NN2
 flouted_VVN
-Consent_NN1-VVB
+Consent_NN1
 is_VBZ
 represented_VVN
 as_CJS
@@ -34243,7 +34243,7 @@ as_CJS
 a_AT0
 Jehovah_NP0
 's_POS
-Witness_NN1-VVB
+Witness_VVB
 a_AT0
 basis_NN1
 for_PRP
@@ -34254,7 +34254,7 @@ to_TO0
 decide_VVI
 for_PRP
 herself_PNX
-Goldstein_NN1-NP0
+Goldstein_NP0
 nevertheless_AV0
 warns_VVZ
 of_PRF
@@ -34277,7 +34277,7 @@ as_CJS
 a_AT0
 justification_NN1
 for_PRP
-challenging_VVG-AJ0
+challenging_VVG
 the_AT0
 capacity_NN1
 of_PRF
@@ -34571,7 +34571,7 @@ and_CJC
 the_AT0
 particular_AJ0
 treatment_NN1
-involved_AJ0
+involved_VVN
 for_PRP
 instance_NN1
 refusal_NN1
@@ -34882,7 +34882,7 @@ and_CJC
 can_VM0
 therefore_AV0
 be_VBI
-deprived_AJ0
+deprived_VVN
 of_PRF
 his_DPS
 liberty_NN1
@@ -34917,7 +34917,7 @@ the_AT0
 protests_NN2
 of_PRF
 aged_PRP
-dying_VVG-AJ0
+dying_AJ0
 or_CJC
 mentally_AV0
 affected_VVN
@@ -35160,7 +35160,7 @@ interests_NN2
 of_PRF
 his_DPS
 patients_NN2
-Goldstein_NN1-NP0
+Goldstein_NP0
 in_PRP
 the_AT0
 United_NP0
@@ -35220,7 +35220,7 @@ criticize_VVI
 the_AT0
 case_NN1
 of_PRF
-Kaimowitz_NP0-NN1
+Kaimowitz_NN1
 v._PRP
 Michigan_NP0
 Department_NN1
@@ -35262,7 +35262,7 @@ involuntarily_AV0
 detained_VVN
 mental_AJ0
 patient_NN1
-Goldstein_NN1-NP0
+Goldstein_NP0
 argues_VVZ
 that_CJT
 if_CJS
@@ -35271,7 +35271,7 @@ patient_NN1
 is_VBZ
 capable_AJ0
 of_PRF
-consenting_VVG-AJ0
+consenting_AJ0
 to_TO0
 ordinary_AJ0
 therapy_NN1
@@ -35303,7 +35303,7 @@ the_AT0
 concurrence_NN1
 of_PRF
 a_AT0
-relative_AJ0-NN1
+relative_AJ0
 who_PNQ
 is_VBZ
 neither_AV0
@@ -35331,13 +35331,13 @@ to_TO0
 persuade_VVI
 such_DT0
 a_AT0
-relative_AJ0-NN1
+relative_AJ0
 to_TO0
 concur_VVB
 After_PRP
 all_DT0
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 will_VM0
 usually_AV0
 be_VBI
@@ -35345,7 +35345,7 @@ ignorant_AJ0
 of_PRF
 the_AT0
 processes_NN2
-involved_AJ0
+involved_VVN
 and_CJC
 will_VM0
 doubtless_AV0
@@ -35369,7 +35369,7 @@ such_DT0
 concurrence_NN1
 from_PRP
 a_AT0
-relative_AJ0-NN1
+relative_AJ0
 is_VBZ
 of_PRF
 no_AT0
@@ -35382,7 +35382,7 @@ power_NN1
 vested_VVN
 in_PRP
 a_AT0
-relative_AJ0-NN1
+relative_AJ0
 to_TO0
 consent_NN1
 to_TO0
@@ -35419,7 +35419,7 @@ on_PRP
 As_CJS
 regards_VVZ
 the_AT0
-present_AJ0-NN1
+present_AJ0
 argument_NN1
 the_AT0
 law_NN1
@@ -35533,7 +35533,7 @@ to_TO0
 be_VBI
 wholly_AV0
 unreasonable_AJ0
-Skegg_VVB-NN1
+Skegg_NN1
 though_CJS
 putting_VVG
 it_PNP
@@ -35647,7 +35647,7 @@ other_AJ0
 criteria_NN2
 proposed_AJ0
 by_PRP
-Skegg_VVB-NN1
+Skegg_NN1
 allow_VVI
 for_PRP
 a_AT0
@@ -35677,7 +35677,7 @@ of_PRF
 completeness_NN1
 if_CJS
 a_AT0
-relative_AJ0-NN1
+relative_AJ0
 refuses_VVZ
 further_AJC
 treatment_NN1
@@ -35729,7 +35729,7 @@ rights_NN2
 or_CJC
 that_CJT
 doctors_NN2
-act_VVI
+act_NN1
 out_AVP
 of_PRF
 ill_AJ0
@@ -35741,7 +35741,7 @@ conceded_VVN
 that_CJT
 they_PNP
 doubtless_AV0
-act_VVI
+act_NN1
 out_AVP
 of_PRF
 a_AT0
@@ -35994,7 +35994,7 @@ to_TO0
 do_VDB
 so_AV0
 Two_CRD
-principal_AJ0-NN1
+principal_AJ0
 heads_NN2
 of_PRF
 potential_NN1
@@ -36029,7 +36029,7 @@ section_NN1
 2_CRD
 to_TO0
 aid_NN1
-abet_VVI
+abet_NN1
 counsel_NN1
 or_CJC
 procure_VVI
@@ -36129,7 +36129,7 @@ doing_VDG
 of_PRF
 a_AT0
 positive_AJ0
-act_VVI
+act_NN1
 with_PRP
 the_AT0
 intention_NN1
@@ -36157,7 +36157,7 @@ otherwise_AV0
 do_VDB
 no_AT0
 positive_AJ0
-act_VVI
+act_NN1
 merely_AV0
 allowing_VVG
 death_NN1
@@ -36282,7 +36282,7 @@ has_VHZ
 merely_AV0
 failed_VVN
 to_TO0
-act_VVI
+act_NN1
 and_CJC
 an_AT0
 omission_NN1
@@ -36366,7 +36366,7 @@ at_PRP
 the_AT0
 risk_NN1
 of_PRF
-offending_AJ0-NN1
+offending_AJ0
 the_AT0
 purists_NN2
 to_TO0
@@ -36550,7 +36550,7 @@ is_VBZ
 rather_AV0
 more_AV0
 problematical_AJ0
-Fretwell_NN1-VVB
+Fretwell_VVB
 may_VM0
 avail_NN1
 the_AT0
@@ -36582,7 +36582,7 @@ ease_NN1
 pain_NN1
 or_CJC
 for_PRP
-sleeping_VVG
+sleeping_NN1
 and_CJC
 invite_VVI
 the_AT0
@@ -36603,7 +36603,7 @@ confidence_NN1
 would_VM0
 not_XX0
 be_VBI
-misplaced_VVN-AJ0
+misplaced_AJ0
 One_CRD
 case_NN1
 which_DTQ
@@ -36655,7 +36655,7 @@ the_AT0
 switching-off_AJ0
 is_VBZ
 an_AT0
-act_VVI
+act_NN1
 or_CJC
 an_AT0
 omission_NN1
@@ -36664,7 +36664,7 @@ if_CJS
 it_PNP
 is_VBZ
 an_AT0
-act_VVI
+act_NN1
 it_PNP
 may_VM0
 be_VBI
@@ -36904,7 +36904,7 @@ the_AT0
 patient_NN1
 commits_VVZ
 some_DT0
-act_VVI
+act_NN1
 to_TO0
 achieve_VVI
 his_DPS
@@ -36960,14 +36960,14 @@ that_CJT
 treatment_NN1
 be_VBI
 discontinued_VVN
-Neglect_VVB-NN1
+Neglect_VVB
 An_AT0
 alternative_AJ0
 and_CJC
 in_PRP
 some_DT0
 ways_NN2
-overlapping_VVG-AJ0
+overlapping_VVG
 argument_NN1
 advanced_AJ0
 in_PRP
@@ -37105,7 +37105,7 @@ is_VBZ
 whether_CJS
 he_PNP
 need_VVB
-feel_VVI
+feel_VVB
 compelled_VVN
 to_TO0
 continue_VVI
@@ -37341,7 +37341,7 @@ surprising_AJ0
 that_CJT
 doctors_NN2
 may_VM0
-feel_VVI
+feel_VVB
 insecure_AJ0
 in_PRP
 adopting_VVG
@@ -37353,7 +37353,7 @@ which_DTQ
 they_PNP
 otherwise_AV0
 may_VM0
-feel_VVI
+feel_VVB
 to_TO0
 be_VBI
 the_AT0
@@ -37405,7 +37405,7 @@ another_DT0
 interested_AJ0
 group_NN1
 the_AT0
-nursing_AJ0-NN1
+nursing_NN1
 staff_NN0
 The_AT0
 involvement_NN1
@@ -37512,7 +37512,7 @@ doctor_NN1
 that_CJT
 his_DPS
 interests_NN2
-lie_VVI
+lie_VVB
 elsewhere_AV0
 than_CJS
 in_PRP
@@ -37681,7 +37681,7 @@ he_PNP
 has_VHZ
 failed_VVN
 to_TO0
-act_VVI
+act_NN1
 in_PRP
 a_AT0
 situation_NN1
@@ -37695,7 +37695,7 @@ him_PNP
 a_AT0
 duty_NN1
 to_TO0
-act_VVI
+act_NN1
 and_CJC
 death_NN1
 has_VHZ
@@ -37703,7 +37703,7 @@ ensued_VVD
 The_AT0
 case_NN1
 of_PRF
-Instan_NP0-NN1
+Instan_NP0
 seems_VVZ
 to_TO0
 be_VBI
@@ -38026,7 +38026,7 @@ regard_VVI
 as_CJS
 manslaughter_NN1
 the_AT0
-act_VVI
+act_NN1
 of_PRF
 a_AT0
 doctor_NN1
@@ -38036,7 +38036,7 @@ the_AT0
 wishes_NN2
 of_PRF
 a_AT0
-dying_VVG-AJ0
+dying_AJ0
 or_CJC
 aged_PRP
 patient_NN1
@@ -38739,7 +38739,7 @@ persuasive_AJ0
 power_NN1
 of_PRF
 paternalism_NN1
-Consent_NN1-VVB
+Consent_NN1
 which_DTQ
 lies_VVZ
 at_PRP
@@ -38822,7 +38822,7 @@ in_PRP
 the_AT0
 medical-legal_AJ0
 context_NN1
-Daube_NP0-NN1
+Daube_NP0
 argued_VVD
 several_DT0
 years_NN2
@@ -38930,7 +38930,7 @@ the_AT0
 use_NN1
 of_PRF
 artificial_AJ0
-life-support_AJ0-NN1
+life-support_AJ0
 machinery_NN1
 on_PRP
 which_DTQ
@@ -38967,14 +38967,14 @@ typically_AV0
 presented_VVN
 the_AT0
 much_DT0
-publicized_VVN-VVD
+publicized_VVN
 widely_AV0
 known_VVN
 case_NN1
 of_PRF
 the_AT0
 unconscious_AJ0
-dying_VVG-AJ0
+dying_AJ0
 patient_NN1
 connected_VVN
 to_TO0
@@ -39004,8 +39004,8 @@ dependent_AJ0
 emergency_NN1
 patient_NN1
 THE_AT0
-UNCONSCIOUS_AJ0-NN1
-DYING_AJ0-VVG
+UNCONSCIOUS_AJ0
+DYING_AJ0
 PATIENT_NN1
 A_AT0
 patient_NN1
@@ -39050,7 +39050,7 @@ circumstances_NN2
 may_VM0
 the_AT0
 doctors_NN2
-switch_VVI
+switch_NN1
 off_AVP
 the_AT0
 ventilator_NN1
@@ -39065,7 +39065,7 @@ in_PRP
 recent_AJ0
 years_NN2
 The_AT0
-Press_NN1-VVB
+Press_NN1
 has_VHZ
 introduced_VVN
 into_PRP
@@ -39175,7 +39175,7 @@ own_DT0
 folklore_NN1
 A_AT0
 recent_AJ0
-editorial_AJ0-NN1
+editorial_NN1
 in_PRP
 the_AT0
 British_AJ0
@@ -39263,7 +39263,7 @@ dilemma_NN1
 of_PRF
 when_CJS
 to_TO0
-switch_VVI
+switch_NN1
 off_AVP
 the_AT0
 ventilator_NN1
@@ -39440,7 +39440,7 @@ rather_AV0
 than_CJS
 a_AT0
 positive_AJ0
-act_VVI
+act_NN1
 It_PNP
 is_VBZ
 an_AT0
@@ -39516,9 +39516,9 @@ defendant_NN1
 a_AT0
 duty_NN1
 to_TO0
-act_VVI
+act_NN1
 The_AT0
-doctor-patient_AJ0-NN1
+doctor-patient_NN1
 relationship_NN1
 is_VBZ
 just_AV0
@@ -39565,7 +39565,7 @@ that_CJT
 if_CJS
 doctors_NN2
 customarily_AV0
-switch_VVI
+switch_NN1
 off_AVP
 ventilators_NN2
 in_PRP
@@ -39663,7 +39663,7 @@ considerable_AJ0
 violence_NN1
 to_TO0
 ordinary_AJ0
-English_AJ0-NN1
+English_AJ0
 usage_NN1
 It_PNP
 represents_VVZ
@@ -39674,7 +39674,7 @@ solve_VVI
 the_AT0
 problem_NN1
 by_PRP
-logic-chopping_NN1-AJ0
+logic-chopping_NN1
 Such_DT0
 an_AT0
 approach_NN1
@@ -39689,7 +39689,7 @@ that_CJT
 no_AT0
 crime_NN1
 is_VBZ
-involved_AJ0
+involved_VVN
 but_CJC
 it_PNP
 is_VBZ
@@ -40162,7 +40162,7 @@ major_AJ0
 philosophical_AJ0
 change_NN1
 was_VBD
-involved_AJ0
+involved_VVN
 but_CJC
 merely_AV0
 the_AT0
@@ -40520,7 +40520,7 @@ whether_CJS
 or_CJC
 not_XX0
 to_TO0
-switch_VVI
+switch_NN1
 the_AT0
 machine_NN1
 on_PRP
@@ -40631,7 +40631,7 @@ have_VHB
 to_TO0
 be_VBI
 considered_VVN
-Chief_NP0
+Chief_NN1
 Justice_NP0
 Hughes_NP0
 writing_NN1
@@ -40652,7 +40652,7 @@ his_DPS
 decision_NN1
 on_PRP
 the_AT0
-fledgling_NN1-AJ0
+fledgling_AJ0
 constitutional_AJ0
 doctrine_NN1
 of_PRF
@@ -40796,7 +40796,7 @@ this_DT0
 third_ORD
 category_NN1
 despite_PRP
-initial_AJ0-NN1
+initial_AJ0
 medical_AJ0
 and_CJC
 popular_AJ0
@@ -40834,14 +40834,14 @@ receive_VVI
 intensive_AJ0
 and_CJC
 expensive_AJ0
-round-the-clock_AJ0-NN1
+round-the-clock_NN1
 treatment_NN1
 from_PRP
 the_AT0
 staff_NN0
 of_PRF
 the_AT0
-nursing_AJ0-NN1
+nursing_NN1
 home_NN1
 where_AVQ
 she_PNP
@@ -41369,7 +41369,7 @@ that_CJT
 one_CRD
 is_VBZ
 an_AT0
-act_VVI
+act_NN1
 of_PRF
 killing_VVG
 and_CJC
@@ -41454,13 +41454,13 @@ on_PRP
 four_CRD
 basic_AJ0
 and_CJC
-interrelated_AJ0-VVN
+interrelated_AJ0
 premisses_NN2
 First_ORD
 there_EX0
 is_VBZ
 the_AT0
-libertarian_AJ0-NN1
+libertarian_AJ0
 premiss_NN1
 that_CJT
 a_AT0
@@ -41476,7 +41476,7 @@ by_PRP
 another_DT0
 's_POS
 conduct_NN1
-Stabbing_VVG-AJ0
+Stabbing_VVG
 to_TO0
 death_NN1
 offends_VVZ
@@ -41523,7 +41523,7 @@ some_DT0
 philosophers_NN2
 call_VVI
 the_AT0
-red-light_AJ0-NN1
+red-light_NN1
 rule_NN1
 It_PNP
 may_VM0
@@ -41696,8 +41696,8 @@ before_PRP
 ventilators_NN2
 ever_AV0
 existed_VVD
-Stabbing_VVG-AJ0
-consenting_VVG-AJ0
+Stabbing_VVG
+consenting_AJ0
 patients_NN2
 goes_VVZ
 beyond_PRP
@@ -42228,7 +42228,7 @@ guilty_AJ0
 of_PRF
 any_DT0
 criminal_AJ0
-act_VVI
+act_NN1
 or_CJC
 of_PRF
 unprofessional_AJ0
@@ -42305,7 +42305,7 @@ as_CJS
 part_NN1
 of_PRF
 the_AT0
-English_AJ0-NN1
+English_AJ0
 law_NN1
 also_AV0
 though_CJS
@@ -42414,7 +42414,7 @@ in_PRP
 imminent_AJ0
 danger_NN1
 of_PRF
-dying_VVG-AJ0
+dying_AJ0
 He_PNP
 is_VBZ
 stable_AJ0
@@ -42566,7 +42566,7 @@ the_AT0
 sentence_NN1
 is_VBZ
 at_PRP
-present_AJ0-NN1
+present_AJ0
 fixed_AJ0
 by_PRP
 law_NN1
@@ -42662,7 +42662,7 @@ safety_NN1
 net_AJ0
 hence_AV0
 a_AT0
-fall_VVI
+fall_NN1
 would_VM0
 ordinarily_AV0
 be_VBI
@@ -42693,7 +42693,7 @@ permitting_VVG
 the_AT0
 tightrope-walker_NN1
 to_TO0
-fall_VVI
+fall_NN1
 will_VM0
 persuade_VVI
 otherwise_AV0

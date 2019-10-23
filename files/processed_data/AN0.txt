@@ -42,7 +42,7 @@ there_EX0
 are_VBB
 often_AV0
 separate_AJ0
-intelligence-gathering_AJ0-NN1
+intelligence-gathering_NN1
 sections_NN2
 in_PRP
 each_DT0
@@ -85,7 +85,7 @@ its_DPS
 share_NN1
 of_PRF
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 intelligence_NN1
 budget_NN1
 and_CJC
@@ -295,7 +295,7 @@ and_CJC
 in_PRP
 Britain_NP0
 are_VBB
-headhunted_VVD
+headhunted_AJ0
 initially_AV0
 under_PRP
 another_DT0
@@ -379,7 +379,7 @@ dirty_AJ0
 raincoat_NN1
 which_DTQ
 it_PNP
-stressed_VVD
+stressed_VVN
 was_VBD
 precisely_AV0
 the_AT0
@@ -453,7 +453,7 @@ referred_VVN
 to_TO0
 as_CJS
 the_AT0
-Secret_AJ0-NN1
+Secret_AJ0
 Intelligence_NN1
 Service_NN1
 responsible_AJ0
@@ -509,7 +509,7 @@ that_CJT
 impeccable_AJ0
 Liberal_AJ0
 Lord_NP0
-Haldane_NP0
+Haldane_AJ0
 to_TO0
 consider_VVI
 The_AT0
@@ -542,7 +542,7 @@ Foreign_AJ0
 Office_NN1
 MI5_UNC
 's_POS
-initial_AJ0-NN1
+initial_AJ0
 task_NN1
 was_VBD
 to_TO0
@@ -889,7 +889,7 @@ moved_VVD
 again_AV0
 to_TO0
 its_DPS
-present_AJ0-NN1
+present_AJ0
 address_NN1
 still_AV0
 in_PRP
@@ -1512,7 +1512,7 @@ then_AV0
 a_AT0
 succession_NN1
 of_PRF
-tawdry_AJ0-NN1
+tawdry_AJ0
 traitors_NN2
 have_VHB
 been_VBN
@@ -1643,7 +1643,7 @@ comprising_VVG
 Peter_NP0
 and_CJC
 Helen_NP0
-Kroger_NP0-NN1
+Kroger_NN1
 and_CJC
 Gordon_NP0
 Lonsdale_NP0
@@ -1652,7 +1652,7 @@ real_AJ0
 name_NN1
 was_VBD
 Konon_NP0
-Molody_NP0-NN1
+Molody_NP0
 all_DT0
 of_PRF
 whom_PNQ
@@ -1942,7 +1942,7 @@ No_ITJ
 one_CRD
 took_VVD
 any_DT0
-notice_VVI
+notice_NN1
 Burgess_NP0
 was_VBD
 a_AT0
@@ -2008,7 +2008,7 @@ counter-intelligence_NN1
 agency_NN1
 to_TO0
 become_VVI
-politicised_AJ0-VVN
+politicised_AJ0
 MI5_UNC
 maintains_VVZ
 a_AT0
@@ -2087,7 +2087,7 @@ Defence_NN1
 office_NN1
 in_PRP
 Mount_NP0
-Row_NN1-VVB
+Row_NN1
 Mayfair_NP0
 The_AT0
 original_AJ0
@@ -2233,7 +2233,7 @@ controversial_AJ0
 and_CJC
 subversive_AJ0
 Cathy_NP0
-Massiter_NP0-NN1
+Massiter_NP0
 made_VVN
 it_PNP
 very_AV0
@@ -2297,7 +2297,7 @@ there_EX0
 indefinitely_AV0
 Furthermore_AV0
 Miss_NP0
-Massiter_NP0-NN1
+Massiter_NP0
 explained_VVD
 that_CJT
 information_NN1
@@ -2460,7 +2460,7 @@ is_VBZ
 51-year-old_AJ0
 Dr._NP0
 John_NP0
-Spackman_NP0-NN1
+Spackman_NN1
 who_PNQ
 previously_AV0
 held_VVN
@@ -2715,7 +2715,7 @@ Peter_NP0
 Wright_NP0
 and_CJC
 Cathy_NP0
-Massiter_NP0-NN1
+Massiter_NP0
 who_PNQ
 had_VHD
 first-hand_AJ0
@@ -2808,7 +2808,7 @@ the_AT0
 book_NN1
 despite_PRP
 the_AT0
-high-sounding_AJ0-NN1
+high-sounding_AJ0
 words_NN2
 with_PRP
 which_DTQ
@@ -2864,11 +2864,11 @@ will_VM0
 be_VBI
 any_DT0
 more_AV0
-law-abiding_AJ0-NN1
+law-abiding_AJ0
 now_AV0
 MI6_UNC
 the_AT0
-Secret_AJ0-NN1
+Secret_AJ0
 Intelligence_NN1
 Service_NN1
 SIS_NN1
@@ -2948,7 +2948,7 @@ scant_AJ0
 regard_VVI
 for_PRP
 any_DT0
-overall_AJ0-NN1
+overall_AJ0
 espionage_NN1
 policy_NN1
 As_CJS
@@ -3073,7 +3073,7 @@ unheard_AJ0
 of_PRF
 location_NN1
 called_VVN
-Peenem\xc3\xbcnde_NN1-NP0
+Peenem\xc3\xbcnde_NN1
 Because_CJS
 MI6_UNC
 possessed_VVD
@@ -3172,7 +3172,7 @@ sort_NN1
 of_PRF
 tie_NN1
 and_CJC
-dined_VVD-VVN
+dined_VVD
 at_PRP
 the_AT0
 right_NN1
@@ -3279,7 +3279,7 @@ accepted_VVN
 his_DPS
 decision_NN1
 with_PRP
-ill-grace_AJ0-NN1
+ill-grace_AJ0
 and_CJC
 throughout_PRP
 the_AT0
@@ -3318,7 +3318,7 @@ some_DT0
 400_CRD
 British_AJ0
 and_CJC
-French_AJ0-NN1
+French_AJ0
 agents_NN2
 to_TO0
 the_AT0
@@ -3461,7 +3461,7 @@ found_VVD
 that_CJT
 MI6_UNC
 is_VBZ
-listed_AJ0
+listed_VVN
 with_PRP
 four_CRD
 addresses_NN2
@@ -3515,7 +3515,7 @@ was_VBD
 Sir_NP0
 Christopher_NP0
 Curwen_NP0
-Official_AJ0-NN1
+Official_AJ0
 letters_NN2
 to_TO0
 MI6_UNC
@@ -3582,7 +3582,7 @@ it_PNP
 does_VDZ
 occasionally_AV0
 get_VVI
-involved_AJ0
+involved_VVN
 in_PRP
 projects_NN2
 within_PRP
@@ -3609,7 +3609,7 @@ years_NN2
 ago_AV0
 MI6_UNC
 became_VVD
-involved_AJ0
+involved_VVN
 against_PRP
 the_AT0
 IRA_NP0
@@ -3847,11 +3847,11 @@ of_PRF
 the_AT0
 world_NN1
 without_PRP
-arousing_VVG-AJ0
+arousing_AJ0
 suspicion_NN1
 but_CJC
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 value_NN1
 of_PRF
 the_AT0
@@ -3984,7 +3984,7 @@ fact_NN1
 that_CJT
 it_PNP
 was_VBD
-listed_AJ0
+listed_VVN
 in_PRP
 several_DT0
 yearbooks_NN2
@@ -4041,7 +4041,7 @@ MI6_UNC
 offices_NN2
 at_PRP
 56_CRD
-Broadway_NP0-NN1
+Broadway_NP0
 in_PRP
 London_NP0
 The_AT0
@@ -4100,7 +4100,7 @@ of_PRF
 codebreakers_NN2
 could_VM0
 be_VBI
-increased_AJ0
+increased_VVN
 GCCS_NP0
 managed_VVD
 to_TO0
@@ -4259,7 +4259,7 @@ clause_NN1
 to_TO0
 the_AT0
 1911_CRD
-Official_AJ0-NN1
+Official_AJ0
 Secrets_NN2
 Act_NN1
 giving_VVG
@@ -4323,7 +4323,7 @@ the_AT0
 years_NN2
 passed_VVN
 telephone_NN1
-telex_VVB-NN1
+telex_NN1
 facsimile_NN1
 and_CJC
 computer_NN1
@@ -4477,7 +4477,7 @@ read_VVI
 the_AT0
 German_AJ0
 Enigma_NN1
-cryptograph_NN1-VVB
+cryptograph_NN1
 Many_DT0
 years_NN2
 after_PRP
@@ -4529,7 +4529,7 @@ the_AT0
 help_VVI
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 and_CJC
 although_CJS
 Britain_NP0
@@ -4608,7 +4608,7 @@ the_AT0
 other_AJ0
 Intelligence_NN1
 even_AV0
-codebreaking_VVG-AJ0
+codebreaking_VVG
 is_VBZ
 at_PRP
 best_AJS
@@ -4723,7 +4723,7 @@ Cheltenham_NP0
 where_AVQ
 it_PNP
 swiftly_AV0
-sprawled_VVD
+sprawled_VVN
 over_PRP
 two_CRD
 large_AJ0
@@ -4789,7 +4789,7 @@ world_NN1
 and_CJC
 where_AVQ
 possible_AJ0
-decoding_NN1
+decoding_VVG
 them_PNP
 This_DT0
 work_NN1
@@ -4856,7 +4856,7 @@ the_AT0
 National_AJ0
 Security_NN1
 Agency_NN1
-NSA_NN1-NP0
+NSA_NN1
 would_VM0
 share_NN1
 out_AVP
@@ -4893,7 +4893,7 @@ had_VHD
 more_AV0
 influence_NN1
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 would_VM0
 operate_VVI
 All_DT0
@@ -4910,7 +4910,7 @@ in_PRP
 Cheltenham_NP0
 and_CJC
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 at_PRP
 Fort_NP0
 Meade_NP0
@@ -4931,13 +4931,13 @@ world_NN1
 GCHQ_NP0
 and_CJC
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 have_VHB
 a_AT0
 series_NN0
 of_PRF
 powerful_AJ0
-listening_VVG-NN1
+listening_VVG
 stations_NN2
 that_CJT
 scoop_NN1
@@ -5079,7 +5079,7 @@ above_PRP
 the_AT0
 Indian_AJ0
 Ocean_NP0
-mixed_AJ0
+mixed_VVN
 up_AVP
 with_PRP
 all_DT0
@@ -5101,7 +5101,7 @@ the_AT0
 ether_NN1
 by_PRP
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 's_POS
 giant_AJ0
 aerials_NN2
@@ -5191,7 +5191,7 @@ Cheltenham_NP0
 By_PRP
 allowing_VVG
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 to_TO0
 tap_NN1
 the_AT0
@@ -5202,14 +5202,14 @@ GCHQ_NP0
 had_VHD
 not_XX0
 been_VBN
-involved_AJ0
+involved_VVN
 and_CJC
 since_CJS
 the_AT0
 presence_NN1
 of_PRF
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 in_PRP
 Britain_NP0
 is_VBZ
@@ -5304,7 +5304,7 @@ way_NN1
 to_TO0
 program_NN1
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 's_POS
 computers_NN2
 at_PRP
@@ -5323,7 +5323,7 @@ names_NN2
 addresses_NN2
 telephone_NN1
 and_CJC
-telex_VVB-NN1
+telex_NN1
 numbers_NN2
 as_CJS
 in_PRP
@@ -5352,7 +5352,7 @@ discover_VVI
 Naturally_AV0
 neither_AV0
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 nor_CJC
 GCHQ_NP0
 will_VM0
@@ -5369,7 +5369,7 @@ but_CJC
 in_PRP
 1976_CRD
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 's_POS
 Harvest_NN1
 computer_NN1
@@ -5404,7 +5404,7 @@ to_TO0
 the_AT0
 information_NN1
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 had_VHD
 collected_VVN
 and_CJC
@@ -5454,7 +5454,7 @@ the_AT0
 only_AV0
 piece_NN1
 of_PRF
-politicised_AJ0-VVN
+politicised_AJ0
 telephone_NN1
 tapping_VVG
 that_CJT
@@ -5475,7 +5475,7 @@ sometimes_AV0
 called_VVN
 the_AT0
 London_NP0
-Processing_VVG-NN1
+Processing_VVG
 Group_NN1
 LPG_NP0
 Both_DT0
@@ -5546,7 +5546,7 @@ using_VVG
 local_AJ0
 telephone_NN1
 and_CJC
-telex_VVB-NN1
+telex_NN1
 lines_NN2
 but_CJC
 are_VBB
@@ -5724,7 +5724,7 @@ followed_VVN
 by_PRP
 the_AT0
 incredibly_AV0
-fast_AV0-AJ0
+fast_AJ0
 SR-71_CRD
 both_AV0
 of_PRF
@@ -5789,7 +5789,7 @@ Britain_NP0
 's_POS
 MI6_UNC
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 which_DTQ
 like_PRP
 GCHQ_NP0
@@ -5799,12 +5799,12 @@ Elint_NP0
 Electronic_AJ0
 Intelligence_NN1
 and_CJC
-codebreaking_VVG-AJ0
+codebreaking_VVG
 the_AT0
 National_AJ0
 Reconnaissance_NN1
 Office_NN1
-NRO_NN1-NP0
+NRO_NP0
 which_DTQ
 controls_NN2
 the_AT0
@@ -6097,7 +6097,7 @@ president_NN1
 with_PRP
 foreign_AJ0
 intelligence_NN1
-pressured_VVD
+pressured_VVN
 President_NP0
 Truman_NP0
 into_PRP
@@ -6489,7 +6489,7 @@ via_PRP
 the_AT0
 Marshall_NP0
 Plan_NN1
-Bribing_VVG-AJ0
+Bribing_VVG
 corrupt_AJ0
 politicians_NN2
 and_CJC
@@ -6636,7 +6636,7 @@ with_PRP
 emotion_NN1
 as_CJS
 he_PNP
-lectured_VVN
+lectured_VVD
 the_AT0
 assembled_VVN
 politicians_NN2
@@ -6687,7 +6687,7 @@ the_AT0
 country_NN1
 he_PNP
 so_AV0
-devoutly_AJ0-AV0
+devoutly_AV0
 wished_VVD
 to_TO0
 defend_VVI
@@ -6707,7 +6707,7 @@ House_NN1
 staff_NN0
 he_PNP
 had_VHD
-involved_AJ0
+involved_VVN
 himself_PNX
 in_PRP
 forgery_NN1
@@ -6835,7 +6835,7 @@ was_VBD
 guilty_AJ0
 of_PRF
 any_DT0
-lawbreaking_NN1-AJ0
+lawbreaking_AJ0
 or_CJC
 any_DT0
 crime_NN1
@@ -6880,7 +6880,7 @@ from_PRP
 As_CJS
 North_NN1
 's_POS
-tawdry_AJ0-NN1
+tawdry_AJ0
 tale_NN1
 unfolded_VVD
 one_CRD
@@ -7022,7 +7022,7 @@ up_AVP
 enough_AV0
 courage_NN1
 to_TO0
-clip_NN1-VVB
+clip_NN1
 its_DPS
 wings_NN2
 What_DTQ
@@ -7090,7 +7090,7 @@ which_DTQ
 Truman_NP0
 created_VVN
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 and_CJC
 what_DTQ
 it_PNP
@@ -7107,9 +7107,9 @@ secret_AJ0
 even_AV0
 today_AV0
 At_PRP
-present_AJ0-NN1
+present_AJ0
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 employs_VVZ
 over_PRP
 20,000_CRD
@@ -7139,7 +7139,7 @@ less_AV0
 well_AV0
 known_VVN
 The_AT0
-NSA_NN1-NP0
+NSA_NN1
 came_VVD
 about_PRP
 as_CJS
@@ -7189,7 +7189,7 @@ in_PRP
 Because_CJS
 of_PRF
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 's_POS
 vast_AJ0
 budget_NN1
@@ -7209,7 +7209,7 @@ far_AV0
 Like_PRP
 GCHQ_NP0
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 has_VHZ
 two_CRD
 functions_NN2
@@ -7248,7 +7248,7 @@ to_TO0
 decrypt_VVI
 it_PNP
 The_AT0
-NSA_NN1-NP0
+NSA_NN1
 is_VBZ
 not_XX0
 officially_AV0
@@ -7276,7 +7276,7 @@ all_DT0
 the_AT0
 same_DT0
 The_AT0
-NSA_NN1-NP0
+NSA_NN1
 has_VHZ
 a_AT0
 huge_AJ0
@@ -7292,7 +7292,7 @@ of_PRF
 its_DPS
 most_AV0
 important_AJ0
-listening_VVG-NN1
+listening_VVG
 posts_NN2
 being_VBG
 strategically_AV0
@@ -7311,7 +7311,7 @@ as_CJS
 well_AV0
 GCHQ_NP0
 allows_VVZ
-NSA_NN1-NP0
+NSA_NN1
 to_TO0
 operate_VVI
 in_PRP
@@ -7338,7 +7338,7 @@ Menwith_NP0
 Hill_NP0
 and_CJC
 Morwenstow_NP0
-saving_NN1
+saving_VVG
 GCHQ_NP0
 a_AT0
 lot_NN1
@@ -7352,7 +7352,7 @@ seen_VVN
 by_PRP
 allowing_VVG
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 to_TO0
 eavesdrop_VVI
 on_PRP
@@ -7399,7 +7399,7 @@ within_PRP
 Britain_NP0
 Likewise_AV0
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 station_NN1
 at_PRP
 Menwith_NP0
@@ -7436,7 +7436,7 @@ New_AJ0
 Statesman_NN1
 &_CJC
 Society_NN1
-listed_AJ0
+listed_VVN
 some_DT0
 of_PRF
 the_AT0
@@ -7506,7 +7506,7 @@ this_DT0
 confirms_VVZ
 that_CJT
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 and_CJC
 GCHQ_NP0
 are_VBB
@@ -7578,10 +7578,10 @@ past_NN1
 In_PRP
 1969_CRD
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 began_VVD
 Operation_NN1
-Minaret_NP0-NN1
+Minaret_NP0
 The_AT0
 plan_NN1
 was_VBD
@@ -7599,7 +7599,7 @@ the_AT0
 eyes_NN2
 of_PRF
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 wanted_VVD
 to_TO0
 foment_NN1
@@ -7620,7 +7620,7 @@ were_VBD
 those_DT0
 connected_VVN
 with_PRP
-anti-war_AJ0-NN1
+anti-war_AJ0
 movements_NN2
 especially_AV0
 those_DT0
@@ -7650,7 +7650,7 @@ Benjamin_NP0
 Spock_NP0
 Dr_NP0
 Martin_NP0
-Luther_NP0-NN1
+Luther_NP0
 King_NP0
 and_CJC
 many_DT0
@@ -7674,7 +7674,7 @@ Vietnam_NP0
 war_NN1
 Associated_AJ0
 with_PRP
-Minaret_NP0-NN1
+Minaret_NP0
 was_VBD
 another_DT0
 programme_NN1
@@ -7693,7 +7693,7 @@ make_VVI
 available_AJ0
 to_TO0
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 all_DT0
 its_DPS
 intercepts_VVZ
@@ -7705,7 +7705,7 @@ those_DT0
 with_PRP
 America_NP0
 The_AT0
-NSA_NN1-NP0
+NSA_NN1
 had_VHD
 naturally_AV0
 taken_VVN
@@ -7713,7 +7713,7 @@ enormous_AJ0
 trouble_NN1
 to_TO0
 keep_VVI
-Minaret_NP0-NN1
+Minaret_NP0
 and_CJC
 Shamrock_NN1
 secret_AJ0
@@ -7754,7 +7754,7 @@ details_NN2
 of_PRF
 what_DTQ
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 was_VBD
 doing_VDG
 and_CJC
@@ -7769,12 +7769,12 @@ admit_VVI
 to_TO0
 an_AT0
 illegal_AJ0
-act_VVI
+act_NN1
 in_PRP
 open_AJ0
 court_NN1
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 swiftly_AV0
 terminated_VVN
 the_AT0
@@ -7792,7 +7792,7 @@ to_TO0
 restart_VVI
 them_PNP
 The_AT0
-NSA_NN1-NP0
+NSA_NN1
 operates_VVZ
 many_DT0
 other_AJ0
@@ -7804,7 +7804,7 @@ world_NN1
 Typical_AJ0
 is_VBZ
 the_AT0
-Pine_NN1-VVB
+Pine_NN1
 Gap_NN1
 installation_NN1
 near_PRP
@@ -7836,7 +7836,7 @@ is_VBZ
 entirely_AV0
 staffed_VVN
 by_PRP
-NSA_NN1-NP0
+NSA_NN1
 personnel_NN2
 and_CJC
 there_EX0
@@ -7876,7 +7876,7 @@ intercepted_VVN
 each_DT0
 day_NN1
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 uses_NN2
 computers_NN2
 that_CJT
@@ -7967,7 +7967,7 @@ is_VBZ
 and_CJC
 whether_CJS
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 really_AV0
 provides_VVZ
 good_AJ0
@@ -7976,7 +7976,7 @@ for_PRP
 money_NN1
 Statistically_AV0
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 is_VBZ
 very_AV0
 impressive_AJ0
@@ -8006,7 +8006,7 @@ huge_AJ0
 sprawling_AJ0
 empires_NN2
 The_AT0
-NSA_NN1-NP0
+NSA_NN1
 is_VBZ
 now_AV0
 so_AV0
@@ -8069,7 +8069,7 @@ its_DPS
 secrecy_NN1
 Effectively_AV0
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 is_VBZ
 defeating_VVG
 itself_PNX
@@ -8171,7 +8171,7 @@ other_AJ0
 intelligence_NN1
 agency_NN1
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 is_VBZ
 very_AV0
 good_AJ0
@@ -8196,7 +8196,7 @@ all_DT0
 There_EX0
 is_VBZ
 no_AT0
-substitute_NN1-AJ0
+substitute_NN1
 for_PRP
 good_AJ0
 sound_NN1
@@ -8223,7 +8223,7 @@ realise_VVI
 how_AVQ
 inefficient_AJ0
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 really_AV0
 is_VBZ
 just_AV0
@@ -8245,7 +8245,7 @@ The_AT0
 National_AJ0
 Reconnaissance_NN1
 Office_NN1
-NRO_NN1-NP0
+NRO_NP0
 is_VBZ
 responsible_AJ0
 for_PRP
@@ -8272,7 +8272,7 @@ Department_NN1
 4C-956_CRD
 in_PRP
 the_AT0
-Pentagon_NP0-NN1
+Pentagon_NP0
 Washington_NP0
 DC_NP0
 where_AVQ
@@ -8307,7 +8307,7 @@ either_AV0
 the_AT0
 CIA_NP0
 or_CJC
-NSA_NN1-NP0
+NSA_NN1
 In_PRP
 the_AT0
 last_ORD
@@ -8318,7 +8318,7 @@ is_VBZ
 estimated_VVN
 that_CJT
 the_AT0
-NRO_NN1-NP0
+NRO_NP0
 has_VHZ
 spent_VVN
 more_AV0
@@ -8333,7 +8333,7 @@ Over_PRP
 this_DT0
 period_NN1
 the_AT0
-NRO_NN1-NP0
+NRO_NP0
 has_VHZ
 put_VVI
 into_PRP
@@ -8362,7 +8362,7 @@ intelligence_NN1
 As_CJS
 technology_NN1
 has_VHZ
-improved_AJ0
+improved_VVN
 so_AV0
 the_AT0
 scope_NN1
@@ -8372,11 +8372,11 @@ of_PRF
 material_NN1
 recovered_VVN
 has_VHZ
-increased_AJ0
+increased_VVN
 dramatically_AV0
 One_CRD
 of_PRF
-NRO_NN1-NP0
+NRO_NP0
 's_POS
 most_AV0
 advanced_AJ0
@@ -8439,7 +8439,7 @@ of_PRF
 California_NP0
 for_PRP
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 It_PNP
 could_VM0
 listen_VVI
@@ -8506,7 +8506,7 @@ to_TO0
 earth_NN1
 at_PRP
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 stations_NN2
 at_PRP
 Menwith_NP0
@@ -8514,7 +8514,7 @@ Hill_NP0
 in_PRP
 Britain_NP0
 and_CJC
-Pine_NN1-VVB
+Pine_NN1
 Gap_NN1
 in_PRP
 Australia_NP0
@@ -8561,7 +8561,7 @@ Chapter_NN1
 2_CRD
 proceeded_VVD
 to_TO0
-spoof_NN1-VVB
+spoof_NN1
 Western_AJ0
 intelligence_NN1
 for_PRP
@@ -8619,18 +8619,18 @@ Argus_NP0
 and_CJC
 later_AV0
 the_AT0
-Keyhole_NN1-NP0
+Keyhole_NN1
 series_NN0
 of_PRF
 satellites_NN2
 The_AT0
-Keyhole_NN1-NP0
+Keyhole_NN1
 KH-11_CRD
 I_PNP
 which_DTQ
 has_VHZ
 vastly_AV0
-improved_AJ0
+improved_VVN
 visual_AJ0
 sensors_NN2
 is_VBZ
@@ -8898,7 +8898,7 @@ citizens_NN2
 have_VHB
 been_VBN
 recently_AV0
-convicted_VVN-AJ0
+convicted_VVN
 of_PRF
 serious_AJ0
 espionage_NN1
@@ -8993,7 +8993,7 @@ communications_NN2
 expert_NN1
 with_PRP
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 who_PNQ
 for_PRP
 five_CRD
@@ -9008,7 +9008,7 @@ work_NN1
 Clyde_NP0
 Conrad_NP0
 a_AT0
-retired_AJ0
+retired_VVD
 US_NP0
 Army_NN1
 sergeant_NN1
@@ -9133,20 +9133,20 @@ yet_AV0
 again_AV0
 to_TO0
 their_DPS
-present_AJ0-NN1
+present_AJ0
 titles_NN2
 of_PRF
 the_AT0
-Komitet_NP0-NN1
+Komitet_NP0
 Gosudarstvennoi_NP0
-Bezopastnosti_NP0-NN1
+Bezopastnosti_NP0
 KGB_NP0
 and_CJC
 the_AT0
-Glavnoye_NP0-NN1
+Glavnoye_NN1
 Razvedyvatelnoye_NP0
 Upravleniye_NP0
-GRU_NN1-NP0
+GRU_NN1
 The_AT0
 headquarters_NN0
 of_PRF
@@ -9172,7 +9172,7 @@ site_NN1
 of_PRF
 the_AT0
 notorious_AJ0
-Lubyanka_NN1-NP0
+Lubyanka_NN1
 prison_NN1
 where_AVQ
 so_AV0
@@ -9196,7 +9196,7 @@ one_CRD
 of_PRF
 the_AT0
 original_AJ0
-Bolshevik_AJ0-NN1
+Bolshevik_NN1
 revolutionaries_NN2
 Felix_NP0
 Dzerzhinsky_NP0
@@ -9210,7 +9210,7 @@ police_NN2
 force_NN1
 called_VVN
 the_AT0
-Cheka_NP0-NN1
+Cheka_NP0
 The_AT0
 KGB_NP0
 has_VHZ
@@ -9436,7 +9436,7 @@ resources_NN2
 rather_AV0
 like_PRP
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 scooping_VVG
 up_AVP
 large_AJ0
@@ -9729,7 +9729,7 @@ the_AT0
 Gorbachev/Reagan_NP0
 summit_NN1
 at_PRP
-Reykjavik_NP0-NN1
+Reykjavik_NP0
 seems_VVZ
 more_AV0
 likely_AJ0
@@ -9754,7 +9754,7 @@ they_PNP
 might_VM0
 go_VVI
 too_AV0
-fast_AV0-AJ0
+fast_AJ0
 for_PRP
 their_DPS
 NATO_NP0
@@ -9894,7 +9894,7 @@ the_AT0
 old_AJ0
 traditions_NN2
 The_AT0
-GRU_NN1-NP0
+GRU_NN1
 is_VBZ
 the_AT0
 military_AJ0
@@ -9949,7 +9949,7 @@ of_PRF
 around_PRP
 6,000_CRD
 the_AT0
-GRU_NN1-NP0
+GRU_NN1
 is_VBZ
 more_AV0
 efficient_AJ0
@@ -9976,7 +9976,7 @@ priority_NN1
 to_TO0
 give_VVI
 the_AT0
-GRU_NN1-NP0
+GRU_NN1
 a_AT0
 lead_VVI
 over_PRP
@@ -10084,7 +10084,7 @@ spending_VVG
 in_PRP
 favour_NN1
 of_PRF
-diverting_VVG-AJ0
+diverting_VVG
 resources_NN2
 to_TO0
 create_VVI
@@ -10303,7 +10303,7 @@ the_AT0
 KGB_NP0
 nor_CJC
 the_AT0
-GRU_NN1-NP0
+GRU_NN1
 are_VBB
 going_VVG
 to_TO0
@@ -10376,7 +10376,7 @@ are_VBB
 many_DT0
 aspects_NN2
 of_PRF
-capitalist_AJ0-NN1
+capitalist_AJ0
 society_NN1
 At_PRP
 the_AT0
@@ -10402,7 +10402,7 @@ is_VBZ
 not_XX0
 forced_VVN
 to_TO0
-drop_VVI
+drop_NN1
 them_PNP
 it_PNP
 may_VM0
@@ -10439,7 +10439,7 @@ Both_DT0
 the_AT0
 KGB_NP0
 and_CJC
-GRU_NN1-NP0
+GRU_NN1
 spend_VVI
 a_AT0
 lot_NN1
@@ -10638,7 +10638,7 @@ invention_NN1
 but_CJC
 came_VVD
 from_PRP
-Toshiba_NP0-NN1
+Toshiba_NN1
 of_PRF
 Japan_NP0
 All_DT0
@@ -11122,7 +11122,7 @@ for_PRP
 the_AT0
 KGB_NP0
 and_CJC
-GRU_NN1-NP0
+GRU_NN1
 having_VHG
 secured_VVN
 some_DT0
@@ -11226,7 +11226,7 @@ more_AV0
 Gorbachev_NP0
 tries_VVZ
 to_TO0
-switch_VVI
+switch_NN1
 Russia_NP0
 's_POS
 economy_NN1
@@ -11268,9 +11268,9 @@ the_AT0
 Direction_NN1
 G\xc3\xa9n\xc3\xa9ral_NN1
 de_NP0
-S\xc3\xa9curit\xc3\xa9_AJ0-NN1
-Ext\xc3\xa9rieur_NN1-NP0
-DGSE_NN1-NP0
+S\xc3\xa9curit\xc3\xa9_AJ0
+Ext\xc3\xa9rieur_NP0
+DGSE_NP0
 which_DTQ
 like_PRP
 MI6_UNC
@@ -11325,10 +11325,10 @@ hardly_AV0
 surprising_AJ0
 that_CJT
 the_AT0
-SDECE_NN1-NP0
+SDECE_NN1
 as_CJS
 the_AT0
-DGSE_NN1-NP0
+DGSE_NP0
 was_VBD
 then_AV0
 known_VVN
@@ -11350,7 +11350,7 @@ at_PRP
 home_NN1
 today_AV0
 's_POS
-DGSE_NN1-NP0
+DGSE_NP0
 has_VHZ
 emerged_VVD
 remarkably_AV0
@@ -11391,7 +11391,7 @@ red-handed_AV0
 in_PRP
 a_AT0
 straightforward_AJ0
-act_VVI
+act_NN1
 of_PRF
 overt_AJ0
 terrorism_NN1
@@ -11434,7 +11434,7 @@ has_VHZ
 is_VBZ
 that_CJT
 most_AV0
-French_AJ0-NN1
+French_AJ0
 people_NN0
 accept_VVI
 a_AT0
@@ -11469,7 +11469,7 @@ operate_VVI
 a_AT0
 huge_AJ0
 computerised_AJ0
-identity-card_AJ0-NN1
+identity-card_NN1
 system_NN1
 associated_VVN
 with_PRP
@@ -11477,11 +11477,11 @@ equally_AV0
 large_AJ0
 and_CJC
 efficient_AJ0
-telephone-tapping_NN1-AJ0
+telephone-tapping_NN1
 centres_NN2
 which_DTQ
 the_AT0
-French_AJ0-NN1
+French_AJ0
 appear_VVI
 to_TO0
 tolerate_VVI
@@ -11567,11 +11567,11 @@ over_PRP
 the_AT0
 release_NN1
 of_PRF
-French_AJ0-NN1
+French_AJ0
 hostages_NN2
 held_VVN
 by_PRP
-Arab_AJ0-NN1
+Arab_AJ0
 groups_NN2
 in_PRP
 the_AT0
@@ -11598,7 +11598,7 @@ Iran/Contra_UNC
 scandal_NN1
 gave_VVD
 the_AT0
-French_AJ0-NN1
+French_AJ0
 much_DT0
 cause_NN1
 for_PRP
@@ -11637,7 +11637,7 @@ Beth_NP0
 the_AT0
 Security_NN1
 and_CJC
-Counter_VVB-NN1
+Counter_NN1
 Espionage_NN1
 service_NN1
 which_DTQ
@@ -11648,7 +11648,7 @@ security_NN1
 Israel_NP0
 's_POS
 uniqueness_NN1
-stems_VVZ-NN2
+stems_NN2
 from_PRP
 the_AT0
 fact_NN1
@@ -11666,7 +11666,7 @@ of_PRF
 war_NN1
 with_PRP
 its_DPS
-Arab_AJ0-NN1
+Arab_AJ0
 neighbours_NN2
 which_DTQ
 together_AV0
@@ -11688,7 +11688,7 @@ rest_NN1
 of_PRF
 the_AT0
 world_NN1
-feel_VVI
+feel_VVB
 permanently_AV0
 sorry_AJ0
 for_PRP
@@ -11784,13 +11784,13 @@ and_CJC
 murdered_VVN
 an_AT0
 innocent_AJ0
-Moroccan_AJ0-NN1
+Moroccan_NN1
 mistaking_VVG
 him_PNP
 for_PRP
 an_AT0
 alleged_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 terrorist_NN1
 The_AT0
 world_NN1
@@ -11806,8 +11806,8 @@ the_AT0
 plans_NN2
 of_PRF
 the_AT0
-French_AJ0-NN1
-Mirage_NN1-NP0
+French_AJ0
+Mirage_NP0
 fighter_NN1
 from_PRP
 Switzerland_NP0
@@ -11840,7 +11840,7 @@ Israeli_AJ0
 nuclear_AJ0
 technician_NN1
 Mordechai_NP0
-Vananu_NP0-NN1
+Vananu_NN1
 who_PNQ
 came_VVD
 to_TO0
@@ -11889,7 +11889,7 @@ Shin_NN1
 Beth_NP0
 murdered_VVN
 two_CRD
-Arab_AJ0-NN1
+Arab_AJ0
 terrorist_NN1
 suspects_VVZ
 they_PNP
@@ -12132,7 +12132,7 @@ kill_VVI
 innocent_AJ0
 people_NN0
 blaming_VVG
-Arab_AJ0-NN1
+Arab_AJ0
 countries_NN2
 if_CJS
 that_CJT
@@ -12311,7 +12311,7 @@ so_AV0
 that_CJT
 it_PNP
 can_VM0
-act_VVI
+act_NN1
 as_CJS
 tripwire_NN1
 in_PRP
@@ -12376,7 +12376,7 @@ off_AVP
 information_NN1
 particularly_AV0
 about_PRP
-Arab_AJ0-NN1
+Arab_AJ0
 terrorism_NN1
 that_CJT
 affects_VVZ
@@ -12438,7 +12438,7 @@ the_AT0
 bargain_NN1
 Following_VVG
 the_AT0
-Sowan_AJ0-NN1
+Sowan_AJ0
 affair_NN1
 the_AT0
 Foreign_AJ0
@@ -12481,7 +12481,7 @@ any_DT0
 more_AV0
 information_NN1
 about_PRP
-Arab_AJ0-NN1
+Arab_AJ0
 terrorism_NN1
 So_AV0
 the_AT0
@@ -12491,7 +12491,7 @@ which_DTQ
 with_PRP
 so_AV0
 much_DT0
-contrived_VVD
+contrived_VVN
 anger_NN1
 and_CJC
 publicity_NN1
@@ -12537,7 +12537,7 @@ which_DTQ
 always_AV0
 shares_NN2
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 viewpoint_NN1
 this_DT0
 demonstrates_VVZ
@@ -12624,8 +12624,8 @@ is_VBZ
 taken_VVN
 up_AVP
 with_PRP
-swopping_VVG-AJ0
-convicted_VVN-AJ0
+swopping_VVG
+convicted_VVN
 spies_NN2
 back_AVP
 and_CJC
@@ -12645,7 +12645,7 @@ have_VHB
 also_AV0
 been_VBN
 a_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 target_NN1
 for_PRP
 East_NN1
@@ -12762,7 +12762,7 @@ who_PNQ
 are_VBB
 too_AV0
 highly_AV0
-politicised_AJ0-VVN
+politicised_AJ0
 and_CJC
 target_NN1
 the_AT0
@@ -12797,7 +12797,7 @@ of_PRF
 trivial_AJ0
 dross_NN1
 The_AT0
-French_AJ0-NN1
+French_AJ0
 are_VBB
 pragmatic_AJ0
 to_TO0
@@ -12911,7 +12911,7 @@ THE_AT0
 WASTELAND_NN1
 OF_PRF
 TRUTH_NN1
-Listening_VVG-NN1
+Listening_VVG
 to_TO0
 your_DPS
 enemy_NN1
@@ -12935,7 +12935,7 @@ important_AJ0
 source_NN1
 of_PRF
 information_NN1
-Eavesdropping_NN1-VVG
+Eavesdropping_VVG
 takes_VVZ
 many_DT0
 forms_NN2
@@ -12961,7 +12961,7 @@ telegrams_NN2
 and_CJC
 more_AV0
 recently_AV0
-listening_VVG-NN1
+listening_VVG
 to_TO0
 their_DPS
 telephone_NN1
@@ -12976,7 +12976,7 @@ in_PRP
 your_DPS
 own_DT0
 country_NN1
-Listening_VVG-NN1
+Listening_VVG
 to_TO0
 your_DPS
 enemies_NN2
@@ -13003,7 +13003,7 @@ But_CJC
 what_DTQ
 every_AT0
 intelligence_NN1
-chief_AJ0-NN1
+chief_NN1
 longs_VVZ
 to_TO0
 do_VDB
@@ -13371,7 +13371,7 @@ dug_VVD
 towards_PRP
 the_AT0
 cable_NN1
-duct_NN1-VVB
+duct_VVB
 and_CJC
 the_AT0
 trunk_NN1
@@ -13473,7 +13473,7 @@ the_AT0
 four_CRD
 powers_NN2
 had_VHD
-carved_AJ0
+carved_VVN
 themselves_PNX
 out_AVP
 oddly_AV0
@@ -13507,8 +13507,8 @@ post-war_AJ0
 espionage_NN1
 General_AJ0
 Reinhard_NP0
-Gehlen_NP0-NN1
-Gehlen_NP0-NN1
+Gehlen_NP0
+Gehlen_NP0
 's_POS
 army_NN1
 career_NN1
@@ -13534,15 +13534,15 @@ he_PNP
 became_VVD
 military_AJ0
 intelligence_NN1
-chief_AJ0-NN1
+chief_NN1
 of_PRF
 Hitler_NP0
 's_POS
-Wehrmacht_NN1-NP0
+Wehrmacht_NN1
 Foreign_AJ0
 Armies_NN2
 East_NN1
-Gehlen_NP0-NN1
+Gehlen_NP0
 knew_VVD
 more_AV0
 about_PRP
@@ -13585,7 +13585,7 @@ they_PNP
 became_VVD
 his_DPS
 agents_NN2
-Gehlen_NP0-NN1
+Gehlen_NP0
 had_VHD
 even_AV0
 managed_VVD
@@ -13618,7 +13618,7 @@ final_AJ0
 battles_NN2
 of_PRF
 1945_CRD
-Gehlen_NP0-NN1
+Gehlen_NP0
 realised_VVD
 that_CJT
 it_PNP
@@ -13650,7 +13650,7 @@ his_DPS
 own_DT0
 headquarters_NN0
 Here_AV0
-Gehlen_NP0-NN1
+Gehlen_NP0
 collected_VVN
 up_AVP
 the_AT0
@@ -13658,7 +13658,7 @@ thousands_CRD
 of_PRF
 spools_NN2
 of_PRF
-microfilm_NN1-VVB
+microfilm_NN1
 that_CJT
 over_PRP
 the_AT0
@@ -13684,7 +13684,7 @@ of_PRF
 his_DPS
 best_AJS
 experts_NN2
-Gehlen_NP0-NN1
+Gehlen_NP0
 set_VVN
 off_AVP
 for_PRP
@@ -13698,9 +13698,9 @@ the_AT0
 Americans_NN2
 After_PRP
 some_DT0
-initial_AJ0-NN1
+initial_AJ0
 difficulties_NN2
-Gehlen_NP0-NN1
+Gehlen_NP0
 was_VBD
 able_AJ0
 to_TO0
@@ -13728,19 +13728,19 @@ US_NP0
 Army_NN1
 's_POS
 intelligence_NN1
-chief_AJ0-NN1
+chief_NN1
 who_PNQ
 without_PRP
 any_DT0
 fuss_NN1
 took_VVD
-Gehlen_NP0-NN1
+Gehlen_NP0
 to_TO0
 see_VVI
 General_AJ0
 Eisenhower_NP0
 Then_AV0
-Gehlen_NP0-NN1
+Gehlen_NP0
 together_AV0
 with_PRP
 his_DPS
@@ -13759,7 +13759,7 @@ require_VVB
 much_DT0
 effort_NN1
 on_PRP
-Gehlen_NP0-NN1
+Gehlen_NP0
 's_POS
 part_NN1
 to_TO0
@@ -13789,7 +13789,7 @@ the_AT0
 Americans_NN2
 quietly_AV0
 overlooked_VVN
-Gehlen_NP0-NN1
+Gehlen_NP0
 's_POS
 record_NN1
 with_PRP
@@ -13797,7 +13797,7 @@ the_AT0
 Nazis_NN2
 Thus_AV0
 re-established_VVN
-Gehlen_NP0-NN1
+Gehlen_NP0
 returned_VVD
 to_TO0
 Germany_NP0
@@ -13818,7 +13818,7 @@ against_PRP
 Russia_NP0
 Initially_AV0
 all_DT0
-Gehlen_NP0-NN1
+Gehlen_NP0
 's_POS
 funding_NN1
 came_VVD
@@ -13840,7 +13840,7 @@ as_CJS
 a_AT0
 sovereign_NN1
 state_NN1
-Gehlen_NP0-NN1
+Gehlen_NP0
 took_VVD
 over_PRP
 the_AT0
@@ -13857,7 +13857,7 @@ CIA_NP0
 and_CJC
 MI6_UNC
 approached_VVD
-Gehlen_NP0-NN1
+Gehlen_NP0
 with_PRP
 the_AT0
 idea_NN1
@@ -13909,7 +13909,7 @@ very_AV0
 successful_AJ0
 One_CRD
 of_PRF
-Gehlen_NP0-NN1
+Gehlen_NP0
 's_POS
 assistants_NN2
 Major_NP0
@@ -13932,7 +13932,7 @@ a_AT0
 cable_NN1
 across_PRP
 the_AT0
-Heidenkamp_NN1-NP0
+Heidenkamp_NN1
 Canal_NN1
 on_PRP
 the_AT0
@@ -13991,7 +13991,7 @@ Another_DT0
 attempt_NN1
 by_PRP
 a_AT0
-Gehlen_NP0-NN1
+Gehlen_NP0
 agent_NN1
 called_VVN
 Christopher_NP0
@@ -14015,7 +14015,7 @@ was_VBD
 arrested_VVN
 and_CJC
 later_AV0
-convicted_VVN-AJ0
+convicted_VVN
 of_PRF
 treason_NN1
 and_CJC
@@ -14041,7 +14041,7 @@ Henry_NP0
 Toll_NN1
 had_VHD
 infiltrated_VVN
-Gehlen_NP0-NN1
+Gehlen_NP0
 's_POS
 organisation_NN1
 and_CJC
@@ -14072,7 +14072,7 @@ the_AT0
 Russian_AJ0
 sector_NN1
 and_CJC
-Gehlen_NP0-NN1
+Gehlen_NP0
 was_VBD
 keen_AJ0
 to_TO0
@@ -14083,7 +14083,7 @@ research_NN1
 of_PRF
 possible_AJ0
 sites_NN2
-Gehlen_NP0-NN1
+Gehlen_NP0
 suggested_VVN
 that_CJT
 a_AT0
@@ -14099,7 +14099,7 @@ from_PRP
 the_AT0
 suburb_NN1
 of_PRF
-Rudow_NN1-NP0
+Rudow_NN1
 in_PRP
 the_AT0
 American_AJ0
@@ -14214,7 +14214,7 @@ new_AJ0
 radar_NN1
 station_NN1
 at_PRP
-Rudow_NN1-NP0
+Rudow_NN1
 to_TO0
 control_NN1
 flight_NN1
@@ -14227,7 +14227,7 @@ the_AT0
 American_AJ0
 airfield_NN1
 at_PRP
-Buckow_NP0-NN1
+Buckow_NP0
 This_DT0
 work_NN1
 went_VVD
@@ -14280,12 +14280,12 @@ and_CJC
 made_VVN
 up_AVP
 of_PRF
-cast-iron_AJ0-NN1
+cast-iron_AJ0
 segments_NN2
 with_PRP
 its_DPS
 own_DT0
-air-conditioning_AJ0-NN1
+air-conditioning_NN1
 plant_NN1
 lighting_NN1
 and_CJC
@@ -14302,7 +14302,7 @@ tunnel_NN1
 ended_VVD
 at_PRP
 the_AT0
-Schoenfelder_NN1-NP0
+Schoenfelder_NP0
 Autobahn_NN1
 alongside_PRP
 which_DTQ
@@ -14378,7 +14378,7 @@ harsh_AJ0
 working_VVG
 conditions_NN2
 with_PRP
-minimum_AJ0-NN1
+minimum_AJ0
 maintenance_NN1
 This_DT0
 was_VBD
@@ -14467,7 +14467,7 @@ German_AJ0
 operators_NN2
 would_VM0
 not_XX0
-notice_VVI
+notice_NN1
 any_DT0
 change_NN1
 in_PRP
@@ -14509,7 +14509,7 @@ they_PNP
 produced_VVN
 was_VBD
 staggering_AJ0
-Reel_NN1-VVB
+Reel_NN1
 after_PRP
 reel_NN1
 of_PRF
@@ -14517,7 +14517,7 @@ voice_NN1
 recordings_NN2
 and_CJC
 intercepted_VVN
-teleprinter_NN1-VVB
+teleprinter_VVB
 messages_NN2
 were_VBD
 recovered_VVN
@@ -14623,7 +14623,7 @@ German_AJ0
 repairman_NN1
 who_PNQ
 might_VM0
-notice_VVI
+notice_NN1
 the_AT0
 MI6_UNC
 taps_NN2
@@ -14643,7 +14643,7 @@ on_PRP
 duty_NN1
 at_PRP
 the_AT0
-Rudow_NN1-NP0
+Rudow_NN1
 watchtower_NN1
 saw_VVD
 a_AT0
@@ -14759,7 +14759,7 @@ to_TO0
 see_VVI
 what_DTQ
 the_AT0
-capitalist_AJ0-NN1
+capitalist_AJ0
 warmongers_NN2
 were_VBD
 up_AVP
@@ -14858,7 +14858,7 @@ was_VBD
 not_XX0
 in_PRP
 fact_NN1
-English_AJ0-NN1
+English_AJ0
 by_PRP
 birth_NN1
 nor_CJC
@@ -14880,7 +14880,7 @@ began_VVD
 life_NN1
 as_CJS
 George_NP0
-Behar_NP0-NN1
+Behar_NN1
 He_PNP
 grew_VVD
 up_AVP
@@ -14909,7 +14909,7 @@ he_PNP
 studied_VVN
 at_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 school_NN1
 His_DPS
 uncle_NN1
@@ -14919,12 +14919,12 @@ leading_AJ0
 member_NN1
 of_PRF
 the_AT0
-Egyptian_AJ0-NN1
+Egyptian_AJ0
 Communist_AJ0
 Party_NN1
 Blake_NP0
 or_CJC
-Behar_NP0-NN1
+Behar_NN1
 returned_VVD
 to_TO0
 Holland_NP0
@@ -15037,7 +15037,7 @@ Child_NN1
 who_PNQ
 suggested_VVN
 that_CJT
-Behar_NP0-NN1
+Behar_NN1
 volunteer_NN1
 for_PRP
 the_AT0
@@ -15178,7 +15178,7 @@ Navy_NN1
 Additionally_AV0
 Blake_NP0
 was_VBD
-involved_AJ0
+involved_VVN
 in_PRP
 checking_VVG
 Communist_AJ0
@@ -15451,7 +15451,7 @@ of_PRF
 his_DPS
 colleagues_NN2
 ever_AV0
-voiced_VVN-VVD
+voiced_VVN
 any_DT0
 suspicion_NN1
 that_CJT
@@ -15460,7 +15460,7 @@ was_VBD
 in_PRP
 any_DT0
 way_NN1
-pro-Communist_NN1-AJ0
+pro-Communist_AJ0
 at_PRP
 the_AT0
 time_NN1
@@ -15550,7 +15550,7 @@ time_NN1
 Blake_NP0
 had_VHD
 been_VBN
-convicted_VVN-AJ0
+convicted_VVN
 of_PRF
 spying_VVG
 one_CRD
@@ -15562,7 +15562,7 @@ that_CJT
 he_PNP
 contravened_VVD
 the_AT0
-Official_AJ0-NN1
+Official_AJ0
 Secrets_NN2
 Act_NN1
 in_PRP
@@ -15595,7 +15595,7 @@ that_CJT
 he_PNP
 was_VBD
 ardently_AV0
-pro-Communist_NN1-AJ0
+pro-Communist_AJ0
 Kuzmitch_NP0
 did_VDD
 mention_VVI
@@ -15834,7 +15834,7 @@ MI6_UNC
 and_CJC
 also_AV0
 the_AT0
-Gehlen_NP0-NN1
+Gehlen_NP0
 organisation_NN1
 to_TO0
 determine_VVI
@@ -15870,13 +15870,13 @@ MI6_UNC
 included_VVD
 not_XX0
 only_AV0
-gathering_NN1
+gathering_VVG
 intelligence_NN1
 from_PRP
 the_AT0
 Russians_NN2
 but_CJC
-tracking_VVG
+tracking_AJ0
 down_AVP
 and_CJC
 watching_VVG
@@ -15935,7 +15935,7 @@ idea_NN1
 is_VBZ
 that_CJT
 they_PNP
-feed_VVI
+feed_NN1
 the_AT0
 other_AJ0
 side_NN1
@@ -16350,7 +16350,7 @@ one_CRD
 of_PRF
 its_DPS
 most_AV0
-trusted_VVD
+trusted_AJ0
 officers_NN2
 who_PNQ
 was_VBD
@@ -16431,7 +16431,7 @@ Middle_AJ0
 East_NN1
 Centre_NN1
 for_PRP
-Arab_AJ0-NN1
+Arab_AJ0
 Studies_NN2
 Since_CJS
 leaving_VVG
@@ -16727,7 +16727,7 @@ sent_VVN
 to_TO0
 Nicholas_NP0
 Elliott_NP0
-chief_AJ0-NN1
+chief_NN1
 of_PRF
 MI6_UNC
 in_PRP
@@ -16850,7 +16850,7 @@ against_PRP
 him_PNP
 under_PRP
 the_AT0
-Official_AJ0-NN1
+Official_AJ0
 Secrets_NN2
 Act_NN1
 which_DTQ
@@ -17091,7 +17091,7 @@ impossible_AJ0
 But_CJC
 the_AT0
 Lord_NP0
-Chief_NP0
+Chief_NN1
 Justice_NP0
 Lord_NP0
 Parker_NP0
@@ -17165,7 +17165,7 @@ taken_VVN
 to_TO0
 the_AT0
 Wormwood_NP0
-Scrubs_VVZ-NN2
+Scrubs_VVZ
 prison_NN1
 hospital_NN1
 The_AT0
@@ -17235,7 +17235,7 @@ nothing_PNI
 for_PRP
 fear_NN1
 of_PRF
-damaging_VVG-AJ0
+damaging_AJ0
 national_AJ0
 security_NN1
 Then_AV0
@@ -17339,7 +17339,7 @@ government_NN1
 had_VHD
 got_VVN
 their_DPS
-act_VVI
+act_NN1
 together_AV0
 and_CJC
 decided_VVD
@@ -17420,7 +17420,7 @@ at_PRP
 which_DTQ
 Macmillan_NP0
 was_VBD
-present_AJ0-NN1
+present_AJ0
 Brown_NP0
 proceeded_VVD
 to_TO0
@@ -17563,7 +17563,7 @@ Councillors_NN2
 '_POS
 information_NN1
 Thomson_NP0
-assured_VVD
+assured_VVN
 Pincher_NP0
 there_EX0
 was_VBD
@@ -17724,7 +17724,7 @@ the_AT0
 radar_NN1
 station_NN1
 at_PRP
-Rudow_NN1-NP0
+Rudow_NN1
 was_VBD
 a_AT0
 blind_AJ0
@@ -17830,7 +17830,7 @@ was_VBD
 Blake_NP0
 's_POS
 complex_AJ0
-double-agent_AJ0-NN1
+double-agent_AJ0
 operation_NN1
 in_PRP
 Berlin_NP0
@@ -17987,7 +17987,7 @@ his_DPS
 sentence_NN1
 in_PRP
 Wormwood_NP0
-Scrubs_VVZ-NN2
+Scrubs_VVZ
 prison_NN1
 in_PRP
 West_NP0
@@ -18139,7 +18139,7 @@ still_AV0
 applied_VVN
 During_PRP
 these_DT0
-initial_AJ0-NN1
+initial_AJ0
 months_NN2
 Blake_NP0
 was_VBD
@@ -18273,7 +18273,7 @@ D_ZZ0
 block_NN1
 of_PRF
 Wormwood_NP0
-Scrubs_VVZ-NN2
+Scrubs_VVZ
 was_VBD
 the_AT0
 Russian_AJ0
@@ -18285,7 +18285,7 @@ real_AJ0
 name_NN1
 was_VBD
 Konon_NP0
-Molody_NP0-NN1
+Molody_NP0
 a_AT0
 key_AJ0
 figure_NN1
@@ -18332,7 +18332,7 @@ Wynne_NP0
 who_PNQ
 had_VHD
 become_VVI
-involved_AJ0
+involved_VVN
 in_PRP
 espionage_NN1
 and_CJC
@@ -18357,7 +18357,7 @@ on_PRP
 security_NN1
 at_PRP
 Wormwood_NP0
-Scrubs_VVZ-NN2
+Scrubs_VVZ
 Why_AVQ
 two_CRD
 such_DT0
@@ -18536,7 +18536,7 @@ were_VBD
 pretty_AV0
 fanciful_AJ0
 and_CJC
-involved_AJ0
+involved_VVN
 helicopters_NN2
 and_CJC
 mercenaries_NN2
@@ -18626,7 +18626,7 @@ end_NN1
 of_PRF
 1965_CRD
 special_AJ0
-high-security_AJ0-NN1
+high-security_AJ0
 accommodation_NN1
 had_VHD
 been_VBN
@@ -18635,7 +18635,7 @@ at_PRP
 Durham_NP0
 Leicester_NP0
 and_CJC
-Parkhurst_NP0-NN1
+Parkhurst_NP0
 prisons_NN2
 In_PRP
 early_AJ0
@@ -18680,7 +18680,7 @@ murderer_NN1
 was_VBD
 transferred_VVN
 to_TO0
-Parkhurst_NP0-NN1
+Parkhurst_NP0
 The_AT0
 1966_CRD
 inquiry_NN1
@@ -18717,7 +18717,7 @@ murderer_NN1
 left_VVN
 at_PRP
 Wormwood_NP0
-Scrubs_VVZ-NN2
+Scrubs_VVZ
 had_VHD
 then_AV0
 escaped_VVD
@@ -18741,7 +18741,7 @@ room_NN1
 for_PRP
 both_AV0
 at_PRP
-Parkhurst_NP0-NN1
+Parkhurst_NP0
 Although_CJS
 Blake_NP0
 may_VM0
@@ -18886,7 +18886,7 @@ to_TO0
 escape_VVI
 from_PRP
 Wormwood_NP0
-Scrubs_VVZ-NN2
+Scrubs_VVZ
 Unless_CJS
 Blake_NP0
 chooses_VVZ
@@ -19038,7 +19038,7 @@ imagination_NN1
 That_DT0
 Bourke_NP0
 was_VBD
-involved_AJ0
+involved_VVN
 there_EX0
 is_VBZ
 no_AT0
@@ -19088,7 +19088,7 @@ with_PRP
 Blake_NP0
 in_PRP
 his_DPS
-ground-floor_AJ0-NN1
+ground-floor_AJ0
 cell_NN1
 and_CJC
 Bourke_NP0
@@ -19129,7 +19129,7 @@ which_DTQ
 were_VBD
 reinforced_VVN
 with_PRP
-cast-iron_AJ0-NN1
+cast-iron_AJ0
 segments_NN2
 with_PRP
 no_AT0
@@ -19349,7 +19349,7 @@ have_VHB
 emanated_VVN
 from_PRP
 a_AT0
-low-powered_NN1-AJ0
+low-powered_NN1
 hand-held_AJ0
 type_NN1
 of_PRF
@@ -19375,7 +19375,7 @@ in_PRP
 existence_NN1
 some_DT0
 brief_AJ0
-audio_AJ0-NN1
+audio_AJ0
 recordings_NN2
 of_PRF
 alleged_AJ0
@@ -19438,7 +19438,7 @@ and_CJC
 therefore_AV0
 he_PNP
 would_VM0
-drive_VVI
+drive_NN1
 to_TO0
 Old_AJ0
 Oak_NN1
@@ -19449,7 +19449,7 @@ his_DPS
 car_NN1
 and_CJC
 then_AV0
-walk_VVI
+walk_NN1
 across_PRP
 Old_AJ0
 Oak_NN1
@@ -19525,7 +19525,7 @@ to_TO0
 take_VVI
 a_AT0
 battery-operated_AJ0
-audio_AJ0-NN1
+audio_AJ0
 recorder_NN1
 with_PRP
 him_PNP
@@ -19657,7 +19657,7 @@ according_VVG
 to_TO0
 Bourke_NP0
 he_PNP
-smuggled_VVN
+smuggled_VVD
 in_PRP
 to_TO0
 Blake_NP0
@@ -19819,7 +19819,7 @@ set_VVN
 in_PRP
 a_AT0
 large_AJ0
-cast-iron_AJ0-NN1
+cast-iron_AJ0
 frame_NN1
 Blake_NP0
 apparently_AV0
@@ -19827,7 +19827,7 @@ broke_VVD
 one_CRD
 of_PRF
 the_AT0
-cast-iron_AJ0-NN1
+cast-iron_AJ0
 sections_NN2
 of_PRF
 the_AT0
@@ -19839,7 +19839,7 @@ through_PRP
 which_DTQ
 he_PNP
 could_VM0
-crawl_VVI
+crawl_VVB
 and_CJC
 then_AV0
 dropped_VVN
@@ -19881,7 +19881,7 @@ to_TO0
 have_VHB
 adhesive_AJ0
 tape_NN1
-wrapped_VVN-VVD
+wrapped_VVN
 around_PRP
 each_DT0
 end_NN1
@@ -19970,7 +19970,7 @@ fact_NN1
 that_CJT
 Blake_NP0
 was_VBD
-missing_VVG-AJ0
+missing_VVG
 was_VBD
 not_XX0
 discovered_VVN
@@ -20133,10 +20133,10 @@ these_DT0
 two_CRD
 as_CJS
 Michael_NP0
-Randle_NP0-NN1
+Randle_NP0
 and_CJC
 Pat_NP0
-Pottle_NP0-NN1
+Pottle_NP0
 members_NN2
 of_PRF
 the_AT0
@@ -20165,7 +20165,7 @@ for_PRP
 offences_NN2
 under_PRP
 the_AT0
-Official_AJ0-NN1
+Official_AJ0
 Secrets_NN2
 Act_NN1
 Penrose_NP0
@@ -20215,7 +20215,7 @@ the_AT0
 KGB_NP0
 was_VBD
 also_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 getting_VVG
 Blake_NP0
@@ -20306,7 +20306,7 @@ where_AVQ
 Blake_NP0
 was_VBD
 to_TO0
-lie_VVI
+lie_VVB
 concealed_VVN
 On_PRP
 17_CRD
@@ -20369,7 +20369,7 @@ later_AV0
 was_VBD
 flown_VVN
 to_TO0
-Mosow_NN1-NP0
+Mosow_NN1
 for_PRP
 a_AT0
 triumphant_AJ0
@@ -20377,7 +20377,7 @@ reunion_NN1
 with_PRP
 the_AT0
 KGB_NP0
-Travelling_VVG-NN1
+Travelling_VVG
 on_PRP
 a_AT0
 false_AJ0
@@ -20537,7 +20537,7 @@ Ida_NP0
 and_CJC
 their_DPS
 son_NN1
-Mischa_NP0-NN1
+Mischa_NN1
 The_AT0
 more_AV0
 one_CRD
@@ -20582,7 +20582,7 @@ of_PRF
 the_AT0
 report_NN1
 is_VBZ
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 explaining_VVG
 how_AVQ
@@ -20592,7 +20592,7 @@ mail_NN1
 visits_NN2
 and_CJC
 his_DPS
-Arabic_NN1-AJ0
+Arabic_AJ0
 correspondence_NN1
 course_NN1
 were_VBD
@@ -20743,7 +20743,7 @@ Blake_NP0
 was_VBD
 in_PRP
 Wormwood_NP0
-Scrubs_VVZ-NN2
+Scrubs_VVZ
 no_AT0
 action_NN1
 was_VBD
@@ -21000,7 +21000,7 @@ Blake_NP0
 escaped_VVD
 from_PRP
 Wormwood_NP0
-Scrubs_VVZ-NN2
+Scrubs_VVZ
 Philby_NP0
 refused_VVD
 to_TO0
@@ -21009,7 +21009,7 @@ any_DT0
 details_NN2
 claiming_VVG
 it_PNP
-involved_AJ0
+involved_VVN
 operational_AJ0
 matters_NN2
 When_CJS
@@ -21041,7 +21041,7 @@ MI6_UNC
 may_VM0
 have_VHB
 been_VBN
-involved_AJ0
+involved_VVN
 Obviously_AV0
 one_CRD
 can_VM0
@@ -21079,7 +21079,7 @@ suggestion_NN1
 that_CJT
 MI6_UNC
 was_VBD
-involved_AJ0
+involved_VVN
 If_CJS
 one_CRD
 accepts_VVZ
@@ -21177,7 +21177,7 @@ and_CJC
 can_VM0
 use_NN1
 their_DPS
-veto_VVI
+veto_NN1
 if_CJS
 the_AT0
 opposition_NN1
@@ -21738,14 +21738,14 @@ fools_NN2
 The_AT0
 Royal_AJ0
 Canadian_AJ0
-Mounted_AJ0-VVD
+Mounted_AJ0
 Police_NN2
 were_VBD
 equally_AV0
 upset_AJ0
 by_PRP
 Igor_NP0
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 's_POS
 revelations_NN2
 that_CJT
@@ -21859,7 +21859,7 @@ was_VBD
 the_AT0
 Russian_AJ0
 Igor_NP0
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 who_PNQ
 with_PRP
 considerable_AJ0
@@ -21893,7 +21893,7 @@ has_VHZ
 been_VBN
 said_VVD
 that_CJT
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 's_POS
 defection_NN1
 was_VBD
@@ -21928,7 +21928,7 @@ means_NN0
 at_PRP
 its_DPS
 disposal_NN1
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 's_POS
 defection_NN1
 alerted_VVN
@@ -21957,7 +21957,7 @@ the_AT0
 direct_AJ0
 result_NN1
 of_PRF
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 's_POS
 information_NN1
 21_CRD
@@ -21971,7 +21971,7 @@ of_PRF
 whom_PNQ
 11_CRD
 were_VBD
-convicted_VVN-AJ0
+convicted_VVN
 two_CRD
 had_VHD
 charges_NN2
@@ -21988,7 +21988,7 @@ the_AT0
 West_NP0
 went_VVD
 to_TO0
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 's_POS
 head_NN1
 and_CJC
@@ -22038,7 +22038,7 @@ $1,050_NN0
 a_AT0
 month_NN1
 Eventually_AV0
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 ran_VVD
 up_AVP
 debts_NN2
@@ -22075,7 +22075,7 @@ him_PNP
 By_PRP
 April_NP0
 1954_CRD
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 had_VHD
 become_VVI
 a_AT0
@@ -22102,7 +22102,7 @@ been_VBN
 ready_AJ0
 to_TO0
 exploit_VVI
-present_AJ0-NN1
+present_AJ0
 hysteria_NN1
 among_PRP
 the_AT0
@@ -22112,7 +22112,7 @@ in_PRP
 the_AT0
 United_NP0
 States_NP0
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 's_POS
 involvement_NN1
 in_PRP
@@ -22148,7 +22148,7 @@ both_AV0
 with_PRP
 the_AT0
 codename_NN1
-Elli_NN1-NP0
+Elli_NN1
 The_AT0
 first_ORD
 was_VBD
@@ -22157,16 +22157,16 @@ identified_VVN
 as_CJS
 a_AT0
 Kay_NP0
-Willsher_NP0-NN1
+Willsher_NN1
 But_CJC
 all_DT0
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 could_VM0
 say_VVI
 about_PRP
 the_AT0
 other_AJ0
-Elli_NN1-NP0
+Elli_NN1
 was_VBD
 that_CJT
 he_PNP
@@ -22197,7 +22197,7 @@ with_PRP
 him_PNP
 in_PRP
 the_AT0
-GRU_NN1-NP0
+GRU_NN1
 code_NN1
 room_NN1
 in_PRP
@@ -22205,21 +22205,21 @@ Moscow_NP0
 Over_PRP
 the_AT0
 years_NN2
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 's_POS
 story_NN1
 about_PRP
 the_AT0
 second_ORD
-Elli_NN1-NP0
-varied_AJ0
+Elli_NN1
+varied_VVN
 considerably_AV0
 One_CRD
 theory_NN1
 advanced_AJ0
 was_VBD
 that_CJT
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 had_VHD
 misunderstood_VVN
 his_DPS
@@ -22227,7 +22227,7 @@ colleague_NN1
 and_CJC
 the_AT0
 other_AJ0
-Elli_NN1-NP0
+Elli_NN1
 was_VBD
 really_AV0
 an_AT0
@@ -22257,7 +22257,7 @@ a_AT0
 spy_NN1
 for_PRP
 the_AT0
-GRU_NN1-NP0
+GRU_NN1
 The_AT0
 main_AJ0
 problem_NN1
@@ -22268,7 +22268,7 @@ seemed_VVD
 to_TO0
 assume_VVI
 that_CJT
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 was_VBD
 an_AT0
 expert_NN1
@@ -22281,7 +22281,7 @@ intelligence_NN1
 operations_NN2
 In_PRP
 truth_NN1
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 's_POS
 knowledge_NN1
 was_VBD
@@ -22293,7 +22293,7 @@ one_CRD
 appreciated_VVN
 that_CJT
 until_CJS
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 had_VHD
 become_VVI
 part_NN1
@@ -22303,7 +22303,7 @@ folklore_NN1
 of_PRF
 intelligence_NN1
 mythology_NN1
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 had_VHD
 obvious_AJ0
 reasons_NN2
@@ -22349,7 +22349,7 @@ end_NN1
 of_PRF
 his_DPS
 life_NN1
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 went_VVD
 blind_AJ0
 but_CJC
@@ -22411,7 +22411,7 @@ as_CJS
 many_DT0
 gifts_NN2
 as_CJS
-Gouzenko_NP0-NN1
+Gouzenko_NP0
 they_PNP
 were_VBD
 very_AV0
@@ -22483,7 +22483,7 @@ was_VBD
 not_XX0
 being_VBG
 appreciated_VVN
-Defection_NN1-NP0
+Defection_NP0
 is_VBZ
 of_PRF
 course_NN1
@@ -22647,7 +22647,7 @@ a_AT0
 cell_NN1
 in_PRP
 Long_AJ0
-Lartin_NN1-NP0
+Lartin_NN1
 prison_NN1
 The_AT0
 Russians_NN2
@@ -22769,7 +22769,7 @@ Donald_NP0
 Maclean_NP0
 's_POS
 wife_NN1
-Melinda_NP0-NN1
+Melinda_NP0
 joined_VVD
 her_DPS
 husband_NN1
@@ -22785,7 +22785,7 @@ dismal_AJ0
 They_PNP
 parted_VVD
 and_CJC
-Melinda_NP0-NN1
+Melinda_NP0
 married_AJ0
 Philby_NP0
 briefly_AV0
@@ -22866,13 +22866,13 @@ comfortable_AJ0
 lifestyle_NN1
 of_PRF
 a_AT0
-retired_AJ0
+retired_VVD
 KGB_NP0
 general_AJ0
 with_PRP
 his_DPS
 wife_NN1
-Rufa_NP0-NN1
+Rufa_NP0
 had_VHD
 built_VVN
 up_AVP
@@ -22944,7 +22944,7 @@ several_DT0
 years_NN2
 as_CJS
 an_AT0
-in-place_NN1-AJ0
+in-place_AJ0
 MI6_UNC
 agent_NN1
 was_VBD
@@ -23191,7 +23191,7 @@ a_AT0
 lieutenant-colonel_NN1
 in_PRP
 the_AT0
-GRU_NN1-NP0
+GRU_NN1
 who_PNQ
 approached_VVD
 MI6_UNC
@@ -23217,7 +23217,7 @@ Wynne_NP0
 was_VBD
 asked_VVD
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 freelance_NN1
@@ -23326,7 +23326,7 @@ conveniently_AV0
 exchanged_VVN
 for_PRP
 Konon_NP0
-Molody_NP0-NN1
+Molody_NP0
 or_CJC
 Gordon_NP0
 Lonsdale_NP0
@@ -23439,12 +23439,12 @@ bogus_AJ0
 defector_NN1
 was_VBD
 code-named_AJ0
-Fedora_NP0-NN1
+Fedora_NN1
 possibly_AV0
 in_PRP
 reality_NN1
-Viktor_NP0-NN1
-Lessiovski_NP0-NN1
+Viktor_NN1
+Lessiovski_NN1
 who_PNQ
 used_VVN
 his_DPS
@@ -23465,7 +23465,7 @@ he_PNP
 successfully_AV0
 fed_VVN
 Edgar_NP0
-Hoover_NN1-NP0
+Hoover_NN1
 at_PRP
 the_AT0
 FBI_NP0
@@ -23484,7 +23484,7 @@ information_NN1
 about_PRP
 Russia_NP0
 's_POS
-space-rocket_AJ0-NN1
+space-rocket_AJ0
 programme_NN1
 which_DTQ
 led_VVD
@@ -23504,7 +23504,7 @@ to_TO0
 enhance_VVI
 his_DPS
 credibility_NN1
-Fedora_NP0-NN1
+Fedora_NN1
 was_VBD
 allowed_VVN
 to_TO0
@@ -23518,7 +23518,7 @@ had_VHD
 outlived_VVN
 his_DPS
 usefulness_NN1
-Fedora_NP0-NN1
+Fedora_NN1
 returned_VVD
 to_TO0
 Russia_NP0
@@ -23581,7 +23581,7 @@ selling_VVG
 secrets_NN2
 to_TO0
 the_AT0
-GRU_NN1-NP0
+GRU_NN1
 for_PRP
 some_DT0
 while_CJS
@@ -23621,7 +23621,7 @@ could_VM0
 of_PRF
 the_AT0
 American_AJ0
-rocket-guidance_AJ0-NN1
+rocket-guidance_NN1
 systems_NN2
 in_PRP
 order_NN1
@@ -23637,12 +23637,12 @@ that_CJT
 he_PNP
 could_VM0
 continue_VVI
-peddling_VVG-AJ0
+peddling_VVG
 disinformation_NN1
 In_PRP
 1969_CRD
 Josef_NP0
-Frolik_NP0-NN1
+Frolik_NN1
 of_PRF
 the_AT0
 Czechoslovakian_AJ0
@@ -23680,7 +23680,7 @@ working_VVG
 for_PRP
 the_AT0
 KGB_NP0
-Frolik_NP0-NN1
+Frolik_NN1
 certainly_AV0
 did_VDD
 expose_VVI
@@ -23727,7 +23727,7 @@ But_CJC
 the_AT0
 rest_NN1
 of_PRF
-Frolik_NP0-NN1
+Frolik_NN1
 's_POS
 information_NN1
 was_VBD
@@ -23771,7 +23771,7 @@ now_AV0
 generally_AV0
 accepted_VVN
 that_CJT
-Frolik_NP0-NN1
+Frolik_NN1
 was_VBD
 a_AT0
 plant_NN1
@@ -24031,7 +24031,7 @@ Oleg_NP0
 Bitov_NP0
 and_CJC
 Vitali_AJ0
-Yurchenko_NN1-NP0
+Yurchenko_NP0
 Bitov_NP0
 went_VVD
 to_TO0
@@ -24118,7 +24118,7 @@ by_PRP
 MI5_UNC
 in_PRP
 Italy_NP0
-drugged_AJ0-VVN
+drugged_VVN
 and_CJC
 taken_VVN
 to_TO0
@@ -24207,7 +24207,7 @@ numbers_NN2
 were_VBD
 not_XX0
 answering_VVG
-Yurchenko_NN1-NP0
+Yurchenko_NP0
 contacted_VVN
 the_AT0
 American_AJ0
@@ -24255,7 +24255,7 @@ had_VHD
 worked_VVD
 for_PRP
 the_AT0
-NSA_NN1-NP0
+NSA_NN1
 Both_DT0
 had_VHD
 given_VVN
@@ -24298,7 +24298,7 @@ be_VBI
 going_VVG
 well_AV0
 and_CJC
-Yurchenko_NN1-NP0
+Yurchenko_NP0
 was_VBD
 about_PRP
 to_TO0
@@ -24339,13 +24339,13 @@ there_EX0
 he_PNP
 held_VVN
 a_AT0
-much-publicised_AJ0-NN1
+much-publicised_AJ0
 news_NN1
 conference_NN1
 during_PRP
 which_DTQ
 he_PNP
-ridiculed_VVD
+ridiculed_VVN
 American_AJ0
 intelligence_NN1
 and_CJC
@@ -24365,7 +24365,7 @@ to_TO0
 either_AV0
 Bitov_NP0
 or_CJC
-Yurchenko_NN1-NP0
+Yurchenko_NP0
 on_PRP
 their_DPS
 return_NN1
@@ -24413,7 +24413,7 @@ the_AT0
 West_NP0
 was_VBD
 Anatoli_NP0
-Golitsin_NP0-NN1
+Golitsin_NP0
 who_PNQ
 arrived_VVD
 at_PRP
@@ -24424,7 +24424,7 @@ the_AT0
 CIA_NP0
 's_POS
 station_NN1
-chief_AJ0-NN1
+chief_NN1
 in_PRP
 Helsinki_NP0
 in_PRP
@@ -24447,7 +24447,7 @@ the_AT0
 moment_NN1
 he_PNP
 arrived_VVD
-Golitsin_NP0-NN1
+Golitsin_NP0
 split_VVN
 the_AT0
 Western_AJ0
@@ -24511,7 +24511,7 @@ by_PRP
 Moscow_NP0
 According_VVG
 to_TO0
-Golitsin_NP0-NN1
+Golitsin_NP0
 everything_PNI
 the_AT0
 West_NP0
@@ -24585,7 +24585,7 @@ those_DT0
 who_PNQ
 became_VVD
 a_AT0
-Golitsin_NP0-NN1
+Golitsin_NP0
 addict_NN1
 was_VBD
 James_NP0
@@ -24600,7 +24600,7 @@ CIA_NP0
 whose_DTQ
 conversion_NN1
 unfortunately_AV0
-spread_NN1
+spread_VVN
 across_PRP
 the_AT0
 Atlantic_NP0
@@ -24625,7 +24625,7 @@ highly_AV0
 placed_VVN
 mole_NN1
 that_CJT
-Golitsin_NP0-NN1
+Golitsin_NP0
 was_VBD
 so_AV0
 sure_AJ0
@@ -24642,7 +24642,7 @@ reality_NN1
 negative_AJ0
 evidence_NN1
 these_DT0
-Golitsin_NP0-NN1
+Golitsin_NP0
 disciples_NN2
 were_VBD
 able_AJ0
@@ -24668,7 +24668,7 @@ the_AT0
 glory_NN1
 went_VVD
 to_TO0
-Golitsin_NP0-NN1
+Golitsin_NP0
 's_POS
 head_NN1
 and_CJC
@@ -24702,7 +24702,7 @@ against_PRP
 the_AT0
 KGB_NP0
 Whether_CJS
-Golitsin_NP0-NN1
+Golitsin_NP0
 was_VBD
 a_AT0
 KGB_NP0
@@ -24740,7 +24740,7 @@ to_TO0
 this_DT0
 day_NN1
 Everything_PNI
-Golitsin_NP0-NN1
+Golitsin_NP0
 claimed_VVD
 could_VM0
 be_VBI
@@ -24765,7 +24765,7 @@ suggested_VVN
 that_CJT
 some_DT0
 of_PRF
-Golitsin_NP0-NN1
+Golitsin_NP0
 's_POS
 claims_NN2
 were_VBD
@@ -24868,11 +24868,11 @@ intelligence_NN1
 fraternity_NN1
 fools_NN2
 itself_PNX
-Living_VVG-NN1
+Living_VVG
 in_PRP
 such_DT0
 a_AT0
-cloistered_AJ0-VVD
+cloistered_AJ0
 world_NN1
 such_DT0
 operations_NN2
@@ -25024,7 +25024,7 @@ problems_NN2
 The_AT0
 KGB_NP0
 and_CJC
-GRU_NN1-NP0
+GRU_NN1
 were_VBD
 so_AV0
 powerful_AJ0
@@ -25076,7 +25076,7 @@ been_VBN
 caught_VVN
 in_PRP
 the_AT0
-act_VVI
+act_NN1
 there_EX0
 was_VBD
 no_AT0
@@ -25220,7 +25220,7 @@ statesmen_NN2
 anxious_AJ0
 to_TO0
 build_VVI
-peacemaking_VVG-AJ0
+peacemaking_VVG
 bridges_NN2
 between_PRP
 East_NN1
@@ -25387,7 +25387,7 @@ Are_VBB
 the_AT0
 KGB_NP0
 and_CJC
-GRU_NN1-NP0
+GRU_NN1
 likely_AJ0
 to_TO0
 emulate_VVI
@@ -25558,7 +25558,7 @@ The_AT0
 vessels_NN2
 were_VBD
 remarkably_AV0
-fast_AV0-AJ0
+fast_AJ0
 and_CJC
 on_PRP
 sea_NN1
@@ -25726,7 +25726,7 @@ being_VBG
 caught_VVN
 in_PRP
 the_AT0
-act_VVI
+act_NN1
 the_AT0
 plan_NN1
 was_VBD
@@ -25831,7 +25831,7 @@ Prime_AJ0
 Minister_NN1
 Marshal_NP0
 Nikolai_NP0
-Bulganin_NP0-NN1
+Bulganin_NP0
 to_TO0
 make_VVI
 a_AT0
@@ -25858,7 +25858,7 @@ Portsmouth_NP0
 in_PRP
 the_AT0
 cruiser_NN1
-Ordzhonikidze_NN1-NP0
+Ordzhonikidze_NN1
 sister_NN1
 ship_NN1
 of_PRF
@@ -26030,7 +26030,7 @@ time_NN1
 because_CJS
 Khrushchev_NP0
 and_CJC
-Bulganin_NP0-NN1
+Bulganin_NP0
 were_VBD
 well_AV0
 aware_AJ0
@@ -26080,7 +26080,7 @@ Director_NN1
 of_PRF
 Naval_AJ0
 Intelligence_NN1
-Rear_AJ0-NN1
+Rear_AJ0
 Admiral_NN1
 John_NP0
 Inglis_NP0
@@ -26092,7 +26092,7 @@ know_VVI
 more_AV0
 about_PRP
 the_AT0
-Ordzhonikidze_NN1-NP0
+Ordzhonikidze_NN1
 's_POS
 propeller_NN1
 design_NN1
@@ -26319,7 +26319,7 @@ HMS_NP0
 Truculent_AJ0
 He_PNP
 had_VHD
-retired_AJ0
+retired_VVD
 from_PRP
 the_AT0
 Royal_AJ0
@@ -26374,7 +26374,7 @@ underwater_AJ0
 inspection_NN1
 of_PRF
 the_AT0
-Ordzhonikidze_NN1-NP0
+Ordzhonikidze_NN1
 he_PNP
 agreed_VVD
 without_PRP
@@ -26513,7 +26513,7 @@ booked_VVN
 in_PRP
 at_PRP
 the_AT0
-Sallyport_NN1-NP0
+Sallyport_NP0
 Hotel_NN1
 where_AVQ
 Smith_NP0
@@ -26578,14 +26578,14 @@ civilian_AJ0
 frogmen_NN2
 who_PNQ
 use_NN1
-compressed_AJ0
+compressed_VVN
 air_NN1
 Crabb_NP0
 was_VBD
 using_VVG
 the_AT0
 naval_AJ0
-closed-circuit_AJ0-NN1
+closed-circuit_NN1
 oxygen_NN1
 diving_NN1
 equipment_NN1
@@ -26610,15 +26610,15 @@ to_TO0
 wear_VVI
 a_AT0
 black_AJ0
-rubber_AJ0-NN1
-one-piece_AJ0-NN1
+rubber_AJ0
+one-piece_AJ0
 diving_NN1
 suit_NN1
 made_VVN
 by_PRP
 the_AT0
 Avon_NP0
-Rubber_AJ0-NN1
+Rubber_AJ0
 Company_NN1
 The_AT0
 next_ORD
@@ -26766,7 +26766,7 @@ Smith_NP0
 returned_VVD
 to_TO0
 the_AT0
-Sallyport_NN1-NP0
+Sallyport_NP0
 Hotel_NN1
 paid_VVN
 both_AV0
@@ -26838,14 +26838,14 @@ Rear-Admiral_NP0
 Kotov_NP0
 from_PRP
 the_AT0
-Ordzhonikidze_NN1-NP0
+Ordzhonikidze_NN1
 went_VVD
 to_TO0
 see_VVI
 Rear-Admiral_NP0
 Philip_NP0
 Burnett_NP0
-Chief_NP0
+Chief_NN1
 of_PRF
 Staff_NN0
 of_PRF
@@ -26915,7 +26915,7 @@ the_AT0
 captain_NN1
 of_PRF
 the_AT0
-Ordzhonikidze_NN1-NP0
+Ordzhonikidze_NN1
 who_PNQ
 casually_AV0
 asked_VVD
@@ -27002,7 +27002,7 @@ CID_NP0
 to_TO0
 visit_NN1
 the_AT0
-Sallyport_NN1-NP0
+Sallyport_NP0
 Hotel_NN1
 two_CRD
 days_NN2
@@ -27042,7 +27042,7 @@ with_PRP
 prosecution_NN1
 under_PRP
 the_AT0
-Official_AJ0-NN1
+Official_AJ0
 Secrets_NN2
 Act_NN1
 if_CJS
@@ -27185,7 +27185,7 @@ that_CJT
 Commander_NP0
 Crabb_NP0
 was_VBD
-missing_VVG-AJ0
+missing_VVG
 presumed_VVN
 dead_AJ0
 having_VHG
@@ -27253,7 +27253,7 @@ soon_AV0
 descended_VVN
 on_PRP
 the_AT0
-Sallyport_NN1-NP0
+Sallyport_NP0
 Hotel_NN1
 to_TO0
 inspect_VVI
@@ -27262,7 +27262,7 @@ hotel_NN1
 register_VVI
 with_PRP
 its_DPS
-missing_VVG-AJ0
+missing_VVG
 pages_NN2
 The_AT0
 Russians_NN2
@@ -27364,7 +27364,7 @@ of_PRF
 the_AT0
 intelligence_NN1
 services_NN2
-involved_AJ0
+involved_VVN
 National_AJ0
 interest_NN1
 did_VDD
@@ -27570,7 +27570,7 @@ taken_VVN
 on_PRP
 board_NN1
 the_AT0
-Ordzhonikidze_NN1-NP0
+Ordzhonikidze_NN1
 through_PRP
 a_AT0
 wet_AJ0
@@ -27690,7 +27690,7 @@ the_AT0
 Russian_AJ0
 defector_NN1
 Anatoli_NP0
-Golitsin_NP0-NN1
+Golitsin_NP0
 who_PNQ
 arrived_VVD
 in_PRP
@@ -27730,7 +27730,7 @@ mole_NN1
 Hollis_NP0
 had_VHD
 been_VBN
-present_AJ0-NN1
+present_AJ0
 during_PRP
 the_AT0
 planning_NN1
@@ -27761,7 +27761,7 @@ brother_NN1
 and_CJC
 sister-in-law_NN1
 at_PRP
-Biot_NP0-NN1
+Biot_NP0
 in_PRP
 France_NP0
 While_CJS
@@ -27858,7 +27858,7 @@ later_AV0
 while_CJS
 still_AV0
 at_PRP
-Biot_NP0-NN1
+Biot_NP0
 Mrs_NP0
 Rose_NP0
 began_VVD
@@ -27944,12 +27944,12 @@ the_AT0
 head_NN1
 and_CJC
 hands_NN2
-missing_VVG-AJ0
+missing_VVG
 clad_VVN
 in_PRP
 a_AT0
 black_AJ0
-rubber_AJ0-NN1
+rubber_AJ0
 suit_NN1
 floating_VVG
 off_AVP
@@ -27968,7 +27968,7 @@ saw_VVD
 the_AT0
 body_NN1
 at_PRP
-Bognor_NP0-NN1
+Bognor_NP0
 mortuary_NN1
 but_CJC
 was_VBD
@@ -28374,7 +28374,7 @@ they_PNP
 steamed_VVD
 past_NN1
 suitably_AV0
-weighted_AJ0
+weighted_VVN
 with_PRP
 ropes_NN2
 that_CJT
@@ -28449,7 +28449,7 @@ a_AT0
 diver_NN1
 with_PRP
 full_AJ0
-deep-diving_AJ0-NN1
+deep-diving_AJ0
 headgear_NN1
 being_VBG
 pulled_VVD
@@ -28684,7 +28684,7 @@ was_VBD
 either_AV0
 a_AT0
 publicity_NN1
-stunt_NN1-VVB
+stunt_NN1
 designed_VVN
 help_VVI
 sell_VVI
@@ -28879,7 +28879,7 @@ the_AT0
 looking-glass_NN1
 world_NN1
 of_PRF
-make-believe_NN1-AJ0
+make-believe_AJ0
 where_AVQ
 no_AT0
 one_CRD
@@ -29144,7 +29144,7 @@ of_PRF
 facts_NN2
 can_VM0
 be_VBI
-tinkered_VVN-AJ0
+tinkered_VVD
 and_CJC
 tailored_AJ0
 with_PRP
@@ -29204,7 +29204,7 @@ he_PNP
 would_VM0
 have_VHB
 been_VBN
-ridiculed_VVD
+ridiculed_VVN
 on_PRP
 the_AT0
 grounds_NN2
@@ -29494,7 +29494,7 @@ of_PRF
 it_PNP
 would_VM0
 be_VBI
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 Crabb_NP0
 's_POS
@@ -29587,7 +29587,7 @@ the_AT0
 intelligence_NN1
 services_NN2
 were_VBD
-involved_AJ0
+involved_VVN
 On_PRP
 any_DT0
 future_NN1
@@ -29657,7 +29657,7 @@ dangerous_AJ0
 covert_AJ0
 operation_NN1
 The_AT0
-French_AJ0-NN1
+French_AJ0
 handle_VVI
 such_DT0
 operations_NN2
@@ -29676,13 +29676,13 @@ July_NP0
 agents_NN2
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 General_AJ0
 Directorate_NN1
 for_PRP
 External_AJ0
 Security_NN1
-DGSE_NN1-NP0
+DGSE_NP0
 the_AT0
 equivalent_AJ0
 of_PRF
@@ -29719,7 +29719,7 @@ of_PRF
 the_AT0
 crew_NN1
 a_AT0
-Portuguese_AJ0-NN1
+Portuguese_AJ0
 photographer_NN1
 called_VVN
 Fernando_NP0
@@ -29840,7 +29840,7 @@ with_PRP
 their_DPS
 ship_NN1
 the_AT0
-Vega_NP0-NN1
+Vega_NP0
 and_CJC
 on_PRP
 the_AT0
@@ -29853,7 +29853,7 @@ and_CJC
 arrested_VVN
 by_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Navy_NN1
 as_CJS
 they_PNP
@@ -29889,7 +29889,7 @@ was_VBD
 better_AJC
 organised_VVN
 and_CJC
-French_AJ0-NN1
+French_AJ0
 intelligence_NN1
 had_VHD
 learned_VVN
@@ -29910,7 +29910,7 @@ Warrior_NN1
 together_AV0
 with_PRP
 the_AT0
-Vega_NP0-NN1
+Vega_NP0
 and_CJC
 then_AV0
 to_TO0
@@ -29929,7 +29929,7 @@ try_VVI
 to_TO0
 elude_VVI
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Navy_NN1
 and_CJC
 penetrate_VVI
@@ -29942,7 +29942,7 @@ plan_NN1
 greatly_AV0
 alarmed_AJ0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 for_PRP
 the_AT0
 small_AJ0
@@ -29974,14 +29974,14 @@ become_VVI
 worldwide_AV0
 martyrs_NN2
 The_AT0
-French_AJ0-NN1
+French_AJ0
 Navy_NN1
 passed_VVN
 the_AT0
 problem_NN1
 to_TO0
 the_AT0
-DGSE_NN1-NP0
+DGSE_NP0
 who_PNQ
 at_PRP
 first_ORD
@@ -30024,7 +30024,7 @@ sail_NN1
 back_AVP
 again_AV0
 The_AT0
-DGSE_NN1-NP0
+DGSE_NP0
 then_AV0
 decided_VVD
 that_CJT
@@ -30044,7 +30044,7 @@ have_VHB
 been_VBN
 for_PRP
 a_AT0
-French_AJ0-NN1
+French_AJ0
 submarine_NN1
 to_TO0
 wait_VVI
@@ -30077,7 +30077,7 @@ any_DT0
 survivors_NN2
 Even_AV0
 the_AT0
-DGSE_NN1-NP0
+DGSE_NP0
 might_VM0
 have_VHB
 baulked_VVN
@@ -30165,7 +30165,7 @@ troublesome_AJ0
 boat_NN1
 he_PNP
 asked_VVD
-DGSE_NN1-NP0
+DGSE_NP0
 had_VHD
 the_AT0
 answer_NN1
@@ -30200,7 +30200,7 @@ the_AT0
 Greenpeace_NP0
 operation_NN1
 the_AT0
-DGSE_NN1-NP0
+DGSE_NP0
 infiltrated_VVN
 a_AT0
 34-year-old_AJ0
@@ -30215,8 +30215,8 @@ office_NN1
 Using_VVG
 the_AT0
 alias_PRP
-Frederique_NP0-NN1
-Bonlieu_NP0-NN1
+Frederique_NP0
+Bonlieu_NP0
 Cabon_NP0
 wrote_VVD
 to_TO0
@@ -30328,7 +30328,7 @@ Gerald_NP0
 Andries_NN2
 of_PRF
 the_AT0
-DGSE_NN1-NP0
+DGSE_NP0
 flew_VVD
 to_TO0
 London_NP0
@@ -30340,7 +30340,7 @@ Zodiac_NN1
 inflatable_AJ0
 dinghy_NN1
 and_CJC
-outboard_NN1-AJ0
+outboard_AJ0
 motor_NN1
 for_PRP
 \xc2\xa31,400_NN0
@@ -30397,7 +30397,7 @@ possibility_NN1
 is_VBZ
 that_CJT
 the_AT0
-DGSE_NN1-NP0
+DGSE_NP0
 somehow_AV0
 hoped_VVN
 that_CJT
@@ -30434,7 +30434,7 @@ in_PRP
 Britain_NP0
 Alternatively_AV0
 the_AT0
-DGSE_NN1-NP0
+DGSE_NP0
 may_VM0
 have_VHB
 unofficially_AV0
@@ -30483,7 +30483,7 @@ already_AV0
 had_VHD
 their_DPS
 members_NN2
-listed_AJ0
+listed_VVN
 on_PRP
 MI5_UNC
 files_NN2
@@ -30499,7 +30499,7 @@ week_NN1
 in_PRP
 June_NP0
 the_AT0
-DGSE_NN1-NP0
+DGSE_NP0
 had_VHD
 arrived_VVD
 in_PRP
@@ -30507,11 +30507,11 @@ New_AJ0
 Zealand_NP0
 Major_NP0
 Alain_NP0
-Mafart_NP0-NN1
+Mafart_NP0
 and_CJC
 Captain_NP0
 Dominique_NP0
-Prieur_NP0-NN1
+Prieur_NP0
 posing_VVG
 as_CJS
 honeymoon_NN1
@@ -30547,7 +30547,7 @@ van_NN1
 and_CJC
 told_VVD
 the_AT0
-hire_VVI
+hire_NN1
 company_NN1
 they_PNP
 intended_VVN
@@ -30560,7 +30560,7 @@ touring_VVG
 New_AJ0
 Zealand_NP0
 Three_CRD
-DGSE_NN1-NP0
+DGSE_NP0
 frogmen_NN2
 Roland_NP0
 Verge_NN1
@@ -30579,9 +30579,9 @@ Zealand_NP0
 coast_NN1
 in_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 yacht_NN1
-Ouv\xc3\xa9a_NP0-NN1
+Ouv\xc3\xa9a_NP0
 using_VVG
 false_AJ0
 names_NN2
@@ -30613,7 +30613,7 @@ the_AT0
 vessel_NN1
 from_PRP
 a_AT0
-French_AJ0-NN1
+French_AJ0
 travel_NN1
 agency_NN1
 for_PRP
@@ -30624,7 +30624,7 @@ in_PRP
 the_AT0
 Pacific_NP0
 The_AT0
-Ouv\xc3\xa9a_NP0-NN1
+Ouv\xc3\xa9a_NP0
 made_VVN
 its_DPS
 way_NN1
@@ -30666,11 +30666,11 @@ identified_VVN
 there_EX0
 were_VBD
 other_AJ0
-DGSE_NN1-NP0
+DGSE_NP0
 agents_NN2
-involved_AJ0
+involved_VVN
 The_AT0
-Ouv\xc3\xa9a_NP0-NN1
+Ouv\xc3\xa9a_NP0
 sailed_VVD
 from_PRP
 Whangarei_NP0
@@ -30740,15 +30740,15 @@ it_PNP
 was_VBD
 met_VVD
 by_PRP
-Mafart_NP0-NN1
+Mafart_NP0
 and_CJC
-Prieur_NP0-NN1
+Prieur_NP0
 They_PNP
 loaded_VVN
 the_AT0
 Zodiac_NN1
 dinghy_NN1
-outboard_NN1-AJ0
+outboard_AJ0
 motor_NN1
 and_CJC
 the_AT0
@@ -30839,7 +30839,7 @@ Zodiac_NN1
 dinghy_NN1
 near_PRP
 the_AT0
-Outboard_AJ0-NN1
+Outboard_AJ0
 Boating_NN1
 Club_NN1
 in_PRP
@@ -30854,7 +30854,7 @@ the_AT0
 embankment_NN1
 to_TO0
 Tamaki_AJ0
-Drive_NN1-VVB
+Drive_NN1
 where_AVQ
 he_PNP
 was_VBD
@@ -30940,7 +30940,7 @@ was_VBD
 Bartelo_NP0
 from_PRP
 the_AT0
-Ouv\xc3\xa9a_NP0-NN1
+Ouv\xc3\xa9a_NP0
 while_CJS
 the_AT0
 man_NN1
@@ -30954,7 +30954,7 @@ into_PRP
 the_AT0
 water_NN1
 was_VBD
-Mafart_NP0-NN1
+Mafart_NP0
 The_AT0
 following_AJ0
 morning_NN1
@@ -31016,7 +31016,7 @@ airport_NN1
 and_CJC
 told_VVD
 the_AT0
-hire_VVI
+hire_NN1
 company_NN1
 's_POS
 office_NN1
@@ -31044,9 +31044,9 @@ flight_NN1
 to_TO0
 London_NP0
 Had_VHD
-Mafart_NP0-NN1
+Mafart_NP0
 and_CJC
-Prieur_NP0-NN1
+Prieur_NP0
 simply_AV0
 abandoned_VVN
 the_AT0
@@ -31086,7 +31086,7 @@ a_AT0
 refund_NN1
 on_PRP
 their_DPS
-hire_VVI
+hire_NN1
 agreement_NN1
 and_CJC
 when_CJS
@@ -31169,7 +31169,7 @@ calls_VVZ
 to_TO0
 Paris_NP0
 The_AT0
-French_AJ0-NN1
+French_AJ0
 police_NN2
 said_VVD
 the_AT0
@@ -31191,7 +31191,7 @@ number_NN1
 allocated_VVN
 to_TO0
 the_AT0
-DGSE_NN1-NP0
+DGSE_NP0
 Finally_AV0
 the_AT0
 New_AJ0
@@ -31199,7 +31199,7 @@ Zealand_NP0
 police_NN2
 established_VVN
 through_PRP
-Interpol_NP0-NN1
+Interpol_NP0
 that_CJT
 the_AT0
 two_CRD
@@ -31212,9 +31212,9 @@ were_VBD
 able_AJ0
 to_TO0
 arrest_NN1
-Mafart_NP0-NN1
+Mafart_NP0
 and_CJC
-Prieur_NP0-NN1
+Prieur_NP0
 The_AT0
 police_NN2
 were_VBD
@@ -31223,11 +31223,11 @@ told_VVD
 about_PRP
 the_AT0
 yacht_NN1
-Ouv\xc3\xa9a_NP0-NN1
+Ouv\xc3\xa9a_NP0
 and_CJC
 its_DPS
 four-man_AJ0
-French_AJ0-NN1
+French_AJ0
 crew_NN1
 and_CJC
 on_PRP
@@ -31275,7 +31275,7 @@ were_VBD
 taken_VVN
 from_PRP
 the_AT0
-Ouv\xc3\xa9a_NP0-NN1
+Ouv\xc3\xa9a_NP0
 it_PNP
 was_VBD
 impossible_AJ0
@@ -31299,7 +31299,7 @@ to_TO0
 sail_NN1
 for_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 island_NN1
 of_PRF
 New_AJ0
@@ -31311,21 +31311,21 @@ Somewhere_AV0
 en_UNC
 route_NN1
 the_AT0
-Ouv\xc3\xa9a_NP0-NN1
+Ouv\xc3\xa9a_NP0
 met_VVD
 up_AVP
 with_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 nuclear_AJ0
 submarine_NN1
-Rubis_NN1-NP0
+Rubis_NN1
 and_CJC
 after_PRP
 the_AT0
 trio_NN1
 of_PRF
-DGSE_NN1-NP0
+DGSE_NP0
 agents_NN2
 had_VHD
 boarded_VVD
@@ -31374,7 +31374,7 @@ For_PRP
 a_AT0
 while_CJS
 the_AT0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 maintained_VVN
 a_AT0
@@ -31395,14 +31395,14 @@ on_PRP
 allegations_NN2
 that_CJT
 the_AT0
-DGSE_NN1-NP0
+DGSE_NP0
 had_VHD
 been_VBN
-involved_AJ0
+involved_VVN
 But_CJC
 as_CJS
 the_AT0
-French_AJ0-NN1
+French_AJ0
 press_NN1
 produced_VVN
 one_CRD
@@ -31414,7 +31414,7 @@ including_PRP
 leaks_NN2
 from_PRP
 the_AT0
-DGSE_NN1-NP0
+DGSE_NP0
 itself_PNX
 it_PNP
 was_VBD
@@ -31424,7 +31424,7 @@ that_CJT
 civil_AJ0
 servant_NN1
 Bernard_NP0
-Tricot_NP0-NN1
+Tricot_NP0
 should_VM0
 carry_VVI
 out_AVP
@@ -31434,7 +31434,7 @@ investigation_NN1
 and_CJC
 that_CJT
 the_AT0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 would_VM0
 cooperate_VVI
@@ -31444,7 +31444,7 @@ the_AT0
 New_AJ0
 Zealand_NP0
 police_NN2
-Tricot_NP0-NN1
+Tricot_NP0
 had_VHD
 investigated_VVN
 intelligence_NN1
@@ -31454,7 +31454,7 @@ including_PRP
 the_AT0
 kidnapping_NN1
 by_PRP
-French_AJ0-NN1
+French_AJ0
 intelligence_NN1
 agents_NN2
 in_PRP
@@ -31476,7 +31476,7 @@ presumably_AV0
 murdered_VVN
 by_PRP
 them_PNP
-Tricot_NP0-NN1
+Tricot_NP0
 delivered_VVN
 a_AT0
 report_NN1
@@ -31532,9 +31532,9 @@ police_NN2
 prepared_AJ0
 to_TO0
 place_NN1
-Mafart_NP0-NN1
+Mafart_NP0
 and_CJC
-Prieur_NP0-NN1
+Prieur_NP0
 on_PRP
 trial_NN1
 facing_VVG
@@ -31545,7 +31545,7 @@ murder_NN1
 But_CJC
 if_CJS
 the_AT0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 had_VHD
 been_VBN
@@ -31608,9 +31608,9 @@ no_AT0
 proof_NN1
 that_CJT
 either_AV0
-Mafart_NP0-NN1
+Mafart_NP0
 or_CJC
-Prieur_NP0-NN1
+Prieur_NP0
 had_VHD
 planted_VVN
 the_AT0
@@ -31663,7 +31663,7 @@ not_XX0
 only_AV0
 was_VBD
 the_AT0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 furious_AJ0
 but_CJC
@@ -31679,9 +31679,9 @@ generate_VVI
 public_AJ0
 support_NN1
 for_PRP
-Mafart_NP0-NN1
+Mafart_NP0
 and_CJC
-Prieur_NP0-NN1
+Prieur_NP0
 on_PRP
 the_AT0
 grounds_NN2
@@ -31705,7 +31705,7 @@ were_VBD
 forgotten_VVN
 and_CJC
 the_AT0
-French_AJ0-NN1
+French_AJ0
 people_NN0
 decided_VVD
 that_CJT
@@ -31736,7 +31736,7 @@ at_PRP
 a_AT0
 time_NN1
 when_CJS
-Arab_AJ0-NN1
+Arab_AJ0
 terrorists_NN2
 were_VBD
 letting_VVG
@@ -31745,7 +31745,7 @@ bombs_NN2
 in_PRP
 Paris_NP0
 which_DTQ
-French_AJ0-NN1
+French_AJ0
 people_NN0
 thought_VVD
 quite_AV0
@@ -31774,7 +31774,7 @@ of_PRF
 perverted_AJ0
 patriotism_NN1
 the_AT0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 blocked_VVN
 the_AT0
@@ -31961,7 +31961,7 @@ all_DT0
 right_NN1
 for_PRP
 the_AT0
-DGSE_NN1-NP0
+DGSE_NP0
 to_TO0
 let_VVB
 them_PNP
@@ -32028,9 +32028,9 @@ October_NP0
 1987_CRD
 In_PRP
 return_NN1
-Mafart_NP0-NN1
+Mafart_NP0
 and_CJC
-Prieur_NP0-NN1
+Prieur_NP0
 had_VHD
 their_DPS
 sentences_NN2
@@ -32047,7 +32047,7 @@ in_PRP
 exile_NN1
 at_PRP
 the_AT0
-French_AJ0-NN1
+French_AJ0
 military_AJ0
 base_NN1
 on_PRP
@@ -32055,11 +32055,11 @@ the_AT0
 Pacific_NP0
 island_NN1
 of_PRF
-Hao_NP0-NN1
+Hao_NP0
 By_PRP
 now_AV0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 had_VHD
 become_VVI
@@ -32072,7 +32072,7 @@ affair_NN1
 and_CJC
 the_AT0
 new_AJ0
-French_AJ0-NN1
+French_AJ0
 prime_AJ0
 minister_NN1
 Jacques_NP0
@@ -32089,9 +32089,9 @@ be_VBI
 proud_AJ0
 of_PRF
 what_DTQ
-Mafart_NP0-NN1
+Mafart_NP0
 and_CJC
-Prieur_NP0-NN1
+Prieur_NP0
 had_VHD
 achieved_VVN
 a_AT0
@@ -32108,7 +32108,7 @@ France_NP0
 In_PRP
 December_NP0
 1987_CRD
-Mafart_NP0-NN1
+Mafart_NP0
 was_VBD
 allowed_VVN
 to_TO0
@@ -32129,7 +32129,7 @@ was_VBD
 ill_AJ0
 although_CJS
 the_AT0
-French_AJ0-NN1
+French_AJ0
 government_NN1
 refused_VVD
 to_TO0
@@ -32145,7 +32145,7 @@ A_AT0
 few_DT0
 months_NN2
 later_AV0
-Prieur_NP0-NN1
+Prieur_NP0
 became_VVD
 pregnant_AJ0
 and_CJC
@@ -32154,7 +32154,7 @@ too_AV0
 returned_VVD
 to_TO0
 France_NP0
-Mafart_NP0-NN1
+Mafart_NP0
 's_POS
 illness_NN1
 can_VM0
@@ -32259,21 +32259,21 @@ whose_DTQ
 connection_NN1
 with_PRP
 the_AT0
-DGSE_NN1-NP0
+DGSE_NP0
 could_VM0
 have_VHB
 been_VBN
 denied_VVN
 whereas_CJS
 both_AV0
-Mafart_NP0-NN1
+Mafart_NP0
 and_CJC
-Prieur_NP0-NN1
+Prieur_NP0
 made_VVN
 telephone_NN1
 calls_VVZ
 to_TO0
-DGSE_NN1-NP0
+DGSE_NP0
 numbers_NN2
 in_PRP
 France_NP0
@@ -32307,7 +32307,7 @@ through_PRP
 the_AT0
 tedium_NN1
 of_PRF
-Tricot_NP0-NN1
+Tricot_NP0
 's_POS
 inquiry_NN1
 Although_CJS
@@ -32337,7 +32337,7 @@ at_PRP
 least_AV0
 gave_VVD
 the_AT0
-DGSE_NN1-NP0
+DGSE_NP0
 some_DT0
 confidence_NN1
 that_CJT
@@ -32349,7 +32349,7 @@ it_PNP
 accepted_VVN
 another_DT0
 Henry_NP0
-II-type_NN1-AJ0
+II-type_AJ0
 command_NN1
 it_PNP
 would_VM0
@@ -32370,7 +32370,7 @@ fortunate_AJ0
 as_CJS
 was_VBD
 the_AT0
-DGSE_NN1-NP0
+DGSE_NP0
 In_PRP
 America_NP0
 all_DT0
@@ -32416,7 +32416,7 @@ under_PRP
 a_AT0
 cover_NN1
 of_PRF
-wanting_VVG-AJ0
+wanting_VVG
 to_TO0
 help_VVI
 another_DT0
@@ -33030,7 +33030,7 @@ war_NN1
 Lebanon_NP0
 continued_VVD
 to_TO0
-tear_NN1-VVB
+tear_NN1
 itself_PNX
 apart_AV0
 in_PRP
@@ -33047,7 +33047,7 @@ Lebanon_NP0
 in_PRP
 order_NN1
 to_TO0
-drive_VVI
+drive_NN1
 out_AVP
 Palestine_NP0
 Liberation_NN1
@@ -33132,9 +33132,9 @@ was_VBD
 supporting_VVG
 the_AT0
 CIA-backed_AJ0
-Phalangist_AJ0-NN1
+Phalangist_AJ0
 leader_NN1
-Bashir_NP0-NN1
+Bashir_NP0
 Gemayel_NP0
 to_TO0
 the_AT0
@@ -33247,7 +33247,7 @@ exploded_VVD
 in_PRP
 the_AT0
 local_AJ0
-Phalangist_AJ0-NN1
+Phalangist_AJ0
 party_NN1
 offices_NN2
 where_AVQ
@@ -33272,12 +33272,12 @@ then_AV0
 the_AT0
 Israelis_NN2
 allowed_VVN
-Phalangist_AJ0-NN1
+Phalangist_AJ0
 units_NN2
 to_TO0
 enter_VVI
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 refugee_NN1
 camps_NN2
 at_PRP
@@ -33299,7 +33299,7 @@ US_NP0
 Marines_NN2
 on_PRP
 a_AT0
-peace-keeping_AJ0-NN1
+peace-keeping_AJ0
 mission_NN1
 which_DTQ
 although_CJS
@@ -33405,7 +33405,7 @@ Marine_AJ0
 barrack_NN1
 compound_NN1
 and_CJC
-detonated_VVN-VVD
+detonated_VVD
 with_PRP
 the_AT0
 driver_NN1
@@ -33462,7 +33462,7 @@ were_VBD
 kidnapped_VVN
 by_PRP
 Islamic_AJ0
-Jihad_NP0-NN1
+Jihad_NP0
 and_CJC
 other_AJ0
 terrorist_NN1
@@ -33478,11 +33478,11 @@ on_PRP
 14_CRD
 June_NP0
 1985_CRD
-TWA_NP0-NN1
+TWA_NN1
 Flight_NN1
 847_CRD
 was_VBD
-hijacked_VVN-AJ0
+hijacked_AJ0
 and_CJC
 forced_VVN
 to_TO0
@@ -33645,7 +33645,7 @@ well_AV0
 aware_AJ0
 of_PRF
 the_AT0
-damaging_VVG-AJ0
+damaging_AJ0
 analogy_NN1
 to_TO0
 his_DPS
@@ -33865,7 +33865,7 @@ the_AT0
 overthrow_VVI
 of_PRF
 the_AT0
-Shah_NP0-NN1
+Shah_NN1
 and_CJC
 throughout_PRP
 the_AT0
@@ -33948,7 +33948,7 @@ but_CJC
 the_AT0
 vast_AJ0
 profits_NN2
-involved_AJ0
+involved_VVN
 generated_VVN
 a_AT0
 convenient_AJ0
@@ -33984,7 +33984,7 @@ that_CJT
 Iran_NP0
 badly_AV0
 needed_VVN
-TOW_NN1-VVB
+TOW_NN1
 anti-tank_AJ0
 missiles_NN2
 and_CJC
@@ -34012,7 +34012,7 @@ plan_NN1
 they_PNP
 would_VM0
 send_VVI
-TOW_NN1-VVB
+TOW_NN1
 missiles_NN2
 to_TO0
 Iran_NP0
@@ -34064,7 +34064,7 @@ Marine_AJ0
 colonel_NN1
 so_AV0
 closely_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 Central_AJ0
@@ -34098,7 +34098,7 @@ Iranian_AJ0
 businessman_NN1
 called_VVN
 Manucher_NP0
-Ghorbanifar_NP0-NN1
+Ghorbanifar_NP0
 who_PNQ
 was_VBD
 already_AV0
@@ -34165,7 +34165,7 @@ knew_VVD
 it_PNP
 was_VBD
 untrue_AJ0
-Ghorbanifar_NP0-NN1
+Ghorbanifar_NP0
 had_VHD
 also_AV0
 offered_VVN
@@ -34212,7 +34212,7 @@ with_PRP
 a_AT0
 person_NN1
 like_PRP
-Ghorbanifar_NP0-NN1
+Ghorbanifar_NP0
 let_VVB
 alone_AJ0
 do_VDB
@@ -34226,7 +34226,7 @@ to_TO0
 pay_VVI
 for_PRP
 the_AT0
-TOW_NN1-VVB
+TOW_NN1
 missiles_NN2
 until_CJS
 they_PNP
@@ -34238,7 +34238,7 @@ Arabian_AJ0
 middleman_NN1
 called_VVN
 Adnan_NP0
-Khashoggi_NP0-NN1
+Khashoggi_NN1
 whose_DTQ
 social_AJ0
 lifestyle_NN1
@@ -34251,7 +34251,7 @@ the_AT0
 pages_NN2
 of_PRF
 the_AT0
-tabloid_AJ0-NN1
+tabloid_AJ0
 press_NN1
 put_VVI
 up_AVP
@@ -34264,7 +34264,7 @@ million_CRD
 Iran_NP0
 received_VVD
 508_CRD
-TOW_NN1-VVB
+TOW_NN1
 missiles_NN2
 for_PRP
 that_CJT
@@ -34332,7 +34332,7 @@ government_NN1
 had_VHD
 sold_VVN
 508_CRD
-TOW_NN1-VVB
+TOW_NN1
 missiles_NN2
 to_TO0
 Iran_NP0
@@ -34389,7 +34389,7 @@ Beirut_NP0
 who_PNQ
 kidnapped_VVN
 a_AT0
-relative_AJ0-NN1
+relative_AJ0
 of_PRF
 those_DT0
 holding_VVG
@@ -34456,7 +34456,7 @@ CIA_NP0
 By_PRP
 now_AV0
 North_NN1
-flushed_VVN
+flushed_VVD
 with_PRP
 success_NN1
 at_PRP
@@ -34468,7 +34468,7 @@ in_PRP
 exchange_NN1
 for_PRP
 the_AT0
-TOW_NN1-VVB
+TOW_NN1
 missiles_NN2
 was_VBD
 getting_VVG
@@ -34667,7 +34667,7 @@ Shultz_NP0
 Defence_NN1
 Secretary_NN1
 Caspar_NP0
-Weinberger_NP0-NN1
+Weinberger_NP0
 head_NN1
 of_PRF
 the_AT0
@@ -34710,7 +34710,7 @@ to_TO0
 believe_VVB
 that_CJT
 those_DT0
-present_AJ0-NN1
+present_AJ0
 were_VBD
 not_XX0
 aware_AJ0
@@ -34718,7 +34718,7 @@ of_PRF
 them_PNP
 Shultz_NP0
 and_CJC
-Weinberger_NP0-NN1
+Weinberger_NP0
 opposed_VVN
 Poindexter_NP0
 's_POS
@@ -34730,7 +34730,7 @@ it_PNP
 undermined_VVN
 America_NP0
 's_POS
-much-stated_AJ0-NN1
+much-stated_AJ0
 policy_NN1
 usually_AV0
 made_VVN
@@ -34880,13 +34880,13 @@ further_AJC
 shipment_NN1
 of_PRF
 1,000_CRD
-TOW_NN1-VVB
+TOW_NN1
 missiles_NN2
 directly_AV0
 to_TO0
 Iran_NP0
 using_VVG
-Ghorbanifar_NP0-NN1
+Ghorbanifar_NP0
 as_CJS
 intermediary_NN1
 and_CJC
@@ -34904,7 +34904,7 @@ the_AT0
 excuse_NN1
 given_VVN
 by_PRP
-Ghorbanifar_NP0-NN1
+Ghorbanifar_NP0
 being_VBG
 that_CJT
 Iran_NP0
@@ -34913,7 +34913,7 @@ not_XX0
 really_AV0
 need_VVB
 the_AT0
-TOW_NN1-VVB
+TOW_NN1
 missiles_NN2
 so_AV0
 they_PNP
@@ -34936,7 +34936,7 @@ to_TO0
 attack_NN1
 Libya_NP0
 was_VBD
-gathering_NN1
+gathering_VVG
 momentum_NN1
 On_PRP
 22_CRD
@@ -34967,7 +34967,7 @@ Libyan_AJ0
 coast_NN1
 in_PRP
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 of_PRF
 Sidra_NP0
 and_CJC
@@ -35034,10 +35034,10 @@ England_NP0
 attacked_VVN
 Tripoli_NP0
 and_CJC
-Benghazi_NP0-NN1
+Benghazi_NN1
 dropping_VVG
 32_CRD
-laser-guided_AJ0-NN1
+laser-guided_NN1
 2,000_CRD
 pound_NN1
 bombs_NN2
@@ -35132,7 +35132,7 @@ million_CRD
 which_DTQ
 he_PNP
 proposed_AJ0
-diverting_VVG-AJ0
+diverting_VVG
 to_TO0
 fund_NN1
 the_AT0
@@ -35309,13 +35309,13 @@ $3.5_NN0
 million_CRD
 had_VHD
 gone_VVN
-missing_VVG-AJ0
+missing_VVG
 from_PRP
 the_AT0
 first_ORD
 shipment_NN1
 of_PRF
-TOW_NN1-VVB
+TOW_NN1
 missiles_NN2
 in_PRP
 1985_CRD
@@ -35361,9 +35361,9 @@ that_CJT
 North_NN1
 was_VBD
 privately_AV0
-diverting_VVG-AJ0
+diverting_VVG
 these_DT0
-missing_VVG-AJ0
+missing_VVG
 millions_CRD
 to_TO0
 the_AT0
@@ -35383,7 +35383,7 @@ the_AT0
 Iranians_NN2
 cutting_VVG
 out_AVP
-Ghorbanifar_NP0-NN1
+Ghorbanifar_NP0
 who_PNQ
 was_VBD
 threatening_VVG
@@ -35427,7 +35427,7 @@ to_TO0
 pay_VVI
 for_PRP
 500_CRD
-TOW_NN1-VVB
+TOW_NN1
 missiles_NN2
 that_CJT
 were_VBD
@@ -35443,7 +35443,7 @@ the_AT0
 true_AJ0
 price_NN1
 of_PRF
-TOW_NN1-VVB
+TOW_NN1
 missiles_NN2
 compared_VVN
 to_TO0
@@ -35458,7 +35458,7 @@ same_DT0
 time_NN1
 two_CRD
 giant_AJ0
-Lockheed_NP0-NN1
+Lockheed_NP0
 C-5A_UNC
 Galaxy_NN1
 transport_NN1
@@ -35536,7 +35536,7 @@ resulted_VVD
 in_PRP
 the_AT0
 much_DT0
-publicised_AJ0-VVN
+publicised_VVN
 release_NN1
 of_PRF
 David_NP0
@@ -35571,7 +35571,7 @@ Iranians_NN2
 It_PNP
 is_VBZ
 now_AV0
-dear_ITJ
+dear_NN1
 that_CJT
 Waite_NP0
 's_POS
@@ -35668,7 +35668,7 @@ of_PRF
 the_AT0
 entire_AJ0
 American_AJ0
-arms-supply_AJ0-NN1
+arms-supply_NN1
 operation_NN1
 to_TO0
 the_AT0
@@ -35695,7 +35695,7 @@ Washington_NP0
 for_PRP
 the_AT0
 ritual_NN1
-photocall_NN1-VVB
+photocall_NN1
 with_PRP
 the_AT0
 president_NN1
@@ -35914,7 +35914,7 @@ shared_VVN
 Mrs_NP0
 Thatcher_NP0
 's_POS
-much-publicised_AJ0-NN1
+much-publicised_AJ0
 belief_NN1
 that_CJT
 no_AT0
@@ -36030,7 +36030,7 @@ the_AT0
 rest_NN1
 of_PRF
 the_AT0
-tawdry_AJ0-NN1
+tawdry_AJ0
 tale_NN1
 emerged_VVD
 the_AT0
@@ -36044,7 +36044,7 @@ into_PRP
 embarrassed_AJ0
 silence_NN1
 The_AT0
-French_AJ0-NN1
+French_AJ0
 and_CJC
 Germans_NN2
 watched_VVD
@@ -36310,7 +36310,7 @@ information_NN1
 from_PRP
 Congress_NN1
 about_PRP
-diverting_VVG-AJ0
+diverting_VVG
 arms_NN2
 sale_NN1
 funds_NN2
@@ -36400,7 +36400,7 @@ to_TO0
 see_VVI
 another_DT0
 president_NN1
-fall_VVI
+fall_NN1
 from_PRP
 grace_NN1
 since_CJS

@@ -102,7 +102,7 @@ the_AT0
 opposite_AJ0
 direction_NN1
 The_AT0
-overall_AJ0-NN1
+overall_AJ0
 effect_NN1
 was_VBD
 weird_AJ0
@@ -140,7 +140,7 @@ stood_VVD
 there_EX0
 all_DT0
 day_NN1
-gawping_AJ0-NN1
+gawping_AJ0
 up_AVP
 at_PRP
 it_PNP
@@ -369,8 +369,8 @@ on_PRP
 for_PRP
 the_AT0
 pictures_NN2
-Darned_AJ0-VVN
-tooting_NN1-VVG
+Darned_AJ0
+tooting_NN1
 I_PNP
 am_VBB
 Susan_NP0
@@ -400,7 +400,7 @@ romance_NN1
 also_AV0
 starring_VVG
 Anthony_NP0
-Bushell_NP0-NN1
+Bushell_NP0
 and_CJC
 Rose_NP0
 Hobart_NP0
@@ -442,12 +442,12 @@ suddenly_AV0
 twinkled_VVD
 I_PNP
 wonder_VVB
-Wonder_VVB-NN1
+Wonder_NN1
 what_DTQ
 If_CJS
 those_DT0
 two_CRD
-English_AJ0-NN1
+English_AJ0
 lads_NN2
 from_PRP
 Northallerton_NP0
@@ -956,13 +956,13 @@ an_AT0
 easel_NN1
 at_PRP
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 of_PRF
 his_DPS
 boat_NN1
 proclaimed_VVN
 Fishing_NN1
-Trips_NN2-VVZ
+Trips_NN2
 Shark_NN1
 Fishing_NN1
 a_AT0
@@ -1051,7 +1051,7 @@ her_DPS
 face_NN1
 I_PNP
 'll_VM0
-walk_VVI
+walk_NN1
 you_PNP
 back_AVP
 if_CJS
@@ -1166,12 +1166,12 @@ and_CJC
 passers-by_NN2
 Mid-winter_NN1
 he_PNP
-carved_AJ0
+carved_VVN
 figures_NN2
 in_PRP
 wood_NN1
 and_CJC
-whalebone_NN1-VVB
+whalebone_NN1
 the_AT0
 latter_DT0
 called_VVN
@@ -1223,7 +1223,7 @@ proud_AJ0
 He_PNP
 had_VHD
 the_AT0
-whalebone_NN1-VVB
+whalebone_NN1
 sent_VVN
 to_TO0
 him_PNP
@@ -1303,7 +1303,7 @@ thunder_NN1
 each_DT0
 a_AT0
 tearing_VVG
-whiplash_NN1-VVB
+whiplash_NN1
 of_PRF
 sound_NN1
 I_PNP
@@ -1385,7 +1385,7 @@ cup_NN1
 of_PRF
 tea_NN1
 to_TO0
-wash_VVI
+wash_NN1
 it_PNP
 away_AV0
 So_AV0
@@ -1463,7 +1463,7 @@ of_PRF
 the_AT0
 kinema_NN1
 the_AT0
-dear_ITJ
+dear_NN1
 old_AJ0
 kinema_NN1
 and_CJC
@@ -1771,7 +1771,7 @@ Charlie_NP0
 feigned_VVD
 outrage_NN1
 then_AV0
-hurt_VVI
+hurt_VVN
 What_DTQ
 Not_XX0
 at_PRP
@@ -1793,7 +1793,7 @@ to_TO0
 give_VVI
 me_PNP
 a_AT0
-ha'penny_NN1-AJ0
+ha'penny_NN1
 I_PNP
 might_VM0
 tell_VVI
@@ -1898,7 +1898,7 @@ living_VVG
 in_PRP
 Glasgow_NP0
 Apple_NN1
-tart_NN1-AJ0
+tart_NN1
 or_CJC
 pie_NN1
 Maggie_NP0
@@ -1906,7 +1906,7 @@ queried_VVD
 She_PNP
 loved_VVD
 both_AV0
-Tart_NN1-AJ0
+Tart_NN1
 and_CJC
 some_DT0
 jam_NN1
@@ -2003,11 +2003,11 @@ from_PRP
 their_DPS
 source_NN1
 at_PRP
-Ranlodden_NP0-NN1
+Ranlodden_NP0
 Moor_NN1
 towards_PRP
 the_AT0
-six-hundred-foot_AJ0-NN1
+six-hundred-foot_NN1
 hills_NN2
 that_CJT
 towered_VVD
@@ -2048,7 +2048,7 @@ pastry_NN1
 rolling_VVG
 I_PNP
 'm_VBB
-dying_VVG-AJ0
+dying_AJ0
 for_PRP
 a_AT0
 cup_NN1
@@ -2124,7 +2124,7 @@ a_AT0
 wry_AJ0
 smile_NN1
 Sorry_AJ0
-wee_AJ0-NN1
+wee_AJ0
 fella_NN1
 but_CJC
 if_CJS
@@ -2385,7 +2385,7 @@ zinc_NN1
 bath_NN1
 out_AVP
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 and_CJC
 let_VVB
 that_CJT
@@ -2533,7 +2533,7 @@ zinc_NN1
 bath_NN1
 out_AVP
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 I_PNP
 'll_VM0
 do_VDB
@@ -2733,7 +2733,7 @@ cake_NN1
 was_VBD
 a_AT0
 great_AJ0
-favourite_AJ0-NN1
+favourite_AJ0
 of_PRF
 his_DPS
 While_CJS
@@ -2906,10 +2906,10 @@ and_CJC
 I_PNP
 ordered_VVD
 thirty_CRD
-brace_NN1-VVB
+brace_NN1
 from_PRP
 the_AT0
-Ranlodden_NP0-NN1
+Ranlodden_NP0
 Estate_NN1
 which_DTQ
 are_VBB
@@ -2944,7 +2944,7 @@ was_VBD
 for_PRP
 Bryce_NP0
 to_TO0
-drive_VVI
+drive_NN1
 up_AVP
 and_CJC
 get_VVI
@@ -3119,7 +3119,7 @@ had_VHD
 always_AV0
 wanted_VVD
 to_TO0
-drive_VVI
+drive_NN1
 and_CJC
 passed_VVN
 her_DPS
@@ -3415,7 +3415,7 @@ And_CJC
 how_AVQ
 about_PRP
 a_AT0
-brace_NN1-VVB
+brace_NN1
 of_PRF
 grouse_NN0
 for_PRP
@@ -3705,7 +3705,7 @@ up_AVP
 and_CJC
 flowing_VVG
 very_AV0
-fast_AV0-AJ0
+fast_AJ0
 indeed_AV0
 The_AT0
 South_NN1
@@ -3824,7 +3824,7 @@ your_DPS
 rabbits_NN2
 and_CJC
 the_AT0
-brace_NN1-VVB
+brace_NN1
 of_PRF
 grouse_NN0
 Nor_CJC
@@ -3858,7 +3858,7 @@ Don_NP0
 but_CJC
 do_VDB
 n't_XX0
-feel_VVI
+feel_VVB
 I_PNP
 can_VM0
 afford_VVI
@@ -3920,7 +3920,7 @@ taken_VVN
 six_CRD
 horses_NN2
 to_TO0
-haul_VVI
+haul_NN1
 a_AT0
 vehicle_NN1
 the_AT0
@@ -4064,7 +4064,7 @@ way_NN1
 up_AVP
 the_AT0
 final_AJ0
-stretch_VVI
+stretch_NN1
 of_PRF
 the_AT0
 brae_NN2
@@ -4194,7 +4194,7 @@ this_DT0
 little_AJ0
 fishing_NN1
 village_NN1
-cast_VVN
+cast_NN1
 an_AT0
 irresistible_AJ0
 spell_NN1
@@ -4294,7 +4294,7 @@ think_VVB
 you_PNP
 might_VM0
 be_VBI
-biased_VVN-AJ0
+biased_AJ0
 Dad_NN1
 Maggie_NP0
 teased_VVD
@@ -4302,7 +4302,7 @@ Of_PRF
 course_NN1
 I_PNP
 'm_VBB
-biased_VVN-AJ0
+biased_AJ0
 But_CJC
 I_PNP
 also_AV0
@@ -4445,7 +4445,7 @@ road_NN1
 which_DTQ
 led_VVD
 to_TO0
-Drumbreck_NP0-NN1
+Drumbreck_NP0
 House_NN1
 where_AVQ
 Sir_NP0
@@ -4454,7 +4454,7 @@ McLay_NP0
 lived_VVD
 He_PNP
 owned_VVN
-Ranlodden_NP0-NN1
+Ranlodden_NP0
 Estate_NN1
 which_DTQ
 consisted_VVD
@@ -4472,7 +4472,7 @@ in_PRP
 silence_NN1
 Charlie_NP0
 contentedly_AV0
-puffing_VVG-AJ0
+puffing_VVG
 on_PRP
 his_DPS
 pipe_NN1
@@ -4509,7 +4509,7 @@ The_AT0
 sheep_NN0
 in_PRP
 the_AT0
-burn_VVI
+burn_NN1
 Maggie_NP0
 stopped_VVD
 the_AT0
@@ -4524,7 +4524,7 @@ was_VBD
 talking_VVG
 about_PRP
 The_AT0
-burn_VVI
+burn_NN1
 was_VBD
 swollen_AJ0
 the_AT0
@@ -4634,7 +4634,7 @@ tramped_VVD
 over_PRP
 to_TO0
 the_AT0
-burn_VVI
+burn_NN1
 The_AT0
 branch_NN1
 of_PRF
@@ -4646,7 +4646,7 @@ the_AT0
 bottom_NN1
 of_PRF
 the_AT0
-burn_VVI
+burn_NN1
 was_VBD
 supporting_VVG
 the_AT0
@@ -4655,7 +4655,7 @@ which_DTQ
 had_VHD
 become_VVI
 firmly_AV0
-wedged_VVN-VVD
+wedged_VVN
 against_PRP
 it_PNP
 Maggie_NP0
@@ -4788,7 +4788,7 @@ note_NN1
 Between_PRP
 there_EX0
 and_CJC
-Drumbreck_NP0-NN1
+Drumbreck_NP0
 House_NN1
 they_PNP
 came_VVD
@@ -4814,7 +4814,7 @@ relief_NN1
 that_CJT
 they_PNP
 reached_VVD
-Drumbreck_NP0-NN1
+Drumbreck_NP0
 House_NN1
 parking_NN1
 among_PRP
@@ -4836,7 +4836,7 @@ came_VVD
 across_PRP
 Bob_NP0
 Merryfield_NP0
-chief_AJ0-NN1
+chief_NN1
 ghillie_NN1
 sorting_VVG
 out_AVP
@@ -4912,7 +4912,7 @@ just_AV0
 refused_VVD
 to_TO0
 be_VBI
-flushed_VVN
+flushed_VVD
 Maggie_NP0
 immediately_AV0
 thought_VVD
@@ -4944,7 +4944,7 @@ appeared_VVD
 He_PNP
 was_VBD
 positively_AV0
-grim-faced_AJ0-NN1
+grim-faced_AJ0
 Good_AJ0
 afternoon_NN1
 Mr_NP0
@@ -4961,7 +4961,7 @@ to_TO0
 collect_VVI
 the_AT0
 thirty_CRD
-brace_NN1-VVB
+brace_NN1
 of_PRF
 grouse_NN0
 he_PNP
@@ -4978,7 +4978,7 @@ will_VM0
 be_VBI
 no_AT0
 thirty_CRD
-brace_NN1-VVB
+brace_NN1
 for_PRP
 Lawler_NP0
 the_AT0
@@ -4989,7 +4989,7 @@ let_VVB
 you_PNP
 have_VHB
 eight_CRD
-brace_NN1-VVB
+brace_NN1
 and_CJC
 that_CJT
 's_POS
@@ -5002,13 +5002,13 @@ disappointed_AJ0
 Charlie_NP0
 saw_VVD
 his_DPS
-brace_NN1-VVB
+brace_NN1
 disappearing_VVG
 down_AVP
 the_AT0
 plug-hole_NN1
 Eight_CRD
-brace_NN1-VVB
+brace_NN1
 and_CJC
 Lawler_NP0
 's_POS
@@ -5043,7 +5043,7 @@ fanatical_AJ0
 sportsman_NN1
 He_PNP
 was_VBD
-cross_VVI
+cross_NN1
 enough_AV0
 to_TO0
 spit_NN1
@@ -5101,7 +5101,7 @@ Parkinson_NP0
 frowned_VVD
 at_PRP
 the_AT0
-chief_AJ0-NN1
+chief_NN1
 ghillie_NN1
 Well_AV0
 it_PNP
@@ -5135,7 +5135,7 @@ me_PNP
 more_AV0
 than_CJS
 eight_CRD
-brace_NN1-VVB
+brace_NN1
 Maggie_NP0
 suggested_VVN
 trying_VVG
@@ -5221,7 +5221,7 @@ settle_VVI
 for_PRP
 the_AT0
 eight_CRD
-brace_NN1-VVB
+brace_NN1
 and_CJC
 be_VBI
 thankful_AJ0
@@ -5251,7 +5251,7 @@ all_DT0
 round_AVP
 eh_ITJ
 I_PNP
-feel_VVI
+feel_VVB
 it_PNP
 's_POS
 that_CJT
@@ -5463,7 +5463,7 @@ only_AV0
 bringing_VVG
 him_PNP
 eight_CRD
-brace_NN1-VVB
+brace_NN1
 but_CJC
 I_PNP
 did_VDD
@@ -5525,7 +5525,7 @@ replied_VVD
 which_DTQ
 made_VVN
 him_PNP
-laugh_VVI
+laugh_NN1
 More_AV0
 thunder_NN1
 followed_VVN
@@ -5565,7 +5565,7 @@ Has_VHZ
 to_TO0
 be_VBI
 a_AT0
-cloud-burst_NN1-AJ0
+cloud-burst_AJ0
 Charlie_NP0
 stated_VVD
 softly_AV0
@@ -5577,7 +5577,7 @@ do_VDB
 you_PNP
 want_VVB
 to_TO0
-drive_VVI
+drive_NN1
 That_DT0
 was_VBD
 a_AT0
@@ -5744,7 +5744,7 @@ his_DPS
 rabbits_NN2
 from_PRP
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 and_CJC
 hurried_VVD
 indoors_AV0
@@ -5754,7 +5754,7 @@ reached_VVD
 The_AT0
 Haven_NN1
 she_PNP
-parked_VVN
+parked_VVD
 the_AT0
 van_NN1
 in_PRP
@@ -5822,7 +5822,7 @@ the_AT0
 grouse_NN0
 Only_AV0
 eight_CRD
-brace_NN1-VVB
+brace_NN1
 I_PNP
 'm_VBB
 afraid_AJ0
@@ -5830,20 +5830,20 @@ Mr_NP0
 Lawler_NP0
 His_DPS
 face_NN1
-clouded_VVD-VVN
+clouded_VVN
 with_PRP
 irritation_NN1
 But_CJC
 I_PNP
 ordered_VVD
 thirty_CRD
-brace_NN1-VVB
+brace_NN1
 I_PNP
 told_VVD
 you_PNP
 Maggie_NP0
 thirty_CRD
-brace_NN1-VVB
+brace_NN1
 I_PNP
 know_VVI
 what_DTQ
@@ -5856,7 +5856,7 @@ just_AV0
 was_VBD
 n't_XX0
 thirty_CRD
-brace_NN1-VVB
+brace_NN1
 to_TO0
 be_VBI
 had_VHD
@@ -5869,7 +5869,7 @@ Parkinson_NP0
 had_VHD
 told_VVD
 her_DPS
-Blast_VVB-NN1
+Blast_VVB
 Lawler_NP0
 exclaimed_VVD
 He_PNP
@@ -5915,7 +5915,7 @@ way_NN1
 to_TO0
 the_AT0
 wall_NN1
-switch_VVI
+switch_NN1
 which_DTQ
 he_PNP
 flicked_VVD
@@ -5966,7 +5966,7 @@ toe_NN1
 against_PRP
 a_AT0
 heavy_AJ0
-cast-iron_AJ0-NN1
+cast-iron_AJ0
 ornament_NN1
 that_CJT
 had_VHD
@@ -6055,7 +6055,7 @@ voice_NN1
 Over_PRP
 here_AV0
 my_DPS
-dear_ITJ
+dear_NN1
 What_DTQ
 on_PRP
 earth_NN1
@@ -6067,7 +6067,7 @@ do_VDB
 n't_XX0
 know_VVI
 yet_AV0
-dear_ITJ
+dear_NN1
 but_CJC
 I_PNP
 'm_VBB
@@ -6137,7 +6137,7 @@ Henry_NP0
 Mrs_NP0
 Lawler_NP0
 said_VVD
-Alarm_NN1-VVB
+Alarm_NN1
 bells_NN2
 rang_VVD
 in_PRP
@@ -6259,7 +6259,7 @@ At_PRP
 least_AV0
 they_PNP
 could_VM0
-cook_VVI
+cook_NN1
 as_CJS
 the_AT0
 stove_NN1
@@ -6509,7 +6509,7 @@ Charlie_NP0
 pulled_VVD
 out_AVP
 his_DPS
-fob-watch_NN1-AJ0
+fob-watch_NN1
 and_CJC
 glanced_VVD
 at_PRP
@@ -6588,7 +6588,7 @@ mum_NN1
 and_CJC
 dad_NN1
 They_PNP
-idolized_AJ0
+idolized_VVD
 one_CRD
 another_DT0
 If_CJS
@@ -6821,7 +6821,7 @@ the_AT0
 end_NN1
 of_PRF
 your_DPS
-shift_NN1-VVB
+shift_NN1
 Maggie_NP0
 said_VVD
 The_AT0
@@ -7051,7 +7051,7 @@ the_AT0
 kinema_NN1
 It_PNP
 's_POS
-shut_VVB
+shut_VVN
 Susan_NP0
 informed_VVN
 him_PNP
@@ -7137,7 +7137,7 @@ flash_NN1
 which_DTQ
 earned_VVN
 a_AT0
-laugh_VVI
+laugh_NN1
 from_PRP
 Susan_NP0
 I_PNP
@@ -7272,7 +7272,7 @@ had_VHD
 loads_NN2
 of_PRF
 candles_NN2
-stuck_AJ0
+stuck_VVN
 in_PRP
 bottles_NN2
 littered_VVN
@@ -7286,7 +7286,7 @@ inside_PRP
 Jack_NP0
 Smith_NP0
 was_VBD
-roaring_VVG
+roaring_AJ0
 with_PRP
 laughter_NN1
 having_VHG
@@ -7416,7 +7416,7 @@ at_PRP
 Maggie_NP0
 and_CJC
 winked_VVD
-Ooooohhhhh_NP0-NN1
+Ooooohhhhh_NP0
 murmured_VVD
 Susan_NP0
 quietly_AV0
@@ -7568,10 +7568,10 @@ kinema_NN1
 it_PNP
 too_AV0
 was_VBD
-closed_VVD
+closed_VVN
 I_PNP
 'll_VM0
-walk_VVI
+walk_NN1
 you_PNP
 home_NN1
 Tom_NP0
@@ -7595,7 +7595,7 @@ She_PNP
 'd_VM0
 taken_VVN
 a_AT0
-shine_VVI
+shine_NN1
 to_TO0
 Tom_NP0
 Rudge_NP0
@@ -7830,7 +7830,7 @@ pictures_NN2
 tomorrow_AV0
 night_NN1
 He_PNP
-edged_VVN
+edged_VVD
 even_AV0
 closer_AV0
 to_TO0
@@ -7869,7 +7869,7 @@ up_AVP
 at_PRP
 the_AT0
 hotel_NN1
-Pity_NN1-VVB
+Pity_NN1
 He_PNP
 was_VBD
 going_VVG
@@ -8015,11 +8015,11 @@ I_PNP
 'll_VM0
 be_VBI
 there_EX0
-Till_CJS-PRP
+Till_CJS
 then_AV0
 she_PNP
 breathed_VVD
-Till_CJS-PRP
+Till_CJS
 then_AV0
 She_PNP
 twisted_VVD
@@ -8139,7 +8139,7 @@ take_VVI
 up_AVP
 with_PRP
 any_DT0
-riff-raff_NN1-AJ0
+riff-raff_NN1
 nor_CJC
 would_VM0
 she_PNP
@@ -8198,7 +8198,7 @@ Are_VBB
 they_PNP
 Like_PRP
 diamonds_NN2
-Laughing_VVG-AJ0
+Laughing_AJ0
 Maggie_NP0
 kissed_VVD
 her_DPS
@@ -8381,7 +8381,7 @@ The_AT0
 rain_NN1
 was_VBD
 still_AV0
-battering_VVG
+battering_NN1
 down_AVP
 she_PNP
 noted_VVN
@@ -8413,7 +8413,7 @@ she_PNP
 heard_VVN
 a_AT0
 far-off_AJ0
-roaring_VVG
+roaring_AJ0
 She_PNP
 sat_VVD
 up_AVP
@@ -8536,7 +8536,7 @@ dream_NN1
 She_PNP
 was_VBD
 still_AV0
-tucked_VVN-VVD
+tucked_VVD
 up_AVP
 in_PRP
 bed_NN1
@@ -8580,7 +8580,7 @@ round_AVP
 till_CJS
 she_PNP
 started_VVD
-doggy-paddling_NN1-AJ0
+doggy-paddling_AJ0
 exercising_VVG
 some_DT0
 control_NN1
@@ -8698,7 +8698,7 @@ only_AV0
 feet_NN2
 away_AV0
 Maggie_NP0
-lunged_VVD
+lunged_VVN
 out_AVP
 an_AT0
 arm_NN1
@@ -8711,7 +8711,7 @@ her_DPS
 The_AT0
 girl_NN1
 started_VVD
-clawing_VVG-AJ0
+clawing_VVG
 at_PRP
 Maggie_NP0
 Careful_AJ0
@@ -8726,10 +8726,10 @@ Maggie_NP0
 warned_VVD
 I_PNP
 'm_VBB
-drowning_NN1-VVG
+drowning_VVG
 I_PNP
 'm_VBB
-drowning_NN1-VVG
+drowning_VVG
 the_AT0
 young_AJ0
 girl_NN1
@@ -8861,7 +8861,7 @@ desperately_AV0
 clutching_VVG
 From_PRP
 the_AT0
-feel_VVI
+feel_VVB
 of_PRF
 it_PNP
 she_PNP
@@ -8961,7 +8961,7 @@ number_NN1
 of_PRF
 shallow_AJ0
 breaths_NN2
-Driving_VVG-AJ0
+Driving_VVG
 rain_NN1
 pounded_VVD
 into_PRP
@@ -9001,7 +9001,7 @@ continued_VVD
 barking_VVG
 Maggie_NP0
 was_VBD
-listening_VVG-NN1
+listening_VVG
 to_TO0
 it_PNP
 when_CJS
@@ -9082,7 +9082,7 @@ might_VM0
 be_VBI
 Ralston_NP0
 's_POS
-Fruitshop_NN1-NP0
+Fruitshop_NP0
 but_CJC
 could_VM0
 n't_XX0
@@ -9158,7 +9158,7 @@ us_PNP
 like_PRP
 Ralston_NP0
 's_POS
-Fruitshop_NN1-NP0
+Fruitshop_NP0
 Harriet_NP0
 said_VVD
 That_DT0
@@ -9196,7 +9196,7 @@ Great_AJ0
 War_NN1
 She_PNP
 also_AV0
-spied_VVD
+spied_VVN
 the_AT0
 McPhersons_NP0
 to_TO0
@@ -9308,7 +9308,7 @@ pole_NN1
 She_PNP
 began_VVD
 to_TO0
-cry_VVI
+cry_NN1
 thinking_VVG
 that_CJT
 if_CJS
@@ -9430,7 +9430,7 @@ the_AT0
 bubbling_AJ0
 and_CJC
 gurgling_AJ0
-faded_AJ0
+faded_VVN
 as_CJS
 she_PNP
 drifted_VVD
@@ -9667,7 +9667,7 @@ Maggie_NP0
 gave_VVD
 a_AT0
 hollow_AJ0
-laugh_VVI
+laugh_NN1
 Ridiculous_AJ0
 to_TO0
 be_VBI
@@ -10056,7 +10056,7 @@ I_PNP
 'm_VBB
 positively_AV0
 gasping_VVG
-Pity_NN1-VVB
+Pity_NN1
 he_PNP
 had_VHD
 n't_XX0
@@ -10167,7 +10167,7 @@ It_PNP
 rising_VVG
 and_CJC
 rising_VVG
-fast_AV0-AJ0
+fast_AJ0
 Bryce_NP0
 muttered_VVD
 Is_VBZ
@@ -10212,7 +10212,7 @@ whole_AJ0
 thing_NN1
 happened_VVD
 so_AV0
-fast_AV0-AJ0
+fast_AJ0
 But_CJC
 what_DTQ
 What_DTQ
@@ -10311,7 +10311,7 @@ had_VHD
 been_VBN
 lit_VVD
 which_DTQ
-cast_VVN
+cast_NN1
 weird_AJ0
 flickering_VVG
 shadows_NN2
@@ -10577,7 +10577,7 @@ a_AT0
 toddler_NN1
 started_VVD
 to_TO0
-cry_VVI
+cry_NN1
 There_EX0
 there_EX0
 poppet_NN1
@@ -10642,7 +10642,7 @@ It_PNP
 was_VBD
 the_AT0
 same_DT0
-roaring_VVG
+roaring_AJ0
 she_PNP
 'd_VM0
 heard_VVN
@@ -10702,7 +10702,7 @@ He_PNP
 gave_VVD
 her_DPS
 a_AT0
-strained_AJ0
+strained_VVN
 smile_NN1
 as_CJS
 she_PNP
@@ -10929,9 +10929,9 @@ her_DPS
 He_PNP
 turned_VVD
 away_AV0
-gagged_VVD-VVN
+gagged_VVN
 and_CJC
-vomited_VVD
+vomited_VVN
 Mrs_NP0
 Docherty_NP0
 a_AT0
@@ -11086,7 +11086,7 @@ Australian_AJ0
 chaps_NN2
 and_CJC
 a_AT0
-Cockney_NN1-AJ0
+Cockney_NN1
 girl_NN1
 who_PNQ
 'd_VM0
@@ -11111,7 +11111,7 @@ to_TO0
 meet_VVI
 you_PNP
 the_AT0
-Cockney_NN1-AJ0
+Cockney_NN1
 girl_NN1
 said_VVD
 to_TO0
@@ -11132,7 +11132,7 @@ way_NN1
 holding_VVG
 a_AT0
 candle_NN1
-stuck_AJ0
+stuck_VVN
 on_PRP
 a_AT0
 saucer_NN1
@@ -11203,7 +11203,7 @@ remotely_AV0
 useful_AJ0
 in_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 crisis_NN1
 The_AT0
 floor_NN1
@@ -11394,7 +11394,7 @@ bar_NN1
 of_PRF
 milk_NN1
 chocolate_NN1
-Stick_VVB-NN1
+Stick_VVB
 that_CJT
 in_PRP
 your_DPS
@@ -11439,7 +11439,7 @@ did_VDD
 smirking_VVG
 as_CJS
 he_PNP
-closed_VVD
+closed_VVN
 the_AT0
 drawer_NN1
 again_AV0
@@ -11550,7 +11550,7 @@ was_VBD
 a_AT0
 sudden_AJ0
 miaow_NN1
-Blackie_NN1-NP0
+Blackie_NN1
 the_AT0
 hotel_NN1
 cat_NN1
@@ -11614,7 +11614,7 @@ soda_NN1
 water_NN1
 and_CJC
 Irn_NP0
-Bru_NP0-NN1
+Bru_NN1
 and_CJC
 also_AV0
 half_DT0
@@ -11959,7 +11959,7 @@ split-level_AJ0
 landing_NN1
 This_DT0
 was_VBD
-closed_VVD
+closed_VVN
 with_PRP
 its_DPS
 bar_NN1
@@ -11974,7 +11974,7 @@ lock_NN1
 but_CJC
 could_VM0
 n't_XX0
-shift_NN1-VVB
+shift_NN1
 it_PNP
 Damn_ITJ
 she_PNP
@@ -12252,7 +12252,7 @@ was_VBD
 n't_XX0
 you_PNP
 could_VM0
-walk_VVI
+walk_NN1
 through_PRP
 a_AT0
 hail_VVB
@@ -12707,7 +12707,7 @@ wife_NN1
 who_PNQ
 was_VBD
 sitting_VVG
-wrapped_VVN-VVD
+wrapped_VVN
 in_PRP
 an_AT0
 eiderdown_NN1
@@ -12731,7 +12731,7 @@ rain_NN1
 might_VM0
 just_AV0
 have_VHB
-slackened_VVN
+slackened_VVD
 Bryce_NP0
 said_VVD
 Maggie_NP0
@@ -12756,7 +12756,7 @@ she_PNP
 felt_VVD
 completely_AV0
 drained_VVN
-Tiredness_NP0-NN1
+Tiredness_NP0
 crept_VVD
 over_PRP
 her_DPS
@@ -12764,7 +12764,7 @@ making_VVG
 her_DPS
 eyelids_NN2
 droop_VVI
-Sleep_VVB-NN1
+Sleep_NN1
 She_PNP
 had_VHD
 to_TO0
@@ -12924,7 +12924,7 @@ of_PRF
 damp_AJ0
 and_CJC
 foulness_NN1
-Slime_NN1-VVB
+Slime_VVB
 and_CJC
 sludge_NN1
 covered_VVN
@@ -13256,7 +13256,7 @@ next_ORD
 came_VVD
 upon_PRP
 the_AT0
-mud-covered_AJ0-NN1
+mud-covered_AJ0
 carcass_NN1
 of_PRF
 a_AT0
@@ -13343,7 +13343,7 @@ one_CRD
 side_NN1
 remained_VVD
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 and_CJC
 other_AJ0
 side_NN1
@@ -13555,7 +13555,7 @@ only_AV0
 of_PRF
 mud_NN1
 and_CJC
-rotting_AJ0-VVG
+rotting_AJ0
 materials_NN2
 but_CJC
 also_AV0
@@ -13630,7 +13630,7 @@ barred_VVN
 her_DPS
 passage_NN1
 and_CJC
-mixed_AJ0
+mixed_VVN
 with_PRP
 these_DT0
 were_VBD
@@ -13792,7 +13792,7 @@ her_DPS
 mind_NN1
 bringing_VVG
 hot_AJ0
-scalding_AJ0-NN1
+scalding_AJ0
 tears_NN2
 to_TO0
 her_DPS
@@ -13911,7 +13911,7 @@ her_DPS
 hand_NN1
 as_CJS
 though_CJS
-wanting_VVG-AJ0
+wanting_VVG
 to_TO0
 be_VBI
 there_EX0
@@ -13935,7 +13935,7 @@ coated_VVN
 in_PRP
 mud_NN1
 She_PNP
-scraped_VVN
+scraped_VVD
 the_AT0
 mud_NN1
 away_AV0
@@ -13950,7 +13950,7 @@ was_VBD
 her_DPS
 dad_NN1
 's_POS
-favourite_AJ0-NN1
+favourite_AJ0
 piece_NN1
 that_CJT
 he_PNP
@@ -14065,7 +14065,7 @@ the_AT0
 Salvation_NN1
 Army_NN1
 the_AT0
-dear_ITJ
+dear_NN1
 old_AJ0
 Sally_NP0
 Ann_NP0
@@ -14189,7 +14189,7 @@ her_DPS
 legs_NN2
 had_VHD
 somehow_AV0
-stuck_AJ0
+stuck_VVN
 Can_VM0
 you_PNP
 give_VVI
@@ -14203,7 +14203,7 @@ he_PNP
 did_VDD
 I_PNP
 'll_VM0
-walk_VVI
+walk_NN1
 you_PNP
 to_TO0
 the_AT0
@@ -14282,7 +14282,7 @@ in_PRP
 God_NP0
 His_DPS
 features_NN2
-contorted_AJ0
+contorted_VVN
 then_AV0
 relaxed_AJ0
 God_NP0
@@ -14447,7 +14447,7 @@ man_NN1
 Don_NP0
 appeared_VVD
 to_TO0
-shrink_VVI
+shrink_NN1
 even_AV0
 further_AJC
 But_CJC
@@ -14851,7 +14851,7 @@ and_CJC
 his_DPS
 companion_NN1
 were_VBD
-mobbed_VVN-AJ0
+mobbed_AJ0
 Stay_VVB
 in_PRP
 the_AT0
@@ -14915,7 +14915,7 @@ That_DT0
 will_VM0
 also_AV0
 help_VVI
-eliminate-_NN1-AJ0
+eliminate-_AJ0
 I_PNP
 understand_VVI
 she_PNP
@@ -15257,7 +15257,7 @@ bizarre_AJ0
 those_DT0
 trees_NN2
 looked_VVD
-Sticking_VVG-AJ0
+Sticking_AJ0
 straight_AV0
 up_AVP
 out_AVP
@@ -15336,7 +15336,7 @@ mum_NN1
 appeared_VVD
 from_PRP
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 of_PRF
 the_AT0
 house_NN1
@@ -15708,7 +15708,7 @@ range_NN1
 earlier_AJC
 intending_VVG
 to_TO0
-cook_VVI
+cook_NN1
 later_AV0
 She_PNP
 had_VHD
@@ -15857,10 +15857,10 @@ a_AT0
 loud_AJ0
 crash_NN1
 a_AT0
-two-storey_AJ0-NN1
+two-storey_AJ0
 house_NN1
 suddenly_AV0
-caved_VVN-VVD
+caved_VVN
 in_PRP
 on_PRP
 itself_PNX
@@ -15917,7 +15917,7 @@ have_VHB
 to_TO0
 do_VDB
 something_PNI
-fast_AV0-AJ0
+fast_AJ0
 about_PRP
 that_CJT
 if_CJS
@@ -15930,7 +15930,7 @@ epidemic_NN1
 on_PRP
 their_DPS
 hands_NN2
-Oohhh_NP0-NN1
+Oohhh_NP0
 exclaimed_VVD
 Susan_NP0
 fist_NN1
@@ -15973,7 +15973,7 @@ they_PNP
 came_VVD
 across_PRP
 a_AT0
-parked_VVN
+parked_VVD
 Army_NN1
 vehicle_NN1
 around_PRP
@@ -15984,7 +15984,7 @@ of_PRF
 people_NN0
 were_VBD
 clustered_VVD
-listening_VVG-NN1
+listening_VVG
 to_TO0
 the_AT0
 vehicle_NN1
@@ -15999,7 +15999,7 @@ listeners_NN2
 which_DTQ
 included_VVD
 a_AT0
-lance-corporal_NN1-AJ0
+lance-corporal_NN1
 and_CJC
 sergeant_NN1
 the_AT0
@@ -16015,7 +16015,7 @@ a_AT0
 report_NN1
 on_PRP
 Heymouth_NP0
-Mash_VVB-NN1
+Mash_NN1
 flooding_NN1
 of_PRF
 the_AT0
@@ -16082,7 +16082,7 @@ a_AT0
 cheer_VVI
 from_PRP
 the_AT0
-lance-corporal_NN1-AJ0
+lance-corporal_NN1
 specialized_AJ0
 equipment_NN1
 being_VBG
@@ -16408,7 +16408,7 @@ far_AV0
 There_EX0
 's_POS
 a_AT0
-stand-pipe_NN1-AJ0
+stand-pipe_NN1
 that_CJT
 's_POS
 been_VBN
@@ -16463,12 +16463,12 @@ Susan_NP0
 Let's_VM0
 find_VVI
 this_DT0
-stand-pipe_NN1-AJ0
+stand-pipe_NN1
 Before_PRP
 they_PNP
 reached_VVD
 the_AT0
-stand-pipe_NN1-AJ0
+stand-pipe_NN1
 they_PNP
 came_VVD
 upon_PRP
@@ -16555,7 +16555,7 @@ and_CJC
 gear_NN1
 Cyril_NP0
 complained_VVD
-Cost_VVB-NN1
+Cost_NN1
 a_AT0
 mint_NN1
 to_TO0
@@ -16854,7 +16854,7 @@ ear_NN1
 They_PNP
 found_VVD
 the_AT0
-stand-pipe_NN1-AJ0
+stand-pipe_NN1
 and_CJC
 joined_VVD
 the_AT0
@@ -17005,7 +17005,7 @@ as_CJS
 long_AJ0
 as_CJS
 necessary_AJ0
-Till_CJS-PRP
+Till_CJS
 you_PNP
 get_VVI
 yourself_PNX
@@ -17156,7 +17156,7 @@ His_DPS
 wife_NN1
 's_POS
 face_NN1
-clouded_VVD-VVN
+clouded_VVN
 Do_VDB
 you_PNP
 know_VVI
@@ -17165,7 +17165,7 @@ McLeans_NP0
 in_PRP
 Fisherman_NN1
 's_POS
-Wynd_NP0-NN1
+Wynd_NP0
 McLean_NP0
 won_VVD
 the_AT0
@@ -17283,7 +17283,7 @@ Mrs_NP0
 Lennox_NP0
 placed_VVN
 some_DT0
-sliced_AJ0
+sliced_VVN
 corned_AJ0
 beef_NN1
 on_PRP
@@ -17292,7 +17292,7 @@ table_NN1
 along_AVP
 with_PRP
 some_DT0
-griddle_NN1-VVB
+griddle_VVB
 scones_NN2
 she_PNP
 'd_VM0
@@ -17300,7 +17300,7 @@ had_VHD
 in_PRP
 the_AT0
 larder_NN1
-wrapped_VVN-VVD
+wrapped_VVN
 in_PRP
 a_AT0
 cloth_NN1
@@ -17366,7 +17366,7 @@ Maggie_NP0
 held_VVN
 the_AT0
 cup_NN1
-clasped_VVN-VVD
+clasped_VVD
 in_PRP
 her_DPS
 hands_NN2
@@ -17399,7 +17399,7 @@ spreading_VVG
 throughout_PRP
 her_DPS
 body_NN1
-relaxing_VVG-AJ0
+relaxing_VVG
 her_DPS
 Maggie_NP0
 She_PNP
@@ -17417,7 +17417,7 @@ Would_VM0
 you_PNP
 like_PRP
 to_TO0
-lie_VVI
+lie_VVB
 down_AVP
 lass_NN1
 You_PNP
@@ -17590,18 +17590,18 @@ friend_NN1
 's_POS
 dirty_AJ0
 and_CJC
-matted_VVN
+matted_VVD
 hair_NN1
 Within_PRP
 seconds_NN2
 Maggie_NP0
 was_VBD
-sleeping_VVG
+sleeping_NN1
 soundly_AV0
 She_PNP
 heard_VVN
 the_AT0
-roaring_VVG
+roaring_AJ0
 approaching_VVG
 and_CJC
 knew_VVD
@@ -17643,7 +17643,7 @@ she_PNP
 suddenly_AV0
 found_VVD
 herself_PNX
-tucked_VVN-VVD
+tucked_VVD
 up_AVP
 under_PRP
 the_AT0
@@ -17676,7 +17676,7 @@ Pet_NN1
 Wee_VVB
 Charlie_NP0
 The_AT0
-roaring_VVG
+roaring_AJ0
 was_VBD
 stupendous_AJ0
 now_AV0
@@ -17739,7 +17739,7 @@ Wee_VVB
 Charlie_NP0
 started_VVD
 to_TO0
-cry_VVI
+cry_NN1
 enormous_AJ0
 tears_NN2
 running_VVG
@@ -17986,9 +17986,9 @@ to_TO0
 her_DPS
 shoulders_NN2
 in_PRP
-ooze_NN1-VVB
+ooze_VVB
 sinking_VVG
-fast_AV0-AJ0
+fast_AJ0
 Pet_NN1
 writhed_VVD
 which_DTQ
@@ -18050,7 +18050,7 @@ her_DPS
 voice_NN1
 at_PRP
 last_ORD
-Nooo_NN1-NP0
+Nooo_NN1
 She_PNP
 sat_VVD
 bolt_NN1
@@ -18259,7 +18259,7 @@ Sounds_NN2
 grand_AJ0
 And_CJC
 a_AT0
-bite_VVI
+bite_NN1
 You_PNP
 must_VM0
 want_VVB
@@ -18646,7 +18646,7 @@ She_PNP
 was_VBD
 at_PRP
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 of_PRF
 the_AT0
 house_NN1
@@ -18683,7 +18683,7 @@ had_VHD
 only_AV0
 been_VBN
 the_AT0
-rear_AJ0-NN1
+rear_NN1
 of_PRF
 the_AT0
 house_NN1
@@ -18741,7 +18741,7 @@ of_PRF
 her_DPS
 family_NN1
 are_VBB
-missing_VVG-AJ0
+missing_VVG
 You_PNP
 have_VHB
 my_DPS
@@ -18954,7 +18954,7 @@ There_EX0
 were_VBD
 lines_NN2
 of_PRF
-double-banked_AJ0-NN1
+double-banked_NN1
 trestle_NN1
 tables_NN2
 with_PRP
@@ -19021,7 +19021,7 @@ Army_NN1
 Medical_AJ0
 Corps_NN0
 Maggie_NP0
-braced_VVN-VVD
+braced_VVD
 herself_PNX
 as_CJS
 he_PNP
@@ -19099,7 +19099,7 @@ have_VHB
 The_AT0
 face_NN1
 was_VBD
-streaked_VVN-VVD
+streaked_VVN
 with_PRP
 mud_NN1
 and_CJC
@@ -19192,7 +19192,7 @@ They_PNP
 returned_VVD
 to_TO0
 the_AT0
-stand-pipe_NN1-AJ0
+stand-pipe_NN1
 where_AVQ
 they_PNP
 'd_VM0
@@ -19218,7 +19218,7 @@ found_VVD
 a_AT0
 tanker_NN1
 and_CJC
-stand-pipe_NN1-AJ0
+stand-pipe_NN1
 also_AV0
 a_AT0
 stall_NN1
@@ -19532,7 +19532,7 @@ here_AV0
 were_VBD
 other_AJ0
 police_NN2
-present_AJ0-NN1
+present_AJ0
 and_CJC
 after_PRP
 the_AT0
@@ -19596,7 +19596,7 @@ are_VBB
 worried_AJ0
 about_PRP
 the_AT0
-spread_NN1
+spread_VVN
 of_PRF
 disease_NN1
 plus_PRP
@@ -19810,7 +19810,7 @@ worry_VVI
 about_PRP
 that_CJT
 Susan_NP0
-assured_VVD
+assured_VVN
 her_DPS
 Maggie_NP0
 sat_VVD
@@ -20250,7 +20250,7 @@ I_PNP
 really_AV0
 ca_VM0
 n't_XX0
-Pity_NN1-VVB
+Pity_NN1
 she_PNP
 thought_VVD
 He_PNP
@@ -20362,18 +20362,18 @@ He_PNP
 saluted_VVD
 her_DPS
 again_AV0
-Till_CJS-PRP
+Till_CJS
 later_AV0
 Miss_NP0
 Lennox_NP0
-Till_CJS-PRP
+Till_CJS
 later_AV0
 He_PNP
 moved_VVD
 away_AV0
 and_CJC
 she_PNP
-shut_VVB
+shut_VVN
 the_AT0
 door_NN1
 She_PNP
@@ -20471,7 +20471,7 @@ arms_NN2
 Laura_NP0
 began_VVD
 to_TO0
-cry_VVI
+cry_NN1
 and_CJC
 despite_PRP
 herself_PNX
@@ -20556,7 +20556,7 @@ and_CJC
 Wee_VVB
 Charlie_NP0
 were_VBD
-missing_VVG-AJ0
+missing_VVG
 but_CJC
 that_CJT
 you_PNP
@@ -20750,7 +20750,7 @@ they_PNP
 would_VM0
 n't_XX0
 be_VBI
-missing_VVG-AJ0
+missing_VVG
 anymore_AV0
 That_DT0
 they_PNP
@@ -20771,10 +20771,10 @@ She_PNP
 broke_VVD
 off_AVP
 to_TO0
-bite_VVI
+bite_NN1
 her_DPS
 lip_NN1
-Drink_VVB-NN1
+Drink_VVB
 some_DT0
 of_PRF
 this_DT0
@@ -20812,7 +20812,7 @@ Margaret_NP0
 and_CJC
 Rose_NP0
 their_DPS
-two-year-old_AJ0-NN1
+two-year-old_NN1
 twins_NN2
 He_PNP
 offered_VVN
@@ -21033,7 +21033,7 @@ did_VDD
 n't_XX0
 give_VVI
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 extent_NN1
 of_PRF
 the_AT0
@@ -21071,7 +21071,7 @@ wall_NN1
 next_ORD
 to_TO0
 a_AT0
-wash_VVI
+wash_NN1
 basin_NN1
 the_AT0
 rest_NN1
@@ -21362,7 +21362,7 @@ had_VHD
 n't_XX0
 been_VBN
 identified_VVN
-Ready_AJ0-AV0
+Ready_AV0
 the_AT0
 man_NN1
 asked_VVD
@@ -21384,7 +21384,7 @@ blanket_NN1
 Laura_NP0
 gave_VVD
 a_AT0
-cry_VVI
+cry_NN1
 staggering_AJ0
 where_AVQ
 she_PNP
@@ -21426,7 +21426,7 @@ you_PNP
 'd_VM0
 like_PRP
 a_AT0
-drop_VVI
+drop_NN1
 the_AT0
 man_NN1
 proposed_AJ0
@@ -22066,7 +22066,7 @@ Caskie_NP0
 also_AV0
 survived_VVD
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 impact_NN1
 but_CJC
 drowned_VVN
@@ -22361,12 +22361,12 @@ was_VBD
 on_PRP
 board_NN1
 the_AT0
-single-decker_AJ0-NN1
+single-decker_NN1
 coach_NN1
 its_DPS
 door_NN1
-clicking_VVG-AJ0
-closed_VVD
+clicking_VVG
+closed_VVN
 Maggie_NP0
 waved_VVD
 till_CJS
@@ -22416,7 +22416,7 @@ ponderous_AJ0
 arc_NN1
 to_TO0
 go_VVI
-crashing_VVG-AJ0
+crashing_VVG
 into_PRP
 the_AT0
 front_NN1
@@ -22492,7 +22492,7 @@ father_NN1
 body_NN1
 was_VBD
 still_AV0
-missing_VVG-AJ0
+missing_VVG
 Another_DT0
 chunk_NN1
 of_PRF
@@ -22682,7 +22682,7 @@ of_PRF
 the_AT0
 survivors_NN2
 A_AT0
-ghoul_NN1-VVB
+ghoul_NN1
 She_PNP
 suddenly_AV0
 thought_VVD
@@ -22714,7 +22714,7 @@ I_PNP
 said_VVD
 An_AT0
 American_AJ0
-ghoul_NN1-VVB
+ghoul_NN1
 to_TO0
 boot_NN1
 she_PNP
@@ -22766,7 +22766,7 @@ n't_XX0
 look_VVI
 like_PRP
 a_AT0
-ghoul_NN1-VVB
+ghoul_NN1
 How_AVQ
 old_AJ0
 Mid-twenties_CRD
@@ -22861,7 +22861,7 @@ She_PNP
 gave_VVD
 a_AT0
 soft_AJ0
-laugh_VVI
+laugh_NN1
 What_DTQ
 a_AT0
 funny_AJ0
@@ -22991,7 +22991,7 @@ were_VBD
 some_DT0
 sort_NN1
 of_PRF
-ghoul_NN1-VVB
+ghoul_NN1
 come_VVI
 to_TO0
 come_VVI
@@ -23049,7 +23049,7 @@ got_VVN
 quite_AV0
 the_AT0
 wrong_AJ0
-initial_AJ0-NN1
+initial_AJ0
 impression_NN1
 Relief_NN1
 flooded_VVN
@@ -23076,8 +23076,8 @@ you_PNP
 He_PNP
 laughed_VVD
 A_AT0
-ghoul_NN1-VVB
-Jeesus_NN1-NP0
+ghoul_NN1
+Jeesus_NN1
 Now_AV0
 it_PNP
 's_POS
@@ -23365,13 +23365,13 @@ it_PNP
 simply_AV0
 bucketed_VVD
 down_AVP
-Bucketed_VVD-AJ0
+Bucketed_AJ0
 down_AVP
 he_PNP
 repeated_VVN
-smiling_VVG-AJ0
+smiling_VVG
 thinly_AV0
-English_AJ0-NN1
+English_AJ0
 expression_NN1
 eh_ITJ
 I_PNP
@@ -23417,7 +23417,7 @@ totally_AV0
 different_AJ0
 to_TO0
 our_DPS
-English_AJ0-NN1
+English_AJ0
 neighbours_NN2
 Their_DPS
 background_NN1
@@ -23453,14 +23453,14 @@ that_CJT
 when_CJS
 I_PNP
 said_VVD
-English_AJ0-NN1
+English_AJ0
 expression_NN1
 I_PNP
 meant_VVD
 expression_NN1
 in_PRP
 the_AT0
-English_AJ0-NN1
+English_AJ0
 language_NN1
 Which_DTQ
 is_VBZ
@@ -23491,7 +23491,7 @@ agreed_VVD
 and_CJC
 they_PNP
 laughed_VVD
-Laughing_VVG-AJ0
+Laughing_AJ0
 suits_NN2
 you_PNP
 he_PNP
@@ -23523,11 +23523,11 @@ good_AJ0
 for_PRP
 me_PNP
 to_TO0
-laugh_VVI
+laugh_NN1
 It_PNP
 makes_VVZ
 me_PNP
-feel_VVI
+feel_VVB
 better_AJC
 How_AVQ
 old_AJ0
@@ -23622,13 +23622,13 @@ All_DT0
 right_NN1
 Howard_NP0
 Or_CJC
-Howie_NP0-NN1
+Howie_NP0
 if_CJS
 you_PNP
 prefer_VVB
 No_ITJ
 Howard_NP0
-Howie_NP0-NN1
+Howie_NP0
 is_VBZ
 too_AV0
 juvenile_AJ0
@@ -23661,7 +23661,7 @@ and_CJC
 pulled_VVD
 out_AVP
 a_AT0
-note-pad_NN1-AJ0
+note-pad_AJ0
 and_CJC
 pencil_NN1
 I_PNP
@@ -23761,7 +23761,7 @@ that_CJT
 morning_NN1
 The_AT0
 water_NN1
-converged_VVN-VVD
+converged_VVN
 on_PRP
 Heymouth_NP0
 having_VHG
@@ -23805,7 +23805,7 @@ fallen_VVN
 fifteen_CRD
 hundred_CRD
 feet_NN2
-overall_AJ0-NN1
+overall_AJ0
 The_AT0
 wall_NN1
 of_PRF
@@ -23840,13 +23840,13 @@ she_PNP
 repeated_VVN
 recalling_VVG
 the_AT0
-roaring_VVG
+roaring_AJ0
 which_DTQ
 had_VHD
 made_VVN
 her_DPS
 ears_NN2
-ache_VVI
+ache_NN1
 and_CJC
 had_VHD
 grown_VVN
@@ -23879,7 +23879,7 @@ hear_VVI
 from_PRP
 those_DT0
 directly_AV0
-involved_AJ0
+involved_VVN
 That_DT0
 's_POS
 why_AVQ
@@ -24024,7 +24024,7 @@ help_VVI
 the_AT0
 stricken_AJ0
 townsfolk_NN2
-mixed_AJ0
+mixed_VVN
 with_PRP
 those_DT0
 who_PNQ
@@ -24035,7 +24035,7 @@ the_AT0
 disaster_NN1
 and_CJC
 were_VBD
-present_AJ0-NN1
+present_AJ0
 to_TO0
 mourn_VVI
 and_CJC
@@ -24266,7 +24266,7 @@ and_CJC
 pathetic_AJ0
 notes_NN2
 of_PRF
-Land_NP0-NN1
+Land_NN1
 of_PRF
 the_AT0
 Leal_AJ0
@@ -24281,7 +24281,7 @@ lone_AJ0
 piper_NN1
 of_PRF
 the_AT0
-Argyle_NP0-NN1
+Argyle_NN1
 and_CJC
 Sutherland_NP0
 Highlanders_NN2
@@ -24300,7 +24300,7 @@ the_AT0
 final_AJ0
 notes_NN2
 had_VHD
-faded_AJ0
+faded_VVN
 away_AV0
 People_NN0
 began_VVD
@@ -24520,7 +24520,7 @@ no_AT0
 time_NN1
 like_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 Laura_NP0
 replied_VVD
 So_AV0
@@ -24674,7 +24674,7 @@ put_VVI
 in_PRP
 an_AT0
 appearance_NN1
-Sleep_VVB-NN1
+Sleep_NN1
 well_AV0
 Laura_NP0
 smiled_VVD
@@ -24764,7 +24764,7 @@ given_VVN
 she_PNP
 'd_VM0
 been_VBN
-assured_VVD
+assured_VVN
 Let's_VM0
 have_VHB
 a_AT0
@@ -24826,9 +24826,9 @@ city_NN1
 she_PNP
 thought_VVD
 all_DT0
-hustle_VVI
+hustle_VVB
 and_CJC
-bustle_NN1-VVB
+bustle_NN1
 Quite_AV0
 the_AT0
 opposite_AJ0
@@ -24953,7 +24953,7 @@ wall_NN1
 like_PRP
 some_DT0
 ancient_AJ0
-Roman_AJ0-NN1
+Roman_AJ0
 grave_NN1
 Laura_NP0
 took_VVD
@@ -25171,7 +25171,7 @@ This_DT0
 was_VBD
 John_NP0
 's_POS
-shaving_VVG-AJ0
+shaving_VVG
 water_NN1
 They_PNP
 could_VM0
@@ -25295,7 +25295,7 @@ gave_VVD
 the_AT0
 porridge_NN1
 another_DT0
-stir_VVI
+stir_VVB
 It_PNP
 was_VBD
 ready_AJ0
@@ -25407,7 +25407,7 @@ He_PNP
 glanced_VVD
 at_PRP
 the_AT0
-wag-at-the-wall_AJ0-NN1
+wag-at-the-wall_AJ0
 clock_NN1
 We_PNP
 'd_VM0
@@ -25419,7 +25419,7 @@ move_VVI
 on_PRP
 I_PNP
 'll_VM0
-walk_VVI
+walk_NN1
 you_PNP
 to_TO0
 the_AT0
@@ -25446,7 +25446,7 @@ clutching_VVG
 their_DPS
 dinner_NN1
 piece_NN1
-wrapped_VVN-VVD
+wrapped_VVN
 in_PRP
 waxed_AJ0
 paper_NN1
@@ -25488,7 +25488,7 @@ a_AT0
 marvellous_AJ0
 view_NN1
 over_PRP
-Dennistoun_NP0-NN1
+Dennistoun_NP0
 and_CJC
 beyond_PRP
 There_EX0
@@ -25658,7 +25658,7 @@ particularly_AV0
 at_PRP
 night_NN1
 the_AT0
-fug_NN1-VVB
+fug_NN1
 could_VM0
 be_VBI
 so_AV0
@@ -25914,7 +25914,7 @@ department_NN1
 He_PNP
 walked_VVD
 so_AV0
-fast_AV0-AJ0
+fast_AJ0
 she_PNP
 almost_AV0
 had_VHD
@@ -25937,7 +25937,7 @@ the_AT0
 factory_NN1
 floor_NN1
 It_PNP
-spread_NN1
+spread_VVN
 before_PRP
 Maggie_NP0
 and_CJC
@@ -25967,7 +25967,7 @@ Kerly_NP0
 down_AVP
 a_AT0
 metal_NN1
-spiral_AJ0-NN1
+spiral_NN1
 staircase_NN1
 There_EX0
 must_VM0
@@ -26101,7 +26101,7 @@ again_AV0
 walking_VVG
 just_AV0
 as_CJS
-fast_AV0-AJ0
+fast_AJ0
 as_CJS
 before_PRP
 The_AT0
@@ -26169,7 +26169,7 @@ there_EX0
 was_VBD
 a_AT0
 hiss_NN1
-verifying_VVG-AJ0
+verifying_AJ0
 that_CJT
 the_AT0
 cylinder_NN1
@@ -26682,7 +26682,7 @@ McAvoy_NP0
 got_VVN
 me_PNP
 again_AV0
-Talk_VVB-NN1
+Talk_NN1
 about_PRP
 wandering_VVG
 hands_NN2
@@ -27038,7 +27038,7 @@ her_DPS
 head_NN1
 It_PNP
 's_POS
-French_AJ0-NN1
+French_AJ0
 for_PRP
 caterpillar_NN1
 So_AV0
@@ -27187,7 +27187,7 @@ wrong_AJ0
 Good_AJ0
 said_VVD
 Natasha_NP0
-beaming_VVG-AJ0
+beaming_VVG
 approval_NN1
 So_AV0
 what_DTQ
@@ -27445,7 +27445,7 @@ at_PRP
 her_DPS
 now_AV0
 Or_CJC
-leering_VVG
+leering_AJ0
 at_PRP
 her_DPS
 to_TO0
@@ -27501,7 +27501,7 @@ That_DT0
 earned_VVN
 him_PNP
 a_AT0
-laugh_VVI
+laugh_NN1
 Cathy_NP0
 Henderson_NP0
 better_AJC
@@ -27519,17 +27519,17 @@ Cathy_NP0
 Henderson_NP0
 Only_AV0
 his_DPS
-fian_AJ0-NN1
+fian_AJ0
 c\xc3\xa9ee_NN1
 Again_AV0
 Maggie_NP0
 had_VHD
 to_TO0
-laugh_VVI
+laugh_NN1
 at_PRP
 Natasha_NP0
 's_POS
-exaggerated_AJ0
+exaggerated_VVN
 pronunciation_NN1
 Some_DT0
 while_CJS
@@ -27540,7 +27540,7 @@ at_PRP
 a_AT0
 large_AJ0
 setting_VVG
-loom_NN1-VVB
+loom_NN1
 manned_VVN
 by_PRP
 five_CRD
@@ -27562,7 +27562,7 @@ far_AV0
 end_NN1
 of_PRF
 the_AT0
-loom_NN1-VVB
+loom_NN1
 glanced_VVD
 at_PRP
 Maggie_NP0
@@ -27627,7 +27627,7 @@ firm_NN1
 was_VBD
 closer_AV0
 to_TO0
-Dennistoun_NP0-NN1
+Dennistoun_NP0
 than_CJS
 Templeton_NP0
 s_ZZ0
@@ -27699,7 +27699,7 @@ she_PNP
 stated_VVD
 It_PNP
 's_POS
-French_AJ0-NN1
+French_AJ0
 for_PRP
 caterpillar_NN1
 Never_AV0
@@ -27714,7 +27714,7 @@ at_PRP
 her_DPS
 sister_NN1
 positively_AV0
-glowing_AJ0-VVG
+glowing_AJ0
 with_PRP
 excitement_NN1
 What_DTQ
@@ -27725,7 +27725,7 @@ like_PRP
 Laura_NP0
 asked_VVD
 eyes_NN2
-twinkling_VVG-AJ0
+twinkling_VVG
 Ca_VM0
 n't_XX0
 say_VVI
@@ -27757,7 +27757,7 @@ twisted_VVD
 into_PRP
 a_AT0
 peculiar_AJ0
-lop-sided_AJ0-NN1
+lop-sided_AJ0
 smile_NN1
 Come_VVB
 on_PRP
@@ -27809,7 +27809,7 @@ you_PNP
 say_VVI
 John_NP0
 The_AT0
-lop-sided_AJ0-NN1
+lop-sided_AJ0
 smile_NN1
 did_VDD
 n't_XX0
@@ -28082,7 +28082,7 @@ stretched_VVD
 I_PNP
 think_VVB
 a_AT0
-walk_VVI
+walk_NN1
 down_AVP
 to_TO0
 the_AT0
@@ -28191,7 +28191,7 @@ she_PNP
 'd_VM0
 like_PRP
 a_AT0
-wee_AJ0-NN1
+wee_AJ0
 turn_NN1
 out_AVP
 and_CJC
@@ -28368,7 +28368,7 @@ it_PNP
 cold_AJ0
 enough_AV0
 to_TO0
-freeze_VVI
+freeze_NN1
 the_AT0
 proverbials_NN2
 off_AVP
@@ -28417,7 +28417,7 @@ fat_AJ0
 folk_NN0
 do_VDB
 n't_XX0
-feel_VVI
+feel_VVB
 the_AT0
 cold_AJ0
 just_AV0
@@ -28470,7 +28470,7 @@ asked_VVD
 Oh_ITJ
 a_AT0
 good_AJ0
-laugh_VVI
+laugh_NN1
 if_CJS
 nothing_PNI
 else_AV0
@@ -28594,7 +28594,7 @@ fat_AJ0
 girl_NN1
 into_PRP
 a_AT0
-raving_VVG-AJ0
+raving_VVG
 beauty_NN1
 They_PNP
 arrived_VVD
@@ -28665,12 +28665,12 @@ are_VBB
 you_PNP
 having_VHG
 My_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 gin_NN1
 and_CJC
 orange_AJ0
 Very_AV0
-pooosh_NN1-VVB
+pooosh_NN1
 She_PNP
 pronounced_AJ0
 the_AT0
@@ -28717,9 +28717,9 @@ in_PRP
 her_DPS
 seventies_CRD
 held_VVN
-sway_VVI
+sway_NN1
 as_CJS
-chief_AJ0-NN1
+chief_NN1
 barmaid_NN1
 We_PNP
 're_VBB
@@ -28753,7 +28753,7 @@ tell_VVI
 them_PNP
 even_AV0
 in_PRP
-all-female_AJ0-NN1
+all-female_AJ0
 company_NN1
 That_DT0
 sort_NN1
@@ -28795,7 +28795,7 @@ about_PRP
 the_AT0
 three-legged_AJ0
 sailor_NN1
-piped_VVN
+piped_VVD
 Bunty_NP0
 Abercrombie_NP0
 Three_CRD
@@ -28842,7 +28842,7 @@ caused_VVN
 Isa_NP0
 Peebles_NP0
 to_TO0
-laugh_VVI
+laugh_NN1
 so_AV0
 hard_AJ0
 she_PNP
@@ -29006,7 +29006,7 @@ noticed_VVD
 at_PRP
 a_AT0
 setting_VVG
-loom_NN1-VVB
+loom_NN1
 on_PRP
 her_DPS
 first_ORD
@@ -29162,7 +29162,7 @@ and_CJC
 changed_VVN
 into_PRP
 their_DPS
-dancing_VVG
+dancing_NN1
 shoes_NN2
 Maggie_NP0
 Natasha_NP0
@@ -29365,7 +29365,7 @@ Sandy_NP0
 ran_VVD
 out_AVP
 of_PRF
-conservation_AJ0-NN1
+conservation_NN1
 At_PRP
 the_AT0
 end_NN1
@@ -29612,13 +29612,13 @@ glass_NN1
 that_CJT
 had_VHD
 original_AJ0
-fly_VVI
+fly_NN1
 contained_VVD
 punch_NN1
 Maggie_NP0
 studied_VVN
 the_AT0
-amber_NN1-AJ0
+amber_AJ0
 liquid_NN1
 in_PRP
 the_AT0
@@ -29869,7 +29869,7 @@ you_PNP
 operate_VVI
 a_AT0
 setting_VVG
-loom_NN1-VVB
+loom_NN1
 But_CJC
 not_XX0
 one_CRD
@@ -29954,7 +29954,7 @@ Nevil_NP0
 gave_VVD
 a_AT0
 soft_AJ0
-laugh_VVI
+laugh_NN1
 You_PNP
 could_VM0
 say_VVI
@@ -30024,7 +30024,7 @@ a_AT0
 waltz_NN1
 She_PNP
 could_VM0
-feel_VVI
+feel_VVB
 and_CJC
 sense_NN1
 the_AT0
@@ -30311,7 +30311,7 @@ think_VVB
 you_PNP
 pair_NN0
 were_VBD
-dancing_VVG
+dancing_NN1
 for_PRP
 the_AT0
 duration_NN1
@@ -30325,7 +30325,7 @@ with_PRP
 Maggie_NP0
 I_PNP
 'm_VBB
-dying_VVG-AJ0
+dying_AJ0
 for_PRP
 some_DT0
 punch_NN1
@@ -30516,7 +30516,7 @@ who_PNQ
 operated_VVN
 a_AT0
 weft_NN1
-loom_NN1-VVB
+loom_NN1
 she_PNP
 serviced_VVN
 Bob_NP0
@@ -30563,7 +30563,7 @@ of_PRF
 the_AT0
 evening_NN1
 together_AV0
-Whheeccchhhh_NP0-NN1
+Whheeccchhhh_NP0
 shouted_VVD
 a_AT0
 female_AJ0
@@ -30589,7 +30589,7 @@ good_AJ0
 time_NN1
 Nevil_NP0
 laughed_VVD
-Whheeecchh_NP0-NN1
+Whheeecchh_NP0
 another_DT0
 female_AJ0
 voice_NN1
@@ -30669,7 +30669,7 @@ you_PNP
 live_VVI
 he_PNP
 asked_VVD
-Dennistoun_NP0-NN1
+Dennistoun_NP0
 She_PNP
 named_VVN
 the_AT0
@@ -30694,7 +30694,7 @@ you_PNP
 like_PRP
 me_PNP
 to_TO0
-walk_VVI
+walk_NN1
 you_PNP
 home_NN1
 She_PNP
@@ -30709,7 +30709,7 @@ never_AV0
 crossed_VVD
 her_DPS
 mind_NN1
-Walk_NN1-VVB
+Walk_VVB
 me_PNP
 home_NN1
 You_PNP
@@ -30862,7 +30862,7 @@ on_PRP
 a_AT0
 bicycle_NN1
 and_CJC
-freewheel_VVB-NN1
+freewheel_NN1
 uphill_AV0
 It_PNP
 's_POS
@@ -30934,7 +30934,7 @@ much_DT0
 the_AT0
 same_DT0
 herself_PNX
-Silence_NN1-VVB
+Silence_NN1
 fell_VVD
 between_PRP
 them_PNP
@@ -30966,7 +30966,7 @@ and_CJC
 that_CJT
 you_PNP
 were_VBD
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 disaster_NN1
@@ -31029,7 +31029,7 @@ father_NN1
 mother_NN1
 sister_NN1
 and_CJC
-wee_AJ0-NN1
+wee_AJ0
 brother_NN1
 you_PNP
 know_VVI
@@ -31192,7 +31192,7 @@ kind_NN1
 of_PRF
 you_PNP
 to_TO0
-walk_VVI
+walk_NN1
 me_PNP
 home_NN1
 she_PNP
@@ -31346,7 +31346,7 @@ but_CJC
 this_DT0
 smile_NN1
 was_VBD
-strained_AJ0
+strained_VVN
 I_PNP
 suppose_VVB
 so_AV0
@@ -31440,7 +31440,7 @@ swore_VVD
 again_AV0
 Then_AV0
 she_PNP
-stamped_AJ0
+stamped_VVD
 up_AVP
 the_AT0
 stairs_NN2
@@ -31534,7 +31534,7 @@ told_VVD
 her_DPS
 he_PNP
 was_VBD
-half-cut_AJ0-NN1
+half-cut_AJ0
 I_PNP
 did_VDD
 thank_VVB
@@ -31635,7 +31635,7 @@ realized_VVD
 He_PNP
 was_VBD
 n't_XX0
-half-cut_AJ0-NN1
+half-cut_AJ0
 but_CJC
 completely_AV0
 so_AV0
@@ -31684,7 +31684,7 @@ anyone_PNI
 nice_AJ0
 Laura_NP0
 queried_VVD
-dying_VVG-AJ0
+dying_AJ0
 to_TO0
 know_VVI
 John_NP0
@@ -31756,7 +31756,7 @@ our_DPS
 weavers_NN2
 Did_VDD
 he_PNP
-walk_VVI
+walk_NN1
 you_PNP
 home_NN1
 Maggie_NP0
@@ -31800,7 +31800,7 @@ No_ITJ
 doubt_NN1
 it_PNP
 was_VBD
-Slap_VVB-NN1
+Slap_NN1
 and_CJC
 tickle_VVI
 Or_CJC
@@ -31826,7 +31826,7 @@ Oh_ITJ
 do_VDB
 n't_XX0
 you_PNP
-act_VVI
+act_NN1
 so_AV0
 shocked_AJ0
 You_PNP
@@ -31989,7 +31989,7 @@ go_VVI
 on_PRP
 just_AV0
 a_AT0
-wee_AJ0-NN1
+wee_AJ0
 one_CRD
 No_ITJ
 thank_VVB
@@ -32151,7 +32151,7 @@ her_DPS
 it_PNP
 made_VVN
 her_DPS
-feel_VVI
+feel_VVB
 unclean_AJ0
 Laura_NP0
 placed_VVN
@@ -32184,7 +32184,7 @@ about_PRP
 the_AT0
 kissing_VVG
 and_CJC
-canoodling_VVG-NN1
+canoodling_VVG
 He_PNP
 smiled_VVD
 lecherously_AV0
@@ -32260,7 +32260,7 @@ her_DPS
 eyes_NN2
 She_PNP
 felt_VVD
-humiliated_AJ0-VVN
+humiliated_VVN
 John_NP0
 Aw_ITJ
 I_PNP
@@ -32430,7 +32430,7 @@ I_PNP
 will_VM0
 Maggie_NP0
 said_VVD
-smiling_VVG-AJ0
+smiling_VVG
 again_AV0
 Laura_NP0
 wiped_VVD
@@ -32442,7 +32442,7 @@ Goodnight_ITJ
 then_AV0
 Goodnight_ITJ
 Maggie_NP0
-closed_VVD
+closed_VVN
 the_AT0
 door_NN1
 behind_PRP
@@ -32472,7 +32472,7 @@ gone_VVN
 straight_AV0
 down_AVP
 the_AT0
-drain_VVI
+drain_NN1
 She_PNP
 'd_VM0
 thought_VVD
@@ -32738,7 +32738,7 @@ lap_NN1
 I_PNP
 've_VHB
 been_VBN
-wanting_VVG-AJ0
+wanting_VVG
 to_TO0
 speak_VVI
 to_TO0
@@ -32781,7 +32781,7 @@ stared_VVD
 down_AVP
 at_PRP
 her_DPS
-clasped_VVN-VVD
+clasped_VVD
 hands_NN2
 Things_NN2
 have_VHB
@@ -32848,7 +32848,7 @@ me_PNP
 Thin_AJ0
 as_CJS
 a_AT0
-rake_NN1-VVB
+rake_NN1
 You_PNP
 appear_VVI
 to_TO0
@@ -32874,7 +32874,7 @@ twins_NN2
 are_VBB
 a_AT0
 constant_AJ0
-drain_VVI
+drain_NN1
 on_PRP
 me_PNP
 Morning_NN1
@@ -32893,7 +32893,7 @@ She_PNP
 broke_VVD
 off_AVP
 to_TO0
-bite_VVI
+bite_NN1
 her_DPS
 lip_NN1
 What_DTQ
@@ -32918,7 +32918,7 @@ I_PNP
 do_VDB
 n't_XX0
 always_AV0
-feel_VVI
+feel_VVB
 up_AVP
 to_TO0
 the_AT0
@@ -33206,7 +33206,7 @@ that_CJT
 's_POS
 an_AT0
 order_NN1
-Laughing_VVG-AJ0
+Laughing_AJ0
 Laura_NP0
 did_VDD
 as_CJS
@@ -33367,13 +33367,13 @@ Some_DT0
 sort_NN1
 of_PRF
 mayonnaise_NN1
-spread_NN1
+spread_VVN
 that_CJT
 tasted_VVD
 like_PRP
 chopped_VVN
 up_AVP
-cardboard_NN1-AJ0
+cardboard_AJ0
 with_PRP
 bits_NN2
 in_PRP
@@ -33652,7 +33652,7 @@ that_CJT
 part_NN1
 of_PRF
 it_PNP
-Par_NP0-NN1
+Par_NP0
 of_PRF
 what_DTQ
 she_PNP
@@ -33968,7 +33968,7 @@ was_VBD
 referring_VVG
 to_TO0
 The_AT0
-Glass_NP0-NN1
+Glass_NN1
 key_AJ0
 starring_VVG
 Edward_NP0
@@ -34021,7 +34021,7 @@ to_TO0
 her_DPS
 eyes_NN2
 positively_AV0
-glowing_AJ0-VVG
+glowing_AJ0
 The_AT0
 bit_NN1
 about_PRP
@@ -34243,7 +34243,7 @@ himself_PNX
 she_PNP
 had_VHD
 to_TO0
-laugh_VVI
+laugh_NN1
 Do_VDB
 n't_XX0
 worry_VVI
@@ -34476,7 +34476,7 @@ overflowing_VVG
 and_CJC
 she_PNP
 was_VBD
-beaming_VVG-AJ0
+beaming_VVG
 from_PRP
 ear_NN1
 to_TO0
@@ -34618,7 +34618,7 @@ He_PNP
 smiled_VVD
 at_PRP
 that_CJT
-Arm-in-arm_NN1-AJ0
+Arm-in-arm_NN1
 they_PNP
 continued_VVD
 on_PRP
@@ -34657,12 +34657,12 @@ Nevil_NP0
 who_PNQ
 was_VBD
 sitting_VVG
-entranced_VVN
+entranced_VVD
 He_PNP
 might_VM0
 have_VHB
 been_VBN
-listening_VVG-NN1
+listening_VVG
 to_TO0
 Moses_NP0
 when_CJS
@@ -34750,7 +34750,7 @@ so_AV0
 seriously_AV0
 she_PNP
 thought_VVD
-smiling_VVG-AJ0
+smiling_VVG
 to_TO0
 herself_PNX
 But_CJC
@@ -35049,7 +35049,7 @@ lot_NN1
 eh_ITJ
 It_PNP
 'll_VM0
-sicken_AJ0-NN1
+sicken_NN1
 him_PNP
 right_NN1
 enough_AV0
@@ -35192,7 +35192,7 @@ the_AT0
 old_AJ0
 fella_NN1
 are_VBB
-dying_VVG-AJ0
+dying_AJ0
 to_TO0
 meet_VVI
 you_PNP
@@ -35249,7 +35249,7 @@ agreed_VVD
 She_PNP
 watched_VVD
 Nevil_NP0
-walk_VVI
+walk_NN1
 away_AV0
 thinking_VVG
 how_AVQ
@@ -35355,7 +35355,7 @@ on_PRP
 the_AT0
 pillow_NN1
 she_PNP
-closed_VVD
+closed_VVN
 her_DPS
 eyes_NN2
 and_CJC
@@ -35469,7 +35469,7 @@ curled_VVD
 up_AVP
 again_AV0
 and_CJC
-closed_VVD
+closed_VVN
 her_DPS
 eyes_NN2
 The_AT0
@@ -35491,7 +35491,7 @@ up_AVP
 The_AT0
 atmosphere_NN1
 was_VBD
-strained_AJ0
+strained_VVN
 during_PRP
 breakfast_NN1
 But_CJC
@@ -35583,7 +35583,7 @@ The_AT0
 smell_NN1
 of_PRF
 wax_NN1
-polish_VVI
+polish_NN1
 hit_VVD
 her_DPS
 as_CJS
@@ -35632,7 +35632,7 @@ as_CJS
 she_PNP
 Maggie_NP0
 realized_VVD
-Ma_NP0-NN1
+Ma_NP0
 Da_UNC
 this_DT0
 is_VBZ
@@ -35719,7 +35719,7 @@ own_DT0
 was_VBD
 hard_AJ0
 and_CJC
-calloused_VVN-AJ0
+calloused_AJ0
 the_AT0
 hand_NN1
 of_PRF
@@ -35886,7 +35886,7 @@ throat_NN1
 I_PNP
 thought_VVD
 a_AT0
-wee_AJ0-NN1
+wee_AJ0
 something_PNI
 might_VM0
 be_VBI
@@ -36218,7 +36218,7 @@ It_PNP
 was_VBD
 a_AT0
 great_AJ0
-favourite_AJ0-NN1
+favourite_AJ0
 of_PRF
 ours_PNP
 too_AV0
@@ -36226,13 +36226,13 @@ particularly_AV0
 mine_PNP
 And_CJC
 mine_PNP
-piped_VVN
+piped_VVD
 up_AVP
 Jimmy_NP0
 Everything_PNI
 's_POS
 a_AT0
-favourite_AJ0-NN1
+favourite_AJ0
 of_PRF
 yours_PNP
 gannet_NN1
@@ -36287,7 +36287,7 @@ go_VVI
 at_PRP
 one_CRD
 another_DT0
-Silence_NN1-VVB
+Silence_NN1
 settled_VVN
 on_PRP
 the_AT0
@@ -36791,7 +36791,7 @@ going_VVG
 to_TO0
 let_VVB
 anyone_PNI
-walk_VVI
+walk_NN1
 over_PRP
 me_PNP
 Me_PNP
@@ -36803,7 +36803,7 @@ Sanderson_NP0
 shook_VVD
 his_DPS
 head_NN1
-Rearmament_NN1-NP0
+Rearmament_NN1
 is_VBZ
 a_AT0
 mistake_NN1
@@ -36853,7 +36853,7 @@ The_AT0
 man_NN1
 was_VBD
 a_AT0
-lunatic_AJ0-NN1
+lunatic_AJ0
 Nevil_NP0
 said_VVD
 And_CJC
@@ -36864,13 +36864,13 @@ this_DT0
 Herr_NP0
 Hitler_NP0
 Folk_NN0
-laugh_VVI
+laugh_NN1
 at_PRP
 him_PNP
 and_CJC
 his_DPS
 funny_AJ0
-wee_AJ0-NN1
+wee_AJ0
 moustache_NN1
 Mrs_NP0
 Sanderson_NP0
@@ -36897,7 +36897,7 @@ of_PRF
 me_PNP
 Aye_ITJ
 another_DT0
-lunatic_AJ0-NN1
+lunatic_AJ0
 Jimmy_NP0
 agreed_VVD
 God_NP0
@@ -36951,7 +36951,7 @@ Maggie_NP0
 and_CJC
 Nevil_NP0
 walked_VVD
-hand-in-hand_AJ0-AV0
+hand-in-hand_AV0
 through_PRP
 a_AT0
 pine_NN1
@@ -36967,7 +36967,7 @@ were_VBD
 out_AVP
 for_PRP
 a_AT0
-stroll_VVI
+stroll_NN1
 in_PRP
 the_AT0
 park_NN1
@@ -36992,7 +36992,7 @@ as_CJS
 gorgeous_AJ0
 as_CJS
 you_PNP
-Flatterer_NP0-NN1
+Flatterer_NP0
 I_PNP
 'm_VBB
 told_VVD
@@ -37023,7 +37023,7 @@ herself_PNX
 With_PRP
 a_AT0
 startled_AJ0
-squawk_VVI
+squawk_NN1
 a_AT0
 rook_NN1
 flew_VVD
@@ -37111,7 +37111,7 @@ know_VVI
 her_DPS
 face_NN1
 was_VBD
-glowing_AJ0-VVG
+glowing_AJ0
 with_PRP
 happiness_NN1
 They_PNP
@@ -37197,7 +37197,7 @@ his_DPS
 chest_NN1
 He_PNP
 could_VM0
-feel_VVI
+feel_VVB
 her_DPS
 thudding_VVG
 heart_NN1
@@ -37266,7 +37266,7 @@ love_NN1
 he_PNP
 confirmed_VVN
 I_PNP
-feel_VVI
+feel_VVB
 the_AT0
 same_DT0
 about_PRP
@@ -37294,8 +37294,8 @@ Sunday_NP0
 afternoon_NN1
 walker_NN1
 approaching_VVG
-Laughing_VVG-AJ0
-hand-in-hand_AJ0-AV0
+Laughing_AJ0
+hand-in-hand_AV0
 they_PNP
 continued_VVD
 on_PRP
@@ -37379,7 +37379,7 @@ caught_VVN
 her_DPS
 breath_NN1
 then_AV0
-closed_VVD
+closed_VVN
 her_DPS
 eyes_NN2
 as_CJS
@@ -37395,7 +37395,7 @@ her_DPS
 and_CJC
 she_PNP
 could_VM0
-feel_VVI
+feel_VVB
 him_PNP
 hard_AJ0
 against_PRP
@@ -37482,7 +37482,7 @@ suggesting_VVG
 we_PNP
 go_VVI
 and_CJC
-lie_VVI
+lie_VVB
 on_PRP
 that_CJT
 He_PNP
@@ -37504,7 +37504,7 @@ same_DT0
 The_AT0
 twins_NN2
 were_VBD
-fast_AV0-AJ0
+fast_AJ0
 asleep_AJ0
 and_CJC
 it_PNP
@@ -37530,7 +37530,7 @@ prompted_VVD
 I_PNP
 'm_VBB
 a_AT0
-virgin_NN1-AJ0
+virgin_AJ0
 Nevil_NP0
 I_PNP
 want_VVB
@@ -37586,7 +37586,7 @@ the_AT0
 necessary_AJ0
 with_PRP
 me_PNP
-Prepared_AJ0-VVN
+Prepared_AJ0
 were_VBD
 you_PNP
 she_PNP
@@ -37662,7 +37662,7 @@ stood_VVD
 there_EX0
 all_DT0
 day_NN1
-listening_VVG-NN1
+listening_VVG
 to_TO0
 him_PNP
 repeat_VVI
@@ -37684,7 +37684,7 @@ coal_NN1
 on_PRP
 the_AT0
 fire_NN1
-Standing_VVG-NN1
+Standing_NN1
 up_AVP
 she_PNP
 began_VVD
@@ -37756,7 +37756,7 @@ and_CJC
 they_PNP
 were_VBD
 good_AJ0
-Egyptian_AJ0-NN1
+Egyptian_AJ0
 cotton_NN1
 sheets_NN2
 a_AT0
@@ -37877,7 +37877,7 @@ Maggie_NP0
 She_PNP
 did_VDD
 n't_XX0
-feel_VVI
+feel_VVB
 any_DT0
 different_AJ0
 She_PNP
@@ -38310,7 +38310,7 @@ He_PNP
 may_VM0
 have_VHB
 been_VBN
-smiling_VVG-AJ0
+smiling_VVG
 but_CJC
 his_DPS
 tone_NN1

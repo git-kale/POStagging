@@ -116,7 +116,7 @@ children_NN2
 in_PRP
 mind_NN1
 We_PNP
-feel_VVI
+feel_VVB
 privileged_AJ0
 to_TO0
 have_VHB
@@ -168,7 +168,7 @@ must_VM0
 be_VBI
 able_AJ0
 to_TO0
-walk_VVI
+walk_NN1
 to_TO0
 be_VBI
 continent_NN1
@@ -398,7 +398,7 @@ for_PRP
 the_AT0
 noise_NN1
 cheerful_AJ0
-bustle_NN1-VVB
+bustle_NN1
 and_CJC
 attractive_AJ0
 classrooms_NN2
@@ -504,7 +504,7 @@ areas_NN2
 are_VBB
 connected_VVN
 by_PRP
-folding_VVG
+folding_AJ0
 doors_NN2
 and_CJC
 all_DT0
@@ -538,7 +538,7 @@ the_AT0
 plinths_NN2
 as_CJS
 beds_NN2
-Transfer_VVB-NN1
+Transfer_NN1
 procedure_NN1
 When_CJS
 a_AT0
@@ -731,7 +731,7 @@ of_PRF
 age_NN1
 Also_AV0
 they_PNP
-feel_VVI
+feel_VVB
 that_CJT
 human_AJ0
 beings_NN2
@@ -776,7 +776,7 @@ a_AT0
 handicap_NN1
 Motor_NN1
 and_CJC
-intellectual_AJ0-NN1
+intellectual_AJ0
 development_NN1
 are_VBB
 inseparable_AJ0
@@ -928,7 +928,7 @@ of_PRF
 the_AT0
 personality_NN1
 is_VBZ
-stressed_VVD
+stressed_VVN
 plus_PRP
 inter-personal_AJ0
 and_CJC
@@ -942,7 +942,7 @@ teach_VVI
 skills_NN2
 needed_VVN
 for_PRP
-dressing_VVG
+dressing_NN1
 feeding_VVG
 hygiene_NN1
 speech_NN1
@@ -1032,7 +1032,7 @@ and_CJC
 health_NN1
 At_PRP
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 sessions_NN2
 a_AT0
 registry_NN1
@@ -1386,7 +1386,7 @@ put_VVI
 them_PNP
 to_TO0
 bed_NN1
-Planning_NN1-VVG
+Planning_NN1
 comes_VVZ
 on_PRP
 top_NN1
@@ -1844,7 +1844,7 @@ still_AV0
 with_PRP
 parents_NN2
 accompanying_VVG
-Contact_VVB-NN1
+Contact_VVB
 with_PRP
 conductors_NN2
 and_CJC
@@ -1876,7 +1876,7 @@ children_NN2
 who_PNQ
 have_VHB
 been_VBN
-integrated_AJ0
+integrated_VVN
 into_PRP
 mainstream_AJ0
 kindergartens_NN2
@@ -1940,7 +1940,7 @@ Children_NN2
 who_PNQ
 have_VHB
 been_VBN
-integrated_AJ0
+integrated_VVN
 into_PRP
 mainstream_AJ0
 schools_NN2
@@ -1990,7 +1990,7 @@ do_VDB
 at_PRP
 home_NN1
 5_CRD
-Adult_NN1-AJ0
+Adult_NN1
 out-patients_NN2
 Multiple_AJ0
 Sclerosis_NN1
@@ -2282,7 +2282,7 @@ a_AT0
 considerable_AJ0
 number_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 Irish_AJ0
 and_CJC
 Israeli_AJ0
@@ -2293,7 +2293,7 @@ shown_VVN
 a_AT0
 couple_NN1
 of_PRF
-English_AJ0-NN1
+English_AJ0
 children_NN2
 in_PRP
 the_AT0
@@ -2619,7 +2619,7 @@ complicated_AJ0
 and_CJC
 had_VHD
 obviously_AV0
-involved_AJ0
+involved_VVN
 an_AT0
 enormous_AJ0
 amount_NN1
@@ -2753,7 +2753,7 @@ to_TO0
 answer_NN1
 questions_NN2
 and_CJC
-walk_VVI
+walk_NN1
 to_TO0
 the_AT0
 front_NN1
@@ -2797,7 +2797,7 @@ not_XX0
 seen_VVN
 as_CJS
 a_AT0
-substitute_NN1-AJ0
+substitute_NN1
 for_PRP
 writing_NN1
 Computers_NN2
@@ -3050,7 +3050,7 @@ and_CJC
 discussion_NN1
 we_PNP
 still_AV0
-feel_VVI
+feel_VVB
 that_CJT
 many_DT0
 aspects_NN2
@@ -3114,7 +3114,7 @@ programmes_NN2
 As_CJS
 teachers_NN2
 we_PNP
-feel_VVI
+feel_VVB
 capable_AJ0
 of_PRF
 planning_NN1
@@ -3210,7 +3210,7 @@ group_NN1
 needed_VVN
 a_AT0
 full_AJ0
-brace_NN1-VVB
+brace_NN1
 in_PRP
 order_NN1
 to_TO0
@@ -3231,7 +3231,7 @@ down_AVP
 from_PRP
 this_DT0
 position_NN1
-Standing_VVG-NN1
+Standing_NN1
 and_CJC
 walking_VVG
 practice_NN1
@@ -3306,7 +3306,7 @@ This_DT0
 little_AJ0
 girl_NN1
 is_VBZ
-English_AJ0-NN1
+English_AJ0
 and_CJC
 the_AT0
 boy_NN1
@@ -3319,7 +3319,7 @@ camera_NN1
 is_VBZ
 from_PRP
 Israel_NP0
-Learning_VVG-NN1
+Learning_NN1
 to_TO0
 change_NN1
 position_NN1
@@ -3331,9 +3331,9 @@ from_PRP
 sitting_VVG
 and_CJC
 standing_VVG
-Standing_VVG-NN1
+Standing_NN1
 practice_NN1
-Walking_VVG-NN1
+Walking_VVG
 practice_NN1
 Topic_NN1
 work_NN1
@@ -3351,7 +3351,7 @@ Dressing_VVG
 up_AVP
 for_PRP
 a_AT0
-walk_VVI
+walk_NN1
 in_PRP
 the_AT0
 forest_NN1
@@ -3387,7 +3387,7 @@ furniture_NN1
 The_AT0
 older_AJC
 Motor_NN1
-Impaired_AJ0-VVD
+Impaired_AJ0
 group_NN1
 at_PRP
 Mabel_NP0
@@ -3419,7 +3419,7 @@ enjoyed_VVD
 by_PRP
 the_AT0
 children_NN2
-Learning_VVG-NN1
+Learning_NN1
 to_TO0
 change_NN1
 position_NN1
@@ -3431,7 +3431,7 @@ with_PRP
 Spina_UNC
 Bifida_UNC
 children_NN2
-Learning_VVG-NN1
+Learning_NN1
 to_TO0
 fix_VVI
 with_PRP

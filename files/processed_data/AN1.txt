@@ -14,20 +14,20 @@ by_PRP
 Robert_NP0
 Barker_NP0
 SECOND_ORD
-REVISED_AJ0-VVN
+REVISED_VVN
 EDITION_NN1
 THE_AT0
 HOMOEOPATHIC_AJ0
-SUPPLY_NN1-VVB
+SUPPLY_NN1
 COMPANY_NN1
 NORFOLK_NP0
 ENGLAND_NP0
 CONTENTS_NN2
-Preface_NN1-VVB
+Preface_NN1
 to_TO0
 1st_ORD
 edition_NN1
-Preface_NN1-VVB
+Preface_NN1
 to_TO0
 2nd_ORD
 edition_NN1
@@ -58,11 +58,11 @@ M.D._NP0
 The_AT0
 Practicalities_NN2
 of_PRF
-Prescribing_VVG-NN1
+Prescribing_NN1
 Robert_NP0
 Barker_NP0
 21_CRD
-PREFACE_NN1-VVB
+PREFACE_NN1
 TO_PRP
 THE_AT0
 FIRST_ORD
@@ -107,7 +107,7 @@ progress_NN1
 and_CJC
 after_PRP
 some_DT0
-initial_AJ0-NN1
+initial_AJ0
 success_NN1
 my_DPS
 enthusiasm_NN1
@@ -247,7 +247,7 @@ particular_AJ0
 study_NN1
 of_PRF
 the_AT0
-Organon_NN1-NP0
+Organon_NN1
 's_POS
 instructions_NN2
 on_PRP
@@ -274,7 +274,7 @@ Like_PRP
 many_DT0
 issues_NN2
 within_PRP
-Hom\xc5\x93opathy_NP0-NN1
+Hom\xc5\x93opathy_NP0
 there_EX0
 are_VBB
 a_AT0
@@ -290,7 +290,7 @@ LM_NP0
 's_POS
 in_PRP
 the_AT0
-Organon_NN1-NP0
+Organon_NN1
 In_PRP
 the_AT0
 best_AJS
@@ -327,7 +327,7 @@ future_NN1
 editions_NN2
 Robert_NP0
 Baker_NP0
-Fairview_NP0-NN1
+Fairview_NP0
 4_CRD
 Nelson_NP0
 Road_NP0
@@ -335,7 +335,7 @@ Sheringham_NP0
 Norfolk_NP0
 NR26_UNC
 8BU_UNC
-PREFACE_NN1-VVB
+PREFACE_NN1
 TO_PRP
 THE_AT0
 2nd_ORD
@@ -503,7 +503,7 @@ LECTURE_NN1
 BY_PRP
 DR_NP0
 S.P._NN1
-DEY_NN1-NP0
+DEY_NP0
 The_AT0
 following_AJ0
 comprises_VVZ
@@ -545,7 +545,7 @@ am_VBB
 indebted_AJ0
 to_TO0
 Linda_NP0
-Kulig_NP0-NN1
+Kulig_NN1
 who_PNQ
 studied_VVN
 in_PRP
@@ -771,7 +771,7 @@ this_DT0
 method_NN1
 aggravations_NN2
 were_VBD
-minimised_VVN-AJ0
+minimised_VVN
 and_CJC
 this_DT0
 the_AT0
@@ -867,7 +867,7 @@ MILLESIMALS_NP0
 1_CRD
 Aggravations_NN2
 are_VBB
-minimised_VVN-AJ0
+minimised_VVN
 or_CJC
 can_VM0
 be_VBI
@@ -894,7 +894,7 @@ hom\xc5\x93opathic_AJ0
 aggravation_NN1
 can_VM0
 cause_NN1
-increased_AJ0
+increased_VVN
 suffering_VVG
 or_CJC
 even_AV0
@@ -908,7 +908,7 @@ patient_NN1
 Deep_AJ0
 acting_VVG
 medicines_NN2
-Lycopodium_NP0-NN1
+Lycopodium_NN1
 Calc_NP0
 Carb_NP0
 etc._AV0
@@ -939,7 +939,7 @@ for_PRP
 both_AV0
 palliative_AJ0
 and_CJC
-curative_AJ0-NN1
+curative_AJ0
 purposes_NN2
 simultaneously_AV0
 because_CJS
@@ -1221,7 +1221,7 @@ receive_VVI
 a_AT0
 bottle_NN1
 of_PRF
-poppy_NN1-AJ0
+poppy_NN1
 seed_NN1
 sized_AJ0
 granules_NN2
@@ -1302,7 +1302,7 @@ administer_VVI
 the_AT0
 second_ORD
 dose_NN1
-succuss_NN1-VVB
+succuss_VVB
 the_AT0
 original_AJ0
 bottle_NN1
@@ -1485,7 +1485,7 @@ one_CRD
 in_PRP
 turn_NN1
 has_VHZ
-exhausted_VVN-AJ0
+exhausted_VVN
 its_DPS
 usefulness_NN1
 When_CJS
@@ -1507,7 +1507,7 @@ repeated_VVN
 with_PRP
 a_AT0
 single_AJ0
-poppy_NN1-AJ0
+poppy_NN1
 seed_NN1
 granule_NN1
 of_PRF
@@ -1556,7 +1556,7 @@ round_AVP
 shape_NN1
 of_PRF
 the_AT0
-poppy_NN1-AJ0
+poppy_NN1
 seed_NN1
 granule_NN1
 the_AT0
@@ -1642,7 +1642,7 @@ be_VBI
 moistened_VVD
 with_PRP
 one_CRD
-drop_VVI
+drop_NN1
 of_PRF
 this_DT0
 solution_NN1
@@ -1653,14 +1653,14 @@ should_VM0
 be_VBI
 dried_AJ0
 on_PRP
-blotting_VVG-AJ0
+blotting_VVG
 paper_NN1
 and_CJC
 then_AV0
 put_VVI
 in_PRP
 a_AT0
-sealed_AJ0
+sealed_VVN
 bottle_NN1
 and_CJC
 labelled_VVN
@@ -1688,11 +1688,11 @@ is_VBZ
 dissolved_VVN
 in_PRP
 a_AT0
-drop_VVI
+drop_NN1
 of_PRF
 distilled_AJ0
 water_NN1
-mixed_AJ0
+mixed_VVN
 with_PRP
 100_CRD
 drops_VVZ
@@ -1711,7 +1711,7 @@ are_VBB
 moistened_VVD
 with_PRP
 one_CRD
-drop_VVI
+drop_NN1
 of_PRF
 this_DT0
 solution_NN1
@@ -1817,7 +1817,7 @@ used_VVN
 as_CJS
 except_CJS
 for_PRP
-Bacillunum_NP0-NN1
+Bacillunum_NN1
 these_DT0
 are_VBB
 not_XX0
@@ -1832,7 +1832,7 @@ Pharmacy_NN1
 now_AV0
 has_VHZ
 most_AV0
-nosodes_VVZ-NN2
+nosodes_NN2
 available_AJ0
 as_CJS
 LM_NP0
@@ -2252,7 +2252,7 @@ fifth_ORD
 edition_NN1
 of_PRF
 the_AT0
-Organon_NN1-NP0
+Organon_NN1
 in_PRP
 1833_CRD
 and_CJC
@@ -2294,7 +2294,7 @@ sixth_ORD
 edition_NN1
 of_PRF
 my_DPS
-Organon_NN1-NP0
+Organon_NN1
 the_AT0
 most_AV0
 nearly_AV0
@@ -2493,7 +2493,7 @@ that_CJT
 Kent_NP0
 such_DT0
 a_AT0
-devoted_AJ0-VVN
+devoted_AJ0
 follower_NN1
 of_PRF
 his_DPS
@@ -2605,7 +2605,7 @@ a_AT0
 new_AJ0
 method_NN1
 of_PRF
-potentising_VVG-AJ0
+potentising_AJ0
 remedies_NN2
 the_AT0
 LM_NP0
@@ -2680,7 +2680,7 @@ Hahnemann_NP0
 describes_VVZ
 in_PRP
 a_AT0
-footnote_VVB-NN1
+footnote_NN1
 to_TO0
 270_CRD
 as_CJS
@@ -2754,7 +2754,7 @@ poisonous_AJ0
 remedies_NN2
 such_DT0
 as_CJS
-Arsenicum_NN1-NP0
+Arsenicum_NN1
 and_CJC
 the_AT0
 desire_NN1
@@ -2800,8 +2800,8 @@ inert_AJ0
 materials_NN2
 such_DT0
 as_CJS
-Silica_NN1-NP0
-Carbo_NP0-NN1
+Silica_NP0
+Carbo_NN1
 Veg_NN1
 etc._AV0
 and_CJC
@@ -2814,13 +2814,13 @@ the_AT0
 less_AV0
 poisonous_AJ0
 mother_NN1
-tinctures_VVZ-NN2
+tinctures_NN2
 such_DT0
 as_CJS
 Bryonia_NP0
-Pulsatilla_NN1-NP0
+Pulsatilla_NP0
 Rhus_NP0
-Tox_NN1-NP0
+Tox_NP0
 By_PRP
 1834_CRD
 he_PNP
@@ -2839,7 +2839,7 @@ appropriate_AJ0
 potency_NN1
 and_CJC
 the_AT0
-minimum_AJ0-NN1
+minimum_AJ0
 dose_NN1
 i.e._AV0
 quantity_NN1
@@ -2926,7 +2926,7 @@ not_XX0
 only_AV0
 a_AT0
 highly_AV0
-dynamised_AJ0-VVN
+dynamised_AJ0
 remedy_NN1
 but_CJC
 also_AV0
@@ -2942,7 +2942,7 @@ possible_AJ0
 to_TO0
 effect_NN1
 a_AT0
-curative_AJ0-NN1
+curative_AJ0
 response_NN1
 Hahnemann_NP0
 's_POS
@@ -2970,7 +2970,7 @@ For_PRP
 example_NN1
 in_PRP
 the_AT0
-Organon_NN1-NP0
+Organon_NN1
 5th_ORD
 edition_NN1
 1833_CRD
@@ -3024,12 +3024,12 @@ higher_AJC
 the_AT0
 potency_NN1
 selected_VVN
-Organon_NN1-NP0
+Organon_NN1
 5th_ORD
 Edition_NN1
 1833_CRD
 \xc2\xa7246_UNC
-footnote_VVB-NN1
+footnote_NN1
 Now_AV0
 in_PRP
 cases_NN2
@@ -3116,7 +3116,7 @@ half_DT0
 or_CJC
 a_AT0
 whole_AJ0
-drop_VVI
+drop_NN1
 But_CJC
 the_AT0
 result_NN1
@@ -3220,7 +3220,7 @@ dose_NN1
 after_PRP
 all_DT0
 the_AT0
-average_AJ0-NN1
+average_AJ0
 dose_NN1
 from_PRP
 a_AT0
@@ -3386,7 +3386,7 @@ high_AJ0
 potency_NN1
 centesimal_AJ0
 remedies_NN2
-SUCCUSSION_NP0-NN1
+SUCCUSSION_NP0
 Another_DT0
 interesting_AJ0
 concept_NN1
@@ -3400,7 +3400,7 @@ the_AT0
 ability_NN1
 of_PRF
 an_AT0
-increased_AJ0
+increased_VVN
 number_NN1
 of_PRF
 succussions_NN2
@@ -3422,7 +3422,7 @@ we_PNP
 find_VVI
 the_AT0
 following_AJ0
-footnote_VVB-NN1
+footnote_NN1
 to_TO0
 270_CRD
 In_PRP
@@ -3471,7 +3471,7 @@ medicines_NN2
 were_VBD
 too_AV0
 highly_AV0
-potentized_VVN-VVD
+potentized_VVD
 There_EX0
 are_VBB
 however_AV0
@@ -3533,7 +3533,7 @@ an_AT0
 ounce_NN1
 of_PRF
 water_NN1
-mixed_AJ0
+mixed_VVN
 with_PRP
 alcohol_NN1
 in_PRP
@@ -3592,7 +3592,7 @@ a_AT0
 lateral_AJ0
 intensification_NN1
 or_CJC
-energising_NN1-VVG
+energising_VVG
 of_PRF
 the_AT0
 solution_NN1
@@ -3826,7 +3826,7 @@ Pura_NP0
 p46_UNC
 we_PNP
 must_VM0
-act_VVI
+act_NN1
 with_PRP
 moderation_NN1
 in_PRP
@@ -3847,9 +3847,9 @@ by_PRP
 such_DT0
 trituration_NN1
 A_AT0
-drop_VVI
+drop_NN1
 of_PRF
-Drosera_NP0-NN1
+Drosera_NP0
 in_PRP
 the_AT0
 30th_ORD
@@ -3873,7 +3873,7 @@ a_AT0
 child_NN1
 suffering_VVG
 from_PRP
-whooping-cough_NN1-AJ0
+whooping-cough_NN1
 endangers_VVZ
 life_NN1
 whereas_CJS
@@ -3891,7 +3891,7 @@ the_AT0
 size_NN1
 of_PRF
 a_AT0
-poppy_NN1-AJ0
+poppy_NN1
 seed_NN1
 moistened_VVD
 with_PRP
@@ -3901,12 +3901,12 @@ dilution_NN1
 cures_NN2
 it_PNP
 readily_AV0
-Organon_NN1-NP0
+Organon_NN1
 6th_ORD
 Edition_NN1
 1842_CRD
 \xc2\xa7270_UNC
-footnote_VVB-NN1
+footnote_NN1
 with_PRP
 so_AV0
 small_AJ0
@@ -3944,7 +3944,7 @@ higher_AJC
 degrees_NN2
 of_PRF
 dynamization_NN1
-act_VVI
+act_NN1
 almost_AV0
 immediately_AV0
 but_CJC
@@ -3996,7 +3996,7 @@ the_AT0
 5th_ORD
 edition_NN1
 \xc2\xa7246_UNC
-footnote_VVB-NN1
+footnote_NN1
 he_PNP
 advocates_NN2
 that_CJT
@@ -4035,7 +4035,7 @@ continues_VVZ
 in_PRP
 this_DT0
 long_AJ0
-footnote_VVB-NN1
+footnote_NN1
 to_TO0
 give_VVI
 details_NN2
@@ -4332,11 +4332,11 @@ the_AT0
 technical_AJ0
 part_NN1
 of_PRF
-Hom\xc5\x93opathy_NP0-NN1
+Hom\xc5\x93opathy_NP0
 describes_VVZ
 the_AT0
 new_AJ0
-plussing_AJ0-NN1
+plussing_AJ0
 method_NN1
 for_PRP
 administering_VVG
@@ -4421,7 +4421,7 @@ to_TO0
 complete_AJ0
 its_DPS
 '_POS
-curative_AJ0-NN1
+curative_AJ0
 curve_NN1
 Also_AV0
 from_PRP
@@ -4772,7 +4772,7 @@ is_VBZ
 in_PRP
 every_AT0
 case_NN1
-varied_AJ0
+varied_VVN
 and_CJC
 modified_VVN
 only_AV0
@@ -5150,7 +5150,7 @@ and_CJC
 even_AV0
 more_AV0
 no_AT0
-potentizing_NN1-VVG
+potentizing_VVG
 in_PRP
 an_AT0
 attenuating_VVG
@@ -5263,7 +5263,7 @@ create_VVI
 a_AT0
 more_AV0
 highly_AV0
-dynamised_AJ0-VVN
+dynamised_AJ0
 remedy_NN1
 was_VBD
 the_AT0
@@ -5322,7 +5322,7 @@ insoluble_AJ0
 materials_NN2
 such_DT0
 as_CJS
-Carbo_NP0-NN1
+Carbo_NN1
 Veg_NN1
 Aurum_NP0
 etc_AV0
@@ -5354,7 +5354,7 @@ of_PRF
 3c_UNC
 and_CJC
 one_CRD
-drop_VVI
+drop_NN1
 of_PRF
 this_DT0
 solution_NN1
@@ -5412,7 +5412,7 @@ create_VVI
 the_AT0
 LM_NP0
 1_CRD
-medicating_AJ0-NN1
+medicating_NN1
 liquid_NN1
 Hahnemann_NP0
 's_POS
@@ -5550,7 +5550,7 @@ so_AV0
 small_AJ0
 that_CJT
 one_CRD
-drop_VVI
+drop_NN1
 of_PRF
 the_AT0
 alcoholic_AJ0
@@ -5576,7 +5576,7 @@ a_AT0
 500th_ORD
 of_PRF
 a_AT0
-drop_VVI
+drop_NN1
 When_CJS
 this_DT0
 granule_NN1
@@ -5584,7 +5584,7 @@ is_VBZ
 dissolved_VVN
 in_PRP
 a_AT0
-drop_VVI
+drop_NN1
 of_PRF
 water_NN1
 and_CJC
@@ -5643,7 +5643,7 @@ a_AT0
 500th_ORD
 of_PRF
 a_AT0
-drop_VVI
+drop_NN1
 instead_AV0
 of_PRF
 the_AT0
@@ -5652,7 +5652,7 @@ addition_NN1
 of_PRF
 the_AT0
 whole_AJ0
-drop_VVI
+drop_NN1
 as_CJS
 is_VBZ
 the_AT0
@@ -5701,7 +5701,7 @@ theoretically_AV0
 dilute_VVB
 with_PRP
 one_CRD
-drop_VVI
+drop_NN1
 to_TO0
 50,000_CRD
 drops_VVZ
@@ -5735,7 +5735,7 @@ practical_AJ0
 size_NN1
 for_PRP
 the_AT0
-average_AJ0-NN1
+average_AJ0
 human_AJ0
 being_VBG
 to_TO0
@@ -6020,7 +6020,7 @@ gradually_AV0
 raised_VVN
 expanded_VVN
 and_CJC
-intensified_VVD-VVN
+intensified_VVD
 to_TO0
 continually_AV0
 stimulate_VVI
@@ -6163,7 +6163,7 @@ of_PRF
 the_AT0
 LM_NP0
 's_POS
-lie_VVI
+lie_VVB
 and_CJC
 as_CJS
 Hahnemann_NP0
@@ -6227,7 +6227,7 @@ similar_AJ0
 to_TO0
 the_AT0
 centesimal_AJ0
-plussing_AJ0-NN1
+plussing_AJ0
 technique_NN1
 but_CJC
 using_VVG
@@ -6260,7 +6260,7 @@ the_AT0
 6th_ORD
 edition_NN1
 248_CRD
-footnote_VVB-NN1
+footnote_NN1
 He_PNP
 states_NN2
 that_CJT
@@ -6424,7 +6424,7 @@ up_AVP
 cure_NN1
 by_PRP
 giving_VVG
-increased_AJ0
+increased_VVN
 stimulus_NN1
 from_PRP
 the_AT0
@@ -6986,7 +6986,7 @@ to_TO0
 remember_VVI
 that_CJT
 the_AT0
-Organon_NN1-NP0
+Organon_NN1
 gives_VVZ
 many_DT0
 possibilities_NN2
@@ -7042,7 +7042,7 @@ speedy_AJ0
 improvement_NN1
 they_PNP
 desire_NN1
-CASE_NP0-NN1
+CASE_NN1
 MANAGEMENT_NN1
 Many_DT0
 practitioners_NN2
@@ -7149,7 +7149,7 @@ to_TO0
 be_VBI
 chosen_VVN
 appropriately_AV0
-Alternating_AJ0-VVG
+Alternating_VVG
 periods_NN2
 of_PRF
 treatment_NN1
@@ -7328,7 +7328,7 @@ if_CJS
 the_AT0
 doses_NN2
 are_VBB
-increased_AJ0
+increased_VVN
 progressively_AV0
 as_CJS
 is_VBZ
@@ -7452,7 +7452,7 @@ are_VBB
 the_AT0
 most_AV0
 highly_AV0
-dynamised_AJ0-VVN
+dynamised_AJ0
 remedies_NN2
 they_PNP
 are_VBB
@@ -7505,7 +7505,7 @@ remedy_NN1
 itself_PNX
 As_CJS
 the_AT0
-curative_AJ0-NN1
+curative_AJ0
 curve_NN1
 of_PRF
 a_AT0
@@ -7720,7 +7720,7 @@ LM_NP0
 and_CJC
 above_PRP
 then_AV0
-initial_AJ0-NN1
+initial_AJ0
 aggravations_NN2
 could_VM0
 also_AV0
@@ -7738,7 +7738,7 @@ potencies_NN2
 A_AT0
 SUMMARY_NN1
 OF_PRF
-HAHNEMANN_NP0-NN1
+HAHNEMANN_NP0
 'S_POS
 DIRECTIONS_NN2
 1_CRD
@@ -7866,7 +7866,7 @@ be_VBI
 repeated_VVN
 \xc2\xa7248_UNC
 8_CRD
-Dosing_VVG-NN1
+Dosing_NN1
 is_VBZ
 continued_VVD
 while_CJS
@@ -7981,7 +7981,7 @@ dose_NN1
 of_PRF
 a_AT0
 highly_AV0
-potentized_VVN-VVD
+potentized_VVD
 remedy_NN1
 can_VM0
 be_VBI
@@ -8204,7 +8204,7 @@ give_VVI
 \xc2\xa7_UNC
 278_CRD
 19_CRD
-Dosing_VVG-NN1
+Dosing_NN1
 continues_VVZ
 increasing_AJ0
 it_PNP
@@ -8229,7 +8229,7 @@ original_AJ0
 symptoms_NN2
 \xc2\xa7280_UNC
 20_CRD
-Return_VVB-NN1
+Return_NN1
 of_PRF
 old_AJ0
 symptoms_NN2
@@ -8657,7 +8657,7 @@ statements_NN2
 he_PNP
 has_VHZ
 read_VVI
-inspiring_VVG-AJ0
+inspiring_AJ0
 him_PNP
 to_TO0
 investigate_VVI
@@ -8723,7 +8723,7 @@ but_CJC
 imitate_VVI
 me_PNP
 well_AV0
-CASE_NP0-NN1
+CASE_NN1
 REPORTS_NN2
 I_PNP
 have_VHB
@@ -8736,7 +8736,7 @@ actively_AV0
 for_PRP
 about_PRP
 nine_CRD
-monthe_NN1-VVB
+monthe_VVB
 However_AV0
 I_PNP
 have_VHB
@@ -8756,7 +8756,7 @@ quickly_AV0
 smoothly_AV0
 and_CJC
 without_PRP
-initial_AJ0-NN1
+initial_AJ0
 aggravation_NN1
 I_PNP
 will_VM0
@@ -8778,7 +8778,7 @@ fifty_CRD
 millesimal_AJ0
 potencies_NN2
 to_TO0
-act_VVI
+act_NN1
 favorably_AV0
 on_PRP
 all_DT0
@@ -8795,7 +8795,7 @@ year-old_AJ0
 male_AJ0
 with_PRP
 a_AT0
-chief_AJ0-NN1
+chief_NN1
 complaint_NN1
 of_PRF
 fits_VVZ
@@ -8817,7 +8817,7 @@ the_AT0
 onset_NN1
 of_PRF
 the_AT0
-chief_AJ0-NN1
+chief_NN1
 complaint_NN1
 The_AT0
 patient_NN1
@@ -8834,7 +8834,7 @@ the_AT0
 selection_NN1
 of_PRF
 Nat_NP0
-Mur_VVB-NN1
+Mur_VVB
 Nat_NP0
 Mur._NP0
 0/1_CRD
@@ -8848,7 +8848,7 @@ The_AT0
 patient_NN1
 began_VVD
 to_TO0
-feel_VVI
+feel_VVB
 better_AJC
 within_PRP
 24_CRD
@@ -8856,7 +8856,7 @@ hours_NN2
 and_CJC
 continued_VVD
 to_TO0
-feel_VVI
+feel_VVB
 better_AJC
 until_CJS
 the_AT0
@@ -8995,7 +8995,7 @@ Nat_NP0
 Sulph._NP0
 so_AV0
 Nat_NP0
-Sulph_NN1-NP0
+Sulph_NN1
 was_VBD
 begun_VVN
 in_PRP
@@ -9037,7 +9037,7 @@ is_VBZ
 losing_VVG
 weight_NN1
 with_PRP
-improved_AJ0
+improved_VVN
 energy_NN1
 Nat._AJ0
 sulph._NN0
@@ -9063,7 +9063,7 @@ Case_NN1
 No._NN1
 3_CRD
 A_AT0
-Lachesis_NP0-NN1
+Lachesis_NN1
 patient_NN1
 whose_DTQ
 main_AJ0
@@ -9084,13 +9084,13 @@ after_PRP
 a_AT0
 dose_NN1
 of_PRF
-Lachesis_NP0-NN1
+Lachesis_NN1
 1M_NN0
 which_DTQ
 created_VVN
 a_AT0
 short_AJ0
-initial_AJ0-NN1
+initial_AJ0
 aggravation_NN1
 He_PNP
 was_VBD
@@ -9120,7 +9120,7 @@ immediate_AJ0
 flare-up_NN1
 of_PRF
 painful_AJ0
-bleeding_VVG-AJ0
+bleeding_AJ0
 hemorrhoids_NN2
 on_PRP
 the_AT0
@@ -9178,7 +9178,7 @@ No._NN1
 year-old_AJ0
 female_AJ0
 with_PRP
-chief_AJ0-NN1
+chief_NN1
 complaints_NN2
 of_PRF
 a_AT0
@@ -9200,7 +9200,7 @@ swelling_AJ0
 was_VBD
 classic_AJ0
 for_PRP
-Kali_NP0-NN1
+Kali_NP0
 Carb._NP0
 and_CJC
 the_AT0
@@ -9270,7 +9270,7 @@ in_PRP
 order_NN1
 to_TO0
 cure_NN1
-Kali_NP0-NN1
+Kali_NP0
 Carb._NP0
 1M_NN0
 was_VBD
@@ -9323,7 +9323,7 @@ weeks_NN2
 At_PRP
 that_CJT
 time_NN1
-Kali_NP0-NN1
+Kali_NP0
 Carb._NP0
 0/1_CRD
 was_VBD
@@ -9363,7 +9363,7 @@ the_AT0
 eyelid_NN1
 is_VBZ
 slowly_AV0
-shrinking_AJ0-NN1
+shrinking_AJ0
 I_PNP
 suspect_VVB
 in_PRP
@@ -9415,7 +9415,7 @@ the_AT0
 ankle_NN1
 and_CJC
 tibia_NN1
-Arnica_NN1-NP0
+Arnica_NP0
 200_CRD
 afforded_VVN
 temporary_AJ0
@@ -9428,7 +9428,7 @@ repeat_VVI
 dose_NN1
 helped_VVN
 temporarily_AV0
-Arnica_NN1-NP0
+Arnica_NP0
 0/1_CRD
 every_AT0
 four_CRD
@@ -9477,7 +9477,7 @@ the_AT0
 first_ORD
 dose_NN1
 of_PRF
-Arnica_NN1-NP0
+Arnica_NP0
 0/1_CRD
 there_EX0
 was_VBD
@@ -9493,7 +9493,7 @@ sustained_AJ0
 a_AT0
 left_VVN
 mid-forearm_NN1
-ulnar_AJ0-NN1
+ulnar_NN1
 nerve_NN1
 injury_NN1
 after_PRP
@@ -9501,7 +9501,7 @@ having_VHG
 the_AT0
 automobile_NN1
 door_NN1
-closed_VVD
+closed_VVN
 on_PRP
 her_DPS
 arm_NN1
@@ -9519,7 +9519,7 @@ the_AT0
 distribution_NN1
 of_PRF
 the_AT0
-ulnar_AJ0-NN1
+ulnar_NN1
 nerve_NN1
 She_PNP
 was_VBD
@@ -9531,7 +9531,7 @@ Hyper_AJ0
 30_CRD
 from_PRP
 her_DPS
-first-aid_AJ0-NN1
+first-aid_AJ0
 kit_NN1
 and_CJC
 sent_VVN
@@ -9581,7 +9581,7 @@ the_AT0
 numbness_NN1
 was_VBD
 50%_NN0
-improved_AJ0
+improved_VVN
 after_PRP
 one_CRD
 minute_NN1
@@ -9697,7 +9697,7 @@ months_NN2
 after_PRP
 Sulphur_NN1
 200_CRD
-Sulph_NN1-NP0
+Sulph_NN1
 1M_NN0
 was_VBD
 given_VVN
@@ -9773,7 +9773,7 @@ with_PRP
 painful_AJ0
 persistent_AJ0
 right_NN1
-ovarian_AJ0-NN1
+ovarian_AJ0
 cyst_NN1
 about_PRP
 4cm_NN0
@@ -9796,7 +9796,7 @@ She_PNP
 was_VBD
 constitutionally_AV0
 a_AT0
-Kali_NP0-NN1
+Kali_NP0
 Carb._NP0
 patient_NN1
 and_CJC
@@ -9849,7 +9849,7 @@ recurrent_AJ0
 infections_NN2
 and_CJC
 long-term_AJ0
-birth-control_AJ0-NN1
+birth-control_NN1
 pill_NN1
 use_NN1
 A_AT0
@@ -9862,7 +9862,7 @@ I_PNP
 started_VVD
 her_DPS
 on_PRP
-Kali_NP0-NN1
+Kali_NP0
 carb._NN0
 0/1_CRD
 progressing_VVG
@@ -9900,7 +9900,7 @@ pharyngitis_NN1
 and_CJC
 fever_NN1
 resembling_VVG
-Lach_NN1-NP0
+Lach_NN1
 Lach.0/1_UNC
 cleared_VVN
 the_AT0
@@ -9916,7 +9916,7 @@ resultant_AJ0
 setback_NN1
 of_PRF
 her_DPS
-overall_AJ0-NN1
+overall_AJ0
 condition_NN1
 A_AT0
 few_DT0
@@ -9927,14 +9927,14 @@ fell_VVD
 ill_AJ0
 with_PRP
 the_AT0
-ovarian_AJ0-NN1
+ovarian_AJ0
 cyst_NN1
 but_CJC
 the_AT0
 picture_NN1
 was_VBD
 now_AV0
-Lycopodium_NP0-NN1
+Lycopodium_NN1
 Lyc._NP0
 0/1_CRD
 was_VBD
@@ -9970,7 +9970,7 @@ right_NN1
 pelvic_AJ0
 pain_NN1
 or_CJC
-ovarian_AJ0-NN1
+ovarian_AJ0
 swelling_AJ0
 and_CJC
 she_PNP
@@ -9993,13 +9993,13 @@ Lyc._NP0
 through_PRP
 0/8_CRD
 Her_DPS
-overall_AJ0-NN1
+overall_AJ0
 energy_NN1
 and_CJC
 stamina_NN1
 has_VHZ
 greatly_AV0
-improved_AJ0
+improved_VVN
 Case_NN1
 No._NN1
 11_CRD
@@ -10009,7 +10009,7 @@ college_NN1
 student_NN1
 constitutionally_AV0
 Nat_NP0
-Mur_VVB-NN1
+Mur_VVB
 His_DPS
 main_AJ0
 complaint_NN1
@@ -10066,7 +10066,7 @@ year-old_AJ0
 girl_NN1
 with_PRP
 a_AT0
-chief_AJ0-NN1
+chief_NN1
 complaint_NN1
 of_PRF
 warts_NN2
@@ -10082,7 +10082,7 @@ and_CJC
 constitutionally_AV0
 fitted_VVN
 Nat_NP0
-Mur_VVB-NN1
+Mur_VVB
 After_PRP
 the_AT0
 0/3_CRD
@@ -10181,7 +10181,7 @@ but_CJC
 with_PRP
 the_AT0
 same_DT0
-curative_AJ0-NN1
+curative_AJ0
 effects_NN2
 as_CJS
 centesimal_AJ0
@@ -10273,7 +10273,7 @@ publication_NN1
 and_CJC
 discussion_NN1
 in_PRP
-Hom\xc5\x93otherapy_NP0-NN1
+Hom\xc5\x93otherapy_NN1
 My_DPS
 continuing_AJ0
 work_NN1
@@ -10293,7 +10293,7 @@ LM_NP0
 are_VBB
 used_VVN
 that_CJT
-Lycopodium_NP0-NN1
+Lycopodium_NN1
 can_VM0
 probably_AV0
 follow_VVI
@@ -10353,7 +10353,7 @@ with_PRP
 the_AT0
 advancement_NN1
 of_PRF
-Hom\xc5\x93opathy_NP0-NN1
+Hom\xc5\x93opathy_NP0
 Unfortunately_AV0
 no_AT0
 biographical_AJ0
@@ -10370,7 +10370,7 @@ I_PNP
 understand_VVI
 from_PRP
 Francis_NP0
-Treuherz_NP0-NN1
+Treuherz_NN1
 of_PRF
 The_AT0
 Society_NN1
@@ -10383,7 +10383,7 @@ edited_VVN
 a_AT0
 journal_NN1
 entitled_VVN
-Hom\xc5\x93otherapy_NP0-NN1
+Hom\xc5\x93otherapy_NN1
 which_DTQ
 began_VVD
 in_PRP
@@ -10526,7 +10526,7 @@ argument_NN1
 between_PRP
 practitioners_NN2
 since_CJS
-Hom\xc5\x93opathy_NP0-NN1
+Hom\xc5\x93opathy_NP0
 began_VVD
 We_PNP
 have_VHB
@@ -10576,7 +10576,7 @@ of_PRF
 the_AT0
 practitioner_NN1
 to_TO0
-feel_VVI
+feel_VVB
 that_CJT
 they_PNP
 are_VBB
@@ -10592,7 +10592,7 @@ My_DPS
 own_DT0
 need_VVB
 to_TO0
-feel_VVI
+feel_VVB
 that_CJT
 I_PNP
 am_VBB
@@ -10605,7 +10605,7 @@ by_PRP
 the_AT0
 continued_VVD
 repetition_NN1
-involved_AJ0
+involved_VVN
 in_PRP
 LM_NP0
 's_POS
@@ -10732,7 +10732,7 @@ aggravation_NN1
 e.g._AV0
 Mercury_NP0
 and_CJC
-Silica_NN1-NP0
+Silica_NP0
 should_VM0
 n't_XX0
 follow_VVI
@@ -10760,7 +10760,7 @@ fulfill_VVI
 \xc2\xa7.2_UNC
 of_PRF
 The_AT0
-Organon_NN1-NP0
+Organon_NN1
 The_AT0
 highest_AJS
 ideal_AJ0
@@ -10832,7 +10832,7 @@ of_PRF
 improvement_NN1
 indicating_VVG
 a_AT0
-curative_AJ0-NN1
+curative_AJ0
 response_NN1
 within_PRP
 a_AT0
@@ -11123,7 +11123,7 @@ the_AT0
 pain_NN1
 and_CJC
 the_AT0
-characteristic_AJ0-NN1
+characteristic_NN1
 worse_AJC
 for_PRP
 lying_VVG
@@ -11359,7 +11359,7 @@ better_AJC
 and_CJC
 did_VDD
 n't_XX0
-feel_VVI
+feel_VVB
 she_PNP
 was_VBD
 getting_VVG
@@ -11740,12 +11740,12 @@ more_AV0
 medicine_NN1
 when_CJS
 they_PNP
-feel_VVI
+feel_VVB
 well_AV0
 Case_NN1
 2_CRD
 above_PRP
-contd_VVB-NN1
+contd_NN1
 The_AT0
 patient_NN1
 's_POS
@@ -11853,7 +11853,7 @@ for_PRP
 a_AT0
 nosode_NN1
 was_VBD
-Tuberculinum_NP0-NN1
+Tuberculinum_NN1
 given_VVN
 its_DPS
 relationship_NN1
@@ -11920,7 +11920,7 @@ her_DPS
 symptoms_NN2
 returning_VVG
 so_AV0
-Tuberculinum_NP0-NN1
+Tuberculinum_NN1
 LM2_UNC
 was_VBD
 used_VVN
@@ -11998,7 +11998,7 @@ and_CJC
 the_AT0
 interspersing_VVG
 of_PRF
-nosodes_VVZ-NN2
+nosodes_NN2
 is_VBZ
 no_AT0
 different_AJ0
@@ -12116,7 +12116,7 @@ flashes_NN2
 previously_AV0
 and_CJC
 took_VVD
-Dixarit_NP0-NN1
+Dixarit_NP0
 She_PNP
 expressed_VVN
 being_VBG
@@ -12148,7 +12148,7 @@ to_TO0
 have_VHB
 windows_NN2
 open_AJ0
-Pulsatilla_NN1-NP0
+Pulsatilla_NP0
 LM1_UNC
 produced_VVN
 a_AT0
@@ -12293,7 +12293,7 @@ the_AT0
 neck_NN1
 the_AT0
 remedy_NN1
-Lachesis_NP0-NN1
+Lachesis_NN1
 LM1_UNC
 was_VBD
 prescribed_VVN
@@ -12316,7 +12316,7 @@ remedy_NN1
 of_PRF
 her_DPS
 own_DT0
-accord_VVI
+accord_NN1
 but_CJC
 within_PRP
 2_CRD
@@ -12329,7 +12329,7 @@ advised_VVN
 going_VVG
 on_PRP
 to_TO0
-Lachesis_NP0-NN1
+Lachesis_NN1
 LM2_UNC
 and_CJC
 after_PRP
@@ -12362,19 +12362,19 @@ felt_VVD
 20_CRD
 years_NN2
 younger_AJC
-Lachesis_NP0-NN1
+Lachesis_NN1
 LM3_UNC
 stopping_VVG
 the_AT0
 remedy_NN1
-Lachesis_NP0-NN1
+Lachesis_NN1
 200_CRD
-Syphilinum_NP0-NN1
+Syphilinum_NN1
 LM1_UNC
 and_CJC
 returning_VVG
 to_TO0
-Lachesis_NP0-NN1
+Lachesis_NN1
 LM3_UNC
 Another_DT0
 interview_NN1
@@ -12497,7 +12497,7 @@ LM_NP0
 and_CJC
 I_PNP
 prescribed_VVN
-Lycopodium_NP0-NN1
+Lycopodium_NN1
 6C_UNC
 three_CRD
 times_NN2
@@ -12633,7 +12633,7 @@ forthcoming_AJ0
 holiday_NN1
 because_CJS
 of_PRF
-travel-sickness_NN1-AJ0
+travel-sickness_AJ0
 the_AT0
 anticipatory_AJ0
 fear_NN1
@@ -12657,7 +12657,7 @@ she_PNP
 said_VVD
 she_PNP
 would_VM0
-feel_VVI
+feel_VVB
 fear_NN1
 if_CJS
 she_PNP
@@ -12668,7 +12668,7 @@ them_PNP
 I_PNP
 prescribed_VVN
 Argenticum_NP0
-Nitricum_NP0-NN1
+Nitricum_NN1
 6x_UNC
 in_PRP
 a_AT0
@@ -12699,7 +12699,7 @@ on_PRP
 holiday_NN1
 with_PRP
 no_AT0
-travel-sickness_NN1-AJ0
+travel-sickness_AJ0
 or_CJC
 stomach_NN1
 problems_NN2
@@ -12712,7 +12712,7 @@ digestive_AJ0
 symptoms_NN2
 had_VHD
 gradually_AV0
-increased_AJ0
+increased_VVN
 in_PRP
 intensity_NN1
 This_DT0
@@ -12736,15 +12736,15 @@ was_VBD
 no_AT0
 longer_AV0
 taking_VVG
-Arg_NP0-NN1
-Nit_NP0-NN1
+Arg_NP0
+Nit_NN1
 so_AV0
 I_PNP
 put_VVI
 her_DPS
 on_PRP
-Arg_NP0-NN1
-Nit_NP0-NN1
+Arg_NP0
+Nit_NN1
 LM1_UNC
 After_PRP
 2_CRD
@@ -12768,8 +12768,8 @@ had_VHD
 bought_VVN
 herself_PNX
 some_DT0
-Arg_NP0-NN1
-Nit_NP0-NN1
+Arg_NP0
+Nit_NN1
 tablets_NN2
 as_CJS
 she_PNP
@@ -12794,8 +12794,8 @@ her_DPS
 another_DT0
 bottle_NN1
 of_PRF
-Arg_NP0-NN1
-Nit_NP0-NN1
+Arg_NP0
+Nit_NN1
 LM1_UNC
 with_PRP
 less_AV0
@@ -12836,8 +12836,8 @@ but_CJC
 4_CRD
 weeks_NN2
 after_PRP
-Arg_NP0-NN1
-Nit_NP0-NN1
+Arg_NP0
+Nit_NN1
 LM2_UNC
 she_PNP
 was_VBD
@@ -12866,8 +12866,8 @@ used_VVN
 to_TO0
 have_VHB
 and_CJC
-Arg_NP0-NN1
-Nit_NP0-NN1
+Arg_NP0
+Nit_NN1
 LM3_UNC
 was_VBD
 given_VVN
@@ -12898,8 +12898,8 @@ had_VHD
 only_AV0
 taken_VVN
 the_AT0
-Arg_NP0-NN1
-Nit_NP0-NN1
+Arg_NP0
+Nit_NN1
 LM3_UNC
 for_PRP
 2_CRD
@@ -12914,8 +12914,8 @@ I_PNP
 returned_VVD
 to_TO0
 the_AT0
-Arg_NP0-NN1
-Nit_NP0-NN1
+Arg_NP0
+Nit_NN1
 LM3_UNC
 to_TO0
 see_VVI
@@ -12939,8 +12939,8 @@ anal_AJ0
 discomfort_NN1
 with_PRP
 the_AT0
-Arg_NP0-NN1
-Nit_NP0-NN1
+Arg_NP0
+Nit_NN1
 LM3_UNC
 or_CJC
 4_CRD
@@ -12963,7 +12963,7 @@ gave_VVD
 one_CRD
 dose_NN1
 of_PRF
-Syphilinum_NP0-NN1
+Syphilinum_NN1
 200_CRD
 and_CJC
 4_CRD
@@ -13039,7 +13039,7 @@ symptoms_NN2
 I_PNP
 sent_VVN
 her_DPS
-Nit_NP0-NN1
+Nit_NN1
 Ac_NN1
 LM1_UNC
 and_CJC
@@ -13101,7 +13101,7 @@ the_AT0
 aftermath_NN1
 which_DTQ
 had_VHD
-involved_AJ0
+involved_VVN
 her_DPS
 nephew_NN1
 joining_VVG
@@ -13109,7 +13109,7 @@ the_AT0
 family_NN1
 I_PNP
 prescribed_VVN
-Nit_NP0-NN1
+Nit_NN1
 Ac_NN1
 LM2_UNC
 and_CJC
@@ -13218,7 +13218,7 @@ have_VHB
 no_AT0
 evidence_NN1
 I_PNP
-feel_VVI
+feel_VVB
 that_CJT
 high_AJ0
 centesimals_NN2
@@ -13236,7 +13236,7 @@ route_NN1
 which_DTQ
 we_PNP
 followed_VVN
-CHANGING_VVG-AJ0
+CHANGING_VVG
 FROM_PRP
 CENTESIMALS_NP0
 If_CJS
@@ -13663,7 +13663,7 @@ decided_VVD
 to_TO0
 give_VVI
 her_DPS
-Arsenicum_NN1-NP0
+Arsenicum_NN1
 Album_NN1
 LM1_UNC
 in_PRP
@@ -13711,7 +13711,7 @@ the_AT0
 period_NN1
 and_CJC
 the_AT0
-Arsenicum_NN1-NP0
+Arsenicum_NN1
 LM3_UNC
 she_PNP
 was_VBD
@@ -13748,7 +13748,7 @@ husband_NN1
 desertion_NN1
 led_VVD
 to_TO0
-Staphisagria_NP0-NN1
+Staphisagria_NP0
 LM1_UNC
 A_AT0
 cold_AJ0
@@ -13793,12 +13793,12 @@ were_VBD
 severe_AJ0
 enough_AV0
 to_TO0
-warrent_NN1-AJ0
+warrent_AJ0
 a_AT0
 new_AJ0
 prescription_NN1
 the_AT0
-Staphisagria_NP0-NN1
+Staphisagria_NP0
 was_VBD
 n't_XX0
 helping_VVG
@@ -13806,7 +13806,7 @@ which_DTQ
 came_VVD
 out_AVP
 to_TO0
-Millefolium_NP0-NN1
+Millefolium_NN1
 I_PNP
 had_VHD
 n't_XX0
@@ -13849,7 +13849,7 @@ a_AT0
 good_AJ0
 response_NN1
 to_TO0
-Arsenicum_NN1-NP0
+Arsenicum_NN1
 Album_NN1
 LM4_UNC
 but_CJC
@@ -13896,7 +13896,7 @@ LM1_UNC
 from_PRP
 the_AT0
 rubric_NN1
-bleeding_VVG-AJ0
+bleeding_AJ0
 fibroids_NN2
 since_CJS
 it_PNP
@@ -13906,7 +13906,7 @@ fears_NN2
 and_CJC
 complemented_VVN
 the_AT0
-Arsenicum_NN1-NP0
+Arsenicum_NN1
 She_PNP
 reported_VVN
 a_AT0
@@ -13917,7 +13917,7 @@ good_AJ0
 as_CJS
 on_PRP
 the_AT0
-Arsenicum_NN1-NP0
+Arsenicum_NN1
 went_VVD
 on_PRP
 holiday_NN1
@@ -13940,7 +13940,7 @@ she_PNP
 could_VM0
 do_VDB
 was_VBD
-lie_VVI
+lie_VVB
 down_AVP
 It_PNP
 was_VBD
@@ -13986,10 +13986,10 @@ that_CJT
 fibroids_NN2
 represented_VVN
 the_AT0
-nursing_AJ0-NN1
+nursing_NN1
 of_PRF
 a_AT0
-hurt_VVI
+hurt_VVN
 from_PRP
 a_AT0
 partner_NN1
@@ -14010,7 +14010,7 @@ to_TO0
 Aurum_NP0
 Burnett_NP0
 's_POS
-favourite_AJ0-NN1
+favourite_AJ0
 preparation_NN1
 for_PRP
 the_AT0
@@ -14021,7 +14021,7 @@ tumours_NN2
 was_VBD
 Aurum_NP0
 Muriaticum_NP0
-Natronatum_NP0-NN1
+Natronatum_NN1
 so_AV0
 not_XX0
 having_VHG
@@ -14061,7 +14061,7 @@ due_AJ0
 to_TO0
 the_AT0
 fibroid_NN1
-shrinking_AJ0-NN1
+shrinking_AJ0
 This_DT0
 case_NN1
 although_CJS
@@ -14073,7 +14073,7 @@ instructive_AJ0
 it_PNP
 demonstrates_VVZ
 a_AT0
-layered_AJ0-VVN
+layered_AJ0
 case_NN1
 the_AT0
 ability_NN1
@@ -14428,7 +14428,7 @@ confusion_NN1
 about_PRP
 the_AT0
 procedures_NN2
-involved_AJ0
+involved_VVN
 and_CJC
 in_PRP
 particular_AJ0
@@ -14521,7 +14521,7 @@ instructed_VVN
 to_TO0
 take_VVI
 a_AT0
-drop_VVI
+drop_NN1
 or_CJC
 even_AV0
 a_AT0
@@ -14545,7 +14545,7 @@ acutes_NN2
 with_PRP
 instructions_NN2
 to_TO0
-succuss_NN1-VVB
+succuss_VVB
 the_AT0
 bottle_NN1
 8_CRD
@@ -14679,7 +14679,7 @@ your_DPS
 LM_NP0
 's_POS
 as_CJS
-poppy_NN1-AJ0
+poppy_NN1
 seed_NN1
 granules_NN2
 from_PRP
@@ -14697,7 +14697,7 @@ laid_VVN
 down_AVP
 in_PRP
 the_AT0
-Organon_NN1-NP0
+Organon_NN1
 I_PNP
 personally_AV0
 use_NN1
@@ -14765,7 +14765,7 @@ you_PNP
 a_AT0
 box_NN1
 of_PRF
-amber_NN1-AJ0
+amber_AJ0
 glass_NN1
 medicine_NN1
 bottles_NN2
@@ -14889,7 +14889,7 @@ amounts_NN2
 min._NN0
 order_NN1
 from_PRP
-Hayman_NP0-NN1
+Hayman_NP0
 Ltd_AJ0
 Witham_NP0
 Essex_NP0
@@ -14913,7 +14913,7 @@ or_CJC
 brandy_NN1
 as_CJS
 a_AT0
-preservative_AJ0-NN1
+preservative_AJ0
 but_CJC
 given_VVN
 these_DT0
@@ -14957,7 +14957,7 @@ stock_NN1
 bottle_NN1
 in_PRP
 the_AT0
-consulting_AJ0-VVG
+consulting_VVG
 room_NN1
 If_CJS
 you_PNP
@@ -15049,11 +15049,11 @@ to_TO0
 worry_VVI
 whether_CJS
 the_AT0
-poppy_NN1-AJ0
+poppy_NN1
 seed_NN1
 really_AV0
 did_VDD
-drop_VVI
+drop_NN1
 into_PRP
 the_AT0
 bottle_NN1
@@ -15248,7 +15248,7 @@ single_AJ0
 globule_NN1
 of_PRF
 appropriately_AV0
-dynamised_AJ0-VVN
+dynamised_AJ0
 medicine_NN1
 para._NN1
 248a_UNC
@@ -15586,7 +15586,7 @@ If_CJS
 necessary_AJ0
 a_AT0
 small_AJ0
-soda-water_AJ0-NN1
+soda-water_AJ0
 bottle_NN1
 with_PRP
 cap_NN1
@@ -15620,7 +15620,7 @@ this_DT0
 is_VBZ
 now_AV0
 your_DPS
-STOCK_NN1-NP0
+STOCK_NN1
 BOTTLE_NN1
 3_CRD
 Take_VVB
@@ -15659,7 +15659,7 @@ Before_PRP
 preparing_VVG
 subsequent_AJ0
 doses_NN2
-succuss_NN1-VVB
+succuss_VVB
 or_CJC
 shake_VVI
 the_AT0
@@ -15761,7 +15761,7 @@ from_PRP
 the_AT0
 founder_NN1
 of_PRF
-Hom\xc5\x93opathy_NP0-NN1
+Hom\xc5\x93opathy_NP0
 The_AT0
 following_AJ0
 words_NN2
@@ -15801,7 +15801,7 @@ in_PRP
 each_DT0
 individual_AJ0
 case_NN1
-Organon_NN1-NP0
+Organon_NN1
 \xc2\xa7278_UNC
 Robert_NP0
 Barker_NP0

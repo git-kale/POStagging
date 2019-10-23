@@ -96,7 +96,7 @@ God_NP0
 's_POS
 will_VM0
 4_CRD
-UNITY_NN1-NP0
+UNITY_NN1
 AND_CJC
 MISSION_NN1
 Unity_NN1
@@ -624,7 +624,7 @@ FIRST_ORD
 SOME_DT0
 FACTS_NN2
 The_AT0
-Anglican_AJ0-NN1
+Anglican_AJ0
 Communion_NN1
 begins_VVZ
 the_AT0
@@ -784,14 +784,14 @@ done_VDN
 my_DPS
 best_AJS
 to_TO0
-present_AJ0-NN1
+present_AJ0
 the_AT0
 ordination_NN1
 of_PRF
 women_NN2
 in_PRP
 the_AT0
-Anglican_AJ0-NN1
+Anglican_AJ0
 Communion_NN1
 to_TO0
 Orthodoxy_NN1
@@ -866,7 +866,7 @@ Priests_NN2
 Ordination_NN1
 of_PRF
 Women_NN2
-Measure_NN1-VVB
+Measure_NN1
 is_VBZ
 short_AJ0
 and_CJC
@@ -1032,8 +1032,8 @@ accept_VVI
 a_AT0
 woman_NN1
 as_CJS
-incumbent_AJ0-NN1
-priest-in-charge_AJ0-NN1
+incumbent_NN1
+priest-in-charge_NN1
 or_CJC
 team_NN1
 vicar_NN1
@@ -1224,7 +1224,7 @@ priests_NN2
 A_AT0
 A_AT0
 separate_AJ0
-Measure_NN1-VVB
+Measure_NN1
 makes_VVZ
 financial_AJ0
 provision_NN1
@@ -1284,7 +1284,7 @@ do_VDB
 not_XX0
 seek_VVI
 to_TO0
-drive_VVI
+drive_NN1
 anyone_PNI
 out_AVP
 of_PRF
@@ -1296,7 +1296,7 @@ not_XX0
 give_VVI
 anyone_PNI
 a_AT0
-notice_VVI
+notice_NN1
 to_TO0
 quit_VVI
 They_PNP
@@ -1361,7 +1361,7 @@ clergy_NN2
 and_CJC
 others_NN2
 may_VM0
-feel_VVI
+feel_VVB
 bound_VVN
 to_TO0
 resign_VVI
@@ -1428,7 +1428,7 @@ the_AT0
 Christian_AJ0
 faith_NN1
 can_VM0
-lie_VVI
+lie_VVB
 dormant_AJ0
 until_CJS
 the_AT0
@@ -1656,10 +1656,10 @@ part_NN1
 of_PRF
 everyday_AJ0
 life_NN1
-Experience_NN1-VVB
+Experience_NN1
 in_PRP
 those_DT0
-Anglican_AJ0-NN1
+Anglican_AJ0
 provinces_NN2
 that_CJT
 already_AV0
@@ -1922,7 +1922,7 @@ fears_NN2
 lurking_VVG
 in_PRP
 our_DPS
-subconscious_AJ0-NN1
+subconscious_NN1
 minds_NN2
 of_PRF
 being_VBG
@@ -2329,7 +2329,7 @@ to_TO0
 be_VBI
 effective_AJ0
 and_CJC
-caring_VVG-NN1
+caring_NN1
 priests_NN2
 to_TO0
 bring_VVI
@@ -2398,7 +2398,7 @@ of_PRF
 priesthood_NN1
 but_CJC
 at_PRP
-present_AJ0-NN1
+present_AJ0
 the_AT0
 Church_NN1
 of_PRF
@@ -2439,7 +2439,7 @@ or_CJC
 in_PRP
 jobs_NN2
 involving_VVG
-caring_VVG-NN1
+caring_NN1
 for_PRP
 people_NN0
 2_CRD
@@ -2681,7 +2681,7 @@ it_PNP
 in_PRP
 Scripture_NN1
 They_PNP
-feel_VVI
+feel_VVB
 for_PRP
 example_NN1
 that_CJT
@@ -3235,7 +3235,7 @@ good_AJ0
 communications_NN2
 in_PRP
 the_AT0
-Roman_AJ0-NN1
+Roman_AJ0
 Empire_NN1
 would_VM0
 be_VBI
@@ -3627,7 +3627,7 @@ woman_NN1
 what_DTQ
 do_VDB
 you_PNP
-feel_VVI
+feel_VVB
 about_PRP
 Jesus_NP0
 having_VHG
@@ -3642,7 +3642,7 @@ man_NN1
 what_DTQ
 do_VDB
 you_PNP
-feel_VVI
+feel_VVB
 about_PRP
 Jesus_NP0
 having_VHG
@@ -3733,7 +3733,7 @@ spheres_NN2
 which_DTQ
 should_VM0
 be_VBI
-closed_VVD
+closed_VVN
 to_TO0
 either_AV0
 men_NN2
@@ -3757,7 +3757,7 @@ and_CJC
 to_TO0
 go_VVI
 on_PRP
-listening_VVG-NN1
+listening_VVG
 to_TO0
 the_AT0
 Bible_NN1
@@ -3827,7 +3827,7 @@ must_VM0
 seek_VVI
 to_TO0
 change_NN1
-CHANGE_NN1-VVB
+CHANGE_NN1
 AND_CJC
 THE_AT0
 CHURCH_NN1
@@ -3966,7 +3966,7 @@ the_AT0
 Christian_AJ0
 faith_NN1
 can_VM0
-lie_VVI
+lie_VVB
 dormant_AJ0
 until_CJS
 the_AT0
@@ -4209,7 +4209,7 @@ PRIEST_NN1
 DO_VDB
 AT_PRP
 THE_AT0
-EUCHARIST_NN1-AJ0
+EUCHARIST_NN1
 Many_DT0
 Christians_NN2
 believe_VVB
@@ -4355,7 +4355,7 @@ nor_CJC
 any_DT0
 other_AJ0
 physical_AJ0
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 the_AT0
 individual_AJ0
@@ -4572,7 +4572,7 @@ by_PRP
 men_NN2
 We_PNP
 may_VM0
-notice_VVI
+notice_NN1
 that_CJT
 in_PRP
 the_AT0
@@ -4820,7 +4820,7 @@ PRIMATE_NN1
 OF_PRF
 CANADA_NP0
 4_CRD
-UNITY_NN1-NP0
+UNITY_NN1
 AND_CJC
 MISSION_NN1
 Unity_NN1
@@ -4933,7 +4933,7 @@ and_CJC
 brothers_NN2
 in_PRP
 Christ_NP0
-UNITY_NN1-NP0
+UNITY_NN1
 MEANS_VVZ
 THE_AT0
 HEALING_NN1
@@ -5027,7 +5027,7 @@ Christians_NN2
 of_PRF
 different_AJ0
 denominations_NN2
-feel_VVI
+feel_VVB
 much_DT0
 closer_AV0
 together_AV0
@@ -5093,7 +5093,7 @@ the_AT0
 fact_NN1
 that_CJT
 eight_CRD
-Anglican_AJ0-NN1
+Anglican_AJ0
 provinces_NN2
 already_AV0
 ordain_VVI
@@ -5109,12 +5109,12 @@ the_AT0
 policy_NN1
 of_PRF
 the_AT0
-Roman_AJ0-NN1
-Catholic_AJ0-NN1
+Roman_AJ0
+Catholic_AJ0
 Church_NN1
 is_VBZ
 at_PRP
-present_AJ0-NN1
+present_AJ0
 against_PRP
 the_AT0
 ordination_NN1
@@ -5152,7 +5152,7 @@ are_VBB
 not_XX0
 necessarily_AV0
 completely_AV0
-closed_VVD
+closed_VVN
 to_TO0
 the_AT0
 idea_NN1
@@ -5192,7 +5192,7 @@ of_PRF
 the_AT0
 One_CRD
 Holy_AJ0
-Catholic_AJ0-NN1
+Catholic_AJ0
 and_CJC
 Apostolic_AJ0
 Church_NN1
@@ -5224,7 +5224,7 @@ CAN_VM0
 WE_PNP
 WORK_NN1
 FOR_PRP
-CHANGE_NN1-VVB
+CHANGE_NN1
 A_AT0
 General_AJ0
 Council_NN1
@@ -5256,7 +5256,7 @@ the_AT0
 universal_AJ0
 Church_NN1
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 it_PNP
 believes_VVZ
@@ -5264,7 +5264,7 @@ the_AT0
 whole_AJ0
 Church_NN1
 should_VM0
-act_VVI
+act_NN1
 in_PRP
 obedience_NN1
 to_TO0
@@ -5281,7 +5281,7 @@ and_CJC
 the_AT0
 responsibility_NN1
 to_TO0
-act_VVI
+act_NN1
 according_VVG
 to_TO0
 its_DPS
@@ -5320,7 +5320,7 @@ of_PRF
 bishops_NN2
 of_PRF
 the_AT0
-Anglican_AJ0-NN1
+Anglican_AJ0
 Communion_NN1
 in_PRP
 the_AT0
@@ -5354,7 +5354,7 @@ as_CJS
 Christ_NP0
 's_POS
 followers_NN2
-UNITY_NN1-NP0
+UNITY_NN1
 WITHIN_PRP
 THE_AT0
 CHURCH_NN1
@@ -5391,7 +5391,7 @@ is_VBZ
 a_AT0
 minority_NN1
 who_PNQ
-feel_VVI
+feel_VVB
 that_CJT
 they_PNP
 could_VM0
@@ -5416,7 +5416,7 @@ few_DT0
 priests_NN2
 who_PNQ
 will_VM0
-feel_VVI
+feel_VVB
 that_CJT
 they_PNP
 must_VM0
@@ -5475,7 +5475,7 @@ consciences_NN2
 too_AV0
 they_PNP
 are_VBB
-hurt_VVI
+hurt_VVN
 by_PRP
 the_AT0
 slowness_NN1
@@ -5487,7 +5487,7 @@ England_NP0
 's_POS
 response_NN1
 and_CJC
-feel_VVI
+feel_VVB
 bound_VVN
 to_TO0
 follow_VVI
@@ -5513,7 +5513,7 @@ How_AVQ
 close_AJ0
 do_VDB
 you_PNP
-feel_VVI
+feel_VVB
 to_TO0
 Christians_NN2
 you_PNP
@@ -5544,11 +5544,11 @@ the_AT0
 Free_AJ0
 Churches_NN2
 With_PRP
-Roman_AJ0-NN1
+Roman_AJ0
 Catholics_NN2
 Members_NN2
 of_PRF
-Anglican_AJ0-NN1
+Anglican_AJ0
 Churches_NN2
 overseas_AJ0
 which_DTQ
@@ -5637,7 +5637,7 @@ running_VVG
 out_AVP
 A_AT0
 GOSPEL_NN1
-ISSUE_NN1-VVB
+ISSUE_NN1
 And_CJC
 now_AV0
 the_AT0
@@ -5738,7 +5738,7 @@ throughout_PRP
 the_AT0
 world_NN1
 The_AT0
-present_AJ0-NN1
+present_AJ0
 imbalance_NN1
 in_PRP
 the_AT0
@@ -6012,7 +6012,7 @@ information_NN1
 In_PRP
 a_AT0
 large_AJ0
-gathering_NN1
+gathering_VVG
 anything_PNI
 over_PRP
 fifteen_CRD
@@ -6090,7 +6090,7 @@ the_AT0
 groups_NN2
 are_VBB
 explored_VVN
-End_NP0
+End_NN1
 with_PRP
 a_AT0
 summing_VVG
@@ -6199,7 +6199,7 @@ point_NN1
 This_DT0
 both_AV0
 demands_NN2
-listening_VVG-NN1
+listening_VVG
 and_CJC
 gives_VVZ
 the_AT0
@@ -6358,7 +6358,7 @@ they_PNP
 have_VHB
 reached_VVD
 their_DPS
-present_AJ0-NN1
+present_AJ0
 view_NN1
 whether_CJS
 firm_NN1
@@ -6374,7 +6374,7 @@ of_PRF
 the_AT0
 issue_NN1
 they_PNP
-feel_VVI
+feel_VVB
 is_VBZ
 most_AV0
 important_AJ0
@@ -6503,7 +6503,7 @@ does_VDZ
 not_XX0
 stand_VVI
 or_CJC
-fall_VVI
+fall_NN1
 on_PRP
 that_CJT
 rather_AV0

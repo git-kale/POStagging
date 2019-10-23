@@ -66,7 +66,7 @@ because_CJS
 we_PNP
 're_VBB
 women_NN2
-TP_NP0-NN1
+TP_NN1
 I_PNP
 think_VVB
 one_CRD
@@ -280,7 +280,7 @@ political_AJ0
 issues_NN2
 and_CJC
 also_AV0
-involved_AJ0
+involved_VVN
 me_PNP
 emotionally_AV0
 whereas_CJS
@@ -402,7 +402,7 @@ n't_XX0
 actually_AV0
 touch_NN1
 people_NN0
-TP_NP0-NN1
+TP_NN1
 So_AV0
 actually_AV0
 the_AT0
@@ -484,7 +484,7 @@ they_PNP
 felt_VVD
 about_PRP
 the_AT0
-broadcast_VVN
+broadcast_NN1
 coverage_NN1
 they_PNP
 repeatedly_AV0
@@ -641,7 +641,7 @@ most_AV0
 of_PRF
 our_DPS
 experience_NN1
-TP_NP0-NN1
+TP_NN1
 I_PNP
 saw_VVD
 a_AT0
@@ -784,7 +784,7 @@ you_PNP
 might_VM0
 call_VVI
 the_AT0
-tabloid_AJ0-NN1
+tabloid_AJ0
 television_NN1
 of_PRF
 Top_NN1
@@ -939,7 +939,7 @@ who_PNQ
 goes_VVZ
 along_AVP
 and_CJC
-enthuses_VVZ-NN2
+enthuses_NN2
 about_PRP
 the_AT0
 dancers_NN2
@@ -980,7 +980,7 @@ which_DTQ
 predominantly_AV0
 male_AJ0
 DJs_NN2
-present_AJ0-NN1
+present_AJ0
 the_AT0
 programme_NN1
 women_NN2
@@ -1090,7 +1090,7 @@ views_NN2
 as_CJS
 a_AT0
 Scottish_AJ0
-Nationalist_NN1-AJ0
+Nationalist_NN1
 and_CJC
 as_CJS
 a_AT0
@@ -1113,7 +1113,7 @@ didactically_AV0
 on_PRP
 The_AT0
 Media_NN0
-Show_NN1-VVB
+Show_NN1
 I_PNP
 think_VVB
 it_PNP
@@ -1212,7 +1212,7 @@ Lawley_NP0
 has_VHZ
 had_VHD
 to_TO0
-tread_VVI
+tread_VVB
 a_AT0
 very_AV0
 careful_AJ0
@@ -1230,7 +1230,7 @@ woman_NN1
 and_CJC
 a_AT0
 professional_AJ0
-TP_NP0-NN1
+TP_NN1
 It_PNP
 's_POS
 perhaps_AV0
@@ -1255,7 +1255,7 @@ sort_NN1
 of_PRF
 father_NN1
 figures_NN2
-greying_VVG-AJ0
+greying_VVG
 at_PRP
 the_AT0
 temples_NN2
@@ -1366,7 +1366,7 @@ Black_AJ0
 male_AJ0
 presenter_NN1
 Hawkeye_NP0
-Cherry_NP0-NN1
+Cherry_NP0
 teamed_VVD
 up_AVP
 with_PRP
@@ -1377,7 +1377,7 @@ White_AJ0
 woman_NN1
 presenter_NN1
 Mariella_NP0
-Frostrup_NP0-NN1
+Frostrup_NP0
 so_AV0
 there_EX0
 was_VBD
@@ -1421,7 +1421,7 @@ it_PNP
 was_VBD
 still_AV0
 Mariella_NP0
-Frostrup_NP0-NN1
+Frostrup_NP0
 rather_AV0
 than_CJS
 the_AT0
@@ -1592,7 +1592,7 @@ a_AT0
 male_AJ0
 to_TO0
 female_AJ0
-transvestite_AJ0-NN1
+transvestite_NN1
 There_EX0
 was_VBD
 also_AV0
@@ -1603,8 +1603,8 @@ enormously_AV0
 fat_AJ0
 woman_NN1
 called_VVN
-Foo_NP0-NN1
-Foo_NP0-NN1
+Foo_NP0
+Foo_NP0
 who_PNQ
 unfortunately_AV0
 has_VHZ
@@ -1685,7 +1685,7 @@ new_AJ0
 format_NN1
 programmes_NN2
 like_PRP
-Def_NP0-NN1
+Def_NP0
 II_CRD
 All_DT0
 the_AT0
@@ -1696,7 +1696,7 @@ Street_NP0
 Porter_NP0
 has_VHZ
 been_VBN
-involved_AJ0
+involved_VVN
 in_PRP
 developing_VVG
 that_CJT
@@ -1735,7 +1735,7 @@ most_AV0
 successful_AJ0
 ones_NN2
 was_VBD
-Snub_VVB-NN1
+Snub_NN1
 the_AT0
 independent_AJ0
 music_NN1
@@ -1848,7 +1848,7 @@ that_CJT
 direction_NN1
 The_AT0
 Chart_NN1
-Show_NN1-VVB
+Show_NN1
 just_AV0
 has_VHZ
 a_AT0
@@ -2028,7 +2028,7 @@ perform_VVI
 that_CJT
 kind_NN1
 of_PRF
-mediating_AJ0-NN1
+mediating_AJ0
 role_NN1
 you_PNP
 're_VBB
@@ -2126,7 +2126,7 @@ audience_NN1
 are_VBB
 familiar_AJ0
 with_PRP
-TP_NP0-NN1
+TP_NN1
 It_PNP
 's_POS
 true_AJ0
@@ -2457,7 +2457,7 @@ are_VBB
 out_AVP
 there_EX0
 already_AV0
-TP_NP0-NN1
+TP_NN1
 Yes_ITJ
 I_PNP
 think_VVB
@@ -2837,7 +2837,7 @@ his_DPS
 And_CJC
 then_AV0
 really_AV0
-overdetermined_VVD-VVN
+overdetermined_VVN
 with_PRP
 Barry_NP0
 's_POS
@@ -2921,7 +2921,7 @@ in_PRP
 a_AT0
 sense_NN1
 the_AT0
-subconscious_AJ0-NN1
+subconscious_NN1
 of_PRF
 patriarchy_NN1
 where_AVQ
@@ -3013,10 +3013,10 @@ aggressive_AJ0
 And_CJC
 the_AT0
 issue_NN1
-spilled_VVD-VVN
+spilled_VVD
 into_PRP
 the_AT0
-tabloid_AJ0-NN1
+tabloid_AJ0
 press_NN1
 and_CJC
 the_AT0
@@ -3039,9 +3039,9 @@ quiet_AJ0
 and_CJC
 Terry_NP0
 's_POS
-hurt_VVI
+hurt_VVN
 pride_NN1
-TP_NP0-NN1
+TP_NN1
 I_PNP
 think_VVB
 though_CJS
@@ -3187,7 +3187,7 @@ has_VHZ
 made_VVN
 it_PNP
 problematic_AJ0
-TP_NP0-NN1
+TP_NN1
 I_PNP
 think_VVB
 that_CJT
@@ -3230,7 +3230,7 @@ me_PNP
 that_CJT
 it_PNP
 's_POS
-shifting_AJ0-VVG
+shifting_AJ0
 away_AV0
 from_PRP
 progressive_AJ0
@@ -3287,7 +3287,7 @@ which_DTQ
 is_VBZ
 about_PRP
 wife_NN1
-battering_VVG
+battering_NN1
 and_CJC
 makes_VVZ
 all_DT0
@@ -3397,7 +3397,7 @@ a_AT0
 documentary_NN1
 about_PRP
 wife_NN1
-battering_VVG
+battering_NN1
 I_PNP
 do_VDB
 n't_XX0
@@ -3409,7 +3409,7 @@ been_VBN
 done_VDN
 more_AV0
 successfully_AV0
-TP_NP0-NN1
+TP_NN1
 The_AT0
 Bill_NP0
 's_POS
@@ -3430,7 +3430,7 @@ that_CJT
 issue_NN1
 of_PRF
 wife_NN1
-battering_VVG
+battering_NN1
 which_DTQ
 can_VM0
 be_VBI
@@ -3639,7 +3639,7 @@ the_AT0
 context_NN1
 of_PRF
 a_AT0
-decaying_AJ0-VVG
+decaying_AJ0
 health_NN1
 service_NN1
 There_EX0
@@ -3691,7 +3691,7 @@ to_TO0
 live_VVI
 under_PRP
 Thatcherism_NN1
-TP_NP0-NN1
+TP_NN1
 Casualty_NN1
 had_VHD
 a_AT0
@@ -3739,7 +3739,7 @@ with_PRP
 problems_NN2
 created_VVN
 elsewhere_AV0
-TP_NP0-NN1
+TP_NN1
 But_CJC
 take_VVI
 something_PNI
@@ -3845,7 +3845,7 @@ of_PRF
 poverty_NN1
 or_CJC
 wife_NN1
-bashing_VVG-NN1
+bashing_NN1
 KJ_NP0
 I_PNP
 think_VVB
@@ -3886,7 +3886,7 @@ all_DT0
 on_PRP
 the_AT0
 very_AV0
-street-sussed_AJ0-NN1
+street-sussed_AJ0
 young_AJ0
 women_NN2
 who_PNQ
@@ -3999,7 +3999,7 @@ actually_AV0
 changed_VVN
 its_DPS
 focus_NN1
-TP_NP0-NN1
+TP_NN1
 I_PNP
 certainly_AV0
 find_VVI
@@ -4177,7 +4177,7 @@ workers_NN2
 often_AV0
 in_PRP
 very_AV0
-crummy_AJ0-NN1
+crummy_AJ0
 circumstances_NN2
 but_CJC
 actually_AV0
@@ -4199,7 +4199,7 @@ endlessly_AV0
 about_PRP
 men_NN2
 and_CJC
-wanting_VVG-AJ0
+wanting_VVG
 men_NN2
 But_CJC
 at_PRP
@@ -4243,7 +4243,7 @@ being_VBG
 together_AV0
 as_CJS
 women_NN2
-TP_NP0-NN1
+TP_NN1
 What_DTQ
 I_PNP
 like_PRP
@@ -4306,7 +4306,7 @@ of_PRF
 strong_AJ0
 women_NN2
 like_PRP
-Bet_VVB-NN1
+Bet_NN1
 Rita_NP0
 and_CJC
 Deirdre_NP0
@@ -4349,7 +4349,7 @@ that_CJT
 excess_NN1
 is_VBZ
 appearing_VVG
-TP_NP0-NN1
+TP_NN1
 Yes_ITJ
 because_CJS
 actually_AV0
@@ -4375,7 +4375,7 @@ Pat_NP0
 in_PRP
 EastEnders_NN2
 and_CJC
-Bet_VVB-NN1
+Bet_NN1
 in_PRP
 Coronation_NP0
 Street_NP0
@@ -4409,9 +4409,9 @@ been_VBN
 through_PRP
 the_AT0
 terrible_AJ0
-chastening_AJ0-NN1
+chastening_AJ0
 and_CJC
-disempowering_VVG-AJ0
+disempowering_AJ0
 experience_NN1
 of_PRF
 a_AT0
@@ -4445,10 +4445,10 @@ out_AVP
 as_CJS
 it_PNP
 were_VBD
-Independent_AJ0
+Independent_NN1
 Women_NN2
 VICKY_NP0
-GRUT_NP0-NN1
+GRUT_NN1
 IN_PRP
 1989_CRD
 I_PNP
@@ -4471,7 +4471,7 @@ longer_AV0
 work_NN1
 in_PRP
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 sector_NN1
 and_CJC
 a_AT0
@@ -4491,7 +4491,7 @@ on_PRP
 to_TO0
 work_NN1
 in_PRP
-broadcast_VVN
+broadcast_NN1
 or_CJC
 cable_NN1
 television_NN1
@@ -4509,7 +4509,7 @@ nothing_PNI
 remarkable_AJ0
 about_PRP
 this_DT0
-shift_NN1-VVB
+shift_NN1
 from_PRP
 fringe_NN1
 to_TO0
@@ -4523,7 +4523,7 @@ that_CJT
 few_DT0
 of_PRF
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 organisations_NN2
 that_CJT
 we_PNP
@@ -4555,7 +4555,7 @@ lost_VVN
 their_DPS
 funding_NN1
 and_CJC
-closed_VVD
+closed_VVN
 their_DPS
 doors_NN2
 in_PRP
@@ -4594,7 +4594,7 @@ working_VVG
 lives_NN2
 in_PRP
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 film_NN1
 and_CJC
 video_NN1
@@ -4702,10 +4702,10 @@ video_NN1
 In_PRP
 1979_CRD
 Rod_NN1
-Stoneman_NN1-NP0
+Stoneman_NN1
 now_AV0
 a_AT0
-commissioning_VVG
+commissioning_NN1
 editor_NN1
 for_PRP
 Channel_NN1
@@ -4714,7 +4714,7 @@ could_VM0
 argue_VVI
 confidently_AV0
 for_PRP
-increased_AJ0
+increased_VVN
 subsidy_NN1
 for_PRP
 alternative_AJ0
@@ -4849,7 +4849,7 @@ pamphlet_NN1
 Jeremy_NP0
 Isaacs_NP0
 then_AV0
-Chief_NP0
+Chief_NN1
 Executive_NN1
 of_PRF
 Channel_NN1
@@ -5060,7 +5060,7 @@ eighties_CRD
 community_NN1
 access_NN1
 workshops_NN2
-burgeoned_VVD-VVN
+burgeoned_VVN
 and_CJC
 local_AJ0
 authorities_NN2
@@ -5334,7 +5334,7 @@ left_VVN
 With_PRP
 deregulation_NN1
 the_AT0
-broadcast_VVN
+broadcast_NN1
 industry_NN1
 faces_NN2
 pressure_NN1
@@ -5369,7 +5369,7 @@ enter_VVI
 the_AT0
 ratings_NN2
 war_NN1
-competing_VVG-AJ0
+competing_AJ0
 with_PRP
 an_AT0
 increasing_AJ0
@@ -5411,7 +5411,7 @@ Spry_NP0
 the_AT0
 Channel_NN1
 4_CRD
-commissioning_VVG
+commissioning_NN1
 editor_NN1
 responsible_AJ0
 for_PRP
@@ -5541,7 +5541,7 @@ women_NN2
 movement_NN1
 She_PNP
 was_VBD
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 London_NP0
@@ -5639,7 +5639,7 @@ the_AT0
 transition_NN1
 from_PRP
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 sector_NN1
 to_TO0
 the_AT0
@@ -5682,7 +5682,7 @@ a_AT0
 relationship_NN1
 between_PRP
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 sector_NN1
 and_CJC
 the_AT0
@@ -5735,7 +5735,7 @@ that_CJT
 people_NN0
 from_PRP
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 sector_NN1
 bring_VVI
 useful_AJ0
@@ -5757,7 +5757,7 @@ Neylin_NP0
 was_VBD
 organising_VVG
 subsidised_VVN
-script-writing_AJ0-NN1
+script-writing_NN1
 courses_NN2
 and_CJC
 development_NN1
@@ -5766,7 +5766,7 @@ for_PRP
 women_NN2
 through_PRP
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 Aphra_NP0
 Workshops_NN2
 Now_AV0
@@ -5965,7 +5965,7 @@ the_AT0
 transition_NN1
 from_PRP
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 sector_NN1
 is_VBZ
 a_AT0
@@ -6067,7 +6067,7 @@ the_AT0
 director_NN1
 of_PRF
 a_AT0
-broadcast_VVN
+broadcast_NN1
 production_NN1
 Before_PRP
 the_AT0
@@ -6086,8 +6086,8 @@ would_VM0
 change_NN1
 the_AT0
 world_NN1
-Siobhan_NP0-NN1
-Cleary_NP0-NN1
+Siobhan_NP0
+Cleary_NP0
 is_VBZ
 a_AT0
 member_NN1
@@ -6102,7 +6102,7 @@ recently_AV0
 completed_VVN
 their_DPS
 first_ORD
-broadcast_VVN
+broadcast_NN1
 commission_NN1
 Battle_NN1
 of_PRF
@@ -6122,7 +6122,7 @@ was_VBD
 made_VVN
 collectively_AV0
 and_CJC
-Siobhan_NP0-NN1
+Siobhan_NP0
 still_AV0
 sees_VVZ
 herself_PNX
@@ -6147,7 +6147,7 @@ is_VBZ
 critical_AJ0
 of_PRF
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 sector_NN1
 but_CJC
 despite_PRP
@@ -6210,7 +6210,7 @@ be_VBI
 part_NN1
 of_PRF
 the_AT0
-editorial_AJ0-NN1
+editorial_NN1
 and_CJC
 creative_AJ0
 process_NN1
@@ -6235,7 +6235,7 @@ trying_VVG
 to_TO0
 achieve_VVI
 them_PNP
-Siobhan_NP0-NN1
+Siobhan_NP0
 resents_VVZ
 the_AT0
 fact_NN1
@@ -6487,7 +6487,7 @@ overt_AJ0
 sexism_NN1
 something_PNI
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 sector_NN1
 does_VDZ
 n't_XX0
@@ -6512,7 +6512,7 @@ You_PNP
 ca_VM0
 n't_XX0
 keep_VVI
-challenging_VVG-AJ0
+challenging_VVG
 it_PNP
 all_DT0
 the_AT0
@@ -6522,7 +6522,7 @@ otherwise_AV0
 they_PNP
 just_AV0
 stop_VVI
-listening_VVG-NN1
+listening_VVG
 to_TO0
 you_PNP
 You_PNP
@@ -6544,12 +6544,12 @@ remain_VVI
 exclusively_AV0
 in_PRP
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 sector_NN1
 and_CJC
 who_PNQ
 are_VBB
-struggling_VVG-AJ0
+struggling_VVG
 to_TO0
 maintain_VVI
 that_CJT
@@ -6563,7 +6563,7 @@ other_AJ0
 women_NN2
 They_PNP
 run_VVI
-Cinestra_NN1-NP0
+Cinestra_NN1
 Pictures_NN2
 the_AT0
 only_AV0
@@ -6575,7 +6575,7 @@ co-op_NN1
 left_VVN
 in_PRP
 London_NP0
-Cinestra_NN1-NP0
+Cinestra_NN1
 offers_VVZ
 a_AT0
 regular_AJ0
@@ -6672,7 +6672,7 @@ from_PRP
 those_DT0
 groups_NN2
 and_CJC
-feel_VVI
+feel_VVB
 we_PNP
 should_VM0
 have_VHB
@@ -6702,7 +6702,7 @@ determined_VVN
 that_CJT
 whatever_DTQ
 happens_VVZ
-Cinestra_NN1-NP0
+Cinestra_NN1
 will_VM0
 continue_VVI
 in_PRP
@@ -6748,7 +6748,7 @@ video_NN1
 are_VBB
 now_AV0
 available_AJ0
-Cinestra_NN1-NP0
+Cinestra_NN1
 is_VBZ
 currently_AV0
 collaborating_VVG
@@ -6803,7 +6803,7 @@ her_DPS
 experience_NN1
 in_PRP
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 sector_NN1
 Karen_NP0
 Hamilton_NP0
@@ -6840,7 +6840,7 @@ the_AT0
 collapse_NN1
 of_PRF
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 sector_NN1
 because_CJS
 other_AJ0
@@ -6877,7 +6877,7 @@ and_CJC
 experimentation_NN1
 that_CJT
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 sector_NN1
 encourages_VVZ
 but_CJC
@@ -6899,7 +6899,7 @@ their_DPS
 work_NN1
 in_PRP
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 sector_NN1
 but_CJC
 at_PRP
@@ -6923,7 +6923,7 @@ important_AJ0
 things_NN2
 that_CJT
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 sector_NN1
 offered_VVN
 were_VBD
@@ -6942,9 +6942,9 @@ The_AT0
 sums_NN2
 of_PRF
 money_NN1
-involved_AJ0
+involved_VVN
 in_PRP
-broadcast_VVN
+broadcast_NN1
 television_NN1
 will_VM0
 always_AV0
@@ -6983,8 +6983,8 @@ funded_VVN
 in_PRP
 the_AT0
 future_NN1
-Siobhan_NP0-NN1
-Cleary_NP0-NN1
+Siobhan_NP0
+Cleary_NP0
 agrees_VVZ
 There_EX0
 is_VBZ
@@ -7063,7 +7063,7 @@ continue_VVI
 to_TO0
 exist_VVI
 I_PNP
-feel_VVI
+feel_VVB
 a_AT0
 little_AJ0
 less_AV0
@@ -7073,7 +7073,7 @@ all_DT0
 its_DPS
 failings_NN2
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 sector_NN1
 represented_VVN
 a_AT0
@@ -7103,7 +7103,7 @@ put_VVI
 it_PNP
 In_PRP
 the_AT0
-grant-aided_AJ0-NN1
+grant-aided_AJ0
 sector_NN1
 we_PNP
 used_VVN
@@ -7173,7 +7173,7 @@ are_VBB
 less_AV0
 confident_AJ0
 or_CJC
-advantaged_VVN-AJ0
+advantaged_VVN
 to_TO0
 begin_VVI
 with_PRP
@@ -7354,7 +7354,7 @@ in_PRP
 any_DT0
 simple_AJ0
 sense_NN1
-appropriating_VVG-NN1
+appropriating_VVG
 gender_NN1
 roles_NN2
 from_PRP
@@ -7413,7 +7413,7 @@ Jackie_NP0
 An_AT0
 Ideology_NN1
 of_PRF
-Adolescent_AJ0-NN1
+Adolescent_AJ0
 Femininity_NN1
 used_VVN
 textual_AJ0
@@ -7499,7 +7499,7 @@ exception_NN1
 of_PRF
 a_AT0
 few_DT0
-up-front_AJ0-AV0
+up-front_AV0
 intellectuals_NN2
 are_VBB
 either_AV0
@@ -7538,7 +7538,7 @@ say_VVI
 about_PRP
 their_DPS
 reading_NN1
-Frazer_NP0-NN1
+Frazer_NN1
 1987_CRD
 or_CJC
 by_PRP
@@ -7597,7 +7597,7 @@ to_TO0
 answer_NN1
 back_AVP
 This_DT0
-shift_NN1-VVB
+shift_NN1
 in_PRP
 emphasis_NN1
 to_TO0
@@ -7648,7 +7648,7 @@ Hobson_NP0
 1982_CRD
 Ang_NP0
 1985_CRD
-Radway_NP0-NN1
+Radway_NP0
 1984_CRD
 Brunsdon_NP0
 1986_CRD
@@ -7724,7 +7724,7 @@ audience_NN1
 Reading_NP0
 and_CJC
 Politics_NN1
-Paying_VVG-AJ0
+Paying_VVG
 attention_NN1
 to_TO0
 real_AJ0
@@ -7797,7 +7797,7 @@ been_VBN
 gained_VVN
 Palmer_NP0
 1986_CRD
-Radway_NP0-NN1
+Radway_NP0
 1984_CRD
 But_CJC
 at_PRP
@@ -7827,7 +7827,7 @@ as_CJS
 they_PNP
 read_VVI
 Janice_NP0
-Radway_NP0-NN1
+Radway_NP0
 's_POS
 Reading_NP0
 the_AT0
@@ -7848,7 +7848,7 @@ At_PRP
 the_AT0
 back_AVP
 of_PRF
-Radway_NP0-NN1
+Radway_NP0
 's_POS
 enquiry_NN1
 into_PRP
@@ -7880,7 +7880,7 @@ move_VVI
 Yet_AV0
 the_AT0
 women_NN2
-Radway_NP0-NN1
+Radway_NP0
 interviews_NN2
 are_VBB
 not_XX0
@@ -7891,7 +7891,7 @@ this_DT0
 question_NN1
 The_AT0
 questions_NN2
-Radway_NP0-NN1
+Radway_NP0
 asks_VVZ
 about_PRP
 the_AT0
@@ -7995,7 +7995,7 @@ about_PRP
 their_DPS
 reading_NN1
 and_CJC
-extrapolates_VVZ-NN2
+extrapolates_VVZ
 from_PRP
 that_CJT
 to_TO0
@@ -8175,7 +8175,7 @@ readers_NN2
 has_VHZ
 long_AJ0
 since_CJS
-crumbled_VVD-VVN
+crumbled_VVN
 in_PRP
 the_AT0
 face_NN1
@@ -8212,7 +8212,7 @@ of_PRF
 a_AT0
 single_AJ0
 message_NN1
-Fiske_VVB-NN1
+Fiske_NP0
 1987_CRD
 p._NN0
 67_CRD
@@ -8244,7 +8244,7 @@ and_CJC
 audience_NN1
 In_PRP
 the_AT0
-reader-response_AJ0-NN1
+reader-response_NN1
 tradition_NN1
 this_DT0
 space_NN1
@@ -8474,7 +8474,7 @@ them_PNP
 to_TO0
 choose_VVI
 their_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 character_NN1
 or_CJC
 person_NN1
@@ -8712,7 +8712,7 @@ head_NN1
 and_CJC
 shoulders_NN2
 in_PRP
-close-up_NN1-AJ0
+close-up_NN1
 He_PNP
 is_VBZ
 apparently_AV0
@@ -8734,7 +8734,7 @@ are_VBB
 waves_NN2
 He_PNP
 is_VBZ
-grinning_VVG-AJ0
+grinning_VVG
 straight_AV0
 at_PRP
 the_AT0
@@ -8770,7 +8770,7 @@ it_PNP
 too_AV0
 is_VBZ
 a_AT0
-close-up_NN1-AJ0
+close-up_NN1
 showing_VVG
 only_AV0
 head_NN1
@@ -8819,7 +8819,7 @@ organised_VVN
 the_AT0
 pose_VVI
 in_PRP
-close-up_NN1-AJ0
+close-up_NN1
 the_AT0
 look_VVI
 directly_AV0
@@ -8887,7 +8887,7 @@ these_DT0
 two_CRD
 images_NN2
 as_CJS
-hunks_VVZ-NN2
+hunks_NN2
 To_TO0
 be_VBI
 labelled_VVN
@@ -8905,7 +8905,7 @@ girls_NN2
 can_VM0
 talk_VVI
 about_PRP
-laugh_VVI
+laugh_NN1
 at_PRP
 and_CJC
 giggle_VVI
@@ -8959,7 +8959,7 @@ answer_NN1
 becomes_VVZ
 obvious_AJ0
 in_PRP
-listening_VVG-NN1
+listening_VVG
 to_TO0
 the_AT0
 tape_NN1
@@ -8980,7 +8980,7 @@ to_TO0
 her_DPS
 own_DT0
 questions_NN2
-Ashwina_NP0-NN1
+Ashwina_NP0
 Do_VDB
 you_PNP
 like_PRP
@@ -9022,7 +9022,7 @@ He_PNP
 got_VVN
 big_AJ0
 shoulders_NN2
-Ashwina_NP0-NN1
+Ashwina_NP0
 demonstrates_VVZ
 a_AT0
 sloping_AJ0
@@ -9070,7 +9070,7 @@ it_PNP
 dissects_VVZ
 Together_AV0
 they_PNP
-laugh_VVI
+laugh_NN1
 at_PRP
 and_CJC
 take_VVI
@@ -9223,7 +9223,7 @@ of_PRF
 masculinity_NN1
 it_PNP
 is_VBZ
-mediated_VVN
+mediated_VVD
 by_PRP
 the_AT0
 position_NN1
@@ -9326,7 +9326,7 @@ following_AJ0
 comments_NN2
 made_VVN
 by_PRP
-Ashwina_NP0-NN1
+Ashwina_NP0
 in_PRP
 reply_NN1
 to_TO0
@@ -9343,7 +9343,7 @@ she_PNP
 liked_VVD
 on_PRP
 television_NN1
-Ashwina_NP0-NN1
+Ashwina_NP0
 chose_VVD
 Jamie_NP0
 a_AT0
@@ -9420,7 +9420,7 @@ He_PNP
 cute_AJ0
 and_CJC
 podgy_AJ0
-Ashwina_NP0-NN1
+Ashwina_NP0
 's_POS
 brother_NN1
 is_VBZ
@@ -9443,7 +9443,7 @@ In_PRP
 recounting_VVG
 the_AT0
 anecdote_NN1
-Ashwina_NP0-NN1
+Ashwina_NP0
 can_VM0
 claim_NN1
 to_TO0
@@ -9660,7 +9660,7 @@ as_CJS
 knowledgeable_AJ0
 rather_AV0
 than_CJS
-involved_AJ0
+involved_VVN
 as_CJS
 experts_NN2
 who_PNQ
@@ -9668,7 +9668,7 @@ can_VM0
 impart_VVI
 information_NN1
 Leon_NP0
-Baldrick_NN1-VVB
+Baldrick_VVB
 's_POS
 very_AV0
 funny_AJ0
@@ -9690,7 +9690,7 @@ Robinson_NP0
 he_PNP
 's_POS
 in_PRP
-Blackadder_NP0-NN1
+Blackadder_NP0
 and_CJC
 he_PNP
 's_POS
@@ -9724,7 +9724,7 @@ a_AT0
 character_NN1
 profile_NN1
 He_PNP
-marshals_NN2-VVZ
+marshals_VVZ
 the_AT0
 facts_NN2
 and_CJC
@@ -9914,7 +9914,7 @@ two_CRD
 metres_NN2
 Philip_NP0
 's_POS
-dead-pan_AJ0-NN1
+dead-pan_AJ0
 comments_NN2
 refer_VVI
 to_TO0
@@ -10108,7 +10108,7 @@ my_DPS
 mum_NN1
 starts_VVZ
 to_TO0
-cry_VVI
+cry_NN1
 and_CJC
 you_PNP
 say_VVI
@@ -10125,8 +10125,8 @@ happy_AJ0
 and_CJC
 she_PNP
 goes_VVZ
-Weaarrh_NN1-NP0
-Thick_AJ0-AV0
+Weaarrh_NP0
+Thick_AJ0
 The_AT0
 ironic_AJ0
 male_AJ0
@@ -10196,7 +10196,7 @@ I_PNP
 seen_VVN
 him_PNP
 in_PRP
-Knightrider_NP0-NN1
+Knightrider_NP0
 Gemma_NP0
 Which_DTQ
 do_VDB
@@ -10233,7 +10233,7 @@ are_VBB
 most_AV0
 likely_AJ0
 to_TO0
-drop_VVI
+drop_NN1
 this_DT0
 stance_NN1
 is_VBZ
@@ -10254,7 +10254,7 @@ this_DT0
 group_NN1
 is_VBZ
 with_PRP
-Dot_NP0-NN1
+Dot_NP0
 Cotton_NP0
 Edward_NP0
 She_PNP
@@ -10280,7 +10280,7 @@ she_PNP
 's_POS
 going_VVG
 to_TO0
-fall_VVI
+fall_NN1
 in_PRP
 the_AT0
 laundry_NN1
@@ -10299,7 +10299,7 @@ over_PRP
 or_CJC
 something_PNI
 Offering_VVG
-exaggerated_AJ0
+exaggerated_VVN
 disapproval_NN1
 of_PRF
 a_AT0
@@ -10322,7 +10322,7 @@ boys_NN2
 behave_VVI
 Certainly_AV0
 my_DPS
-initial_AJ0-NN1
+initial_AJ0
 impression_NN1
 was_VBD
 that_CJT
@@ -10418,7 +10418,7 @@ reading_NN1
 the_AT0
 image_NN1
 are_VBB
-cast_VVN
+cast_NN1
 differently_AV0
 for_PRP
 them_PNP
@@ -10443,7 +10443,7 @@ they_PNP
 represented_VVN
 themselves_PNX
 as_CJS
-involved_AJ0
+involved_VVN
 readers_NN2
 No_ITJ
 such_DT0
@@ -10670,10 +10670,10 @@ the_AT0
 Top_NN1
 in_PRP
 Television_NN1
-INTERVIEW_NN1-VVB
+INTERVIEW_VVB
 WITH_PRP
 NAOMI_NP0
-SARGANT_NP0-NN1
+SARGANT_NN1
 Naomi_NP0
 Sargant_NP0
 who_PNQ
@@ -10757,7 +10757,7 @@ relevantly_AV0
 working_VVG
 under_PRP
 Richard_NP0
-Hoggart_NP0-NN1
+Hoggart_NP0
 who_PNQ
 was_VBD
 chairing_VVG
@@ -10765,9 +10765,9 @@ the_AT0
 Advisory_AJ0
 Council_NN1
 for_PRP
-Adult_NN1-AJ0
+Adult_NN1
 and_CJC
-Continuing_VVG-AJ0
+Continuing_VVG
 Education_NN1
 which_DTQ
 had_VHD
@@ -11006,7 +11006,7 @@ of_PRF
 his_DPS
 three_CRD
 senior_AJ0
-editorial_AJ0-NN1
+editorial_NN1
 jobs_NN2
 the_AT0
 first_ORD
@@ -11725,7 +11725,7 @@ wonderful_AJ0
 success_NN1
 Do_VDB
 you_PNP
-feel_VVI
+feel_VVB
 that_CJT
 it_PNP
 was_VBD
@@ -11762,7 +11762,7 @@ in_PRP
 the_AT0
 next_ORD
 summer_NN1
-Janis_NP0-NN1
+Janis_NP0
 Robinson_NP0
 and_CJC
 The_AT0
@@ -11869,7 +11869,7 @@ does_VDZ
 there_EX0
 's_POS
 this_DT0
-knee-jerk_AJ0-NN1
+knee-jerk_NN1
 reaction_NN1
 that_CJT
 education_NN1
@@ -12042,7 +12042,7 @@ these_DT0
 first_ORD
 three_CRD
 senior_AJ0
-commissioning_VVG
+commissioning_NN1
 editor_NN1
 appointments_NN2
 effectively_AV0
@@ -12111,7 +12111,7 @@ Programme_NN1
 Manager_NN1
 another_DT0
 woman_NN1
-commissioning_VVG
+commissioning_NN1
 editor_NN1
 Sue_NP0
 Woodford_NP0
@@ -12278,7 +12278,7 @@ without_PRP
 being_VBG
 made_VVN
 to_TO0
-feel_VVI
+feel_VVB
 that_CJT
 you_PNP
 were_VBD
@@ -12361,7 +12361,7 @@ to_TO0
 want_VVB
 to_TO0
 master/_VVI
-mistressmind_NN1-VVB
+mistressmind_NN1
 productions_NN2
 themselves_PNX
 as_CJS
@@ -12440,7 +12440,7 @@ mentally-handicapped_AJ0
 child_NN1
 wrote_VVD
 in_PRP
-wanting_VVG-AJ0
+wanting_VVG
 to_TO0
 do_VDB
 something_PNI
@@ -12504,7 +12504,7 @@ done_VDN
 with_PRP
 Professor_NP0
 Chris_NP0
-Kiernan_NP0-NN1
+Kiernan_NP0
 with_PRP
 a_AT0
 special_AJ0
@@ -12768,7 +12768,7 @@ level_NN1
 of_PRF
 interaction_NN1
 and_CJC
-intellectual_AJ0-NN1
+intellectual_AJ0
 interchange_VVI
 than_CJS
 she_PNP
@@ -12798,7 +12798,7 @@ stage_NN1
 have_VHB
 had_VHD
 a_AT0
-generalist_NN1-AJ0
+generalist_NN1
 the_AT0
 standard_NN1
 habit_NN1
@@ -12814,7 +12814,7 @@ they_PNP
 would_VM0
 have_VHB
 a_AT0
-generalist_NN1-AJ0
+generalist_NN1
 producer_NN1
 researcher_NN1
 or_CJC
@@ -12838,7 +12838,7 @@ on_PRP
 archaeology_NN1
 last_ORD
 time_NN1
-flower-arranging_AJ0-NN1
+flower-arranging_AJ0
 next_ORD
 time_NN1
 what_DTQ
@@ -12858,16 +12858,16 @@ level_NN1
 of_PRF
 understanding_NN1
 a_AT0
-pooled_AJ0-VVD
+pooled_AJ0
 regression_NN1
 to_TO0
 the_AT0
 mean_VVI
 of_PRF
-intellectual_AJ0-NN1
+intellectual_AJ0
 safeness_NN1
 The_AT0
-Janis_NP0-NN1
+Janis_NP0
 Robinson_NP0
 programme_NN1
 is_VBZ
@@ -12875,7 +12875,7 @@ an_AT0
 exactly_AV0
 similar_AJ0
 example_NN1
-Janis_NP0-NN1
+Janis_NP0
 knew_VVD
 everything_PNI
 about_PRP
@@ -13033,10 +13033,10 @@ a_AT0
 kind_NN1
 of_PRF
 real_AJ0
-intellectual_AJ0-NN1
+intellectual_AJ0
 respect_NN1
 for_PRP
-intellectual_AJ0-NN1
+intellectual_AJ0
 content_NN1
 and_CJC
 expertise_NN1
@@ -13289,7 +13289,7 @@ for_PRP
 Charlotte_NP0
 Rheade_NP0
 Clarice_NP0
-Cliff_NP0-NN1
+Cliff_NP0
 and_CJC
 Susie_NP0
 Cooper_NP0
@@ -13525,7 +13525,7 @@ try_VVI
 to_TO0
 get_VVI
 women_NN2
-involved_AJ0
+involved_VVN
 so_AV0
 I_PNP
 had_VHD
@@ -13543,7 +13543,7 @@ Hawkins_NP0
 I_PNP
 have_VHB
 mentioned_VVN
-Janis_NP0-NN1
+Janis_NP0
 and_CJC
 some_DT0
 of_PRF
@@ -13617,7 +13617,7 @@ women_NN2
 What_DTQ
 do_VDB
 you_PNP
-feel_VVI
+feel_VVB
 about_PRP
 that_CJT
 Well_AV0
@@ -14211,7 +14211,7 @@ breakdown_NN1
 of_PRF
 the_AT0
 big_AJ0
-integrated_AJ0
+integrated_VVN
 production_NN1
 monopolies_NN2
 of_PRF
@@ -14590,7 +14590,7 @@ in_PRP
 their_DPS
 careers_NN2
 by_PRP
-stints_NN2-VVZ
+stints_NN2
 of_PRF
 time_NN1
 at_PRP
@@ -14605,7 +14605,7 @@ BBC_NP0
 did_VDD
 Right_AV0
 to_TO0
-Reply_VVB-NN1
+Reply_NN1
 at_PRP
 Channel_NN1
 4_CRD
@@ -14686,7 +14686,7 @@ a_AT0
 great_AJ0
 area_NN1
 of_PRF
-editorial_AJ0-NN1
+editorial_NN1
 heads_NN2
 or_CJC
 heads_NN2
@@ -14696,7 +14696,7 @@ the_AT0
 equivalents_NN2
 of_PRF
 the_AT0
-commissioning_VVG
+commissioning_NN1
 editors_NN2
 the_AT0
 executive_NN1
@@ -14776,7 +14776,7 @@ of_PRF
 Programmes_NN2
 and_CJC
 Andrea_NP0
-Wonfor_NP0-NN1
+Wonfor_NN1
 as_CJS
 Controller_NN1
 Arts_NN2
@@ -15423,7 +15423,7 @@ two_CRD
 discourses_NN2
 that_CJT
 of_PRF
-race'_AJ0-NN1
+race'_NN1
 and_CJC
 that_CJT
 of_PRF
@@ -15491,7 +15491,7 @@ the_AT0
 features_NN2
 which_DTQ
 I_PNP
-feel_VVI
+feel_VVB
 are_VBB
 pertinent_AJ0
 to_TO0
@@ -15604,7 +15604,7 @@ the_AT0
 way_NN1
 race_NN1
 became_VVD
-politicised_AJ0-VVN
+politicised_AJ0
 In_PRP
 1951_CRD
 there_EX0
@@ -15689,7 +15689,7 @@ became_VVD
 established_VVN
 as_CJS
 a_AT0
-sensationalist_NN1-AJ0
+sensationalist_AJ0
 issue_NN1
 in_PRP
 print_NN1
@@ -15742,7 +15742,7 @@ the_AT0
 claims_NN2
 of_PRF
 the_AT0
-anti-immigration_AJ0-NN1
+anti-immigration_AJ0
 lobby_NN1
 Opinion_NN1
 was_VBD
@@ -15767,7 +15767,7 @@ of_PRF
 law_NN1
 in_PRP
 Britain_NP0
-Local_NN1-AJ0
+Local_AJ0
 and_CJC
 national_AJ0
 press_NN1
@@ -15843,7 +15843,7 @@ alleged_AJ0
 hypersexuality_NN1
 hyperfertility_NN1
 and_CJC
-aberrant_AJ0-NN1
+aberrant_AJ0
 familial_AJ0
 structures_NN2
 Such_DT0
@@ -15940,7 +15940,7 @@ families_NN2
 in_PRP
 Britain_NP0
 This_DT0
-increased_AJ0
+increased_VVN
 Black_AJ0
 presence_NN1
 precipitated_VVN
@@ -15948,7 +15948,7 @@ a_AT0
 fierce_AJ0
 political_AJ0
 debate_NN1
-Pressure_NN1-VVB
+Pressure_NN1
 groups_NN2
 political_AJ0
 organisations_NN2
@@ -16330,7 +16330,7 @@ on_PRP
 questions_NN2
 of_PRF
 the_AT0
-intellectual_AJ0-NN1
+intellectual_AJ0
 capabilities_NN2
 and_CJC
 importantly_AV0
@@ -16428,7 +16428,7 @@ skin_NN1
 This_DT0
 imagery_NN1
 was_VBD
-perpetuated_VVN-VVD
+perpetuated_VVN
 by_PRP
 the_AT0
 work_NN1
@@ -16502,7 +16502,7 @@ British_AJ0
 society_NN1
 was_VBD
 strongly_AV0
-allied_AJ0
+allied_VVN
 to_TO0
 fears_NN2
 of_PRF
@@ -16630,7 +16630,7 @@ to_TO0
 another_DT0
 with_PRP
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 stability_NN1
 disrupted_VVN
 by_PRP
@@ -16677,7 +16677,7 @@ viewed_VVN
 as_CJS
 a_AT0
 disruptive_AJ0
-damaging_VVG-AJ0
+damaging_AJ0
 force_NN1
 disturbing_AJ0
 the_AT0
@@ -16757,7 +16757,7 @@ of_PRF
 race_NN1
 and_CJC
 sex_NN1
-Fears_NN2-VVZ
+Fears_NN2
 about_PRP
 the_AT0
 conjunction_NN1
@@ -16812,7 +16812,7 @@ significant_AJ0
 roles_NN2
 such_DT0
 as_CJS
-Sapphire_NP0-NN1
+Sapphire_NN1
 Basil_NP0
 Dearden_NP0
 1959_CRD
@@ -16888,7 +16888,7 @@ politics_NN1
 external_AJ0
 to_TO0
 the_AT0
-closed_VVD
+closed_VVN
 internal_AJ0
 world_NN1
 created_VVN
@@ -16944,7 +16944,7 @@ is_VBZ
 a_AT0
 pre-given_AJ0
 reality_NN1
-Sapphire_NP0-NN1
+Sapphire_NN1
 is_VBZ
 murdered_VVN
 after_PRP
@@ -17008,7 +17008,7 @@ White_AJ0
 fianc\xc3\xa8e_NN1
 's_POS
 father_NN1
-Jacko_NP0-NN1
+Jacko_NP0
 but_CJC
 then_AV0
 the_AT0
@@ -17043,7 +17043,7 @@ the_AT0
 liberal_AJ0
 intelligentsia_NN1
 in_PRP
-grappling_VVG-AJ0
+grappling_AJ0
 with_PRP
 the_AT0
 immigration_NN1
@@ -17084,7 +17084,7 @@ Rich_NP0
 1956_CRD
 p._NN0
 189_CRD
-Fears_NN2-VVZ
+Fears_NN2
 about_PRP
 Black_AJ0
 immigration_NN1
@@ -17098,7 +17098,7 @@ of_PRF
 Britain_NP0
 's_POS
 youth_NN1
-converged_VVN-VVD
+converged_VVN
 around_PRP
 sexuality_NN1
 The_AT0
@@ -17159,7 +17159,7 @@ liberal_AJ0
 contradictory_AJ0
 impulses_NN2
 to_TO0
-act_VVI
+act_NN1
 with_PRP
 tolerance_NN1
 towards_PRP
@@ -17179,7 +17179,7 @@ manifest_AJ0
 themselves_PNX
 in_PRP
 both_AV0
-Sapphire_NP0-NN1
+Sapphire_NN1
 and_CJC
 Flame_NN1
 in_PRP
@@ -17188,7 +17188,7 @@ Street_NP0
 It_PNP
 is_VBZ
 the_AT0
-Teddy-boy_AJ0-NN1
+Teddy-boy_NN1
 types_NN2
 young_AJ0
 men_NN2
@@ -17305,7 +17305,7 @@ they_PNP
 both_AV0
 teach_VVI
 Their_DPS
-walk_VVI
+walk_NN1
 is_VBZ
 accompanied_VVN
 by_PRP
@@ -17335,7 +17335,7 @@ teaches_VVZ
 leaving_VVG
 Kathie_NP0
 to_TO0
-walk_VVI
+walk_NN1
 on_PRP
 to_TO0
 her_DPS
@@ -17391,7 +17391,7 @@ musical_AJ0
 soundtrack_NN1
 Peter_NP0
 's_POS
-all-boy_AJ0-NN1
+all-boy_AJ0
 class_NN1
 is_VBZ
 also_AV0
@@ -17489,8 +17489,8 @@ blackboard_NN1
 to_TO0
 the_AT0
 grotesque_AJ0
-nigger_VVB-NN1
-minstrel'-style_NN1-AJ0
+nigger_VVB
+minstrel'-style_AJ0
 head_NN1
 of_PRF
 a_AT0
@@ -17515,7 +17515,7 @@ factory_NN1
 bearing_VVG
 the_AT0
 words_NN2
-Visser_NP0-NN1
+Visser_NP0
 and_CJC
 Crane_NP0
 Furniture_NN1
@@ -17581,7 +17581,7 @@ a_AT0
 non-pathologised_AJ0
 Black_AJ0
 or_CJC
-mixed_AJ0
+mixed_VVN
 couple_NN1
 with_PRP
 or_CJC
@@ -17603,9 +17603,9 @@ girl_NN1
 Jo_NP0
 's_POS
 Rita_NP0
-Tushingham_NP0-NN1
+Tushingham_NP0
 baby_NN1
-Sapphire_NP0-NN1
+Sapphire_NN1
 the_AT0
 Black_AJ0
 woman_NN1
@@ -17690,7 +17690,7 @@ Gomez_NP0
 is_VBZ
 carrying_VVG
 In_PRP
-Visser_NP0-NN1
+Visser_NP0
 and_CJC
 Crane_NP0
 's_POS
@@ -17744,7 +17744,7 @@ by_PRP
 personalities_NN2
 such_DT0
 as_CJS
-Lance_NN1-VVB
+Lance_NN1
 Percival_NP0
 and_CJC
 Cy_NP0
@@ -17760,7 +17760,7 @@ of_PRF
 Black_AJ0
 cultural_AJ0
 forms_NN2
-Calypso_NP0-NN1
+Calypso_NP0
 is_VBZ
 a_AT0
 specifically_AV0
@@ -17771,7 +17771,7 @@ but_CJC
 just_AV0
 as_CJS
 later_AV0
-Jamaican_AJ0-NN1
+Jamaican_AJ0
 reggae_NN1
 stands_VVZ
 as_CJS
@@ -18116,7 +18116,7 @@ calypso_NN1
 on_PRP
 a_AT0
 double_AJ0
-bass_AJ0-NN1
+bass_AJ0
 and_CJC
 a_AT0
 Black_AJ0
@@ -18198,7 +18198,7 @@ and_CJC
 White_AJ0
 people_NN0
 and_CJC
-mixed_AJ0
+mixed_VVN
 race_NN1
 children_NN2
 are_VBB
@@ -18311,7 +18311,7 @@ in_PRP
 her_DPS
 relationship_NN1
 with_PRP
-Jacko_NP0-NN1
+Jacko_NP0
 and_CJC
 her_DPS
 racially_AV0
@@ -18347,7 +18347,7 @@ White_AJ0
 woman_NN1
 who_PNQ
 murders_NN2
-Sapphire_NP0-NN1
+Sapphire_NN1
 A_AT0
 major_AJ0
 flaw_NN1
@@ -18374,7 +18374,7 @@ in_PRP
 individuals_NN2
 often_AV0
 already_AV0
-pathologised_AJ0-VVN
+pathologised_AJ0
 others_NN2
 such_DT0
 as_CJS
@@ -18386,7 +18386,7 @@ frustrated_AJ0
 women_NN2
 The_AT0
 individual_AJ0
-act_VVI
+act_NN1
 thought_VVD
 and_CJC
 attitude_NN1
@@ -18413,7 +18413,7 @@ incapable_AJ0
 of_PRF
 analysing_VVG
 or_CJC
-explicating_VVG-AJ0
+explicating_AJ0
 social_AJ0
 inequality_NN1
 as_CJS
@@ -18497,7 +18497,7 @@ stepping_VVG
 out_AVP
 of_PRF
 its_DPS
-self-constructed_AJ0-NN1
+self-constructed_AJ0
 framework_NN1
 which_DTQ
 sees_VVZ
@@ -18526,7 +18526,7 @@ of_PRF
 the_AT0
 politics_NN1
 of_PRF
-divide_VVI
+divide_NN1
 and_CJC
 rule_NN1
 in_PRP
@@ -18535,14 +18535,14 @@ in_PRP
 general_AJ0
 and_CJC
 instead_AV0
-binding_VVG-AJ0
+binding_AJ0
 the_AT0
 issue_NN1
 to_TO0
 the_AT0
 micro-politics_NN1
 of_PRF
-individualised_VVN-VVD
+individualised_VVD
 self-interest_NN1
 This_DT0
 is_VBZ
@@ -18576,7 +18576,7 @@ temporary_AJ0
 position_NN1
 as_CJS
 a_AT0
-chargehand_AJ0-AV0
+chargehand_AV0
 in_PRP
 the_AT0
 factory_NN1
@@ -18611,7 +18611,7 @@ jokes_NN2
 about_PRP
 his_DPS
 colour_NN1
-Jacko_NP0-NN1
+Jacko_NP0
 John_NP0
 Mills_NP0
 Kathie_NP0
@@ -18653,7 +18653,7 @@ In_PRP
 an_AT0
 impassioned_AJ0
 speech_NN1
-Jacko_NP0-NN1
+Jacko_NP0
 begins_VVZ
 I_PNP
 think_VVB
@@ -18692,8 +18692,8 @@ it_PNP
 will_VM0
 be_VBI
 finished_VVN
-Finished_VVN-AJ0
-Jacko_NP0-NN1
+Finished_VVN
+Jacko_NP0
 appeals_NN2
 to_TO0
 the_AT0
@@ -18761,11 +18761,11 @@ A_AT0
 pool_NN1
 of_PRF
 cheap_AJ0
-non-union_AJ0-NN1
+non-union_AJ0
 labour_NN1
 Persuaded_VVN
 by_PRP
-Jacko_NP0-NN1
+Jacko_NP0
 's_POS
 rhetoric_NN1
 the_AT0
@@ -18803,7 +18803,7 @@ from_PRP
 Whites_NN2
 was_VBD
 widespread_AJ0
-Jacko_NP0-NN1
+Jacko_NP0
 does_VDZ
 not_XX0
 counter_NN1
@@ -18873,7 +18873,7 @@ they_PNP
 laid_VVN
 claim_NN1
 to_TO0
-Britishness_NP0-NN1
+Britishness_NP0
 The_AT0
 British_AJ0
 government_NN1
@@ -18916,7 +18916,7 @@ wife_NN1
 to_TO0
 meet_VVI
 Peter_NP0
-Jacko_NP0-NN1
+Jacko_NP0
 argues_VVZ
 that_CJT
 if_CJS
@@ -19254,7 +19254,7 @@ out_AVP
 of_PRF
 control_NN1
 or_CJC
-misplaced_VVN-AJ0
+misplaced_AJ0
 Thus_AV0
 in_PRP
 A_AT0
@@ -19271,7 +19271,7 @@ love_NN1
 from_PRP
 a_AT0
 properly_AV0
-caring_VVG-NN1
+caring_NN1
 mother_NN1
 instead_AV0
 she_PNP
@@ -19286,8 +19286,8 @@ a_AT0
 passing_VVG
 Black_AJ0
 sailor_NN1
-Millie_NN1-NP0
-Sapphire_NP0-NN1
+Millie_NN1
+Sapphire_NN1
 's_POS
 murderer_NN1
 clearly_AV0
@@ -19319,7 +19319,7 @@ destroy_VVI
 the_AT0
 hedonistic_AJ0
 deceitful_AJ0
-Sapphire_NP0-NN1
+Sapphire_NN1
 who_PNQ
 otherwise_AV0
 would_VM0
@@ -19336,11 +19336,11 @@ Streets_NN2
 feels_VVZ
 rejected_VVN
 by_PRP
-Jacko_NP0-NN1
+Jacko_NP0
 who_PNQ
 is_VBZ
 too_AV0
-involved_AJ0
+involved_VVN
 in_PRP
 his_DPS
 union_NN1
@@ -19367,10 +19367,10 @@ representation_NN1
 of_PRF
 Blacks_NN2
 a_AT0
-colonial-based_AJ0-NN1
+colonial-based_AJ0
 dramas_NN2
 b_ZZ0
-race-based_AJ0-NN1
+race-based_AJ0
 dramas_NN2
 in_PRP
 which_DTQ
@@ -19378,7 +19378,7 @@ category_NN1
 he_PNP
 places_NN2
 both_AV0
-Sapphire_NP0-NN1
+Sapphire_NN1
 and_CJC
 Flame_NN1
 in_PRP
@@ -19415,7 +19415,7 @@ of_PRF
 comedy_NN1
 and_CJC
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 mark_NN1
@@ -19545,7 +19545,7 @@ starting_VVG
 point_NN1
 those_DT0
 apparently_AV0
-naturalised_AJ0-VVN
+naturalised_AJ0
 representations_NN2
 of_PRF
 events_NN2
@@ -19564,7 +19564,7 @@ racist_AJ0
 premises_NN2
 and_CJC
 propositions_NN2
-inscribed_AJ0
+inscribed_VVN
 in_PRP
 them_PNP
 as_CJS
@@ -19587,7 +19587,7 @@ into_PRP
 awareness_NN1
 the_AT0
 racist_AJ0
-predicates_NN2-VVZ
+predicates_NN2
 on_PRP
 which_DTQ
 the_AT0
@@ -19864,7 +19864,7 @@ or_CJC
 falsehood_NN1
 of_PRF
 other_AJ0
-competing_VVG-AJ0
+competing_AJ0
 discourses_NN2
 are_VBB
 judged_VVN
@@ -19887,7 +19887,7 @@ cases_NN2
 contradictory_AJ0
 discourses_NN2
 are_VBB
-neutralised_VVN-AJ0
+neutralised_VVN
 by_PRP
 the_AT0
 dominant_AJ0
@@ -19913,7 +19913,7 @@ in_PRP
 the_AT0
 Streets_NN2
 and_CJC
-Sapphire_NP0-NN1
+Sapphire_NN1
 the_AT0
 visual_AJ0
 images_NN2
@@ -20025,7 +20025,7 @@ women_NN2
 and_CJC
 cinema_NN1
 Maria_NP0
-Lauret_NP0-NN1
+Lauret_NP0
 Women_NN2
 and_CJC
 Film_NN1
@@ -20036,7 +20036,7 @@ title_NN1
 of_PRF
 E._NP0
 Ann_NP0
-Kaplan_NP0-NN1
+Kaplan_NP0
 's_POS
 1983_CRD
 important_AJ0
@@ -20075,7 +20075,7 @@ criticism_NN1
 in_PRP
 particular_AJ0
 can_VM0
-present_AJ0-NN1
+present_AJ0
 a_AT0
 bewildering_AJ0
 and_CJC
@@ -20083,7 +20083,7 @@ rather_AV0
 daunting_AJ0
 picture_NN1
 of_PRF
-competing_VVG-AJ0
+competing_AJ0
 schools_NN2
 of_PRF
 thought_VVD
@@ -20126,7 +20126,7 @@ Amidst_PRP
 a_AT0
 diversity_NN1
 of_PRF
-close-up_NN1-AJ0
+close-up_NN1
 film_NN1
 analysis_NN1
 and_CJC
@@ -20143,7 +20143,7 @@ useful_AJ0
 to_TO0
 try_VVI
 and_CJC
-present_AJ0-NN1
+present_AJ0
 some_DT0
 sort_NN1
 of_PRF
@@ -20160,7 +20160,7 @@ here_AV0
 with_PRP
 a_AT0
 necessarily_AV0
-truncated_VVN-AJ0
+truncated_VVN
 history_NN1
 of_PRF
 feminist_AJ0
@@ -20204,7 +20204,7 @@ in_PRP
 the_AT0
 subtitle_NN1
 of_PRF
-Kaplan_NP0-NN1
+Kaplan_NP0
 's_POS
 book_NN1
 at_PRP
@@ -20331,7 +20331,7 @@ of_PRF
 direction_NN1
 in_PRP
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 picture_NN1
 of_PRF
 women_NN2
@@ -20343,7 +20343,7 @@ for_PRP
 First_ORD
 of_PRF
 all_DT0
-increased_AJ0
+increased_VVN
 interest_NN1
 in_PRP
 the_AT0
@@ -20674,8 +20674,8 @@ Report_NN1
 of_PRF
 1979_CRD
 the_AT0
-close-up_NN1-AJ0
-fast_AV0-AJ0
+close-up_NN1
+fast_AJ0
 cutting_VVG
 the_AT0
 sophistication_NN1
@@ -20724,7 +20724,7 @@ directed_VVN
 by_PRP
 Euzhan_NP0
 Palcy_NP0
-Martinque_NP0-NN1
+Martinque_NN1
 Women_NN2
 Call_VVB
 the_AT0
@@ -20861,7 +20861,7 @@ this_DT0
 interest_NN1
 Trying_VVG
 to_TO0
-present_AJ0-NN1
+present_AJ0
 that_CJT
 impossible_AJ0
 chimera_NN1
@@ -20977,11 +20977,11 @@ viewer_NN1
 is_VBZ
 likely_AJ0
 to_TO0
-feel_VVI
+feel_VVB
 more_AV0
 not_XX0
 less_AV0
-deprived_AJ0
+deprived_VVN
 of_PRF
 such_DT0
 material_NN1
@@ -21085,7 +21085,7 @@ the_AT0
 four_CRD
 women_NN2
 film-makers_NN2
-involved_AJ0
+involved_VVN
 in_PRP
 the_AT0
 debate_NN1
@@ -21477,7 +21477,7 @@ and_CJC
 Semiotics_NP0
 The_AT0
 first_ORD
-book-length_AJ0-NN1
+book-length_NN1
 studies_NN2
 of_PRF
 women_NN2
@@ -21574,7 +21574,7 @@ of_PRF
 Marjorie_NP0
 Rosen_NP0
 's_POS
-Popcorn_NP0-NN1
+Popcorn_NP0
 Venus_NP0
 1973_CRD
 and_CJC
@@ -21584,7 +21584,7 @@ Haskell_NP0
 from_PRP
 Reverence_NN1
 to_TO0
-Rape_NN1-VVB
+Rape_NN1
 1974_CRD
 indicate_VVI
 this_DT0
@@ -21632,7 +21632,7 @@ of_PRF
 cinematic_AJ0
 fantasy_NN1
 the_AT0
-dream-machine_NN1-AJ0
+dream-machine_NN1
 and_CJC
 real_AJ0
 women_NN2
@@ -21653,7 +21653,7 @@ and_CJC
 sociological_AJ0
 school_NN1
 of_PRF
-film-viewing_NN1-AJ0
+film-viewing_NN1
 Haskell_NP0
 's_POS
 work_NN1
@@ -21818,7 +21818,7 @@ the_AT0
 earlier_AJC
 cinema_NN1
 v\xc3\xa9rit\xc3\xa9_NN1
-fly_VVI
+fly_NN1
 on_PRP
 the_AT0
 wall_NN1
@@ -21970,7 +21970,7 @@ fact_NN1
 actresses_NN2
 playing_VVG
 sisters_NN2
-Feuer_VVB-NN1
+Feuer_VVB
 1986_CRD
 Lesage_NP0
 1986_CRD
@@ -22151,7 +22151,7 @@ that_CJT
 despite_PRP
 its_DPS
 ostensible_AJ0
-anti-porn_AJ0-NN1
+anti-porn_NN1
 content_NN1
 Not_XX0
 a_AT0
@@ -22212,7 +22212,7 @@ especially_AV0
 Althusser_NP0
 and_CJC
 on_PRP
-French_AJ0-NN1
+French_AJ0
 structuralism_NN1
 and_CJC
 semiotics_NN2
@@ -22263,7 +22263,7 @@ from_PRP
 social_AJ0
 formations_NN2
 the_AT0
-relative_AJ0-NN1
+relative_AJ0
 autonomy_NN1
 of_PRF
 cultural_AJ0
@@ -22306,7 +22306,7 @@ by_PRP
 which_DTQ
 ideology_NN1
 is_VBZ
-naturalised_AJ0-VVN
+naturalised_AJ0
 and_CJC
 film_NN1
 therefore_AV0
@@ -22363,10 +22363,10 @@ directors_NN2
 such_DT0
 as_CJS
 Ida_NP0
-Lupino_NP0-NN1
+Lupino_NN1
 and_CJC
 Dorothy_NP0
-Arzner_NP0-NN1
+Arzner_NN1
 Focusing_VVG
 on_PRP
 the_AT0
@@ -22435,7 +22435,7 @@ always_AV0
 contained_VVD
 by_PRP
 the_AT0
-characteristic_AJ0-NN1
+characteristic_NN1
 movement_NN1
 of_PRF
 narrative_NN1
@@ -22461,7 +22461,7 @@ victimised_VVN
 Stage_NN1
 Two_CRD
 The_AT0
-Gaze_NN1-VVB
+Gaze_NN1
 As_CJS
 Annette_NP0
 Kuhn_NP0
@@ -22470,7 +22470,7 @@ argued_VVD
 Hollywood_NP0
 as_CJS
 a_AT0
-dream-machine_NN1-AJ0
+dream-machine_NN1
 under_PRP
 the_AT0
 studio_NN1
@@ -22694,7 +22694,7 @@ split_VVN
 between_PRP
 active/male_AJ0
 and_CJC
-passive/female_NN1-AJ0
+passive/female_AJ0
 The_AT0
 determining_VVG
 male_AJ0
@@ -22708,7 +22708,7 @@ female_AJ0
 figure_NN1
 which_DTQ
 is_VBZ
-styled_VVN-VVD
+styled_VVD
 accordingly_AV0
 In_PRP
 their_DPS
@@ -22740,7 +22740,7 @@ be_VBI
 said_VVD
 to_TO0
 connote_VVI
-to-be-looked-at-ness_NN1-AJ0
+to-be-looked-at-ness_AJ0
 Mulvey_NP0
 1989_CRD
 p._NN0
@@ -22813,7 +22813,7 @@ looking_VVG
 is_VBZ
 active_AJ0
 and_CJC
-eroticised_VVD-AJ0
+eroticised_AJ0
 Knowledge_NN1
 of_PRF
 sexual_AJ0
@@ -22966,7 +22966,7 @@ aspect_NN1
 of_PRF
 pleasure_NN1
 in_PRP
-film-viewing_NN1-AJ0
+film-viewing_NN1
 as_CJS
 well_AV0
 as_CJS
@@ -23136,7 +23136,7 @@ pleasure_NN1
 and_CJC
 unpleasure_NN1
 of_PRF
-film-viewing_NN1-AJ0
+film-viewing_NN1
 If_CJS
 strong_AJ0
 women_NN2
@@ -23439,7 +23439,7 @@ the_AT0
 conventional_AJ0
 pleasures_NN2
 of_PRF
-cinema-viewing_NN1-AJ0
+cinema-viewing_NN1
 within_PRP
 the_AT0
 film_NN1
@@ -23457,7 +23457,7 @@ Tyndall_NP0
 McCall_NP0
 Pajaczkowska_NP0
 and_CJC
-Weinstock_NP0-NN1
+Weinstock_NN1
 's_POS
 Sigmund_NP0
 Freud_NP0
@@ -23674,7 +23674,7 @@ of_PRF
 the_AT0
 complex_AJ0
 of_PRF
-perversions-voyeurism_NN1-AJ0
+perversions-voyeurism_NN1
 exhibitionism_NN1
 fetishism_NN1
 which_DTQ
@@ -23718,7 +23718,7 @@ Anglo-American_AJ0
 feminist_AJ0
 film_NN1
 theory_NN1
-Kaplan_NP0-NN1
+Kaplan_NP0
 's_POS
 Women_NN2
 and_CJC
@@ -23771,7 +23771,7 @@ the_AT0
 gaze_NN1
 and_CJC
 the_AT0
-im_NN1-VVB
+im_NN1
 possibility_NN1
 of_PRF
 feminist_AJ0
@@ -23826,7 +23826,7 @@ film_NN1
 theory_NN1
 and_CJC
 has_VHZ
-centred_VVN-VVD
+centred_VVN
 on_PRP
 different_AJ0
 aspects_NN2
@@ -23835,7 +23835,7 @@ the_AT0
 gaze_NN1
 Mary_NP0
 Ann_NP0
-Doane_NN1-NP0
+Doane_NP0
 's_POS
 argument_NN1
 concerning_PRP
@@ -23870,7 +23870,7 @@ a_AT0
 female_AJ0
 gaze_NN1
 Unfortunately_AV0
-Doane_NN1-NP0
+Doane_NP0
 's_POS
 conclusion_NN1
 was_VBD
@@ -23911,7 +23911,7 @@ with_PRP
 the_AT0
 female_AJ0
 protagonist_NN1
-Doane_NN1-NP0
+Doane_NP0
 1984_CRD
 The_AT0
 issue_NN1
@@ -23935,7 +23935,7 @@ the_AT0
 work_NN1
 of_PRF
 Janet_NP0
-Bergstrom_NP0-NN1
+Bergstrom_NN1
 and_CJC
 in_PRP
 Laura_NP0
@@ -23948,7 +23948,7 @@ Visual_AJ0
 Pleasure_NN1
 and_CJC
 Narrative_AJ0
-Cinema'_NN1-NP0
+Cinema'_NP0
 Making_VVG
 a_AT0
 case_NN1
@@ -23989,7 +23989,7 @@ simultaneously_AV0
 or_CJC
 in_PRP
 succession_NN1
-Bergstrom_NP0-NN1
+Bergstrom_NN1
 1988_CRD
 pp._NN2
 181\xe2\x80\x932_CRD
@@ -24009,7 +24009,7 @@ the_AT0
 Anglo-American_AJ0
 paradigm_NN1
 Gertrud_NP0
-Koch_NP0-NN1
+Koch_NP0
 has_VHZ
 drawn_VVN
 attention_NN1
@@ -24072,15 +24072,15 @@ but_CJC
 to_TO0
 the_AT0
 baby-carriage_NN1
-Koch_NP0-NN1
+Koch_NP0
 1985a_UNC
 p._NN0
 149_CRD
-Koch_NP0-NN1
+Koch_NP0
 and_CJC
 others_NN2
 have_VHB
-stressed_VVD
+stressed_VVN
 that_CJT
 because_CJS
 this_DT0
@@ -24117,7 +24117,7 @@ identifications_NN2
 with_PRP
 either_AV0
 gender_NN1
-Koch_NP0-NN1
+Koch_NP0
 1985b_UNC
 p._NN0
 111_CRD
@@ -24271,7 +24271,7 @@ Althusserian_AJ0
 concepts_NN2
 of_PRF
 ideology_NN1
-overemphasised_AJ0-VVD
+overemphasised_AJ0
 textuality_NN1
 at_PRP
 the_AT0
@@ -24402,7 +24402,7 @@ pleasure_NN1
 of_PRF
 the_AT0
 text_NN1
-stems_VVZ-NN2
+stems_NN2
 at_PRP
 least_AV0
 in_PRP
@@ -24448,7 +24448,7 @@ of_PRF
 the_AT0
 same_DT0
 points_NN2
-Starting_VVG-NN1
+Starting_VVG
 from_PRP
 the_AT0
 position_NN1
@@ -24534,7 +24534,7 @@ met_VVD
 primarily_AV0
 in_PRP
 a_AT0
-shift_NN1-VVB
+shift_NN1
 towards_PRP
 an_AT0
 interest_NN1
@@ -24565,7 +24565,7 @@ and_CJC
 production_NN1
 Stage_NN1
 Three_CRD
-Spectatorship_NP0-NN1
+Spectatorship_NP0
 and_CJC
 Differential_AJ0
 Contexts_NN2
@@ -24599,7 +24599,7 @@ more_AV0
 complex_AJ0
 conception_NN1
 of_PRF
-film-viewing_NN1-AJ0
+film-viewing_NN1
 It_PNP
 is_VBZ
 true_AJ0
@@ -24646,7 +24646,7 @@ only_AV0
 the_AT0
 literal_AJ0
 level_NN1
-Doane_NN1-NP0
+Doane_NP0
 1984_CRD
 p._NN0
 6_CRD
@@ -24695,7 +24695,7 @@ Lauretis_NP0
 has_VHZ
 described_VVN
 this_DT0
-shift_NN1-VVB
+shift_NN1
 towards_PRP
 a_AT0
 greater_AJC
@@ -24737,7 +24737,7 @@ The_AT0
 impact_NN1
 of_PRF
 this_DT0
-shift_NN1-VVB
+shift_NN1
 on_PRP
 film-making_NN1
 has_VHZ
@@ -24771,9 +24771,9 @@ may_VM0
 think_VVB
 of_PRF
 Sex_NN1
-Lies_NN2-VVZ
+Lies_NN2
 and_CJC
-Videotape_NP0-NN1
+Videotape_NP0
 and_CJC
 it_PNP
 does_VDZ
@@ -24820,7 +24820,7 @@ such_DT0
 as_CJS
 Lianna_NP0
 Nelson/Renzi_NP0
-Desert_NN1-VVB
+Desert_NN1
 Hearts_NN2
 I_PNP
 've_VHB
@@ -24836,7 +24836,7 @@ Adlon_NP0
 work_NN1
 with_PRP
 Marianne_NP0
-Sagebrecht_NP0-NN1
+Sagebrecht_NN1
 in_PRP
 Baghdad_NP0
 Caf\xc3\xa9_NN1
@@ -24982,11 +24982,11 @@ Women_NN2
 and_CJC
 E._NP0
 Deirdre_NP0
-Pribram_NP0-NN1
+Pribram_NN1
 's_POS
 equally_AV0
 useful_AJ0
-Female_AJ0-NN1
+Female_AJ0
 Spectators_NN2
 1988_CRD
 both_AV0
@@ -25002,7 +25002,7 @@ the_AT0
 same_DT0
 time_NN1
 seeing_VVG
-film-viewing_NN1-AJ0
+film-viewing_NN1
 as_CJS
 very_AV0
 much_DT0
@@ -25176,7 +25176,7 @@ aspect_NN1
 of_PRF
 the_AT0
 Hollywood_NP0
-dream-machine_NN1-AJ0
+dream-machine_NN1
 in_PRP
 their_DPS
 copious_AJ0
@@ -25202,7 +25202,7 @@ Bobo_NP0
 's_POS
 article_NN1
 in_PRP
-Female_AJ0-NN1
+Female_AJ0
 Spectators_NN2
 1988_CRD
 on_PRP
@@ -25276,7 +25276,7 @@ between_PRP
 three_CRD
 types_NN2
 of_PRF
-film-viewing_NN1-AJ0
+film-viewing_NN1
 dominant_AJ0
 readings_NN2
 negotiated_VVN
@@ -25395,7 +25395,7 @@ over_PRP
 representations_NN2
 of_PRF
 sexuality_NN1
-converged_VVN-VVD
+converged_VVN
 for_PRP
 once_AV0
 in_PRP
@@ -25600,7 +25600,7 @@ an_AT0
 indigenous_AJ0
 entertainments_NN2
 '_POS
-fiction-film_AJ0-NN1
+fiction-film_AJ0
 industry_NN1
 in_PRP
 the_AT0
@@ -25650,7 +25650,7 @@ making_VVG
 of_PRF
 political_AJ0
 films_NN2
-Entwined_VVN-AJ0
+Entwined_AJ0
 with_PRP
 the_AT0
 question_NN1
@@ -26044,7 +26044,7 @@ These_DT0
 do_VDB
 not_XX0
 always_AV0
-yield_VVI
+yield_NN1
 the_AT0
 most_AV0
 interesting_AJ0
@@ -26118,7 +26118,7 @@ had_VHD
 an_AT0
 international_AJ0
 multicultural_AJ0
-cast_VVN
+cast_NN1
 and_CJC
 would_VM0
 address_NN1
@@ -26148,7 +26148,7 @@ Lacan_NN1
 Althusser_NP0
 Freud_NP0
 and_CJC
-Foucault_NP0-NN1
+Foucault_NN1
 yet_AV0
 again_AV0
 were_VBD
@@ -26181,7 +26181,7 @@ to_TO0
 look_VVI
 at_PRP
 THE_AT0
-MATRIARCH_NN1-NP0
+MATRIARCH_NN1
 AND_CJC
 THE_AT0
 MEDIA_NN0
@@ -26220,7 +26220,7 @@ Nationwide_AV0
 's_POS
 On_PRP
 the_AT0
-Spot_NN1-VVB
+Spot_NN1
 in_PRP
 the_AT0
 guise_NN1
@@ -26431,7 +26431,7 @@ power_NN1
 journalists_NN2
 were_VBD
 mostly_AV0
-fawning_VVG-AJ0
+fawning_AJ0
 courtiers_NN2
 to_TO0
 the_AT0
@@ -26491,7 +26491,7 @@ Gould_NP0
 The_AT0
 Jimmy_NP0
 Young_NP0
-Show_NN1-VVB
+Show_NN1
 's_POS
 formula_NN1
 of_PRF
@@ -26511,7 +26511,7 @@ Radio_NN1
 listeners_NN2
 was_VBD
 her_DPS
-favourite_AJ0-NN1
+favourite_AJ0
 method_NN1
 of_PRF
 reaching_VVG
@@ -26730,7 +26730,7 @@ Gordon_NP0
 Reece_NP0
 the_AT0
 mousy_NN1
-frump_NN1-VVB
+frump_NN1
 in_PRP
 sensible_AJ0
 shoes_NN2
@@ -26761,7 +26761,7 @@ has_VHZ
 the_AT0
 eyes_NN2
 of_PRF
-Caligula_NP0-NN1
+Caligula_NP0
 and_CJC
 the_AT0
 mouth_NN1
@@ -26901,11 +26901,11 @@ her_DPS
 government_NN1
 was_VBD
 an_AT0
-act_VVI
+act_NN1
 of_PRF
 treason_NN1
 The_AT0
-Bolshevik_AJ0-NN1
+Bolshevik_NN1
 Broadcasting_NN1
 Corporation_NN1
 was_VBD
@@ -26995,7 +26995,7 @@ speak_VVI
 on_PRP
 television_NN1
 the_AT0
-Official_AJ0-NN1
+Official_AJ0
 Secrets_NN2
 Act_NN1
 has_VHZ
@@ -27144,7 +27144,7 @@ side_NN1
 enabled_VVD
 her_DPS
 to_TO0
-shine_VVI
+shine_NN1
 at_PRP
 the_AT0
 dispatch_NN1
@@ -27825,7 +27825,7 @@ behind_PRP
 the_AT0
 policy_NN1
 of_PRF
-skimping_NN1
+skimping_VVG
 on_PRP
 women_NN2
 and_CJC
@@ -27883,7 +27883,7 @@ countries_NN2
 and_CJC
 it_PNP
 is_VBZ
-targeted_AJ0
+targeted_VVD
 upon_PRP
 the_AT0
 very_AV0
@@ -28039,7 +28039,7 @@ and_CJC
 timetable_NN1
 reductions_NN2
 on_PRP
-deregulated_VVD-AJ0
+deregulated_AJ0
 public_AJ0
 transport_NN1
 we_PNP
@@ -28087,7 +28087,7 @@ if_CJS
 she_PNP
 had_VHD
 ever_AV0
-lugged_VVD-AJ0
+lugged_VVD
 a_AT0
 buggy_NN1
 baby_NN1
@@ -28101,7 +28101,7 @@ and_CJC
 off_AVP
 her_DPS
 infrequent_AJ0
-deregulated_VVD-AJ0
+deregulated_AJ0
 buses_NN2
 Not_XX0
 very_AV0
@@ -28127,7 +28127,7 @@ caused_VVN
 by_PRP
 a_AT0
 deep_AJ0
-intellectual_AJ0-NN1
+intellectual_AJ0
 failure_NN1
 and_CJC
 fatalism_NN1
@@ -28152,7 +28152,7 @@ the_AT0
 true_AJ0
 ancestor_NN1
 of_PRF
-present_AJ0-NN1
+present_AJ0
 Conservative_AJ0
 policies_NN2
 rather_AV0
@@ -28496,7 +28496,7 @@ of_PRF
 Well_AV0
 Women_NN2
 Centres_NN2
-Rape_NN1-VVB
+Rape_NN1
 Crisis_NN1
 Lines_NN2
 the_AT0
@@ -28581,7 +28581,7 @@ would_VM0
 be_VBI
 welcome_AJ0
 everywhere_AV0
-REVIEWS_NN2-VVZ
+REVIEWS_NN2
 New_AJ0
 Men_NN2
 for_PRP
@@ -28681,7 +28681,7 @@ decades_NN2
 of_PRF
 Anglo-American_AJ0
 and_CJC
-French_AJ0-NN1
+French_AJ0
 feminism_NN1
 have_VHB
 adopted_VVN
@@ -28951,7 +28951,7 @@ insistently_AV0
 arguing_VVG
 her_DPS
 own_DT0
-socialist-feminist_AJ0-NN1
+socialist-feminist_AJ0
 case_NN1
 does_VDZ
 considerable_AJ0
@@ -29079,7 +29079,7 @@ with_PRP
 examples_NN2
 drawn_VVN
 from_PRP
-concrete_AJ0-NN1
+concrete_AJ0
 social_AJ0
 and_CJC
 political_AJ0
@@ -29227,7 +29227,7 @@ idealise_VVI
 those_DT0
 groups_NN2
 nor_CJC
-fall_VVI
+fall_NN1
 into_PRP
 the_AT0
 trap_NN1
@@ -29277,7 +29277,7 @@ and_CJC
 dominance_NN1
 in_PRP
 every_AT0
-sphere'_NN1-AJ0
+sphere'_NN1
 p._NN0
 82_CRD
 But_CJC
@@ -29323,7 +29323,7 @@ in_PRP
 favour_NN1
 of_PRF
 a_AT0
-socialist-feminist_AJ0-NN1
+socialist-feminist_AJ0
 definition_NN1
 of_PRF
 state_NN1
@@ -29397,7 +29397,7 @@ Mary_NP0
 Daly_NP0
 and_CJC
 Andrea_NP0
-Dworkin_NN1-NP0
+Dworkin_NP0
 who_PNQ
 have_VHB
 persuaded_VVN
@@ -29531,7 +29531,7 @@ potential_NN1
 suppressed_VVN
 into_PRP
 depression_NN1
-self-hatred_NN1-AJ0
+self-hatred_AJ0
 and_CJC
 inertia_NN1
 to_TO0
@@ -29571,7 +29571,7 @@ time_NN1
 when_CJS
 the_AT0
 British_AJ0
-anti-porn_AJ0-NN1
+anti-porn_NN1
 bandwagon_NN1
 is_VBZ
 sweeping_AJ0
@@ -29589,7 +29589,7 @@ company_NN1
 with_PRP
 the_AT0
 powerful_AJ0
-pro-family_NN1-AJ0
+pro-family_AJ0
 homophobic_AJ0
 moral_AJ0
 right_NN1
@@ -29602,7 +29602,7 @@ book_NN1
 Is_VBZ
 the_AT0
 Future_NN1
-Female_AJ0-NN1
+Female_AJ0
 was_VBD
 a_AT0
 spirited_AJ0
@@ -29631,7 +29631,7 @@ of_PRF
 Thatcherism_NN1
 when_CJS
 the_AT0
-socialist-feminist_AJ0-NN1
+socialist-feminist_AJ0
 vision_NN1
 seemed_VVD
 a_AT0
@@ -29668,7 +29668,7 @@ In_PRP
 Slow_AJ0
 Motion_NN1
 that_CJT
-clear-sighted_AJ0-NN1
+clear-sighted_NN1
 optimism_NN1
 is_VBZ
 brought_VVN
@@ -29785,7 +29785,7 @@ and_CJC
 masculinities_NN2
 in_PRP
 play_VVI
-Abjection_NN1-NP0
+Abjection_NN1
 Melancholia_NP0
 and_CJC
 Love_NN1
@@ -29797,7 +29797,7 @@ and_CJC
 Andrew_NP0
 Benjamin_NP0
 eds._NN2
-Abjection_NN1-NP0
+Abjection_NN1
 Melancholia_NP0
 and_CJC
 Love_NN1
@@ -29811,7 +29811,7 @@ Routledge_NP0
 hbk_NN0
 \xc2\xa38.99_NN0
 pbk_NN0
-ABJECTION_NP0-NN1
+ABJECTION_NN1
 Melancholia_NP0
 and_CJC
 Love_NN1
@@ -29915,7 +29915,7 @@ of_PRF
 the_AT0
 essays_NN2
 The_AT0
-Adolescent_AJ0-NN1
+Adolescent_AJ0
 Novel_NN1
 but_CJC
 each_DT0
@@ -29943,7 +29943,7 @@ work_NN1
 carried_VVN
 out_AVP
 in_PRP
-English_AJ0-NN1
+English_AJ0
 inspired_VVN
 and_CJC
 informed_VVN
@@ -29971,7 +29971,7 @@ to_TO0
 the_AT0
 later_AV0
 psychoanalytically_AV0
-oriented_VVN
+oriented_VVD
 studies_NN2
 of_PRF
 abjection_NN1
@@ -30029,7 +30029,7 @@ O'Connor_NP0
 The_AT0
 An-Arche_NP0
 of_PRF
-Psychotherapy_NP0-NN1
+Psychotherapy_NN1
 Minow-Pinkney_NN1
 Virginia_NP0
 Woolf_NP0
@@ -30037,12 +30037,12 @@ Seen_VVN
 from_PRP
 a_AT0
 Foreign_AJ0
-Land'_NN1-NP0
+Land'_NN1
 and_CJC
-Burgin_NP0-NN1
+Burgin_NP0
 Geometry_NN1
 and_CJC
-Abjection_NN1-NP0
+Abjection_NN1
 But_CJC
 the_AT0
 essays_NN2
@@ -30091,7 +30091,7 @@ leads_VVZ
 her_DPS
 in_PRP
 The_AT0
-Adolescent_AJ0-NN1
+Adolescent_AJ0
 Novel_NN1
 to_TO0
 consider_VVI
@@ -30149,7 +30149,7 @@ explores_VVZ
 a_AT0
 similar_AJ0
 fluidity_NN1
-negotiating_VVG
+negotiating_NN1
 the_AT0
 frontiers_NN2
 between_PRP
@@ -30161,7 +30161,7 @@ identity_NN1
 reality_NN1
 and_CJC
 fantasy_NN1
-act_VVI
+act_NN1
 and_CJC
 discourse_NN1
 Kristeva_NP0
@@ -30221,11 +30221,11 @@ the_AT0
 example_NN1
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 writer_NN1
 Antoine_NP0
 de_NP0
-Sale_NN1-NP0
+Sale_NP0
 indicates_VVZ
 that_CJT
 the_AT0
@@ -30374,12 +30374,12 @@ subtleties_NN2
 of_PRF
 her_DPS
 work_NN1
-Lechte_NP0-NN1
+Lechte_NN1
 's_POS
 Art_NN1
 Love_NN1
 and_CJC
-Melancholy_NN1-AJ0
+Melancholy_AJ0
 in_PRP
 the_AT0
 work_NN1
@@ -30409,7 +30409,7 @@ opening_NN1
 sections_NN2
 of_PRF
 Elisabeth_NP0
-Gross_AJ0
+Gross_NP0
 '_POS
 essay_NN1
 The_AT0
@@ -30441,7 +30441,7 @@ in_PRP
 relation_NN1
 to_TO0
 the_AT0
-French_AJ0-NN1
+French_AJ0
 Avant-Garde_NN1
 finds_VVZ
 a_AT0
@@ -30468,7 +30468,7 @@ twentieth-century_AJ0
 British_AJ0
 MP_NN1
 Eleanor_NP0
-Rathbone_NP0-NN1
+Rathbone_NP0
 Most_DT0
 effective_AJ0
 however_AV0
@@ -30504,7 +30504,7 @@ semiotics_NN2
 and_CJC
 psychoanalysis_NN1
 Cynthia_NP0
-Chase_NN1-VVB
+Chase_NN1
 s_ZZ0
 tightly_AV0
 argued_VVD
@@ -30576,7 +30576,7 @@ critical_AJ0
 epistemology_NN1
 p._NN0
 135_CRD
-Chase_NN1-VVB
+Chase_NN1
 focuses_VVZ
 on_PRP
 Kristeva_NP0
@@ -30648,7 +30648,7 @@ father_NN1
 is_VBZ
 the_AT0
 primary_AJ0
-act_VVI
+act_NN1
 of_PRF
 giving_VVG
 face_NN1
@@ -30699,7 +30699,7 @@ dead_AJ0
 p._NN0
 133_CRD
 Maud_NP0
-Ellmann_NN1-NP0
+Ellmann_NP0
 in_PRP
 her_DPS
 brilliant_AJ0
@@ -30709,10 +30709,10 @@ Eliot_NP0
 's_POS
 The_AT0
 Waste_NN1
-Land_NP0-NN1
+Land_NN1
 Eliot_NP0
 's_POS
-Abjection_NN1-NP0
+Abjection_NN1
 is_VBZ
 similarly_AV0
 concerned_AJ0
@@ -30742,7 +30742,7 @@ already_AV0
 dead_AJ0
 The_AT0
 Waste_NN1
-Land_NP0-NN1
+Land_NN1
 she_PNP
 argues_VVZ
 is_VBZ
@@ -30779,7 +30779,7 @@ of_PRF
 his_DPS
 own_DT0
 destruction_NN1
-Ellmann_NN1-NP0
+Ellmann_NP0
 uses_NN2
 Kristeva_NP0
 's_POS
@@ -30795,7 +30795,7 @@ accounts_NN2
 of_PRF
 poetry_NN1
 that_CJT
-rearticulate_VVB-NN1
+rearticulate_NN1
 Eliot_NP0
 's_POS
 notions_NN2
@@ -30808,7 +30808,7 @@ The_AT0
 over-burgeoning_AJ0
 production_NN1
 of_PRF
-anthologised_AJ0-VVN
+anthologised_AJ0
 post-structurally_AV0
 informed_VVN
 essays_NN2
@@ -30870,7 +30870,7 @@ Lives_VVZ
 and_CJC
 Letters_NN2
 ALISON_NP0
-HENNEGAN_NP0-NN1
+HENNEGAN_NP0
 Paula_NP0
 Bennett_NP0
 Emily_NP0
@@ -30878,7 +30878,7 @@ Dickinson_NP0
 Woman_NN1
 Poet_NN1
 Harvester_NN1
-Wheatsheaf_VVB-NN1
+Wheatsheaf_VVB
 Key_AJ0
 Women_NN2
 Writers_NN2
@@ -30889,7 +30889,7 @@ hbk_NN0
 pbk_NN0
 The_AT0
 Hall_NN1
-Carpenter_NP0-NN1
+Carpenter_NP0
 Archives_NN2
 '_POS
 Lesbian_AJ0
@@ -30905,7 +30905,7 @@ Routledge_NP0
 \xc2\xa39.99_NN0
 pbk_NN0
 LESBIAN_AJ0
-LISTS_NN2-VVZ
+LISTS_NN2
 a_AT0
 cheerfully_AV0
 confident_AJ0
@@ -31218,7 +31218,7 @@ freedom_NN1
 to_TO0
 write_VVI
 on_PRP
-unfettered_AJ0-VVN
+unfettered_VVN
 by_PRP
 that_CJT
 audience_NN1
@@ -31258,7 +31258,7 @@ marry_VVI
 and_CJC
 bear_VVI
 children_NN2
-coupled_VVN-VVD
+coupled_VVN
 with_PRP
 her_DPS
 insistence_NN1
@@ -31337,7 +31337,7 @@ those_DT0
 elements_NN2
 which_DTQ
 stifled_VVN
-maimed_VVN-AJ0
+maimed_AJ0
 and_CJC
 sometimes_AV0
 literally_AV0
@@ -31386,7 +31386,7 @@ was_VBD
 a_AT0
 point_NN1
 of_PRF
-view'_NN1-AJ0
+view'_NN1
 and_CJC
 Bennett_NP0
 maintains_VVZ
@@ -31553,7 +31553,7 @@ centuries_NN2
 of_PRF
 silence_NN1
 hints_NN2
-half-knowledge_NN1-AJ0
+half-knowledge_AJ0
 about_PRP
 the_AT0
 hidden_VVN
@@ -31580,7 +31580,7 @@ lives_NN2
 of_PRF
 our_DPS
 own_DT0
-dear_ITJ
+dear_NN1
 dykes_NN2
 as_CJS
 recently_AV0
@@ -31607,7 +31607,7 @@ part_NN1
 of_PRF
 the_AT0
 Hall_NN1
-Carpenter_NP0-NN1
+Carpenter_NP0
 Archives_NN2
 an_AT0
 outstanding_AJ0
@@ -31672,7 +31672,7 @@ of_PRF
 Economics_NN1
 and_CJC
 the_AT0
-Haldane_NP0
+Haldane_AJ0
 Society_NN1
 For_PRP
 most_AV0
@@ -31929,7 +31929,7 @@ and_CJC
 heterosexual_AJ0
 passion_NN1
 to_TO0
-burn_VVI
+burn_NN1
 women_NN2
 up_AVP
 and_CJC
@@ -31942,9 +31942,9 @@ she_PNP
 knew_VVD
 that_CJT
 the_AT0
-act_VVI
+act_NN1
 of_PRF
-shaping_VVG-AJ0
+shaping_VVG
 a_AT0
 line_NN1
 an_AT0
@@ -31973,7 +31973,7 @@ not_XX0
 at_PRP
 all_DT0
 Thomas_NP0
-Higginson_NP0-NN1
+Higginson_NP0
 advised_VVN
 her_DPS
 not_XX0
@@ -32006,7 +32006,7 @@ a_AT0
 pretence_NN1
 that_CJT
 the_AT0
-half-told_AJ0-NN1
+half-told_AJ0
 tale_NN1
 is_VBZ
 finished_VVN
@@ -32036,7 +32036,7 @@ I_PNP
 am_VBB
 says_VVZ
 Liz_NP0
-Naylor_NP0-NN1
+Naylor_NP0
 in_PRP
 her_DPS
 postscript_NN1
@@ -32060,7 +32060,7 @@ suggests_VVZ
 that_CJT
 the_AT0
 very_AV0
-act_VVI
+act_NN1
 of_PRF
 finishing_VVG
 a_AT0
@@ -32234,7 +32234,7 @@ of_PRF
 love_NN1
 or_CJC
 loss_NN1
-present_AJ0-NN1
+present_AJ0
 in_PRP
 the_AT0
 works_NN0
@@ -32299,7 +32299,7 @@ ultimately_AV0
 many_DT0
 of_PRF
 them_PNP
-feel_VVI
+feel_VVB
 their_DPS
 salvation_NN1
 Yet_AV0
@@ -32335,13 +32335,13 @@ both_AV0
 Books_NN2
 of_PRF
 Revelations_NN2
-Struggles_NN2-VVZ
+Struggles_NN2
 in_PRP
-Tigray_NN1-NP0
+Tigray_NN1
 and_CJC
 Tanzania_NP0
 EKEI_NP0
-ETIM_NP0-NN1
+ETIM_NN1
 Nell_NP0
 Druce_NP0
 and_CJC
@@ -32352,18 +32352,18 @@ than_CJS
 Honey_NN1
 Testimonies_NN2
 of_PRF
-Tigrayan_AJ0-NN1
+Tigrayan_AJ0
 Women_NN2
-Links_NN2-VVZ
+Links_VVZ
 Publication_NN1
 \xc2\xa36.95_NN0
 pbk_NN0
 \xc2\xa319.95_NN0
 hbk_NN0
-Laetitia_NP0-NN1
-Mukurasi_NP0-NN1
+Laetitia_NP0
+Mukurasi_NN1
 Post_NN1
-Abolished_VVN-VVD
+Abolished_VVD
 One_CRD
 Woman_NN1
 's_POS
@@ -32376,7 +32376,7 @@ Tanzania_NP0
 The_AT0
 Women_NN2
 's_POS
-Press_NN1-VVB
+Press_NN1
 \xc2\xa312.95_NN0
 IN_PRP
 the_AT0
@@ -32392,7 +32392,7 @@ personal_AJ0
 assessment_NN1
 of_PRF
 the_AT0
-Tigrayan_AJ0-NN1
+Tigrayan_AJ0
 revolution_NN1
 They_PNP
 start_NN1
@@ -32429,7 +32429,7 @@ a_AT0
 democratic_AJ0
 machinery_NN1
 for_PRP
-instituting_VVG-AJ0
+instituting_VVG
 change_NN1
 are_VBB
 given_VVN
@@ -32439,7 +32439,7 @@ main_AJ0
 reasons_NN2
 why_AVQ
 the_AT0
-Tigray_NN1-NP0
+Tigray_NN1
 People_NN0
 's_POS
 Liberation_NN1
@@ -32472,7 +32472,7 @@ of_PRF
 women_NN2
 in_PRP
 the_AT0
-Tigrayan_AJ0-NN1
+Tigrayan_AJ0
 society_NN1
 is_VBZ
 still_AV0
@@ -32526,7 +32526,7 @@ Through_PRP
 the_AT0
 testimonies_NN2
 of_PRF
-Tigrayan_AJ0-NN1
+Tigrayan_AJ0
 women_NN2
 we_PNP
 learn_VVI
@@ -32618,7 +32618,7 @@ such_DT0
 as_CJS
 the_AT0
 Adi_NP0
-Hageray_NP0-NN1
+Hageray_NN1
 Women_NN2
 's_POS
 Association_NN1
@@ -32725,7 +32725,7 @@ and_CJC
 backing_NN1
 to_TO0
 the_AT0
-Tigrayan_AJ0-NN1
+Tigrayan_AJ0
 revolution_NN1
 However_AV0
 the_AT0
@@ -32765,7 +32765,7 @@ of_PRF
 the_AT0
 people_NN0
 of_PRF
-Tigray_NN1-NP0
+Tigray_NN1
 While_CJS
 the_AT0
 first_ORD
@@ -32820,7 +32820,7 @@ the_AT0
 men_NN2
 in_PRP
 authority_NN1
-conspired_VVN-VVD
+conspired_VVN
 and_CJC
 dismissed_VVN
 her_DPS
@@ -32898,8 +32898,8 @@ positions_NN2
 are_VBB
 almost_AV0
 universal_AJ0
-Laetitia_NP0-NN1
-Mukurasi_NP0-NN1
+Laetitia_NP0
+Mukurasi_NN1
 was_VBD
 the_AT0
 head_NN1
@@ -33093,7 +33093,7 @@ events_NN2
 in_PRP
 this_DT0
 book_NN1
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 symbol_NN1
@@ -33111,8 +33111,8 @@ Resistance_NN1
 in_PRP
 Hyderabad_NP0
 GARGI_NP0
-BHATTACHARYYA_NP0-NN1
-Stree_NP0-NN1
+BHATTACHARYYA_NP0
+Stree_NN1
 Shakti_NN2
 Sanghatena_NP0
 We_PNP
@@ -33122,7 +33122,7 @@ History_NN1
 Women_NN2
 and_CJC
 the_AT0
-Telangana_NP0-NN1
+Telangana_NP0
 Uprising_NN1
 Zed_AJ0
 Books_NN2
@@ -33213,7 +33213,7 @@ women_NN2
 in_PRP
 a_AT0
 struggle_NN1
-centred_VVN-VVD
+centred_VVN
 around_PRP
 the_AT0
 concerns_NN2
@@ -33230,7 +33230,7 @@ to_TO0
 this_DT0
 battle_NN1
 the_AT0
-Telagu_NN1-NP0
+Telagu_NP0
 people_NN0
 faced_VVN
 discrimination_NN1
@@ -33240,7 +33240,7 @@ linguistic_AJ0
 minority_NN1
 it_PNP
 is_VBZ
-stressed_VVD
+stressed_VVN
 that_CJT
 the_AT0
 struggle_NN1
@@ -33270,7 +33270,7 @@ book_NN1
 asserts_VVZ
 that_CJT
 the_AT0
-Telangana_NP0-NN1
+Telangana_NP0
 struggle_NN1
 is_VBZ
 now_AV0
@@ -33291,7 +33291,7 @@ took_VVD
 place_NN1
 in_PRP
 the_AT0
-Telangana_NP0-NN1
+Telangana_NP0
 region_NN1
 of_PRF
 the_AT0
@@ -33653,7 +33653,7 @@ the_AT0
 working_VVG
 class_NN1
 However_AV0
-overall_AJ0-NN1
+overall_AJ0
 the_AT0
 women_NN2
 do_VDB
@@ -33912,7 +33912,7 @@ This_DT0
 book_NN1
 offers_VVZ
 the_AT0
-English_AJ0-NN1
+English_AJ0
 language_NN1
 reader_NN1
 an_AT0
@@ -33928,7 +33928,7 @@ told_VVD
 by_PRP
 the_AT0
 women_NN2
-involved_AJ0
+involved_VVN
 However_AV0
 one_CRD
 thing_NN1
@@ -33974,9 +33974,9 @@ OF_PRF
 MODERN_AJ0
 FEMINISM_NN1
 KATHRYN_NP0
-BURLINSON_NP0-NN1
+BURLINSON_NP0
 Deirdre_NP0
-Bair_NP0-NN1
+Bair_NP0
 Simone_NP0
 de_NP0
 Beauvoir_NP0
@@ -34013,7 +34013,7 @@ of_PRF
 modern_AJ0
 feminism_NN1
 Deirdre_NP0
-Bair_NP0-NN1
+Bair_NP0
 is_VBZ
 the_AT0
 most_AV0
@@ -34029,8 +34029,8 @@ Appignanesi_NP0
 Claude_NP0
 Francis_NP0
 and_CJC
-Fernande_NP0-NN1
-Gontier_NP0-NN1
+Fernande_NP0
+Gontier_NP0
 Jane_NP0
 Heath_NN1
 and_CJC
@@ -34077,7 +34077,7 @@ Whilst_CJS
 the_AT0
 Memoirs_NN2
 inevitably_AV0
-loom_NN1-VVB
+loom_NN1
 large_AJ0
 in_PRP
 the_AT0
@@ -34115,7 +34115,7 @@ of_PRF
 her_DPS
 life_NN1
 Deirdre_NP0
-Bair_NP0-NN1
+Bair_NP0
 sees_VVZ
 her_DPS
 project_NN1
@@ -34123,14 +34123,14 @@ not_XX0
 simply_AV0
 as_CJS
 a_AT0
-rewriting_NN1-VVG
+rewriting_NN1
 of_PRF
 events_NN2
 nor_CJC
 solely_AV0
 as_CJS
 a_AT0
-rereading_NN1
+rereading_VVG
 of_PRF
 de_NP0
 Beauvoir_NP0
@@ -34143,7 +34143,7 @@ mixture_NN1
 of_PRF
 literary_AJ0
 biography_NN1
-intellectual_AJ0-NN1
+intellectual_AJ0
 history_NN1
 feminist_AJ0
 theory_NN1
@@ -34185,7 +34185,7 @@ at_PRP
 the_AT0
 end_NN1
 of_PRF
-Bair_NP0-NN1
+Bair_NP0
 's_POS
 lengthy_AJ0
 work_NN1
@@ -34237,7 +34237,7 @@ social_AJ0
 conventions_NN2
 of_PRF
 the_AT0
-French_AJ0-NN1
+French_AJ0
 haute_NN1
 bourgeoisie_NN1
 De_NP0
@@ -34329,7 +34329,7 @@ relationships_NN2
 with_PRP
 women_NN2
 Deirdre_NP0
-Bair_NP0-NN1
+Bair_NP0
 did_VDD
 not_XX0
 have_VHB
@@ -34359,7 +34359,7 @@ this_DT0
 recent_AJ0
 confirmation_NN1
 Although_CJS
-Bair_NP0-NN1
+Bair_NP0
 claims_NN2
 that_CJT
 de_NP0
@@ -34394,7 +34394,7 @@ third_ORD
 party_NN1
 for_PRP
 as_CJS
-Bair_NP0-NN1
+Bair_NP0
 stresses_VVZ
 it_PNP
 was_VBD
@@ -34408,7 +34408,7 @@ de_NP0
 Beauvoir_NP0
 without_PRP
 becoming_VVG
-involved_AJ0
+involved_VVN
 with_PRP
 Sartre_NP0
 as_CJS
@@ -34440,7 +34440,7 @@ and_CJC
 intellectually_AV0
 shackled_VVN
 herself_PNX
-Bair_NP0-NN1
+Bair_NP0
 unflinchingly_AV0
 demonstrates_VVZ
 the_AT0
@@ -34477,7 +34477,7 @@ their_DPS
 relationship_NN1
 de_NP0
 Beauvoir_NP0
-prized_VVN-AJ0
+prized_AJ0
 Sartre_NP0
 's_POS
 intellect_NN1
@@ -34513,7 +34513,7 @@ suit_NN1
 his_DPS
 wishes_NN2
 and_CJC
-rationalised_VVD-VVN
+rationalised_VVN
 her_DPS
 way_NN1
 out_AVP
@@ -34524,8 +34524,8 @@ caused_VVN
 by_PRP
 Sartre_NP0
 's_POS
-philandering_NN1-VVG
-Bair_NP0-NN1
+philandering_VVG
+Bair_NP0
 does_VDZ
 not_XX0
 blame_VVI
@@ -34572,7 +34572,7 @@ couple_NN1
 sphere_NN1
 of_PRF
 influence_NN1
-Bair_NP0-NN1
+Bair_NP0
 discusses_VVZ
 the_AT0
 de_NP0
@@ -34641,7 +34641,7 @@ somewhat_AV0
 deterministic_AJ0
 manner_NN1
 but_CJC
-Bair_NP0-NN1
+Bair_NP0
 's_POS
 readings_NN2
 are_VBB
@@ -34697,7 +34697,7 @@ detail_NN1
 in_PRP
 the_AT0
 study_NN1
-Bair_NP0-NN1
+Bair_NP0
 provides_VVZ
 informative_AJ0
 accounts_NN2
@@ -34755,7 +34755,7 @@ biography_NN1
 Much_DT0
 space_NN1
 is_VBZ
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 de_NP0
 Beauvoir_NP0
@@ -34768,7 +34768,7 @@ novelist_NN1
 Nelson_NP0
 Algren_NP0
 which_DTQ
-Bair_NP0-NN1
+Bair_NP0
 claims_NN2
 was_VBD
 a_AT0
@@ -34816,7 +34816,7 @@ with_PRP
 women_NN2
 Interestingly_AV0
 despite_PRP
-Bair_NP0-NN1
+Bair_NP0
 's_POS
 desire_NN1
 to_TO0
@@ -34853,7 +34853,7 @@ in_PRP
 confidence_NN1
 But_CJC
 if_CJS
-Bair_NP0-NN1
+Bair_NP0
 has_VHZ
 failed_VVN
 to_TO0
@@ -34895,7 +34895,7 @@ contradictions_NN2
 that_CJT
 remain_VVI
 are_VBB
-challenging_VVG-AJ0
+challenging_VVG
 not_XX0
 only_AV0
 with_PRP
@@ -34914,7 +34914,7 @@ our_DPS
 own_DT0
 lives_NN2
 Through_PRP
-Bair_NP0-NN1
+Bair_NP0
 's_POS
 memorable_AJ0
 and_CJC
@@ -34933,7 +34933,7 @@ ART_NN1
 AND_CJC
 POWER_NN1
 LYNDA_NP0
-NEAD_NP0-NN1
+NEAD_NN1
 Linda_NP0
 Nochlin_NP0
 Women_NN2
@@ -35011,7 +35011,7 @@ a_AT0
 reminder_NN1
 of_PRF
 the_AT0
-intellectual_AJ0-NN1
+intellectual_AJ0
 scope_NN1
 of_PRF
 one_CRD
@@ -35191,7 +35191,7 @@ extent_NN1
 of_PRF
 political_AJ0
 and_CJC
-intellectual_AJ0-NN1
+intellectual_AJ0
 change_NN1
 in_PRP
 the_AT0
@@ -35281,7 +35281,7 @@ errors_NN2
 of_PRF
 fact_NN1
 or_CJC
-feel_VVI
+feel_VVB
 to_TO0
 be_VBI
 mistakes_NN2
@@ -35325,7 +35325,7 @@ be_VBI
 placed_VVN
 within_PRP
 that_CJT
-intellectual_AJ0-NN1
+intellectual_AJ0
 and_CJC
 political_AJ0
 context_NN1
@@ -35338,7 +35338,7 @@ reflective_AJ0
 introduction_NN1
 is_VBZ
 I_PNP
-feel_VVI
+feel_VVB
 the_AT0
 one_CRD
 real_AJ0
@@ -35412,7 +35412,7 @@ Power_NN1
 which_DTQ
 brings_VVZ
 together_AV0
-French_AJ0-NN1
+French_AJ0
 British_AJ0
 Spanish_AJ0
 and_CJC
@@ -35469,7 +35469,7 @@ Nurse_NN1
 and_CJC
 Dante_NP0
 Gabriel_NP0
-Rossetti_NP0-NN1
+Rossetti_NP0
 's_POS
 Found_VVN
 Nochlin_NP0
@@ -35499,7 +35499,7 @@ complex_AJ0
 relations_NN2
 of_PRF
 power_NN1
-involved_AJ0
+involved_VVN
 in_PRP
 a_AT0
 woman_NN1

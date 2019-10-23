@@ -16,7 +16,7 @@ struggle_NN1
 between_PRP
 Jew_NN1
 and_CJC
-Arab_AJ0-NN1
+Arab_AJ0
 for_PRP
 Palestine_NP0
 became_VVD
@@ -33,7 +33,7 @@ from_PRP
 the_AT0
 map_NN1
 and_CJC
-Arab_AJ0-NN1
+Arab_AJ0
 nationalism_NN1
 over_PRP
 the_AT0
@@ -51,7 +51,7 @@ foremost_AJS
 duty_NN1
 of_PRF
 every_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 state_NN1
 By_PRP
 1967_CRD
@@ -63,7 +63,7 @@ last_ORD
 vestige_NN1
 of_PRF
 things_NN2
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 to_TO0
 the_AT0
 outside_PRP
@@ -143,7 +143,7 @@ the_AT0
 weakening_VVG
 of_PRF
 the_AT0
-Ottoman_AJ0-NN1
+Ottoman_AJ0
 hold_VVI
 on_PRP
 the_AT0
@@ -192,7 +192,7 @@ and_CJC
 also_AV0
 sucked_VVN
 neighbouring_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 into_PRP
 the_AT0
@@ -250,7 +250,7 @@ potent_AJ0
 position_NN1
 in_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 consciousness_NN1
 It_PNP
 was_VBD
@@ -260,14 +260,14 @@ discuss_VVI
 the_AT0
 idea_NN1
 of_PRF
-Arab_AJ0-NN1
+Arab_AJ0
 nationalism_NN1
 without_PRP
 mentioning_VVG
 Palestine_NP0
 because_CJS
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 political_AJ0
 awakening_NN1
 occurred_VVD
@@ -276,7 +276,7 @@ the_AT0
 very_AV0
 years_NN2
 of_PRF
-Zionist_AJ0-NN1
+Zionist_AJ0
 settlement_NN1
 in_PRP
 Palestine_NP0
@@ -294,9 +294,9 @@ alien_AJ0
 presence_NN1
 in_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 body_NN1
-politic_NN1-AJ0
+politic_AJ0
 During_PRP
 the_AT0
 1950s_CRD
@@ -310,7 +310,7 @@ gained_VVN
 in_PRP
 importance_NN1
 in_PRP
-Arab_AJ0-NN1
+Arab_AJ0
 national_AJ0
 thinking_VVG
 The_AT0
@@ -328,7 +328,7 @@ visible_AJ0
 while_CJS
 from_PRP
 an_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 perspective_NN1
 the_AT0
 creation_NN1
@@ -346,10 +346,10 @@ the_AT0
 face_NN1
 of_PRF
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 nation_NN1
 The_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 and_CJC
 especially_AV0
@@ -378,7 +378,7 @@ the_AT0
 most_AV0
 striking_AJ0
 example_NN1
-Arab_AJ0-NN1
+Arab_AJ0
 national_AJ0
 consciousness_NN1
 was_VBD
@@ -390,7 +390,7 @@ ease_NN1
 with_PRP
 which_DTQ
 the_AT0
-fledgeling_AJ0-NN1
+fledgeling_NN1
 State_NN1
 of_PRF
 Israel_NP0
@@ -398,7 +398,7 @@ defied_VVD
 and_CJC
 defeated_VVN
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 in_PRP
 1945_CRD
@@ -408,7 +408,7 @@ the_AT0
 strength_NN1
 of_PRF
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 nation_NN1
 be_VBI
 vindicated_VVN
@@ -422,12 +422,12 @@ this_DT0
 alien_AJ0
 presence_NN1
 from_PRP
-Arab_AJ0-NN1
+Arab_AJ0
 soil_NN1
 The_AT0
 success_NN1
 of_PRF
-Arab_AJ0-NN1
+Arab_AJ0
 nationalism_NN1
 was_VBD
 predicated_VVN
@@ -444,13 +444,13 @@ and_CJC
 political_AJ0
 issue_NN1
 no_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 government_NN1
 could_VM0
 avoid_VVI
 For_PRP
 any_DT0
-Arab_AJ0-NN1
+Arab_AJ0
 regime_NN1
 to_TO0
 deny_VVI
@@ -463,7 +463,7 @@ virtually_AV0
 to_TO0
 deny_VVI
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 nation_NN1
 Palestine_NP0
 remained_VVD
@@ -473,7 +473,7 @@ felt_VVD
 issue_NN1
 by_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 masses_NN2
 from_PRP
 the_AT0
@@ -491,7 +491,7 @@ way_NN1
 of_PRF
 embarrassing_AJ0
 another_DT0
-Arab_AJ0-NN1
+Arab_AJ0
 state_NN1
 than_CJS
 to_TO0
@@ -501,7 +501,7 @@ with_PRP
 betrayal_NN1
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 cause_NN1
 Palestine_NP0
 was_VBD
@@ -517,7 +517,7 @@ decade_NN1
 after_PRP
 1945_CRD
 between_PRP
-Arab_AJ0-NN1
+Arab_AJ0
 nationalists_NN2
 and_CJC
 the_AT0
@@ -543,7 +543,7 @@ political_AJ0
 leadership_NN1
 of_PRF
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 Iraq_NP0
 was_VBD
@@ -609,7 +609,7 @@ with_PRP
 the_AT0
 issues_NN2
 of_PRF
-Arab_AJ0-NN1
+Arab_AJ0
 nationalism_NN1
 Syria_NP0
 and_CJC
@@ -627,7 +627,7 @@ nationalism_NN1
 the_AT0
 realization_NN1
 of_PRF
-Arab_AJ0-NN1
+Arab_AJ0
 stature_NN1
 while_CJS
 Jordan_NP0
@@ -759,7 +759,7 @@ the_AT0
 recovery_NN1
 of_PRF
 the_AT0
-Golan_AJ0-NN1
+Golan_NN1
 Heights_NN2
 to_TO0
 the_AT0
@@ -898,7 +898,7 @@ both_AV0
 then_AV0
 threatened_VVN
 by_PRP
-Arab_AJ0-NN1
+Arab_AJ0
 radicalism_NN1
 In_PRP
 1970_CRD
@@ -909,7 +909,7 @@ in_PRP
 support_NN1
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 guerrillas_NN2
 but_CJC
 promptly_AV0
@@ -948,7 +948,7 @@ Jordan_NP0
 embarrassed_AJ0
 in_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 arena_NN1
 Subsequently_AV0
 the_AT0
@@ -1039,7 +1039,7 @@ wing_NN1
 of_PRF
 the_AT0
 PLO_NP0
-negotiating_VVG
+negotiating_NN1
 a_AT0
 separate_AJ0
 peace_NN1
@@ -1060,7 +1060,7 @@ its_DPS
 primacy_NN1
 in_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 struggle_NN1
 against_PRP
 Israel_NP0
@@ -1161,7 +1161,7 @@ was_VBD
 40_CRD
 per_UNC
 cent_UNC
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 Jordan_NP0
 's_POS
 overriding_AJ0
@@ -1185,7 +1185,7 @@ the_AT0
 imperatives_NN2
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 movement_NN1
 and_CJC
 its_DPS
@@ -1273,13 +1273,13 @@ with_PRP
 the_AT0
 West_NP0
 Bank_NP0
-re-incorporated_VVD-VVN
+re-incorporated_VVD
 into_PRP
 Jordan_NP0
 or_CJC
 with_PRP
 a_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 state_NN1
 in_PRP
 the_AT0
@@ -1437,7 +1437,7 @@ communities_NN2
 to_TO0
 challenge_NN1
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 environment_NN1
 in_PRP
 which_DTQ
@@ -1522,12 +1522,12 @@ the_AT0
 emergence_NN1
 of_PRF
 a_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 state_NN1
 It_PNP
 perceived_VVN
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 movement_NN1
 as_CJS
 an_AT0
@@ -1576,7 +1576,7 @@ determined_VVN
 to_TO0
 achieve_VVI
 a_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 state_NN1
 in_PRP
 part_NN1
@@ -1585,13 +1585,13 @@ not_XX0
 all_DT0
 of_PRF
 Palestine_NP0
-Composed_VVD-VVN
+Composed_VVN
 of_PRF
 differing_AJ0
 strands_NN2
 of_PRF
-Palestinian_AJ0-NN1
-nationalist_AJ0-NN1
+Palestinian_AJ0
+nationalist_AJ0
 thought_VVD
 the_AT0
 PLO_NP0
@@ -1635,7 +1635,7 @@ PLO_NP0
 relations_NN2
 with_PRP
 other_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 One_CRD
 part_NN1
@@ -1720,7 +1720,7 @@ involvement_NN1
 of_PRF
 the_AT0
 superpowers_NN2
-Support_NN1-VVB
+Support_NN1
 was_VBD
 welcomed_VVN
 but_CJC
@@ -1961,7 +1961,7 @@ led_VVD
 to_TO0
 a_AT0
 complex_AJ0
-Balkan_AJ0-NN1
+Balkan_AJ0
 situation_NN1
 in_PRP
 the_AT0
@@ -1982,7 +1982,7 @@ and_CJC
 against_PRP
 it_PNP
 certain_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 supported_VVN
 in_PRP
@@ -2018,7 +2018,7 @@ of_PRF
 the_AT0
 enemy_NN1
 Accommodationist_NN1
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 termed_VVN
 moderate_AJ0
@@ -2039,7 +2039,7 @@ the_AT0
 rest_NN1
 of_PRF
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 and_CJC
 to_TO0
@@ -2102,7 +2102,7 @@ socialism_NN1
 dominant_AJ0
 in_PRP
 the_AT0
-Yishuv_NN1-NP0
+Yishuv_NN1
 might_VM0
 be_VBI
 a_AT0
@@ -2115,7 +2115,7 @@ a_AT0
 pro-Western_AJ0
 but_CJC
 semi-feudal_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 In_PRP
 the_AT0
@@ -2287,7 +2287,7 @@ American_AJ0
 Jewish_AJ0
 sources_NN2
 The_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 had_VHD
 no_AT0
@@ -2308,27 +2308,27 @@ early_AJ0
 1950s_CRD
 however_AV0
 the_AT0
-Egyptian_AJ0-NN1
+Egyptian_AJ0
 revolution_NN1
 and_CJC
 the_AT0
 widespread_AJ0
-Arab_AJ0-NN1
-nationalist_AJ0-NN1
+Arab_AJ0
+nationalist_AJ0
 sentiments_NN2
 which_DTQ
 it_PNP
 fostered_VVN
 throughout_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 found_VVD
 expression_NN1
 in_PRP
 anti-Western_AJ0
 sentiment_NN1
-Egyptian_AJ0-NN1
+Egyptian_AJ0
 non-alignment_NN1
 and_CJC
 its_DPS
@@ -2539,7 +2539,7 @@ powerful_AJ0
 outside_PRP
 backer_NN1
 As_CJS
-Menachem_NP0-NN1
+Menachem_NN1
 Begin_VVB
 recalled_VVD
 Ben_NP0
@@ -2612,7 +2612,7 @@ preferential_AJ0
 treatment_NN1
 over_PRP
 any_DT0
-Arab_AJ0-NN1
+Arab_AJ0
 state_NN1
 our_DPS
 policy_NN1
@@ -2633,7 +2633,7 @@ in_PRP
 amity_NN1
 with_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 and_CJC
 our_DPS
@@ -2645,7 +2645,7 @@ of_PRF
 each_DT0
 of_PRF
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 corresponds_VVZ
 substantially_AV0
@@ -3135,7 +3135,7 @@ its_DPS
 client_NN1
 to_TO0
 be_VBI
-vanquished_AJ0
+vanquished_VVN
 By_PRP
 the_AT0
 middle_NN1
@@ -3183,7 +3183,7 @@ frontiers_NN2
 made_VVN
 the_AT0
 main_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 capitals_NN2
 far_AV0
 more_AV0
@@ -3198,7 +3198,7 @@ to_TO0
 supply_NN1
 the_AT0
 F-4E_UNC
-Phantom_AJ0-NN1
+Phantom_NN1
 which_DTQ
 would_VM0
 as_CJS
@@ -3276,7 +3276,7 @@ April_NP0
 the_AT0
 Soviet_AJ0
 Union_NN1
-commenced_VVD-VVN
+commenced_VVD
 the_AT0
 shipment_NN1
 of_PRF
@@ -3316,7 +3316,7 @@ Suez_NP0
 Canal_NN1
 Israel_NP0
 lost_VVN
-overall_AJ0-NN1
+overall_AJ0
 air_NN1
 supremacy_NN1
 for_PRP
@@ -3579,7 +3579,7 @@ high_AJ0
 watermark_NN1
 of_PRF
 the_AT0
-US-Israeli_AJ0-NN1
+US-Israeli_NN1
 alliance_NN1
 combining_VVG
 an_AT0
@@ -3714,13 +3714,13 @@ on_PRP
 the_AT0
 tide_NN1
 of_PRF
-Arab_AJ0-NN1
+Arab_AJ0
 nationalism_NN1
 Soviet_AJ0
 support_NN1
 for_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 however_AV0
 proved_VVN
@@ -3738,7 +3738,7 @@ very_AV0
 weakness_NN1
 of_PRF
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 economically_AV0
 militarily_AV0
@@ -3836,7 +3836,7 @@ Egypt_NP0
 and_CJC
 other_AJ0
 revolutionary_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 to_TO0
 evict_VVI
@@ -3884,10 +3884,10 @@ commend_VVI
 itself_PNX
 to_TO0
 most_AV0
-Arab_AJ0-NN1
+Arab_AJ0
 regimes_NN2
 the_AT0
-Soviet-Arab_AJ0-NN1
+Soviet-Arab_NN1
 bond_NN1
 was_VBD
 bound_VVN
@@ -3903,7 +3903,7 @@ soviet_NN1
 Union_NN1
 and_CJC
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 knew_VVD
 that_CJT
@@ -3926,7 +3926,7 @@ opportunity_NN1
 presented_VVN
 itself_PNX
 some_DT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 for_PRP
 example_NN1
@@ -3952,7 +3952,7 @@ their_DPS
 foreign_AJ0
 relations_NN2
 and_CJC
-cultivated_AJ0
+cultivated_VVN
 the_AT0
 United_NP0
 States_NP0
@@ -4100,7 +4100,7 @@ between_PRP
 the_AT0
 Soviet_AJ0
 and_CJC
-Arab_AJ0-NN1
+Arab_AJ0
 governments_NN2
 into_PRP
 the_AT0
@@ -4259,7 +4259,7 @@ of_PRF
 her_DPS
 gains_NN2
 The_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 on_PRP
 the_AT0
@@ -4299,8 +4299,8 @@ was_VBD
 expressed_VVN
 in_PRP
 greatly_AV0
-intensified_VVD-VVN
-rearming_NN1-VVG
+intensified_VVD
+rearming_NN1
 The_AT0
 international_AJ0
 community_NN1
@@ -4338,7 +4338,7 @@ the_AT0
 belligerents_NN2
 themselves_PNX
 should_VM0
-cast_VVN
+cast_NN1
 its_DPS
 prescriptive_AJ0
 Resolution_NN1
@@ -4527,7 +4527,7 @@ of_PRF
 State_NN1
 Henry_NP0
 Kissinger_NP0
-Cyrus_NN1-NP0
+Cyrus_NP0
 Vance_NP0
 and_CJC
 George_NP0
@@ -4677,7 +4677,7 @@ its_DPS
 acceptance_NN1
 by_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 as_CJS
 sole_AJ0
@@ -4685,7 +4685,7 @@ legitimate_AJ0
 representative_NN1
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 people_NN0
 in_PRP
 1974_CRD
@@ -4698,16 +4698,16 @@ reluctance_NN1
 even_AV0
 among_PRP
 some_DT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 to_TO0
-accord_VVI
+accord_NN1
 it_PNP
-negotiating_VVG
+negotiating_NN1
 authority_NN1
 for_PRP
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 people_NN0
 Any_DT0
 non-governmental_AJ0
@@ -4760,10 +4760,10 @@ by_PRP
 members_NN2
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 movement_NN1
 Jordan_NP0
-well-disposed_NN1-AJ0
+well-disposed_AJ0
 to_TO0
 the_AT0
 West_NP0
@@ -4834,7 +4834,7 @@ in_PRP
 1967_CRD
 no_AT0
 coherent_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 movement_NN1
 existed_VVD
 it_PNP
@@ -4846,8 +4846,8 @@ international_AJ0
 community_NN1
 did_VDD
 not_XX0
-accord_VVI
-Palestinian_AJ0-NN1
+accord_NN1
+Palestinian_AJ0
 interests_NN2
 the_AT0
 consideration_NN1
@@ -4862,7 +4862,7 @@ the_AT0
 possibility_NN1
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 people_NN0
 acquiring_VVG
 their_DPS
@@ -4912,7 +4912,7 @@ return_NN1
 to_TO0
 Jordanian_AJ0
 or_CJC
-Egyptian_AJ0-NN1
+Egyptian_AJ0
 control_NN1
 and_CJC
 wanted_VVD
@@ -5113,7 +5113,7 @@ direct_AJ0
 negotiations_NN2
 The_AT0
 defeated_VVN
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 fearful_AJ0
 of_PRF
@@ -5279,7 +5279,7 @@ Israeli_AJ0
 objectives_NN2
 may_VM0
 be_VBI
-shifting_AJ0-VVG
+shifting_AJ0
 from_PRP
 original_AJ0
 position_NN1
@@ -5361,7 +5361,7 @@ settlement_NN1
 with_PRP
 Arabs_NN2
 Each_DT0
-act_VVI
+act_NN1
 of_PRF
 Jewish_AJ0
 settlement_NN1
@@ -5451,7 +5451,7 @@ communications_NN2
 Neither_DT0
 the_AT0
 United_NP0
-State\xe2\x80\x93_NP0-NN1
+State\xe2\x80\x93_NP0
 nor_CJC
 any_DT0
 other_AJ0
@@ -5482,7 +5482,7 @@ sufficiently_AV0
 serious_AJ0
 to_TO0
 require_VVB
-concrete_AJ0-NN1
+concrete_AJ0
 preventive_AJ0
 measures_NN2
 or_CJC
@@ -5519,7 +5519,7 @@ both_AV0
 Jerusalem_NP0
 and_CJC
 the_AT0
-Golan_AJ0-NN1
+Golan_NN1
 Heights_NN2
 They_PNP
 all_DT0
@@ -5666,7 +5666,7 @@ of_PRF
 the_AT0
 Palestinians_NN2
 first_ORD
-enunciated_VVN
+enunciated_VVD
 in_PRP
 1973_CRD
 But_CJC
@@ -5721,7 +5721,7 @@ could_VM0
 not_XX0
 oppose_VVI
 the_AT0
-Israeli-Egyptian_AJ0-NN1
+Israeli-Egyptian_AJ0
 peace_NN1
 treaty_NN1
 brokered_VVD
@@ -5765,7 +5765,7 @@ the_AT0
 right_NN1
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 people_NN0
 to_TO0
 a_AT0
@@ -5817,7 +5817,7 @@ full_AJ0
 self-determination_NN1
 for_PRP
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 people_NN0
 and_CJC
 the_AT0
@@ -5845,7 +5845,7 @@ but_CJC
 inadequate_AJ0
 by_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 as_CJS
 intrinsically_AV0
@@ -5957,7 +5957,7 @@ policy_NN1
 The_AT0
 risks_NN2
 of_PRF
-peacemaking_VVG-AJ0
+peacemaking_VVG
 seemed_VVD
 too_AV0
 great_AJ0
@@ -6117,7 +6117,7 @@ Sinai_NP0
 and_CJC
 on_PRP
 the_AT0
-Golan_AJ0-NN1
+Golan_NN1
 Heights_NN2
 Henry_NP0
 Kissinger_NP0
@@ -6154,7 +6154,7 @@ the_AT0
 United_NP0
 States_NP0
 at_PRP
-Camp_NP0-NN1
+Camp_NN1
 David_NP0
 reinforced_VVN
 perceptions_NN2
@@ -6245,7 +6245,7 @@ state_NN1
 free_AJ0
 of_PRF
 Syrian_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 and_CJC
 Soviet_AJ0
 influence_NN1
@@ -6349,7 +6349,7 @@ the_AT0
 collapse_NN1
 of_PRF
 the_AT0
-Phalangist_AJ0-NN1
+Phalangist_AJ0
 government_NN1
 America_NP0
 's_POS
@@ -6594,9 +6594,9 @@ Carter_NP0
 understanding_NN1
 of_PRF
 the_AT0
-Camp_NP0-NN1
+Camp_NN1
 David_NP0
-Accords_NN2-VVZ
+Accords_VVZ
 by_PRP
 intensification_NN1
 of_PRF
@@ -6707,7 +6707,7 @@ and_CJC
 Syria_NP0
 Egypt_NP0
 has_VHZ
-reneged_VVD
+reneged_VVN
 on_PRP
 its_DPS
 commitment_NN1
@@ -6936,7 +6936,7 @@ the_AT0
 cost_NN1
 of_PRF
 a_AT0
-damaging_VVG-AJ0
+damaging_AJ0
 political_AJ0
 reverse_NN1
 The_AT0
@@ -6953,7 +6953,7 @@ legitimate_AJ0
 rights_NN2
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 people_NN0
 and_CJC
 called_VVN
@@ -6962,7 +6962,7 @@ the_AT0
 participation_NN1
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 people_NN0
 a_AT0
 major_AJ0
@@ -6991,7 +6991,7 @@ establishment_NN1
 of_PRF
 an_AT0
 independent_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 state_NN1
 and_CJC
 the_AT0
@@ -7158,7 +7158,7 @@ own_DT0
 version_NN1
 of_PRF
 the_AT0
-Camp_NP0-NN1
+Camp_NN1
 David_NP0
 autonomy_NN1
 plan_NN1
@@ -7223,10 +7223,10 @@ policy_NN1
 towards_PRP
 its_DPS
 neighbours_NN2
-Arab_AJ0-NN1
+Arab_AJ0
 weakness_NN1
 and_CJC
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 strength_NN1
 A_AT0
 major_AJ0
@@ -7244,7 +7244,7 @@ the_AT0
 weakness_NN1
 of_PRF
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 Ever_AV0
 since_CJS
@@ -7367,7 +7367,7 @@ of_PRF
 the_AT0
 conflict_NN1
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 people_NN0
 have_VHB
 been_VBN
@@ -7387,18 +7387,18 @@ Liberation_NN1
 Organization_NN1
 replaced_VVN
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 as_CJS
 the_AT0
 focus_NN1
 for_PRP
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 hopes_NN2
 However_AV0
 like_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 the_AT0
 PLO_NP0
@@ -7435,7 +7435,7 @@ declining_AJ0
 in_PRP
 credibility_NN1
 as_CJS
-Arab_AJ0-NN1
+Arab_AJ0
 nationalism_NN1
 had_VHD
 done_VDN
@@ -7448,7 +7448,7 @@ PLO_NP0
 enjoyed_VVD
 what_DTQ
 every_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 regime_NN1
 lacked_VVD
 and_CJC
@@ -7480,7 +7480,7 @@ the_AT0
 PLO_NP0
 and_CJC
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 people_NN0
 have_VHB
 drawn_VVN
@@ -7545,7 +7545,7 @@ undisguised_AJ0
 military_AJ0
 occupation_NN1
 to_TO0
-self-administration_NN1-AJ0
+self-administration_NN1
 and_CJC
 refused_VVD
 to_TO0
@@ -7558,12 +7558,12 @@ to_TO0
 create_VVI
 an_AT0
 accommodationist_NN1
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 leadership_NN1
 in_PRP
 the_AT0
 territories_NN2
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 stubbornness_NN1
 has_VHZ
 become_VVI
@@ -7731,7 +7731,7 @@ was_VBD
 pre-eminently_AV0
 qualified_AJ0
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 peace_NN1
 broker_NN1
@@ -7776,7 +7776,7 @@ of_PRF
 trust_NN1
 and_CJC
 reliability'_NN1
-jarred_VVN-AJ0
+jarred_VVN
 with_PRP
 assessments_NN2
 in_PRP
@@ -7844,7 +7844,7 @@ indicate_VVI
 an_AT0
 increase_NN1
 in_PRP
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 confidence_NN1
 in_PRP
 the_AT0
@@ -7885,7 +7885,7 @@ and_CJC
 an_AT0
 affirmation_NN1
 of_PRF
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 identity_NN1
 but_CJC
 it_PNP
@@ -7922,7 +7922,7 @@ realities_NN2
 did_VDD
 the_AT0
 PLO_NP0
-feel_VVI
+feel_VVB
 strong_AJ0
 enough_AV0
 to_TO0
@@ -8066,7 +8066,7 @@ substantive_AJ0
 interlocutor_NN1
 for_PRP
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 people_NN0
 after_PRP
 world_NN1
@@ -8165,7 +8165,7 @@ failed_VVN
 to_TO0
 do_VDB
 so_AV0
-verbatim_AV0-AJ0
+verbatim_AJ0
 it_PNP
 required_VVN
 him_PNP
@@ -8434,7 +8434,7 @@ argument_NN1
 runs_VVZ
 has_VHZ
 a_AT0
-quietening_AJ0
+quietening_VVG
 effect_NN1
 on_PRP
 the_AT0
@@ -8570,7 +8570,7 @@ the_AT0
 knowledge_NN1
 that_CJT
 the_AT0
-Egyptian_AJ0-NN1
+Egyptian_AJ0
 front_NN1
 was_VBD
 quiescent_AJ0
@@ -8593,7 +8593,7 @@ East_NN1
 and_CJC
 celebrated_AJ0
 the_AT0
-Lebanese-Israeli_AJ0-NN1
+Lebanese-Israeli_AJ0
 Withdrawal_NN1
 Agreement_NN1
 by_PRP
@@ -8767,7 +8767,7 @@ East_NN1
 particularly_AV0
 Israel_NP0
 had_VHD
-increased_AJ0
+increased_VVN
 rather_AV0
 than_CJS
 receded_VVD
@@ -8800,12 +8800,12 @@ into_PRP
 yet_AV0
 more_AV0
 sophisticated_AJ0
-rearming_NN1-VVG
+rearming_NN1
 of_PRF
 their_DPS
 clients_NN2
 and_CJC
-increased_AJ0
+increased_VVN
 the_AT0
 tactical_AJ0
 and_CJC
@@ -8978,7 +8978,7 @@ By_PRP
 its_DPS
 declaration_NN1
 of_PRF
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 independence_NN1
 the_AT0
 PNC_NP0
@@ -9064,7 +9064,7 @@ United_NP0
 States_NP0
 accepts_VVZ
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 claim_NN1
 to_TO0
 sovereignty_NN1
@@ -9085,7 +9085,7 @@ since_CJS
 there_EX0
 is_VBZ
 no_AT0
-US-recognized_AJ0-NN1
+US-recognized_NN1
 state_NN1
 to_TO0
 which_DTQ
@@ -9171,7 +9171,7 @@ is_VBZ
 that_CJT
 Israel_NP0
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 including_PRP
 the_AT0
@@ -9221,7 +9221,7 @@ Israel_NP0
 's_POS
 own_DT0
 growing_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 population_NN1
 an_AT0
 issue_NN1
@@ -9246,7 +9246,7 @@ region_NN1
 If_CJS
 there_EX0
 is_VBZ
-regret_VVI
+regret_NN1
 over_PRP
 the_AT0
 failure_NN1
@@ -9271,7 +9271,7 @@ grounds_NN2
 for_PRP
 even_AV0
 greater_AJC
-regret_VVI
+regret_NN1
 that_CJT
 the_AT0
 1949_CRD
@@ -9299,7 +9299,7 @@ November_NP0
 1988_CRD
 the_AT0
 new_AJ0
-Likud-dominated_AJ0-NN1
+Likud-dominated_AJ0
 government_NN1
 resumed_VVD
 the_AT0
@@ -9366,7 +9366,7 @@ an_AT0
 Israeli_AJ0
 or_CJC
 a_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 view_NN1
 As_CJS
 the_AT0
@@ -9550,7 +9550,7 @@ come_VVI
 about_PRP
 if_CJS
 both_AV0
-accord_VVI
+accord_NN1
 the_AT0
 region_NN1
 less_AV0
@@ -9574,7 +9574,7 @@ British_AJ0
 imperial_AJ0
 interests_NN2
 Then_AV0
-Arab_AJ0-NN1
+Arab_AJ0
 oil_NN1
 became_VVD
 the_AT0
@@ -9932,7 +9932,7 @@ may_VM0
 be_VBI
 a_AT0
 closer_AV0
-matching_VVG
+matching_AJ0
 of_PRF
 political_AJ0
 and_CJC
@@ -9984,7 +9984,7 @@ not_XX0
 Syria_NP0
 also_AV0
 a_AT0
-chemical_AJ0-NN1
+chemical_AJ0
 and_CJC
 biological_AJ0
 warfare_NN1
@@ -10130,7 +10130,7 @@ the_AT0
 abandonment_NN1
 of_PRF
 the_AT0
-Golan_AJ0-NN1
+Golan_NN1
 Heights_NN2
 on_PRP
 condition_NN1
@@ -10165,7 +10165,7 @@ the_AT0
 most_AV0
 important_AJ0
 ingredient_NN1
-missing_VVG-AJ0
+missing_VVG
 hitherto_AV0
 from_PRP
 the_AT0
@@ -10288,7 +10288,7 @@ yet_AV0
 willing_AJ0
 to_TO0
 encourage_VVI
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 accommodationist_NN1
 tendencies_NN2
 by_PRP
@@ -10329,7 +10329,7 @@ alone_AJ0
 recognition_NN1
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 right_NN1
 to_TO0
 self-determination_NN1
@@ -10432,7 +10432,7 @@ of_PRF
 representative_NN1
 that_CJT
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 people_NN0
 have_VHB
 made_VVN
@@ -10865,16 +10865,16 @@ State_NN1
 Schultz_NP0
 was_VBD
 still_AV0
-discounting_VVG-NN1
+discounting_VVG
 any_DT0
 idea_NN1
 of_PRF
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 independence_NN1
 insisting_VVG
 that_CJT
 any_DT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 representation_NN1
 must_VM0
 be_VBI
@@ -10906,14 +10906,14 @@ a_AT0
 joint_AJ0
 Jordanian_AJ0
 and_CJC
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 delegation_NN1
 it_PNP
 being_VBG
 understood_VVN
 that_CJT
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 component_NN1
 even_AV0
 though_CJS
@@ -10979,7 +10979,7 @@ team_NN1
 should_VM0
 be_VBI
 solely_AV0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 One_CRD
 year_NN1
 before_PRP
@@ -11003,7 +11003,7 @@ sovereignty_NN1
 even_AV0
 on_PRP
 an_AT0
-interim_AJ0-NN1
+interim_AJ0
 basis_NN1
 A_AT0
 confederation_NN1
@@ -11058,7 +11058,7 @@ United_NP0
 States_NP0
 seriously_AV0
 misjudged_VVD
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 feelings_NN2
 towards_PRP
 the_AT0
@@ -11125,7 +11125,7 @@ past_NN1
 half_DT0
 century_NN1
 The_AT0
-Amir_NP0-NN1
+Amir_NN1
 Abdallah_NP0
 of_PRF
 Transjordan_NP0
@@ -11143,7 +11143,7 @@ ruler_NN1
 of_PRF
 Transjordan_NP0
 the_AT0
-Amir_NP0-NN1
+Amir_NN1
 Abdallah_NP0
 grandfather_NN1
 of_PRF
@@ -11175,7 +11175,7 @@ and_CJC
 ruler_NN1
 of_PRF
 the_AT0
-Hijaz_NP0-NN1
+Hijaz_NN1
 and_CJC
 the_AT0
 British_AJ0
@@ -11194,12 +11194,12 @@ which_DTQ
 they_PNP
 wrested_VVD
 from_PRP
-Ottoman_AJ0-NN1
+Ottoman_AJ0
 control_NN1
 Having_VHG
 led_VVD
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 revolt_NN1
 Faysal_NP0
 briefly_AV0
@@ -11208,7 +11208,7 @@ King_NP0
 of_PRF
 Syria_NP0
 before_PRP
-French_AJ0-NN1
+French_AJ0
 forces_NN2
 expelled_VVN
 him_PNP
@@ -11230,7 +11230,7 @@ Abdallah_NP0
 advanced_AJ0
 from_PRP
 the_AT0
-Hijaz_NP0-NN1
+Hijaz_NN1
 through_PRP
 the_AT0
 territory_NN1
@@ -11256,9 +11256,9 @@ the_AT0
 avowed_AJ0
 intention_NN1
 of_PRF
-ejecting_VVG-AJ0
+ejecting_VVG
 the_AT0
-French_AJ0-NN1
+French_AJ0
 from_PRP
 Syria_NP0
 Britain_NP0
@@ -11300,7 +11300,7 @@ to_TO0
 rule_NN1
 the_AT0
 whole_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 Levant_NP0
 With_PRP
 his_DPS
@@ -11404,7 +11404,7 @@ greatly_AV0
 enhanced_VVN
 Unlike_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 inhabitants_NN2
 of_PRF
 Palestine_NP0
@@ -11417,10 +11417,10 @@ economic_AJ0
 development_NN1
 which_DTQ
 the_AT0
-Zionist_AJ0-NN1
+Zionist_AJ0
 programme_NN1
 promised_VVD
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 nationalists_NN2
 became_VVD
 suspicious_AJ0
@@ -11435,7 +11435,7 @@ was_VBD
 seeking_VVG
 recognition_NN1
 as_CJS
-Amir_NP0-NN1
+Amir_NN1
 of_PRF
 Palestine_NP0
 in_PRP
@@ -11443,7 +11443,7 @@ return_NN1
 for_PRP
 support_NN1
 of_PRF
-Zionist_AJ0-NN1
+Zionist_AJ0
 policy_NN1
 By_PRP
 the_AT0
@@ -11531,7 +11531,7 @@ united_AJ0
 kingdom_NN1
 When_CJS
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 revolt_NN1
 broke_VVD
 out_AVP
@@ -11543,7 +11543,7 @@ urged_VVD
 Britain_NP0
 to_TO0
 exile_NN1
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 leaders_NN2
 and_CJC
 offered_VVN
@@ -11558,11 +11558,11 @@ sabotage_NN1
 intervention_NN1
 by_PRP
 other_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 When_CJS
 the_AT0
-Peel_NP0-NN1
+Peel_NP0
 Commission_NN1
 proposed_AJ0
 partition_NN1
@@ -11574,7 +11574,7 @@ virtually_AV0
 alone_AJ0
 in_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 in_PRP
 his_DPS
@@ -11588,7 +11588,7 @@ the_AT0
 incorporation_NN1
 of_PRF
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 portion_NN1
 into_PRP
 his_DPS
@@ -11628,13 +11628,13 @@ Abdallah_NP0
 plans_NN2
 partly_AV0
 because_CJS
-uniting_VVG-AJ0
+uniting_VVG
 Transjordan_NP0
 and_CJC
 Palestine_NP0
 might_VM0
 renew_VVI
-Zionist_AJ0-NN1
+Zionist_AJ0
 opportunities_NN2
 east_NN1
 of_PRF
@@ -11660,7 +11660,7 @@ association_NN1
 of_PRF
 the_AT0
 proposed_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 state_NN1
 with_PRP
 Transjordan_NP0
@@ -11678,7 +11678,7 @@ Abdallah_NP0
 unpopular_AJ0
 throughout_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 Abdallah_NP0
 nursed_VVD
@@ -11691,7 +11691,7 @@ the_AT0
 declaration_NN1
 of_PRF
 the_AT0
-Biltmore_NP0-NN1
+Biltmore_NN1
 Programme_NN1
 in_PRP
 1942_CRD
@@ -11725,8 +11725,8 @@ being_VBG
 contingent_NN1
 not_XX0
 upon_PRP
-Palestinian_AJ0-NN1
-Arab_AJ0-NN1
+Palestinian_AJ0
+Arab_AJ0
 consent_NN1
 but_CJC
 upon_PRP
@@ -11774,7 +11774,7 @@ Along_PRP
 with_PRP
 every_AT0
 other_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 state_NN1
 he_PNP
 officially_AV0
@@ -11859,7 +11859,7 @@ as_CJS
 saying_VVG
 and_CJC
 he_PNP
-assured_VVD
+assured_VVN
 me_PNP
 of_PRF
 them_PNP
@@ -11879,7 +11879,7 @@ that_CJT
 he_PNP
 would_VM0
 annex_VVI
-Arab_AJ0-NN1
+Arab_AJ0
 Palestine_NP0
 Golda_NP0
 Meir_NP0
@@ -11904,7 +11904,7 @@ accompli_UNC
 i.e._AV0
 annexation_NN1
 of_PRF
-Arab_AJ0-NN1
+Arab_AJ0
 Palestine_NP0
 the_AT0
 traditional_AJ0
@@ -11943,7 +11943,7 @@ that_CJT
 Abdallah_NP0
 would_VM0
 control_NN1
-Arab_AJ0-NN1
+Arab_AJ0
 Palestine_NP0
 if_CJS
 he_PNP
@@ -11975,7 +11975,7 @@ United_NP0
 States_NP0
 agreement_NN1
 too_AV0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 nationalists_NN2
 remained_VVD
 opposed_VVN
@@ -12007,7 +12007,7 @@ the_AT0
 Mufti_NN1
 and_CJC
 other_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 leaders_NN2
 had_VHD
 been_VBN
@@ -12022,7 +12022,7 @@ the_AT0
 armies_NN2
 of_PRF
 their_DPS
-Arab_AJ0-NN1
+Arab_AJ0
 neighbours_NN2
 of_PRF
 which_DTQ
@@ -12076,7 +12076,7 @@ that_CJT
 even_AV0
 if_CJS
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 League_NN1
 accepted_VVN
 the_AT0
@@ -12114,7 +12114,7 @@ fist_NN1
 step_NN1
 in_PRP
 his_DPS
-long-awaited_AJ0-NN1
+long-awaited_AJ0
 Greater_NP0
 Syria_NP0
 project_NN1
@@ -12135,20 +12135,20 @@ the_AT0
 Negev_NP0
 to_TO0
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 and_CJC
 the_AT0
 Palestinians_NN2
 feared_VVD
 that_CJT
 foreign_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 armies_NN2
 spelt_VVN
 the_AT0
 end_NN1
 of_PRF
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 hopes_NN2
 to_TO0
 determine_VVI
@@ -12171,7 +12171,7 @@ the_AT0
 eve_NN1
 of_PRF
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 forces_NN2
 '_POS
 entry_NN1
@@ -12193,7 +12193,7 @@ of_PRF
 the_AT0
 Sea_NP0
 of_PRF
-Galilee_NP0-NN1
+Galilee_NP0
 This_DT0
 kept_VVD
 Syrian_AJ0
@@ -12214,14 +12214,14 @@ Transjordan_NP0
 and_CJC
 undermined_VVN
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 League_NN1
 plan_NN1
 to_TO0
 cut_VVN
 off_AVP
 east_NN1
-Galilee_NP0-NN1
+Galilee_NP0
 which_DTQ
 had_VHD
 been_VBN
@@ -12289,7 +12289,7 @@ Abdallah_NP0
 ambitions_NN2
 in_PRP
 the_AT0
-Arab-designated_AJ0-NN1
+Arab-designated_AJ0
 areas_NN2
 than_CJS
 with_PRP
@@ -12366,7 +12366,7 @@ when_CJS
 the_AT0
 Jews_NN2
 pushed_VVD
-Egyptian_AJ0-NN1
+Egyptian_AJ0
 forces_NN2
 out_AVP
 of_PRF
@@ -12378,7 +12378,7 @@ in_PRP
 October_NP0
 Their_DPS
 first_ORD
-act_VVI
+act_NN1
 was_VBD
 to_TO0
 disarm_VVI
@@ -12402,19 +12402,19 @@ forces_NN2
 for_PRP
 Abdallah_NP0
 's_POS
-chief_AJ0-NN1
+chief_NN1
 aim_NN1
 was_VBD
 to_TO0
 remove_VVI
-Egyptian_AJ0-NN1
+Egyptian_AJ0
 forces_NN2
 from_PRP
 Palestine_NP0
 and_CJC
 prevent_VVI
 any_DT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 entity_NN1
 emerging_VVG
 Abdallah_NP0
@@ -12434,7 +12434,7 @@ partition_NN1
 and_CJC
 keeping_VVG
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 armies_NN2
 divided_VVN
 He_PNP
@@ -12528,7 +12528,7 @@ whole_AJ0
 area_NN1
 and_CJC
 reach_VVI
-Eilat_NN1-NP0
+Eilat_NN1
 His_DPS
 forces_NN2
 withdrew_VVD
@@ -12626,7 +12626,7 @@ a_AT0
 major_AJ0
 conference_NN1
 in_PRP
-Jericho_NP0-NN1
+Jericho_NN1
 choosing_VVG
 as_CJS
 its_DPS
@@ -12705,7 +12705,7 @@ of_PRF
 Jordan_NP0
 When_CJS
 a_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 delegation_NN1
 asked_VVD
 to_TO0
@@ -12860,7 +12860,7 @@ view_NN1
 of_PRF
 the_AT0
 overwhelming_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 demographic_AJ0
 preponderance_NN1
 this_DT0
@@ -12896,7 +12896,7 @@ incorporation_NN1
 into_PRP
 Jordan_NP0
 The_AT0
-increased_AJ0
+increased_VVN
 demand_NN1
 for_PRP
 agricultural_AJ0
@@ -12920,7 +12920,7 @@ which_DTQ
 replaced_VVN
 the_AT0
 previous_AJ0
-west-facing_AJ0-NN1
+west-facing_NN1
 economy_NN1
 brought_VVN
 government_NN1
@@ -13001,7 +13001,7 @@ centre_NN1
 of_PRF
 gravity_NN1
 to_TO0
-shift_NN1-VVB
+shift_NN1
 across_PRP
 the_AT0
 river_NN1
@@ -13173,7 +13173,7 @@ than_CJS
 in_PRP
 any_DT0
 neighbouring_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 area_NN1
 and_CJC
 in_PRP
@@ -13215,7 +13215,7 @@ kingdom_NN1
 Jordan_NP0
 was_VBD
 now_AV0
-integrated_AJ0
+integrated_VVN
 into_PRP
 the_AT0
 Palestine_NP0
@@ -13228,7 +13228,7 @@ rather_AV0
 than_CJS
 supporting_VVG
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 people_NN0
 This_DT0
 has_VHZ
@@ -13291,10 +13291,10 @@ or_CJC
 per_UNC
 cent_UNC
 were_VBD
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 Of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 population_NN1
 a_AT0
 slight_AJ0
@@ -13316,7 +13316,7 @@ capital_NN1
 Amman_NP0
 became_VVD
 predominantly_AV0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 almost_AV0
 overnight_AV0
 Today_AV0
@@ -13326,7 +13326,7 @@ about_PRP
 75_CRD
 per_UNC
 cent_UNC
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 Inevitably_AV0
 the_AT0
 Hashemites_NN2
@@ -13335,7 +13335,7 @@ an_AT0
 acute_AJ0
 political_AJ0
 difficulty_NN1
-Widening_AJ0-VVG
+Widening_VVG
 political_AJ0
 participation_NN1
 in_PRP
@@ -13350,7 +13350,7 @@ the_AT0
 creation_NN1
 of_PRF
 a_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 opposition_NN1
 to_TO0
 Hashemite_AJ0
@@ -13365,7 +13365,7 @@ the_AT0
 notables_NN2
 into_PRP
 the_AT0
-ruling_AJ0-NN1
+ruling_NN1
 establishment_NN1
 the_AT0
 refugee_NN1
@@ -13389,7 +13389,7 @@ Jordan_NP0
 Communist_AJ0
 Party_NN1
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 rump_NN1
 of_PRF
 the_AT0
@@ -13433,7 +13433,7 @@ was_VBD
 assassinated_VVN
 by_PRP
 a_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 in_PRP
 Jerusalem_NP0
 in_PRP
@@ -13508,7 +13508,7 @@ to_TO0
 punish_VVI
 severely_AV0
 any_DT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 who_PNQ
 violated_VVN
 the_AT0
@@ -13529,14 +13529,14 @@ on_PRP
 the_AT0
 village_NN1
 of_PRF
-Qibya_NP0-NN1
+Qibya_NP0
 in_PRP
 which_DTQ
 66_CRD
 villagers_NN2
 were_VBD
 killed_VVN
-Qibya_NP0-NN1
+Qibya_NP0
 symbolized_VVN
 the_AT0
 political_AJ0
@@ -13551,7 +13551,7 @@ Hashemites_NN2
 to_TO0
 uphold_VVI
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 cause_NN1
 Throughout_PRP
 1954_CRD
@@ -13568,7 +13568,7 @@ serious_AJ0
 riots_NN2
 in_PRP
 Jerusalem_NP0
-Ramallah_NP0-NN1
+Ramallah_NP0
 and_CJC
 even_AV0
 Amman_NP0
@@ -13601,7 +13601,7 @@ then_AV0
 current_AJ0
 in_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 notably_AV0
 the_AT0
@@ -13626,7 +13626,7 @@ Jordanian_AJ0
 maps_NN2
 and_CJC
 the_AT0
-Ba'ath_NN1-NP0
+Ba'ath_NN1
 In_PRP
 1956_CRD
 a_AT0
@@ -13681,7 +13681,7 @@ feelings_NN2
 it_PNP
 provoked_VVD
 It_PNP
-abrogated_VVN
+abrogated_VVD
 the_AT0
 treaty_NN1
 with_PRP
@@ -13690,13 +13690,13 @@ affirmed_VVD
 its_DPS
 support_NN1
 for_PRP
-Arab_AJ0-NN1
+Arab_AJ0
 nationalism_NN1
 and_CJC
 turned_VVD
 to_TO0
 other_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 regimes_NN2
 for_PRP
 the_AT0
@@ -13772,7 +13772,7 @@ hundreds_CRD
 of_PRF
 politicians_NN2
 When_CJS
-Arab_AJ0-NN1
+Arab_AJ0
 governments_NN2
 refused_VVD
 to_TO0
@@ -13846,7 +13846,7 @@ envy_NN1
 the_AT0
 triumphs_NN2
 of_PRF
-Arab_AJ0-NN1
+Arab_AJ0
 nationalism_NN1
 under_PRP
 Nasser_NP0
@@ -13954,7 +13954,7 @@ cent_UNC
 of_PRF
 its_DPS
 population_NN1
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 Furthermore_AV0
 the_AT0
 convulsion_NN1
@@ -14131,7 +14131,7 @@ very_AV0
 determined_VVN
 and_CJC
 principled_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 was_VBD
 ready_AJ0
 to_TO0
@@ -14158,7 +14158,7 @@ had_VHD
 a_AT0
 more_AV0
 immediate_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 threat_NN1
 to_TO0
 deal_NN1
@@ -14169,7 +14169,7 @@ meteoric_AJ0
 rise_NN1
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 resistance_NN1
 movement_NN1
 Although_CJS
@@ -14242,7 +14242,7 @@ East_NN1
 Bank_NP0
 By_PRP
 its_DPS
-hijacking_NN1-AJ0
+hijacking_NN1
 and_CJC
 destruction_NN1
 of_PRF
@@ -14264,7 +14264,7 @@ September_NP0
 1970_CRD
 The_AT0
 whole_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 resistance_NN1
 was_VBD
 evicted_VVN
@@ -14356,7 +14356,7 @@ Bank_NP0
 as_CJS
 a_AT0
 United_NP0
-Arab_AJ0-NN1
+Arab_AJ0
 Kingdom_NP0
 Pro-Jordanian_AJ0
 leaders_NN2
@@ -14398,7 +14398,7 @@ down_AVP
 and_CJC
 the_AT0
 United_NP0
-Arab_AJ0-NN1
+Arab_AJ0
 Kingdom_NP0
 proposal_NN1
 died_VVD
@@ -14465,7 +14465,7 @@ triumph_NN1
 both_AV0
 in_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 arena_NN1
 and_CJC
 internationally_AV0
@@ -14593,7 +14593,7 @@ not_XX0
 accept_VVI
 either_AV0
 without_PRP
-damaging_VVG-AJ0
+damaging_AJ0
 its_DPS
 internal_AJ0
 unity_NN1
@@ -14678,7 +14678,7 @@ case_NN1
 its_DPS
 East_NN1
 Bank_NP0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 population_NN1
 felt_VVD
 obliged_AJ0
@@ -14693,7 +14693,7 @@ with_PRP
 the_AT0
 more_AV0
 radical_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 most_AV0
 of_PRF
@@ -14777,7 +14777,7 @@ to_TO0
 speak_VVI
 for_PRP
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 people_NN0
 In_PRP
 other_AJ0
@@ -14786,7 +14786,7 @@ Jordan_NP0
 would_VM0
 have_VHB
 to_TO0
-act_VVI
+act_NN1
 for_PRP
 the_AT0
 Palestinians_NN2
@@ -14834,7 +14834,7 @@ monarchy_NN1
 was_VBD
 confirmed_VVN
 in_PRP
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 minds_NN2
 as_CJS
 the_AT0
@@ -14847,7 +14847,7 @@ the_AT0
 United_NP0
 States_NP0
 The_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 need_VVB
 for_PRP
 Jordan_NP0
@@ -15075,7 +15075,7 @@ acceptable_AJ0
 even_AV0
 as_CJS
 a_AT0
-co-representative_NN1-AJ0
+co-representative_AJ0
 A_AT0
 year_NN1
 later_AV0
@@ -15101,7 +15101,7 @@ insincere_AJ0
 and_CJC
 hostile_AJ0
 to_TO0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 interests_NN2
 By_PRP
 1986_CRD
@@ -15169,7 +15169,7 @@ States_NP0
 and_CJC
 Britain_NP0
 He_PNP
-closed_VVD
+closed_VVN
 PLO_NP0
 offices_NN2
 in_PRP
@@ -15181,7 +15181,7 @@ Arafat_NP0
 's_POS
 deputy_NN1
 Abu_NP0
-Jihad_NP0-NN1
+Jihad_NP0
 He_PNP
 also_AV0
 froze_VVD
@@ -15283,7 +15283,7 @@ spend_VVI
 $1,200_NN0
 million_CRD
 which_DTQ
-depended_VVN-VVD
+depended_VVD
 upon_PRP
 funding_NN1
 from_PRP
@@ -15335,7 +15335,7 @@ can_VM0
 one_CRD
 day_NN1
 be_VBI
-integrated_AJ0
+integrated_VVN
 with_PRP
 that_CJT
 of_PRF
@@ -15397,7 +15397,7 @@ as_CJS
 a_AT0
 placebo_NN1
 to_TO0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 restiveness_NN1
 a_AT0
 subsidy_NN1
@@ -15495,7 +15495,7 @@ formally_AV0
 renounced_VVN
 the_AT0
 1985_CRD
-accord_VVI
+accord_NN1
 with_PRP
 Jordan_NP0
 On_PRP
@@ -15524,7 +15524,7 @@ violent_AJ0
 demonstrations_NN2
 occurred_VVD
 at_PRP
-Yarmuk_NP0-NN1
+Yarmuk_NP0
 University_NN1
 in_PRP
 which_DTQ
@@ -15575,7 +15575,7 @@ for_PRP
 the_AT0
 adult_NN1
 population_NN1
-Yarmuk_NP0-NN1
+Yarmuk_NP0
 indicated_VVN
 that_CJT
 the_AT0
@@ -15583,7 +15583,7 @@ younger_AJC
 of_PRF
 the_AT0
 bourgeois_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 class_NN1
 felt_VVD
 deep_AJ0
@@ -15644,7 +15644,7 @@ can_VM0
 not_XX0
 represent_VVI
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 people_NN0
 His_DPS
 concern_NN1
@@ -15700,7 +15700,7 @@ West_NP0
 Bank_NP0
 An_AT0
 independent_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 state_NN1
 however_AV0
 would_VM0
@@ -15773,7 +15773,7 @@ of_PRF
 Israeli_AJ0
 repression_NN1
 and_CJC
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 unrest_NN1
 would_VM0
 encourage_VVI
@@ -15835,7 +15835,7 @@ good_AJ0
 reason_NN1
 to_TO0
 remain_VVI
-involved_AJ0
+involved_VVN
 By_PRP
 July_NP0
 1988_CRD
@@ -15925,7 +15925,7 @@ with_PRP
 the_AT0
 Palestinians_NN2
 A_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 state_NN1
 would_VM0
 depend_VVI
@@ -15961,7 +15961,7 @@ GOING_VVG
 HOME_NN1
 THE_AT0
 REFUGEE_NN1
-ISSUE_NN1-VVB
+ISSUE_NN1
 A_AT0
 key_AJ0
 security_NN1
@@ -15982,7 +15982,7 @@ Palestine_NP0
 refugees_NN2
 by_PRP
 1988_CRD
-numbering_VVG
+numbering_NN1
 over_PRP
 862,000_CRD
 out_AVP
@@ -16110,11 +16110,11 @@ the_AT0
 framework_NN1
 of_PRF
 an_AT0
-overall_AJ0-NN1
+overall_AJ0
 settlement_NN1
 with_PRP
 neighbouring_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 It_PNP
 was_VBD
@@ -16146,7 +16146,7 @@ refugees_NN2
 not_XX0
 towards_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 Israel_NP0
 did_VDD
@@ -16182,7 +16182,7 @@ would_VM0
 dissent_NN1
 from_PRP
 the_AT0
-Zionist_AJ0-NN1
+Zionist_AJ0
 identity_NN1
 of_PRF
 the_AT0
@@ -16346,7 +16346,7 @@ the_AT0
 return_NN1
 of_PRF
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 refugees_NN2
 but_CJC
 27_CRD
@@ -16364,7 +16364,7 @@ difference_NN1
 between_PRP
 German_AJ0
 and_CJC
-Arab_AJ0-NN1
+Arab_AJ0
 Jews_NN2
 While_CJS
 45_CRD
@@ -16377,7 +16377,7 @@ agreed_VVD
 to_TO0
 a_AT0
 return_NN1
-Arab_AJ0-NN1
+Arab_AJ0
 Jews_NN2
 were_VBD
 100_CRD
@@ -16522,7 +16522,7 @@ did_VDD
 recognize_VVI
 like_PRP
 Mark_NP0
-Ethridge_NP0-NN1
+Ethridge_NP0
 the_AT0
 United_NP0
 States_NP0
@@ -16545,14 +16545,14 @@ in_PRP
 the_AT0
 Middle_AJ0
 East_NN1
-Ethridge_NP0-NN1
+Ethridge_NP0
 realized_VVD
 that_CJT
 both_AV0
 Israel_NP0
 and_CJC
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 were_VBD
 using_VVG
@@ -16586,7 +16586,7 @@ atmosphere_NN1
 conducive_AJ0
 to_TO0
 an_AT0
-overall_AJ0-NN1
+overall_AJ0
 settlement_NN1
 Under_PRP
 pressure_NN1
@@ -16642,7 +16642,7 @@ accept_VVI
 all_DT0
 Arabs_NN2
 at_PRP
-present_AJ0-NN1
+present_AJ0
 located_VVN
 in_PRP
 the_AT0
@@ -16713,7 +16713,7 @@ of_PRF
 conceding_VVG
 yet_AV0
 more_AV0
-Arab_AJ0-NN1
+Arab_AJ0
 territory_NN1
 to_TO0
 the_AT0
@@ -16725,7 +16725,7 @@ on_PRP
 both_AV0
 Israeli_AJ0
 and_CJC
-Egyptian_AJ0-NN1
+Egyptian_AJ0
 sides_NN2
 the_AT0
 Gaza_NP0
@@ -16741,8 +16741,8 @@ population_NN1
 would_VM0
 be_VBI
 one-third_CRD
-Palestinian_AJ0-NN1
-Arab_AJ0-NN1
+Palestinian_AJ0
+Arab_AJ0
 today_AV0
 with_PRP
 the_AT0
@@ -16750,7 +16750,7 @@ prospect_NN1
 of_PRF
 being_VBG
 one-half_CRD
-Arab_AJ0-NN1
+Arab_AJ0
 by_PRP
 the_AT0
 year_NN1
@@ -16812,7 +16812,7 @@ Tel_NP0
 Aviv_NP0
 even_AV0
 within_PRP
-Mapai_NP0-NN1
+Mapai_NN1
 Labour_AJ0
 itself_PNX
 Nor_CJC
@@ -16820,7 +16820,7 @@ did_VDD
 it_PNP
 impress_VVI
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 which_DTQ
 pointed_VVD
@@ -16844,7 +16844,7 @@ absorb_VVI
 more_AV0
 than_CJS
 100,000_CRD
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 returnees_NN2
 or_CJC
 the_AT0
@@ -16857,7 +16857,7 @@ think_VVB
 the_AT0
 Israeli_AJ0
 offer_VVI
-provide[d]_VVB-NN1
+provide[d]_VVB
 a_AT0
 suitable_AJ0
 basis_NN1
@@ -16866,7 +16866,7 @@ contributing_VVG
 to_TO0
 solution_NN1
 of_PRF
-Arab_AJ0-NN1
+Arab_AJ0
 refugee_NN1
 question_NN1
 With_PRP
@@ -16918,7 +16918,7 @@ borders_NN2
 and_CJC
 arrangements_NN2
 for_PRP
-non-belligerency_NN1-AJ0
+non-belligerency_AJ0
 a_AT0
 view_NN1
 later_AV0
@@ -16939,13 +16939,13 @@ of_PRF
 Israel_NP0
 and_CJC
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 more_AV0
 directly_AV0
 However_AV0
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 also_AV0
 wished_VVD
@@ -16980,13 +16980,13 @@ popular_AJ0
 opinion_NN1
 throughout_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 Quite_AV0
 naturally_AV0
 therefore_AV0
 each_DT0
-Arab_AJ0-NN1
+Arab_AJ0
 government_NN1
 was_VBD
 guided_VVN
@@ -17017,7 +17017,7 @@ comprehensive_AJ0
 settlement_NN1
 As_CJS
 the_AT0
-Egyptian_AJ0-NN1
+Egyptian_AJ0
 representative_NN1
 to_TO0
 the_AT0
@@ -17028,7 +17028,7 @@ leading_AJ0
 representative_NN1
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 refugees_NN2
 at_PRP
 that_CJT
@@ -17105,11 +17105,11 @@ form_NN1
 of_PRF
 a_AT0
 small_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 state_NN1
 in_PRP
 the_AT0
-Arab-held_AJ0-NN1
+Arab-held_NN1
 parts_NN2
 of_PRF
 Palestine_NP0
@@ -17165,7 +17165,7 @@ The_AT0
 granting_VVG
 of_PRF
 a_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 state_NN1
 in_PRP
 Gaza_NP0
@@ -17223,7 +17223,7 @@ the_AT0
 end_NN1
 all_DT0
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 dug_VVD
 their_DPS
@@ -17249,7 +17249,7 @@ refugee_NN1
 issue_NN1
 to_TO0
 an_AT0
-overall_AJ0-NN1
+overall_AJ0
 peace_NN1
 In_PRP
 a_AT0
@@ -17302,7 +17302,7 @@ for_PRP
 a_AT0
 settlement_NN1
 The_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 with_PRP
 the_AT0
@@ -17397,7 +17397,7 @@ another_DT0
 refugees_NN2
 from_PRP
 surrounding_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 countries_NN2
 Had_VHD
 such_DT0
@@ -17414,7 +17414,7 @@ complete_AJ0
 withdrawal_NN1
 of_PRF
 all_DT0
-Arab_AJ0-NN1
+Arab_AJ0
 armies_NN2
 and_CJC
 preserved_VVN
@@ -17441,12 +17441,12 @@ between_PRP
 Israel_NP0
 and_CJC
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 However_AV0
 while_CJS
 most_AV0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 might_VM0
 have_VHB
@@ -17520,7 +17520,7 @@ in_PRP
 the_AT0
 Near_PRP
 East_NN1
-UNRWA_NP0-NN1
+UNRWA_NP0
 This_DT0
 began_VVD
 operations_NN2
@@ -17633,14 +17633,14 @@ they_PNP
 exist_VVI
 today_AV0
 as_CJS
-UNRWA_NP0-NN1
+UNRWA_NP0
 reported_VVN
 in_PRP
 1953_CRD
 In_PRP
 the_AT0
 mid-fifties_CRD
-UNRWA_NP0-NN1
+UNRWA_NP0
 committed_VVN
 itself_PNX
 to_TO0
@@ -17662,7 +17662,7 @@ refugees_NN2
 In_PRP
 Jordan_NP0
 a_AT0
-Yarmuk_NP0-NN1
+Yarmuk_NP0
 Jordan_NP0
 valley_NN1
 development_NN1
@@ -17674,7 +17674,7 @@ dunums_NN2
 and_CJC
 to_TO0
 generate_VVI
-hydro-electricity_NN1-AJ0
+hydro-electricity_AJ0
 in_PRP
 Sinai_NP0
 another_DT0
@@ -17701,7 +17701,7 @@ considerations_NN2
 In_PRP
 any_DT0
 case_NN1
-UNRWA_NP0-NN1
+UNRWA_NP0
 's_POS
 resettlement_NN1
 plan_NN1
@@ -17726,9 +17726,9 @@ foreign_AJ0
 powers_NN2
 in_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 body_NN1
-politic_NN1-AJ0
+politic_AJ0
 of_PRF
 which_DTQ
 the_AT0
@@ -17740,7 +17740,7 @@ the_AT0
 most_AV0
 potent_AJ0
 manifestation_NN1
-Arab_AJ0-NN1
+Arab_AJ0
 nationalism_NN1
 came_VVD
 within_PRP
@@ -17758,7 +17758,7 @@ latter_DT0
 's_POS
 acceptance_NN1
 of_PRF
-UNRWA_NP0-NN1
+UNRWA_NP0
 's_POS
 resettlement_NN1
 programme_NN1
@@ -17779,7 +17779,7 @@ the_AT0
 scales_NN2
 against_PRP
 him_PNP
-UNRWA_NP0-NN1
+UNRWA_NP0
 remained_VVD
 permanently_AV0
 compromised_VVN
@@ -17816,7 +17816,7 @@ reawakened_VVD
 old_AJ0
 suspicions_NN2
 that_CJT
-UNRWA_NP0-NN1
+UNRWA_NP0
 was_VBD
 an_AT0
 accomplice_NN1
@@ -17834,7 +17834,7 @@ fears_NN2
 were_VBD
 justified_VVN
 for_PRP
-UNRWA_NP0-NN1
+UNRWA_NP0
 had_VHD
 no_AT0
 will_VM0
@@ -17862,7 +17862,7 @@ the_AT0
 consequences_NN2
 of_PRF
 dismantling_VVG
-UNRWA_NP0-NN1
+UNRWA_NP0
 for_PRP
 the_AT0
 stability_NN1
@@ -17884,7 +17884,7 @@ the_AT0
 refugee_NN1
 problem_NN1
 The_AT0
-principal_AJ0-NN1
+principal_AJ0
 and_CJC
 at_PRP
 times_NN2
@@ -17916,7 +17916,7 @@ most_AV0
 important_AJ0
 was_VBD
 the_AT0
-Ramallah_NP0-NN1
+Ramallah_NP0
 Congress_NN1
 of_PRF
 Refugee_NN1
@@ -17985,13 +17985,13 @@ Israel_NP0
 but_CJC
 by_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 and_CJC
 even_AV0
 the_AT0
-Palestinian_AJ0-NN1
-Arab_AJ0-NN1
+Palestinian_AJ0
+Arab_AJ0
 Higher_AJC
 Committee_NN1
 itself_PNX
@@ -18015,7 +18015,7 @@ enemy_NN1
 At_PRP
 Lausanne_NP0
 the_AT0
-Ramallah_NP0-NN1
+Ramallah_NP0
 Congress_NN1
 delegation_NN1
 discovered_VVN
@@ -18049,7 +18049,7 @@ cogency_NN1
 that_CJT
 the_AT0
 other_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 delegations_NN2
 agreed_VVD
 to_TO0
@@ -18059,8 +18059,8 @@ co-ordinate_VVI
 presentation_NN1
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
-Arab_AJ0-NN1
+Palestinian_AJ0
+Arab_AJ0
 case_NN1
 to_TO0
 the_AT0
@@ -18068,15 +18068,15 @@ PCC_NP0
 It_PNP
 persuaded_VVN
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 delegations_NN2
 each_DT0
-Arab_AJ0-NN1
+Arab_AJ0
 state_NN1
 marshalled_VVD
 its_DPS
 own_DT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 representation_NN1
 to_TO0
 focus_NN1
@@ -18094,7 +18094,7 @@ be_VBI
 put_VVI
 to_TO0
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 the_AT0
 first_ORD
@@ -18161,12 +18161,12 @@ whether_CJS
 it_PNP
 was_VBD
 under_PRP
-Arab_AJ0-NN1
+Arab_AJ0
 or_CJC
 Israeli_AJ0
 jurisdiction_NN1
 The_AT0
-Ramallah_NP0-NN1
+Ramallah_NP0
 Congress_NN1
 delegation_NN1
 argued_VVD
@@ -18222,7 +18222,7 @@ be_VBI
 it_PNP
 in_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 area_NN1
 or_CJC
 within_PRP
@@ -18237,7 +18237,7 @@ this_DT0
 position_NN1
 for_PRP
 a_AT0
-Ramallah_NP0-NN1
+Ramallah_NP0
 delegate_VVI
 had_VHD
 proposed_AJ0
@@ -18259,16 +18259,16 @@ peace_NN1
 with_PRP
 Israel_NP0
 and_CJC
-act_VVI
+act_NN1
 as_CJS
 a_AT0
 peace_NN1
-bridge'_NN1-VVB
+bridge'_NN1
 between_PRP
 Israel_NP0
 and_CJC
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 '_POS
 But_CJC
@@ -18330,7 +18330,7 @@ had_VHD
 fled_VVD
 from_PRP
 the_AT0
-Golan_AJ0-NN1
+Golan_NN1
 further_AJC
 into_PRP
 Syria_NP0
@@ -18345,7 +18345,7 @@ Of_PRF
 these_DT0
 145,000_CRD
 were_VBD
-UNRWA_NP0-NN1
+UNRWA_NP0
 refugees_NN2
 uprooted_VVN
 for_PRP
@@ -18419,7 +18419,7 @@ Until_PRP
 roughly_AV0
 half_DT0
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 people_NN0
 had_VHD
 still_AV0
@@ -18445,7 +18445,7 @@ others_NN2
 that_CJT
 since_CJS
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 Arabs_NN2
 had_VHD
 not_XX0
@@ -18457,7 +18457,7 @@ soon_AV0
 assimilate_VVI
 into_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 host_NN1
 countries_NN2
 neighbouring_AJ0
@@ -18511,7 +18511,7 @@ and_CJC
 that_CJT
 all_DT0
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 Arabs_NN2
 refugee_NN1
 or_CJC
@@ -18639,7 +18639,7 @@ Jewish_AJ0
 Israeli_AJ0
 proponents_NN2
 of_PRF
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 self-determination_NN1
 there_EX0
 is_VBZ
@@ -18656,10 +18656,10 @@ his_DPS
 case_NN1
 for_PRP
 a_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 state_NN1
 Mark_NP0
-Heller_NP0-NN1
+Heller_NP0
 explains_VVZ
 why_AVQ
 even_AV0
@@ -18667,7 +18667,7 @@ with_PRP
 the_AT0
 recognition_NN1
 of_PRF
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 rights_NN2
 to_TO0
 self-determination_NN1
@@ -18732,7 +18732,7 @@ Centre_NN1
 for_PRP
 Strategic_AJ0
 Studies_NN2
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 refugees_NN2
 would_VM0
 not_XX0
@@ -18753,12 +18753,12 @@ self-determination_NN1
 presumably_AV0
 within_PRP
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 territory_NN1
 or_CJC
 in_PRP
 other_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 Similarly_AV0
 the_AT0
@@ -18785,7 +18785,7 @@ mere_AJ0
 establishment_NN1
 of_PRF
 a_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 state_NN1
 in_PRP
 the_AT0
@@ -18799,7 +18799,7 @@ would_VM0
 not_XX0
 provide_VVI
 a_AT0
-concrete_AJ0-NN1
+concrete_AJ0
 solution_NN1
 for_PRP
 the_AT0
@@ -18894,7 +18894,7 @@ Gaza_NP0
 as_CJS
 the_AT0
 only_AV0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 destination_NN1
 for_PRP
 the_AT0
@@ -18903,7 +18903,7 @@ Even_AV0
 this_DT0
 would_VM0
 be_VBI
-conditional_AJ0-NN1
+conditional_AJ0
 and_CJC
 limited_AJ0
 the_AT0
@@ -18941,7 +18941,7 @@ currently_AV0
 living_VVG
 in_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 whether_CJS
 still_AV0
@@ -18949,7 +18949,7 @@ in_PRP
 refugee_NN1
 camps_NN2
 or_CJC
-integrated_AJ0
+integrated_VVN
 into_PRP
 their_DPS
 host_NN1
@@ -18964,7 +18964,7 @@ to_TO0
 a_AT0
 West_NP0
 Bank-Gaza_NP0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 state_NN1
 Given_VVN
 such_DT0
@@ -19052,7 +19052,7 @@ of_PRF
 Palestine_NP0
 for_PRP
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 Arabs_NN2
 would_VM0
 be_VBI
@@ -19149,7 +19149,7 @@ grievance_NN1
 Imperatives_NN2
 for_PRP
 the_AT0
-Return_VVB-NN1
+Return_NN1
 Refugee_NN1
 feelings_NN2
 concerning_PRP
@@ -19230,9 +19230,9 @@ of_PRF
 Zionism_NN1
 Not_XX0
 every_AT0
-Zionist_AJ0-NN1
+Zionist_AJ0
 or_CJC
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 needs_VVZ
 to_TO0
 be_VBI
@@ -19313,7 +19313,7 @@ mirror_NN1
 image_NN1
 in_PRP
 the_AT0
-Zionist_AJ0-NN1
+Zionist_AJ0
 experience_NN1
 when_CJS
 Jews_NN2
@@ -19620,7 +19620,7 @@ a_AT0
 return_NN1
 of_PRF
 the_AT0
-Golan_AJ0-NN1
+Golan_NN1
 and_CJC
 possibly_AV0
 the_AT0
@@ -19635,7 +19635,7 @@ of_PRF
 the_AT0
 Sea_NP0
 of_PRF
-Galilee_NP0-NN1
+Galilee_NP0
 to_TO0
 allow_VVI
 access_NN1
@@ -19746,7 +19746,7 @@ between_PRP
 Lebanon_NP0
 and_CJC
 its_DPS
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 guests_NN2
 has_VHZ
 always_AV0
@@ -19791,7 +19791,7 @@ the_AT0
 rise_NN1
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 resistance_NN1
 movement_NN1
 following_AJ0
@@ -19812,7 +19812,7 @@ the_AT0
 short_AJ0
 run_VVI
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 revolution_NN1
 acted_VVD
 as_CJS
@@ -19864,14 +19864,14 @@ massacres_NN2
 in_PRP
 which_DTQ
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 refugees_NN2
 were_VBD
 the_AT0
 prime_AJ0
 victims_NN2
 The_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 movement_NN1
 also_AV0
 drew_VVD
@@ -19894,7 +19894,7 @@ specifically_AV0
 and_CJC
 successfully_AV0
 to_TO0
-drive_VVI
+drive_NN1
 a_AT0
 wedge_NN1
 of_PRF
@@ -19911,7 +19911,7 @@ in_PRP
 south_NN1
 Lebanon_NP0
 the_AT0
-Shiite_AJ0-NN1
+Shiite_AJ0
 community_NN1
 Following_VVG
 Israel_NP0
@@ -19928,7 +19928,7 @@ hoping_VVG
 to_TO0
 become_VVI
 the_AT0
-chief_AJ0-NN1
+chief_NN1
 arbiter_NN1
 in_PRP
 Lebanon_NP0
@@ -19940,7 +19940,7 @@ and_CJC
 1987_CRD
 the_AT0
 leading_AJ0
-Shiite_AJ0-NN1
+Shiite_AJ0
 militia_NN0
 Amal_NP0
 attacked_VVN
@@ -20000,7 +20000,7 @@ Syria_NP0
 's_POS
 own_DT0
 subordinate_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 units_NN2
 drove_VVD
 PLO_NP0
@@ -20099,7 +20099,7 @@ they_PNP
 increasingly_AV0
 viewed_VVN
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 presence_NN1
 as_CJS
 an_AT0
@@ -20118,7 +20118,7 @@ and_CJC
 also_AV0
 the_AT0
 visionary_AJ0
-Shiite_AJ0-NN1
+Shiite_AJ0
 party_NN1
 Hizballah_NP0
 still_AV0
@@ -20126,7 +20126,7 @@ expressed_VVN
 solidarity_NN1
 with_PRP
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 movement_NN1
 on_PRP
 Lebanese_AJ0
@@ -20185,7 +20185,7 @@ or_CJC
 under_PRP
 a_AT0
 new_AJ0
-Syrian-sponsored_NN1-AJ0
+Syrian-sponsored_AJ0
 one_CRD
 would_VM0
 not_XX0
@@ -20297,7 +20297,7 @@ in_PRP
 Lebanon_NP0
 come_VVI
 from_PRP
-Galilee_NP0-NN1
+Galilee_NP0
 Haifa_NP0
 and_CJC
 Acre_NN1
@@ -20351,7 +20351,7 @@ proportion_NN1
 to_TO0
 return_NN1
 to_TO0
-Galilee_NP0-NN1
+Galilee_NP0
 This_DT0
 is_VBZ
 the_AT0
@@ -20421,7 +20421,7 @@ whom_PNQ
 were_VBD
 registered_VVN
 with_PRP
-UNRWA_NP0-NN1
+UNRWA_NP0
 in_PRP
 1988_CRD
 and_CJC
@@ -20502,7 +20502,7 @@ population_NN1
 would_VM0
 leave_VVI
 Jordan_NP0
-marginalized_AJ0
+marginalized_VVD
 in_PRP
 the_AT0
 Middle_AJ0
@@ -20552,7 +20552,7 @@ a_AT0
 moderate_AJ0
 in_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 so_AV0
 long_AJ0
@@ -20578,7 +20578,7 @@ wholly_AV0
 inconceivable_AJ0
 eventuality_NN1
 at_PRP
-present_AJ0-NN1
+present_AJ0
 Jordan_NP0
 would_VM0
 cease_VVI
@@ -20601,7 +20601,7 @@ Syria_NP0
 or_CJC
 by_PRP
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 state_NN1
 If_CJS
 on_PRP
@@ -20700,7 +20700,7 @@ elsewhere_AV0
 overwhelmingly_AV0
 in_PRP
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 states_NN2
 In_PRP
 the_AT0
@@ -20714,7 +20714,7 @@ nationals_NN2
 worked_VVD
 in_PRP
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 and_CJC
 it_PNP
 must_VM0
@@ -20745,7 +20745,7 @@ from_PRP
 opportunities_NN2
 in_PRP
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 were_VBD
 substantially_AV0
 reduced_VVN
@@ -20784,7 +20784,7 @@ term_NN1
 nationals_NN2
 of_PRF
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 countries_NN2
 will_VM0
 be_VBI
@@ -20869,7 +20869,7 @@ Israel_NP0
 It_PNP
 is_VBZ
 a_AT0
-yearning_VVG
+yearning_NN1
 for_PRP
 Palestine_NP0
 which_DTQ
@@ -20952,7 +20952,7 @@ worth_PRP
 reiterating_VVG
 that_CJT
 this_DT0
-yearning_VVG
+yearning_NN1
 to_TO0
 return_NN1
 is_VBZ
@@ -20961,7 +20961,7 @@ potent_AJ0
 mirror_NN1
 image_NN1
 of_PRF
-Zionist_AJ0-NN1
+Zionist_AJ0
 belief_NN1
 and_CJC
 aspiration_NN1
@@ -20979,11 +20979,11 @@ same_DT0
 tenacity_NN1
 Like_PRP
 the_AT0
-Zionist_AJ0-NN1
+Zionist_AJ0
 experience_NN1
 too_AV0
 this_DT0
-yearning_VVG
+yearning_NN1
 is_VBZ
 reinforced_VVN
 by_PRP
@@ -21057,7 +21057,7 @@ anywhere_AV0
 where_AVQ
 a_AT0
 substantial_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 community_NN1
 exists_VVZ
 it_PNP
@@ -21081,7 +21081,7 @@ the_AT0
 envy_NN1
 of_PRF
 many_DT0
-Arab_AJ0-NN1
+Arab_AJ0
 countries_NN2
 for_PRP
 they_PNP
@@ -21102,7 +21102,7 @@ most_AV0
 parts_NN2
 of_PRF
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 Furthermore_AV0
 there_EX0
@@ -21126,7 +21126,7 @@ and_CJC
 elsewhere_AV0
 in_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 The_AT0
 international_AJ0
@@ -21193,7 +21193,7 @@ Uprising_NN1
 a_AT0
 level_NN1
 of_PRF
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 protest_NN1
 in_PRP
 the_AT0
@@ -21257,7 +21257,7 @@ pressures_NN2
 The_AT0
 most_AV0
 significant_AJ0
-characteristic_AJ0-NN1
+characteristic_NN1
 of_PRF
 this_DT0
 unrest_NN1
@@ -21360,7 +21360,7 @@ July_NP0
 and_CJC
 over_PRP
 the_AT0
-Golan_AJ0-NN1
+Golan_NN1
 Heights_NN2
 which_DTQ
 was_VBD
@@ -21378,7 +21378,7 @@ any_DT0
 agreement_NN1
 with_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 particularly_AV0
 with_PRP
@@ -21455,7 +21455,7 @@ with_PRP
 Jordan_NP0
 while_CJS
 the_AT0
-Arabic-speaking_NN1-AJ0
+Arabic-speaking_NN1
 and_CJC
 mainly_AV0
 Druze_NN0
@@ -21469,7 +21469,7 @@ General_AJ0
 Security_NN1
 Service_NN1
 Shin_NN1
-Bet_VVB-NN1
+Bet_NN1
 exercised_VVN
 control_NN1
 over_PRP
@@ -21489,7 +21489,7 @@ deputy_NN1
 prime_AJ0
 minister_NN1
 Yigal_NP0
-Allon_NP0-NN1
+Allon_NN1
 established_VVN
 nahal_AJ0
 agricultural/military_AJ0
@@ -21583,7 +21583,7 @@ allowed_VVN
 summer_NN1
 visitors_NN2
 to_TO0
-cross_VVI
+cross_NN1
 each_DT0
 year_NN1
 to_TO0
@@ -21612,7 +21612,7 @@ the_AT0
 Jordanian_AJ0
 government_NN1
 It_PNP
-reactivated_VVN-AJ0
+reactivated_VVN
 the_AT0
 municipalities_NN2
 and_CJC
@@ -21680,7 +21680,7 @@ became_VVD
 increasingly_AV0
 easy_AJ0
 to_TO0
-drive_VVI
+drive_NN1
 from_PRP
 Israel_NP0
 direct_AJ0
@@ -21695,7 +21695,7 @@ settlements_NN2
 without_PRP
 passing_VVG
 through_PRP
-Arab_AJ0-NN1
+Arab_AJ0
 population_NN1
 centres_NN2
 By_PRP
@@ -21728,7 +21728,7 @@ population_NN1
 Even_AV0
 the_AT0
 main_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 towns_NN2
 like_PRP
 Nablus_NP0
@@ -21786,7 +21786,7 @@ to_TO0
 Jewish_AJ0
 rather_AV0
 than_CJS
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 use_NN1
 By_PRP
 1987_CRD
@@ -21825,7 +21825,7 @@ the_AT0
 West_NP0
 Bank_NP0
 and_CJC
-integrated_AJ0
+integrated_VVN
 them_PNP
 into_PRP
 its_DPS
@@ -21873,7 +21873,7 @@ territories_NN2
 economy_NN1
 It_PNP
 also_AV0
-integrated_AJ0
+integrated_VVN
 the_AT0
 supply_NN1
 of_PRF
@@ -21892,7 +21892,7 @@ over_PRP
 the_AT0
 only_AV0
 independent_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 energy_NN1
 supplier_NN1
 the_AT0
@@ -22006,7 +22006,7 @@ and_CJC
 one-half_CRD
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 work-force_NN1
 dependent_AJ0
 for_PRP
@@ -22028,7 +22028,7 @@ economic_AJ0
 and_CJC
 social_AJ0
 benefits_NN2
-Arab_AJ0-NN1
+Arab_AJ0
 labour_NN1
 had_VHD
 none_PNI
@@ -22045,7 +22045,7 @@ trade_NN1
 union_NN1
 federation_NN1
 the_AT0
-Histadrut_NN1-NP0
+Histadrut_NP0
 Rather_AV0
 it_PNP
 constituted_VVD
@@ -22078,7 +22078,7 @@ The_AT0
 influx_NN1
 of_PRF
 cheap_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 labour_NN1
 from_PRP
 the_AT0
@@ -22102,7 +22102,7 @@ higher_AJC
 grade_NN1
 work_NN1
 The_AT0
-shift_NN1-VVB
+shift_NN1
 in_PRP
 the_AT0
 labour_NN1
@@ -22115,7 +22115,7 @@ between_PRP
 the_AT0
 European_AJ0
 and_CJC
-non-European_AJ0-NN1
+non-European_AJ0
 and_CJC
 largely_AV0
 unskilled_AJ0
@@ -22164,7 +22164,7 @@ and_CJC
 helplessness_NN1
 in_PRP
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 community_NN1
 and_CJC
 of_PRF
@@ -22213,7 +22213,7 @@ cent_UNC
 of_PRF
 Israel_NP0
 's_POS
-overall_AJ0-NN1
+overall_AJ0
 export_NN1
 of_PRF
 goods_NN2
@@ -22235,7 +22235,7 @@ for_PRP
 the_AT0
 economy_NN1
 which_DTQ
-Arab_AJ0-NN1
+Arab_AJ0
 labour_NN1
 afforded_VVN
 At_PRP
@@ -22260,7 +22260,7 @@ highly_AV0
 developed_VVN
 and_CJC
 heavily_AV0
-subsidized_AJ0-VVD
+subsidized_VVD
 productive_AJ0
 capacity_NN1
 in_PRP
@@ -22269,7 +22269,7 @@ and_CJC
 agriculture_NN1
 destroyed_VVN
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 sector_NN1
 almost_AV0
 in_PRP
@@ -22330,7 +22330,7 @@ control_NN1
 Israel_NP0
 profited_VVD
 from_PRP
-Arab_AJ0-NN1
+Arab_AJ0
 attitudes_NN2
 towards_PRP
 the_AT0
@@ -22339,7 +22339,7 @@ future_NN1
 of_PRF
 the_AT0
 territories_NN2
-Arab_AJ0-NN1
+Arab_AJ0
 regimes_NN2
 particularly_AV0
 Jordan_NP0
@@ -22503,7 +22503,7 @@ facilitate_VVI
 the_AT0
 export_NN1
 of_PRF
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 goods_NN2
 across_PRP
 the_AT0
@@ -22611,7 +22611,7 @@ in_PRP
 1948_CRD
 offered_VVN
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 an_AT0
 intermediary_NN1
@@ -22689,7 +22689,7 @@ the_AT0
 future_NN1
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 population_NN1
 on_PRP
 the_AT0
@@ -22786,13 +22786,13 @@ fears_NN2
 since_CJS
 it_PNP
 was_VBD
-struggling_VVG-AJ0
+struggling_VVG
 to_TO0
 legitimize_VVI
 itself_PNX
 as_CJS
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 representative_NN1
 and_CJC
 did_VDD
@@ -22834,7 +22834,7 @@ been_VBN
 taken_VVN
 by_PRP
 a_AT0
-Ramallah_NP0-NN1
+Ramallah_NP0
 lawyer_NN1
 Aziz_NP0
 Shehadeh_NP0
@@ -22853,7 +22853,7 @@ leading_AJ0
 spirit_NN1
 in_PRP
 the_AT0
-Ramallah_NP0-NN1
+Ramallah_NP0
 Congress_NN1
 of_PRF
 Refugee_NN1
@@ -22885,7 +22885,7 @@ to_TO0
 declare_VVI
 an_AT0
 independent_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 state_NN1
 forthwith_AV0
 without_PRP
@@ -22899,10 +22899,10 @@ the_AT0
 rest_NN1
 of_PRF
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 In_PRP
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 circles_NN2
 Shehadeh_NP0
 's_POS
@@ -22964,7 +22964,7 @@ West_NP0
 Bank_NP0
 representatives_NN2
 to_TO0
-Arab_AJ0-NN1
+Arab_AJ0
 countries_NN2
 to_TO0
 discuss_VVI
@@ -23172,10 +23172,10 @@ strenuously_AV0
 opposed_VVN
 in_PRP
 say_VVI
-Ramallah_NP0-NN1
+Ramallah_NP0
 Nablus_NP0
 or_CJC
-Tulkarm_NP0-NN1
+Tulkarm_NN1
 This_DT0
 suited_VVN
 Israel_NP0
@@ -23207,7 +23207,7 @@ they_PNP
 received_VVD
 from_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 not_XX0
 to_TO0
@@ -23244,7 +23244,7 @@ unhindered_AJ0
 while_CJS
 making_VVG
 strong-sounding_AJ0
-nationalist_AJ0-NN1
+nationalist_AJ0
 statements_NN2
 which_DTQ
 authenticated_VVN
@@ -23276,8 +23276,8 @@ was_VBD
 natural_AJ0
 in_PRP
 the_AT0
-Arab_AJ0-NN1
-nationalist_AJ0-NN1
+Arab_AJ0
+nationalist_AJ0
 atmosphere_NN1
 of_PRF
 the_AT0
@@ -23307,7 +23307,7 @@ united_AJ0
 endeavours_NN2
 of_PRF
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 PLO_NP0
 attitudes_NN2
@@ -23324,7 +23324,7 @@ announcement_NN1
 of_PRF
 a_AT0
 United_NP0
-Arab_AJ0-NN1
+Arab_AJ0
 Kingdom_NP0
 plan_NN1
 in_PRP
@@ -23635,7 +23635,7 @@ undermining_VVG
 effect_NN1
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 right_NN1
 the_AT0
 enormous_AJ0
@@ -23937,7 +23937,7 @@ reflect_VVI
 opinion_NN1
 in_PRP
 the_AT0
-voting_VVG-NN1
+voting_NN1
 population_NN1
 In_PRP
 this_DT0
@@ -23966,14 +23966,14 @@ new_AJ0
 mayors_NN2
 like_PRP
 Bassam_NP0
-Shak'a_NP0-NN1
+Shak'a_NP0
 of_PRF
 Nablus_NP0
 and_CJC
 Karim_NP0
-Khalaf_VVB
+Khalaf_NN1
 of_PRF
-Ramallah_NP0-NN1
+Ramallah_NP0
 found_VVD
 themselves_PNX
 facing_VVG
@@ -24004,9 +24004,9 @@ territories_NN2
 embodied_VVN
 within_PRP
 the_AT0
-Camp_NP0-NN1
+Camp_NN1
 David_NP0
-Accords_NN2-VVZ
+Accords_VVZ
 of_PRF
 1978_CRD
 however_AV0
@@ -24131,9 +24131,9 @@ for_PRP
 restraint_NN1
 since_CJS
 the_AT0
-Camp_NP0-NN1
+Camp_NN1
 David_NP0
-accords_VVZ-NN2
+accords_NN2
 were_VBD
 under_PRP
 serious_AJ0
@@ -24156,7 +24156,7 @@ the_AT0
 seriousness_NN1
 of_PRF
 the_AT0
-Camp_NP0-NN1
+Camp_NN1
 David_NP0
 threat_NN1
 or_CJC
@@ -24268,9 +24268,9 @@ once_AV0
 the_AT0
 radical_AJ0
 mayors_NN2
-Shak'a_NP0-NN1
+Shak'a_NP0
 and_CJC
-Khalaf_VVB
+Khalaf_NN1
 emerged_VVD
 as_CJS
 leaders_NN2
@@ -24290,7 +24290,7 @@ Israel_NP0
 decided_VVD
 to_TO0
 expel_VVI
-Shak'a_NP0-NN1
+Shak'a_NP0
 in_PRP
 1979_CRD
 the_AT0
@@ -24325,9 +24325,9 @@ directive_NN1
 As_CJS
 Mayor_NP0
 Muhammad_NP0
-Milhem_NN1-NP0
+Milhem_NN1
 of_PRF
-Halhoul_NP0-NN1
+Halhoul_NN1
 himself_PNX
 no_AT0
 radical_AJ0
@@ -24344,7 +24344,7 @@ do_VDB
 not_XX0
 The_AT0
 radical_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 factions_NN2
 outside_PRP
 supported_VVN
@@ -24377,7 +24377,7 @@ wrest_VVI
 leadership_NN1
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 movement_NN1
 in_PRP
 the_AT0
@@ -24387,7 +24387,7 @@ from_PRP
 its_DPS
 grasp_NN1
 Tensions_NN2
-increased_AJ0
+increased_VVN
 when_CJS
 the_AT0
 NGC_NP0
@@ -24414,7 +24414,7 @@ money_NN1
 voted_VVN
 by_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 in_PRP
 Baghdad_NP0
@@ -24425,7 +24425,7 @@ confront_VVI
 the_AT0
 implications_NN2
 of_PRF
-Camp_NP0-NN1
+Camp_NN1
 David_NP0
 and_CJC
 assist_VVI
@@ -24526,7 +24526,7 @@ the_AT0
 Israeli_AJ0
 authorities_NN2
 finally_AV0
-closed_VVD
+closed_VVN
 the_AT0
 NGC_NP0
 down_AVP
@@ -24560,7 +24560,7 @@ Gaza_NP0
 that_CJT
 neither_AV0
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 nor_CJC
 the_AT0
@@ -24597,9 +24597,9 @@ First_ORD
 there_EX0
 were_VBD
 the_AT0
-Camp_NP0-NN1
+Camp_NN1
 David_NP0
-accords_VVZ-NN2
+accords_NN2
 which_DTQ
 promised_VVD
 an_AT0
@@ -24638,7 +24638,7 @@ less_AV0
 rather_AV0
 than_CJS
 more_AV0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 control_NN1
 over_PRP
 their_DPS
@@ -24647,7 +24647,7 @@ It_PNP
 also_AV0
 set_VVN
 up_AVP
-Village_NN1-NP0
+Village_NN1
 Leagues_NN2
 an_AT0
 attempt_NN1
@@ -24655,7 +24655,7 @@ to_TO0
 create_VVI
 a_AT0
 co-operative_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 structure_NN1
 in_PRP
 the_AT0
@@ -24760,7 +24760,7 @@ recover_VVI
 its_DPS
 position_NN1
 by_PRP
-uniting_VVG-AJ0
+uniting_VVG
 with_PRP
 Jordan_NP0
 in_PRP
@@ -24796,7 +24796,7 @@ the_AT0
 collapse_NN1
 of_PRF
 his_DPS
-accord_VVI
+accord_NN1
 with_PRP
 King_NP0
 Husayn_NP0
@@ -24805,7 +24805,7 @@ collapse_NN1
 of_PRF
 the_AT0
 Husayn-Arafat_NP0
-accord_VVI
+accord_NN1
 led_VVD
 to_TO0
 a_AT0
@@ -24876,7 +24876,7 @@ announced_VVD
 the_AT0
 availability_NN1
 of_PRF
-increased_AJ0
+increased_VVN
 USAID_NP0
 funds_NN2
 to_TO0
@@ -24953,7 +24953,7 @@ selected_VVN
 mayors_NN2
 for_PRP
 Hebron_NP0
-Ramallah_NP0-NN1
+Ramallah_NP0
 and_CJC
 al_UNC
 Bira_NP0
@@ -24975,7 +24975,7 @@ Unity_NN1
 Government_NN1
 under_PRP
 the_AT0
-initial_AJ0-NN1
+initial_AJ0
 premiership_NN1
 of_PRF
 Shimon_NP0
@@ -25103,7 +25103,7 @@ interfering_VVG
 and_CJC
 manipulative_AJ0
 with_PRP
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 social_AJ0
 institutions_NN2
 recognizing_VVG
@@ -25140,7 +25140,7 @@ Palestine_NP0
 cause_NN1
 by_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 In_PRP
 November_NP0
@@ -25149,7 +25149,7 @@ the_AT0
 heads_NN2
 of_PRF
 most_AV0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 met_VVD
 in_PRP
@@ -25190,7 +25190,7 @@ the_AT0
 history_NN1
 of_PRF
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 League_NN1
 Arafat_NP0
 was_VBD
@@ -25287,7 +25287,7 @@ acquiescence_NN1
 of_PRF
 the_AT0
 other_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 states_NN2
 They_PNP
 also_AV0
@@ -25341,7 +25341,7 @@ of_PRF
 solidarity_NN1
 Developments_NN2
 inside_PRP
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 society_NN1
 in_PRP
 the_AT0
@@ -25482,7 +25482,7 @@ established_VVN
 in_PRP
 response_NN1
 to_TO0
-Camp_NP0-NN1
+Camp_NN1
 David_NP0
 and_CJC
 suppressed_VVN
@@ -25516,14 +25516,14 @@ whose_DTQ
 interest_NN1
 in_PRP
 containing_VVG
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 radicalism_NN1
 coincided_VVD
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 activism_NN1
 began_VVD
 to_TO0
-spread_NN1
+spread_VVN
 institutionally_AV0
 through_PRP
 various_AJ0
@@ -25561,7 +25561,7 @@ be_VBI
 they_PNP
 the_AT0
 old_AJ0
-pro_NN1-AJ0
+pro_NN1
 Jordanian_AJ0
 \xc3\xa9lite_NN1
 or_CJC
@@ -25681,7 +25681,7 @@ was_VBD
 a_AT0
 revolution_NN1
 in_PRP
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 society_NN1
 In_PRP
 part_NN1
@@ -25712,7 +25712,7 @@ the_AT0
 demographic_AJ0
 composition_NN1
 of_PRF
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 society_NN1
 Sixty_CRD
 five_CRD
@@ -25752,7 +25752,7 @@ the_AT0
 failure_NN1
 of_PRF
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 and_CJC
 of_PRF
@@ -25781,7 +25781,7 @@ the_AT0
 Uprising_NN1
 a_AT0
 leading_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 journalist_NN1
 presciently_AV0
 noted_VVN
@@ -25873,7 +25873,7 @@ peace_NN1
 Although_CJS
 for_PRP
 the_AT0
-present_AJ0-NN1
+present_AJ0
 time_NN1
 this_DT0
 generation_NN1
@@ -25928,7 +25928,7 @@ the_AT0
 territories_NN2
 and_CJC
 four_CRD
-UNRWA_NP0-NN1
+UNRWA_NP0
 vocational_AJ0
 training_NN1
 centres_NN2
@@ -25979,7 +25979,7 @@ components_NN2
 of_PRF
 the_AT0
 formal_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 movement_NN1
 Fatah_NP0
 the_AT0
@@ -26022,7 +26022,7 @@ period_NN1
 In_PRP
 elections_NN2
 at_PRP
-Birzeit_NP0-NN1
+Birzeit_NP0
 University_NN1
 in_PRP
 December_NP0
@@ -26033,14 +26033,14 @@ association_NN1
 with_PRP
 an_AT0
 Islamic_AJ0
-Bloc_NP0-NN1
+Bloc_NP0
 see_VVI
 below_AV0
 began_VVD
 to_TO0
 reduce_VVI
 the_AT0
-overall_AJ0-NN1
+overall_AJ0
 power_NN1
 of_PRF
 the_AT0
@@ -26064,7 +26064,7 @@ in_PRP
 mid-1981_CRD
 the_AT0
 Fatah/Islamic_UNC
-Bloc_NP0-NN1
+Bloc_NP0
 coalition_NN1
 actually_AV0
 won_VVD
@@ -26152,7 +26152,7 @@ national_AJ0
 unity_NN1
 As_CJS
 one_CRD
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 remarked_VVD
 Many_DT0
 splits_NN2
@@ -26232,7 +26232,7 @@ During_PRP
 the_AT0
 early_AJ0
 1970s_CRD
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 nationalism_NN1
 had_VHD
 affected_VVN
@@ -26277,7 +26277,7 @@ the_AT0
 latter_DT0
 through_PRP
 its_DPS
-Village_NN1-NP0
+Village_NN1
 Leagues_NN2
 a_AT0
 network_NN1
@@ -26291,11 +26291,11 @@ the_AT0
 credibility_NN1
 of_PRF
 the_AT0
-nationalist_AJ0-NN1
+nationalist_AJ0
 urban_AJ0
 leadership_NN1
 The_AT0
-Village_NN1-NP0
+Village_NN1
 Leagues_NN2
 posed_VVD
 a_AT0
@@ -26310,7 +26310,7 @@ Bank_NP0
 villages_NN2
 Jordan_NP0
 warned_VVD
-Village_NN1-NP0
+Village_NN1
 League_NN1
 followers_NN2
 that_CJT
@@ -26326,7 +26326,7 @@ supported_VVN
 Jordan_NP0
 against_PRP
 the_AT0
-Village_NN1-NP0
+Village_NN1
 Leagues_NN2
 since_CJS
 its_DPS
@@ -26372,11 +26372,11 @@ collapse_NN1
 of_PRF
 the_AT0
 Jordanian-PLO_NP0
-accord_VVI
+accord_NN1
 in_PRP
 1986_CRD
 many_DT0
-Village_NN1-NP0
+Village_NN1
 Leaguers_NN2
 were_VBD
 rehabilitated_VVN
@@ -26429,7 +26429,7 @@ Israeli_AJ0
 land_NN1
 seizure_NN1
 also_AV0
-politicized_AJ0-VVD
+politicized_VVD
 the_AT0
 rural_AJ0
 population_NN1
@@ -26456,7 +26456,7 @@ possession_NN1
 of_PRF
 land_NN1
 The_AT0
-spread_NN1
+spread_VVN
 of_PRF
 nationalism_NN1
 into_PRP
@@ -26474,7 +26474,7 @@ place_NN1
 since_CJS
 1967_CRD
 The_AT0
-shift_NN1-VVB
+shift_NN1
 from_PRP
 the_AT0
 main_AJ0
@@ -26527,7 +26527,7 @@ a_AT0
 rural_AJ0
 proletariat_NN1
 weakened_VVN
-hamula_NN1-AJ0
+hamula_NN1
 patrilineal_AJ0
 extended_VVN
 family_NN1
@@ -26652,7 +26652,7 @@ the_AT0
 Israeli_AJ0
 union_NN1
 the_AT0
-Histadrut_NN1-NP0
+Histadrut_NP0
 but_CJC
 received_VVD
 no_AT0
@@ -26664,7 +26664,7 @@ it_PNP
 As_CJS
 a_AT0
 result_NN1
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 migrant_NN1
 workers_NN2
 routinely_AV0
@@ -26684,7 +26684,7 @@ Some_DT0
 workers_NN2
 turned_VVD
 to_TO0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 unions_NN2
 although_CJS
 these_DT0
@@ -26700,7 +26700,7 @@ in_PRP
 Gaza_NP0
 had_VHD
 been_VBN
-closed_VVD
+closed_VVN
 down_AVP
 by_PRP
 Israel_NP0
@@ -26859,12 +26859,12 @@ the_AT0
 Workers_NN2
 '_POS
 Unity_NN1
-Bloc_NP0-NN1
+Bloc_NP0
 the_AT0
 Progressive_AJ0
 Workers_NN2
 '_POS
-Bloc_NP0-NN1
+Bloc_NP0
 and_CJC
 the_AT0
 Workers_NN2
@@ -26907,7 +26907,7 @@ and_CJC
 the_AT0
 unions_NN2
 temporarily_AV0
-closed_VVD
+closed_VVN
 down_AVP
 Early_AJ0
 the_AT0
@@ -27063,7 +27063,7 @@ during_PRP
 the_AT0
 heyday_NN1
 of_PRF
-Arab_AJ0-NN1
+Arab_AJ0
 nationalism_NN1
 from_PRP
 the_AT0
@@ -27180,7 +27180,7 @@ the_AT0
 student_NN1
 elections_NN2
 at_PRP
-Birzeit_NP0-NN1
+Birzeit_NP0
 the_AT0
 Islamic_AJ0
 bloc_NN1
@@ -27230,7 +27230,7 @@ per_UNC
 cent_UNC
 of_PRF
 the_AT0
-Birzeit_NP0-NN1
+Birzeit_NP0
 student_NN1
 vote_NN1
 85_CRD
@@ -27281,7 +27281,7 @@ the_AT0
 Muslim_AJ0
 revival_NN1
 shocking_AJ0
-Growing_VVG-AJ0
+Growing_VVG
 up_AVP
 in_PRP
 the_AT0
@@ -27388,7 +27388,7 @@ establishment_NN1
 of_PRF
 senior_AJ0
 Muslim_AJ0
-divines_NN2-VVZ
+divines_NN2
 in_PRP
 the_AT0
 territories_NN2
@@ -27438,7 +27438,7 @@ in_PRP
 Hebron_NP0
 as_CJS
 his_DPS
-mayoral_AJ0-NN1
+mayoral_AJ0
 leadership_NN1
 came_VVD
 under_PRP
@@ -27503,7 +27503,7 @@ but_CJC
 violent_AJ0
 like_PRP
 Islamic_AJ0
-Jihad_NP0-NN1
+Jihad_NP0
 which_DTQ
 had_VHD
 broken_VVN
@@ -27520,7 +27520,7 @@ the_AT0
 Iranian_AJ0
 revolution_NN1
 Islamic_AJ0
-Jihad_NP0-NN1
+Jihad_NP0
 launched_VVN
 attacks_NN2
 on_PRP
@@ -27562,7 +27562,7 @@ and_CJC
 the_AT0
 murder_NN1
 of_PRF
-IDF_NN1-NP0
+IDF_NN1
 Captain_NP0
 Ron_NP0
 Tal_NP0
@@ -27576,7 +27576,7 @@ October_NP0
 1987_CRD
 the_AT0
 army_NN1
-clashed_VVN-VVD
+clashed_VVN
 with_PRP
 an_AT0
 armed_AJ0
@@ -27589,7 +27589,7 @@ arrested_VVN
 over_PRP
 fifty_CRD
 Islamic_AJ0
-Jihad_NP0-NN1
+Jihad_NP0
 suspects_VVZ
 and_CJC
 uncovered_AJ0
@@ -27860,7 +27860,7 @@ under_PRP
 occupation_NN1
 to_TO0
 translate_VVI
-sumud_NN1-VVB
+sumud_NN1
 the_AT0
 idea_NN1
 of_PRF
@@ -27913,7 +27913,7 @@ a_AT0
 response_NN1
 to_TO0
 the_AT0
-damaging_VVG-AJ0
+damaging_AJ0
 effect_NN1
 of_PRF
 external_AJ0
@@ -27955,7 +27955,7 @@ territories_NN2
 working_VVG
 in_PRP
 the_AT0
-Gulf_NP0-NN1
+Gulf_NN1
 and_CJC
 elsewhere_AV0
 It_PNP
@@ -28156,7 +28156,7 @@ the_AT0
 corrosive_AJ0
 divisive_AJ0
 and_CJC
-corrupting_VVG-AJ0
+corrupting_AJ0
 effect_NN1
 of_PRF
 money_NN1
@@ -28222,7 +28222,7 @@ The_AT0
 services_NN2
 provided_VVN
 by_PRP
-UNRWA_NP0-NN1
+UNRWA_NP0
 in_PRP
 health_NN1
 education_NN1
@@ -28250,7 +28250,7 @@ were_VBD
 administered_VVN
 by_PRP
 largely_AV0
-non-camp_NN1-AJ0
+non-camp_NN1
 refugees_NN2
 of_PRF
 higher_AJC
@@ -28267,7 +28267,7 @@ already_AV0
 created_VVN
 a_AT0
 profoundly_AV0
-damaging_VVG-AJ0
+damaging_AJ0
 sense_NN1
 of_PRF
 dependency_NN1
@@ -28308,7 +28308,7 @@ the_AT0
 camps_NN2
 but_CJC
 in_PRP
-UNRWA_NP0-NN1
+UNRWA_NP0
 's_POS
 headquarters_NN0
 in_PRP
@@ -28331,7 +28331,7 @@ example_NN1
 both_AV0
 Unicef_NP0
 and_CJC
-UNDP_NP0-NN1
+UNDP_NP0
 provided_VVN
 money_NN1
 for_PRP
@@ -28384,7 +28384,7 @@ The_AT0
 comparatively_AV0
 large_AJ0
 sums_NN2
-involved_AJ0
+involved_VVN
 conferred_VVN
 on_PRP
 all_DT0
@@ -28519,8 +28519,8 @@ external_AJ0
 funding_NN1
 agency_NN1
 even_AV0
-Palestinian_AJ0-NN1
-nationalist_AJ0-NN1
+Palestinian_AJ0
+nationalist_AJ0
 sources_NN2
 necessarily_AV0
 implied_VVN
@@ -28637,11 +28637,11 @@ be_VBI
 shunned_VVN
 by_PRP
 many_DT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 development_NN1
 workers_NN2
 The_AT0
-damaging_VVG-AJ0
+damaging_AJ0
 effects_NN2
 of_PRF
 external_AJ0
@@ -28654,7 +28654,7 @@ in_PRP
 the_AT0
 case_NN1
 of_PRF
-Zubaydat_NP0-NN1
+Zubaydat_NP0
 a_AT0
 poor_AJ0
 village_NN1
@@ -28743,7 +28743,7 @@ pump_NN1
 The_AT0
 case_NN1
 of_PRF
-Zubaydat_NP0-NN1
+Zubaydat_NP0
 revealed_VVN
 other_AJ0
 problems_NN2
@@ -28758,9 +28758,9 @@ Although_CJS
 the_AT0
 villagers_NN2
 of_PRF
-Zubaydat_NP0-NN1
+Zubaydat_NP0
 significantly_AV0
-increased_AJ0
+increased_VVN
 their_DPS
 productivity_NN1
 through_PRP
@@ -28811,14 +28811,14 @@ apply_VVI
 strict_AJ0
 limits_NN2
 to_TO0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 produce_VVI
 It_PNP
 made_VVN
 the_AT0
 marketing_NN1
 of_PRF
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 goods_NN2
 inside_PRP
 Israel_NP0
@@ -28849,7 +28849,7 @@ It_PNP
 would_VM0
 not_XX0
 allow_VVI
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 goods_NN2
 to_TO0
 be_VBI
@@ -28871,7 +28871,7 @@ had_VHD
 to_TO0
 compete_VVI
 with_PRP
-subsidized_AJ0-VVD
+subsidized_VVD
 Israeli_AJ0
 produce_VVI
 in_PRP
@@ -28898,12 +28898,12 @@ encouraged_VVN
 the_AT0
 export_NN1
 of_PRF
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 agricultural_AJ0
 produce_VVI
 to_TO0
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 This_DT0
 too_AV0
@@ -28963,7 +28963,7 @@ to_TO0
 development_NN1
 lay_VVD
 within_PRP
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 society_NN1
 itself_PNX
 Most_DT0
@@ -29139,7 +29139,7 @@ result_NN1
 a_AT0
 number_NN1
 of_PRF
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 intellectuals_NN2
 and_CJC
 development_NN1
@@ -29295,7 +29295,7 @@ it_PNP
 was_VBD
 found_VVD
 that_CJT
-overall_AJ0-NN1
+overall_AJ0
 the_AT0
 infant_NN1
 mortality_NN1
@@ -29383,14 +29383,14 @@ number_NN1
 of_PRF
 patients_NN2
 on_PRP
-average_AJ0-NN1
+average_AJ0
 100_CRD
 patients_NN2
 per_UNC
 day_NN1
 while_CJS
 in_PRP
-UNRWA_NP0-NN1
+UNRWA_NP0
 clinics_NN2
 a_AT0
 doctor_NN1
@@ -29791,7 +29791,7 @@ forming_VVG
 the_AT0
 Union_NN1
 of_PRF
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 Medical_AJ0
 Relief_NN1
 Committees_NN2
@@ -29918,7 +29918,7 @@ Union_NN1
 made_VVN
 its_DPS
 assistance_NN1
-conditional_AJ0-NN1
+conditional_AJ0
 on_PRP
 each_DT0
 community_NN1
@@ -29943,7 +29943,7 @@ by_PRP
 the_AT0
 Union_NN1
 to_TO0
-act_VVI
+act_NN1
 as_CJS
 local_AJ0
 health_NN1
@@ -30071,7 +30071,7 @@ of_PRF
 the_AT0
 four_CRD
 major_AJ0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 parties_NN2
 Fatah_NP0
 the_AT0
@@ -30135,7 +30135,7 @@ based_VVN
 and_CJC
 normally_AV0
 middle_NN1
-class-run_AJ0-NN1
+class-run_AJ0
 charitable_AJ0
 societies_NN2
 dispensing_VVG
@@ -30261,14 +30261,14 @@ social_AJ0
 programmes_NN2
 with_PRP
 no_AT0
-nationalist_AJ0-NN1
+nationalist_AJ0
 content_NN1
 failed_VVN
 to_TO0
 attract_VVI
 women_NN2
 while_CJS
-nationalist_AJ0-NN1
+nationalist_AJ0
 programmes_NN2
 quickly_AV0
 triggered_VVN
@@ -30467,7 +30467,7 @@ farmers_NN2
 like_PRP
 those_DT0
 in_PRP
-Zubaydat_NP0-NN1
+Zubaydat_NP0
 had_VHD
 encountered_VVN
 Agriculture_NN1
@@ -30620,7 +30620,7 @@ the_AT0
 socio-economic_AJ0
 realities_NN2
 of_PRF
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 society_NN1
 Of_PRF
 these_DT0
@@ -30684,7 +30684,7 @@ power_NN1
 of_PRF
 an_AT0
 increasingly_AV0
-politicized_AJ0-VVD
+politicized_VVD
 peasantry_NN1
 By_PRP
 1986_CRD
@@ -30700,7 +30700,7 @@ active_AJ0
 members_NN2
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 Agricultural_AJ0
 Relief_NN1
 Committees_NN2
@@ -30744,7 +30744,7 @@ the_AT0
 longer_AV0
 term_NN1
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 Agricultural_AJ0
 Relief_NN1
 Committees_NN2
@@ -30789,7 +30789,7 @@ of_PRF
 occupation_NN1
 than_CJS
 the_AT0
-present_AJ0-NN1
+present_AJ0
 one_CRD
 in_PRP
 which_DTQ
@@ -30948,7 +30948,7 @@ also_AV0
 began_VVD
 to_TO0
 produce_VVI
-pickled_VVD-AJ0
+pickled_AJ0
 vegetables_NN2
 for_PRP
 retail_AJ0
@@ -31083,7 +31083,7 @@ labour_NN1
 force_NN1
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 uplands_NN2
 provided_VVN
 seasonal_AJ0
@@ -31094,7 +31094,7 @@ coastal_AJ0
 plain_AJ0
 for_PRP
 Jewish_AJ0
-Arab_AJ0-NN1
+Arab_AJ0
 and_CJC
 other_AJ0
 industrial_AJ0
@@ -31233,7 +31233,7 @@ the_AT0
 Uprising_NN1
 with_PRP
 curfews_NN2
-blockades_NN2-VVZ
+blockades_VVZ
 and_CJC
 violent_AJ0
 policing_NN1
@@ -31273,7 +31273,7 @@ education_NN1
 after_PRP
 schools_NN2
 were_VBD
-closed_VVD
+closed_VVN
 maintaining_VVG
 a_AT0
 watch_VVI
@@ -31317,7 +31317,7 @@ features_NN2
 The_AT0
 Unified_AJ0
 Leadership_NN1
-UNLU_NP0-NN1
+UNLU_NP0
 claimed_VVD
 these_DT0
 are_VBB
@@ -31347,7 +31347,7 @@ form_NN1
 of_PRF
 organisation_NN1
 of_PRF
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 society_NN1
 These_DT0
 structures_NN2
@@ -31372,9 +31372,9 @@ implied_VVN
 disengagement_NN1
 from_PRP
 Israel_NP0
-UNLU_NP0-NN1
+UNLU_NP0
 repeatedly_AV0
-stressed_VVD
+stressed_VVN
 the_AT0
 need_VVB
 for_PRP
@@ -31396,7 +31396,7 @@ Israeli_AJ0
 goods_NN2
 to_TO0
 avoid_VVI
-labouring_VVG-AJ0
+labouring_AJ0
 in_PRP
 Israel_NP0
 and_CJC
@@ -31420,7 +31420,7 @@ of_PRF
 receiving_VVG
 PLO_NP0
 money_NN1
-UNLU_NP0-NN1
+UNLU_NP0
 answered_VVD
 The_AT0
 reality_NN1
@@ -31540,7 +31540,7 @@ of_PRF
 this_DT0
 new_AJ0
 found_VVD
-self-reliance_NN1-AJ0
+self-reliance_NN1
 which_DTQ
 Israel_NP0
 found_VVD
@@ -31605,7 +31605,7 @@ also_AV0
 wrought_VVN
 a_AT0
 fundamental_AJ0
-shift_NN1-VVB
+shift_NN1
 in_PRP
 power_NN1
 between_PRP
@@ -31613,12 +31613,12 @@ the_AT0
 PLO_NP0
 and_CJC
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 and_CJC
 within_PRP
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 community_NN1
 between_PRP
 the_AT0
@@ -31646,7 +31646,7 @@ diplomatic_AJ0
 struggles_NN2
 within_PRP
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 world_NN1
 and_CJC
 in_PRP
@@ -31721,8 +31721,8 @@ the_AT0
 Jerusalem_NP0
 al_UNC
 Fajr_NP0
-English_AJ0-NN1
-Weekly_NN1-AJ0
+English_AJ0
+Weekly_AJ0
 commented_VVD
 on_PRP
 the_AT0
@@ -31757,7 +31757,7 @@ To_TO0
 begin_VVI
 with_PRP
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 leadership_NN1
 must_VM0
 conduct_NN1
@@ -31776,7 +31776,7 @@ of_PRF
 our_DPS
 position_NN1
 at_PRP
-present_AJ0-NN1
+present_AJ0
 and_CJC
 where_AVQ
 we_PNP
@@ -31795,7 +31795,7 @@ PLO_NP0
 's_POS
 propensity_NN1
 to_TO0
-act_VVI
+act_NN1
 against_PRP
 local_AJ0
 opinion_NN1
@@ -31969,7 +31969,7 @@ PLO_NP0
 After_PRP
 the_AT0
 Uprising_NN1
-UNLU_NP0-NN1
+UNLU_NP0
 was_VBD
 not_XX0
 afraid_AJ0
@@ -31989,7 +31989,7 @@ Bank_NP0
 in_PRP
 July_NP0
 1988_CRD
-UNLU_NP0-NN1
+UNLU_NP0
 publicly_AV0
 warned_VVD
 the_AT0
@@ -32042,7 +32042,7 @@ better_AJC
 continue_VVI
 their_DPS
 struggle_NN1
-UNLU_NP0-NN1
+UNLU_NP0
 would_VM0
 not_XX0
 have_VHB
@@ -32080,10 +32080,10 @@ of_PRF
 negotiations_NN2
 on_PRP
 a_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 Jordanian_AJ0
 confederation_NN1
-UNLU_NP0-NN1
+UNLU_NP0
 was_VBD
 quick_AJ0
 to_TO0
@@ -32134,7 +32134,7 @@ Schultz_NP0
 For_PRP
 this_DT0
 reason_NN1
-UNLU_NP0-NN1
+UNLU_NP0
 cautioned_VVN
 it_PNP
 to_TO0
@@ -32161,7 +32161,7 @@ This_DT0
 too_AV0
 indicated_VVN
 how_AVQ
-UNLU_NP0-NN1
+UNLU_NP0
 now_AV0
 led_VVD
 and_CJC
@@ -32184,7 +32184,7 @@ was_VBD
 inevitable_AJ0
 that_CJT
 the_AT0
-shift_NN1-VVB
+shift_NN1
 of_PRF
 leadership_NN1
 from_PRP
@@ -32192,7 +32192,7 @@ the_AT0
 PLO_NP0
 outside_PRP
 to_TO0
-UNLU_NP0-NN1
+UNLU_NP0
 should_VM0
 give_VVI
 rise_NN1
@@ -32202,14 +32202,14 @@ of_PRF
 a_AT0
 split_VVN
 in_PRP
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 ranks_NN2
 between_PRP
 the_AT0
 inside_PRP
 and_CJC
 outside_PRP
-UNLU_NP0-NN1
+UNLU_NP0
 communiqu\xc3\xa9s_NN2
 however_AV0
 were_VBD
@@ -32229,7 +32229,7 @@ the_AT0
 PLO_NP0
 represented_VVN
 all_DT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 people_NN0
 both_AV0
 outside_PRP
@@ -32382,7 +32382,7 @@ in_PRP
 Even_AV0
 as_CJS
 an_AT0
-interim_AJ0-NN1
+interim_AJ0
 objective_NN1
 the_AT0
 idea_NN1
@@ -32463,8 +32463,8 @@ objectives_NN2
 of_PRF
 the_AT0
 Uprising_NN1
-Repeated_AJ0-VVN
-UNLU_NP0-NN1
+Repeated_AJ0
+UNLU_NP0
 communiqu\xc3\xa9s_NN2
 called_VVN
 for_PRP
@@ -32488,11 +32488,11 @@ the_AT0
 establishment_NN1
 of_PRF
 a_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 state_NN1
 They_PNP
-stressed_VVD
-UNLU_NP0-NN1
+stressed_VVN
+UNLU_NP0
 's_POS
 moderate_AJ0
 demands_NN2
@@ -32542,7 +32542,7 @@ the_AT0
 PLO_NP0
 leadership_NN1
 and_CJC
-UNLU_NP0-NN1
+UNLU_NP0
 but_CJC
 more_AV0
 perhaps_AV0
@@ -32568,7 +32568,7 @@ United_NP0
 States_NP0
 and_CJC
 the_AT0
-Arab_AJ0-NN1
+Arab_AJ0
 League_NN1
 than_CJS
 were_VBD
@@ -32591,7 +32591,7 @@ was_VBD
 hardening_VVG
 rather_AV0
 than_CJS
-softening_NN1
+softening_VVG
 There_EX0
 were_VBD
 now_AV0
@@ -32746,7 +32746,7 @@ the_AT0
 property_NN1
 of_PRF
 the_AT0
-Palestinian_AJ0-NN1
+Palestinian_AJ0
 middle_NN1
 classes_NN2
 in_PRP
@@ -32788,13 +32788,13 @@ the_AT0
 popular_AJ0
 committees_NN2
 are_VBB
-devoted_AJ0-VVN
+devoted_AJ0
 to_TO0
 encouraging_AJ0
 the_AT0
 development_NN1
 of_PRF
-self-reliance_NN1-AJ0
+self-reliance_NN1
 and_CJC
 local_AJ0
 power_NN1
@@ -32916,7 +32916,7 @@ the_AT0
 central_AJ0
 theme_NN1
 of_PRF
-self-reliance_NN1-AJ0
+self-reliance_NN1
 Some_DT0
 particularly_AV0
 within_PRP
