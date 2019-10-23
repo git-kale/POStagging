@@ -1,0 +1,55 @@
+The training data consist of 115 files which consist of data in format :
+.
+The training corpus consist of following tags :
+0. AT0    1. NN2    2. AV0    3. NN1    4. PRP    5. VHZ
+1. NN2    2. AV0    3. NN1    4. PRP    5. VHZ    6. DT0
+2. AV0    3. NN1    4. PRP    5. VHZ    6. DT0    7. PRF
+3. NN1    4. PRP    5. VHZ    6. DT0    7. PRF    8. VHB
+4. PRP    5. VHZ    6. DT0    7. PRF    8. VHB    9. CRD
+5. VHZ    6. DT0    7. PRF    8. VHB    9. CRD    10. TO0
+6. DT0    7. PRF    8. VHB    9. CRD    10. TO0    11. VVI
+7. PRF    8. VHB    9. CRD    10. TO0    11. VVI    12. VVN
+8. VHB    9. CRD    10. TO0    11. VVI    12. VVN    13. CJC
+9. CRD    10. TO0    11. VVI    12. VVN    13. CJC    14. AVP
+10. TO0    11. VVI    12. VVN    13. CJC    14. AVP    15. VVG
+11. VVI    12. VVN    13. CJC    14. AVP    15. VVG    16. EX0
+12. VVN    13. CJC    14. AVP    15. VVG    16. EX0    17. VBB
+13. CJC    14. AVP    15. VVG    16. EX0    17. VBB    18. AJ0
+14. AVP    15. VVG    16. EX0    17. VBB    18. AJ0    19. VBZ
+15. VVG    16. EX0    17. VBB    18. AJ0    19. VBZ    20. CJT
+16. EX0    17. VBB    18. AJ0    19. VBZ    20. CJT    21. POS
+17. VBB    18. AJ0    19. VBZ    20. CJT    21. POS    22. PNP
+18. AJ0    19. VBZ    20. CJT    21. POS    22. PNP    23. VVZ
+19. VBZ    20. CJT    21. POS    22. PNP    23. VVZ    24. CJS
+20. CJT    21. POS    22. PNP    23. VVZ    24. CJS    25. DPS
+21. POS    22. PNP    23. VVZ    24. CJS    25. DPS    26. PNQ
+22. PNP    23. VVZ    24. CJS    25. DPS    26. PNQ    27. VVB
+23. VVZ    24. CJS    25. DPS    26. PNQ    27. VVB    28. PNI
+24. CJS    25. DPS    26. PNQ    27. VVB    28. PNI    29. DTQ
+25. DPS    26. PNQ    27. VVB    28. PNI    29. DTQ    30. NN0
+26. PNQ    27. VVB    28. PNI    29. DTQ    30. NN0    31. XX0
+27. VVB    28. PNI    29. DTQ    30. NN0    31. XX0    32. VBN
+28. PNI    29. DTQ    30. NN0    31. XX0    32. VBN    33. VVD
+29. DTQ    30. NN0    31. XX0    32. VBN    33. VVD    34. NP0
+30. NN0    31. XX0    32. VBN    33. VVD    34. NP0    35. UNC
+31. XX0    32. VBN    33. VVD    34. NP0    35. UNC    36. VBD
+32. VBN    33. VVD    34. NP0    35. UNC    36. VBD    37. ORD
+33. VVD    34. NP0    35. UNC    36. VBD    37. ORD    38. AVQ
+34. NP0    35. UNC    36. VBD    37. ORD    38. AVQ    39. VM0
+35. UNC    36. VBD    37. ORD    38. AVQ    39. VM0    40. AJS
+36. VBD    37. ORD    38. AVQ    39. VM0    40. AJS    41. VBI
+37. ORD    38. AVQ    39. VM0    40. AJS    41. VBI    42. VHI
+38. AVQ    39. VM0    40. AJS    41. VBI    42. VHI    43. VDZ
+39. VM0    40. AJS    41. VBI    42. VHI    43. VDZ    44. ZZ0
+40. AJS    41. VBI    42. VHI    43. VDZ    44. ZZ0    45. VDN
+41. VBI    42. VHI    43. VDZ    44. ZZ0    45. VDN    46. VDB
+42. VHI    43. VDZ    44. ZZ0    45. VDN    46. VDB    47. PNX
+43. VDZ    44. ZZ0    45. VDN    46. VDB    47. PNX    48. VBG
+44. ZZ0    45. VDN    46. VDB    47. PNX    48. VBG    49. VHG
+45. VDN    46. VDB    47. PNX    48. VBG    49. VHG    50. VHD
+46. VDB    47. PNX    48. VBG    49. VHG    50. VHD    51. ITJ
+47. PNX    48. VBG    49. VHG    50. VHD    51. ITJ    52. AJC
+48. VBG    49. VHG    50. VHD    51. ITJ    52. AJC    53. VDD
+49. VHG    50. VHD    51. ITJ    52. AJC    53. VDD    54. VHN
+50. VHD    51. ITJ    52. AJC    53. VDD    54. VHN    55. VDI    56. VDG    
+Out of the words in corpus 3488452 words had single tag 141573 words had double tag 0 words had ambiguity in their tag.
