@@ -61,7 +61,7 @@ def process_file(file_name):
     root = tree.getroot()
     
     #fetching all the word tags inside root
-    strings = root.iter('w')
+    strings = root.iter('s')
     
     #empty processed sting to store words in word_POS format
     processed_string = ''
@@ -97,23 +97,6 @@ for fi in all_filenames:
     process_file(fi)
 time_taken = time() - start
 
-# def print_confusion_matrix(confusion_matrix, class_names, figsize = (10,7), fontsize=14):
-#     df_cm = pd.DataFrame(
-#         confusion_matrix, index=class_names, columns=class_names, 
-#     )
-#     fig = plt.figure(figsize=figsize)
-#     try:
-#         heatmap = sns.heatmap(df_cm, annot=True, fmt="d")
-#     except ValueError:
-#         raise ValueError("Confusion matrix values must be integers.")
-#     heatmap.yaxis.set_ticklabels(heatmap.yaxis.get_ticklabels(), rotation=0, ha='right', fontsize=fontsize)
-#     heatmap.xaxis.set_ticklabels(heatmap.xaxis.get_ticklabels(), rotation=45, ha='right', fontsize=fontsize)
-#     plt.ylabel('True label')
-#     plt.xlabel('Predicted label')
-    
-# print_confusion_matrix(confusion_matrix,taglist)
-# #plt.show()
-
 for i in range(0,N):
     sum = 0
     for j in range(0,N):
@@ -121,8 +104,6 @@ for i in range(0,N):
     if(sum!=0):
         for j in range(0,N):
             confusion_matrix[i][j] = confusion_matrix[i][j]/sum
-
-#plt.imshow(confusion_matrix, cmap='hot', interpolation='nearest')
 sns.heatmap(confusion_matrix)
 plt.show()
 
